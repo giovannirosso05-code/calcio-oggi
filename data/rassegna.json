@@ -1,7 +1,18 @@
 {
-  "aggiornato": "2026-10-16T21:01:49.463638+00:00",
+  "aggiornato": "2026-10-16T23:32:41.339729+00:00",
   "totale": 75,
   "articoli": [
+    {
+      "id": "257b3fe8d7",
+      "titolo": "Gasperini alleggerisce la Roma in vista del Genoa: \"Niente pressioni da scudetto o Champions\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/gasperini-i-ridimensiona-i-roma-vista-genoa-niente-pressioni-scudetto-champions-2284042",
+      "estratto": "Consueta conferenza stampa della vigilia in casa Roma, a un giorno dal match col Genoa di questo sabato sera.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 90,
+      "pubblicato": "2026-10-16T22:45:15+00:00"
+    },
     {
       "id": "003d3953eb",
       "titolo": "Viviano sbotta dopo Fiorentina-Inter: \"Ma come caz... si fa a dare rigore contro Sommer?\"",
@@ -14,26 +25,26 @@
       "pubblicato": "2024-01-29T16:09:02+00:00"
     },
     {
-      "id": "d91d069393",
-      "titolo": "Giordano verso Juventus-Lazio: \"Solo tre calciatori di Gattuso giocherebbero nei bianconeri\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/giordano-juventus-lazio-solo-calciatori-gattuso-giocherebbero-bianconeri-2284104",
-      "estratto": "A poco più di 48 ore da Juventus-Lazio, Bruno Giordano ha analizzato ai microfoni di Radiosei le caratteristiche della squadra bianconera e le opportunità per la formazione di Gattuso: \"La sensazione è che la Juventus sia una squadra che sbilancia mo",
+      "id": "dc513ffa96",
+      "titolo": "Napoli, Allegri predica calma prima di Venezia. \"Troveremo le soluzioni ai nostri problemi\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/napoli-allegri-predica-calma-venezia-troveremo-soluzioni-problemi-2284041",
+      "estratto": "Il Napoli vuole lasciarsi alle spalle la sconfitta contro il Villarreal in Champions League e ripartire dal campionato.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-16T20:38:52+00:00"
+      "pubblicato": "2026-10-16T22:49:00+00:00"
     },
     {
-      "id": "478e7fff5c",
-      "titolo": "Chivu avvisa l'Inter: \"Contro il Bologna di Palladino bisogna correre in un certo modo\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/chivu-avvisa-inter-contro-bologna-palladino-bisogna-correre-modo-2284103",
-      "estratto": "Mister Cristian Chivu ha avvisato la sua Inter in vista della sfida di domani col Bologna, valida per il settimo turno di Serie A.",
+      "id": "bc0e18d2cd",
+      "titolo": "\"Non sono il mago delle salvezze\". Nicola si presenta al Venezia e questo sabato c'è il Napoli",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/non-mago-salvezze-nicola-presenta-venezia-sabato-napoli-2284029",
+      "estratto": "Si è tenuta questo venerdì la conferenza stampa di presentazione di mister Davide Nicola, chiamato a raccogliere l'eredità di Giovanni Stroppa sulla panchina del Venezia.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-16T20:30:14+00:00"
+      "pubblicato": "2026-10-16T22:42:20+00:00"
     },
     {
       "id": "5ed181f084",
@@ -113,17 +124,6 @@
       "pubblicato": "2026-10-16T13:15:39+00:00"
     },
     {
-      "id": "ceed8e47b1",
-      "titolo": "\"Abituato a certi livelli\": Inzaghi e l'ex Juve per trascinare il Palermo nella corsa alla Serie A",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/palermo/2026/10/16-151934762/abituato_a_certi_livelli_inzaghi_e_l_ex_juve_per_trascinare_il_palermo_nella_corsa_alla_serie_a/",
-      "estratto": "Il tecnico dei rosanero ha parlato in conferenza stampa alla vigilia della gara contro il Mantova: un match, quello del Martelli, che vale gi&agrave; oro",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-16T12:32:00+00:00"
-    },
-    {
       "id": "9d75e8a9ef",
       "titolo": "Lippi: \"Napoli? Mazzarri sta facendo di necessità virtù, ecco la strada da seguire\"",
       "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/29-01-2024/lippi-mazzarri-sta-facendo-di-necessita-virtu-ecco-la-strada-da-seguire.shtml",
@@ -177,17 +177,6 @@
       "citazione": true,
       "punteggio": 70,
       "pubblicato": "2023-11-11T07:46:25+00:00"
-    },
-    {
-      "id": "8f703404a7",
-      "titolo": "Panichelli ricorda l'infortunio: \"Non smettevo di piangere. Scaloni mi è stato vicino\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/panichelli-ricorda-infortunio-non-smettevo-piangere-scaloni-vicino-2284114",
-      "estratto": "Trascinatore dello Strasburgo e tra i migliori marcatori della Ligue 1, prima che un grave infortunio interrompesse bruscamente il suo momento magico.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 60,
-      "pubblicato": "2026-10-16T20:56:11+00:00"
     },
     {
       "id": "24af150d1f",
@@ -245,6 +234,61 @@
       "pubblicato": "2023-11-09T07:50:05+00:00"
     },
     {
+      "id": "bfc112335e",
+      "titolo": "Elyaz Zidane si fa strada in Ligue 2: \"Volevo scoprire un nuovo campionato, scelta giusta\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/elyaz-zidane-2284082",
+      "estratto": "Elyaz Zidane ha scelto una strada diversa rispetto ai fratelli e sta costruendo il proprio percorso nel calcio.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-16T22:26:15+00:00"
+    },
+    {
+      "id": "1ab35f69c1",
+      "titolo": "Latina, D’Apuzzo rassicura i tifosi: \"Stipendi e contributi sono stati pagati\"",
+      "url": "https://www.tuttomercatoweb.com/serie-c/latina-d-apuzzo-rassicura-tifosi-stipendi-contributi-pagati-2284158",
+      "estratto": "Tranquillità sul fronte economico e caso pali verso la chiusura.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-16T22:19:00+00:00"
+    },
+    {
+      "id": "6eac3d0431",
+      "titolo": "Carrick chiude il caso Lisandro Martinez: \"Ha riconosciuto l'errore, è tutto superato\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/carrick-chiude-lisandro-martinez-2284113",
+      "estratto": "Le parole di Lisandro Martínez dopo la sconfitta contro l’Atletico Madrid avevano fatto discutere, ma il difensore argentino non è stato escluso dal gruppo del Manchester United.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-16T22:12:17+00:00"
+    },
+    {
+      "id": "2ef2033af5",
+      "titolo": "Frosinone, Raimondo: \"Notte indimenticabile. Alvini e la squadra mi fanno crescere\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/frosinone-raimondo-2284170",
+      "estratto": "Al termine di Frosinone-Sassuolo ha parlato nella sala stampa del Benito Stirpe l'autore della tripletta Antonio Raimondo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-16T22:10:20+00:00"
+    },
+    {
+      "id": "6e716dae18",
+      "titolo": "Alvini, dal Tuttocuoio al \"miracolo\" Frosinone: \"Raimondo merito di Castagnini\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/16-151945195/alvini_dal_tuttocuoio_al_miracolo_frosinone_raimondo_merito_di_castagnini/",
+      "estratto": "L'allenatore di Fucecchio commenta il 4-2 contro il Sassuolo che proietta i ciociari al quarto posto in classifica",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-16T21:35:49+00:00"
+    },
+    {
       "id": "593eb43962",
       "titolo": "Simeone, amore Toro: \"Potevo andare al River Plate. Vi dico un nome che mi ha sorpreso\"",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/16-151937858/simeone_amore_toro_potevo_andare_al_river_plate_vi_dico_un_nome_che_mi_ha_sorpreso/",
@@ -289,28 +333,6 @@
       "pubblicato": "2026-10-16T12:55:22+00:00"
     },
     {
-      "id": "4f909b02f7",
-      "titolo": "Gasperini: \"Endrick come Gatti, come stanno Dybala e Kone. Genoa pi&ugrave; organizzato del Real Madrid\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/16-151932957/gasperini_endrick_come_gatti_come_stanno_dybala_e_kone_genoa_pi_organizzato_del_real_madrid/",
-      "estratto": "Le dichiarazioni dell'allenatore in conferenza stampa: \"Come Garcia dopo Juve-Roma? Nessuna pressione scudetto\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-16T12:42:21+00:00"
-    },
-    {
-      "id": "a472118dce",
-      "titolo": "L'Atletico Madrid &egrave; pazzo di David: \"Ha gi&agrave; convinto Simeone a riscattarlo\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/atletico-madrid/2026/10/16-151934759/l_atletico_madrid_pazzo_di_david_ha_gi_convinto_simeone_a_riscattarlo/",
-      "estratto": "L'attaccante, ceduto dalla Juve al club biancorosso in prestito con diritto di opzione, &egrave; partito benissimo con i Colchoneros",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-16T12:35:48+00:00"
-    },
-    {
       "id": "44b62e8753",
       "titolo": "Spalletti: \"Seconda Panchina d'oro? Per me sono già troppe...\"",
       "url": "https://video.gazzetta.it/video-spalletti-seconda-panchina-d-oro-per-me-sono-gia-troppe/ca8e6539-40ec-48d8-bcc3-699d1adbcxlk",
@@ -344,15 +366,59 @@
       "pubblicato": "2023-11-09T07:35:51+00:00"
     },
     {
-      "id": "e4f2789679",
-      "titolo": "Serie A, la classifica aggiornata: il Frosinone aggancia il Cagliari sopra Milan, Juve e Como",
-      "url": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-frosinone-aggancia-cagliari-milan-juve-como-2284139",
-      "estratto": "La vittoria per 4-2 contro il Sassuolo nell'anticipo della settima giornata di Serie A permette al Frosinone di salire a quota 13 e raggiungere il Cagliari, portandosi al quinto posto in classifica con una partita in più rispetto ai sardi.",
+      "id": "e72c73d761",
+      "titolo": "Chivu promuove Bonny, ma oltre a Lautaro perde Pavard: Inter a Bologna in emergenza",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/chivu-promuove-bonny-lautaro-perde-pavard-inter-emergenza-vigilia-bologna-2284048",
+      "estratto": "Intervenuto in conferenza stampa alla vigilia della trasferta contro il Bologna, mister Cristian Chivu è tornato sulla sconfitta in Champions League contro il Bruges, chiedendo una reazione immediata alla sua squadra: \"Accettiamo le nostre responsabi",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-16T20:52:36+00:00"
+      "pubblicato": "2026-10-16T22:53:14+00:00"
+    },
+    {
+      "id": "fbcf2b6d1c",
+      "titolo": "Milan, addio alla partnership con il Congo: risolto anche il secondo accordo",
+      "url": "https://www.tuttomercatoweb.com/serie-a/milan-addio-partnership-congo-risolto-accordo-2284132",
+      "estratto": "La collaborazione tra il Milan e il Governo della Repubblica Democratica del Congo è arrivata ufficialmente al capolinea.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T22:30:34+00:00"
+    },
+    {
+      "id": "3485fc2230",
+      "titolo": "Roma e Milan interessate a Endrick, ma Mourinho ha deciso: a gennaio resta al Real Madrid",
+      "url": "https://www.tuttomercatoweb.com/serie-a/roma-milan-interessate-endrick-mourinho-deciso-gennaio-resta-real-madrid-2284116",
+      "estratto": "Niente addio al Real Madrid per Endrick.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T22:23:03+00:00"
+    },
+    {
+      "id": "16e46e9a9d",
+      "titolo": "Lazio, nessun recupero dall'infermeria per la Juventus: Gattuso lancia una novità",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazion-recupero-infermeria-juventus-gattuso-lancia-novita-2284125",
+      "estratto": "Due assist per Noslin e il primo gol di Pinamonti: la trasferta di Monza ha restituito a Gennaro Gattuso due attaccanti in fiducia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T22:15:08+00:00"
+    },
+    {
+      "id": "3f03269a68",
+      "titolo": "L'ex Lazio Ratkov decisivo nel pari del Levante: &egrave; 1-1 contro il Deportivo La Coruna",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/16-151938414/l_ex_lazio_ratkov_decisivo_nel_pari_del_levante_1-1_contro_il_deportivo_la_coruna/",
+      "estratto": "Nell'anticipo della 9&ordf; giornata di Liga i padroni di casa vengono ripresi sul pari dopo la giocata dell'ex biancoceleste",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T21:33:09+00:00"
     },
     {
       "id": "349c9c59ec",
@@ -364,28 +430,6 @@
       "citazione": false,
       "punteggio": 30,
       "pubblicato": "2026-10-16T16:12:00+00:00"
-    },
-    {
-      "id": "41d57ec47b",
-      "titolo": "Ottobre &egrave; il Mese Internazionale della Prevenzione del Tumore al Seno: l'iniziativa in Serie A Women e della Reggiana",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/16-151936066/ottobre_il_mese_internazionale_della_prevenzione_del_tumore_al_seno_l_iniziativa_della_reggiana/",
-      "estratto": "Il club emiliano scende in campo per una causa nobile: cosa accadr&agrave; prima del match casalingo contro la Torres allo stadio Citt&agrave; del Tricolore. E il calcio femminile si mobilita",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-16T14:20:47+00:00"
-    },
-    {
-      "id": "951b788d26",
-      "titolo": "L'Inter perde i pezzi: dopo Lautaro, ko anche Pavard",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/16-151935950/l_inter_perde_i_pezzi_dopo_lautaro_ko_anche_pavard/",
-      "estratto": "Non finiscono pi&ugrave; le cattive notizie per Chivu, che in vista della gara di Bologna dovr&agrave; rinunciare pure al francese",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-16T13:46:33+00:00"
     },
     {
       "id": "c0c9776b04",
@@ -520,37 +564,92 @@
       "pubblicato": "2023-11-09T10:58:58+00:00"
     },
     {
-      "id": "bf376b6af1",
-      "titolo": "Vardy a segno per la 20esima stagione di fila, ma non basta al Burnley per evitare il k.o.",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/vardy-segno-20esima-stagione-fila-burnley-evitare-k-o-2284153",
-      "estratto": "Jamie Vardy continua a sfidare il tempo.",
+      "id": "c74a502cdd",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 16 ottobre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-16-ottobre-2284027",
+      "estratto": "INTER, TRE NOMI PER IL FUTURO: UNO È QUELLO DI OKOYE.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T20:59:10+00:00"
+      "pubblicato": "2026-10-16T23:00:00+00:00"
     },
     {
-      "id": "cc199e1656",
-      "titolo": "Leganes in crisi nera: quarto k.o. consecutivo e Morata si fa espellere per proteste",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/leganes-crisi-nera-k-o-morata-espellere-proteste-2284149",
-      "estratto": "Alvaro Morata e il Leganes stanno vivendo un incubo.",
+      "id": "e97fa38bb5",
+      "titolo": "Serie A, la classifica aggiornata e le probabili formazioni della settima giornata",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-a-classifica-aggiornata-probabili-formazioni-settima-giornata-2284151",
+      "estratto": "La settima giornata di Serie A è iniziata con il successo del Frosinone per 4-2 contro il Sassuolo nell'anticipo del venerdì.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T20:51:57+00:00"
+      "pubblicato": "2026-10-16T22:38:19+00:00"
     },
     {
-      "id": "3fb5724a1d",
-      "titolo": "Frosinone-Sassuolo 4-2, le pagelle: Raimondo show, Calò da Nazionale. Muric disastroso",
-      "url": "https://www.tuttomercatoweb.com/serie-a/frosinone-sassuolo-pagelle-raimondo-show-calo-nazionale-muric-disastroso-2284106",
-      "estratto": "Terza vittoria consecutiva in casa per il Frosinone: Sassuolo sconfitto 4-2 grazie alla tripletta di Raimondo e alla rete di Calò.",
+      "id": "e4c1b9ea79",
+      "titolo": "Raimondo sorride, Muric no: la tripletta del nuovo re della Serie A trascina il Frosinone col Sassuolo",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/raimondo-sorride-muric-no-tripletta-re-serie-trascina-frosinone-sassuolo-2284169",
+      "estratto": "Il Frosinone supera 4-2 il Sassuolo allo Stirpe nell'anticipo della settima giornata di Serie A e conquista tre punti preziosi, salendo a quota 13 in classifica.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T20:48:42+00:00"
+      "pubblicato": "2026-10-16T22:38:01+00:00"
+    },
+    {
+      "id": "41219c3a2a",
+      "titolo": "Hellas Verona-Catanzaro 2-2: doppietta di Mosquera, Pecorino 'salva' Gorgone",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/hellas-verona-catanzaro-2-2-doppietta-mosquera-pecorino-salva-gorgone-2284155",
+      "estratto": "Finisce 2-2 tra Hellas Verona e Catanzaro la sfida del ‘Bentegodi’ valida per la Serie B, tra i fischi del pubblico di casa.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T22:34:00+00:00"
+    },
+    {
+      "id": "34602be612",
+      "titolo": "Ligue 1, il Tolosa cala il tris a Le Mans e scala posizioni",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/10/16-151938216/ligue_1_il_tolosa_cala_il_tris_a_le_mans_e_scala_posizioni/",
+      "estratto": "La squadra di Askou vince 3-0 nell'anticipo della 7&ordf; giornata e centra il quarto risultato utile di fila: a segno Russell-Rowe,&nbsp;Donnum e Tengstedt",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T21:19:02+00:00"
+    },
+    {
+      "id": "cdc60f2359",
+      "titolo": "Ratkow entra e inventa, altro pari Levante. Vincono Eintracht e Tolosa",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/10/16-151943439/ratkow_entra_e_inventa_altro_pari_levante_vincono_eintracht_e_tolosa/",
+      "estratto": "Dopo il 3-3 rocambolesco contro il Siviglia, 1-1 con il Deportivo con assist dell'ex Lazio. I risultati in Bundesliga e Ligue 1",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T21:12:31+00:00"
+    },
+    {
+      "id": "ed1a530f4e",
+      "titolo": "L'Eintracht Francoforte batte il Colonia: decide un gol di&nbsp;Ebnoutalib",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/2026/10/16-151938398/l_eintracht_francoforte_batte_il_colonia_decide_un_gol_di_ebnoutalib/",
+      "estratto": "Nell'anticipo della 6&ordf; giornata di Bundesliga i padroni di casa vincono di misura",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T21:05:57+00:00"
+    },
+    {
+      "id": "07de91cb93",
+      "titolo": "Frosinone da urlo, Sassuolo battuto 4-2: tripletta di Raimondo e Alvini al quarto posto",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/16-151944284/frosinone_da_urlo_sassuolo_battuto_4-2_tripletta_di_raimondo_e_alvini_al_quarto_posto/",
+      "estratto": "Trascinati dall'attaccante, i ciociari piegano la squadra di Aquilani nell'anticipo della 7&ordf; giornata di Serie A e agganciano momentaneamente il Cagliari: tutti i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T20:59:37+00:00"
     },
     {
       "id": "b6555054ee",
@@ -562,72 +661,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-16T20:46:49+00:00"
-    },
-    {
-      "id": "165ef81cfc",
-      "titolo": "Ligue 1, colpo del Tolosa in casa del Le Mans: 3-0 autoritario, a segno anche Tengstedt",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/ligue-1-colpo-tolosa-casa-mans-3-0-autoritario-segno-tengstedt-2284143",
-      "estratto": "Grande vittoria e bel balzo in classifica del Tolosa.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T20:45:26+00:00"
-    },
-    {
-      "id": "3a38cadf75",
-      "titolo": "Frosinone, a breve la conferenza di Alvini al termine della gara col Sassuolo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/frosinone-breve-conferenza-alvini-termine-gara-sassuolo-2284011",
-      "estratto": "Al termine della sfida dello stirpe contro il Sassuolo parlerà per il Frosinone il tecnico Massimiliano Alvini.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T20:45:00+00:00"
-    },
-    {
-      "id": "8b52bf6ccf",
-      "titolo": "Sassuolo, Aquilani: a breve le parole a margine del match di Frosinone",
-      "url": "https://www.tuttomercatoweb.com/serie-a/sassuolo-aquilani-breve-parole-margine-match-frosinone-2284012",
-      "estratto": "A margine della sfida dello stirpe contro il Sassuolo parlerà il tecnico dei neroverdi Alberto Aquilani.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T20:43:30+00:00"
-    },
-    {
-      "id": "ba30f2c916",
-      "titolo": "Raimondo show: tripletta al Sassuolo e Frosinone quinto. Allo Stirpe finisce 4-2",
-      "url": "https://www.tuttomercatoweb.com/serie-a/raimondo-show-tripletta-sassuolo-frosinone-quinto-stirpe-finisce-4-2-2284141",
-      "estratto": "Il Frosinone batte 4-2 il Sassuolo allo Stirpe e vola al quinto posto in classifica con 13 punti, trascinato da uno straordinario Antonio Raimondo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T20:41:03+00:00"
-    },
-    {
-      "id": "5b92df3030",
-      "titolo": "Serie C, 10ª giornata: 13 gol in due partite. Lecco spettacolare, Livorno-Grosseto finisce 4-4!",
-      "url": "https://www.tuttomercatoweb.com/serie-c/serie-c-10a-giornata-tredici-gol-partite-lecco-spettacolare-livorno-grosseto-finisce-4-4-2284137",
-      "estratto": "Inizia alla grandissima la decima giornata di Serie C.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T20:34:00+00:00"
-    },
-    {
-      "id": "253e7b322a",
-      "titolo": "Verona-Catanzaro 2-2, le pagelle: terza doppietta per Mosquera, Pecorino glaciale",
-      "url": "https://www.tuttomercatoweb.com/serie-b/verona-catanzaro-2-1-pagelle-terza-doppietta-mosquera-gorgone-esonero-2284129",
-      "estratto": "Non basta una prova positiva al Verona per dare un calcio alla crisi e avvicinarsi alle zone nobili della classifica.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T20:33:45+00:00"
     },
     {
       "id": "8126565395",
@@ -650,28 +683,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-16T20:30:54+00:00"
-    },
-    {
-      "id": "578b1ec6cb",
-      "titolo": "Ebnoutalib trascina l'Eintracht: 1-0 al Colonia, quinto gol in Bundes per l'attaccante tedesco",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/younes-ebnoutalib-2284140",
-      "estratto": "Younes Ebnoutalib riprende da dove aveva lasciato e trascina l'Eintracht Francoforte.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T20:27:00+00:00"
-    },
-    {
-      "id": "c79f9c8404",
-      "titolo": "La terza doppietta consecutiva di Mosquera non basta. Hellas Verona-Catanzaro finisce 2-2",
-      "url": "https://www.tuttomercatoweb.com/serie-b/terza-doppietta-consecutiva-mosquera-basta-hellas-verona-catanzaro-finisce-2-2-2284135",
-      "estratto": "Due gol contro il Vicenza, due contro il Modena e due anche questa sera contro il Catanzaro.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T20:26:00+00:00"
     },
     {
       "id": "cdfbbbd6ca",
@@ -738,17 +749,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-16T16:08:27+00:00"
-    },
-    {
-      "id": "5ceb0cdee0",
-      "titolo": "Vinicius squalificato per quattro giornate: ufficiale l'esito del ricorso presentato dal Real Madrid",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/10/16-151936053/vinicius_squalificato_per_quattro_giornate_ufficiale_l_esito_del_ricorso_presentato_dal_real_madrid/",
-      "estratto": "L'attaccante brasiliano &egrave; stato espulso in occasione del match di campionato contro il Villarreal",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T14:07:20+00:00"
     },
     {
       "id": "4042f445b1",
