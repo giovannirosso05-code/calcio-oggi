@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-16T13:55:55.776414+00:00",
+  "aggiornato": "2026-10-16T17:59:36.628474+00:00",
   "totale": 75,
   "articoli": [
     {
@@ -14,26 +14,70 @@
       "pubblicato": "2024-01-29T16:09:02+00:00"
     },
     {
-      "id": "c5313b9941",
-      "titolo": "Roma, Gasperini sulla rosa: \"Oggi non possiamo fare niente. Dicono che mi lamento...\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/gasperini-tanti-infortuni-oggi-possiamo-niente-dicono-lamento-2283976",
-      "estratto": "Un messaggio Gian Piero Gasperini, tecnico della Roma, lo ha mandato anche alla società o comunque a chi lo ha criticato per le sue dichiarazioni in estate.",
+      "id": "426a49ff11",
+      "titolo": "Polito esalta Cisse: \"Un talento così si vede raramente\". E svela un retroscena sulla Roma",
+      "url": "https://www.tuttomercatoweb.com/serie-a/polito-esalta-cisse-un-talento-vede-raramente-svela-retroscena-roma-2284053",
+      "estratto": "Tre gol in una notte europea, un record di precocità e la conferma di un talento che aveva già lasciato il segno in Serie B.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-16T13:38:20+00:00"
+      "pubblicato": "2026-10-16T17:38:00+00:00"
     },
     {
-      "id": "3c830ecacb",
-      "titolo": "Nell'Inter si ferma anche Pavard. Il report: \"Risentimento agli adduttori della coscia destra\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/inter-ferma-pavard-report-risentimento-adduttori-coscia-destra-2283988",
-      "estratto": "Periodo assolutamente sfortunato per l'Inter, che dopo il recente - pesantissimo - ko di Lautaro Martinez - si vede costretta a rinunciare in queste ore ad un altro giocatore.",
-      "fonte": "TMW",
+      "id": "5ed181f084",
+      "titolo": "Le gag in italiano e in inglese, la risposta su Lautaro e la battuta sullo stipendio: tutta l'intervista VIDEO di Malen",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/16-151937595/le_gag_in_italiano_e_in_inglese_la_risposta_su_lautaro_e_la_battuta_sullo_stipendio_tutta_l_intervista_video_di_malen/",
+      "estratto": "Sul nostro canale Youtube l'incontro tra il direttore Zazzaroni e l'attaccante della Roma: da non perdere",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-16T13:26:37+00:00"
+      "pubblicato": "2026-10-16T16:01:50+00:00"
+    },
+    {
+      "id": "5ae2236bb6",
+      "titolo": "Palladino ci crede: \"Bologna, ecco come possiamo fermare l'Inter\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/16-151936532/palladino_ci_crede_bologna_ecco_come_possiamo_fermare_l_inter/",
+      "estratto": "Il tecnico dei felsinei carico alla vigilia del match del Dall'Ara contro la capolista: \"Personalit&agrave;, coraggio e sfrontatezza\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-16T15:21:52+00:00"
+    },
+    {
+      "id": "1cb326e439",
+      "titolo": "Bologna, Palladino e l'ex Inter per far male a Chivu: \"Lo chiamo il professore...\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/bologna/2026/10/16-151936999/bologna_palladino_e_l_ex_inter_per_far_male_a_chivu_lo_chiamo_il_professore_/",
+      "estratto": "Il tecnico rossobl&ugrave; &egrave; intervenuto in conferenza stampa alla vigilia della delicata sfida al Dall'Ara contro la capolista: le dichiarazioni",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-16T15:13:08+00:00"
+    },
+    {
+      "id": "2160c34076",
+      "titolo": "Chivu carica la sua Inter: \"Non dobbiamo fare drammi. Lautaro torna dopo la sosta\". E su Provedel...",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/16-151936191/chivu_carica_la_sua_inter_non_dobbiamo_fare_drammi_lautaro_torna_dopo_la_sosta_e_su_provedel_/",
+      "estratto": "Dopo la sconfitta a San Siro contro il Bruges in Champions League, in conferenza stampa il tecnico dei nerazzurri ha presentato la sfida in trasferta contro il Bologna di Palladino",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-16T15:08:39+00:00"
+    },
+    {
+      "id": "9e3513ddb6",
+      "titolo": "Juve-Lazio, le ultime dai campi: Spalletti ritrova due frecce, ecco quando parla",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/16-151936178/juve-lazio_le_ultime_dai_campi_spalletti_ritrova_due_frecce_ecco_quando_parla/",
+      "estratto": "Le novit&agrave; in casa bianconera in vista del big match all'Allianz Stadium contro la squadra di Gattuso",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-16T15:04:45+00:00"
     },
     {
       "id": "b302dacf6f",
@@ -47,17 +91,6 @@
       "pubblicato": "2026-10-16T13:23:32+00:00"
     },
     {
-      "id": "0514774cda",
-      "titolo": "Fiorentina, Vanoli: \"Ai tifosi non chiedo pazienza ma equilibrio. Quando perdo sto di merda\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/fiorentina-vanoli-ai-tifosi-chiedo-pazienza-equilibrio-perdo-merda-2283984",
-      "estratto": "Un ko contro il Genoa, il quarto stagionale, che ha fatto ripiombare la Fiorentina nei bassi fondi della Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-16T13:23:04+00:00"
-    },
-    {
       "id": "0e65a386a2",
       "titolo": "\"Con tutto il rispetto, col Brugge potevamo vincere. Provedel...\": Chivu, veleno Inter verso Bologna",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/16-151935655/con_tutto_il_rispetto_col_brugge_potevamo_vincere_provedel_chivu_veleno_inter_verso_bologna/",
@@ -69,17 +102,6 @@
       "pubblicato": "2026-10-16T13:15:39+00:00"
     },
     {
-      "id": "4ccb473a14",
-      "titolo": "Napoli, Allegri: \"Non sono preoccupato. Non deve crollarci il mondo addosso nelle difficoltà\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/napoli-allegri-non-preoccupato-crollarci-addosso-difficolta-2283938",
-      "estratto": "Il Napoli è molto discontinuo all'interno della stessa partita e questo è un aspetto che è stato più volte sottolineato anche a Massimiliano Allegri in conferenza stampa.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-16T13:15:00+00:00"
-    },
-    {
       "id": "ceed8e47b1",
       "titolo": "\"Abituato a certi livelli\": Inzaghi e l'ex Juve per trascinare il Palermo nella corsa alla Serie A",
       "url": "https://www.tuttosport.com/news/calcio/serie-b/palermo/2026/10/16-151934762/abituato_a_certi_livelli_inzaghi_e_l_ex_juve_per_trascinare_il_palermo_nella_corsa_alla_serie_a/",
@@ -89,28 +111,6 @@
       "citazione": true,
       "punteggio": 70,
       "pubblicato": "2026-10-16T12:32:00+00:00"
-    },
-    {
-      "id": "867f1f4c99",
-      "titolo": "Allegri, gli infortuni Napoli e il litigio con De Bruyne: \"Parlavo italiano, lui inglese e poi...\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/10/16-151931339/allegri_gli_infortuni_napoli_e_il_litigio_con_de_bruyne_parlavo_italiano_lui_inglese_e_poi/",
-      "estratto": "Il tecnico degli azzurri fa chiarezza in conferenza stampa sul battibecco con il belga. Poi svela le ultime in vista del Venezia",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-16T10:33:30+00:00"
-    },
-    {
-      "id": "e0e79ab46e",
-      "titolo": "Mourinho ringrazia i tifosi della Roma: \"Eterna gratitudine\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/16-151931662/mourinho_ringrazia_i_tifosi_della_roma_eterna_gratitudine/",
-      "estratto": "Post social del tecnico del Real Madrid dopo il match Champions giocato all'Olimpico: le sue parole",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-16T10:19:00+00:00"
     },
     {
       "id": "9d75e8a9ef",
@@ -190,6 +190,28 @@
       "pubblicato": "2023-11-12T07:07:34+00:00"
     },
     {
+      "id": "a5fe76b5f7",
+      "titolo": "Champions, Inter e Napoli proibito sbagliare ancora. Roma almeno 5 vittorie, Como playoff possibili",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/16-151939264/champions_inter_e_napoli_proibito_sbagliare_ancora_roma_almeno_5_vittorie_como_playoff_possibili/",
+      "estratto": "Dopo il disastroso poker di sconfitte, ecco ci&ograve; che devono fare le italiane per andare avanti. E meno male che Milan, Juve, Atalanta hanno vinto in Europa League e in Conference. Ma per il 2&deg; posto finale nel ranking ci vorranno grandi imp",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 50,
+      "pubblicato": "2026-10-16T17:37:16+00:00"
+    },
+    {
+      "id": "b2e595bc35",
+      "titolo": "Champions, l'algoritmo &egrave; una sentenza: un'italiana sar&agrave; eliminata subito. In Europa League la Juve...",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/16-151936181/champions_l_algoritmo_una_sentenza_un_italiana_sar_eliminata_subito_in_europa_league_la_juve_/",
+      "estratto": "Secondo le proiezioni di Opta Analyst, i club italiani faranno fatica ad imporsi. Diverso il discorso per i bianconeri nell'altra competizione europea",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 50,
+      "pubblicato": "2026-10-16T15:17:27+00:00"
+    },
+    {
       "id": "33fe006314",
       "titolo": "Inter, altro infortunio! Chivu continua a perdere pezzi, stavolta in difesa",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/16-151935947/inter_altro_infortunio_chivu_continua_a_perdere_pezzi_stavolta_in_difesa/",
@@ -212,48 +234,48 @@
       "pubblicato": "2023-11-09T07:50:05+00:00"
     },
     {
-      "id": "e63dda2481",
-      "titolo": "Bologna, Palladino: \"Ho scelto il portiere. Dovbyk sta aspettando una chance\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/bologna-inter-breve-conferenza-stampa-raffaele-palladino-2283948",
-      "estratto": "Alla vigilia della gara valevole per la settima giornata di Serie A 2026-2027 tra Bologna e Inter, in programma al Renato Dall’Ara sabato 17 ottobre, alle ore 18, è intervenuto il tecnico felsineo Raffaele Palladino.",
+      "id": "ec9f4a63d6",
+      "titolo": "Cosa pensa Simeone della squalifica di Vinicius? La riposta è secca: \"Espanyol\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/pensa-simeone-squalifica-vinicius-riposta-secca-espanyol-2284070",
+      "estratto": "Diego Simeone evita le polemiche e sposta l'attenzione sul campo.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-16T13:55:00+00:00"
+      "pubblicato": "2026-10-16T17:42:18+00:00"
     },
     {
-      "id": "98cb32fa98",
-      "titolo": "Rischio B per il Venezia? Antonelli: \"Tranquillizzo i tifosi: i programmi non cambierebbero\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/rischio-b-venezia-antonelli-tranquillizzo-tifosi-programmi-cambierebbero-2283985",
-      "estratto": "Gli zero punti in classifica hanno creato una preoccupazione in seno all'ambiente che circonda il Venezia: ma per la nuova proprietà, che negli scorsi mesi ha portato avanti con grande vigore e con i fatti un progetto ambizioso, cambierebbe qualcosa ",
-      "fonte": "TMW",
+      "id": "593eb43962",
+      "titolo": "Simeone, amore Toro: \"Potevo andare al River Plate. Vi dico un nome che mi ha sorpreso\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/16-151937858/simeone_amore_toro_potevo_andare_al_river_plate_vi_dico_un_nome_che_mi_ha_sorpreso/",
+      "estratto": "La punta granata ha raccontato un retroscena legato all'ultima sessione di calciomercato: le sue parole",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-16T13:45:00+00:00"
+      "pubblicato": "2026-10-16T15:53:10+00:00"
     },
     {
-      "id": "c6739e2744",
-      "titolo": "Venezia, Nicola: \"Ho firmato un biennale ma non è importante. Promessa per la salvezza? Ci penso\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/venezia-nicola-ho-firmato-biennale-importante-promessa-salvezza-penso-2283989",
-      "estratto": "Nella sua conferenza stampa di presentazione da neo tecnico del Venezia, Davide Nicola ha parlato anche del suo contratto, con il club lagunare che ha deciso di fargli firmare un biennale: \"Credo che l'impegno con il Venezia non si traduca nella dura",
-      "fonte": "TMW",
+      "id": "4fa3d34855",
+      "titolo": "Tebas e l'agghiacciante paragone tra il Real Madrid e il nazismo: il club risponde con un comunicato durissimo!",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/10/16-151937397/tebas_e_l_agghiacciante_paragone_tra_il_real_madrid_e_il_nazismo_il_club_risponde_con_un_comunicato_durissimo_/",
+      "estratto": "La nota ufficiale dei Blancos contro il presidente del campionato spagnolo, che ha accostato&nbsp;le strategie comunicative del club ai metodi di propaganda utilizzati da Joseph Goebbels durante il regime nazista&nbsp;",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-16T13:30:00+00:00"
+      "pubblicato": "2026-10-16T15:36:30+00:00"
     },
     {
-      "id": "e33b6999a5",
-      "titolo": "Pisa, Bianco in vista della Cremonese: \"Non possiamo permetterci cali di tensione\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/pisa-bianco-vista-cremonese-non-possiamo-permetterci-cali-tensione-2283982",
-      "estratto": "“Affrontiamo una squadra che come noi viene dalla retrocessione, hanno cambiato un allenatore che stimo come Giampaolo con un altro che stimo come Pecchia, che ha già vinto in questa categoria.",
-      "fonte": "TMW",
+      "id": "b94194eb6a",
+      "titolo": "\"Real Madrid come i nazisti di Goebbels!\" Tebas scatena la bufera in Spagna, comunicato durissimo del club",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/liga/real-madrid/2026/10/16-151936068/real_madrid_come_i_nazisti_di_goebbels_tebas_scatena_la_bufera_in_spagna_comunicato_durissimo_del_club/",
+      "estratto": "I Blancos rispondono al controverso post pubblicato su X dal numero uno&nbsp;della Liga e vicepresidente della Federazione calcistica reale spagnola",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-16T13:19:43+00:00"
+      "pubblicato": "2026-10-16T14:23:56+00:00"
     },
     {
       "id": "1776d95a50",
@@ -300,17 +322,6 @@
       "pubblicato": "2026-10-16T12:11:48+00:00"
     },
     {
-      "id": "b9080659db",
-      "titolo": "Merino senza filtri: \"Fumo e sangue, l'attentato del 2017 ci ha segnato. Ho appreso cos&igrave; della mia convocazione ai Mondiali\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/16-151932955/merino_senza_filtri_fumo_e_sangue_l_attentato_del_2017_ci_ha_segnato_ho_appreso_cos_della_mia_convocazione_ai_mondiali/",
-      "estratto": "Il centrocampista dell'Arsenal e della Spagna a tutto campo: dalla paura ai tempi del Borussia Dortmund passando per la vittoria della Premier League con i Gunners fino ad arrivare al trionfo negli Stati Uniti",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-16T11:41:42+00:00"
-    },
-    {
       "id": "ab95542c45",
       "titolo": "Merino da brividi sull&rsquo;attentato al Borussia Dortmund: \"Sangue e urla, vivo per fortuna\"",
       "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/arsenal/2026/10/16-151932844/merino_da_brividi_sullattentato_al_borussia_dortmund_sangue_e_urla_vivo_per_fortuna/",
@@ -320,50 +331,6 @@
       "citazione": true,
       "punteggio": 40,
       "pubblicato": "2026-10-16T11:28:27+00:00"
-    },
-    {
-      "id": "77d9066f7f",
-      "titolo": "Allegri: \"Dobbiamo gestire i momenti di difficolt&agrave;. Hojlund pu&ograve; riposare, Lucca troppo criticato\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/16-151931926/allegri_dobbiamo_gestire_i_momenti_di_difficolt_hojlund_pu_riposare_lucca_troppo_criticato/",
-      "estratto": "L'allenatore in conferenza alla vigilia di Venezia-Napoli: \"Abbiamo recuperato Anguissa, Olivera e Alisson\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-16T10:25:40+00:00"
-    },
-    {
-      "id": "a6c44cad11",
-      "titolo": "Lautaro Martinez e quella signora che lo ringrazi&ograve; all'aeroporto: \"Mi sono commosso\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/16-151930871/lautaro_martinez_e_quella_signora_che_lo_ringrazi_all_aeroporto_mi_sono_commosso/",
-      "estratto": "Il racconto dell'attaccante dell'Argentina: \"Quella finale persa con la Spagna brucia ancora. Scaloni dopo il trionfo in Qatar ci disse che una sconfitta sarebbe arrivata, purtroppo &egrave; accaduto in una finale\"&nbsp;",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-16T09:11:57+00:00"
-    },
-    {
-      "id": "c41e1f6599",
-      "titolo": "\"Abbiamo dato tutto\", Lautaro ricorda i Mondiali 2026. \"Quando sono tornato in Italia&hellip;\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/16-151930758/abbiamo_dato_tutto_lautaro_ricorda_i_mondiali_2026_quando_sono_tornato_in_italia/",
-      "estratto": "\"Ce la siamo giocata fino all'ultimo, Messi ci ha insegnato a non arrenderci mai\", le parole dell'attaccante dell'Argentina e dell'Inter",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-16T08:59:07+00:00"
-    },
-    {
-      "id": "ff69bb2293",
-      "titolo": "Modica, il bomber che guarda all'Italia: &ldquo;So che mi stanno osservando\". E racconta l'incubo",
-      "url": "https://www.tuttosport.com/news/calcio/italia/2026/10/16-151928949/modica_il_bomber_che_guarda_all_italia_so_che_mi_stanno_osservando_e_racconta_l_incubo/",
-      "estratto": "Nato in Liguria, &egrave; emigrato a 2 anni: \"Ho grinta, tecnica e il fiuto del gol. Mi ispiro a Haaland e Santi Castro\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-16T08:33:00+00:00"
     },
     {
       "id": "44b62e8753",
@@ -399,15 +366,92 @@
       "pubblicato": "2023-11-09T07:35:51+00:00"
     },
     {
-      "id": "e4a154c099",
-      "titolo": "Dybala non è grave, Kone fuori un mese: quali partite salteranno i due giocatori della Roma",
-      "url": "https://www.tuttomercatoweb.com/serie-a/dybala-grave-kone-mese-partite-salteranno-giocatori-roma-2283995",
-      "estratto": "La Roma in queste ore ha avuto conferma dagli esami strumentali in merito all'entità degli infortuni di Paulo Dybala e Manu Kone, giocatori che si erano fermati nel corso della partita di Champions League poi persa contro il Real Madrid.",
+      "id": "acd9cc9f7c",
+      "titolo": "Juventus-Lazio, le probabili formazioni: McKennie sulla trequarti alle spalle di Kolo Muani",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/juventus-lazio-probabili-formazioni-2283904",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Juventus-Lazio: Come arriva la Juventus La Juventus, domenica alle 20:45, ospiterà la Lazio all’Allianz Stadium, gara valida per la settima giornata di Serie A.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-16T13:52:02+00:00"
+      "pubblicato": "2026-10-16T17:55:08+00:00"
+    },
+    {
+      "id": "ae21d08ed7",
+      "titolo": "Milan-Atalanta, le probabili formazioni: Chukwueze, Moreira, Cisse e Hutchinson per 2 maglie",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/milan-atalanta-probabili-formazioni-2283891",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Milan-Atalanta: Come arriva il Milan Dopo il fruttuoso turnover nella trasferta di Europa League a Salisburgo, contro l'Atalanta a San Siro Ruben Amorim tornerà a schierare la formazione titolare, conf",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T17:55:07+00:00"
+    },
+    {
+      "id": "0e999412a2",
+      "titolo": "Fiorentina-Como, le probabili formazioni: Mastantuono è recuperato, Douvikas torna titolare",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/fiorentina-como-probabili-formazioni-2283890",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Fiorentina-Como: Come arriva la Fiorentina Dopo la brutta battuta d’arresto di Marassi, la Fiorentina è chiamata a reagire per raddrizzare una classifica che rischia di far riaffiorare fantasmi del...",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T17:55:06+00:00"
+    },
+    {
+      "id": "27b6ca96a6",
+      "titolo": "Roma-Genoa, le probabili formazioni: Rodrigo Mora più di Pellegrini, scatta l'ora di Castro",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/roma-genoa-probabili-formazioni-2283885",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Roma-Genoa: Come arriva la Roma L'emergenza infortuni obbliga Gasperini a valutare con attenzione le alternative a disposizione per la partita contro il Genoa.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T17:55:04+00:00"
+    },
+    {
+      "id": "cbc944269b",
+      "titolo": "Bologna-Inter, le probabili formazioni: Martinez confermato tra i pali, gioca Carlos Augusto",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/bologna-inter-probabili-formazioni-2283883",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Bologna-Inter: Come arriva il Bologna Dopo la vittoria di Lecce, il Bologna vuole ora tornare a gioire anche in casa, sfatando un tabù che resiste dal 12 aprile scorso (ultima vittoria al Dall’Ara prop",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T17:55:03+00:00"
+    },
+    {
+      "id": "bccfaed9d8",
+      "titolo": "Venezia-Napoli, le probabili formazioni: Nicola all'esordio conferma il 3-5-2, Allegri lancia Lucca",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/venezia-napoli-probabili-formazioni-2283882",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Venezia-Napoli: Come arriva il Venezia Per il suo primo Venezia Davide Nicola dovrebbe continuare con il 3-5-2 di Stroppa, anche se con una interpretazione meno offensiva.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T17:55:02+00:00"
+    },
+    {
+      "id": "349c9c59ec",
+      "titolo": "Lautaro, l'Argentina spaventa l'Inter: in copertina per le amichevoli di novembre",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/16-151937572/lautaro_l_argentina_spaventa_l_inter_in_copertina_per_le_amichevoli_di_novembre/",
+      "estratto": "Il capitano nerazzurro ai box fino alla prossima sosta nazionali: che l'Albiceleste abbia intenzione di convocarlo?",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T16:12:00+00:00"
+    },
+    {
+      "id": "41d57ec47b",
+      "titolo": "Ottobre &egrave; il Mese Internazionale della Prevenzione del Tumore al Seno: l'iniziativa in Serie A Women e della Reggiana",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/16-151936066/ottobre_il_mese_internazionale_della_prevenzione_del_tumore_al_seno_l_iniziativa_della_reggiana/",
+      "estratto": "Il club emiliano scende in campo per una causa nobile: cosa accadr&agrave; prima del match casalingo contro la Torres allo stadio Citt&agrave; del Tricolore. E il calcio femminile si mobilita",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-16T14:20:47+00:00"
     },
     {
       "id": "951b788d26",
@@ -419,50 +463,6 @@
       "citazione": false,
       "punteggio": 30,
       "pubblicato": "2026-10-16T13:46:33+00:00"
-    },
-    {
-      "id": "2f212945a6",
-      "titolo": "Milan-Atalanta: probabili formazioni e diretta. Dove si vede in tv e streaming",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/16-151930769/milan-atalanta_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming/",
-      "estratto": "Diavoli e Dea sono entrambi reduci da due buone vittorie in Europa: adesso soltanto una avr&agrave; la meglio anche in campionato",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-16T08:48:58+00:00"
-    },
-    {
-      "id": "7a78621026",
-      "titolo": "Roma-Genoa: probabili formazioni e diretta. Dove si vede in tv e streaming",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/16-151927220/roma-genoa_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming/",
-      "estratto": "Dopo l'altalena di emozioni in Champions, giallorossi nuovamente di scena all'Olimpico contro il grande ex De Rossi",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-16T08:36:00+00:00"
-    },
-    {
-      "id": "b48d06afdd",
-      "titolo": "Napoli, l&rsquo;importanza del doppio play",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/16-151930209/napoli_limportanza_del_doppio_play/",
-      "estratto": "Lobotka e Gilmour assieme: sembra opportuno tornare a questo schema. E De Laurentiis pretende che la Champions venga onorata al massimo",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-16T08:09:38+00:00"
-    },
-    {
-      "id": "ec6185824e",
-      "titolo": "Roma, il momento chiave",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/16-151928934/roma_il_momento_chiave/",
-      "estratto": "Con le ferite ancora aperto per il finale di quanto accaduto contro il Real, la squadra di Gasperini &egrave; chiamata a rialzarsi con il Genoa",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-16T07:50:07+00:00"
     },
     {
       "id": "c0c9776b04",
@@ -575,17 +575,6 @@
       "pubblicato": "2023-11-09T06:38:06+00:00"
     },
     {
-      "id": "885318bb7a",
-      "titolo": "147 reti in due giornate: la Champions &egrave; una fabbrica del gol",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/16-151928807/147_reti_in_due_giornate_la_champions_una_fabbrica_del_gol/",
-      "estratto": "Tutte le trentasei squadre partecipanti hanno gi&agrave; trovato la rete nella competizione",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 20,
-      "pubblicato": "2026-10-16T07:38:37+00:00"
-    },
-    {
       "id": "68bc53579e",
       "titolo": "Una Champions per 5: corsa al ranking per un posto in più nella nuova coppa",
       "url": "https://www.gazzetta.it/Calcio/Champions-League/10-11-2023/champions-per-5-corsa-al-ranking-per-un-posto-in-piu-nella-nuova-coppa.shtml",
@@ -608,70 +597,136 @@
       "pubblicato": "2023-11-09T10:58:58+00:00"
     },
     {
-      "id": "eee536abbe",
-      "titolo": "A Ferrara il convegno ‘Il Futuro in gioco’ sui giovani: presenti anche Zola e Baldini",
-      "url": "https://www.tuttomercatoweb.com/serie-d/ferrara-convegno-il-gioco-giovani-presenti-zola-baldini-2283994",
-      "estratto": "Fra una settimana Ferrara sarà al centro del calcio dilettantistico italiano.",
+      "id": "4b9e8148a2",
+      "titolo": "Benzema e il Lione, un ritorno che non si è concretizzato. Ma è stato più di una suggestione",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/benzema-lione-ritorno-concretizzato-suggestione-2284074",
+      "estratto": "Karim Benzema ha davvero pensato a un ritorno al Lione.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T13:49:17+00:00"
+      "pubblicato": "2026-10-16T17:56:41+00:00"
     },
     {
-      "id": "71870b725b",
-      "titolo": "Da Hellas-Catanzaro a Mantova-Palermo, i convocati per la 7ª giornata di Serie B",
-      "url": "https://www.tuttomercatoweb.com/serie-b/hellas-catanzaro-mantova-palermo-convocati-7a-giornata-serie-b-2283591",
-      "estratto": "Per la 7ª giornata del campionato di Serie B la redazione di TuttoMercatoWeb.",
+      "id": "ab1ccd4c4a",
+      "titolo": "Parma-Torino, le probabili formazioni: torna Bernabe, Kulenovic parte dalla panchina",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/parma-torino-probabili-formazioni-2283912",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Parma-Torino: Come arriva il Parma Per la prima da allenatore del Parma allo Stadio Tardini, mister Alberto Gilardino potrà contare su due recuperi importanti: Adrian Bernabe e Abdoulaye Ndiaye, che...",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T13:44:26+00:00"
+      "pubblicato": "2026-10-16T17:55:10+00:00"
     },
     {
-      "id": "0a86a0473d",
-      "titolo": "Real Madrid, stangata confermata per Vinicius Junior: il comitato della RFEF non arretra",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/real-madrid-stangata-confermata-vinicius-junior-comitato-rfef-arretra-2283974",
-      "estratto": "Stangata confermata per Vinícius Júnior e tegola pesante per il Real Madrid.",
+      "id": "dc9dc1c843",
+      "titolo": "Monza-Cagliari, le probabili formazioni: c'è Goglichidze al posto di Lucchesi",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/monza-cagliari-probabili-formazioni-2283908",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Monza-Cagliari: Come arriva il Monza Pochi dubbi in casa Monza, con Juric che deve comunque rinunciare a Lucchesi per squalifica.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T13:41:52+00:00"
+      "pubblicato": "2026-10-16T17:55:09+00:00"
     },
     {
-      "id": "0b4d4d7564",
-      "titolo": "Bari, all'incontro fra Marino e il comitato dei garanti ci sarà anche un legale della Filmauro",
-      "url": "https://www.tuttomercatoweb.com/serie-c/bari-incontro-marino-comitato-garanti-legale-filmauro-2283991",
-      "estratto": "Pierpaolo Marino non si presenterà da solo per incontrare il comitato dei garanti per discutere del futuro del Bari.",
+      "id": "3e70d6276d",
+      "titolo": "Udinese-Lecce, le probabili formazioni: Davis lavora per esserci dal 1', confermato Fatah",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/udinese-lecce-probabili-formazioni-2283889",
+      "estratto": "Le ultime dai campi e le probabili formazioni di Udinese-Lecce: Come arriva l'Udinese L’Udinese si prepara in vista della sfida con il Lecce e mister Runjaic dovrà come sempre valutare la questione infortunati.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T13:34:07+00:00"
+      "pubblicato": "2026-10-16T17:55:05+00:00"
     },
     {
-      "id": "020adaa52c",
-      "titolo": "Probabili formazioni Serie A, le ultime sulla 7ª giornata di campionato",
-      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/probabili-formazioni-serie-a-ultime-7a-giornata-campionato-2283865",
-      "estratto": "Di seguito le probabili formazioni della 7^ giornata di Serie A raccolte dai nostri inviati sul campo FROSINONE-SASSUOLO - Venerdì 16 ottobre, ore 20.",
+      "id": "79e60a804f",
+      "titolo": "Da Hellas-Catanzaro a Samp-Arezzo: le formazioni ufficiali della 7ª giornata di Serie B",
+      "url": "https://www.tuttomercatoweb.com/serie-b/hellas-catanzaro-samp-arezzo-formazioni-ufficiali-7a-giornata-serie-b-2284062",
+      "estratto": "La settima giornata di Serie B inizia questa sera con la sfida del 'Bentegodi' fra Hellas Verona e Catanzaro per poi chiudersi domenica sera (ore 19:30) con l’Arezzo che sarà di scena al 'Ferraris' in casa della Sampdoria.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T13:16:00+00:00"
+      "pubblicato": "2026-10-16T17:49:00+00:00"
     },
     {
-      "id": "69fc4d6607",
-      "titolo": "Da Lautaro a Svilar, 59 infortuni in soli 25 giorni per la Serie A. L'elenco completo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lautaro-svilar-56-infortuni-soli-25-serie-a-elenco-completo-2283897",
-      "estratto": "Mai come quest'anno ci sono stati tanti infortuni dall'inizio della sosta per le nazionali fino a oggi.",
+      "id": "0bf1e780d3",
+      "titolo": "Udinese, Abankwah non si allena ancora in gruppo: difficile il recupero per il Lecce",
+      "url": "https://www.tuttomercatoweb.com/serie-a/udinese-abankwah-allena-gruppo-difficile-recupero-lecce-2284065",
+      "estratto": "A meno di tre giorni dalla delicata sfida contro il Lecce, in programma domenica alle 12:30 al Bluenergy Stadium, arrivano poche indicazioni positive sul fronte James Abankwah.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-16T13:13:30+00:00"
+      "pubblicato": "2026-10-16T17:45:49+00:00"
+    },
+    {
+      "id": "4473144c2d",
+      "titolo": "Anche i cartellini diventano digitali: la storica introduzione in Uruguay, ecco com'&egrave; andata",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/16-151939441/anche_i_cartellini_diventano_digitali_la_storica_introduzione_in_uruguay_ecco_com_andata/",
+      "estratto": "L'arbitro ha estratto&nbsp;ha estratto un dispositivo elettronico, il cui schermo si &egrave; illuminato completamente di giallo sul lato rivolto verso il campo",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T17:34:43+00:00"
+    },
+    {
+      "id": "7c417b37be",
+      "titolo": "Dolomiti Bellunesi, tegola Mignanelli in mezzo al campo: almeno 3 settimane di stop",
+      "url": "https://www.tuttomercatoweb.com/serie-c/dolomiti-bellunesi-tegola-mignanelli-campo-almeno-3-settimane-stop-2284064",
+      "estratto": "Brutte notizie in casa Dolomiti Bellunesi: il centrocampista Mignanelli, classe '93, dovrà restare fermo per almeno tre settimane a causa di un trauma al ginocchio accusato in allenamento.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T17:34:00+00:00"
+    },
+    {
+      "id": "ff740d07b8",
+      "titolo": "Verona-Catanzaro diretta Serie B: segui l'anticipo della 7&ordf; giornata, il risultato LIVE",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/16-151936754/verona-catanzaro_diretta_serie_b_segui_l_anticipo_della_7_giornata_il_risultato_live/",
+      "estratto": "La 7&ordf; giornata del campionato cadetto si apre con la sfida del Bentegodi tra le squadre di Baroni e Gorgone",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T17:16:42+00:00"
+    },
+    {
+      "id": "6028a5d2c8",
+      "titolo": "Inaugurata a&nbsp;Paderno Dugnano&nbsp;la prima FIFA Arena in Italia",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/16-151938215/inaugurata_a_paderno_dugnano_la_prima_fifa_arena_in_italia/",
+      "estratto": "Il programma FIFA Arena &egrave; un&rsquo;iniziativa globale della FIFA volta a fornire infrastrutture calcistiche sicure, inclusive e di alta qualit&agrave; per i bambini e le comunit&agrave; di tutto il mondo",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T16:09:34+00:00"
+    },
+    {
+      "id": "57730594d1",
+      "titolo": "&ldquo;A Tutta Classe&rdquo;: la Lega Calcio Serie A entra nelle Universit&agrave; e conquista il Senegal",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/16-151938213/a_tutta_classe_la_lega_calcio_serie_a_entra_nelle_universit_e_conquista_il_senegal/",
+      "estratto": "Quest&rsquo;anno saranno 6 i Tornei organizzati per rendere lo sport sempre pi&ugrave; accessibile e promuovere i valori del fair-play e dell&rsquo;inclusione",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T16:08:27+00:00"
+    },
+    {
+      "id": "5ceb0cdee0",
+      "titolo": "Vinicius squalificato per quattro giornate: ufficiale l'esito del ricorso presentato dal Real Madrid",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/10/16-151936053/vinicius_squalificato_per_quattro_giornate_ufficiale_l_esito_del_ricorso_presentato_dal_real_madrid/",
+      "estratto": "L'attaccante brasiliano &egrave; stato espulso in occasione del match di campionato contro il Villarreal",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-16T14:07:20+00:00"
     },
     {
       "id": "871699c5b6",
@@ -694,61 +749,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-16T11:15:00+00:00"
-    },
-    {
-      "id": "2eb65207a3",
-      "titolo": "Bragan&ccedil;a, per il Toro l&rsquo;affare &egrave; gi&agrave; doppio",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/16-151930772/bragana_per_il_toro_laffare_gi_doppio/",
-      "estratto": "Tra prestito oneroso e riscatto il portoghese coster&agrave; 3,5 milioni ma ora ne vale 7. E pure per Abate si sta rivelando fondamentale",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T11:00:00+00:00"
-    },
-    {
-      "id": "8d19e7984c",
-      "titolo": "Dove vedere Livorno-Grosseto in tv? Sky o Dazn, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/16-151931364/dove_vedere_livorno-grosseto_in_tv_sky_o_dazn_orario/",
-      "estratto": "Scopri tutto ci&ograve; che c'&egrave; da sapere sul derby toscano: le info per seguire il match del girone B di Serie C",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T09:43:36+00:00"
-    },
-    {
-      "id": "c1d4fe1d77",
-      "titolo": "Dove vedere Verona-Catanzaro in tv? Dazn o Sky, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/16-151931334/dove_vedere_verona-catanzaro_in_tv_dazn_o_sky_orario/",
-      "estratto": "Al via la settima giornata di Serie B, la squadra di Baroni ospita quella di Gorgone: le possibili scelte dei due tecnici",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T09:23:32+00:00"
-    },
-    {
-      "id": "a0994b097e",
-      "titolo": "Crollo Italia nel ranking Uefa: finisce sotto ad Azerbaigian e Grecia!",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/16-151930774/crollo_italia_nel_ranking_uefa_finisce_sotto_ad_azerbaigian_e_grecia_/",
-      "estratto": "Dopo il doppio zero in Champions League, le vittorie in Europa e Conference: ecco la situazione per sognare un posto in pi&ugrave; in Europa",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T09:10:13+00:00"
-    },
-    {
-      "id": "57ed02022d",
-      "titolo": "Dove vedere Frosinone-Sassuolo in tv? Dazn o Sky, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/16-151928682/dove_vedere_frosinone-sassuolo_in_tv_dazn_o_sky_orario/",
-      "estratto": "Al via la settima giornata di Serie A, la squadra di Alvini ospita quella di Aquilani: le possibili scelte dei due tecnici",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-16T07:22:11+00:00"
     },
     {
       "id": "4042f445b1",
