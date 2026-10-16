@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+feedparser
+python-dateutil
+pillow
+playwright
+edge-tts
+anthropic
