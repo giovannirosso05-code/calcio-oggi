@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-17T17:06:30.072222+00:00",
+  "aggiornato": "2026-10-17T19:19:44.398736+00:00",
   "totale": 75,
   "articoli": [
     {
@@ -14,26 +14,70 @@
       "pubblicato": "2024-01-29T16:09:02+00:00"
     },
     {
-      "id": "0c6b14aeaa",
-      "titolo": "Juve, Spalletti: \"Criticato anche per essere salito sul carro Kolo Muani. Voglio una squadra folle\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juve-spalletti-criticato-salito-carro-kolo-muani-voglio-squadra-folle-2284364",
-      "estratto": "Luciano Spalletti, tecnico della Juventus, nella sua conferenza stampa di vigilia della sfida contro la Lazio, ha parlato anche di come la squadra debba affrontare le critiche che arriveranno in stagione: \"Io reagisco perché si dà il taglio peggiore ",
+      "id": "07c8e15177",
+      "titolo": "Inter, Barella: \"Lautaro è quello che ci rappresenta di più. Su Carlos Augusto...\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/inter-barella-2284436",
+      "estratto": "Nicolò Barella, centrocampista dell'Inter, ha parlato ai microfoni di Dazn dopo la bella vittoria dell'Inter a Bologna: \"Si parla sempre dei titolari, delle scelte del mister.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-17T16:30:00+00:00"
+      "pubblicato": "2026-10-17T19:00:02+00:00"
     },
     {
-      "id": "494a0e4892",
-      "titolo": "Sosa durissimo con il Napoli: \"Classica prestazione da fine ciclo di un progetto\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/sosa-durissimo-napoli-classica-prestazione-ciclo-progetto-2284333",
-      "estratto": "Sconfitta esterna per il Napoli.",
+      "id": "5a6d1790ea",
+      "titolo": "Inter, Carlos Augusto: \"Non è stata un'estate facile. Ci tenevo ad andare al Mondiale\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/inter-carlos-augusto-2284431",
+      "estratto": "Carlos Augusto, uomo partita di quest'oggi contro il Bologna, ha parlato ai microfoni di Dazn dopo la bella vittoria dell'Inter: \"Sono entrato come sempre con la voglia di aiutare i miei compagni.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-17T16:23:00+00:00"
+      "pubblicato": "2026-10-17T18:53:00+00:00"
+    },
+    {
+      "id": "53b340a76e",
+      "titolo": "Palladino: \"Cambi Inter hanno fatto la differenza. Peccato non aver fatto...\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/bologna/2026/10/17-151964251/palladino_cambi_inter_hanno_fatto_la_differenza_peccato_non_aver_fatto_/",
+      "estratto": "Il tecnico rossobl&ugrave; analizza il ko del Dall'Ara arrivato dopo il vantaggio firmato da Pobega: ecco cosa ha detto",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-17T18:48:03+00:00"
+    },
+    {
+      "id": "cb939da043",
+      "titolo": "Inter, Kolarov al posto di Chivu senza voce: \"Non dobbiamo dimostrare nulla a nessuno\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/17-151963203/inter_kolarov_al_posto_di_chivu_senza_voce_non_dobbiamo_dimostrare_nulla_a_nessuno/",
+      "estratto": "Le dichiarazioni rilasciate dal vice allenatore nerazzurro a margine del successo esterno maturato al Dall'Ara contro il Bologna di Palladino",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-17T18:37:12+00:00"
+    },
+    {
+      "id": "fab0e529ec",
+      "titolo": "Blas sfida la Juve: \"Il Rennes giocher&agrave; per vincere\". E quel precedente...",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/17-151962658/blas_sfida_la_juve_il_rennes_giocher_per_vincere_e_quel_precedente_/",
+      "estratto": "\"Sar&agrave; una partita da giocare, non da subire\", il trequartista francese &egrave; pronto alla sfida di Europa League",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-17T18:08:41+00:00"
+    },
+    {
+      "id": "8866cad5da",
+      "titolo": "David convince all'Atletico Madrid: \"Riscatto? Siamo contenti ma...\". Le parole del ds sull'ex Juve",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/17-151961389/david_convince_all_atletico_madrid_riscatto_siamo_contenti_ma_le_parole_del_ds_sull_ex_juve/",
+      "estratto": "3 gol e 2 assist nelle prime 5 partite giocate: Simeone &egrave; pazzo del canadese. Le ultime novit&agrave; sul futuro del classe 2000",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-17T17:43:05+00:00"
     },
     {
       "id": "a2d888e6e4",
@@ -67,28 +111,6 @@
       "citazione": true,
       "punteggio": 70,
       "pubblicato": "2026-10-17T14:22:25+00:00"
-    },
-    {
-      "id": "e28883e7e5",
-      "titolo": "Bonolis e l'invito ai tifosi della Lazio: \"Avete la squadra prima in classifica, perch&eacute; vi lamentate sempre?\"&nbsp;",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/17-151950255/bonolis_e_l_invito_ai_tifosi_della_lazio_avete_la_squadra_prima_in_classifica_perch_vi_lamentate_sempre_/",
-      "estratto": "Il conduttore, grande tifoso interista, &egrave; stato intervistato da Giusy Meloni sul canale YouTube del Corriere dello Sport: \"Il mio idolo nerazzurro? Ne ho uno, Ronaldo a parte\". E sulla lotta scudetto ha le idee chiare",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-17T12:22:46+00:00"
-    },
-    {
-      "id": "565b24d7e3",
-      "titolo": "\"Juve a due, a tre o a quattro. In questi anni non tutti onesti&hellip;\": Gattuso tra elogi e veleni",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/lazio/2026/10/17-151948838/juve_a_due_a_tre_o_a_quattro_in_questi_anni_non_tutti_onesti_gattuso_tra_elogi_e_veleni/",
-      "estratto": "Le dichiarazioni dell'allenatore della Lazio in conferenza stampa vista della sfida contro i bianconeri all'Allianz Stadium",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-17T11:31:19+00:00"
     },
     {
       "id": "9d75e8a9ef",
@@ -146,6 +168,17 @@
       "pubblicato": "2023-11-11T07:46:25+00:00"
     },
     {
+      "id": "2b38e96b38",
+      "titolo": "Bologna, Pobega: \"Mi piace sganciarmi per arrivare in area di rigore e oggi Ferguson me lo ha permesso\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bologna-pobega-mi-piace-sganciarmi-arrivare-area-rigore-ferguson-permesso-2284438",
+      "estratto": "Tommaso Pobega, centrocampista del Bologna, ha parlato al termine della sconfitta contro l'Inter ai microfoni di Dazn: \"Sono sicuro che la squadra abbia fatto una partita di alto livello creando situazioni da gol nel primo tempo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 60,
+      "pubblicato": "2026-10-17T19:08:00+00:00"
+    },
+    {
       "id": "24af150d1f",
       "titolo": "Luis Enrique: \"Il nostro girone di Champions il più difficile, rischiamo tanto...\"",
       "url": "https://www.itasportpress.it/champions-league/psg-luis-enrique-avverte-gruppo-di-champions-difficile-rischiamo-tanto/?intcmp=gazzanet-luis-enrique",
@@ -179,81 +212,59 @@
       "pubblicato": "2023-11-09T07:50:05+00:00"
     },
     {
-      "id": "8671d0015e",
-      "titolo": "Empoli, Ceesay dopo il pari con l'Ascoli: \"Sono felice del gol, dobbiamo continuare così\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/empoli-ceesay-pari-ascoli-sono-felice-gol-dobbiamo-continuare-cosi-2284366",
-      "estratto": "Joseph Ceesay si gode la rete realizzata contro l'Ascoli e il punto conquistato dall'Empoli.",
+      "id": "1971d618ce",
+      "titolo": "Virtus Entella, Chiappella: \"Puntiamo all'eccellenza, abbiamo margini di miglioramento\"",
+      "url": "https://www.tuttomercatoweb.com/serie-b/virtus-entella-chiappella-puntiamo-eccellenza-margini-miglioramento-2284426",
+      "estratto": "Andrea Chiappella, tecnico della Virtus Entella, ha parlato in conferenza stampa dopo la vittoria contro il Padova.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-17T17:04:56+00:00"
+      "pubblicato": "2026-10-17T19:19:14+00:00"
     },
     {
-      "id": "8f3d8060eb",
-      "titolo": "Domani Alaba giocherà titolare? Le percentuali secondo Runjaic: \"Sono 51%-49%\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/domani-alaba-giochera-titolare-percentuali-runjaic-sono-51-49-2284316",
-      "estratto": "Il tecnico dell'Udinese Kosta Runjaic ha parlato in conferenza stampa di Alaba: \"Grazie alle sue qualità e alle sue capacità di comunicare si è integrato molto bene, a mio avviso nonostante la situazione quando è entrato si è sentito molto bene, ha g",
+      "id": "766de4f099",
+      "titolo": "Carrarese, Pagliuca dopo il successo con il Modena: \"Questa è la vittoria di un gruppo fantastico\"",
+      "url": "https://www.tuttomercatoweb.com/serie-b/carrarese-pagliuca-successo-modena-questa-vittoria-fantastico-2284421",
+      "estratto": "Secondo vittoria in altrettante partite da quando Guido Pagliuca è sulla panchina della Carrarese.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-17T17:00:00+00:00"
+      "pubblicato": "2026-10-17T19:12:01+00:00"
     },
     {
-      "id": "5f4312d7ea",
-      "titolo": "L'acquisto di Pedri e i dubbi del Barça. Planes rivela: \"Mi chiedevano perché 5 milioni per lui\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/acquisto-pedri-dubbi-barca-planes-rivela-mi-chiedevano-5-lui-2284274",
-      "estratto": "Oggi è uno dei simboli del centrocampo del Barcellona, ma il percorso di Pedri in blaugrana non è iniziato tra l'entusiasmo generale.",
+      "id": "630c3b55d9",
+      "titolo": "Bologna, Pobega: \"Scarsa condizione atletica? Non voglio dar colpe a Tedesco\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bologna-pobega-condizione-atletica-ricostruire-voglio-puntare-dito-tedesco-2284441",
+      "estratto": "Allo stadio Renato Dall'Ara, al termine della sconfitta del Bologna contro l’Inter nella settima giornata della Serie A 2026/27 (1-3 il risultato finale firmato dalle reti di Pobega, Thuram, Augusto e Bonny), è intervenuto Tommaso Pobega.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-17T16:56:18+00:00"
+      "pubblicato": "2026-10-17T19:06:00+00:00"
     },
     {
-      "id": "3343aa71c3",
-      "titolo": "Torino, Abate: \"Cacciamani lo vedo quarto di centrocampo. Zapata sta trovando continuità\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-abate-cacciamani-vedo-centrocampo-zapata-trovando-continuita-2284303",
-      "estratto": "Nel corso della conferenza stampa odierna, il tecnico del Torino Ignazio Abate ha parlato dei singoli partendo da Cacciamani: \"Sviluppare a quattro è una delle soluzioni, lui lo vedo come quarto di centrocampo.",
+      "id": "b6c5d7250a",
+      "titolo": "Bologna, Palladino: \"Nella ripresa siamo calati atleticamente. I cambi? Tutti obbligati\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bologna-inter-breve-conferenza-stampa-raffaele-palladino-2284403",
+      "estratto": "Allo stadio Renato Dall'Ara, al termine della sconfitta del Bologna contro l’Inter nella settima giornata della Serie A 2026/27 (1-3 il risultato finale firmato dalle reti di Pobega, Thuram, Augusto e Bonny), è intervenuto Raffaele Palladino.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-17T16:53:00+00:00"
+      "pubblicato": "2026-10-17T18:46:00+00:00"
     },
     {
-      "id": "b49c55f75b",
-      "titolo": "Ascoli, Tomei: \"Dovevamo essere più cinici per vincere la partita\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/ascoli-tomei-dovevamo-cinici-vincere-partita-2284379",
-      "estratto": "\"Ci aspettavamo una partita fisica.",
-      "fonte": "TMW",
+      "id": "b910dcbee2",
+      "titolo": "Juan Jesus: \"Il salvataggio sulla linea? Non so neanche come l'ho presa\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/venezia/2026/10/17-151956859/juan_jesus_il_salvataggio_sulla_linea_non_so_neanche_come_l_ho_presa/",
+      "estratto": "Il grande ex di Venezia-Napoli protagonista del successo dei lagunari: \"Sulla vittoria l'impronta del mister Nicola\"",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-17T16:50:39+00:00"
-    },
-    {
-      "id": "ba299efcf9",
-      "titolo": "Bari, Rastelli verso il Crotone: “La vittoria sembra scontata, ma non sarà così”",
-      "url": "https://www.tuttomercatoweb.com/serie-c/bari-rastelli-crotone-la-vittoria-scontata-cosi-2284317",
-      "estratto": "Massimo Rastelli, tecnico del Bari, ha analizzato la gara di domani contro il Crotone nella consueta conferenza stampa della vigilia.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T16:48:00+00:00"
-    },
-    {
-      "id": "280e5f2424",
-      "titolo": "Raimondo racconta la tripletta: \"Il 3° il più bello. Doppia finta sul 2°? Temevo la figura di merda\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/raimondo-racconta-tripletta-il-3-bello-doppia-finta-2-temevo-figura-merda-2284321",
-      "estratto": "Il capocannoniere della Serie A è italiano e gioca in una neopromossa.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T16:45:23+00:00"
+      "pubblicato": "2026-10-17T17:11:36+00:00"
     },
     {
       "id": "2476aff832",
@@ -276,17 +287,6 @@
       "citazione": true,
       "punteggio": 40,
       "pubblicato": "2026-10-17T13:25:35+00:00"
-    },
-    {
-      "id": "4347d95db4",
-      "titolo": "Manna sul caso De Bruyne-Allegri: \"Situazione enfatizzata da chiacchiere da bar\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/17-151950949/manna_sul_caso_de_bruyne-allegri_situazione_enfatizzata_da_chiacchiere_da_bar/",
-      "estratto": "Prima della partita contro il Venezia, il direttore sportivo degli azzurri ha parlato di quanto successo tra l'allenatore e l'ex City",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T12:53:11+00:00"
     },
     {
       "id": "44b62e8753",
@@ -322,48 +322,37 @@
       "pubblicato": "2023-11-09T07:35:51+00:00"
     },
     {
-      "id": "a5e78485c7",
-      "titolo": "Apre Pobega, poi il pari di Thuram: Bologna-Inter 1-1 dopo i primi 45 minuti",
-      "url": "https://www.tuttomercatoweb.com/serie-a/apre-pobega-pari-thuram-bologna-inter-1-1-primi-45-minuti-2284377",
-      "estratto": "1-1 all'intervallo tra Bologna e Inter dopo un primo tempo molto divertente deciso dalla rete di Tommaso Pobega dopo 10 minuti e dal colpo di testa di Marcus Thuram al 44'.",
+      "id": "c3ac4bd2b4",
+      "titolo": "Atalanta in campo alla vigilia del Milan: terapie per Scalvini, Kessié e Kossounou",
+      "url": "https://www.tuttomercatoweb.com/serie-a/atalanta-campo-vigilia-milan-terapie-scalvini-kessie-kossounou-2284381",
+      "estratto": "Allenamento dell'Atalanta alla vigilia del big match col Milan, valido per il settimo turno di campionato.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-17T16:50:29+00:00"
+      "pubblicato": "2026-10-17T19:15:22+00:00"
     },
     {
-      "id": "1e85028e7f",
-      "titolo": "Ci pensa Thuram: assist di Barella e gran gol del numero 9. Bologna-Inter 1-1 al 44'",
-      "url": "https://www.tuttomercatoweb.com/serie-a/pensa-thuram-assist-barella-gran-gol-numero-9-bologna-inter-1-1-44-2284376",
-      "estratto": "L'Inter trova il pareggio al Dall'Ara con un gran gol di testa di Marcus Thuram.",
-      "fonte": "TMW",
+      "id": "614215de15",
+      "titolo": "Pobega spaventa l'Inter, poi il tris che ribalta il Bologna e tiene lontano Lazio e Roma",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/17-151952986/bologna-inter_diretta_serie_a_formazioni_e_risultato_in_tempo_reale_chivu_per_rialzarsi_dopo_il_ko_in_champions/",
+      "estratto": "I nerazzurri rimontano il vantaggio della formazione di Palladino e rientrano con 19 punti dalla 7&ordf; giornata di campionato",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-17T16:45:31+00:00"
+      "pubblicato": "2026-10-17T19:00:00+00:00"
     },
     {
-      "id": "8be3ef4f3a",
-      "titolo": "Fullkrug rinato nel suo Werder Brema: 7 gol in 7 partite, l'ex Milan è capocannoniere",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/fullkrug-rinato-werder-brema-7-gol-7-partite-milan-capocannoniere-2284338",
-      "estratto": "A volte tornare a casa può essere la scelta migliore.",
-      "fonte": "TMW",
+      "id": "456c192c40",
+      "titolo": "Roma-Genoa diretta Serie A: segui la partita all'Olimpico tra Gasperini e De Rossi LIVE",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/17-151957311/roma-genoa_diretta_serie_a_segui_la_partita_all_olimpico_tra_gasperini_e_de_rossi_live/",
+      "estratto": "I giallorossi ospitano i liguri, allenati dal grande ex, nel match valido per la 7&ordf; giornata di Serie A: tutti gli aggiornamenti in tempo reale",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-17T16:42:55+00:00"
-    },
-    {
-      "id": "c7165a3a1b",
-      "titolo": "Fiorentina, Franchi tutto esaurito contro il Como: oltre 22mila tifosi per spingere i viola",
-      "url": "https://www.tuttomercatoweb.com/serie-a/fiorentina-franchi-esaurito-como-22mila-tifosi-spingere-viola-2284313",
-      "estratto": "La Fiorentina vuole tornare a fare del Franchi un punto di forza.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-17T16:38:39+00:00"
+      "pubblicato": "2026-10-17T17:36:21+00:00"
     },
     {
       "id": "eb9b32fe85",
@@ -389,9 +378,9 @@
     },
     {
       "id": "c93aeb05f3",
-      "titolo": "Bologna-Inter diretta Serie A: segui il match tra Palladino e Chivu LIVE",
+      "titolo": "L'Inter ribalta il Bologna con Thuram, Carlos Augusto e Bonny. Chivu &egrave; da solo primo in classifica",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/17-151954468/bologna-inter_diretta_serie_a_segui_il_match_tra_palladino_e_chivu_live/",
-      "estratto": "Sfida al Dall'Ara tra rossobl&ugrave; e nerazzurri nell'anticipo del sabato pomeriggio della settima giornata di campionato: partita e risultato in tempo reale",
+      "estratto": "All Dall'Ara vincono i nerazzurri 3-1 in rimonta dopo il vantaggio iniziale di Pobega, nell'anticipo del sabato pomeriggio della settima giornata di campionato",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
@@ -408,61 +397,6 @@
       "citazione": false,
       "punteggio": 30,
       "pubblicato": "2026-10-17T14:57:27+00:00"
-    },
-    {
-      "id": "e646e679d7",
-      "titolo": "Tre punti per la Reggiana: Torres ko. L'Inter U23 cade contro il Monopoli",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/17-151952988/tre_punti_per_la_reggiana_torres_ko_l_inter_u23_cade_contro_il_monopoli/",
-      "estratto": "Stabile salva la Sambenedettese nella trasferta a Vado. Vittoria al cardipalma per il Guidonia contro il Forl&igrave;",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-17T14:31:54+00:00"
-    },
-    {
-      "id": "614215de15",
-      "titolo": "Bologna-Inter, diretta Serie A: risultato in tempo reale. Fine primo tempo, due gol e una traversa",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/17-151952986/bologna-inter_diretta_serie_a_formazioni_e_risultato_in_tempo_reale_chivu_per_rialzarsi_dopo_il_ko_in_champions/",
-      "estratto": "Nerazzurri in campo al Dall'Ara per contendere alla formazione di Palladino la 7&ordf; giornata di campionato e ritrovare il sorriso dopo il desolante ko in Champions",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-17T14:30:58+00:00"
-    },
-    {
-      "id": "0cdafa16eb",
-      "titolo": "I convocati per Roma-Genoa: out cinque big, Gasperini si affida a Paratici",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/17-151950948/i_convocati_per_roma-genoa_out_cinque_big_gasperini_si_affida_a_paratici/",
-      "estratto": "Giallorossi in emergenza in vista della gara di questa sera: Dybala, Kon&eacute; e lo squalificato Malen si aggiungono alle defezioni di Svilar e Cristante",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-17T13:03:02+00:00"
-    },
-    {
-      "id": "d8b55bb10b",
-      "titolo": "Emergenza Roma: da Dybala a Malen, quante assenze! Gasperini convoca Paratici: &egrave; il figlio dell'ex Juve",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/17-151949986/emergenza_roma_da_dybala_a_malen_quante_assenze_gasperini_convoca_paratici_il_figlio_dell_ex_juve/",
-      "estratto": "I convocati per la sfida contro il Genoa: il tecnico giallorosso mantiene la promessa, tanti Primavera in lista",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-17T12:18:52+00:00"
-    },
-    {
-      "id": "ff0beff4d9",
-      "titolo": "Buio Napoli, un'altra sconfitta: De Bruyne sbaglia, Adams e Stankovic firmano l'impresa del Venezia",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/17-151949896/venezia-napoli_diretta_serie_a_segui_il_match_di_oggi_live/",
-      "estratto": "Al Penzo Nicola debutta in panchina con una vittoria, dall'altra parte ennesimo stop per gli uomini di Allegri",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-17T11:55:06+00:00"
     },
     {
       "id": "c0c9776b04",
@@ -586,17 +520,6 @@
       "pubblicato": "2026-10-17T13:25:21+00:00"
     },
     {
-      "id": "4bcf096d4e",
-      "titolo": "Diao, altra lesione: l'esito degli esami dopo l'infortunio, per quanto lo perde Fabregas",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/10/17-151950950/diao_altra_lesione_l_esito_degli_esami_dopo_l_infortunio_per_quanto_lo_perde_fabregas/",
-      "estratto": "Il giovane attaccante del Como si ferma di nuovo per un risentimento al flessore della coscia sinistra accusato in Champions League: i dettagli",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 20,
-      "pubblicato": "2026-10-17T12:45:16+00:00"
-    },
-    {
       "id": "68bc53579e",
       "titolo": "Una Champions per 5: corsa al ranking per un posto in più nella nuova coppa",
       "url": "https://www.gazzetta.it/Calcio/Champions-League/10-11-2023/champions-per-5-corsa-al-ranking-per-un-posto-in-piu-nella-nuova-coppa.shtml",
@@ -619,32 +542,120 @@
       "pubblicato": "2023-11-09T10:58:58+00:00"
     },
     {
-      "id": "79e60a804f",
-      "titolo": "Da Hellas-Catanzaro a Samp-Arezzo: le formazioni ufficiali della 7ª giornata di Serie B",
-      "url": "https://www.tuttomercatoweb.com/serie-b/hellas-catanzaro-samp-arezzo-formazioni-ufficiali-7a-giornata-serie-b-2284062",
-      "estratto": "La settima giornata di Serie B inizia questa sera con la sfida del 'Bentegodi' fra Hellas Verona e Catanzaro per poi chiudersi domenica sera (ore 19:30) con l’Arezzo che sarà di scena al 'Ferraris' in casa della Sampdoria.",
-      "fonte": "TMW",
+      "id": "5329331e4d",
+      "titolo": "David a secco, l'Atletico vince sul gong. Manita Barcellona, valanga Bayern, tris Psg",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/10/17-151963205/david_a_secco_l_atletico_vince_sul_gong_manita_barcellona_valanga_bayern_tris_psg/",
+      "estratto": "Simeone vince grazie a Baena, Bar&ccedil;a straripante con 39 gol in 9 partite di Liga. Bavaresi in testa col Dortmund in Bundesliga, Luis Enrique aggancia la vetta in Ligue 1",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-17T16:33:00+00:00"
+      "pubblicato": "2026-10-17T19:07:46+00:00"
     },
     {
-      "id": "f484df76a7",
-      "titolo": "LaLiga, poche emozioni tra Villarreal ed Elche: finisce 0-0",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/laliga-poche-emozioni-villarreal-elche-finisce-0-0-2284369",
-      "estratto": "Poche emozioni tra Villarreal ed Elche che hanno pareggiato per 0-0 nel match delle 16:15, valido per la nona giornata della Liga.",
+      "id": "db8808f928",
+      "titolo": "Lecce, i convocati di Di Francesco per l'Udinese: assenti Ilic e Berisha",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-convocati-francesco-udinese-assenti-ilic-berisha-2284424",
+      "estratto": "Il tecnico Eusebio Di Francesco ha convocato i seguenti calciatori per la gara Udinese-Lecce, 7ª giornata della Serie A Enilive, in programma domenica 18 ottobre 2026 alle ore 12:30.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-17T16:26:01+00:00"
+      "pubblicato": "2026-10-17T19:06:05+00:00"
+    },
+    {
+      "id": "3d135846d2",
+      "titolo": "Premier League, colpo esterno dell'Aston Villa: Manzambi stende il Newcastle",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/premier-league-colpo-esterno-aston-villa-manzambi-stende-newcastle-2284440",
+      "estratto": "L'Aston Villa espugna il St.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T19:04:01+00:00"
+    },
+    {
+      "id": "4819526f11",
+      "titolo": "LaLiga, spettacolo Barcellona contro il Betis: 5-2 e nona vittoria consecutiva",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/laliga-spettacolo-barcellona-betis-5-2-nona-vittoria-consecutiva-2284439",
+      "estratto": "Gol e spettacolo tra Betis e Barcellona, con i blaugrana che si sono imposti con un netto 5-2 che vale la nona vittoria consecutiva.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T18:56:10+00:00"
+    },
+    {
+      "id": "5f864da6c4",
+      "titolo": "Il Besiktas torna alla carica per Talbi: possibile addio al Sunderland a gennaio",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/besiktas-torna-carica-talbi-possibile-addio-sunderland-gennaio-2284380",
+      "estratto": "Il Besiktas non molla Chemsdine Talbi e prepara un nuovo tentativo per assicurarsi l'esterno offensivo del Sunderland durante la prossima sessione invernale di calciomercato.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T18:56:01+00:00"
+    },
+    {
+      "id": "e9cbeed040",
+      "titolo": "Sampdoria, assenza pesante contro l'Arezzo: Insigne resta a riposo",
+      "url": "https://www.tuttomercatoweb.com/serie-b/sampdoria-assenza-pesante-arezzo-insigne-resta-riposo-2284419",
+      "estratto": "Assenza pesante per la Sampdoria, che domani alle 19.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T18:49:18+00:00"
+    },
+    {
+      "id": "ed018b0f1f",
+      "titolo": "Bologna, risentimento ai flessori della coscia destra: verrà valutato nei prossimi giorni",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bologna-risentimento-flessori-coscia-destra-verra-valutato-prossimi-2284435",
+      "estratto": "Roberto Piccoli, attaccante del Bologna, è stato sostituito nel corso del primo tempo della sfida contro l'Inter per un fastidio muscolare e le prime indiscrezioni, raccolte dalla redazione di TMW, parlando di un risentimento ai flessori della coscia",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T18:47:00+00:00"
+    },
+    {
+      "id": "9b50f898ff",
+      "titolo": "Bundesliga, Bayern Monaco straripante: 6 gol al Lipsia e aggancio al primo posto",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/bundesliga-bayern-monaco-straripante-6-gol-lipsia-aggancio-2284433",
+      "estratto": "Un Bayern Monaco straripante ha travolto oggi il Lipsia all’Allianz Arena.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T18:46:11+00:00"
+    },
+    {
+      "id": "17200d3e3c",
+      "titolo": "Barcellona show, manita prima del Psg",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/barcellona/2026/10/17-151964076/barcellona_che_manita_prima_del_psg_/",
+      "estratto": "Nono successo di fila in Liga per i blaugrana, che a tre giorni dalla visita al Parco dei Principi, fanno loro la sfida al vertice col Betis Siviglia. Ancora in rete Lamine Yamal, che nella ripresa provoca l&rsquo;espulsione di Facundo Bernal",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T18:38:39+00:00"
+    },
+    {
+      "id": "621665fc4c",
+      "titolo": "Il Psg passa in rimonta a Strasburgo e aggancia il Monaco in vetta, ma ora tocca al Lille di Ancelotti",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/10/17-151948574/il_psg_passa_in_rimonta_a_strasburgo_e_aggancia_il_monaco_in_vetta_ma_ora_tocca_al_lille_di_ancelotti/",
+      "estratto": "Quarta vittoria di fila per i parigini (1-3), momentaneamente primi nella classifica di Ligue 1 in attesa delle altre partite della 7&ordf; giornata: tutti i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T17:41:11+00:00"
     },
     {
       "id": "bafaafaaf8",
-      "titolo": "Bundesliga, rallenta il Dortmund: solo pari con l'Union Berlino. Fullkrug salva il Werder",
+      "titolo": "Il Bayern Monaco umilia il Lipsia e aggancia il Borussia Dortmund, che frena ancora. Fullkrug salva il Werder",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/2026/10/17-151948566/bundesliga_rallenta_il_dortmund_solo_pari_con_l_union_berlino_fullkrug_salva_il_werder/",
-      "estratto": "I gialloneri di Kovac non vanno oltre lo 0-0 a Kopenick e falliscono l'allungo in vetta. Doppietta per l'ex Milan contro , continua a stupire l'Elversberg",
+      "estratto": "Tripletta di Diaz e 6-1 per i bavaresi, solo 0-0 a Berlino per i gialloneri (al secondo pari di fila). Doppietta dell'ex Milan contro il Paderborn (2-2)",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
@@ -653,9 +664,9 @@
     },
     {
       "id": "d28bb30755",
-      "titolo": "La Carrarese stende il Modena di Belotti. Benevento, beffa nel finale contro il Vicenza",
+      "titolo": "Il Palermo stende il Mantova e consolida il primo posto a +5. La Carrarese stende il Modena di Belotti",
       "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/17-151956574/la_carrarese_stende_il_modena_di_belotti_benevento_beffa_nel_finale_contro_il_vicenza/",
-      "estratto": "I giallobl&ugrave; sprecano la possibilit&agrave; di avvicinarsi al Palermo in vetta. Pari tra Ascoli ed Empoli, Padova ancora ko",
+      "estratto": "I giallobl&ugrave; rallentano e perdono terreno sui rosanero. Pari per Ascoli e Benevento, Padova ancora ko",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
@@ -674,10 +685,21 @@
       "pubblicato": "2026-10-17T14:56:51+00:00"
     },
     {
+      "id": "e646e679d7",
+      "titolo": "Il Potenza non si ferma pi&ugrave;: battuto anche il Catania. Salernitana riacciuffata in extremis dalla Scafatese",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/17-151952988/tre_punti_per_la_reggiana_torres_ko_l_inter_u23_cade_contro_il_monopoli/",
+      "estratto": "Quarta vittoria consecutiva per gli uomini di Tisci, saldamente al comando della classifica del girone C di Serie C. Gare del sabato: risultati e marcatori di tutti i gironi",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T14:31:54+00:00"
+    },
+    {
       "id": "c24b96699d",
-      "titolo": "Mantova-Palermo diretta Serie B: segui la partita tra Modesto e Inzaghi LIVE",
+      "titolo": "Il Palermo &egrave; in fuga: Segre e Hernani stendono il Mantova, Inzaghi a +5 sul secondo posto e a +6 sul terzo",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/17-151949531/mantova-palermo_diretta_serie_b_segui_la_partita_tra_modesto_e_inzaghi_live/",
-      "estratto": "Allo stadio Martelli il big match valido per la settima giornata di campionato: aggiornamenti in tempo reale",
+      "estratto": "Allo stadio Martelli si tinge di rosanero il big match valido per la settima giornata di Serie B: terza vittoria consecutiva, sesta in sette partite per la capolista imbattuta del torneo cadetto",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
@@ -708,9 +730,9 @@
     },
     {
       "id": "b1a4dc013d",
-      "titolo": "Paura per Dibu Martinez, poi il Chelsea piega l'Everton. Vincono Manchester City e Liverpool",
+      "titolo": "Paura per Dibu Martinez, poi il Chelsea piega l'Everton. Il City resta a punteggio pieno, ok Liverpool e Aston Villa",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/10/17-151948389/pedro_neto_show_il_chelsea_piega_l_everton_paura_per_emiliano_martinez/",
-      "estratto": "Due reti di Pedro Neto per i Blues, il cui portiere finisce in ospedale. Maresca batte l'Ipswich (doppietta di Haaland) e resta a punteggio pieno, 'Reds' ok a Brentford",
+      "estratto": "Due reti di Pedro Neto per i Blues, il cui portiere finisce in ospedale. Maresca batte l'Ipswich (doppietta di Haaland), vittorie esterne per Iraola ed Emery",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
@@ -727,28 +749,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-17T13:48:58+00:00"
-    },
-    {
-      "id": "eb39b7ddd9",
-      "titolo": "Svilar non si ferma: prosegue il recupero, il video in palestra fa ben sperare i tifosi",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/17-151949892/svilar_non_si_ferma_prosegue_il_recupero_il_video_in_palestra_fa_ben_sperare_i_tifosi/",
-      "estratto": "Il portiere della Roma ha pubblicato su Instagram un&rsquo;altra seduta in palestra dopo la frattura al dito del piede: rientro previsto dopo la pausa per le nazionali di novembre",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-17T11:58:35+00:00"
-    },
-    {
-      "id": "6c566da8b0",
-      "titolo": "Mosquera, anima Verona. &Egrave; la terza doppietta di fila",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/17-151947197/mosquera_anima_verona_la_terza_doppietta_di_fila/",
-      "estratto": "Il colombiano risponde alla rete di Candela. Poi i calabresi pareggiano col rigore di Pecorino",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-17T11:15:00+00:00"
     },
     {
       "id": "4042f445b1",
