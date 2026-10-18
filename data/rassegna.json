@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-18T21:54:09.877772+00:00",
+  "aggiornato": "2026-10-18T23:55:09.064021+00:00",
   "totale": 45,
   "articoli": [
     {
@@ -36,37 +36,70 @@
       "pubblicato": "2026-10-18T13:29:40+00:00"
     },
     {
-      "id": "a7819d74c5",
-      "titolo": "Lazio, Gattuso: \"Stiamo facendo qualcosa di incredibile ma la strada è lunga\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-breve-conferenza-stampa-gattuso-2284768",
-      "estratto": "23:09 - Gennaro Gattuso, allenatore della Lazio, ha parlato in conferenza stampa al termine della sfida contro la Juventus.",
+      "id": "54924b7fb8",
+      "titolo": "Giorgio Perinetti: \"Crollo Juve, problemi strutturali e grande merito a Gattuso. Samp, non capisco il progetto\"",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/giorgio-perinetti-crollo-juve-problemi-strutturali-merito-gattuso-samp-capisco-progetto-2284846",
+      "estratto": "\"La Juve? È inspiegabile, consociamo valore ed esperienza di Spalletti.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T21:49:51+00:00"
+      "pubblicato": "2026-10-18T22:26:36+00:00"
     },
     {
-      "id": "17e448e528",
-      "titolo": "Lazio, Gattuso: \"I ragazzi ascoltano. Niente vie di mezzo, dobbiamo essere coraggiosi\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-gattuso-i-ragazzi-ascoltano-vie-mezzo-dobbiamo-coraggiosi-2284838",
-      "estratto": "Il tecnico della Lazio Rino Gattuso ha commentato così, ai microfoni di Sky, il successo per 0-3 sul campo della Juventus.",
+      "id": "c99131e79d",
+      "titolo": "Juve, fulmini Bremer e Spalletti: \"Qualcuno si nasconde\", \"Ci è dentro fino al collo\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/juve-fulmini-bremer-spalletti-qualcuno-nasconde-ci-collo-2284845",
+      "estratto": "Una serata nerissima per la Juventus, si conclude con un botta e risposta duro e schietto fra capitan Gleison Bremer e il tecnico Luciano Spalletti.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T21:45:28+00:00"
+      "pubblicato": "2026-10-18T22:20:00+00:00"
     },
     {
-      "id": "78c7663fd0",
-      "titolo": "Juventus, Vicario: \"Prestazione sotto livello, mettiamoci la faccia senza cercare alibi\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-vicario-prestazione-livello-mettiamoci-cercare-alibi-2284832",
-      "estratto": "Dopo la sconfitta contro la Lazio, ai microfoni di DAZN ha parlato così il portiere della Juventus Guglielmo Vicario.",
+      "id": "f96c31c2e0",
+      "titolo": "Juventus, Spalletti: \"Sono preoccupato perché stiamo peggiorando\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-breve-conferenza-stampa-spalletti-2284765",
+      "estratto": "23:07 - Luciano Spalletti, allenatore della Juventus, ha parlato in conferenza stampa al termine della sfida contro la Lazio.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T21:38:53+00:00"
+      "pubblicato": "2026-10-18T22:17:31+00:00"
+    },
+    {
+      "id": "88bf8a6049",
+      "titolo": "Vicario: \"È quello che dice la storia Juve! Bisogna prenderne coscienza e non aggrapparsi ad alibi\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151992390/vicario_quello_che_dice_la_storia_juve_bisogna_prenderne_coscienza_e_non_aggrapparsi_ad_alibi/",
+      "estratto": "\"Non c’è bisogno di fare scarica barile\", le parole del portiere bianconero dopo il ko contro la Lazio",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T22:16:25+00:00"
+    },
+    {
+      "id": "bd175ca977",
+      "titolo": "\"C'è chi si nasconde e chi ha paura ai primi fischi\": Bremer duro sul gruppo Juve",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151995394/c_chi_si_nasconde_e_chi_ha_paura_ai_primi_fischi_bremer_duro_sul_gruppo_juve/",
+      "estratto": "Le dichiarazioni del difensore brasiliano dopo la brutta sconfitta contro la Lazio",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T22:08:00+00:00"
+    },
+    {
+      "id": "eea6bae2c2",
+      "titolo": "\"Juve inferiore\", Spalletti giù duro: \"Senza ritmo né cuore. C'è chi lotta e chi si lascia cadere\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151992553/juve_inferiore_spalletti_gi_duro_senza_ritmo_n_cuore_c_chi_lotta_e_chi_si_lascia_cadere/",
+      "estratto": "Dall'analisi della partita fino alle parole di Bremer: il commento dell'allenatore bianconero al termine della sfida contro la Lazio",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T22:07:27+00:00"
     },
     {
       "id": "114a9b33ea",
@@ -80,17 +113,6 @@
       "pubblicato": "2026-10-18T21:25:35+00:00"
     },
     {
-      "id": "04eab207b9",
-      "titolo": "Juventus, Spalletti: \"Sorpreso da questa prestazione, difficile darsi delle spiegazioni\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-spalletti-sorpreso-prestazione-difficile-darsi-spiegazioni-2284830",
-      "estratto": "La Juventus cade sotto i colpi della Lazio e termina tra i fischi dello Stadium, ai microfoni di DAZN ha parlato così a fine gara il tecnico bianconero Luciano Spalletti oggi in tribuna per squalifica: \"Sicuramente una Juventus inferiore all'avversar",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-18T21:25:01+00:00"
-    },
-    {
       "id": "30b8a1f63d",
       "titolo": "Gattuso ora ci crede: \"Si è creata una famiglia. E la Lazio può sorprendere”",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/18-151992933/gattuso_ora_ci_crede_si_creata_una_famiglia_e_la_lazio_pu_sorprendere/",
@@ -100,28 +122,6 @@
       "citazione": true,
       "punteggio": 70,
       "pubblicato": "2026-10-18T21:24:09+00:00"
-    },
-    {
-      "id": "1eac6605f8",
-      "titolo": "Juve travolta, Di Canio su Lucumi: \"Non può fare come i portieri di hockey, deve decidere\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juve-travolta-canio-lucumi-non-portieri-hockey-2284821",
-      "estratto": "Crollo Juventus allo stadium: la Lazio travolge i bianconeri di Spalletti vincendo 0-3.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-18T21:23:00+00:00"
-    },
-    {
-      "id": "9ba850ae02",
-      "titolo": "Lazio, Provstgaard: \"Felicissimo per gol. Primo posto? Restiamo umili\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-provstgaard-felicissimo-gol-posto-restiamo-umili-2284827",
-      "estratto": "Oliver Provstgaard, difensore della Lazio, ha parlato al termine della sfida contro la Juventus.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-18T21:16:00+00:00"
     },
     {
       "id": "519b6d3021",
@@ -146,48 +146,37 @@
       "pubblicato": "2026-10-18T18:40:48+00:00"
     },
     {
-      "id": "252885631c",
-      "titolo": "Champions, scelti gli arbitri per Roma e Napoli: chi sono e i precedenti con le italiane",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/18-151977373/champions_scelti_gli_arbitri_per_roma_e_napoli_chi_sono_e_i_precedenti_con_le_italiane/",
-      "estratto": "Entrambi i direttori di gara hanno i bilanci in positivo quando hanno incontrato i club italiani in Europa",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 50,
-      "pubblicato": "2026-10-18T11:35:15+00:00"
-    },
-    {
-      "id": "d75f63ff19",
-      "titolo": "Bergomi esalta Nuno Tavares: \"Sul secondo gol mi ha ricordato Andy Brehme\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/bergomi-esalta-nuno-tavares-sul-gol-ricordato-andy-brehme-2284825",
-      "estratto": "Crollo Juventus allo stadium: la Lazio travolge i bianconeri di Spalletti vincendo 0-3.",
+      "id": "d4d32faa0c",
+      "titolo": "Lione in vetta, Fonseca: \"Prima pensiamo all'Hoffenheim, poi toccherà al PSG\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/lione-vetta-fonseca-2284836",
+      "estratto": "Paulo Fonseca si gode il successo per 2-1 contro il Nizza e, al termine della gara, ha voluto sottolineare soprattutto la forza mentale mostrata dal suo Lione.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-18T21:53:00+00:00"
+      "pubblicato": "2026-10-18T22:26:13+00:00"
     },
     {
-      "id": "19f383f4d4",
-      "titolo": "Savoia ko, ma Formisano resiste. Il presidente del club: \"Avanti con lui, ha piena fiducia\"",
-      "url": "https://www.tuttomercatoweb.com/serie-c/savoia-ko-formisano-resiste-presidente-club-avanti-lui-piena-fiducia-2284767",
-      "estratto": "In una giornata non facile per i tecnici di Serie C con diversi cambi in panchina, il Savoia decide di andare controcorrente.",
+      "id": "1293ba5491",
+      "titolo": "Pescara, Buscè: \"Contento per i ragazzi, non siamo 'scappati di casa' come dice qualcuno\"",
+      "url": "https://www.tuttomercatoweb.com/serie-c/pescara-busce-contento-ragazzi-scappati-casa-qualcuno-2284826",
+      "estratto": "E' un Antonio Buscè senza troppi peli sulla lingua quello che si presenta ai microfoni dei giornalisti dopo il successo per 2-0 ottenuto dal suo Pescara contro l'Ostiamare.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-18T21:49:00+00:00"
+      "pubblicato": "2026-10-18T22:19:26+00:00"
     },
     {
-      "id": "b2fbf8a9f4",
-      "titolo": "Crystal Palace travolto a Brighton, Sage sotto accusa: \"Tutta colpa mia, capisco i tifosi\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/crystal-palace-travolto-brighton-sage-accusa-tutta-colpa-mia-capisco-tifosi-2284802",
-      "estratto": "La pesante sconfitta contro il Brighton rischia di lasciare conseguenze profonde in casa Crystal Palace.",
+      "id": "96c9472d85",
+      "titolo": "La Legge Bove spiegata da lui stesso: \"Mi hanno detto che a gennaio sarà calendarizzata\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/legge-bove-spiegata-stesso-mi-gennaio-calendarizzata-2284737",
+      "estratto": "Edoardo Bove, intervenuto ai microfoni dei media a margine della presentazione del docu-film \"In un battito\", ha parlato anche della cosiddetta 'legge Bove' e di quanto accadutogli dopo quel famoso Fiorentina-Inter.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-18T21:42:05+00:00"
+      "pubblicato": "2026-10-18T22:15:00+00:00"
     },
     {
       "id": "922c92361c",
@@ -199,28 +188,6 @@
       "citazione": true,
       "punteggio": 40,
       "pubblicato": "2026-10-18T21:28:03+00:00"
-    },
-    {
-      "id": "a6a649d708",
-      "titolo": "Il Bernabeu in rivolta, cori e striscioni sono chiari: \"Non è calcio, è Tebas e Negreira\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/bernabeu-rivolta-cori-striscioni-chiari-non-calcio-tebas-negreira-2284804",
-      "estratto": "Il clima in vista del Clasico è già caldissimo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T21:26:23+00:00"
-    },
-    {
-      "id": "4bbb497d72",
-      "titolo": "Sudtirol, Possanzini: \"In partite come queste bisogna cacciare fuori altro\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/sudtirol-possanzini-2284698",
-      "estratto": "Davide Possanzini, tecnico del Sudtirol, ha parlato al termine della sfida persa contro la Juve Stabia.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T21:19:19+00:00"
     },
     {
       "id": "bbbe022ecc",
@@ -245,37 +212,81 @@
       "pubblicato": "2026-10-18T16:24:15+00:00"
     },
     {
-      "id": "c9bfef6a09",
-      "titolo": "Gilardino scopre le carte verso Parma-Torino: \"Romero gioca\". Su Bernabé e la scelta tattica...",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/parma/2026/10/18-151977552/gilardino_scopre_le_carte_verso_parma-torino_romero_gioca_su_bernab_e_la_scelta_tattica_/",
-      "estratto": "Il tecnico conferma l'argentino nell'undici titolare e poi spiega: \"Vogliamo dare certezze alla squadra\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T11:59:13+00:00"
-    },
-    {
-      "id": "1a00cf66b2",
-      "titolo": "Spalletti ora rischia, c’è Conte. Clamoroso crollo Juve: è crisi nera. Lezione di calcio da Gattuso. De Laurentiis: ultimatum per Allegri. Pronto Montella. Rabiot furioso col Milan. Var spento, Fiorentina protesta",
-      "url": "https://www.tuttomercatoweb.com/editoriale/spalletti-rischia-c-e-conte-clamoroso-crollo-juve-crisi-nera-lezione-calcio-gattuso-de-laurentiis-ul-2284839",
-      "estratto": "La sconfitta della Juve contro la Lazio è clamorosa nel punteggio e nei fatti, un crollo totale: ora Spalletti rischia davvero.",
+      "id": "270abc43f0",
+      "titolo": "La Lazio torna prima, Milan-Como: sorpasso e controsorpasso: la classifica di Serie A aggiornata",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/lazio-torna-prima-milan-como-sorpasso-controsorpasso-classifica-serie-aggiornata-2284848",
+      "estratto": "La domenica di Serie A che si siamo appena lasciati alle spalle ha contribuito a movimentare parecchio la classifica del campionato italiano, con la Lazio che, battendo la Juventus, ha nuovamente agganciato l'Inter in testa alla classifica.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T21:51:21+00:00"
+      "pubblicato": "2026-10-18T22:57:11+00:00"
     },
     {
-      "id": "313a2b0649",
-      "titolo": "L'incredibile abbaglio della Juve su Kolo Muani. 50 milioni e un solo uomo sul suo carro",
-      "url": "https://www.tuttomercatoweb.com/serie-a/incredibile-abbaglio-juve-kolo-muani-50-carro-2284837",
-      "estratto": "Ci risiamo, ancora una volta.",
+      "id": "6ec4c18ae8",
+      "titolo": "La Lazio non si ferma più, Juve in crisi anche nello spogliatoio: Spalletti-Bremer attacchi a distanza",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/lazio-ferma-piu-juve-crisi-spogliatoio-spalletti-bremer-attacchi-distanza-2284847",
+      "estratto": "Uno 0-3 senza appello.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T21:45:00+00:00"
+      "pubblicato": "2026-10-18T22:53:00+00:00"
+    },
+    {
+      "id": "7aff623b6c",
+      "titolo": "Il Milan domina, soffre e vince. L'Atalanta si sveglia tardi. E Amorim indica la via ai suoi",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/milan-domina-soffre-vince-atalanta-sveglia-tardi-amorim-indica-via-2284810",
+      "estratto": "Il Milan si prende i tre punti, il quarto posto e soprattutto la conferma di un momento positivo, anche se il 3-2 contro l'Atalanta lascia ad Amorim qualcosa su cui lavorare.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T22:49:25+00:00"
+    },
+    {
+      "id": "c50a4f8ddb",
+      "titolo": "Il Como torna al successo e fa 1-3 al Franchi. Quinto ko per la Fiorentina, che vede i fantasmi del passato",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/como-torna-successo-1-3-franchi-ko-fiorentina-vede-fantasmi-passato-2284705",
+      "estratto": "Dopo tre partite senza riuscire a conquistare i tre punti, il Como di Cesc Fabregas ritrova la vittoria e lo fa ancora una volta al Franchi, uno stadio che continua a portare fortuna ai lariani dal loro ritorno in Serie A.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T22:45:01+00:00"
+    },
+    {
+      "id": "b55a92daa0",
+      "titolo": "La Juve Stabia rifiata, la Sampdoria affonda: i risultati di Serie B e la classifica aggiornata",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juve-stabia-rifiata-sampdoria-affonda-risultati-serie-b-classifica-aggiornata-2284817",
+      "estratto": "Speranza e disperazione sono alcuni sentimenti presenti nelle tre partite di Serie B che hanno chiuso la 7ª giornata.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T22:34:54+00:00"
+    },
+    {
+      "id": "8cab36113b",
+      "titolo": "Milan ancora nel segno di Rabiot, decisivo per 4 match di fila: Calhanoglu eguagliato",
+      "url": "https://www.tuttomercatoweb.com/serie-a/milan-segno-rabiot-decisivo-4-match-fila-calhanoglu-eguagliato-2284798",
+      "estratto": "Ancora lui, Adrien Rabiot: il centrocampista francese è risultato decisivo nella sfida vinta dai rossoneri contro l'Atalanta a San Siro, siglando la rete del momentaneo 2-0 per i suoi nel corso del primo tempo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T22:30:00+00:00"
+    },
+    {
+      "id": "331691dc8b",
+      "titolo": "Amorim imbattuto nelle prime 7 in Serie A con il Milan: 63 anni fa l'ultimo a riuscirci",
+      "url": "https://www.tuttomercatoweb.com/serie-a/amorim-imbattuto-prime-7-serie-milan-63-riuscirci-2284800",
+      "estratto": "Come evidenziato dai dati Opta, Ruben Amorim è diventato il terzo allenatore nella storia del Milan a restare imbattuto in ciascuna delle sue prime sette panchine in rossonero in SerieA.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T22:23:00+00:00"
     },
     {
       "id": "fa6932932e",
@@ -323,7 +334,7 @@
     },
     {
       "id": "2e4db6f583",
-      "titolo": "Juve-Lazio, diretta: disastro e fischi allo Stadium, 0-3 e Gattuso aggancia l'Inter. Le reazioni",
+      "titolo": "Juve-Lazio: disastro e fischi allo Stadium, 0-3 e Gattuso aggancia l'Inter. Le reazioni",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151975757/juve-lazio_diretta_formazioni_e_risultato_in_tempo_reale_spalletti_sfida_gattuso/",
       "estratto": "I biancocelesti calano il tris e travolgono la squadra di Spalletti a Torino. Le dichiarazioni dei protagonisti",
       "fonte": "Tuttosport",
@@ -366,26 +377,26 @@
       "pubblicato": "2026-10-18T13:36:25+00:00"
     },
     {
-      "id": "4f00cb10ce",
-      "titolo": "Convocati Juve, una freccia in più contro la Lazio! Su chi può contare finalmente Spalletti",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151974509/convocati_juve_una_freccia_in_pi_contro_la_lazio_su_chi_pu_contare_finalmente_spalletti/",
-      "estratto": "Il tecnico dirama la lista in vista del posticipo serale contro i biancocelesti: le novità in vista della gara allo Stadium",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T11:41:57+00:00"
-    },
-    {
-      "id": "ec67a5dd55",
-      "titolo": "Pro Vercelli, Bonera resiste: confermata la fiducia nonostante lo 0-5 contro il Lecco",
-      "url": "https://www.tuttomercatoweb.com/serie-c/pro-vercelli-bonera-resiste-confermata-fiducia-0-5-lecco-2284781",
-      "estratto": "Momento davvero critico per la Pro Vercelli che, nel weekend, ha incassato una sonora sconfitta per 0-5 in casa contro il Lecco.",
+      "id": "7936b27134",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 18 ottobre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-18-ottobre-2284850",
+      "estratto": "UDINESE, AVANTI CON RUNJAIC MA SERVE UNA SVOLTA.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-18T21:34:25+00:00"
+      "pubblicato": "2026-10-18T23:28:21+00:00"
+    },
+    {
+      "id": "f5f8c4fc92",
+      "titolo": "Udinese, crollo casalingo con il Lecce: Runjaic confermato, ma tre allenatori sullo sfondo",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/udinese-crollo-casalingo-lecce-runjaic-rischio-spuntano-thiago-motta-paolo-zanetti-2284651",
+      "estratto": "L’Udinese sprofonda, il Lecce festeggia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T22:40:11+00:00"
     },
     {
       "id": "4cda976357",
@@ -397,17 +408,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-18T21:31:29+00:00"
-    },
-    {
-      "id": "2705be1685",
-      "titolo": "Spalletti e Allegri in bilico, Sarri ancora no. Tre casi diversi per riflessioni che sono inevitabili",
-      "url": "https://www.tuttomercatoweb.com/serie-a/spalletti-allegri-bilico-sarri-quasi-casi-diversi-riflessioni-inevitabili-2284831",
-      "estratto": "Inter e Lazio prime in classifica a 19 punti in sette partite, Juventus ottava a quota 11, Napoli nono a 10 punti e Atalanta decima a 9.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T21:30:00+00:00"
     },
     {
       "id": "11cababbeb",
