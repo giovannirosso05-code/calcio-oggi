@@ -91,16 +91,27 @@ def copertina_ia(titolo, fonte, serie, percorso):
     return crea_copertina(titolo, fonte, serie, sfondo, "Immagine generata con IA", percorso)
 
 
-def solo_copertina(titolo, fonte, serie):
+def copertina_foto(banca, titolo, fonte, serie, percorso):
+    """Ripiego: la foto vera (dell'articolo) a tutto schermo, prima quella del protagonista del titolo."""
+    cand = []
+    for nome in FOTO.nomi_nel_titolo(titolo)[:4]:
+        cand += banca.candidati(nome, squadra=len(nome.split()) == 1)
+    cand = cand or banca.tutte()
+    if not cand:
+        return None, ""
+    c = cand[0]
+    return crea_copertina(titolo, fonte, serie, c["img"], c["credito"], percorso), c["credito"]
+
+
+def solo_copertina(titolo, fonte, serie, url=""):
     cop = copertina_ia(titolo, fonte, serie, USCITA / "copertina.png")
     if cop:
         manda("sendPhoto", "photo", cop, f"⚽ {serie}\n\n{titolo}\n📰 Fonte: {fonte}\n🎨 Sfondo generato con IA")
         return
-    f = FOTO.trova_per_titolo(titolo)
-    print("foto:", f["credito"] if f else "nessuna (sfondo del marchio)")
-    img = Image.open(f["file"]).convert("RGB") if f else None
-    cop = crea_copertina(titolo, fonte, serie, img, f["credito"] if f else "", USCITA / "copertina.png")
-    manda("sendPhoto", "photo", cop, f"⚽ {serie}\n\n{titolo}\n📰 Fonte: {fonte}" + (f"\n📷 {f['credito']}" if f else ""))
+    cop, credito = copertina_foto(Banca(_rassegna(), url, titolo, fonte), titolo, fonte, serie, USCITA / "copertina.png")
+    if not cop:
+        cop = crea_copertina(titolo, fonte, serie, None, "", USCITA / "copertina.png")
+    manda("sendPhoto", "photo", cop, f"⚽ {serie}\n\n{titolo}\n📰 Fonte: {fonte}" + (f"\n📷 {credito}" if credito else ""))
 
 
 def main():
@@ -115,7 +126,7 @@ def main():
             url, titolo, fonte, serie = (dati.split("|") + ["", "", "", ""])[:4]
             titolo, fonte, serie = titolo or "Ultime notizie di Calcio", fonte or "Calcio Oggi", serie or "Serie A"
             if cosa == "copertina":
-                return solo_copertina(titolo, fonte, serie)
+                return solo_copertina(titolo, fonte, serie, url)
             estratto = next((a.get("estratto", "") for a in _rassegna() if a.get("url") == url), "")
             spec = da_notizia(url, titolo, fonte, serie, estratto, _rassegna())
             nome = "notizia"
@@ -128,7 +139,8 @@ def main():
     # prima il foglio di controllo con le foto usate, poi copertina e video, poi la didascalia da copiare
     scrivi("🔎 Controllo foto (guardale prima di postare):\n" + "\n".join(risultato["foglio"]))
     cop_ia = copertina_ia(spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_ia.png")
-    manda("sendPhoto", "photo", cop_ia or risultato["copertina"], "Copertina (sfondo IA)" if cop_ia else "Copertina")
+    cop_foto = None if cop_ia else copertina_foto(banca, spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_foto.png")[0]
+    manda("sendPhoto", "photo", cop_ia or cop_foto or risultato["copertina"], "Copertina (sfondo IA)" if cop_ia else "Copertina")
     manda("sendVideo", "video", USCITA / "video.mp4", f"🎬 {spec.get('titolo_breve', '')}")
     scrivi(didascalia(spec), da_copiare=True)
     _segna_inviato(nome)
