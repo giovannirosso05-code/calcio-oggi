@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="img/favicon-64.png">
+<link rel="icon" type="image/svg+xml" href="img/icona.svg">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Calcio Oggi">
+<meta name="theme-color" content="#14171c">
+<title>Risultati e partite di calcio — Calcio Oggi</title>
+<meta name="description" content="Risultati e partite di calcio giorno per giorno: Serie A, Champions, Europa League e i principali campionati, in ora italiana.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Calcio Oggi">
+<meta property="og:title" content="Risultati e partite di calcio — Calcio Oggi">
+<meta property="og:description" content="Risultati e partite di calcio giorno per giorno: Serie A, Champions, Europa League e i principali campionati, in ora italiana.">
+<meta property="og:image" content="https://giovannirosso05-code.github.io/calcio-oggi/img/og-image.png">
+<meta property="og:url" content="https://giovannirosso05-code.github.io/calcio-oggi/partite.html">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://giovannirosso05-code.github.io/calcio-oggi/partite.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>try{var t=localStorage.getItem("tema");if(t!=="chiaro"&&t!=="scuro")t=matchMedia("(prefers-color-scheme: dark)").matches?"scuro":"chiaro";document.documentElement.dataset.tema=t}catch(e){document.documentElement.dataset.tema="chiaro"}</script>
+</head>
+<body>
+<a class="skip" href="#contenuto">Vai al contenuto</a>
+<header id="site-header" class="site-header"></header>
+<main id="contenuto">
+<div class="container">
+  <section class="hero"><h1><span class="accent">Risultati</span> e partite</h1>
+    <p>Giorno per giorno, orari in ora italiana, punteggi in diretta.</p></section>
+  <div class="giorno-nav" role="group" aria-label="Scegli il giorno">
+    <button type="button" class="giorno-freccia" id="g-prec" aria-label="Giorno prima">‹</button>
+    <label class="giorno-scelta"><span id="g-etichetta" aria-live="polite">Oggi</span>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>
+      <input type="date" id="g-data" aria-label="Cerca una data"></label>
+    <button type="button" class="giorno-freccia" id="g-succ" aria-label="Giorno dopo">›</button>
+    <button type="button" class="pill" id="g-oggi">Oggi</button>
+  </div>
+  <div id="filtri" class="filtri"></div>
+  <div id="elenco"><div class="vuoto">Caricamento…</div></div>
+  <p class="nota">Dati ESPN. Gli ultimi 7 giorni e la settimana in arrivo.</p>
+</div>
+</main>
+<footer id="site-footer" class="site-footer"></footer>
+<script type="module" src="js/partite.js"></script>
+</body>
+</html>

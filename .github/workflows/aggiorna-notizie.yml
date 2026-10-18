@@ -1,15 +1,15 @@
-name: Aggiorna Notizie Calcio
+name: Aggiorna Dati Calcio
 
 on:
   schedule:
-    - cron: '15 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: aggiorna-notizie-calcio
+  group: aggiorna-dati-calcio
   cancel-in-progress: true
 
 jobs:
@@ -20,12 +20,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install -r requirements.txt
-      - name: Esegui raccolta notizie
+      - run: pip install requests feedparser
+      - name: Raccolta notizie
         run: python build_news.py
-      - name: Salva rassegna
+      - name: Partite e classifiche (ESPN)
+        run: python fetch_dati.py
+      - name: Salva dati
         run: |
           git config user.name "calcio-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/rassegna.json 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "dati: aggiornamento rassegna" && git push)
+          git add data/rassegna.json data/partite.json data/classifiche.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "dati: aggiornamento" && git pull --rebase origin main && git push)

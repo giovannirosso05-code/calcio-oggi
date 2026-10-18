@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="img/favicon-64.png">
+<link rel="icon" type="image/svg+xml" href="img/icona.svg">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Calcio Oggi">
+<meta name="theme-color" content="#14171c">
+<title>Calcio Oggi — Partite, risultati e classifiche del calcio</title>
+<meta name="description" content="Partite di oggi, risultati, classifiche di Serie A, Champions e dei principali campionati, e le notizie dal mondo del calcio, in italiano.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Calcio Oggi">
+<meta property="og:title" content="Calcio Oggi — Partite, risultati e classifiche del calcio">
+<meta property="og:description" content="Partite di oggi, risultati, classifiche di Serie A, Champions e dei principali campionati, e le notizie dal mondo del calcio, in italiano.">
+<meta property="og:image" content="https://giovannirosso05-code.github.io/calcio-oggi/img/og-image.png">
+<meta property="og:url" content="https://giovannirosso05-code.github.io/calcio-oggi/index.html">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://giovannirosso05-code.github.io/calcio-oggi/index.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>try{var t=localStorage.getItem("tema");if(t!=="chiaro"&&t!=="scuro")t=matchMedia("(prefers-color-scheme: dark)").matches?"scuro":"chiaro";document.documentElement.dataset.tema=t}catch(e){document.documentElement.dataset.tema="chiaro"}</script>
+</head>
+<body>
+<a class="skip" href="#contenuto">Vai al contenuto</a>
+<header id="site-header" class="site-header"></header>
+<main id="contenuto">
+<div class="container">
+  <div class="home-layout">
+    <section class="hero home-hero">
+      <h1>Tutto il <span class="accent">calcio</span> di oggi, in italiano</h1>
+      <p>Partite del giorno, risultati, classifiche e notizie. Dati aggiornati, mai quote né pronostici.</p>
+      <div class="agg" id="agg"></div>
+      <div class="stat-strip" id="stat-strip"></div>
+    </section>
+    <aside class="home-aside">
+      <div class="widget">
+        <div class="widget-titolo">🏆 Serie A</div>
+        <div id="mini-serie-a" data-carica></div>
+        <a class="widget-tutti" href="classifiche.html">Classifiche complete →</a>
+      </div>
+      <div class="widget">
+        <div class="widget-titolo">📰 Ultime notizie</div>
+        <div id="mini-notizie" data-carica style="padding:0 16px 4px"></div>
+        <a class="widget-tutti" href="notizie.html">Tutte le notizie →</a>
+      </div>
+    </aside>
+    <div class="home-main">
+      <div id="blocco-live" hidden>
+        <h2 class="section-title"><span><i class="live-punto" aria-hidden="true"></i> In campo adesso</span></h2>
+        <div id="live"></div>
+      </div>
+      <h2 class="section-title"><span id="titolo-oggi">Partite di oggi</span> <a class="tutti" href="partite.html">Tutte le partite →</a></h2>
+      <div id="oggi" data-carica><div class="vuoto">Caricamento…</div></div>
+      <h2 class="section-title"><span>Risultati recenti</span> <a class="tutti" href="partite.html">Tutti →</a></h2>
+      <div id="recenti" data-carica></div>
+    </div>
+  </div>
+</div>
+</main>
+<footer id="site-footer" class="site-footer"></footer>
+<script type="module" src="js/home.js"></script>
+</body>
+</html>

@@ -1,17 +1,17 @@
 {
-  "aggiornato": "2026-10-18T09:31:23.054734+00:00",
-  "totale": 73,
+  "aggiornato": "2026-10-18T10:56:36.374568+00:00",
+  "totale": 45,
   "articoli": [
     {
-      "id": "003d3953eb",
-      "titolo": "Viviano sbotta dopo Fiorentina-Inter: \"Ma come caz... si fa a dare rigore contro Sommer?\"",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/29-01-2024/inter-viviano-ma-come-caz-si-fa-a-dare-rigore-contro-sommer.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
+      "id": "3885e44e10",
+      "titolo": "Genoa, El Shaarawy: \"Grazie Romanisti per avermi fatto sentire ancora una volta uno di voi\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/genoa-el-shaarawy-grazie-romanisti-avermi-sentire-voi-2284576",
+      "estratto": "Ritorno dolce-amaro per Stephan El Shaarawy.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
-      "punteggio": 90,
-      "pubblicato": "2024-01-29T16:09:02+00:00"
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T10:52:00+00:00"
     },
     {
       "id": "f04ee53934",
@@ -47,136 +47,103 @@
       "pubblicato": "2026-10-17T21:34:33+00:00"
     },
     {
-      "id": "0188896fe7",
-      "titolo": "\"Roma giovanissima, gol di qualit&agrave;. E col Real meritavamo noi\": Gasperini insegue l'Inter e carica",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/17-151968456/roma_giovanissima_gol_di_qualit_e_col_real_meritavamo_noi_gasperini_insegue_l_inter_e_carica/",
-      "estratto": "Il tecnico giallorosso apprezza la reazione dei suoi dopo la Champions in una partita non scontata: \"Difficile prendere le misure al Genoa\"",
+      "id": "b02e3ce373",
+      "titolo": "Champions, gli arbitri delle italiane: al Napoli lo spagnolo Sanchez, alla Roma lo svizzero Scharer",
+      "url": "https://www.tuttomercatoweb.com/serie-a/champions-arbitri-italiane-napoli-spagnolo-sanchez-roma-svizzero-scharer-2284575",
+      "estratto": "La UEFA ha reso note le designazioni arbitrali per le sfide di Champions League in programma martedì, valide per la terza giornata della competizione europea.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 50,
+      "pubblicato": "2026-10-18T10:22:00+00:00"
+    },
+    {
+      "id": "e6bcc1703c",
+      "titolo": "City primissimo, Maresca incensa Foden: \"Un top player. Dal primo giorno sento una cosa\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/city-vincente-maresca-incensa-foden-un-top-player-sento-cosa-2284573",
+      "estratto": "Due gol incassati ma l'ennesima vittoria per il Manchester City, 3-2 sull'Ipswich Town, che stacca a sei punti l'Arsenal in vetta alla classifica di Premier League.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T10:56:00+00:00"
+    },
+    {
+      "id": "419f936faa",
+      "titolo": "Aston Villa, Emery esalta il match winner Manzambi: \"Ha qualità, intelligenza e fisicità\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/aston-villa-emery-esalta-match-winner-manzambi-ha-qualita-intelligenza-fisicita-2284579",
+      "estratto": "L'Aston Villa ritrova fiducia dopo un avvio di stagione complicato.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T10:42:01+00:00"
+    },
+    {
+      "id": "94134b05e1",
+      "titolo": "Bologna, Pobega: “Dobbiamo essere più cinici: mi è mancata freddezza sul possibile 2-0”",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bologna-pobega-dobbiamo-cinici-mancata-freddezza-possibile-2-0-2284542",
+      "estratto": "Primo gol stagionale per Tommaso Pobega, che non segnava in campionato dall’ultima gara della scorsa stagione proprio contro l’Inter e che quest’oggi ha sbloccato la gara nel match contro i nerazzurri del Dall’Ara.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T10:38:00+00:00"
+    },
+    {
+      "id": "6cd752bdfb",
+      "titolo": "Latina, Volpe: \"La squadra ha dimostrato di poter trasmettere emozioni ai nostri tifosi\"",
+      "url": "https://www.tuttomercatoweb.com/serie-c/latina-volpe-la-squadra-dimostrato-poter-trasmettere-emozioni-tifosi-2284558",
+      "estratto": "In vista della gara contro la Vis Pesaro, il tecnico del Latina Gennaro Volpe ha commentato: \"Arriviamo da una vittoria importante, che ci ha dato morale e fiducia, ma adesso dobbiamo essere bravi a dare continuità.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T10:34:00+00:00"
+    },
+    {
+      "id": "21b6aac602",
+      "titolo": "Barcellona-Betis, il gol annullato a Lo Celso: il VAR spiega la decisione",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/barcellona-betis-gol-annullato-celso-var-spiega-decisione-2284577",
+      "estratto": "Il Barcellona ha superato il Betis per 5-2 a La Cartuja, ma la partita è stata caratterizzata anche da diversi episodi discussi.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T10:26:00+00:00"
+    },
+    {
+      "id": "28d2e20f82",
+      "titolo": "Pisa, Loyola: \"Sono tornato dalla Nazionale con molta voglia di giocare e di vincere\"",
+      "url": "https://www.tuttomercatoweb.com/serie-b/pisa-loyola-sono-tornato-nazionale-voglia-giocare-vincere-2284564",
+      "estratto": "Successo importante per il Pisa che si impone contro la Cremonese e compie un salto importante in classifica.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T10:18:00+00:00"
+    },
+    {
+      "id": "0d3813930f",
+      "titolo": "Bayern, quando torna Neuer? Il ds Eberl: \"Ha del liquido al piede\". Salta anche l'Arsenal?",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/bayern-torna-neuer-ds-eberl-ha-liquido-piede-salta-arsenal-2284571",
+      "estratto": "Non c'è certezza per Manuel Neuer.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T10:11:48+00:00"
+    },
+    {
+      "id": "1ac8efe707",
+      "titolo": "Dibu Martinez operato dopo lo shock, annuncio dall'ospedale: \"Ecco quando torno\"",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/10/18-151975756/dibu_martinez_operato_dopo_lo_shock_annuncio_dall_ospedale_ecco_quando_torno/",
+      "estratto": "Il portiere del Chelsea ha rotto il silenzio dopo l'operazione alla mascella in seguito ad un violento scontro di gioco nella gara contro l'Everton",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-17T21:18:05+00:00"
-    },
-    {
-      "id": "9d75e8a9ef",
-      "titolo": "Lippi: \"Napoli? Mazzarri sta facendo di necessità virtù, ecco la strada da seguire\"",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/29-01-2024/lippi-mazzarri-sta-facendo-di-necessita-virtu-ecco-la-strada-da-seguire.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2024-01-29T15:18:44+00:00"
-    },
-    {
-      "id": "3c6b48abf8",
-      "titolo": "Lazio, Tare svela un retroscena: \"Volevamo prendere Zirkzee, ma...\"",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Lazio/29-01-2024/lazio-tare-svela-un-retroscena-volevamo-prendere-zirkzee-ma.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2024-01-29T15:17:34+00:00"
-    },
-    {
-      "id": "56c31e76df",
-      "titolo": "Panchina d'oro a Spalletti: \"Grazie soprattutto al Napoli e alla città\"",
-      "url": "https://video.gazzetta.it/panchina-d-oro-a-spalletti-grazie-soprattutto-al-napoli-e-alla-citta-/383b6602-00a8-4888-9d85-84ae61659xlk",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2024-01-29T14:00:47+00:00"
-    },
-    {
-      "id": "3b85bb6793",
-      "titolo": "Napoli, senti Lucescu: \"Non è facile perdere uno come Spalletti\"",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/29-01-2024/napoli-senti-lucescu-non-e-facile-perdere-uno-come-spalletti.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2024-01-29T12:28:48+00:00"
-    },
-    {
-      "id": "d6eaa2e904",
-      "titolo": "Brandt, testa già al Milan: \"Qualificazione? Non è finita\"",
-      "url": "https://www.pianetamilan.it/news-milan/interviste/milan-borussia-dortmund-brandt-tmw-ultime-news-oggi-10-11-2023/?intcmp=gazzanet-brandt",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2023-11-11T07:46:25+00:00"
-    },
-    {
-      "id": "24af150d1f",
-      "titolo": "Luis Enrique: \"Il nostro girone di Champions il più difficile, rischiamo tanto...\"",
-      "url": "https://www.itasportpress.it/champions-league/psg-luis-enrique-avverte-gruppo-di-champions-difficile-rischiamo-tanto/?intcmp=gazzanet-luis-enrique",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": 60,
-      "pubblicato": "2023-11-12T07:07:34+00:00"
-    },
-    {
-      "id": "5443b42292",
-      "titolo": "Inzaghi formato Champions: all'Inter solo Herrera ha una percentuale migliore di vittorie",
-      "url": "https://www.gazzetta.it/Calcio/Champions-League/09-11-2023/inzaghi-formato-champions-all-inter-solo-herrera-ha-una-percentuale-migliore-di-vittorie.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 50,
-      "pubblicato": "2023-11-09T07:50:05+00:00"
-    },
-    {
-      "id": "2f52c22c6d",
-      "titolo": "Palermo, Segre: \"Siamo un grande gruppo e si sta vedendo. Andiamo avanti così\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/palermo-segre-siamo-vedendo-andiamo-cosi-2284557",
-      "estratto": "Il centrocampista del Palermo Jacopo Segre ha così analizzato il successo sul campo del Mantova: \"Partita tosta, la più difficile fin qui.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-18T09:31:00+00:00"
-    },
-    {
-      "id": "54c0c13f10",
-      "titolo": "Frattura alla mascella per il Dibu Martinez, che assicura: \"Tranquilli, torno tra poche settimane\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/frattura-mascella-dibu-martinez-scrive-tranquilli-torno-poche-settimane-2284567",
-      "estratto": "Il Chelsea tira un sospiro di sollievo per le condizioni di Emiliano Martinez.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T09:21:01+00:00"
-    },
-    {
-      "id": "04608a69f1",
-      "titolo": "Pallone d'Oro, Neymar non vede altro che Yamal: \"Il migliore del mondo\". Numeri spaventosi",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/pallone-oro-vicino-neymar-scende-campo-vota-yamal-il-migliore-mondo-2284565",
-      "estratto": "Ha ancora 19 anni, ma Lamine Yamal sta distruggendo ogni difesa avversaria che gli si para davanti.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T09:10:18+00:00"
-    },
-    {
-      "id": "e11e547c9e",
-      "titolo": "Torres ko contro la Reggiana, Greco: \"Contro squadre così bisogna concedere poco o niente\"",
-      "url": "https://www.tuttomercatoweb.com/serie-c/torres-ko-reggiana-greco-contro-squadre-bisogna-concedere-niente-2284563",
-      "estratto": "Dopo la sconfitta contro la Reggiana, il tecnico della Torres Alfonso Greco ha commentato in sala stampa: \"Credo che la squadra abbia prodotto diverse occasioni sia nel primo che nel secondo tempo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T08:55:00+00:00"
+      "pubblicato": "2026-10-18T09:33:00+00:00"
     },
     {
       "id": "39608965f4",
@@ -190,81 +157,37 @@
       "pubblicato": "2026-10-18T08:53:03+00:00"
     },
     {
-      "id": "44b62e8753",
-      "titolo": "Spalletti: \"Seconda Panchina d'oro? Per me sono già troppe...\"",
-      "url": "https://video.gazzetta.it/video-spalletti-seconda-panchina-d-oro-per-me-sono-gia-troppe/ca8e6539-40ec-48d8-bcc3-699d1adbcxlk",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
+      "id": "c39fc8f840",
+      "titolo": "De Roon si &egrave; preso la Roma, ecco come ha fatto: il retroscena dell'ex ct De Boer",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/18-151976131/de_roon_si_preso_la_roma_ecco_come_ha_fatto_il_retroscena_dell_ex_ct_de_boer/",
+      "estratto": "Il centrocampista 'raccontato' dal tecnico suo connazionale, che ha elogiato anche l'altro olandese Malen e Gasperini: cos'ha detto",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2024-01-29T13:48:58+00:00"
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T10:24:19+00:00"
     },
     {
-      "id": "9bb81a5f86",
-      "titolo": "Luis Enrique: \"Si chiama girone della morte per un motivo\"",
-      "url": "https://video.gazzetta.it/video-milan-psg-luis-enrique-se-lo-chiamano-girone-della-morte-e-per-una-ragione/2c7053a4-cf7b-44d9-b850-b1dcdeb13xlk",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2023-11-09T16:23:18+00:00"
-    },
-    {
-      "id": "8133db47bc",
-      "titolo": "Rassegna stampa - Brahim Diaz uomo copertina di un Real da record: \"Unici in Europa\"",
-      "url": "https://www.itasportpress.it/calcio/calcio-rassegna-stampa-dei-principali-quotidiani-italiani-ed-europei-2335/?intcmp=gazzanet-rassegna",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2023-11-09T07:35:51+00:00"
-    },
-    {
-      "id": "ff5d941eea",
-      "titolo": "Da Napoli: per De Laurentiis Allegri non si tocca. E il patron si sarebbe infuriato con DAZN",
-      "url": "https://www.tuttomercatoweb.com/serie-a/napoli-de-laurentiis-allegri-tocca-patron-infuriato-dazn-2284562",
-      "estratto": "Non è un periodo facile per il Napoli e Massimiliano Allegri.",
+      "id": "3ddd5735cd",
+      "titolo": "Milan-Atalanta, i convocati di Sarri: Bellanova torna a disposizione, out in cinque",
+      "url": "https://www.tuttomercatoweb.com/serie-a/milan-atalanta-convocati-sarri-bellanova-torna-disposizione-out-2284574",
+      "estratto": "Reduce da due vittorie consecutive tra campionato e Conference League, l’Atalanta va a caccia di conferme e alle 18:00 se la vedrà a San Siro contro il Milan, match valido per la settima giornata del campionato italiano di Serie A.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T09:15:00+00:00"
+      "pubblicato": "2026-10-18T10:14:30+00:00"
     },
     {
-      "id": "ae21d08ed7",
-      "titolo": "Milan-Atalanta, le probabili formazioni: Chukwueze, Moreira, Cisse e Hutchinson per 2 maglie",
-      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/milan-atalanta-probabili-formazioni-2283891",
-      "estratto": "Le ultime dai campi e le probabili formazioni di Milan-Atalanta: Come arriva il Milan Dopo il fruttuoso turnover nella trasferta di Europa League a Salisburgo, contro l'Atalanta a San Siro Ruben Amorim tornerà a schierare la formazione titolare, conf",
-      "fonte": "TMW",
+      "id": "1536c283e6",
+      "titolo": "Dove vedere Juve Stabia-Sudtirol in tv? Dazn o Sky, orario",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/18-151975755/dove_vedere_juve_stabia-sudtirol_in_tv_dazn_o_sky_orario/",
+      "estratto": "La sfida apre la domenica di Serie B, trasferta in Campania per gli altoatesini: tutte le info sul match",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T09:12:07+00:00"
-    },
-    {
-      "id": "0e999412a2",
-      "titolo": "Fiorentina-Como, le probabili formazioni: Mastantuono è recuperato, Douvikas torna titolare",
-      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/fiorentina-como-probabili-formazioni-2283890",
-      "estratto": "Le ultime dai campi e le probabili formazioni di Fiorentina-Como: Come arriva la Fiorentina Dopo la brutta battuta d’arresto di Marassi, la Fiorentina è chiamata a reagire per raddrizzare una classifica che rischia di far riaffiorare fantasmi del...",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T09:12:06+00:00"
-    },
-    {
-      "id": "acd9cc9f7c",
-      "titolo": "Juventus-Lazio, le probabili formazioni: McKennie sulla trequarti alle spalle di Kolo Muani",
-      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/juventus-lazio-probabili-formazioni-2283904",
-      "estratto": "Le ultime dai campi e le probabili formazioni di Juventus-Lazio: Come arriva la Juventus La Juventus, domenica alle 20:45, ospiterà la Lazio all’Allianz Stadium, gara valida per la settima giornata di Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T09:11:08+00:00"
+      "pubblicato": "2026-10-18T09:35:10+00:00"
     },
     {
       "id": "2f212945a6",
@@ -311,17 +234,6 @@
       "pubblicato": "2026-10-18T08:27:14+00:00"
     },
     {
-      "id": "e13820ed29",
-      "titolo": "Juve-Lazio al contrario: Gattuso all&rsquo;attacco per la vetta, Spalletti insegue",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/18-151974888/juve-lazio_al_contrario_gattuso_allattacco_per_la_vetta_spalletti_insegue/",
-      "estratto": "Allo Stadium la sfida estrema e inattesa tra i due ex ct dell&rsquo;Italia non qualificata al Mondiale",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T08:11:23+00:00"
-    },
-    {
       "id": "949defa895",
       "titolo": "Milan, Ramos per la svolta: contro l'Atalanta tocca a Gon&ccedil;alo. Amorim col dubbio Cisse",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/18-151972203/milan_ramos_per_la_svolta_contro_l_atalanta_tocca_a_gonalo_amorim_col_dubbio_cisse/",
@@ -355,17 +267,6 @@
       "pubblicato": "2026-10-18T07:48:27+00:00"
     },
     {
-      "id": "e45b39493e",
-      "titolo": "Dove vedere Milan-Atalanta in tv? Sky o Dazn, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/18-151974059/dove_vedere_milan-atalanta_sky_o_dazn_orario/",
-      "estratto": "Sarri in trasferta a San Siro per la settima giornata di campionato: tutte le info per seguire la partita in diretta, le probabili formazioni",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T07:43:07+00:00"
-    },
-    {
       "id": "f7864ac24d",
       "titolo": "Ora si, anzi no: il dubbio di Spalletti risolto dall&rsquo;uomo Juve che agisce nell&rsquo;ombra",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151971936/ora_si_anzi_no_il_dubbio_di_spalletti_risolto_dalluomo_juve_che_agisce_nellombra/",
@@ -378,9 +279,9 @@
     },
     {
       "id": "ce94433ff9",
-      "titolo": "Primavera Juve, diretta: sfida al Monza, formazioni e risultato in tempo reale. Gielen, che stacco!",
+      "titolo": "Primavera Juve, diretta: sfida al Monza, formazioni e risultato in tempo reale. Sfida riaperta",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151974049/primavera_juve_diretta_sfida_al_monza_formazioni_e_risultato_in_tempo_reale/",
-      "estratto": "I bianconeri di Padoin in cerca di riscatto: dopo 6 giornate manca ancora la prima vittoria in campionato",
+      "estratto": "La squadra di Padoin in cerca di riscatto: dopo 6 giornate manca ancora la prima vittoria in campionato",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
@@ -432,147 +333,103 @@
       "pubblicato": "2026-10-18T04:15:00+00:00"
     },
     {
-      "id": "c0c9776b04",
-      "titolo": "Finalmente Asllani: cosa c'è dietro il primo assist con la maglia dell'Inter",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/29-01-2024/inter-asllani-assist-fiorentina-lautaro-crescita.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2024-01-29T15:35:23+00:00"
-    },
-    {
-      "id": "a664912e12",
-      "titolo": "Milan, tifosi in sede grazie ai token: in anteprima la presentazione della nuova collezione",
-      "url": "https://www.gazzetta.it/fan-tokens/29-01-2024/milan-la-nuova-collezione-presentata-in-sede-in-anteprima-per-i-tifosi-fan-token.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2024-01-29T14:35:47+00:00"
-    },
-    {
-      "id": "5ad614e15b",
-      "titolo": "Inter-Juve, cambiano le quote scudetto: ecco chi vincerà per i bookie",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/29-01-2024/inter-juve-come-cambiano-le-quote-scudetto-nella-settimana-del-derby-d-italia.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2024-01-29T11:42:23+00:00"
-    },
-    {
-      "id": "b760a9cc6a",
-      "titolo": "Pronostico Salernitana-Roma: ecco come finirà per i bookie",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Roma/29-01-2024/pronostico-salernitana-roma-de-rossi-punta-la-champions.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2024-01-29T09:56:21+00:00"
-    },
-    {
-      "id": "37414f95d1",
-      "titolo": "Il Milan punta l'Europa: Pioli fissa l'obiettivo Coppa per rilanciare la stagione",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Milan/29-01-2024/il-milan-punta-l-europa-pioli-fissa-l-obiettivo-coppa-per-rilanciare-la-stagione.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2024-01-29T09:29:14+00:00"
-    },
-    {
-      "id": "1f1343c2a9",
-      "titolo": "Super Vlahovic antidoto all'Inter? Nell'ultimo mese nessuno come lui",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/29-01-2024/juventus-vlahovic-e-il-re-d-europa-nel-2024-la-sfida-con-l-inter-di-lautaro.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2024-01-29T08:56:22+00:00"
-    },
-    {
-      "id": "2bb0feecfb",
-      "titolo": "Tackle, dribbling e addio infortuni: un Loftus-Cheek così è ciò che mancava al Milan",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Milan/10-11-2023/loftus-cheek-e-cio-che-mancava-al-milan.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2023-11-10T10:10:27+00:00"
-    },
-    {
-      "id": "86ca46bddb",
-      "titolo": "Parole da leader: così i veterani hanno difeso Pioli e rilanciato il Milan",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/Milan/09-11-2023/maignan-e-theo-ecco-come-i-leader-del-milan-hanno-difeso-pioli.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2023-11-09T10:02:06+00:00"
-    },
-    {
-      "id": "1439f3459e",
-      "titolo": "Gallagher col cartonato di Pep: sfottò all’Inter",
-      "url": "https://video.gazzetta.it/video-noel-gallagher-col-cartonato-di-guardiola-sul-palco-sfotto-all-inter/7969b5c3-d385-4374-9273-be7873027xlk",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2023-11-09T08:01:24+00:00"
-    },
-    {
-      "id": "60188078c6",
-      "titolo": "Napoli, il Maradona resta un tabù: pochi gol e soldi persi",
-      "url": "https://www.gazzetta.it/Calcio/Champions-League/09-11-2023/napoli-e-il-tabu-maradona-pochi-gol-e-milioni-persi.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2023-11-09T06:38:06+00:00"
-    },
-    {
-      "id": "68bc53579e",
-      "titolo": "Una Champions per 5: corsa al ranking per un posto in più nella nuova coppa",
-      "url": "https://www.gazzetta.it/Calcio/Champions-League/10-11-2023/champions-per-5-corsa-al-ranking-per-un-posto-in-piu-nella-nuova-coppa.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 20,
-      "pubblicato": "2023-11-10T07:05:44+00:00"
-    },
-    {
-      "id": "fd9dbe212d",
-      "titolo": "Champions, ecco quali italiane andranno agli ottavi per i bookie",
-      "url": "https://www.gazzetta.it/scommesse/pronostici/calcio/champions-league/09-11-2023/champions-quote-ottavi-4-giornata-antepost-23731.shtml?refresh_ce",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 20,
-      "pubblicato": "2023-11-09T10:58:58+00:00"
-    },
-    {
-      "id": "008b910863",
-      "titolo": "Udinese, dov'è finita la solidità? Il clean sheet manca da 8 gare, un obiettivo di Runjaic è lontano",
-      "url": "https://www.tuttomercatoweb.com/serie-a/finita-solidita-udinese-clean-sheet-manca-8-gare-obiettivo-runjaic-2284555",
-      "estratto": "L’Udinese è chiamata a invertire una tendenza preoccupante sul piano difensivo.",
+      "id": "71870b725b",
+      "titolo": "Da Hellas-Catanzaro a Mantova-Palermo, i convocati per la 7ª giornata di Serie B",
+      "url": "https://www.tuttomercatoweb.com/serie-b/hellas-catanzaro-mantova-palermo-convocati-7a-giornata-serie-b-2283591",
+      "estratto": "Per la 7ª giornata del campionato di Serie B la redazione di TuttoMercatoWeb.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-18T09:26:13+00:00"
+      "pubblicato": "2026-10-18T10:49:00+00:00"
+    },
+    {
+      "id": "20bd799759",
+      "titolo": "Incornata di Gaspar e Lecce in vantaggio 1-0 a Udine. Karlstrom però lo lascia tutto solo",
+      "url": "https://www.tuttomercatoweb.com/serie-a/incornata-gaspar-lecce-vantaggio-1-0-udine-karlstrom-lascia-2284588",
+      "estratto": "Kialonda Gaspar sblocca la gara di Udine dopo appena 12 minuti.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T10:45:36+00:00"
+    },
+    {
+      "id": "1ddc3c4a84",
+      "titolo": "Parma, a breve la conferenza di Gilardino alla vigilia della sfida contro il Torino",
+      "url": "https://www.tuttomercatoweb.com/serie-a/parma-breve-conferenza-gilardino-vigilia-sfida-torino-2284566",
+      "estratto": "L'esordio di mister Alberto Gilardino sulla panchina del Parma non è andato come sperato, vista la pesante sconfitta esterna contro l'Inter.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T10:45:00+00:00"
+    },
+    {
+      "id": "a32073df8e",
+      "titolo": "Udinese, Alaba torna titolare dopo quasi cinque mesi: l’ultima volta fu in Real-Athletic 4-2",
+      "url": "https://www.tuttomercatoweb.com/serie-a/udinese-alaba-torna-titolare-mesi-l-ultima-real-athletic-2284581",
+      "estratto": "Prima da titolare con la maglia dell’Udinese per David Alaba.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T10:30:48+00:00"
+    },
+    {
+      "id": "020adaa52c",
+      "titolo": "Probabili formazioni Serie A, le ultime sulla 7ª giornata di campionato",
+      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/probabili-formazioni-serie-a-ultime-7a-giornata-campionato-2283865",
+      "estratto": "Di seguito le probabili formazioni della 7^ giornata di Serie A raccolte dai nostri inviati sul campo FROSINONE-SASSUOLO 4-2 - Il tabellino Marcatori: 9’ Calò (F), 15’ Berardi (S), 27’ Raimondo (F), 30’ Raimondo (F), 37’ Thorstvedt (S), 57’ Raimondo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T10:11:00+00:00"
+    },
+    {
+      "id": "321a83410a",
+      "titolo": "Dove vedere Real Madrid-Siviglia in tv? Sky o Dazn, orario",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/18-151975949/dove_vedere_real_madrid-siviglia_in_tv_sky_o_dazn_orario/",
+      "estratto": "Dopo la rimonta clamorosa contro la Roma, la squadra di Mourinho torna in campo: tutte le info sul match",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T09:57:50+00:00"
+    },
+    {
+      "id": "f45d983bf6",
+      "titolo": "Dove vedere Sampdoria-Arezzo in tv? Sky o Dazn",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/18-151975947/dove_vedere_sampdoria-arezzo_in_tv_sky_o_dazn/",
+      "estratto": "Corradi alla ricerca della svolta con i blucerchiati: tuttele info sul match della settima giornata del campionato di Serie B",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T09:49:11+00:00"
+    },
+    {
+      "id": "c835a7c4dd",
+      "titolo": "Dove vedere Cesena-Avellino in tv? Sky o Dazn, orario",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/18-151975945/dove_vedere_cesena-avellino_in_tv_sky_o_dazn_orario/",
+      "estratto": "Diamanti sfida Nesta nella settima giornata del campionato di Serie B: tutte le info",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T09:40:35+00:00"
+    },
+    {
+      "id": "f46708575f",
+      "titolo": "Dove vedere Sorrento-Casertana in tv? Sky o Dazn, orario",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/18-151975753/dove_vedere_sorrento-casertana_in_tv_sky_o_dazn_orario/",
+      "estratto": "Scopri tutto ci&ograve; che c'&egrave; da sapere sulla sfida del girone C di Serie C: le info per seguire il match",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T09:22:07+00:00"
     },
     {
       "id": "2c724775a1",
@@ -597,50 +454,6 @@
       "pubblicato": "2026-10-18T09:14:01+00:00"
     },
     {
-      "id": "dc9dc1c843",
-      "titolo": "Monza-Cagliari, le probabili formazioni: c'è Goglichidze al posto di Lucchesi",
-      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/monza-cagliari-probabili-formazioni-2283908",
-      "estratto": "Le ultime dai campi e le probabili formazioni di Monza-Cagliari: Come arriva il Monza Pochi dubbi in casa Monza, con Juric che deve comunque rinunciare a Lucchesi per squalifica.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:12:09+00:00"
-    },
-    {
-      "id": "3e70d6276d",
-      "titolo": "Udinese-Lecce, le probabili formazioni: Davis lavora per esserci dal 1', confermato Fatah",
-      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/udinese-lecce-probabili-formazioni-2283889",
-      "estratto": "Le ultime dai campi e le probabili formazioni di Udinese-Lecce: Come arriva l'Udinese L’Udinese si prepara in vista della sfida con il Lecce e mister Runjaic dovrà come sempre valutare la questione infortunati.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:12:05+00:00"
-    },
-    {
-      "id": "525a988a5e",
-      "titolo": "Indisponibili e squalificati della Serie A: chi salta la settima giornata di campionato",
-      "url": "https://www.tuttomercatoweb.com/serie-a/indisponibili-squalificati-serie-a-salta-settima-giornata-campionato-2283866",
-      "estratto": "Ecco tutti gli assenti della Serie A per quanto riguarda la 5ª giornata di campionato (articolo in aggiornamento): ATALANTA Indisponibili: Sulemana, Hien, Kossounou, Pompei, Scalvini, Kessie.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:11:00+00:00"
-    },
-    {
-      "id": "020adaa52c",
-      "titolo": "Probabili formazioni Serie A, le ultime sulla 7ª giornata di campionato",
-      "url": "https://www.tuttomercatoweb.com/probabili-formazioni/probabili-formazioni-serie-a-ultime-7a-giornata-campionato-2283865",
-      "estratto": "Di seguito le probabili formazioni della 7^ giornata di Serie A raccolte dai nostri inviati sul campo FROSINONE-SASSUOLO 4-2 - Il tabellino Marcatori: 9’ Calò (F), 15’ Berardi (S), 27’ Raimondo (F), 30’ Raimondo (F), 37’ Thorstvedt (S), 57’ Raimondo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:11:00+00:00"
-    },
-    {
       "id": "3ddfc781b8",
       "titolo": "Dove vedere Cosenza-Altamura in tv? Sky o Dazn, orario",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/18-151975643/dove_vedere_cosenza-altamura_in_tv_sky_o_dazn_orario/",
@@ -650,17 +463,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-18T09:06:59+00:00"
-    },
-    {
-      "id": "9cd084e2c6",
-      "titolo": "Davide Nicola come Mr. Wolf: porta inviolata in un Venezia che prendeva quasi 3 gol a gara",
-      "url": "https://www.tuttomercatoweb.com/serie-a/davide-nicola-mr-wolf-porta-inviolata-venezia-prendeva-3-gol-media-2284344",
-      "estratto": "Davide Nicola come il celebre Mr.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:05:02+00:00"
     },
     {
       "id": "946e425675",
@@ -674,17 +476,6 @@
       "pubblicato": "2026-10-18T09:01:21+00:00"
     },
     {
-      "id": "304f5b1e55",
-      "titolo": "Il Torino ha un nuovo padrone del centrocampo. Per solo 4 milioni di euro",
-      "url": "https://www.tuttomercatoweb.com/podcast-tmw/torino-padrone-centrocampo-4-euro-2283490",
-      "estratto": "Il Torino si gode il nuovo acquisto Daniel Braganca.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:00:00+00:00"
-    },
-    {
       "id": "e818bf7048",
       "titolo": "Leao entra con il Galatasaray ma la sua partita dura un quarto d'ora: cos'&egrave; successo",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/10/18-151975173/leao_entra_con_il_galatasaray_ma_la_sua_partita_dura_un_quarto_d_ora_cos_successo/",
@@ -696,28 +487,6 @@
       "pubblicato": "2026-10-18T08:51:13+00:00"
     },
     {
-      "id": "c101f4023b",
-      "titolo": "Taylor e il codice Ajax",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/18-151974896/taylor_e_il_codice_ajax/",
-      "estratto": "L'olandese &egrave; riuscito a portare alla Lazio un po' della cultura del club dove &egrave; cresciuto: il commento di Stefano Chioffi",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T08:17:44+00:00"
-    },
-    {
-      "id": "c5765f30ce",
-      "titolo": "Un messaggio per tutti",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/18-151974605/un_messaggio_per_tutti/",
-      "estratto": "La Roma reagisce subito dopo la beffa contro il Real Madrid e manda un segnale al campionato: il commento di Mimmo Ferretti",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T07:49:30+00:00"
-    },
-    {
       "id": "f4dc79857e",
       "titolo": "Spalletti, uomo forte destino forte",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151951822/spalletti_uomo_forte_destino_forte/",
@@ -727,83 +496,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-18T04:00:00+00:00"
-    },
-    {
-      "id": "4042f445b1",
-      "titolo": "5 NOMI SU CUI PUNTARE AL FANTACALCIO PER IL RUSH FINALE: da Diao a Vlahovic, Zappacosta e...",
-      "url": "https://www.gazzetta.it/Calcio/Magic-Cup/31-03-2026/5-nomi-cui-puntare-fantacalcio-il-rush-finale-diao-vlahovic-zappacosta-e-5001955304367.shtml",
-      "estratto": "5 NOMI SU CUI PUNTARE AL FANTACALCIO PER IL RUSH FINALE: da Diao a Vlahovic, Zappacosta e...Con il campionato che entra nella sua fase decisiva, ogni scelta al fantacalcio pesa il doppio. Tra infortuni, cali di forma, rotazioni e contesti tecnici poc",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-03-31T16:13:28+00:00"
-    },
-    {
-      "id": "b1cf827de6",
-      "titolo": "Il pagellone della Serie B: Modena e Reggiana, l'Emilia felice, 8,5. Bari, dove sei finito? 4,5",
-      "url": "https://www.gazzetta.it/Calcio/Serie-B/29-01-2024/il-pagellone-della-serie-b-promossi-e-bocciati-della-ventiduesima-giornata.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2024-01-29T15:16:27+00:00"
-    },
-    {
-      "id": "e82891c5f5",
-      "titolo": "Le pagelle degli arbitri: Serataccia per Aureliano, 5. Male anche Massa",
-      "url": "https://www.gazzetta.it/Calcio/Serie-A/29-01-2024/arbitri-le-pagelle-della-22a-giornata-di-serie-a.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2024-01-29T09:27:00+00:00"
-    },
-    {
-      "id": "ee9140421d",
-      "titolo": "Ranking, regolamento e date: tutto sul Mondiale per club",
-      "url": "https://video.gazzetta.it/video-mondiale-per-club-la-guida-come-funziona-regolamento-ranking-date/24ae7b15-162d-42ea-b476-64697b549xlk",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2023-11-10T07:52:37+00:00"
-    },
-    {
-      "id": "c1f6c23596",
-      "titolo": "Bardghji, dal Kuwait a Copenaghen: dribbling e fede per prendersi l'Europa",
-      "url": "https://www.gazzetta.it/Calcio/Champions-League/09-11-2023/bardghji-dal-kuwait-a-copenaghen-chi-e-il-giocatore-che-ha-battuto-il-manchester-united.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2023-11-09T15:37:38+00:00"
-    },
-    {
-      "id": "11f3542a3c",
-      "titolo": "Disastro United, è ultimo: ora per gli ottavi serve un'impresa",
-      "url": "https://www.gazzetta.it/scommesse/pronostici/calcio/champions-league/09-11-2023/manchester-united-champions-qualificazione-ottavi-23738.shtml",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2023-11-09T12:37:03+00:00"
-    },
-    {
-      "id": "e910190edd",
-      "titolo": "I migliori marcatori del 2023: solo in due hanno fatto meglio di Lautaro",
-      "url": "https://www.gazzetta.it/Calcio/Champions-League/storie/09-11-2023/classifica-marcatori-2023-kane-e-icardi-davanti-a-lautaro/",
-      "estratto": "",
-      "fonte": "Gazzetta dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2023-11-09T11:22:46+00:00"
     }
   ]
 }

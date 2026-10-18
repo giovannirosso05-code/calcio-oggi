@@ -1,7 +1,7 @@
 import hashlib
 import json
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import feedparser
 import requests
@@ -23,6 +23,9 @@ FEEDS = [
 
 VERBI_CITAZ = re.compile(r"\b(dice|dicono|ammette|rivela|spiega|racconta|intervista|parla|svela|confessa|promette|avverte|attacca|risponde|sottolinea|difende|chiarisce|ricorda|sfogo|furia)\b", re.I)
 VIRGOLETTE = re.compile(r"[«»“\"]")
+
+# Le notizie più vecchie di così non si tengono: un sito "oggi" non può aprire con un articolo del 2024
+ETA_MAX_ORE = 72
 
 BIG_SERIE_A = ["inter", "milan", "juventus", "juve", "napoli", "roma", "lazio", "atalanta", "fiorentina"]
 
@@ -59,9 +62,12 @@ def analizza_articolo(entry, fonte, serie):
     # Data pubblicazione
     pubb = entry.get("published_parsed") or entry.get("updated_parsed")
     if pubb:
-        data_iso = datetime(*pubb[:6], tzinfo=timezone.utc).isoformat()
+        data_pubb = datetime(*pubb[:6], tzinfo=timezone.utc)
     else:
-        data_iso = datetime.now(timezone.utc).isoformat()
+        data_pubb = datetime.now(timezone.utc)
+    if datetime.now(timezone.utc) - data_pubb > timedelta(hours=ETA_MAX_ORE):
+        return None
+    data_iso = data_pubb.isoformat()
 
     return {
         "id": calcola_codice(link),
