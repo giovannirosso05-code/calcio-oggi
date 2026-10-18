@@ -198,6 +198,30 @@ def pagina_tabella(spec, avanzamento, sub=None):
 <div class=tit>Risultati della giornata<small>{esc(t["data"])}</small></div><div class=tab>{corpo}</div>{sub_html}<div class=cred>Dati: {esc(spec["fonte"])}</div>"""
 
 
+def stemma(url):
+    """Immagine verticale col logo della squadra su un disco chiaro (visibile anche per i logo scuri): ripiego quando non c'è una foto libera."""
+    import io
+    import requests
+    from PIL import Image, ImageDraw
+    try:
+        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0 (compatible; CalcioOggiBot/1.0)"})
+        r.raise_for_status()
+        lg = Image.open(io.BytesIO(r.content)).convert("RGBA")
+    except Exception:
+        return None
+    bg = Image.new("RGB", (W, H))
+    d = ImageDraw.Draw(bg)
+    for y in range(H):
+        t = y / H
+        d.line([(0, y), (W, y)], fill=(int(24 - 14 * t), int(28 - 16 * t), int(34 - 20 * t)))
+    disco = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(disco).ellipse([W // 2 - 380, 800 - 380, W // 2 + 380, 800 + 380], fill=(241, 244, 242, 245))
+    bg = Image.alpha_composite(bg.convert("RGBA"), disco)
+    lg.thumbnail((600, 600), Image.LANCZOS)
+    bg.alpha_composite(lg, (W // 2 - lg.width // 2, 800 - lg.height // 2))
+    return bg.convert("RGB")
+
+
 def risolvi_foto(spec, banca):
     """Per ogni scena (e per il finale) una immagine pertinente, DIVERSA dalle altre finché ce ne sono.
     Una scena senza immagine propria usa un'altra immagine della storia; se non c'è nessuna immagine il video non si fa.
@@ -208,6 +232,10 @@ def risolvi_foto(spec, banca):
         nome = s.get("foto", "")
         cands = banca.candidati(nome, len(nome.split()) == 1) if nome else []
         c = next((x for x in cands if x["id"] not in usate), None) or (cands[0] if cands else None)
+        if c is None and s.get("stemma"):   # nessuna foto libera: lo stemma della squadra, non l'immagine di un'altra scena
+            im = stemma(s["stemma"])
+            if im is not None:
+                c = {"id": "stemma:" + s["stemma"], "img": im, "credito": "Stemma del club", "origine": "stemma (dati ESPN): nessuna foto libera di " + (nome or "?"), "stemma": True}
         if c:
             usate.add(c["id"])
         scelte.append([c, bool(c)])
@@ -280,7 +308,7 @@ async def genera(spec, uscita, banca):
             for idx, s in enumerate(lavoro):
                 img_f, cred, propria = s["s"].get("_img") or next(x["s"]["_img"] for x in lavoro if x["s"].get("_img"))
                 fb = b64(img_f)
-                if propria and len(s["s"].get("foto", "").split()) >= 2 and not s["s"].get("nome"):
+                if propria and "stemma" not in cred.lower() and len(s["s"].get("foto", "").split()) >= 2 and not s["s"].get("nome"):
                     s["s"]["nome"] = s["s"]["foto"].upper()   # targhetta col nome, solo se l'immagine è di quella persona (articolo col suo nome nel titolo)
                 fine_scena = (lavoro[idx + 1]["ini"] if idx < len(lavoro) - 1 else s["ini"] + s["dur"] + 0.6)
                 if s["s"].get("finale"):

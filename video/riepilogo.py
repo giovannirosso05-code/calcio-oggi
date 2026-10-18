@@ -23,7 +23,7 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; CalcioOggiBot/1.0; +https://github
 ORDINE = ["ita.1", "uefa.champions", "uefa.europa", "uefa.europa.conf", "ita.coppa_italia", "eng.1", "esp.1", "ger.1", "fra.1", "ita.2"]
 EUROPA = {"uefa.champions", "uefa.europa", "uefa.europa.conf"}
 MAX_RIGHE = 26
-GERGO = re.compile(r"domicilio|corsar|espugn|sbanc|\btris\b|manita|cappotto|\bko\b|\bk\.o|show|spettacol|dilag|asfalt|schiacc|travolg|umilia|demolis|stende|di scarto|gol di differenza|\bpazzesc|clamoros|incredibil", re.I)
+GERGO = re.compile(r"domicilio|corsar|espugn|sbanc|\btris\b|manita|cappotto|\bko\b|\bk\.o|show|spettacol|dilag|asfalt|schiacc|travolg|umilia|demolis|stende|di scarto|gol di differenza", re.I)
 MESI = "gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre".split()
 
 
@@ -150,8 +150,8 @@ def prompt(giorno, tutte, scelte, mancano, sorp, errori=None):
         "- Se i marcatori non sono disponibili, racconta solo il risultato. Non dire chi ha segnato se non è nei dati.\n"
         "- Dici ogni risultato UNA sola volta e in un solo modo: NON «vince 3-0 con tre gol di scarto», NON ripetizioni.\n"
         "- Niente opinioni tue, niente quote, pronostici, scommesse, premi, soldi. Nessun insulto.\n"
-        "- Parole SEMPLICI e dirette, come le direbbe una persona al bar: vince, batte, perde, pareggia, segna. VIETATI modi di dire, gergo e metafore («a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show»). Niente aggettivi enfatici («clamoroso», «incredibile»).\n"
-        "- Italiano di tutti i giorni, frasi brevi e complete. Gancio: UNA frase di 10-16 parole col fatto più clamoroso (nomi e squadre), mai un'esclamazione vaga.\n"
+        "- Parole SEMPLICI e dirette, come le direbbe una persona al bar: vince, batte, perde, pareggia, segna. VIETATI modi di dire, gergo e metafore («a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show»). L'enfasi («partita incredibile») è permessa SOLO nel gancio, mai nelle scene.\n"
+        "- Italiano di tutti i giorni, frasi brevi e complete. Gancio: UNA frase di 10-16 parole con la squadra, il risultato in cifre e un giudizio forte, per esempio «La Lazio vince 3-0 contro la Juventus con una partita incredibile». NON elencare i marcatori e NON dire cose ovvie (es. «tre gol diversi», «segnano in tre»).\n"
         "- Ogni scena 12-18 parole. *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = i nomi di persone e squadre.\n"
         "- «foto»: il nome di UNA squadra o di UN marcatore che compare nei dati di quella partita (scritto come nei dati).\n"
         "- «finale.domanda»: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote. «finale.foto»: una squadra dei dati.\n"
@@ -204,6 +204,31 @@ def controlla(spec, tutte, scelte):
     return list(dict.fromkeys(errori))
 
 
+def _stemmi(tutte):
+    """{nome squadra normalizzato: logo} e {parola del cognome del marcatore: logo della sua squadra}."""
+    squadre, marc = {}, {}
+    for p in tutte:
+        for t in (p["casa"], p["ospite"]):
+            for n in (t["breve"], t["nome"]):
+                squadre[_norm(n)] = t.get("logo", "")
+        logo = {p["casa"]["id"]: p["casa"].get("logo", ""), p["ospite"]["id"]: p["ospite"].get("logo", "")}
+        for g in p.get("gol", []):
+            for w in _norm(g.get("marcatore", "")).split():
+                if len(w) > 2:
+                    marc[w] = logo.get(g.get("squadra"), "")
+    return squadre, marc
+
+
+def stemma_per(nome, tutte):
+    """Indirizzo del logo della squadra a cui appartiene `nome` (una squadra o un marcatore dei dati), altrimenti ''."""
+    squadre, marc = _stemmi(tutte)
+    n = _norm(nome)
+    if n in squadre:
+        return squadre[n]
+    parole = [w for w in n.split() if len(w) > 2]
+    return marc.get(parole[-1], "") if parole else ""
+
+
 def da_giornata(oggi=None) -> dict:
     """Spec del video (per notizia_sub.genera), oppure ErroreScaletta."""
     giorno, tutte, mancano = partite_del_giorno(oggi)
@@ -217,13 +242,13 @@ def da_giornata(oggi=None) -> dict:
             break
     if errori:
         raise ErroreScaletta("Non sono riuscito a scrivere un riepilogo che rispetti le regole (" + "; ".join(errori[:3]) + "): il video non l'ho fatto.")
-    scene = [{"foto": spec["hook_foto"], "hook": True, "hook_titolo": spec["hook_titolo"], "testo": spec["hook_testo"]},
+    scene = [{"foto": spec["hook_foto"], "stemma": stemma_per(spec["hook_foto"], tutte), "hook": True, "hook_titolo": spec["hook_titolo"], "testo": spec["hook_testo"]},
              {"foto": "", "tabella": True, "testo": "Questi sono i risultati della giornata di Serie A. " + spec["tabella_testo"], "durata_min": 6.0}]
-    scene += [{"foto": s["foto"], "testo": s["testo"]} for s in spec["scene"]]
+    scene += [{"foto": s["foto"], "stemma": stemma_per(s["foto"], tutte), "testo": s["testo"]} for s in spec["scene"]]
     if mancano:
         etichetta, gare = mancano
         coppie = " e ".join(f"[{p['casa']['breve']}] contro [{p['ospite']['breve']}]" for p in gare[:2])
-        scene.append({"foto": gare[0]["casa"]["breve"], "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}." if len(gare) <= 2 else f"Mancano ancora le partite *{etichetta}*."})
+        scene.append({"foto": gare[0]["casa"]["breve"], "stemma": gare[0]["casa"].get("logo", ""), "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}." if len(gare) <= 2 else f"Mancano ancora le partite *{etichetta}*."})
     return {"serie": "Serie A", "titolo_breve": "Serie A: riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
             "scene": scene, "finale": spec["finale"], "apertura": spec.get("apertura", "Il riepilogo della giornata"), "hashtag": spec.get("hashtag", []),
             "tabella": tabella(giorno, tutte), "url": ""}
