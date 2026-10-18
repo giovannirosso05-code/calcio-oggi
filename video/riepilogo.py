@@ -23,6 +23,7 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; CalcioOggiBot/1.0; +https://github
 ORDINE = ["ita.1", "uefa.champions", "uefa.europa", "uefa.europa.conf", "ita.coppa_italia", "eng.1", "esp.1", "ger.1", "fra.1", "ita.2"]
 EUROPA = {"uefa.champions", "uefa.europa", "uefa.europa.conf"}
 MAX_RIGHE = 26
+GERGO = re.compile(r"domicilio|corsar|espugn|sbanc|\btris\b|manita|cappotto|\bko\b|\bk\.o|show|spettacol|dilag|asfalt|schiacc|travolg|umilia|demolis|stende|\bpazzesc|clamoros|incredibil", re.I)
 MESI = "gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre".split()
 
 
@@ -129,6 +130,7 @@ def prompt(giorno, tutte, scelte, mancano, errori=None):
         "- Ogni risultato che scrivi con le cifre deve essere IDENTICO a uno dei risultati qui sotto (es. «3-1»). Meglio dire «tre a uno» sbagliando mai.\n"
         "- Se i marcatori non sono disponibili, racconta solo il risultato. Non dire chi ha segnato se non è nei dati.\n"
         "- Niente opinioni tue, niente quote, pronostici, scommesse, premi, soldi. Nessun insulto.\n"
+        "- Parole SEMPLICI e dirette, come le direbbe una persona al bar: vince, batte, perde, pareggia, segna. VIETATI modi di dire, gergo e metafore («a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show»). Niente aggettivi enfatici («clamoroso», «incredibile»).\n"
         "- Italiano di tutti i giorni, frasi brevi e complete. Gancio: UNA frase di 10-16 parole col fatto più clamoroso (nomi e squadre), mai un'esclamazione vaga.\n"
         "- Ogni scena 12-18 parole. *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = i nomi di persone e squadre.\n"
         "- «foto»: il nome di UNA squadra o di UN marcatore che compare nei dati di quella partita (scritto come nei dati).\n"
@@ -159,6 +161,8 @@ def controlla(spec, tutte, scelte):
     tutto = json.dumps(spec, ensure_ascii=False)
     if VIETATE.search(tutto):
         errori.append("contiene parole vietate")
+    if GERGO.search(tutto):
+        errori.append("contiene gergo o modi di dire (" + ", ".join(sorted({m.group(0).lower() for m in GERGO.finditer(tutto)})) + "): usa parole semplici")
     veri = {f"{p['casa']['gol']}-{p['ospite']['gol']}" for p in tutte} | {f"{p['ospite']['gol']}-{p['casa']['gol']}" for p in tutte}
     for t in testi:
         for m in re.findall(r"\d+\s*[-–a]\s*\d+", t):

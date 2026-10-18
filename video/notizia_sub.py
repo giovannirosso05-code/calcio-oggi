@@ -167,7 +167,7 @@ def pagina_tabella(spec, avanzamento, sub=None):
     """Schermata con tutti i risultati della giornata (spec["tabella"]); i sottotitoli stanno sotto, nella parte libera."""
     t = spec["tabella"]
     n_righe = sum(len(g["righe"]) for g in t["gruppi"])
-    riga_h = max(34, min(86, int((1330 - len(t["gruppi"]) * 62) / max(n_righe, 1))))
+    riga_h = max(34, min(120, int((1330 - len(t["gruppi"]) * 62) / max(n_righe, 1))))
     f = int(riga_h * 0.62)
     corpo = ""
     for g in t["gruppi"]:
@@ -188,7 +188,7 @@ def pagina_tabella(spec, avanzamento, sub=None):
 .lega{{font:700 {int(riga_h * 0.6)}px/{int(riga_h * 1.1)}px Oswald;text-transform:uppercase;color:{COL};letter-spacing:.06em;margin-top:{int(riga_h * 0.25)}px;border-bottom:2px solid rgba(255,255,255,.18)}}
 .r{{display:flex;align-items:center;height:{riga_h}px;font:700 {f}px Oswald;text-transform:uppercase;border-bottom:1px solid rgba(255,255,255,.08)}}
 .r .c{{flex:1;text-align:right;padding-right:14px;white-space:nowrap;overflow:hidden}} .r .o{{flex:1;text-align:left;padding-left:14px;white-space:nowrap;overflow:hidden}}
-.r img,.r i{{width:{int(riga_h * 0.74)}px;height:{int(riga_h * 0.74)}px;object-fit:contain}}
+.r img,.r i{{width:{int(riga_h * 0.78)}px;height:{int(riga_h * 0.78)}px;object-fit:contain;background:#f1f4f2;border-radius:50%;padding:{max(2, int(riga_h * 0.07))}px}}
 .r b{{width:{int(riga_h * 2.1)}px;text-align:center;font-size:{int(f * 1.15)}px;color:{GIALLO}}}
 .sub{{position:absolute;left:90px;width:900px;top:1690px;text-align:center;font:700 58px/1.15 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill}}
 .sub .g{{color:{GIALLO}}} .sub .s{{color:{NOM}}}
