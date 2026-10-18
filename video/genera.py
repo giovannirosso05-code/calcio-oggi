@@ -17,6 +17,7 @@ import requests
 from PIL import Image
 
 from video import foto as FOTO
+from video.copertina_ai import genera_sfondo
 from video.grafica import crea_copertina
 from video.immagini import Banca
 from video.notizia_sub import NessunaFoto, genera
@@ -82,7 +83,19 @@ def _segna_inviato(nome):
         REGISTRO.write_text(json.dumps(fatti, ensure_ascii=False, indent=1))
 
 
+def copertina_ia(titolo, fonte, serie, percorso):
+    """Copertina a tutto schermo con sfondo generato dall'IA; None se l'IA non risponde (si tiene l'altra)."""
+    sfondo = genera_sfondo(titolo, serie)
+    if sfondo is None:
+        return None
+    return crea_copertina(titolo, fonte, serie, sfondo, "Immagine generata con IA", percorso)
+
+
 def solo_copertina(titolo, fonte, serie):
+    cop = copertina_ia(titolo, fonte, serie, USCITA / "copertina.png")
+    if cop:
+        manda("sendPhoto", "photo", cop, f"⚽ {serie}\n\n{titolo}\n📰 Fonte: {fonte}\n🎨 Sfondo generato con IA")
+        return
     f = FOTO.trova_per_titolo(titolo)
     print("foto:", f["credito"] if f else "nessuna (sfondo del marchio)")
     img = Image.open(f["file"]).convert("RGB") if f else None
@@ -114,7 +127,8 @@ def main():
         return
     # prima il foglio di controllo con le foto usate, poi copertina e video, poi la didascalia da copiare
     scrivi("🔎 Controllo foto (guardale prima di postare):\n" + "\n".join(risultato["foglio"]))
-    manda("sendPhoto", "photo", risultato["copertina"], "Copertina")
+    cop_ia = copertina_ia(spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_ia.png")
+    manda("sendPhoto", "photo", cop_ia or risultato["copertina"], "Copertina (sfondo IA)" if cop_ia else "Copertina")
     manda("sendVideo", "video", USCITA / "video.mp4", f"🎬 {spec.get('titolo_breve', '')}")
     scrivi(didascalia(spec), da_copiare=True)
     _segna_inviato(nome)
