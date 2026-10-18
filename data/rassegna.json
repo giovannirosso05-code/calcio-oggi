@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-17T22:14:56.569083+00:00",
+  "aggiornato": "2026-10-18T00:03:17.376809+00:00",
   "totale": 75,
   "articoli": [
     {
@@ -14,48 +14,15 @@
       "pubblicato": "2024-01-29T16:09:02+00:00"
     },
     {
-      "id": "f315800b6d",
-      "titolo": "Nuova partenza a handicap per l'Inter, Carlos Augusto: \"Recuperare togli energie. Miglioreremo\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/nuova-partenza-handicap-inter-carlos-augusto-recuperare-togli-energie-miglioreremo-2284461",
-      "estratto": "Carlos Augusto, protagonista assoluto della vittoria dell'Inter contro il Bologna, con un gol e un assist, ha parlato a Sky Sport per analizzare la partita, con i nerazzurri che erano passati in svantaggio nel primo tempo prima di ribaltare e chiuder",
+      "id": "fe5d5fc6a2",
+      "titolo": "Dario Canovi: \"Napoli, Conte aveva capito tutto. Calcio italiano in crisi. Venezia, Nicola salverà il salvabile\"",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/dario-canovi-napoli-conte-capito-tutto-calcio-italiano-crisi-venezia-nicola-salvera-salvabile-2284522",
+      "estratto": "“La Roma? Un cattivo primo tempo, era con tante riserve e sostituzioni.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-17T22:08:00+00:00"
-    },
-    {
-      "id": "43af35f574",
-      "titolo": "Napoli in difficoltà, Di Lorenzo: \"Allegri ci ha detto di stare uniti e fare tutti qualcosa in più\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/napoli-difficolta-lorenzo-allegri-stare-uniti-piu-2284374",
-      "estratto": "Giovanni Di Lorenzo e il Napoli non hanno ben digerito, ovviamente, il risultato di Venezia.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-17T21:59:08+00:00"
-    },
-    {
-      "id": "bab61e53c9",
-      "titolo": "Roma, de Roon: \"Il gol al Real? Ero felicissimo, non sapevo come esultare\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/roma-calciatore-2284476",
-      "estratto": "Al termine di Roma-Genoa, è il giallorosso de Roon a presentarsi nella sala stampa dello Stadio Olimpico per commentare in conferenza il match.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-17T21:57:09+00:00"
-    },
-    {
-      "id": "a486fb6ebb",
-      "titolo": "Roma, Gasperini: \"Ottimo secondo tempo, non ricordo un gol come quello di Castro\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/roma-gasperini-2284398",
-      "estratto": "Gian Piero Gasperini, tecnico della Roma, è intervenuto ai microfoni di DAZN al termine della sfida casalinga vinta per 2-0 contro il Genoa: \"300 vittorie da quando alleno in Serie A? Vuol dire che è passato un sacco di tempo\".",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-17T21:45:21+00:00"
+      "pubblicato": "2026-10-17T23:10:38+00:00"
     },
     {
       "id": "e8ad32050a",
@@ -234,6 +201,17 @@
       "pubblicato": "2023-11-11T07:46:25+00:00"
     },
     {
+      "id": "02845e37cc",
+      "titolo": "Como, Diao rompe il silenzio dopo l'infortunio: \"La riabilitazione è iniziata, torno presto\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/como-diao-rompe-silenzio-infortunio-la-riabilitazione-iniziata-torno-presto-2284472",
+      "estratto": "Assane Diao torna a farsi sentire dopo l'infortunio rimediato in Champions League contro il Feyenoord.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 60,
+      "pubblicato": "2026-10-17T22:15:46+00:00"
+    },
+    {
       "id": "24af150d1f",
       "titolo": "Luis Enrique: \"Il nostro girone di Champions il più difficile, rischiamo tanto...\"",
       "url": "https://www.itasportpress.it/champions-league/psg-luis-enrique-avverte-gruppo-di-champions-difficile-rischiamo-tanto/?intcmp=gazzanet-luis-enrique",
@@ -256,92 +234,37 @@
       "pubblicato": "2023-11-09T07:50:05+00:00"
     },
     {
-      "id": "d85c3c5730",
-      "titolo": "PSG, Zabarnyi contro Marine Le Pen: \"La Francia continui ad aiutare l'Ucraina\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/psg-zabarnyi-marine-pen-la-francia-continui-aiutare-ucraina-2284504",
-      "estratto": "Illia Zabarnyi prende posizione sul sostegno della Francia all'Ucraina.",
+      "id": "4c1d2f2cf4",
+      "titolo": "Nicola e la richiesta di sostegno ai tifosi del Venezia per Adams: \"Non era un rimprovero\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/nicola-richiesta-sostegno-tifosi-venezia-adams-non-rimprovero-2284446",
+      "estratto": "Mister Davide Nicola, intervenuto in conferenza stampa dopo la vittoria contro il Napoli al suo debutto sulla panchina del Venezia, è stato interpellato anche sul bel gesto nei confronti di Akor Adams nel primo tempo.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-17T22:12:01+00:00"
+      "pubblicato": "2026-10-17T22:30:58+00:00"
     },
     {
-      "id": "0b574dc569",
-      "titolo": "Pisa, Moreo: \"Tramoni è un giocatore pazzesco, è importante averlo ritrovato\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/pisa-moreo-tramoni-giocatore-pazzesco-importante-ritrovato-2284492",
-      "estratto": "Stefano Moreo, attaccante del Pisa, commenta così la vittoria ottenuta questa sera con la Cremonese: \"Vittoria importantissima che da grande continuità al lavoro della scorsa settimana.",
+      "id": "f43c7f28fc",
+      "titolo": "Lione, Fonseca annuncia turnover contro il Nizza: \"Sarà difficile dal punto di vista fisico\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/lione-fonseca-annuncia-turnover-nizza-sara-difficile-punto-vista-fisico-2284511",
+      "estratto": "Paulo Fonseca prepara una rotazione ampia in vista della sfida di Ligue 1 contro il Nizza.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-17T21:56:01+00:00"
+      "pubblicato": "2026-10-17T22:26:01+00:00"
     },
     {
-      "id": "06631dfc83",
-      "titolo": "Adams e il siparietto in sala stampa: \"Mi raccomando, parlate del man of the match Stankovic\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/adams-siparietto-sala-stampa-mi-raccomando-parlate-stankovic-man-of-the-match-2284443",
-      "estratto": "Quarto gol con la maglia del Venezia per Akor Adams, che oggi ha deciso la sfida casalinga col Napoli, regalando ai lagunari la loro prima vittoria in questo campionato.",
+      "id": "875f32a98d",
+      "titolo": "Spalletti torna sulla lite con Pisacane: \"Non sono andato lì per litigare, non ho fatto nulla\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/spalletti-torna-lite-pisacane-non-andato-li-litigare-nulla-2284371",
+      "estratto": "Luciano Spalletti, allenatore della Juventus, è tornato anche sulla lite col tecnico rossoblù Fabio Pisacane al termine della sfida di Cagliari durante la conferenza stampa odierna.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-17T21:53:21+00:00"
-    },
-    {
-      "id": "a29fb83a28",
-      "titolo": "Genoa, Waife: \"Contento per l'opportunità. Spero di fare una buona stagione\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/genoa-calciatore-2284477",
-      "estratto": "Al termine di Roma-Genoa, è il rossoblù Waife a presentarsi nella sala stampa dello Stadio Olimpico per commentare in conferenza il match.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T21:50:00+00:00"
-    },
-    {
-      "id": "728b34ca51",
-      "titolo": "Cremonese, Thorsby: \"Siamo in una situazione difficile, ma abbiamo tutto per uscirne\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/cremonese-thorsby-siamo-situazione-difficile-uscirne-2284496",
-      "estratto": "Il centrocampista grigiorosso Morten Thorsby è intervenuto in conferenza stampa al termine di Pisa-Cremonese, sfida della 7ª giornata di Serie BKT 2026/27.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T21:49:25+00:00"
-    },
-    {
-      "id": "9575aa0c53",
-      "titolo": "Genoa, De Rossi: \"Bene i primi 50 minuti. A Venezia gara importante, ma non decisiva\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/genoa-breve-conferenza-stampa-de-rossi-2284474",
-      "estratto": "In questi minuti, Daniele De Rossi è atteso nella sala stampa dello Stadio Olimpico per commentare in conferenza il match tra il suo Genoa e la Roma nella settima giornata di Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T21:45:42+00:00"
-    },
-    {
-      "id": "4448c7c070",
-      "titolo": "Genoa, Wiafe: \"Abbiamo fatto quello che potevamo, ecco cosa mi dice De Rossi\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/genoa-wiafe-abbiamo-potevamo-de-rossi-2284505",
-      "estratto": "Samuel Wiafe, centrocampista del Genoa, è stato intervistato da DAZN al termine della gara persa 2-0 contro la Roma: \"Abbiamo fatto quello che ci ha chiesto il mister, dando tutto.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T21:42:37+00:00"
-    },
-    {
-      "id": "5addba5e21",
-      "titolo": "Mantova, la carica di Trimboli: \"Tutte le squadre devono rispettarci\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/mantova-carica-trimboli-tutte-squadre-devono-rispettarci-2284462",
-      "estratto": "Simone Trimboli, centrocampista del Mantova, ha parlato in conferenza stampa dopo la sconfitta con il Palermo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T21:42:03+00:00"
+      "pubblicato": "2026-10-17T22:23:17+00:00"
     },
     {
       "id": "15090db15c",
@@ -429,7 +352,73 @@
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-17T22:00:20+00:00"
+      "pubblicato": "2026-10-17T23:10:20+00:00"
+    },
+    {
+      "id": "c53548143d",
+      "titolo": "Non c'è Real che tenga: la Roma si rialza subito, Genoa ko. Gasperini aggiorna su Dybala",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/real-tenga-roma-rialza-subito-2-0-genoa-gasperini-aggiorna-dybala-2284506",
+      "estratto": "Una delizia di Santiago Castro - alla prima rete in giallorosso - e il primo sigillo in Serie A del giovane Emanuele Lulli regalano alla Roma un successo scaccia-ombre dopo il ko in Champions con il Real Madrid nel giro di 7 minuti.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-17T22:53:00+00:00"
+    },
+    {
+      "id": "21cc6c7592",
+      "titolo": "I cambi di Chivu per il sorriso dell'Inter. Bologna ribaltato, i rossoblù durano un tempo",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cambi-chivu-sorriso-inter-bologna-ribaltato-rossoblu-durano-2284466",
+      "estratto": "Una partita dai due volti: nel primo tempo un grande Bologna, passato in vantaggio dopo 10 minuti con Pobega, nella ripresa solo l'Inter.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-17T22:49:00+00:00"
+    },
+    {
+      "id": "c83ba15ea5",
+      "titolo": "Adams gol, Stankovic para tutto: Venezia-Napoli 1-0. Scossa Nicola, Allegri ancora ko",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/adams-gol-stankovic-para-tutto-venezia-napoli-1-0-scossa-nicola-allegri-ko-2284434",
+      "estratto": "Clamoroso al Penzo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-17T22:45:00+00:00"
+    },
+    {
+      "id": "6f1eb3a4a3",
+      "titolo": "La Lazio ritrova Pellegrini e sfida la Juve senza paura. Spalletti non scioglie i dubbi davanti",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/lazio-ritrova-pellegrini-sfida-juve-paura-spalletti-scioglie-dubbi-2284509",
+      "estratto": "Mister Luciano Spalletti prepara la sua Juventus alla sfida contro una Lazio che considera particolarmente pericolosa, sottolineando la qualità dei singoli e la solidità della squadra allenata da mister Gattuso, \"il migliore finora con Pisacane e Alv",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-17T22:42:19+00:00"
+    },
+    {
+      "id": "295d621c63",
+      "titolo": "Atalanta a San Siro senza Raspadori e l'ex Kessié, il Milan di Amorim benedice il turnover",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/atalanta-san-siro-raspadori-kessie-milan-amorim-ringrazia-turnover-2284507",
+      "estratto": "Milan e Atalanta si preparano alla sfida di San Siro, valida per la settima giornata di Serie A, con qualche problema di formazione da risolvere.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-17T22:38:25+00:00"
+    },
+    {
+      "id": "9208b9cd65",
+      "titolo": "Serie C 2026/2027, il punto sulle panchine: Raffaele Di Napoli saluta il Giugliano",
+      "url": "https://www.tuttomercatoweb.com/serie-c/serie-2026-2027-punto-panchine-gubbio-esonera-carlo-torna-braglia-2279969",
+      "estratto": "Non si ferma il valzer panchine in Serie C.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-17T22:19:00+00:00"
     },
     {
       "id": "2449444259",
@@ -630,26 +619,37 @@
       "pubblicato": "2023-11-09T10:58:58+00:00"
     },
     {
-      "id": "71870b725b",
-      "titolo": "Da Hellas-Catanzaro a Mantova-Palermo, i convocati per la 7ª giornata di Serie B",
-      "url": "https://www.tuttomercatoweb.com/serie-b/hellas-catanzaro-mantova-palermo-convocati-7a-giornata-serie-b-2283591",
-      "estratto": "Per la 7ª giornata del campionato di Serie B la redazione di TuttoMercatoWeb.",
+      "id": "d100bcb03b",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 17 ottobre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-17-ottobre-2284501",
+      "estratto": "JUVENTUS, DAVID HA STREGATO L'ATLETICO: I COLCHONEROS LO VOGLIONO A TITOLO DEFINITIVO.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-17T22:04:00+00:00"
+      "pubblicato": "2026-10-17T23:00:00+00:00"
     },
     {
-      "id": "e9faa18ce0",
-      "titolo": "18 ottobre 1989, van Basten e Rijkaard fanno ammattire il Real Madrid. Finirà due a zero",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/19-ottobre-1989-van-basten-rijkaard-ammattire-real-madrid-finira-zero-2283545",
-      "estratto": "Il 18 ottobre del 1989, allo stadio Meazza in San Siro, il Milan ospita il Real Madrid per gli ottavi di finale di Coppa dei Campioni.",
+      "id": "86503209a1",
+      "titolo": "Serie A, la classifica aggiornata e le probabili formazioni delle prossime gare del 7° turno",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-a-classifica-aggiornata-probabili-prossime-gare-7-turno-2284512",
+      "estratto": "La settima giornata di Serie A prosegue tra questa domenica e lunedì 19 ottobre con altre sei sfide importanti per la classifica, sia in cima sia in coda.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-17T22:00:57+00:00"
+      "pubblicato": "2026-10-17T22:56:37+00:00"
+    },
+    {
+      "id": "ecf6ed3154",
+      "titolo": "Cannavaro riparte dal Giugliano, Calabro si gioca il futuro a Padova",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cannavaro-riparte-giugliano-calabro-gioca-padova-2284450",
+      "estratto": "Giornata movimentata per le panchine.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T22:34:20+00:00"
     },
     {
       "id": "0fac2bf1f8",
