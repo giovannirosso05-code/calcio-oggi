@@ -167,7 +167,7 @@ def pagina_tabella(spec, avanzamento, sub=None):
     """Schermata con tutti i risultati della giornata (spec["tabella"]); i sottotitoli stanno sotto, nella parte libera."""
     t = spec["tabella"]
     n_righe = sum(len(g["righe"]) for g in t["gruppi"])
-    riga_h = max(34, min(56, int((1330 - len(t["gruppi"]) * 62) / max(n_righe, 1))))
+    riga_h = max(34, min(86, int((1330 - len(t["gruppi"]) * 62) / max(n_righe, 1))))
     f = int(riga_h * 0.62)
     corpo = ""
     for g in t["gruppi"]:

@@ -34,22 +34,29 @@ def _giorno_roma(p):
     return datetime.fromisoformat(p["data"].replace("Z", "+00:00")).astimezone(ROMA).date()
 
 
-def partite_del_giorno(giorno=None):
-    """(data, [partite finite]) di oggi (ora di Roma); se oggi non ce ne sono ancora, dell'ultimo giorno con partite finite."""
+GIORNI = ["lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato", "domenica"]
+
+
+def partite_del_giorno(oggi=None):
+    """(data di inizio, [partite di Serie A finite], mancano) della giornata in corso.
+    La giornata va da venerdì a oggi (a metà settimana, da martedì); `mancano` = (etichetta, [partite]) di quelle ancora da giocare."""
     dati = _dati()
-    fatte = [p for p in dati["partite"] if p.get("stato") == "post"]
-    if not fatte:
-        raise ErroreScaletta("Non ci sono partite finite nei dati: il riepilogo non l'ho fatto.")
-    oggi = giorno or datetime.now(ROMA).date()
-    giorni = sorted({_giorno_roma(p) for p in fatte})
-    scelto = oggi if oggi in giorni else max(g for g in giorni if g <= oggi) if any(g <= oggi for g in giorni) else giorni[-1]
-    nomi = {l["id"]: l["nome"] for l in dati["leghe"]}
-    out = [p for p in fatte if _giorno_roma(p) == scelto]
-    for p in out:
-        p["_lega"] = nomi.get(p["lega"], p["lega"])
-    if len(out) < 3:
-        raise ErroreScaletta(f"Il {scelto.day} {MESI[scelto.month - 1]} ci sono solo {len(out)} partite finite: per un riepilogo ne servono almeno 3. Riprova a fine giornata.")
-    return scelto, out
+    oggi = oggi or datetime.now(ROMA).date()
+    wd = oggi.weekday()   # lunedì = 0
+    inizio = oggi - timedelta(days=(wd - 4) % 7) if wd in (4, 5, 6, 0) else oggi - timedelta(days=wd - 1)
+    serie_a = [p for p in dati["partite"] if p["lega"] == "ita.1"]
+    fatte = [p for p in serie_a if p.get("stato") == "post" and inizio <= _giorno_roma(p) <= oggi]
+    for p in fatte:
+        p["_lega"] = "Serie A"
+    if len(fatte) < 3:
+        raise ErroreScaletta(f"Per la giornata di Serie A da {GIORNI[inizio.weekday()]} a oggi ho trovato solo {len(fatte)} partite finite: per un riepilogo ne servono almeno 3.")
+    ancora = sorted((p for p in serie_a if p.get("stato") != "post" and oggi <= _giorno_roma(p) <= oggi + timedelta(days=3)), key=lambda p: p["data"])
+    mancano = None
+    if ancora:
+        g = _giorno_roma(ancora[0])
+        etichetta = "di stasera" if g == oggi else "di domani" if g == oggi + timedelta(days=1) else f"di {GIORNI[g.weekday()]}"
+        mancano = (etichetta, [p for p in ancora if _giorno_roma(p) == g])
+    return inizio, fatte, mancano
 
 
 def _logo(url, cache={}):
@@ -73,20 +80,18 @@ def tabella(giorno, partite):
     for p in partite:
         per_lega.setdefault(p["lega"], []).append(p)
     leghe = sorted(per_lega, key=lambda l: ORDINE.index(l) if l in ORDINE else 99)
-    while sum(len(per_lega[l]) for l in leghe) > MAX_RIGHE and len(leghe) > 1:
-        leghe.pop()
     gruppi = []
     for l in leghe:
         righe = [{"c": p["casa"]["breve"], "o": p["ospite"]["breve"], "gc": p["casa"]["gol"], "go": p["ospite"]["gol"],
                   "lc": _logo(p["casa"].get("logo", "")), "lo": _logo(p["ospite"].get("logo", ""))} for p in per_lega[l]]
         gruppi.append({"nome": per_lega[l][0]["_lega"], "righe": righe})
-    return {"data": f"{giorno.day} {MESI[giorno.month - 1]}", "gruppi": gruppi}
+    return {"data": "Serie A", "gruppi": gruppi}
 
 
 def _interesse(p):
     gc, go = p["casa"]["gol"], p["ospite"]["gol"]
     minuti = [int(re.sub(r"\D.*", "", g.get("minuto", "0")) or 0) for g in p.get("gol", [])]
-    pt = gc + go + (6 if p["lega"] == "ita.1" else 0) + (2 if p["lega"] in EUROPA or p["lega"] == "ita.coppa_italia" else 0)
+    pt = gc + go + 0 + (2 if p["lega"] in EUROPA or p["lega"] == "ita.coppa_italia" else 0)
     pt += 2 if abs(gc - go) >= 3 else 0
     pt += 2 if any(m >= 85 for m in minuti) else 0
     pt += 1 if any(g.get("rigore") or g.get("autogol") for g in p.get("gol", [])) else 0
@@ -98,7 +103,7 @@ def migliori(partite, n=4):
     ordinate = sorted(partite, key=_interesse, reverse=True)
     scelte, per_lega = [], {}
     for p in ordinate:
-        if per_lega.get(p["lega"], 0) < (3 if p["lega"] == "ita.1" else 1):
+        if True:
             scelte.append(p); per_lega[p["lega"]] = per_lega.get(p["lega"], 0) + 1
         if len(scelte) == n:
             break
@@ -112,11 +117,12 @@ def _descrivi(p):
     return f"{p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" + (f" · gol: {marc}" if marc else " · (marcatori non disponibili)")
 
 
-def prompt(giorno, tutte, scelte, errori=None):
+def prompt(giorno, tutte, scelte, mancano, errori=None):
     return (
         "Sei l'autore dei video di Calcio Oggi, canale italiano di calcio senza volto (solo foto, sottotitoli e voce sintetica). "
-        f"Scrivi il testo del video RIEPILOGO DELLA GIORNATA del {giorno.day} {MESI[giorno.month - 1]} (25-35 secondi). Dopo il tuo gancio il video mostra una schermata con TUTTI "
-        "i risultati mentre una voce fissa dice «Questi sono i risultati della giornata»: tu NON elenchi i risultati e non devi ripeterli tutti. "
+        "Scrivi il testo del video RIEPILOGO DELLA GIORNATA DI SERIE A (25-35 secondi): le partite da venerdì a oggi. Dopo il tuo gancio il video mostra una schermata con TUTTI "
+        "i risultati mentre una voce fissa dice «Questi sono i risultati della giornata di Serie A»: tu NON elenchi i risultati e non devi ripeterli tutti. "
+        "Il video si chiude con una scena fissa che avvisa delle partite ancora da giocare: tu non ne parli. "
         "Poi racconti le partite più interessanti, UNA scena per partita, nell'ordine in cui te le do.\n\n"
         "REGOLE OBBLIGATORIE\n"
         "- Usa SOLO i dati qui sotto: squadre, risultati, marcatori, minuti. Mai inventare motivi, classifiche, giudizi sui giocatori, infortuni, precedenti.\n"
@@ -129,7 +135,7 @@ def prompt(giorno, tutte, scelte, errori=None):
         "- «finale.domanda»: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote. «finale.foto»: una squadra dei dati.\n"
         "- «apertura»: una frase forte di una riga per la didascalia. «hashtag»: 3 o 4 parole senza #.\n\n"
         "PARTITE DA RACCONTARE (in ordine)\n" + "\n".join(f"{i + 1}. {_descrivi(p)}" for i, p in enumerate(scelte)) + "\n\n"
-        "TUTTI I RISULTATI DEL GIORNO (solo per contesto)\n" + "\n".join(f"- {p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" for p in tutte) + "\n\n"
+        "TUTTI I RISULTATI DELLA GIORNATA (solo per contesto)\n" + "\n".join(f"- {p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" for p in tutte) + "\n\n"
         + (("ERRORI DELLA VERSIONE PRECEDENTE, correggili: " + "; ".join(errori) + "\n\n") if errori else "")
         + "Rispondi SOLO con JSON valido, in questa forma:\n"
         '{"hook_titolo": "max 38 caratteri", "hook_testo": "...", "hook_foto": "squadra o marcatore", "scene": [{"foto": "...", "testo": "..."}], '
@@ -169,21 +175,25 @@ def controlla(spec, tutte, scelte):
     return list(dict.fromkeys(errori))
 
 
-def da_giornata(giorno=None) -> dict:
+def da_giornata(oggi=None) -> dict:
     """Spec del video (per notizia_sub.genera), oppure ErroreScaletta."""
-    giorno, tutte = partite_del_giorno(giorno)
+    giorno, tutte, mancano = partite_del_giorno(oggi)
     scelte = migliori(tutte)
     errori, spec = None, None
     for _ in range(3):
-        spec = chiedi(prompt(giorno, tutte, scelte, errori))
+        spec = chiedi(prompt(giorno, tutte, scelte, mancano, errori))
         errori = controlla(spec, tutte, scelte)
         if not errori:
             break
     if errori:
         raise ErroreScaletta("Non sono riuscito a scrivere un riepilogo che rispetti le regole (" + "; ".join(errori[:3]) + "): il video non l'ho fatto.")
     scene = [{"foto": spec["hook_foto"], "hook": True, "hook_titolo": spec["hook_titolo"], "testo": spec["hook_testo"]},
-             {"foto": "", "tabella": True, "testo": "Questi sono i risultati della giornata.", "durata_min": 6.0, "velocita": "+20%"}]
+             {"foto": "", "tabella": True, "testo": "Questi sono i risultati della giornata di Serie A.", "durata_min": 6.0, "velocita": "+20%"}]
     scene += [{"foto": s["foto"], "testo": s["testo"]} for s in spec["scene"]]
-    return {"serie": "Riepilogo", "titolo_breve": "Riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
+    if mancano:
+        etichetta, gare = mancano
+        coppie = " e ".join(f"[{p['casa']['breve']}] contro [{p['ospite']['breve']}]" for p in gare[:2])
+        scene.append({"foto": gare[0]["casa"]["breve"], "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}." if len(gare) <= 2 else f"Mancano ancora le partite *{etichetta}*."})
+    return {"serie": "Serie A", "titolo_breve": "Serie A: riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
             "scene": scene, "finale": spec["finale"], "apertura": spec.get("apertura", "Il riepilogo della giornata"), "hashtag": spec.get("hashtag", []),
             "tabella": tabella(giorno, tutte), "url": ""}
