@@ -100,7 +100,7 @@ def prompt(titolo, fonte, serie, articolo, errori=None):
 
 def chiama_gemini(testo_prompt, chiave):
     corpo = {"contents": [{"parts": [{"text": testo_prompt}]}],
-             "generationConfig": {"temperature": 0.5, "responseMimeType": "application/json", "thinkingConfig": {"thinkingBudget": 0}}}
+             "generationConfig": {"temperature": 0.5, "maxOutputTokens": 4096, "responseMimeType": "application/json", "thinkingConfig": {"thinkingBudget": 0}}}
     ultimo = None
     for giro in range(3):
         for modello in GEMINI_MODELLI:
@@ -138,23 +138,46 @@ def chiama_anthropic(testo_prompt, chiave):
     return r.json()["content"][0]["text"]
 
 
+def leggi_json(grezzo: str):
+    """JSON dalla risposta del modello, anche se arriva con ```, testo attorno o virgole in più. Solleva ValueError se non si riesce."""
+    t = re.sub(r"^```(?:json)?|```$", "", grezzo.strip(), flags=re.M).strip()
+    candidati = [t]
+    i, j = t.find("{"), t.rfind("}")
+    if 0 <= i < j:
+        candidati.append(t[i:j + 1])
+    for c in candidati:
+        for variante in (c, re.sub(r",\s*([}\]])", r"\1", c)):
+            try:
+                return json.loads(variante, strict=False)
+            except ValueError:
+                continue
+    raise ValueError("JSON non valido")
+
+
 def chiedi(testo_prompt) -> dict:
     chiave_g, chiave_a = os.environ.get("GEMINI_API_KEY", "").strip(), os.environ.get("ANTHROPIC_API_KEY", "").strip()
     if not chiave_g and not chiave_a:
         raise ErroreScaletta("Per scrivere il testo del video serve il secret GEMINI_API_KEY nel repository calcio-oggi (lo stesso di MMA Oggi). "
                              "Intanto puoi chiedermi di scrivere lo spec a mano.")
-    try:
-        grezzo = chiama_gemini(testo_prompt, chiave_g) if chiave_g else chiama_anthropic(testo_prompt, chiave_a)
-    except Exception as e:
-        if chiave_g and chiave_a:
-            grezzo = chiama_anthropic(testo_prompt, chiave_a)
-        else:
-            raise ErroreScaletta(f"Non riesco a scrivere il testo del video: {str(e)[:200]}")
-    grezzo = re.sub(r"^```(?:json)?|```$", "", grezzo.strip(), flags=re.M).strip()
-    try:
-        return json.loads(grezzo)
-    except ValueError:
-        raise ErroreScaletta("Il testo scritto dall'intelligenza artificiale non era valido: riprova tra poco.")
+    ultimo = ""
+    for tentativo in range(3):   # il modello a volte risponde con un testo non leggibile: si riprova
+        try:
+            grezzo = chiama_gemini(testo_prompt, chiave_g) if chiave_g else chiama_anthropic(testo_prompt, chiave_a)
+        except Exception as e:
+            if chiave_g and chiave_a:
+                try:
+                    grezzo = chiama_anthropic(testo_prompt, chiave_a)
+                except Exception as e2:
+                    raise ErroreScaletta(f"Non riesco a scrivere il testo del video: {str(e2)[:200]}")
+            else:
+                raise ErroreScaletta(f"Non riesco a scrivere il testo del video: {str(e)[:200]}")
+        try:
+            return leggi_json(grezzo)
+        except ValueError:
+            ultimo = grezzo
+            print(f"[testo] risposta non leggibile (tentativo {tentativo + 1}/3, {len(grezzo)} caratteri): {grezzo[:160]!r} … {grezzo[-120:]!r}", flush=True)
+            time.sleep(3)
+    raise ErroreScaletta("Il testo scritto dall'intelligenza artificiale non era valido (3 tentativi): riprova tra poco." + (f" Inizio: {ultimo[:80]!r}" if ultimo else ""))
 
 
 def controlla(spec, titolo, articolo):
