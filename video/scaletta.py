@@ -83,7 +83,7 @@ def prompt(titolo, fonte, serie, articolo, errori=None):
         "- Non nominare mai la testata a voce. Non spiegare cos'è la Serie A o cos'è un campionato.\n"
         "- VIETATE le parole: pronostico, scommessa, quota, bookmaker, bonus, premio, soldi, giocata. Nessun insulto.\n"
         "- Italiano di tutti i giorni, frasi brevi e complete (10-18 parole). Vai dritto alla notizia: cosa è successo, chi l'ha detto o deciso, cosa succede adesso.\n"
-        "- Il TITOLO BREVE (max 40 caratteri) dice il fatto con i nomi. La prima scena è il GANCIO: dice il fatto con i nomi, mai un'esclamazione vaga.\n"
+        "- Il TITOLO BREVE (max 40 caratteri) dice il fatto con i nomi, secco, senza riempitivi come «il parziale», «all'intervallo», «le ultime» né dettagli di contorno. La prima scena è il GANCIO: dice il fatto con i nomi, mai un'esclamazione vaga.\n"
         "- 6 o 7 scene in tutto, 80-110 parole totali. In ogni scena: *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = i nomi di persone e squadre.\n"
         "- «foto» di ogni scena: nome e cognome COMPLETO della persona di cui parla la scena, oppure il nome della squadra come si scrive di solito "
         "(es. «Lautaro Martinez», «Inter»). Solo nomi che compaiono nell'ARTICOLO o nel TITOLO. Se nella scena non c'è una persona o una squadra, "
