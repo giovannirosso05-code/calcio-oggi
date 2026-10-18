@@ -1,18 +1,7 @@
 {
-  "aggiornato": "2026-10-18T19:41:16.048910+00:00",
+  "aggiornato": "2026-10-18T21:54:09.877772+00:00",
   "totale": 45,
   "articoli": [
-    {
-      "id": "0838ae64b0",
-      "titolo": "Sarri: \"Ci manca un rigore simile a quelli fischiati al Milan, con Chiffi mi succede spesso\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/atalanta-sarri-rigore-simile-fischiati-milan-chiffi-succede-spesso-2284779",
-      "estratto": "Maurizio Sarri, allenatore dell'Atalanta, dopo la sconfitta rimediata sul campo del Milan è intervenuto al microfono di Dazn: “La sensazione che se noi gli riuscivamo a metterli in area per 20 secondi consecutivi si poteva riaprire la partita noi ce ",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 90,
-      "pubblicato": "2026-10-18T19:15:38+00:00"
-    },
     {
       "id": "577e49c8db",
       "titolo": "Sarri durissimo: \"Arbitro mandato a f*****o, con Chiffi sempre così\". E sul Var: \"Solo in area Atalanta\"",
@@ -36,17 +25,6 @@
       "pubblicato": "2026-10-18T19:02:50+00:00"
     },
     {
-      "id": "1d3dcd9be9",
-      "titolo": "Atalanta, Sarri: \"Ho scoperto una nuova regola oggi. C'era rigore per noi!\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/atalanta-breve-sarri-conferenza-san-siro-ko-milan-2284764",
-      "estratto": "Maurizio Sarri, allenatore dell'Atalanta, è presente in conferenza stampa al termine di Milan-Atalanta, sfida valida per la settima giornata di Serie A e terminata 3-2 in favore dei rossoneri.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 90,
-      "pubblicato": "2026-10-18T19:02:41+00:00"
-    },
-    {
       "id": "b991302b33",
       "titolo": "\"Stai calmo\", gesto e parole chiare: Barella come Lautaro, intimidire l’arbitro prassi Inter",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/18-151979731/stai_calmo_gesto_e_parole_chiare_barella_come_lautaro_intimidire_larbitro_prassi_inter/",
@@ -58,70 +36,92 @@
       "pubblicato": "2026-10-18T13:29:40+00:00"
     },
     {
-      "id": "3ee55697bd",
-      "titolo": "Milan, Ramos: \"L'obiettivo è provare a vincerle tutte. Ultimamente ho parlato con Amorim\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/milan-ramos-2284774",
-      "estratto": "Gonçalo Ramos, attaccante del Milan, autore di un gol e un rigore sbagliato contro l'Atalanta, a fine partita è intervenuto al microfono di DAZN: \"Rigore sbagliato? Non c'è tempo per pensarci.",
+      "id": "a7819d74c5",
+      "titolo": "Lazio, Gattuso: \"Stiamo facendo qualcosa di incredibile ma la strada è lunga\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-breve-conferenza-stampa-gattuso-2284768",
+      "estratto": "23:09 - Gennaro Gattuso, allenatore della Lazio, ha parlato in conferenza stampa al termine della sfida contro la Juventus.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T19:30:25+00:00"
+      "pubblicato": "2026-10-18T21:49:51+00:00"
     },
     {
-      "id": "bfb82e5f09",
-      "titolo": "Contatto Milla-Goncalves, Calvarese: \"Falloso, ma giusto che il VAR non sia intervenuto\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/contatto-milla-goncalves-calvarese-falloso-giusto-var-intervenuto-2284775",
-      "estratto": "Fa discutere la sfida persa dalla Fiorentina al Franchi, contro il Como.",
+      "id": "17e448e528",
+      "titolo": "Lazio, Gattuso: \"I ragazzi ascoltano. Niente vie di mezzo, dobbiamo essere coraggiosi\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-gattuso-i-ragazzi-ascoltano-vie-mezzo-dobbiamo-coraggiosi-2284838",
+      "estratto": "Il tecnico della Lazio Rino Gattuso ha commentato così, ai microfoni di Sky, il successo per 0-3 sul campo della Juventus.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T19:26:00+00:00"
+      "pubblicato": "2026-10-18T21:45:28+00:00"
     },
     {
-      "id": "70d3f67ae2",
-      "titolo": "Atalanta, Gaetano: \"Siamo a un buon punto, perché abbiamo fatto due partite di grande livello\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/atalanta-gaetano-siamo-buon-punto-partite-livello-2284782",
-      "estratto": "Gianluca Gaetano, centrocampista dell'Atalanta, è presente in conferenza stampa al termine di Milan-Atalanta, sfida valida per la settima giornata di Serie A e terminata 3-2 in favore dei rossoneri.",
+      "id": "78c7663fd0",
+      "titolo": "Juventus, Vicario: \"Prestazione sotto livello, mettiamoci la faccia senza cercare alibi\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-vicario-prestazione-livello-mettiamoci-cercare-alibi-2284832",
+      "estratto": "Dopo la sconfitta contro la Lazio, ai microfoni di DAZN ha parlato così il portiere della Juventus Guglielmo Vicario.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T19:19:14+00:00"
+      "pubblicato": "2026-10-18T21:38:53+00:00"
     },
     {
-      "id": "4490f6b509",
-      "titolo": "Juve Stabia, Di Nardo: \"Non mi aspettavo di trovare una famiglia qui: ecco la vittoria più grande\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/juve-stabia-nardo-non-aspettavo-trovare-famiglia-qui-vittoria-grande-2284702",
-      "estratto": "Antonio Di Nardo, attaccante della Juve Stabia, ha parlato al termine dopo la vittoria sul Sdtirol: “Oggi ha vinto la perseveranza.",
-      "fonte": "TMW",
+      "id": "114a9b33ea",
+      "titolo": "Spalletti: \"Juve inferiore, molti atteggiamenti non mi sono piaciuti\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/18-151992641/spalletti_juve_inferiore_molti_atteggiamenti_non_mi_sono_piaciuti/",
+      "estratto": "L'analisi del tecnico dei bianconeri dopo la sconfitta all'Allianz Stadium contro la Lazio, che si è imposta con il finale di 3-0",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T19:19:10+00:00"
+      "pubblicato": "2026-10-18T21:25:35+00:00"
     },
     {
-      "id": "eb5fe23b78",
-      "titolo": "Milan, Amorim rivela: \"C'erano offerte per Estupinan, ma l'ho trattenuto io. Su Rabiot...\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/milan-amorim-conferenza-vittoria-atalanta-2284763",
-      "estratto": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Milan-Atalanta, sfida valida per la settima giornata di Serie A e terminata 3-2 in favore dei rossoneri.",
+      "id": "04eab207b9",
+      "titolo": "Juventus, Spalletti: \"Sorpreso da questa prestazione, difficile darsi delle spiegazioni\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-spalletti-sorpreso-prestazione-difficile-darsi-spiegazioni-2284830",
+      "estratto": "La Juventus cade sotto i colpi della Lazio e termina tra i fischi dello Stadium, ai microfoni di DAZN ha parlato così a fine gara il tecnico bianconero Luciano Spalletti oggi in tribuna per squalifica: \"Sicuramente una Juventus inferiore all'avversar",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T19:15:36+00:00"
+      "pubblicato": "2026-10-18T21:25:01+00:00"
     },
     {
-      "id": "d169fe7b60",
-      "titolo": "Milan, Rabiot: \"Ecco perché ero arrabbiato prima del gol. Ruolo? Amorim è stato chiaro\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/milan-rabiot-ecco-arrabbiato-gol-ruolo-amorim-chiaro-2284766",
-      "estratto": "Adrien Rabiot, centrocampista del Milan, dopo la vittoria contro l'Atalanta è intervenuto al microfono di Dazn: \"Perché ero arrabbiato prima del gol? Ci sono stati 3-4 falli clamorosi contro di noi nel primo tempo e non è arrivato neanche un giallo. ",
+      "id": "30b8a1f63d",
+      "titolo": "Gattuso ora ci crede: \"Si è creata una famiglia. E la Lazio può sorprendere”",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/18-151992933/gattuso_ora_ci_crede_si_creata_una_famiglia_e_la_lazio_pu_sorprendere/",
+      "estratto": "Il tecnico, dopo la grande vittoria sulla Juve allo Stadium, fa i complimenti ai ragazzi e guarda lontano: \"Ci godiamo il successo\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T21:24:09+00:00"
+    },
+    {
+      "id": "1eac6605f8",
+      "titolo": "Juve travolta, Di Canio su Lucumi: \"Non può fare come i portieri di hockey, deve decidere\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/juve-travolta-canio-lucumi-non-portieri-hockey-2284821",
+      "estratto": "Crollo Juventus allo stadium: la Lazio travolge i bianconeri di Spalletti vincendo 0-3.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T19:08:00+00:00"
+      "pubblicato": "2026-10-18T21:23:00+00:00"
+    },
+    {
+      "id": "9ba850ae02",
+      "titolo": "Lazio, Provstgaard: \"Felicissimo per gol. Primo posto? Restiamo umili\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-provstgaard-felicissimo-gol-posto-restiamo-umili-2284827",
+      "estratto": "Oliver Provstgaard, difensore della Lazio, ha parlato al termine della sfida contro la Juventus.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T21:16:00+00:00"
     },
     {
       "id": "519b6d3021",
@@ -146,28 +146,6 @@
       "pubblicato": "2026-10-18T18:40:48+00:00"
     },
     {
-      "id": "dbcafb4732",
-      "titolo": "Vanoli avvisa la Fiorentina: \"Prendiamo gol con una facilità incredibile\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/18-151975739/vanoli_avvisa_la_fiorentina_prendiamo_gol_con_una_facilit_incredibile/",
-      "estratto": "Il tecnico dei viola non si dà pace dopo la sconfitta contro il Como: \"Ma le decisioni arbitrali ci hanno penalizzato\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-18T16:10:21+00:00"
-    },
-    {
-      "id": "8b7a6561e5",
-      "titolo": "Anche il Como dimentica la Champions e batte 3-1 una buona Fiorentina: al Franchi, però, è notte fonda",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/18-151982442/anche_il_como_dimentica_la_champions_e_batte_3-1_una_buona_fiorentina_al_franchi_per_notte_fonda/",
-      "estratto": "La squadra di Fabregas si impone su quella di Vanoli: a segno Liberali, Nico Paz e Douvikas. Inutile la rete di Pongracic",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 50,
-      "pubblicato": "2026-10-18T15:10:28+00:00"
-    },
-    {
       "id": "252885631c",
       "titolo": "Champions, scelti gli arbitri per Roma e Napoli: chi sono e i precedenti con le italiane",
       "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/18-151977373/champions_scelti_gli_arbitri_per_roma_e_napoli_chi_sono_e_i_precedenti_con_le_italiane/",
@@ -179,19 +157,74 @@
       "pubblicato": "2026-10-18T11:35:15+00:00"
     },
     {
-      "id": "6c234929a5",
-      "titolo": "Parma, Gilardino: \"De Martis verrà convocato. Viene da un'altra cultura, va fatto crescere\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/parma-gilardino-de-martis-verra-convocato-viene-altra-cultura-crescere-2284730",
-      "estratto": "Nella sua conferenza stampa di vigilia della sfida contro il Torino, il tecnico del Parma, Alberto Gilardino, ha parlato anche delle sue possibili scelte in attacco: \"Romero domani gioca, così lo sapete già! Ci sono anche Frigan, Touré, Lontani che p",
+      "id": "d75f63ff19",
+      "titolo": "Bergomi esalta Nuno Tavares: \"Sul secondo gol mi ha ricordato Andy Brehme\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bergomi-esalta-nuno-tavares-sul-gol-ricordato-andy-brehme-2284825",
+      "estratto": "Crollo Juventus allo stadium: la Lazio travolge i bianconeri di Spalletti vincendo 0-3.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-18T19:38:00+00:00"
+      "pubblicato": "2026-10-18T21:53:00+00:00"
+    },
+    {
+      "id": "19f383f4d4",
+      "titolo": "Savoia ko, ma Formisano resiste. Il presidente del club: \"Avanti con lui, ha piena fiducia\"",
+      "url": "https://www.tuttomercatoweb.com/serie-c/savoia-ko-formisano-resiste-presidente-club-avanti-lui-piena-fiducia-2284767",
+      "estratto": "In una giornata non facile per i tecnici di Serie C con diversi cambi in panchina, il Savoia decide di andare controcorrente.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T21:49:00+00:00"
+    },
+    {
+      "id": "b2fbf8a9f4",
+      "titolo": "Crystal Palace travolto a Brighton, Sage sotto accusa: \"Tutta colpa mia, capisco i tifosi\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/crystal-palace-travolto-brighton-sage-accusa-tutta-colpa-mia-capisco-tifosi-2284802",
+      "estratto": "La pesante sconfitta contro il Brighton rischia di lasciare conseguenze profonde in casa Crystal Palace.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T21:42:05+00:00"
+    },
+    {
+      "id": "922c92361c",
+      "titolo": "Gattuso: \"Classifica non dobbiamo vederla. Se continuiamo ad allenarci bene possiamo sorprendere\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/lazio/2026/10/18-151994822/gattuso_classifica_non_dobbiamo_vederla_se_continuiamo_ad_allenarci_bene_possiamo_sorprendere/",
+      "estratto": "Il tecnico biancoceleste si gode il successo dello Stadium che vale il primato in compagnia dell'Inter: ecco cosa ha detto",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T21:28:03+00:00"
+    },
+    {
+      "id": "a6a649d708",
+      "titolo": "Il Bernabeu in rivolta, cori e striscioni sono chiari: \"Non è calcio, è Tebas e Negreira\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/bernabeu-rivolta-cori-striscioni-chiari-non-calcio-tebas-negreira-2284804",
+      "estratto": "Il clima in vista del Clasico è già caldissimo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T21:26:23+00:00"
+    },
+    {
+      "id": "4bbb497d72",
+      "titolo": "Sudtirol, Possanzini: \"In partite come queste bisogna cacciare fuori altro\"",
+      "url": "https://www.tuttomercatoweb.com/serie-b/sudtirol-possanzini-2284698",
+      "estratto": "Davide Possanzini, tecnico del Sudtirol, ha parlato al termine della sfida persa contro la Juve Stabia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T21:19:19+00:00"
     },
     {
       "id": "bbbe022ecc",
-      "titolo": "Izzo si commuove in diretta: \"Dedico il gol a mia moglie e alle mie figlie, che per uno periodo sono state lontane da me\"",
+      "titolo": "Izzo si commuove in diretta: \"Dedico il gol a mia moglie e alle mie figlie, che per un periodo sono state lontane da me\"",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-b/avellino/2026/10/18-151989995/izzo_si_commuove_in_diretta_dedico_il_gol_a_mia_moglie_e_alle_mie_figlie_che_per_uno_periodo_sono_state_lontane_da_me/",
       "estratto": "Il difensore dell'Avellino ha realizzato il gol del pari al Manuzzi contro il Cesena con un gran tiro di sinistro: nel postpartita ha trattenuto a fatica le lacrime",
       "fonte": "Corriere dello Sport",
@@ -212,28 +245,6 @@
       "pubblicato": "2026-10-18T16:24:15+00:00"
     },
     {
-      "id": "b1292766cb",
-      "titolo": "L'emozionante messaggio di Rao ai giovani diabetici: \"Non smettete mai di sognare\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/pisa/2026/10/18-151980958/l_emozionante_messaggio_di_rao_ai_giovani_diabetici_non_smettete_mai_di_sognare/",
-      "estratto": "L'esterno d'attacco è diventato un esempio e un punto di riferimento per l'AGD di Pisa, che gli ha donato una targa prima della sfida con la Cremonese",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T14:20:30+00:00"
-    },
-    {
-      "id": "c01ed5c1c8",
-      "titolo": "Il Lecce in 10 per qualche minuto per un ritardo nella sostituzione: furia Di Francesco, applicato il nuovo regolamento",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lecce/2026/10/18-151979380/il_lecce_in_10_per_qualche_minuto_per_un_ritardo_nella_sostituzione_furia_di_francesco_applicato_il_nuovo_regolamento/",
-      "estratto": "Cambio congelato e salentini in inferiorità numerica dopo l'uscita di Geubbels: Paco Esteban ha dovuto attendere a bordocampo",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T13:19:14+00:00"
-    },
-    {
       "id": "c9bfef6a09",
       "titolo": "Gilardino scopre le carte verso Parma-Torino: \"Romero gioca\". Su Bernabé e la scelta tattica...",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/parma/2026/10/18-151977552/gilardino_scopre_le_carte_verso_parma-torino_romero_gioca_su_bernab_e_la_scelta_tattica_/",
@@ -245,6 +256,39 @@
       "pubblicato": "2026-10-18T11:59:13+00:00"
     },
     {
+      "id": "1a00cf66b2",
+      "titolo": "Spalletti ora rischia, c’è Conte. Clamoroso crollo Juve: è crisi nera. Lezione di calcio da Gattuso. De Laurentiis: ultimatum per Allegri. Pronto Montella. Rabiot furioso col Milan. Var spento, Fiorentina protesta",
+      "url": "https://www.tuttomercatoweb.com/editoriale/spalletti-rischia-c-e-conte-clamoroso-crollo-juve-crisi-nera-lezione-calcio-gattuso-de-laurentiis-ul-2284839",
+      "estratto": "La sconfitta della Juve contro la Lazio è clamorosa nel punteggio e nei fatti, un crollo totale: ora Spalletti rischia davvero.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T21:51:21+00:00"
+    },
+    {
+      "id": "313a2b0649",
+      "titolo": "L'incredibile abbaglio della Juve su Kolo Muani. 50 milioni e un solo uomo sul suo carro",
+      "url": "https://www.tuttomercatoweb.com/serie-a/incredibile-abbaglio-juve-kolo-muani-50-carro-2284837",
+      "estratto": "Ci risiamo, ancora una volta.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T21:45:00+00:00"
+    },
+    {
+      "id": "fa6932932e",
+      "titolo": "Rissa sugli spalti allo Stadium: Juve-Lazio interrotta per qualche minuto",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/18-151995010/rissa_sugli_spalti_allo_stadium_juve-lazio_interrotta_per_qualche_minuto/",
+      "estratto": "Il direttore di gara Massa è stato costretto a fermare la gara nel corso del primo tempo: gli autori sono stati allontanati",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T21:36:04+00:00"
+    },
+    {
       "id": "07ba047288",
       "titolo": "Sampdoria rimontata dall'Arezzo, Corradi ultimo. Vince la Juve Stabia, pari tra Cesena e Avellino",
       "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/18-151985748/sampdoria_rimontata_dall_arezzo_corradi_ultimo_vince_la_juve_stabia_pari_tra_cesena_e_avellino/",
@@ -254,28 +298,6 @@
       "citazione": false,
       "punteggio": 30,
       "pubblicato": "2026-10-18T19:34:47+00:00"
-    },
-    {
-      "id": "bc7f69279b",
-      "titolo": "Juve in svantaggio contro la Lazio all'intervallo: 0-1 il parziale, fischi dello Stadium",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juve-svantaggio-lazio-intervallo-0-1-parziale-fischi-stadium-2284787",
-      "estratto": "Lazio avanti sulla Juventus dopo i primi 45 minuti della sfida all'Allianz Stadium, grazie al gol di Oliver Provstgaard al 38'.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T19:32:07+00:00"
-    },
-    {
-      "id": "a5ade4b449",
-      "titolo": "Lazio in vantaggio allo Stadium: gol di Provstgaard su assist di Zaccagni. 0-1 al 38'",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-vantaggio-stadium-gol-provstgaard-assist-zaccagni-0-1-38-2284783",
-      "estratto": "Si sblocca la partita dell'Allianz Stadium tra Juventus e Lazio con il gol di Oliver Provstgaard.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T19:22:35+00:00"
     },
     {
       "id": "95868c5ab2",
@@ -290,9 +312,9 @@
     },
     {
       "id": "db1694b3e2",
-      "titolo": "Juve-Lazio diretta Serie A: segui la sfida tra Spalletti e Gattuso, il risultato LIVE",
+      "titolo": "Juve-Lazio 0-3: Gattuso trionfa allo Stadium e vola in testa con l'Inter! Spalletti sprofonda",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/18-151979554/juve-lazio_diretta_serie_a_segui_la_sfida_tra_spalletti_e_gattuso_il_risultato_live/",
-      "estratto": "La domenica della 7ª giornata di campionato si chiude all'Allianz Stadium, con la sfida tra bianconeri e biancocelesti: aggiornamenti e cronaca in tempo reale",
+      "estratto": "La domenica della 7ª giornata di campionato si chiude all'Allianz Stadium, con il trionfo dei biancocelesti: segnano Provstgaard, Isaksen e Dele-Bashiru",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
@@ -301,9 +323,9 @@
     },
     {
       "id": "2e4db6f583",
-      "titolo": "Juve-Lazio, diretta: risultato in tempo reale. Si sblocca la partita allo Stadium",
+      "titolo": "Juve-Lazio, diretta: disastro e fischi allo Stadium, 0-3 e Gattuso aggancia l'Inter. Le reazioni",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151975757/juve-lazio_diretta_formazioni_e_risultato_in_tempo_reale_spalletti_sfida_gattuso/",
-      "estratto": "I bianconeri in campo nella sfida allo Stadium contro i biancocelesti per dare continuità alla vittoria in Europa League",
+      "estratto": "I biancocelesti calano il tris e travolgono la squadra di Spalletti a Torino. Le dichiarazioni dei protagonisti",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
@@ -320,17 +342,6 @@
       "citazione": false,
       "punteggio": 30,
       "pubblicato": "2026-10-18T15:12:56+00:00"
-    },
-    {
-      "id": "66952a1025",
-      "titolo": "Juve Stabia travolgente, prima sconfitta per il Südtirol: decidono Sibilli, Di Nardo e Sandrucci",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/18-151978157/juve_stabia_travolgente_prima_sconfitta_per_il_sdtirol_decidono_sibilli_di_nardo_e_sandrucci/",
-      "estratto": "Gli altoatesini, in inferiorità numerica dal 59' (espulso Vasco Lopes), cadono al Menti: vince De Giorgio, Possanzini perde l'imbattibilità",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T15:03:13+00:00"
     },
     {
       "id": "3becc6be58",
@@ -366,6 +377,50 @@
       "pubblicato": "2026-10-18T11:41:57+00:00"
     },
     {
+      "id": "ec67a5dd55",
+      "titolo": "Pro Vercelli, Bonera resiste: confermata la fiducia nonostante lo 0-5 contro il Lecco",
+      "url": "https://www.tuttomercatoweb.com/serie-c/pro-vercelli-bonera-resiste-confermata-fiducia-0-5-lecco-2284781",
+      "estratto": "Momento davvero critico per la Pro Vercelli che, nel weekend, ha incassato una sonora sconfitta per 0-5 in casa contro il Lecco.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T21:34:25+00:00"
+    },
+    {
+      "id": "4cda976357",
+      "titolo": "Real Madrid, le magie di Guler e Mbappé abbattono il Siviglia",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/10/18-151995001/real_madrid_le_magie_di_guler_e_mbapp_abbattono_il_siviglia/",
+      "estratto": "A una settimana dal Clasico del Camp Nou, due spettacolari reti del turco e del francese mettono in discesa la partita contro gli andalusi. Nella ripresa, ancora l’ex Psg, dal dischetto, e Diomande completano il poker. Di Manu Bueno il gol degli ospi",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T21:31:29+00:00"
+    },
+    {
+      "id": "2705be1685",
+      "titolo": "Spalletti e Allegri in bilico, Sarri ancora no. Tre casi diversi per riflessioni che sono inevitabili",
+      "url": "https://www.tuttomercatoweb.com/serie-a/spalletti-allegri-bilico-sarri-quasi-casi-diversi-riflessioni-inevitabili-2284831",
+      "estratto": "Inter e Lazio prime in classifica a 19 punti in sette partite, Juventus ottava a quota 11, Napoli nono a 10 punti e Atalanta decima a 9.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T21:30:00+00:00"
+    },
+    {
+      "id": "11cababbeb",
+      "titolo": "Traffico in vetta alla Ligue 1: vincono Lione e Paris Fc, cade a sorpresa il Monaco",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/10/18-151991797/traffico_in_vetta_alla_ligue_1_vincono_lione_e_paris_fc_cade_a_sorpresa_il_monaco/",
+      "estratto": "Cinque squadre comandano la classifica dopo sette giornate: nel gruppetto di testa anche il Psg di Luis Enrique e il Lille di Ancelotti Jr",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T20:42:26+00:00"
+    },
+    {
       "id": "b62ef5c2b9",
       "titolo": "L'Avellino indenne a Cesena, la Sampdoria cade ancora: colpo dell'Arezzo al Ferraris",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/18-151987811/l_avellino_indenne_a_cesena_la_sampdoria_cade_ancora_colpo_dell_arezzo_al_ferraris/",
@@ -377,28 +432,6 @@
       "pubblicato": "2026-10-18T19:37:24+00:00"
     },
     {
-      "id": "bcbfe8aad3",
-      "titolo": "Brutte notizie per il Barcellona: contro il PSG dovrà fare a meno di Eric Garcia e Kounde",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/brutte-notizie-barcellona-psg-eric-garcia-kounde-2284736",
-      "estratto": "Brutte notizie in casa Barcellona a due giorni dalla sfida contro il Paris Saint-Germain, valida per la terza giornata della fase a gironi di Champions League.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T19:34:07+00:00"
-    },
-    {
-      "id": "1d026e7dfc",
-      "titolo": "Serie B, 7ª giornata: Sampdoria-Arezzo 1-2. Toscani corsari, doriani contestatissimi",
-      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-7a-giornata-sampdoria-arezzo-1-2-toscani-corsari-doriani-contestatissimi-2284785",
-      "estratto": "Con un successo per 1-2 dell'Arezzo a Genova contro la Sampdoria, si conclude la 7ª giornata di Serie B.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T19:26:35+00:00"
-    },
-    {
       "id": "e33dfe221d",
       "titolo": "Oyarzabal trascina la Real Sociedad: manita al Malaga. Vincono Osasuna e Celta Vigo",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/18-151988863/oyarzabal_trascina_la_real_sociedad_manita_al_malaga_vincono_osasuna_e_celta_vigo/",
@@ -408,28 +441,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-18T19:11:40+00:00"
-    },
-    {
-      "id": "85ab677186",
-      "titolo": "Dani Carvajal e Sergio Ramos di nuovo insieme? Il Getafe sogna un altro colpo... Real",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/dani-carvajal-sergio-ramos-insieme-getafe-sogna-colpo-real-2284754",
-      "estratto": "Il Getafe continua a sognare in grande e, dopo aver ingaggiato Dani Carvajal, non sembra intenzionato a fermarsi.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T19:11:14+00:00"
-    },
-    {
-      "id": "f7c2bac0fa",
-      "titolo": "Lecco, in arrivo lo svincolato Ievoli: si allena già con la squadra, a breve la firma",
-      "url": "https://www.tuttomercatoweb.com/serie-c/lecco-arrivo-svincolato-ievoli-allena-squadra-breve-firma-2284778",
-      "estratto": "Reduce dal clamoroso 0-5 inflitto in trasferta alla Pro Vercelli, il Lecco potrebbe presto perfezionare un'operazione di mercato in entrata.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T19:04:27+00:00"
     },
     {
       "id": "19b4080899",
@@ -485,17 +496,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-18T12:39:00+00:00"
-    },
-    {
-      "id": "91d5d4c421",
-      "titolo": "Toro, la difesa va blindata: è la priorità",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/18-151973080/toro_la_difesa_va_blindata_la_priorit/",
-      "estratto": "Zero clean sheet dopo 6 giornate: non accadeva dal 2020, quando in panchina c’era Giampaolo",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T11:15:00+00:00"
     }
   ]
 }
