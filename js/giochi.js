@@ -209,6 +209,20 @@ function spesa(box) {
 // ================= 4. TIME MACHINE =================
 // Stagioni di Serie A (e dintorni). Indizi dal più difficile al più facile: ogni vita persa ne svela uno in più.
 const STAGIONI = [
+  ["1989/90", ["Capocannoniere della Serie A: Marco van Basten, 19 gol", "La Juventus vince la Coppa Italia", "Il Milan vince la Coppa dei Campioni a Vienna contro il Benfica", "Il Napoli di Maradona vince lo scudetto; in estate il Mondiale si gioca in Italia"]],
+  ["1990/91", ["La Roma vince la Coppa Italia", "L'Inter vince la Coppa UEFA battendo la Roma", "La Stella Rossa vince la Coppa dei Campioni a Bari ai rigori contro il Marsiglia", "La Sampdoria di Mancini e Vialli vince lo scudetto"]],
+  ["1991/92", ["Capocannoniere della Serie A: Marco van Basten, 25 gol", "Il Parma vince la Coppa Italia", "Il Barcellona vince la prima Coppa dei Campioni a Wembley", "Il Milan di Capello vince lo scudetto senza sconfitte; in estate la Danimarca vince l'Europeo"]],
+  ["1992/93", ["Capocannoniere della Serie A: Giuseppe Signori, 26 gol", "Il Parma vince la Coppa delle Coppe", "Il Marsiglia batte il Milan nella prima finale di Champions League", "Lo scudetto va al Milan"]],
+  ["1993/94", ["Capocannoniere della Serie A: Giuseppe Signori, 23 gol", "La Sampdoria vince la Coppa Italia", "Il Milan batte il Barcellona 4-0 nella finale di Champions ad Atene", "Il Milan vince il terzo scudetto di fila; in estate Baggio sbaglia il rigore nella finale del Mondiale"]],
+  ["1994/95", ["Capocannoniere della Serie A: Batistuta, 26 gol", "Il Parma vince la Coppa UEFA battendo la Juventus", "L'Ajax batte il Milan nella finale di Champions a Vienna", "La Juventus di Lippi vince campionato e Coppa Italia"]],
+  ["1995/96", ["Capocannoniere della Serie A: Giuseppe Signori, 24 gol", "La Fiorentina vince la Coppa Italia", "La Juventus vince la Champions ai rigori contro l'Ajax a Roma", "Lo scudetto va al Milan; in estate la Germania vince l'Europeo in Inghilterra"]],
+  ["1996/97", ["Capocannoniere della Serie A: Filippo Inzaghi con l'Atalanta, 24 gol", "Il Vicenza vince la Coppa Italia", "Il Borussia Dortmund batte la Juventus nella finale di Champions a Monaco", "Lo scudetto va alla Juventus"]],
+  ["1997/98", ["Capocannoniere della Serie A: Oliver Bierhoff con l'Udinese, 27 gol", "La Lazio vince la Coppa Italia", "L'Inter di Ronaldo vince la Coppa UEFA a Parigi contro la Lazio", "Lo scudetto della Juventus, tra le polemiche per il contatto Iuliano-Ronaldo; in estate la Francia vince il Mondiale"]],
+  ["1998/99", ["Capocannoniere della Serie A: Amoroso, 22 gol", "Il Parma di Buffon vince Coppa Italia e Coppa UEFA", "La Lazio vince l'ultima Coppa delle Coppe", "Il Manchester United vince il «triplete» a Barcellona; lo scudetto va al Milan di Zaccheroni"]],
+  ["1999/00", ["Capocannoniere della Serie A: Shevchenko, 24 gol", "La Lazio vince la Coppa Italia", "Il Real Madrid batte il Valencia nella finale di Champions a Parigi", "La Lazio vince lo scudetto all'ultima giornata sotto la pioggia di Perugia; in estate la Francia vince l'Europeo"]],
+  ["2000/01", ["Capocannoniere della Serie A: Hernán Crespo, 26 gol", "La Fiorentina vince la Coppa Italia", "Il Bayern vince la Champions a San Siro contro il Valencia", "Lo scudetto va alla Roma di Capello e Totti"]],
+  ["2001/02", ["Capocannoniere della Serie A: Trezeguet, 24 gol", "Il Parma vince la Coppa Italia", "Zidane segna il celebre volo di sinistro nella finale di Champions a Glasgow", "Il 5 maggio l'Inter perde con la Lazio e la Juventus vince lo scudetto; in estate il Brasile vince il Mondiale"]],
+  ["2002/03", ["Capocannoniere della Serie A: Christian Vieri, 24 gol", "Il Milan vince la Coppa Italia", "Il Milan batte la Juventus ai rigori nella finale di Champions a Manchester", "Lo scudetto va alla Juventus"]],
   ["2003/04", ["Capocannoniere della Serie A: Shevchenko, 24 gol", "Lo scudetto va al Milan", "Il Porto di Mourinho vince la Champions", "Nell'estate di quell'anno la Grecia vince l'Europeo"]],
   ["2005/06", ["Capocannoniere della Serie A: Luca Toni, 31 gol", "Il Barcellona vince la Champions contro l'Arsenal", "Scoppia Calciopoli e lo scudetto viene assegnato all'Inter", "Nell'estate di quell'anno l'Italia vince il Mondiale"]],
   ["2006/07", ["Capocannoniere della Serie A: Totti, 26 gol", "La Juventus gioca in Serie B: Del Piero è capocannoniere del campionato cadetto", "L'Inter vince lo scudetto", "Il Milan vince la Champions ad Atene contro il Liverpool"]],
@@ -271,7 +285,7 @@ const GIOCHI = [
   ["asta", "Asta al Buio", "Indovina quanto è costato il cartellino. Ogni milione di errore consuma il tuo margine.", asta],
   ["fantasma", "Azione Fantasma", "Solo pallini su una lavagna tattica: riconosci il gol.", fantasma],
   ["spesa", "Spesa con Budget", "Cinque giocatori, un obiettivo e pochi euro. Nuovo ogni giorno.", spesa],
-  ["time", "Time Machine", "Indizi difficili, una stagione di Serie A. Hai 3 vite.", (b) => macchina(b)],
+  ["time", "Time Machine", "Indizi difficili, una stagione dal 1989/90 a oggi. Hai 3 vite.", (b) => macchina(b)],
 ];
 let attivo = GIOCHI.find((g) => g[0] === location.hash.slice(1)) ? location.hash.slice(1) : "asta";
 const mostra = () => {
