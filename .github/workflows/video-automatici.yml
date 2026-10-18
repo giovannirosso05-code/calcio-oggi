@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       cosa:
-        description: 'Tipo di operazione (es. notizia-scelta, rassegna)'
+        description: 'Tipo di operazione: notizia-scelta (copertina + video) o copertina'
         required: true
         default: 'notizia-scelta'
       url:
@@ -36,45 +36,4 @@ jobs:
           INPUT_URL: ${{ github.event.inputs.url }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: |
-          python - << 'EOF'
-          import os
-          import sys
-          import requests
-          from video.grafica import crea_card_notizia
-          from video.voce import crea_audio
-          from video.montaggio import crea_video_notizia
-
-          dati_input = os.getenv("INPUT_URL", "")
-          parti = dati_input.split("|")
-
-          url = parti[0] if len(parti) > 0 else ""
-          titolo = parti[1] if len(parti) > 1 and parti[1] else "Ultime notizie di Calcio"
-          fonte = parti[2] if len(parti) > 2 and parti[2] else "Calcio Oggi"
-          serie = parti[3] if len(parti) > 3 and parti[3] else "Serie A"
-
-          # 1. Grafica
-          img_path = crea_card_notizia(titolo=titolo, fonte=fonte, serie=serie, file_uscita="output/card.png")
-
-          # 2. Voce
-          testo_voce = f"Ultime da {serie}. {titolo}. Fonte {fonte}."
-          audio_path = crea_audio(testo=testo_voce, percorso_uscita="output/audio.mp3")
-
-          # 3. Montaggio
-          video_path = crea_video_notizia(img_path, audio_path, "output/video.mp4")
-
-          # 4. Invio a Telegram
-          token = os.getenv("TELEGRAM_TOKEN")
-          chat_id = os.getenv("CHAT_ID")
-          if token and chat_id:
-              tg_url = f"https://api.telegram.org/bot{token}/sendVideo"
-              with open(video_path, "rb") as f:
-                  r = requests.post(
-                      tg_url,
-                      data={"chat_id": chat_id, "caption": f"⚽ **{serie}**\n\n{titolo}\n\n📰 Fonte: {fonte}"},
-                      files={"video": f}
-                  )
-                  print("Telegram response:", r.status_code, r.text)
-          else:
-              print("TELEGRAM_TOKEN o CHAT_ID non impostati nei Secrets.")
-          EOF
+        run: python -m video.genera
