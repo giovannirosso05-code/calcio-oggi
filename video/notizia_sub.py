@@ -294,6 +294,9 @@ def risolvi_foto(spec, banca):
     usate, scelte = set(), []
     for s in scene:
         nome = s.get("foto", "")
+        if s.get("tabella"):   # la schermata coi risultati non ha un'immagine sua
+            scelte.append([None, False])
+            continue
         cands = [] if s.get("tipo") == "squadra" else (banca.candidati(nome, len(nome.split()) == 1) if nome else [])
         c = next((x for x in cands if x["id"] not in usate), None) or (cands[0] if cands else None)
         if c is None and s.get("scheda"):   # nessuna foto libera (o scena su una squadra): i due stemmi col risultato
@@ -309,14 +312,17 @@ def risolvi_foto(spec, banca):
             usate.add(c["id"])
         scelte.append([c, bool(c)])
     storia = banca.tutte()
-    for sc in scelte:
-        if sc[0] is None and storia:
+    for sc, s in zip(scelte, scene):
+        if sc[0] is None and storia and not s.get("tabella"):
             sc[0] = next((x for x in storia if x["id"] not in usate), None) or storia[0]
             usate.add(sc[0]["id"])
     if not any(c for c, _ in scelte):
         raise NessunaFoto("nessuna immagine trovata per i protagonisti: " + ", ".join(sorted({s.get("foto", "?") for s in scene})))
     foglio = []
     for i, (s, (c, propria)) in enumerate(zip(scene, scelte), 1):
+        if c is None:
+            foglio.append(f"{i}. schermata coi risultati (nessuna foto)" if s.get("tabella") else f"{i}. {s.get('foto', '?')} → nessuna immagine")
+            continue
         foglio.append(f"{i}. {s.get('foto', '?')} → {c['origine']} · {c['credito']}" + ("" if propria else "  [immagine di un'altra scena: non c'è una foto di questo nome]"))
     return scelte, foglio
 
