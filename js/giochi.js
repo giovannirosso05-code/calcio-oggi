@@ -207,34 +207,59 @@ function spesa(box) {
 }
 
 // ================= 4. TIME MACHINE =================
-const ANNI = [
-  { a: 1982, e: ["L'Italia vince il Mondiale in Spagna", "Paolo Rossi è capocannoniere e Pallone d'Oro", "Tardelli esulta in finale con il famoso urlo"] },
-  { a: 1990, e: ["Il Mondiale si gioca in Italia: «Notti magiche»", "Lothar Matthäus vince il Pallone d'Oro", "Schillaci è capocannoniere del Mondiale"] },
-  { a: 1994, e: ["Baggio sbaglia il rigore nella finale mondiale", "Il Milan batte il Barcellona 4-0 in finale di Champions", "Stoičkov vince il Pallone d'Oro"] },
-  { a: 2000, e: ["La Lazio vince lo scudetto", "Figo vince il Pallone d'Oro", "L'Europeo si decide con il golden goal di Trezeguet"] },
-  { a: 2006, e: ["Cannavaro, un difensore, vince il Pallone d'Oro", "L'Italia batte la Francia ai rigori nella finale mondiale", "Scoppia Calciopoli"] },
-  { a: 2007, e: ["Kaká vince il Pallone d'Oro", "Il Milan vince la Champions ad Atene contro il Liverpool", "L'Inter vince lo scudetto sul campo, il primo dopo anni"] },
-  { a: 2010, e: ["L'Inter di Mourinho conquista il Triplete", "La Spagna vince il Mondiale in Sudafrica", "Lionel Messi vince il Pallone d'Oro"] },
-  { a: 2021, e: ["L'Italia vince l'Europeo a Wembley", "Il Chelsea vince la Champions", "Messi vince il suo settimo Pallone d'Oro"] },
+// Stagioni di Serie A (e dintorni). Indizi dal più difficile al più facile: ogni vita persa ne svela uno in più.
+const STAGIONI = [
+  ["2003/04", ["Capocannoniere della Serie A: Shevchenko, 24 gol", "Lo scudetto va al Milan", "Il Porto di Mourinho vince la Champions", "Nell'estate di quell'anno la Grecia vince l'Europeo"]],
+  ["2005/06", ["Capocannoniere della Serie A: Luca Toni, 31 gol", "Il Barcellona vince la Champions contro l'Arsenal", "Scoppia Calciopoli e lo scudetto viene assegnato all'Inter", "Nell'estate di quell'anno l'Italia vince il Mondiale"]],
+  ["2006/07", ["Capocannoniere della Serie A: Totti, 26 gol", "La Juventus gioca in Serie B: Del Piero è capocannoniere del campionato cadetto", "L'Inter vince lo scudetto", "Il Milan vince la Champions ad Atene contro il Liverpool"]],
+  ["2007/08", ["Capocannoniere della Serie A: Ibrahimović, 17 gol", "La Roma vince la Coppa Italia", "Il Manchester United vince la Champions a Mosca ai rigori", "Nell'estate di quell'anno la Spagna vince l'Europeo"]],
+  ["2008/09", ["Capocannoniere della Serie A: Ibrahimović, 25 gol", "La Lazio vince la Coppa Italia", "Il Barcellona di Guardiola vince la Champions a Roma", "L'Inter di Mourinho vince il primo scudetto; in estate Ibrahimović passa al Barcellona"]],
+  ["2009/10", ["Capocannoniere della Serie A: Di Natale, 29 gol", "Milito segna una doppietta nella finale di Champions a Madrid", "L'Inter vince Scudetto, Coppa Italia e Champions", "Nell'estate di quell'anno la Spagna vince il Mondiale"]],
+  ["2010/11", ["Capocannoniere della Serie A: Di Natale, 28 gol", "L'Inter vince la Coppa Italia contro il Palermo", "Il Barcellona vince la Champions a Wembley", "Lo scudetto va al Milan"]],
+  ["2011/12", ["Capocannoniere della Serie A: Ibrahimović con il Milan, 28 gol", "Il Napoli vince la Coppa Italia contro la Juventus", "Il Chelsea vince la Champions a Monaco ai rigori", "La Juventus di Conte vince lo scudetto senza sconfitte; Del Piero lascia i bianconeri"]],
+  ["2012/13", ["Capocannoniere della Serie A: Cavani, 29 gol", "La Lazio vince la Coppa Italia battendo la Roma nel derby", "Il Bayern Monaco vince la Champions battendo il Dortmund a Wembley", "Lo scudetto va alla Juventus"]],
+  ["2013/14", ["Capocannoniere della Serie A: Immobile con il Torino, 22 gol", "Il Napoli vince la Coppa Italia", "La Juventus chiude con 102 punti", "Il Real Madrid vince la «Decima» a Lisbona; in estate la Germania vince 7-1 il Mondiale in Brasile"]],
+  ["2014/15", ["Capocannoniere della Serie A: Icardi e Toni a pari merito, 22 gol", "La Juventus vince campionato e Coppa Italia", "La Juventus perde la finale di Champions a Berlino contro il Barcellona", "Il Barcellona del tridente MSN vince la Champions"]],
+  ["2015/16", ["Capocannoniere della Serie A: Higuaín, 36 gol", "Il Leicester vince la Premier League", "Il Real Madrid vince la Champions a San Siro contro l'Atlético", "La Juventus vince il quinto scudetto consecutivo"]],
+  ["2016/17", ["Capocannoniere della Serie A: Dzeko, 29 gol", "Totti smette di giocare", "La Juventus perde la finale di Champions a Cardiff contro il Real", "La Juventus vince campionato e Coppa Italia"]],
+  ["2017/18", ["Capocannoniere della Serie A: Immobile, 29 gol", "L'Italia non si qualifica al Mondiale dopo lo spareggio con la Svezia", "Il Real Madrid vince la terza Champions di fila a Kiev", "Lo scudetto va alla Juventus, il settimo di fila; Buffon lascia in estate"]],
+  ["2018/19", ["Capocannoniere della Serie A: Quagliarella, 26 gol", "La Lazio vince la Coppa Italia contro l'Atalanta", "Il Liverpool vince la Champions a Madrid contro il Tottenham", "Primo scudetto della Juventus con Cristiano Ronaldo"]],
+  ["2019/20", ["Capocannoniere della Serie A: Immobile, 36 gol (record condiviso con Higuaín)", "Il Napoli vince la Coppa Italia ai rigori contro la Juventus", "Il Bayern vince la Champions nella «Final Eight» di Lisbona", "Il campionato si ferma per il Covid e riparte a porte chiuse"]],
+  ["2020/21", ["Capocannoniere della Serie A: Cristiano Ronaldo, 29 gol", "La Juventus vince la Coppa Italia", "Il Chelsea vince la Champions a Porto", "L'Inter interrompe la serie di scudetti della Juventus; in estate l'Italia vince l'Europeo a Wembley"]],
+  ["2021/22", ["Capocannoniere della Serie A: Immobile, 27 gol", "L'Inter vince la Coppa Italia", "Il Milan vince lo scudetto all'ultima giornata contro il Sassuolo", "L'Italia non si qualifica al Mondiale: sconfitta con la Macedonia del Nord"]],
+  ["2022/23", ["Capocannoniere della Serie A: Osimhen, 26 gol", "L'Inter perde la finale di Champions a Istanbul contro il Manchester City", "L'Inter vince la Coppa Italia", "Il Napoli vince lo scudetto dopo 33 anni; il Mondiale in Qatar si gioca in inverno"]],
+  ["2023/24", ["Capocannoniere della Serie A: Lautaro Martínez, 24 gol", "Il Bologna vince la Coppa Italia", "Il Real Madrid vince la Champions a Wembley contro il Dortmund", "L'Inter vince lo scudetto, il ventesimo, nel derby"]],
+  ["2024/25", ["Capocannoniere della Serie A: Retegui, 25 gol", "Il PSG vince per la prima volta la Champions battendo l'Inter 5-0", "Il Bologna è campione in carica della Coppa Italia", "Il Napoli vince lo scudetto di McTominay all'ultima giornata"]],
 ];
 
-function macchina(box) {
-  const r = rng(seme("tm" + oggi()));
-  const t = ANNI[Math.floor(r() * ANNI.length)];
+function macchina(box, casuale = false) {
+  const r = rng(casuale ? Math.random() * 1e9 : seme("tm" + oggi()));
+  const k = Math.floor(r() * STAGIONI.length);
+  const [vera, indizi] = STAGIONI[k];
+  const VITE = 3;
   const prove = [];
-  const MAX = 5;
   const disegna = (msg = "", fatto = false) => {
-    box.innerHTML = `<p class="regola">Quattro indizi, un solo anno. Hai ${MAX} tentativi: ti dico se l'anno è <b>più recente</b> o <b>più vecchio</b>.</p>
-      <ol class="eventi">${t.e.map((x) => `<li>${esc(x)}</li>`).join("")}</ol>
-      ${prove.length ? `<ul class="eventi">${prove.map((p) => `<li>${p.g} → ${p.v}</li>`).join("")}</ul>` : ""}${msg}
-      ${fatto ? `<div class="azioni"><button class="btn" id="cond">Condividi</button></div>` : `<div class="azioni"><input id="anno" type="number" min="1950" max="2026" placeholder="Anno" style="padding:10px;border-radius:10px;border:1px solid var(--linea);background:var(--bg);color:inherit;width:110px"><button class="btn" id="ok">Prova</button></div>`}`;
-    if (fatto) { const rr = prove[prove.length - 1].g === t.a; $("cond").onclick = (e) => condividi(`⚽ Calcio Oggi · Time Machine ${oggi()}\n${rr ? `Anno indovinato in ${prove.length}/${MAX}` : "Anno non indovinato"}`, e.target); return; }
+    const vite = VITE - prove.filter((p) => !p.ok).length;
+    const visibili = Math.min(indizi.length, 1 + prove.length + (prove.length ? 0 : 1));
+    box.innerHTML = `<div class="stato"><span>Vite: ${"❤️".repeat(Math.max(vite, 0))}${"🖤".repeat(VITE - Math.max(vite, 0))}</span><span>Indizi: ${visibili}/${indizi.length}</span></div>
+      <p class="regola">Di che stagione parlano questi indizi? Ogni errore ti dice se è <b>più recente</b> o <b>più vecchia</b> e ti svela un altro indizio.</p>
+      <ol class="eventi">${indizi.slice(0, fatto ? indizi.length : visibili).map((x) => `<li>${esc(x)}</li>`).join("")}</ol>
+      ${prove.length ? `<ul class="eventi">${prove.map((p) => `<li>${esc(p.g)} → ${p.v}</li>`).join("")}</ul>` : ""}${msg}
+      ${fatto ? `<div class="azioni"><button class="btn" id="cond">Condividi</button><button class="btn sec" id="altra">Un'altra stagione</button></div>`
+        : `<div class="azioni"><select id="anno" aria-label="Stagione" style="padding:10px;border-radius:10px;border:1px solid var(--linea);background:var(--bg);color:inherit">${STAGIONI.map((x) => `<option>${x[0]}</option>`).join("")}</select><button class="btn" id="ok">Prova</button></div>`}`;
+    if (fatto) {
+      const vinto = prove[prove.length - 1].ok;
+      $("cond").onclick = (e) => condividi(`⚽ Calcio Oggi · Time Machine\n${vinto ? `Stagione indovinata con ${vite} ${vite === 1 ? "vita" : "vite"} rimaste ${"❤️".repeat(vite)}` : "Stagione non indovinata 🖤🖤🖤"}`, e.target);
+      $("altra").onclick = () => macchina(box, true);
+      return;
+    }
+    $("anno").value = STAGIONI[Math.floor(STAGIONI.length / 2)][0];
     $("ok").onclick = () => {
-      const g = +$("anno").value; if (!g) return;
-      const v = g === t.a ? "✅ esatto" : g < t.a ? "⬆ più recente" : "⬇ più vecchio";
-      prove.push({ g, v });
-      if (g === t.a) disegna(`<div class="esito ok">Esatto: <b>${t.a}</b>!</div>`, true);
-      else if (prove.length >= MAX) { disegna(`<div class="esito no">Tentativi finiti.</div>`, true); soluzioneConVideo(box, { testo: `Era il <b>${t.a}</b>.` }); }
+      const g = $("anno").value, gi = STAGIONI.findIndex((x) => x[0] === g);
+      const ok = g === vera;
+      prove.push({ g, ok, v: ok ? "✅ esatta" : gi < k ? "⬆ più recente" : "⬇ più vecchia" });
+      if (ok) disegna(`<div class="esito ok">Esatto: <b>${vera}</b>!</div>`, true);
+      else if (VITE - prove.filter((p) => !p.ok).length <= 0) { disegna(`<div class="esito no">Vite finite.</div>`, true); soluzioneConVideo(box, { testo: `Era la stagione <b>${vera}</b>.` }); }
       else disegna();
     };
   };
@@ -246,7 +271,7 @@ const GIOCHI = [
   ["asta", "Asta al Buio", "Indovina quanto è costato il cartellino. Ogni milione di errore consuma il tuo margine.", asta],
   ["fantasma", "Azione Fantasma", "Solo pallini su una lavagna tattica: riconosci il gol.", fantasma],
   ["spesa", "Spesa con Budget", "Cinque giocatori, un obiettivo e pochi euro. Nuovo ogni giorno.", spesa],
-  ["time", "Time Machine", "Quattro indizi, un anno. Più recente o più vecchio?", macchina],
+  ["time", "Time Machine", "Indizi difficili, una stagione di Serie A. Hai 3 vite.", (b) => macchina(b)],
 ];
 let attivo = GIOCHI.find((g) => g[0] === location.hash.slice(1)) ? location.hash.slice(1) : "asta";
 const mostra = () => {
