@@ -1,4 +1,5 @@
 import hashlib
+import html
 import json
 import re
 from datetime import datetime, timedelta, timezone
@@ -31,7 +32,7 @@ BIG_SERIE_A = ["inter", "milan", "juventus", "juve", "napoli", "roma", "lazio", 
 
 def pulisci_testo(t):
     t = re.sub(r"<[^>]+>", "", t or "")
-    t = t.replace("&quot;", '"').replace("&apos;", "'").replace("&amp;", "&")
+    t = html.unescape(html.unescape(t))   # due passate: alcuni feed codificano due volte (&amp;rsquo;)
     return re.sub(r"\s+", " ", t).strip()
 
 def calcola_codice(url):
