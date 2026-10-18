@@ -191,15 +191,15 @@ function spesa(box) {
   const disegna = () => {
     const sp = [...sel].reduce((x, k) => x + rosa[k].p, 0), tot = [...sel].reduce((x, k) => x + rosa[k][chiavi[0]], 0);
     box.innerHTML = `<p class="regola">Obiettivo di oggi: scegli <b>${N} giocatori</b> che insieme abbiano almeno <b>${obiettivo}</b> ${chiavi[1]}, spendendo al massimo <b>${BUDGET}€</b>.</p>
-      <div class="stato"><span>Scelti ${sel.size}/${N}</span><span>Spesa <b>${sp}/${BUDGET}€</b></span><span>${chiavi[1]}: <b>${tot}/${obiettivo}</b></span></div>
-      <div class="rosa">${rosa.map((g, k) => `<button data-k="${k}" aria-pressed="${sel.has(k)}"><b>${esc(g.n)}</b><small>${g.p}€ · 🏆 ${g.bd} PdO · ${g.cl} CL</small></button>`).join("")}</div>
+      <div class="stato"><span>Scelti ${sel.size}/${N}</span><span>Spesa <b>${sp}/${BUDGET}€</b></span></div>
+      <div class="rosa">${rosa.map((g, k) => `<button data-k="${k}" aria-pressed="${sel.has(k)}"><b>${esc(g.n)}</b><small>${g.p}€</small></button>`).join("")}</div>
       <div class="azioni"><button class="btn" id="ok" ${sel.size === N ? "" : "disabled"}>Conferma squadra</button></div><div id="esito"></div>
-      <p class="nota">PdO = Palloni d'Oro vinti; CL = Champions League / Coppa dei Campioni vinte da giocatore. Il prezzo dipende da quanto è titolato.</p>`;
+      <p class="nota">Non ti dico i numeri: devi saperli tu. Il prezzo è solo un indizio (più è titolato, più costa). Contano i Palloni d'Oro vinti e le Champions League / Coppe dei Campioni vinte da giocatore.</p>`;
     box.querySelectorAll(".rosa button").forEach((b) => (b.onclick = () => { const k = +b.dataset.k; sel.has(k) ? sel.delete(k) : sel.size < N && sel.add(k); disegna(); }));
     $("ok").onclick = () => {
       const ok = sp <= BUDGET && tot >= obiettivo;
       const testo = `⚽ Calcio Oggi · Spesa con Budget ${oggi()}\n${ok ? "Obiettivo centrato ✅" : "Obiettivo mancato ❌"} (${sp}€, ${tot}/${obiettivo})`;
-      $("esito").innerHTML = `<div class="esito ${ok ? "ok" : "no"}">${ok ? "Obiettivo centrato!" : sp > BUDGET ? "Hai sforato il budget." : `Ti mancano ${obiettivo - tot} ${chiavi[1]}.`}</div><div class="azioni"><button class="btn" id="cond">Condividi</button></div>`;
+      $("esito").innerHTML = `<div class="esito ${ok ? "ok" : "no"}">${ok ? "Obiettivo centrato!" : sp > BUDGET ? "Hai sforato il budget." : `Ti mancano ${obiettivo - tot} ${chiavi[1]}.`} Totale: ${tot}/${obiettivo}.</div><ul class="eventi">${[...sel].map((k) => `<li>${esc(rosa[k].n)}: ${rosa[k].bd} Palloni d'Oro, ${rosa[k].cl} Champions</li>`).join("")}</ul><div class="azioni"><button class="btn" id="cond">Condividi</button></div>`;
       $("cond").onclick = (e) => condividi(testo, e.target);
     };
   };
