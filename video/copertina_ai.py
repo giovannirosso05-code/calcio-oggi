@@ -73,6 +73,9 @@ def genera_sfondo(titolo, serie="Serie A", tentativi=2):
                 print(f"[copertina ia] {modello}: {e}")
                 break
             if r.status_code in (429, 503):
+                print(f"[copertina ia] {modello}: HTTP {r.status_code} {re.sub(r'\\s+', ' ', r.text)[:300]}")
+                if r.status_code == 429 and "limit: 0" in r.text:
+                    break   # quota zero (piano gratuito senza immagini): inutile ritentare
                 time.sleep(6 * (i + 1))
                 continue
             if not r.ok:
