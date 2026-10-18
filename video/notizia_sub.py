@@ -199,8 +199,9 @@ def pagina_tabella(spec, avanzamento, sub=None):
 
 
 def stemma(url):
-    """Immagine verticale col logo della squadra su un disco chiaro (visibile anche per i logo scuri): ripiego quando non c'è una foto libera."""
+    """Immagine verticale per quando non c'è una foto libera: sfondo nero come le altre pagine, una porta con la rete e lo stemma della squadra dentro."""
     import io
+    import math
     import requests
     from PIL import Image, ImageDraw
     try:
@@ -209,17 +210,45 @@ def stemma(url):
         lg = Image.open(io.BytesIO(r.content)).convert("RGBA")
     except Exception:
         return None
-    bg = Image.new("RGB", (W, H))
+    S = 2   # disegno al doppio e poi si riduce: linee più morbide
+    bg = Image.new("RGBA", (W * S, H * S), (11, 11, 14, 255))
     d = ImageDraw.Draw(bg)
-    for y in range(H):
-        t = y / H
-        d.line([(0, y), (W, y)], fill=(int(24 - 14 * t), int(28 - 16 * t), int(34 - 20 * t)))
-    disco = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(disco).ellipse([W // 2 - 380, 800 - 380, W // 2 + 380, 800 + 380], fill=(241, 244, 242, 245))
-    bg = Image.alpha_composite(bg.convert("RGBA"), disco)
-    lg.thumbnail((600, 600), Image.LANCZOS)
-    bg.alpha_composite(lg, (W // 2 - lg.width // 2, 800 - lg.height // 2))
-    return bg.convert("RGB")
+    p = lambda *c: [v * S for v in c]
+    rete, bianco, scuro = (92, 99, 106, 255), (245, 247, 246, 255), (11, 11, 14, 255)
+    L, R, T, B = 130, 950, 600, 1050          # porta davanti
+    l, r_, t, b = 270, 810, 680, 1000         # fondo della rete (più piccolo: prospettiva)
+    for x in range(l, r_ + 1, 45):            # rete sul fondo
+        d.line(p(x, t, x, b), fill=rete, width=3 * S)
+    for y in range(t, b + 1, 40):
+        d.line(p(l, y, r_, y), fill=rete, width=3 * S)
+    for a, c in (((L, T), (l, t)), ((R, T), (r_, t)), ((L, B), (l, b)), ((R, B), (r_, b))):   # rete sui lati
+        d.line(p(*a, *c), fill=rete, width=3 * S)
+    for k in range(1, 6):
+        f = k / 6
+        d.line(p(L + (l - L) * f, T + (t - T) * f, L + (l - L) * f, B + (b - B) * f), fill=rete, width=2 * S)
+        d.line(p(R + (r_ - R) * f, T + (t - T) * f, R + (r_ - R) * f, B + (b - B) * f), fill=rete, width=2 * S)
+        d.line(p(L + (l - L) * f, T + (t - T) * f, R + (r_ - R) * f, T + (t - T) * f), fill=rete, width=2 * S)
+    for w, col in ((30, scuro), (16, bianco)):   # pali e traversa
+        d.line(p(L, B, L, T, R, T, R, B), fill=col, width=w * S, joint="curve")
+        for x, y in ((L, T), (R, T)):
+            d.ellipse(p(x - w / 2, y - w / 2, x + w / 2, y + w / 2), fill=col)
+        for x in (L, R):
+            d.ellipse(p(x - w / 2, B - w / 2, x + w / 2, B + w / 2), fill=col)
+    d.line(p(60, B + 8, 1020, B + 8), fill=(60, 66, 72, 255), width=4 * S)   # linea di fondo
+    cx, cy, rr = W // 2, 840, 150         # stemma su un disco chiaro dentro la rete
+    d.ellipse(p(cx - rr, cy - rr, cx + rr, cy + rr), fill=(241, 244, 242, 255))
+    lg.thumbnail((rr * 2 - 50, rr * 2 - 50), Image.LANCZOS)
+    bg.alpha_composite(lg.resize((lg.width * S, lg.height * S), Image.LANCZOS), ((cx - lg.width // 2) * S, (cy - lg.height // 2) * S))
+    bx, by, br = 880, 1180, 78              # pallone fuori dalla porta
+    d.ellipse(p(bx - br * 1.2, by + br * 0.85, bx + br * 1.2, by + br * 1.05 + 16), fill=(0, 0, 0, 255))
+    d.ellipse(p(bx - br - 7, by - br - 7, bx + br + 7, by + br + 7), fill=bianco)
+    d.ellipse(p(bx - br, by - br, bx + br, by + br), fill=bianco, outline=scuro, width=6 * S)
+    pen = lambda cx_, cy_, rad, rot: [(cx_ + rad * math.cos(math.radians(rot + 72 * i)), cy_ + rad * math.sin(math.radians(rot + 72 * i))) for i in range(5)]
+    d.polygon([(x * S, y * S) for x, y in pen(bx, by, 28, -90)], fill=scuro)
+    for i in range(5):
+        a_ = math.radians(-90 + 72 * i)
+        d.line(p(bx + 28 * math.cos(a_), by + 28 * math.sin(a_), bx + 62 * math.cos(a_), by + 62 * math.sin(a_)), fill=scuro, width=5 * S)
+    return bg.resize((W, H), Image.LANCZOS).convert("RGB")
 
 
 def risolvi_foto(spec, banca):
