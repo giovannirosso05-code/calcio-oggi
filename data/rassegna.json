@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-18T00:03:17.376809+00:00",
+  "aggiornato": "2026-10-18T04:23:33.853407+00:00",
   "totale": 75,
   "articoli": [
     {
@@ -135,17 +135,6 @@
       "pubblicato": "2026-10-17T16:15:39+00:00"
     },
     {
-      "id": "3f7516e686",
-      "titolo": "Juve-Lazio, Spalletti scatenato: \"Wolte-Kolo, Europa sabbia mobile, Sarr totale, Gatti, Nico e il Califfo..\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/17-151950946/juve-lazio_spalletti_scatenato_wolte-kolo_picchiettino_europa_sabbia_mobile_sarr_totale_gatti_nico_e_il_califfo_/",
-      "estratto": "Dalla doppia punta alle polemiche post Cagliari, l'allenatore bianconero ha analizzato la sfida contro la Lazio, tra frecciate, retroscena e futuro in panchina",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-17T15:00:00+00:00"
-    },
-    {
       "id": "9d75e8a9ef",
       "titolo": "Lippi: \"Napoli? Mazzarri sta facendo di necessità virtù, ecco la strada da seguire\"",
       "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/29-01-2024/lippi-mazzarri-sta-facendo-di-necessita-virtu-ecco-la-strada-da-seguire.shtml",
@@ -201,17 +190,6 @@
       "pubblicato": "2023-11-11T07:46:25+00:00"
     },
     {
-      "id": "02845e37cc",
-      "titolo": "Como, Diao rompe il silenzio dopo l'infortunio: \"La riabilitazione è iniziata, torno presto\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/como-diao-rompe-silenzio-infortunio-la-riabilitazione-iniziata-torno-presto-2284472",
-      "estratto": "Assane Diao torna a farsi sentire dopo l'infortunio rimediato in Champions League contro il Feyenoord.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 60,
-      "pubblicato": "2026-10-17T22:15:46+00:00"
-    },
-    {
       "id": "24af150d1f",
       "titolo": "Luis Enrique: \"Il nostro girone di Champions il più difficile, rischiamo tanto...\"",
       "url": "https://www.itasportpress.it/champions-league/psg-luis-enrique-avverte-gruppo-di-champions-difficile-rischiamo-tanto/?intcmp=gazzanet-luis-enrique",
@@ -232,39 +210,6 @@
       "citazione": false,
       "punteggio": 50,
       "pubblicato": "2023-11-09T07:50:05+00:00"
-    },
-    {
-      "id": "4c1d2f2cf4",
-      "titolo": "Nicola e la richiesta di sostegno ai tifosi del Venezia per Adams: \"Non era un rimprovero\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/nicola-richiesta-sostegno-tifosi-venezia-adams-non-rimprovero-2284446",
-      "estratto": "Mister Davide Nicola, intervenuto in conferenza stampa dopo la vittoria contro il Napoli al suo debutto sulla panchina del Venezia, è stato interpellato anche sul bel gesto nei confronti di Akor Adams nel primo tempo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T22:30:58+00:00"
-    },
-    {
-      "id": "f43c7f28fc",
-      "titolo": "Lione, Fonseca annuncia turnover contro il Nizza: \"Sarà difficile dal punto di vista fisico\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/lione-fonseca-annuncia-turnover-nizza-sara-difficile-punto-vista-fisico-2284511",
-      "estratto": "Paulo Fonseca prepara una rotazione ampia in vista della sfida di Ligue 1 contro il Nizza.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T22:26:01+00:00"
-    },
-    {
-      "id": "875f32a98d",
-      "titolo": "Spalletti torna sulla lite con Pisacane: \"Non sono andato lì per litigare, non ho fatto nulla\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/spalletti-torna-lite-pisacane-non-andato-li-litigare-nulla-2284371",
-      "estratto": "Luciano Spalletti, allenatore della Juventus, è tornato anche sulla lite col tecnico rossoblù Fabio Pisacane al termine della sfida di Cagliari durante la conferenza stampa odierna.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-17T22:23:17+00:00"
     },
     {
       "id": "15090db15c",
@@ -344,6 +289,39 @@
       "pubblicato": "2023-11-09T07:35:51+00:00"
     },
     {
+      "id": "262d85085f",
+      "titolo": "I granata vincono al 93&rsquo;: impresa con la Roma",
+      "url": "https://www.tuttosport.com/news/calcio/primavera/2026/10/18-151962289/i_granata_vincono_al_93_impresa_con_la_roma/",
+      "estratto": "Primavera, colpi di scena a ripetizione dopo il gol di Conzato. &Egrave; il primo successo al Robaldo",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T04:15:00+00:00"
+    },
+    {
+      "id": "447af4e4c8",
+      "titolo": "Serie B, Juve Stabia-Sudtirol: De Giorgio si aspetta una reazione dopo la beffa di Chiavari",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-juve-stabia-sudtirol-de-giorgio-aspetta-reazione-beffa-chiavari-2284442",
+      "estratto": "Prosegue la settima giornata di Serie B, iniziata con lo spettacolare anticipo di venerdì tra Verona e Catanzaro.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T04:06:00+00:00"
+    },
+    {
+      "id": "1163fa243c",
+      "titolo": "Oggi in TV, Serie A: dove vedere Milan-Atalanta e Juventus-Lazio",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-oggi-tv-i-serie-a-vedere-milan-atalanta-juventus-lazio-2284447",
+      "estratto": "Continuano le gare di Serie A valide per la settima giornata.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T03:30:05+00:00"
+    },
+    {
       "id": "fedb7e2fef",
       "titolo": "La Roma dimentica il Real, l'Inter dimentica il Brugge, il Napoli si dimentica di giocare. L'avvio horror di Allegri che fa tremare De Laurentiis",
       "url": "https://www.tuttomercatoweb.com/editoriale/roma-dimentica-real-inter-dimentica-brugge-napoli-dimentica-giocare-avvio-horror-allegri-tremare-de-2284510",
@@ -408,17 +386,6 @@
       "citazione": false,
       "punteggio": 30,
       "pubblicato": "2026-10-17T22:38:25+00:00"
-    },
-    {
-      "id": "9208b9cd65",
-      "titolo": "Serie C 2026/2027, il punto sulle panchine: Raffaele Di Napoli saluta il Giugliano",
-      "url": "https://www.tuttomercatoweb.com/serie-c/serie-2026-2027-punto-panchine-gubbio-esonera-carlo-torna-braglia-2279969",
-      "estratto": "Non si ferma il valzer panchine in Serie C.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-17T22:19:00+00:00"
     },
     {
       "id": "2449444259",
@@ -619,6 +586,61 @@
       "pubblicato": "2023-11-09T10:58:58+00:00"
     },
     {
+      "id": "119ecd0f46",
+      "titolo": "Serie B, Sampdoria-Arezzo: Corradi si gioca la panchina senza Lorenzo Insigne",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-sampdoria-arezzo-corradi-gioca-panchina-lorenzo-insigne-2284508",
+      "estratto": "Toccherà al signor Colombo di Como dirigere una partita interessante come quella tra Sampdoria e Arezzo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T04:18:55+00:00"
+    },
+    {
+      "id": "f4ed6d3b40",
+      "titolo": "Serie B, Cesena-Avellino: Nesta cerca la continuità",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-cesena-avellino-nesta-cerca-continuita-2284407",
+      "estratto": "Dopo il grandissimo successo contro la Sampdoria, l’Avellino di Alessandro Nesta ha di fronte a sé una trasferta molto insidiosa.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T04:12:00+00:00"
+    },
+    {
+      "id": "f4dc79857e",
+      "titolo": "Spalletti, uomo forte destino forte",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151951822/spalletti_uomo_forte_destino_forte/",
+      "estratto": "La verit&agrave; &egrave; che il sesto allenatore bianconero negli ultimi sei anni, dodici mesi dopo la chiamata di Elkann sa quanto questa sia la stagione decisiva&nbsp;che la Juve si deve meritare",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T04:00:00+00:00"
+    },
+    {
+      "id": "fa62d7bd50",
+      "titolo": "Dante Bonfim Costa Santos, rimasto in campo fino ai 42 anni. E ora allenatore",
+      "url": "https://www.tuttomercatoweb.com/nato-oggi/dante-bonfim-costa-santos-rimasto-campo-42-anni-allenatore-2283507",
+      "estratto": "Nella sua carriera, Dante ha giocato prevalentemente in Germania e Francia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T03:00:58+00:00"
+    },
+    {
+      "id": "de7f516000",
+      "titolo": "Le partite di oggi: il programma di domenica 18 ottobre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/i-le-partite-oggi-i-programma-domenica-18-ottobre-2284518",
+      "estratto": "Domenica all'insegna del calcio italiano e internazionale.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T02:30:54+00:00"
+    },
+    {
       "id": "d100bcb03b",
       "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 17 ottobre",
       "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-17-ottobre-2284501",
@@ -639,17 +661,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-17T22:56:37+00:00"
-    },
-    {
-      "id": "ecf6ed3154",
-      "titolo": "Cannavaro riparte dal Giugliano, Calabro si gioca il futuro a Padova",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cannavaro-riparte-giugliano-calabro-gioca-padova-2284450",
-      "estratto": "Giornata movimentata per le panchine.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-17T22:34:20+00:00"
     },
     {
       "id": "0fac2bf1f8",
@@ -716,17 +727,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-17T16:03:40+00:00"
-    },
-    {
-      "id": "d28bb30755",
-      "titolo": "Il Palermo consolida il primato. Belotti non basta al Modena, il Pisa inguaia Pecchia",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/17-151956574/la_carrarese_stende_il_modena_di_belotti_benevento_beffa_nel_finale_contro_il_vicenza/",
-      "estratto": "I giallobl&ugrave; cadono con la Carrarese e perdono terreno sui rosanero che superano anche il Mantova. Bianco batte la Cremonese, pari per Ascoli e Benevento, Padova ancora ko",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-17T15:48:31+00:00"
     },
     {
       "id": "e34a3cbf8e",
