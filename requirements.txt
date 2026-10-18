@@ -6,3 +6,5 @@ pillow
 playwright
 edge-tts
 anthropic
+azure-cognitiveservices-speech
+gTTS

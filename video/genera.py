@@ -5,6 +5,7 @@ Lanciato dal workflow video-automatici.yml con le variabili:
   INPUT_URL    url|titolo|fonte|serie
   TELEGRAM_TOKEN, CHAT_ID
 """
+import json
 import os
 import sys
 from pathlib import Path
@@ -13,7 +14,7 @@ import requests
 
 from video.grafica import cerca_foto, crea_copertina
 from video.montaggio import crea_video_notizia
-from video.voce import crea_audio
+from video.voce import crea_audio_con_tempi
 
 USCITA = Path("output")
 
@@ -44,7 +45,9 @@ def main():
         manda("sendPhoto", "photo", copertina, didascalia)
         return
 
-    audio = crea_audio(f"Ultim'ora. {titolo}. Fonte: {fonte}. Segui Calcio Oggi per altri contenuti come questo.", USCITA / "audio.mp3")
+    audio, tempi, voce = crea_audio_con_tempi(f"Ultim'ora. {titolo}. Fonte: {fonte}. Segui Calcio Oggi per altri contenuti come questo.", USCITA / "audio.mp3")
+    print(f"voce usata: {voce}, {len(tempi)} parole con i tempi")
+    (USCITA / "tempi.json").write_text(json.dumps(tempi, ensure_ascii=False), encoding="utf-8")   # per i sottotitoli a tempo
     video = crea_video_notizia(copertina, audio, USCITA / "video.mp4")
     manda("sendPhoto", "photo", copertina, "Copertina")
     manda("sendVideo", "video", video, didascalia)
