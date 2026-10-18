@@ -160,3 +160,33 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .site-footer img { height: 30px; margin-bottom: 10px; display: block; }
 .site-footer p { margin: 4px 0; max-width: 70ch; }
 .site-footer a { color: #fff; text-decoration: underline; }
+
+/* ---------- Giochi ---------- */
+.filtri { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0; }
+.gioco { background: var(--card); border: 1px solid var(--linea); border-radius: var(--raggio); padding: 18px; max-width: 640px; }
+.gioco h2 { font-family: var(--font-titoli); text-transform: uppercase; margin: 0 0 4px; font-size: 24px; }
+.gioco .regola { color: var(--tenue); margin: 0 0 14px; }
+.gioco .stato { display: flex; justify-content: space-between; gap: 10px; font-weight: 600; margin-bottom: 10px; flex-wrap: wrap; }
+.barra { height: 10px; background: var(--linea); border-radius: 99px; overflow: hidden; margin-bottom: 14px; }
+.barra > i { display: block; height: 100%; background: var(--accento); transition: width .3s; }
+.barra.basso > i { background: var(--live); }
+.btn { background: var(--accento); color: var(--scuro); border: 0; border-radius: 10px; padding: 11px 18px; font-weight: 700; }
+.btn.sec { background: var(--card); color: var(--testo); border: 1px solid var(--linea); }
+.btn:disabled { opacity: .45; cursor: default; }
+.gioco input[type=range] { width: 100%; accent-color: var(--accento); }
+.grande { font-family: var(--font-titoli); font-size: 40px; line-height: 1.1; }
+.esito { margin: 12px 0; padding: 10px 12px; border-radius: 10px; background: var(--bg); }
+.esito.ok { border-left: 4px solid var(--accento); }
+.esito.no { border-left: 4px solid var(--live); }
+.opzioni { display: grid; gap: 8px; margin-top: 12px; }
+.opzioni button { text-align: left; background: var(--bg); border: 1px solid var(--linea); border-radius: 10px; padding: 11px 14px; font-weight: 500; }
+.opzioni button.giusta { border-color: var(--accento); background: color-mix(in srgb, var(--accento) 25%, var(--card)); }
+.opzioni button.sbagliata { border-color: var(--live); }
+.lavagna { width: 100%; height: auto; border-radius: 10px; background: #1c6b3a; display: block; }
+.azioni { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.rosa { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; margin: 12px 0; }
+.rosa button { text-align: left; background: var(--bg); border: 2px solid var(--linea); border-radius: 10px; padding: 8px 10px; }
+.rosa button[aria-pressed="true"] { border-color: var(--accento); background: color-mix(in srgb, var(--accento) 20%, var(--card)); }
+.rosa b { display: block; } .rosa small { color: var(--tenue); }
+.eventi { padding-left: 20px; } .eventi li { margin: 6px 0; }
+.nota { color: var(--tenue); font-size: 12px; margin-top: 14px; }

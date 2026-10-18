@@ -22,7 +22,7 @@ export const aggiornatoIl = (iso) => (iso ? `Aggiornato alle ${oraRoma(iso)} · 
 export const spostaGiorno = (g, n) => { const d = dataSolo(g); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
 
 // ---------- Pagina: header, footer, tema ----------
-const PAGINE = [["index.html", "Oggi"], ["partite.html", "Partite"], ["classifiche.html", "Classifiche"], ["notizie.html", "Notizie"]];
+const PAGINE = [["index.html", "Oggi"], ["partite.html", "Partite"], ["classifiche.html", "Classifiche"], ["notizie.html", "Notizie"], ["giochi.html", "Giochi"]];
 
 function applicaTema(t) { document.documentElement.dataset.tema = t; }
 
