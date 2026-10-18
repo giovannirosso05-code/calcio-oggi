@@ -1,0 +1,189 @@
+"""Video "Riepilogo della giornata": gancio, schermata con tutti i risultati (la voce non li legge) e poi le partite più interessanti.
+
+I fatti (risultati, marcatori, minuti) vengono da data/partite.json (ESPN); il testo lo scrive Gemini solo su quei dati,
+e ogni cifra e ogni nome che dice viene ricontrollato qui prima di fare il video.
+"""
+import base64
+import io
+import json
+import re
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+import requests
+from PIL import Image
+
+from video.foto import _norm
+from video.scaletta import ErroreScaletta, VIETATE, chiedi
+
+RADICE = Path(__file__).resolve().parent.parent
+ROMA = ZoneInfo("Europe/Rome")
+UA = {"User-Agent": "Mozilla/5.0 (compatible; CalcioOggiBot/1.0; +https://github.com/giovannirosso05-code/calcio-oggi)"}
+ORDINE = ["ita.1", "uefa.champions", "uefa.europa", "uefa.europa.conf", "ita.coppa_italia", "eng.1", "esp.1", "ger.1", "fra.1", "ita.2"]
+EUROPA = {"uefa.champions", "uefa.europa", "uefa.europa.conf"}
+MAX_RIGHE = 26
+MESI = "gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre".split()
+
+
+def _dati():
+    return json.loads((RADICE / "data" / "partite.json").read_text(encoding="utf-8"))
+
+
+def _giorno_roma(p):
+    return datetime.fromisoformat(p["data"].replace("Z", "+00:00")).astimezone(ROMA).date()
+
+
+def partite_del_giorno(giorno=None):
+    """(data, [partite finite]) di oggi (ora di Roma); se oggi non ce ne sono ancora, dell'ultimo giorno con partite finite."""
+    dati = _dati()
+    fatte = [p for p in dati["partite"] if p.get("stato") == "post"]
+    if not fatte:
+        raise ErroreScaletta("Non ci sono partite finite nei dati: il riepilogo non l'ho fatto.")
+    oggi = giorno or datetime.now(ROMA).date()
+    giorni = sorted({_giorno_roma(p) for p in fatte})
+    scelto = oggi if oggi in giorni else max(g for g in giorni if g <= oggi) if any(g <= oggi for g in giorni) else giorni[-1]
+    nomi = {l["id"]: l["nome"] for l in dati["leghe"]}
+    out = [p for p in fatte if _giorno_roma(p) == scelto]
+    for p in out:
+        p["_lega"] = nomi.get(p["lega"], p["lega"])
+    if len(out) < 3:
+        raise ErroreScaletta(f"Il {scelto.day} {MESI[scelto.month - 1]} ci sono solo {len(out)} partite finite: per un riepilogo ne servono almeno 3. Riprova a fine giornata.")
+    return scelto, out
+
+
+def _logo(url, cache={}):
+    """Logo scaricato e rimpicciolito, come data URI (la pagina del video non deve aspettare la rete)."""
+    if url not in cache:
+        try:
+            r = requests.get(url, headers=UA, timeout=20)
+            r.raise_for_status()
+            im = Image.open(io.BytesIO(r.content)).convert("RGBA")
+            im.thumbnail((72, 72), Image.LANCZOS)
+            buf = io.BytesIO(); im.save(buf, "PNG")
+            cache[url] = "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode()
+        except (requests.RequestException, OSError, ValueError):
+            cache[url] = ""
+    return cache[url]
+
+
+def tabella(giorno, partite):
+    """Dati della schermata coi risultati: gruppi per campionato, i meno importanti si tolgono se sono troppe righe."""
+    per_lega = {}
+    for p in partite:
+        per_lega.setdefault(p["lega"], []).append(p)
+    leghe = sorted(per_lega, key=lambda l: ORDINE.index(l) if l in ORDINE else 99)
+    while sum(len(per_lega[l]) for l in leghe) > MAX_RIGHE and len(leghe) > 1:
+        leghe.pop()
+    gruppi = []
+    for l in leghe:
+        righe = [{"c": p["casa"]["breve"], "o": p["ospite"]["breve"], "gc": p["casa"]["gol"], "go": p["ospite"]["gol"],
+                  "lc": _logo(p["casa"].get("logo", "")), "lo": _logo(p["ospite"].get("logo", ""))} for p in per_lega[l]]
+        gruppi.append({"nome": per_lega[l][0]["_lega"], "righe": righe})
+    return {"data": f"{giorno.day} {MESI[giorno.month - 1]}", "gruppi": gruppi}
+
+
+def _interesse(p):
+    gc, go = p["casa"]["gol"], p["ospite"]["gol"]
+    minuti = [int(re.sub(r"\D.*", "", g.get("minuto", "0")) or 0) for g in p.get("gol", [])]
+    pt = gc + go + (6 if p["lega"] == "ita.1" else 0) + (2 if p["lega"] in EUROPA or p["lega"] == "ita.coppa_italia" else 0)
+    pt += 2 if abs(gc - go) >= 3 else 0
+    pt += 2 if any(m >= 85 for m in minuti) else 0
+    pt += 1 if any(g.get("rigore") or g.get("autogol") for g in p.get("gol", [])) else 0
+    pt += 1 if p["lega"] in ("eng.1", "esp.1", "ger.1") else 0
+    return pt
+
+
+def migliori(partite, n=4):
+    ordinate = sorted(partite, key=_interesse, reverse=True)
+    scelte, per_lega = [], {}
+    for p in ordinate:
+        if per_lega.get(p["lega"], 0) < (3 if p["lega"] == "ita.1" else 1):
+            scelte.append(p); per_lega[p["lega"]] = per_lega.get(p["lega"], 0) + 1
+        if len(scelte) == n:
+            break
+    return scelte
+
+
+def _descrivi(p):
+    id_nome = {p["casa"]["id"]: p["casa"]["breve"], p["ospite"]["id"]: p["ospite"]["breve"]}
+    marc = "; ".join(f"{g.get('marcatore', '?')} ({id_nome.get(g.get('squadra'), '?')}) {g.get('minuto', '')}"
+                     + (" rigore" if g.get("rigore") else "") + (" autogol" if g.get("autogol") else "") for g in p.get("gol", []))
+    return f"{p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" + (f" · gol: {marc}" if marc else " · (marcatori non disponibili)")
+
+
+def prompt(giorno, tutte, scelte, errori=None):
+    return (
+        "Sei l'autore dei video di Calcio Oggi, canale italiano di calcio senza volto (solo foto, sottotitoli e voce sintetica). "
+        f"Scrivi il testo del video RIEPILOGO DELLA GIORNATA del {giorno.day} {MESI[giorno.month - 1]} (25-35 secondi). Dopo il tuo gancio il video mostra una schermata con TUTTI "
+        "i risultati mentre una voce fissa dice «Questi sono i risultati della giornata»: tu NON elenchi i risultati e non devi ripeterli tutti. "
+        "Poi racconti le partite più interessanti, UNA scena per partita, nell'ordine in cui te le do.\n\n"
+        "REGOLE OBBLIGATORIE\n"
+        "- Usa SOLO i dati qui sotto: squadre, risultati, marcatori, minuti. Mai inventare motivi, classifiche, giudizi sui giocatori, infortuni, precedenti.\n"
+        "- Ogni risultato che scrivi con le cifre deve essere IDENTICO a uno dei risultati qui sotto (es. «3-1»). Meglio dire «tre a uno» sbagliando mai.\n"
+        "- Se i marcatori non sono disponibili, racconta solo il risultato. Non dire chi ha segnato se non è nei dati.\n"
+        "- Niente opinioni tue, niente quote, pronostici, scommesse, premi, soldi. Nessun insulto.\n"
+        "- Italiano di tutti i giorni, frasi brevi e complete. Gancio: UNA frase di 10-16 parole col fatto più clamoroso (nomi e squadre), mai un'esclamazione vaga.\n"
+        "- Ogni scena 12-18 parole. *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = i nomi di persone e squadre.\n"
+        "- «foto»: il nome di UNA squadra o di UN marcatore che compare nei dati di quella partita (scritto come nei dati).\n"
+        "- «finale.domanda»: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote. «finale.foto»: una squadra dei dati.\n"
+        "- «apertura»: una frase forte di una riga per la didascalia. «hashtag»: 3 o 4 parole senza #.\n\n"
+        "PARTITE DA RACCONTARE (in ordine)\n" + "\n".join(f"{i + 1}. {_descrivi(p)}" for i, p in enumerate(scelte)) + "\n\n"
+        "TUTTI I RISULTATI DEL GIORNO (solo per contesto)\n" + "\n".join(f"- {p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" for p in tutte) + "\n\n"
+        + (("ERRORI DELLA VERSIONE PRECEDENTE, correggili: " + "; ".join(errori) + "\n\n") if errori else "")
+        + "Rispondi SOLO con JSON valido, in questa forma:\n"
+        '{"hook_titolo": "max 38 caratteri", "hook_testo": "...", "hook_foto": "squadra o marcatore", "scene": [{"foto": "...", "testo": "..."}], '
+        '"finale": {"foto": "...", "domanda": "..."}, "apertura": "...", "hashtag": ["...", "..."]}'
+    )
+
+
+def controlla(spec, tutte, scelte):
+    errori = []
+    scene = spec.get("scene") or []
+    if len(scene) != len(scelte):
+        errori.append(f"servono {len(scelte)} scene (una per partita), ce ne sono {len(scene)}")
+    if not spec.get("hook_testo") or not spec.get("hook_titolo") or len(spec["hook_titolo"]) > 42:
+        errori.append("hook_testo e hook_titolo (max 38 caratteri) obbligatori")
+    if not (spec.get("finale") or {}).get("domanda"):
+        errori.append("manca finale.domanda")
+    testi = [spec.get("hook_testo", "")] + [s.get("testo", "") for s in scene]
+    parole = sum(len(re.sub(r"[*\[\]]", "", t).split()) for t in testi)
+    if not 50 <= parole <= 120:
+        errori.append(f"{parole} parole in totale, ne servono tra 60 e 100")
+    tutto = json.dumps(spec, ensure_ascii=False)
+    if VIETATE.search(tutto):
+        errori.append("contiene parole vietate")
+    veri = {f"{p['casa']['gol']}-{p['ospite']['gol']}" for p in tutte} | {f"{p['ospite']['gol']}-{p['casa']['gol']}" for p in tutte}
+    for t in testi:
+        for m in re.findall(r"\d+\s*[-–a]\s*\d+", t):
+            if re.sub(r"\s*[–a]\s*", "-", m.replace(" ", "")) not in veri:
+                errori.append(f"il risultato «{m}» non è tra quelli dei dati")
+    nomi = {_norm(x) for p in tutte for x in (p["casa"]["breve"], p["casa"]["nome"], p["ospite"]["breve"], p["ospite"]["nome"])}
+    cognomi = {w for p in tutte for g in p.get("gol", []) for w in _norm(g.get("marcatore", "")).split() if len(w) > 2}
+    def ammesso(foto):
+        n = _norm(foto)
+        return n in nomi or (n and all(w in cognomi for w in n.split() if len(w) > 2) and any(len(w) > 2 for w in n.split()))
+    for f in [spec.get("hook_foto", "")] + [s.get("foto", "") for s in scene] + [(spec.get("finale") or {}).get("foto", "")]:
+        if not f or not ammesso(f):
+            errori.append(f"la foto «{f}» non è una squadra o un marcatore dei dati")
+    return list(dict.fromkeys(errori))
+
+
+def da_giornata(giorno=None) -> dict:
+    """Spec del video (per notizia_sub.genera), oppure ErroreScaletta."""
+    giorno, tutte = partite_del_giorno(giorno)
+    scelte = migliori(tutte)
+    errori, spec = None, None
+    for _ in range(3):
+        spec = chiedi(prompt(giorno, tutte, scelte, errori))
+        errori = controlla(spec, tutte, scelte)
+        if not errori:
+            break
+    if errori:
+        raise ErroreScaletta("Non sono riuscito a scrivere un riepilogo che rispetti le regole (" + "; ".join(errori[:3]) + "): il video non l'ho fatto.")
+    scene = [{"foto": spec["hook_foto"], "hook": True, "hook_titolo": spec["hook_titolo"], "testo": spec["hook_testo"]},
+             {"foto": "", "tabella": True, "testo": "Questi sono i risultati della giornata.", "durata_min": 6.0, "velocita": "+20%"}]
+    scene += [{"foto": s["foto"], "testo": s["testo"]} for s in spec["scene"]]
+    return {"serie": "Riepilogo", "titolo_breve": "Riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
+            "scene": scene, "finale": spec["finale"], "apertura": spec.get("apertura", "Il riepilogo della giornata"), "hashtag": spec.get("hashtag", []),
+            "tabella": tabella(giorno, tutte), "url": ""}

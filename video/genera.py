@@ -1,7 +1,7 @@
 """Genera il video (o la copertina) di una notizia e lo manda su Telegram.
 
 Lanciato dai workflow con le variabili:
-  INPUT_COSA   notizia-scelta (scrive la scaletta dall'articolo e fa il video) | copertina (solo copertina) | spec (scaletta già scritta)
+  INPUT_COSA   notizia-scelta (scrive la scaletta dall'articolo e fa il video) | copertina (solo copertina) | riepilogo (video dei risultati di oggi) | spec (scaletta già scritta)
   INPUT_URL    notizia-scelta/copertina: url|titolo|fonte|serie      spec: percorso del file .json in video/spec/
   TELEGRAM_TOKEN, CHAT_ID, AZURE_SPEECH_KEY, AZURE_SPEECH_REGION, GEMINI_API_KEY
 Quando il video non si può fare (articolo corto, testo che non passa i controlli, nessuna foto pertinente) arriva un avviso su Telegram.
@@ -21,6 +21,7 @@ from video.copertina_ai import genera_sfondo
 from video.grafica import crea_copertina
 from video.immagini import Banca
 from video.notizia_sub import NessunaFoto, genera
+from video.riepilogo import da_giornata
 from video.scaletta import ErroreScaletta, da_notizia
 
 RADICE = Path(__file__).resolve().parent.parent
@@ -122,6 +123,9 @@ def main():
         if cosa == "spec":
             spec = json.loads(Path(dati).read_text(encoding="utf-8"))
             nome = Path(dati).stem
+        elif cosa == "riepilogo":
+            spec = da_giornata()
+            nome = "riepilogo"
         else:
             url, titolo, fonte, serie = (dati.split("|") + ["", "", "", ""])[:4]
             titolo, fonte, serie = titolo or "Ultime notizie di Calcio", fonte or "Calcio Oggi", serie or "Serie A"

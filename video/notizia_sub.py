@@ -163,6 +163,40 @@ def pagina(spec, scena, foto_b64, credito, avanzamento, sub=None, nome=False, ho
     return base + corpo
 
 
+def pagina_tabella(spec, avanzamento, sub=None):
+    """Schermata con tutti i risultati della giornata (spec["tabella"]); i sottotitoli stanno sotto, nella parte libera."""
+    t = spec["tabella"]
+    n_righe = sum(len(g["righe"]) for g in t["gruppi"])
+    riga_h = max(34, min(56, int((1330 - len(t["gruppi"]) * 62) / max(n_righe, 1))))
+    f = int(riga_h * 0.62)
+    corpo = ""
+    for g in t["gruppi"]:
+        corpo += f'<div class=lega>{esc(g["nome"])}</div>'
+        for r in g["righe"]:
+            lc = f'<img src="{r["lc"]}">' if r["lc"] else "<i></i>"
+            lo = f'<img src="{r["lo"]}">' if r["lo"] else "<i></i>"
+            corpo += (f'<div class=r><span class=c>{esc(r["c"])}</span>{lc}<b>{r["gc"]} - {r["go"]}</b>{lo}<span class=o>{esc(r["o"])}</span></div>')
+    sub_html = ('<div class=sub>' + " ".join(f'<span class="{fl}">{esc(w)}</span>' for w, fl in sub) + '</div>') if sub else ""
+    return f"""<!doctype html><meta charset=utf-8><style>{CSS_FONT}
+*{{box-sizing:border-box}} html,body{{margin:0;width:{W}px;height:{H}px;background:#0b0b0e;color:#fff;font-family:Inter,sans-serif;overflow:hidden;position:relative}}
+.prog{{position:absolute;left:0;top:0;height:10px;width:{avanzamento * 100:.1f}%;background:{COL}}}
+.logo{{position:absolute;left:50px;top:110px;width:300px}}
+.tag{{position:absolute;left:372px;top:120px;font:700 30px Oswald;letter-spacing:.06em;text-transform:uppercase;background:{COL};color:{TXT};padding:4px 16px;border-radius:6px}}
+.tit{{position:absolute;left:40px;top:190px;background:{COL};color:{TXT};font:700 50px/1.1 Oswald;text-transform:uppercase;padding:8px 18px}}
+.tit small{{font-size:34px;margin-left:14px;opacity:.75}}
+.tab{{position:absolute;left:40px;right:40px;top:290px}}
+.lega{{font:700 {int(riga_h * 0.6)}px/{int(riga_h * 1.1)}px Oswald;text-transform:uppercase;color:{COL};letter-spacing:.06em;margin-top:{int(riga_h * 0.25)}px;border-bottom:2px solid rgba(255,255,255,.18)}}
+.r{{display:flex;align-items:center;height:{riga_h}px;font:700 {f}px Oswald;text-transform:uppercase;border-bottom:1px solid rgba(255,255,255,.08)}}
+.r .c{{flex:1;text-align:right;padding-right:14px;white-space:nowrap;overflow:hidden}} .r .o{{flex:1;text-align:left;padding-left:14px;white-space:nowrap;overflow:hidden}}
+.r img,.r i{{width:{int(riga_h * 0.74)}px;height:{int(riga_h * 0.74)}px;object-fit:contain}}
+.r b{{width:{int(riga_h * 2.1)}px;text-align:center;font-size:{int(f * 1.15)}px;color:{GIALLO}}}
+.sub{{position:absolute;left:90px;width:900px;top:1690px;text-align:center;font:700 58px/1.15 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill}}
+.sub .g{{color:{GIALLO}}} .sub .s{{color:{NOM}}}
+.cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.7)}}
+</style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
+<div class=tit>Risultati della giornata<small>{esc(t["data"])}</small></div><div class=tab>{corpo}</div>{sub_html}<div class=cred>Dati: {esc(spec["fonte"])}</div>"""
+
+
 def risolvi_foto(spec, banca):
     """Per ogni scena (e per il finale) una immagine pertinente, DIVERSA dalle altre finché ce ne sono.
     Una scena senza immagine propria usa un'altra immagine della storia; se non c'è nessuna immagine il video non si fa.
@@ -258,7 +292,9 @@ async def genera(spec, uscita, banca):
                 for gi, (ids, t0) in enumerate(gruppi):
                     ini = s["ini"] + (0 if gi == 0 else t0)
                     fine = s["ini"] + gruppi[gi + 1][1] if gi + 1 < len(gruppi) else fine_scena
-                    q = await scatta(pagina(spec, s["s"], fb, cred, ini / totale, sub=[s["tok"][j] for j in ids], nome=(ini - s["ini"]) < 3.0))
+                    sub_ = [s["tok"][j] for j in ids]
+                    q = await scatta(pagina_tabella(spec, ini / totale, sub=sub_) if s["s"].get("tabella")
+                                     else pagina(spec, s["s"], fb, cred, ini / totale, sub=sub_, nome=(ini - s["ini"]) < 3.0))
                     quadri.append((q, ini, fine))
             await b.close()
         lista = [f"file '{f}'\nduration {fine - ini:.3f}" for f, ini, fine in quadri] + [f"file '{quadri[-1][0]}'"]
