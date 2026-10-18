@@ -108,6 +108,62 @@ def sorprese(partite, n=2):
     return [x[1:] for x in out[:n]]
 
 
+GRANDI = {"inter", "milan", "juventus", "napoli", "roma", "atalanta"}
+
+
+def _righe_classifica():
+    try:
+        return next(c for c in json.loads((RADICE / "data" / "classifiche.json").read_text(encoding="utf-8"))["classifiche"] if c["lega"] == "ita.1")["gruppi"][0]["righe"]
+    except (OSError, ValueError, StopIteration, KeyError, IndexError):
+        return []
+
+
+def classifica(mancano):
+    """Dati per la schermata della classifica; * sulle squadre che devono ancora giocare questa giornata."""
+    ancora = {t["id"] for p in (mancano[1] if mancano else []) for t in (p["casa"], p["ospite"])}
+    righe = []
+    for r in _righe_classifica():
+        z = (r.get("zona") or {}).get("testo", "").lower()
+        zona = "champions" if "champions" in z else "europa" if ("europa" in z or "conference" in z) else "retro" if "retroc" in z else ""
+        righe.append({"pos": r["pos"], "nome": r["squadra"]["breve"], "logo": _logo(r["squadra"].get("logo", "")), "g": r["g"], "pt": r["pt"], "zona": zona, "asterisco": r["squadra"]["id"] in ancora})
+    nota = "* ha ancora una partita da giocare in questa giornata" if any(x["asterisco"] for x in righe) else ""
+    return {"righe": righe, "nota": nota}
+
+
+def _forma(tutte_partite, squadra_id, n=2):
+    """Ultimi n risultati (V/N/P, dal più vecchio) di una squadra di Serie A nei dati."""
+    mie = sorted((p for p in tutte_partite if p["lega"] == "ita.1" and p.get("stato") == "post" and squadra_id in (p["casa"]["id"], p["ospite"]["id"])), key=lambda p: p["data"])[-n:]
+    out = []
+    for p in mie:
+        c = p["casa"]["id"] == squadra_id
+        a, b = (p["casa"]["gol"], p["ospite"]["gol"]) if c else (p["ospite"]["gol"], p["casa"]["gol"])
+        out.append("V" if a > b else "N" if a == b else "P")
+    return out
+
+
+def fatti_classifica(tutte):
+    """Righe di fatti per la considerazione finale: tutte verificabili dai dati (classifica, ultimi risultati)."""
+    righe = _righe_classifica()
+    if not righe:
+        return []
+    storico = _dati()["partite"]
+    vinte_oggi = {(p["casa"] if p["casa"]["gol"] > p["ospite"]["gol"] else p["ospite"])["id"] for p in tutte if p["casa"]["gol"] != p["ospite"]["gol"]}
+    out = ["CLASSIFICA ATTUALE (posizione, squadra, punti, partite giocate, ultimi 2 risultati V/N/P dal più vecchio):"]
+    for r in righe:
+        t = r["squadra"]
+        f = _forma(storico, t["id"])
+        out.append(f"{r['pos']}. {t['breve']} {r['pt']} pt, {r['g']} G, ultimi risultati: {' '.join(f) or '-'}" + (" · prima vittoria della stagione (oggi)" if t["id"] in vinte_oggi and r["v"] == 1 else ""))
+    sopra = [r["squadra"]["breve"] for r in righe[:5] if not (_parole_squadra(r["squadra"]["breve"]) & GRANDI)]
+    out.append("SQUADRE SOPRA LE ATTESE (in zona alta senza essere tra le grandi: puoi dire che sorprendono): " + (", ".join(sopra) or "nessuna"))
+    seg = [r["squadra"]["breve"] for r in righe if _forma(storico, r["squadra"]["id"]) == ["P", "P"]]
+    out.append("HANNO PERSO LE ULTIME 2 PARTITE (puoi dire «continua a perdere»): " + (", ".join(seg) or "nessuna"))
+    return out
+
+
+def _parole_squadra(nome):
+    return {w for w in _norm(nome).split() if len(w) > 3}
+
+
 def _interesse(p):
     gc, go = p["casa"]["gol"], p["ospite"]["gol"]
     minuti = [int(re.sub(r"\D.*", "", g.get("minuto", "0")) or 0) for g in p.get("gol", [])]
@@ -137,17 +193,18 @@ def _descrivi(p):
     return f"{p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" + (f" · gol: {marc}" if marc else " · (marcatori non disponibili)")
 
 
-def prompt(giorno, tutte, scelte, mancano, sorp, errori=None):
+def prompt(giorno, tutte, scelte, mancano, sorp, fatti, errori=None):
     return (
         "Sei l'autore dei video di Calcio Oggi, canale italiano di calcio senza volto (solo foto, sottotitoli e voce sintetica). "
         "Scrivi il testo del video RIEPILOGO DELLA GIORNATA DI SERIE A (25-35 secondi): le partite da venerdì a oggi. Dopo il tuo gancio il video mostra una schermata con TUTTI "
         "i risultati: una voce fissa dice «Questi sono i risultati della giornata di Serie A» e subito dopo parli TU (campo tabella_testo) mentre la schermata resta visibile, così non c'è silenzio. Non elenchi tutti i risultati. "
-        "Il video si chiude con una scena fissa che avvisa delle partite ancora da giocare: tu non ne parli. "
+        "Dopo le partite il video mostra la CLASSIFICA e tu fai una considerazione (campo classifica_testo). Poi una scena fissa avvisa delle partite ancora da giocare: tu non ne parli. "
         "Poi racconti le partite più interessanti, UNA scena per partita, nell'ordine in cui te le do.\n\n"
         "REGOLE OBBLIGATORIE\n"
         "- Usa SOLO i dati qui sotto: squadre, risultati, marcatori, minuti. Mai inventare motivi, classifiche, giudizi sui giocatori, infortuni, precedenti.\n"
         "- Ogni risultato che scrivi con le cifre deve essere IDENTICO a uno dei risultati qui sotto (es. «3-1»). Meglio dire «tre a uno» sbagliando mai.\n"
         "- Se i marcatori non sono disponibili, racconta solo il risultato. Non dire chi ha segnato se non è nei dati.\n"
+        "- classifica_testo: considerazione sulla CLASSIFICA, solo con i fatti sotto: chi è prima, chi sorprende (solo le squadre indicate), chi continua a perdere (solo quelle indicate), la prima vittoria stagionale se segnalata. Esempio di tono: «L'Inter resta prima, la Lazio continua a sorprendere, il Venezia ottiene i primi tre punti e l'Udinese continua a perdere.» Non inventare altro.\n"
         "- Dici ogni risultato UNA sola volta e in un solo modo: NON «vince 3-0 con tre gol di scarto», NON ripetizioni.\n"
         "- Niente opinioni tue, niente quote, pronostici, scommesse, premi, soldi. Nessun insulto.\n"
         "- Parole SEMPLICI e dirette, come le direbbe una persona al bar: vince, batte, perde, pareggia, segna. VIETATI modi di dire, gergo e metafore («a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show»). L'enfasi («partita incredibile») è permessa SOLO nel gancio, mai nelle scene.\n"
@@ -158,11 +215,12 @@ def prompt(giorno, tutte, scelte, mancano, sorp, errori=None):
         "- «apertura»: una frase forte di una riga per la didascalia. «hashtag»: 3 o 4 parole senza #.\n\n"
         "RISULTATI A SORPRESA (puoi usare la parola «sorprende» SOLO per questi: una squadra molto più in basso in classifica ha battuto una molto più in alto)\n"
         + ("\n".join(f"- {v} (oggi {pv}ª in classifica) batte {l} ({pl}ª)" for v, pv, l, pl, _ in sorp) if sorp else "- nessuno: non usare la parola «sorprende»") + "\n\n"
+        + "\n".join(fatti) + "\n\n"
         "PARTITE DA RACCONTARE (in ordine)\n" + "\n".join(f"{i + 1}. {_descrivi(p)}" for i, p in enumerate(scelte)) + "\n\n"
         "TUTTI I RISULTATI DELLA GIORNATA (solo per contesto)\n" + "\n".join(f"- {p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" for p in tutte) + "\n\n"
         + (("ERRORI DELLA VERSIONE PRECEDENTE, correggili: " + "; ".join(errori) + "\n\n") if errori else "")
         + "Rispondi SOLO con JSON valido, in questa forma:\n"
-        '{"hook_titolo": "max 38 caratteri", "hook_testo": "...", "hook_foto": "squadra o marcatore", "tabella_testo": "1 o 2 frasi, 14-24 parole, su 1 o 2 risultati a sorpresa o fuori dalle partite raccontate", "scene": [{"foto": "...", "testo": "..."}], '
+        '{"hook_titolo": "max 38 caratteri", "hook_testo": "...", "hook_foto": "squadra o marcatore", "tabella_testo": "1 o 2 frasi, 14-24 parole, su 1 o 2 risultati a sorpresa o fuori dalle partite raccontate", "classifica_testo": "2 frasi, 18-30 parole: considerazione sulla classifica", "scene": [{"foto": "...", "testo": "..."}], '
         '"finale": {"foto": "...", "domanda": "..."}, "apertura": "...", "hashtag": ["...", "..."]}'
     )
 
@@ -179,9 +237,12 @@ def controlla(spec, tutte, scelte):
     tt = len(re.sub(r"[*\[\]]", "", spec.get("tabella_testo", "")).split())
     if not 10 <= tt <= 32:
         errori.append(f"tabella_testo: {tt} parole, ne servono 14-24")
-    testi = [spec.get("hook_testo", ""), spec.get("tabella_testo", "")] + [s.get("testo", "") for s in scene]
+    ct = len(re.sub(r"[*\[\]]", "", spec.get("classifica_testo", "")).split())
+    if not 14 <= ct <= 40:
+        errori.append(f"classifica_testo: {ct} parole, ne servono 18-30")
+    testi = [spec.get("hook_testo", ""), spec.get("tabella_testo", ""), spec.get("classifica_testo", "")] + [s.get("testo", "") for s in scene]
     parole = sum(len(re.sub(r"[*\[\]]", "", t).split()) for t in testi)
-    if not 60 <= parole <= 140:
+    if not 70 <= parole <= 170:
         errori.append(f"{parole} parole in totale, ne servono tra 60 e 100")
     tutto = json.dumps(spec, ensure_ascii=False)
     if VIETATE.search(tutto):
@@ -247,6 +308,7 @@ def _scena(nome, tutte, **resto):
     p, tipo = partita_di(nome, tutte)
     sc = {"foto": nome, "tipo": tipo, "stemma": stemma_per(nome, tutte), **resto}
     if p:
+        sc["cerca"] = {"squadre": [p["casa"]["breve"], p["ospite"]["breve"]], "marcatore": nome if tipo == "persona" else ""}
         sc["scheda"] = {"c": p["casa"].get("logo", ""), "o": p["ospite"].get("logo", ""), "gc": p["casa"]["gol"], "go": p["ospite"]["gol"]}
     return sc
 
@@ -256,9 +318,10 @@ def da_giornata(oggi=None) -> dict:
     giorno, tutte, mancano = partite_del_giorno(oggi)
     scelte = migliori(tutte)
     sorp = sorprese(tutte)
+    fatti = fatti_classifica(tutte)
     errori, spec = None, None
     for _ in range(3):
-        spec = chiedi(prompt(giorno, tutte, scelte, mancano, sorp, errori))
+        spec = chiedi(prompt(giorno, tutte, scelte, mancano, sorp, fatti, errori))
         errori = controlla(spec, tutte, scelte)
         if not errori:
             break
@@ -267,10 +330,11 @@ def da_giornata(oggi=None) -> dict:
     scene = [_scena(spec["hook_foto"], tutte, hook=True, hook_titolo=spec["hook_titolo"], testo=spec["hook_testo"]),
              {"foto": "", "tabella": True, "testo": "Questi sono i risultati della giornata di Serie A. " + spec["tabella_testo"], "durata_min": 6.0}]
     scene += [_scena(s["foto"], tutte, testo=s["testo"]) for s in spec["scene"]]
+    scene.append({"foto": "", "classifica": True, "testo": spec["classifica_testo"], "durata_min": 7.0})
     if mancano:
         etichetta, gare = mancano
         coppie = " e ".join(f"[{p['casa']['breve']}] contro [{p['ospite']['breve']}]" for p in gare[:2])
         scene.append({"foto": gare[0]["casa"]["breve"], "tipo": "squadra", "stemma": gare[0]["casa"].get("logo", ""), "scheda": {"c": gare[0]["casa"].get("logo", ""), "o": gare[0]["ospite"].get("logo", "")}, "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}." if len(gare) <= 2 else f"Mancano ancora le partite *{etichetta}*."})
     return {"serie": "Serie A", "titolo_breve": "Serie A: riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
             "scene": scene, "finale": _scena(spec["finale"]["foto"], tutte, domanda=spec["finale"]["domanda"]), "apertura": spec.get("apertura", "Il riepilogo della giornata"), "hashtag": spec.get("hashtag", []),
-            "tabella": tabella(giorno, tutte), "url": "", "solo_espn": True}
+            "tabella": tabella(giorno, tutte), "classifica": classifica(mancano), "url": "", "solo_espn": True}

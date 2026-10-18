@@ -143,6 +143,41 @@ class Banca:
                     break   # una foto per articolo (la principale): più articoli = più foto diverse
         return out
 
+    @staticmethod
+    def _chiavi(squadra):
+        """Parole che identificano una squadra in un titolo (Juventus anche come «Juve», Inter Milan solo «Inter»)."""
+        parole = {w for w in _parole(squadra) if len(w) >= 4 and w not in {"calcio", "club", "football"}}
+        if "inter" in parole:
+            parole.discard("milan")
+        if "juventus" in parole:
+            parole.add("juve")
+        return parole
+
+    def candidati_partita(self, squadre, marcatore=""):
+        """Foto di articoli il cui TITOLO parla di quella partita: ha entrambe le squadre, oppure il cognome del marcatore e almeno una delle due squadre.
+        Così non si prende la foto di un articolo che nomina solo il Milan ma parla d'altro."""
+        chiave = ("partita", tuple(squadre), marcatore)
+        if chiave in self._cache:
+            return self._cache[chiave]
+        k = [self._chiavi(s) for s in squadre]
+        cognome = ([w for w in _parole(marcatore) if len(w) >= 4] or [""])[-1] if marcatore else ""
+        buoni = []
+        for a in self.articoli:
+            t = set(_parole(a.get("titolo", "")))
+            ha = [bool(x & t) for x in k]
+            if (all(ha) and len(ha) >= 2) or (cognome and cognome in t and any(ha)):
+                buoni.append(a)
+        buoni.sort(key=lambda a: a.get("pubblicato", ""), reverse=True)
+        out = []
+        for a in buoni[:4]:
+            for u in immagini_pagina(a["url"], 3):
+                img = scarica(u, a["url"])
+                if img is not None:
+                    out.append({"id": _id(u), "img": img, "credito": f"Foto: {a.get('fonte', 'testata')}", "origine": f"articolo {a.get('fonte', '')} sulla partita: {a.get('titolo', '')[:60]}"})
+                    break
+        self._cache[chiave] = out
+        return out
+
     def _espn_news(self):
         if self._espn is None:
             self._espn = []

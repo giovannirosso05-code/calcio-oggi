@@ -286,6 +286,43 @@ def scheda(url_casa, url_ospite, gc=None, go=None):
     return bg.resize((W, H), Image.LANCZOS).convert("RGB")
 
 
+def pagina_classifica(spec, avanzamento, sub=None):
+    """Classifica con partite giocate e punti; * = squadra che ha ancora una partita da giocare in questa giornata."""
+    c = spec["classifica"]
+    riga_h = min(62, int(1320 / max(len(c["righe"]), 1)))
+    f = min(int(riga_h * 0.56), 36)
+    logo = int(riga_h * 0.8)
+    righe = ""
+    for r in c["righe"]:
+        zona = {"champions": "#2bd96b", "europa": "#4da3ff", "retro": "#ff5a5f"}.get(r.get("zona", ""), "transparent")
+        lg = f'<img src="{r["logo"]}">' if r["logo"] else "<i></i>"
+        righe += (f'<div class=r><em style="background:{zona}"></em><span class=p>{r["pos"]}</span>{lg}<span class=n>{esc(r["nome"])}{"<sup>*</sup>" if r["asterisco"] else ""}</span>'
+                  f'<span class=g>{r["g"]}</span><b>{r["pt"]}</b></div>')
+    sub_html = ('<div class=sub>' + " ".join(f'<span class="{fl}">{esc(w)}</span>' for w, fl in sub) + '</div>') if sub else ""
+    return f"""<!doctype html><meta charset=utf-8><style>{CSS_FONT}
+*{{box-sizing:border-box}} html,body{{margin:0;width:{W}px;height:{H}px;background:#0b0b0e;color:#fff;font-family:Inter,sans-serif;overflow:hidden;position:relative}}
+.prog{{position:absolute;left:0;top:0;height:10px;width:{avanzamento * 100:.1f}%;background:{COL}}}
+.logo{{position:absolute;left:50px;top:110px;width:300px}}
+.tag{{position:absolute;left:372px;top:120px;font:700 30px Oswald;letter-spacing:.06em;text-transform:uppercase;background:{COL};color:{TXT};padding:4px 16px;border-radius:6px}}
+.tit{{position:absolute;left:40px;top:190px;background:{COL};color:{TXT};font:700 50px/1.1 Oswald;text-transform:uppercase;padding:8px 18px}}
+.tab{{position:absolute;left:40px;right:40px;top:285px}}
+.h{{display:flex;align-items:center;height:44px;font:700 26px Oswald;color:rgba(255,255,255,.55);text-transform:uppercase;letter-spacing:.08em;border-bottom:2px solid rgba(255,255,255,.18)}}
+.h .n{{flex:1;padding-left:{logo + 78}px}} .h .g,.h b{{width:120px;text-align:center;font-weight:700}}
+.r{{display:flex;align-items:center;height:{riga_h}px;font:700 {f}px Oswald;text-transform:uppercase;border-bottom:1px solid rgba(255,255,255,.08);position:relative}}
+.r em{{width:8px;height:{int(riga_h * 0.7)}px;border-radius:3px;margin-right:14px}} .r .p{{width:50px;color:rgba(255,255,255,.6)}}
+.r img,.r i{{flex:none;width:{logo}px;height:{logo}px;object-fit:contain;background:#f1f4f2;border-radius:50%;padding:{max(2, int(logo * 0.1))}px;margin-right:18px}}
+.r .n{{flex:1;white-space:nowrap;overflow:hidden}} .r sup{{color:{GIALLO};font-size:{int(f * 1.1)}px;margin-left:4px}}
+.r .g{{width:120px;text-align:center;color:rgba(255,255,255,.8)}} .r b{{width:120px;text-align:center;color:{GIALLO};font-size:{int(f * 1.15)}px}}
+.nota{{position:absolute;left:40px;top:{285 + 44 + len(c["righe"]) * riga_h + 18}px;font:500 24px Inter;color:rgba(255,255,255,.65)}}
+.sub{{position:absolute;left:90px;width:900px;top:1690px;text-align:center;font:700 58px/1.15 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill}}
+.sub .g{{color:{GIALLO}}} .sub .s{{color:{NOM}}}
+.cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.7)}}
+</style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
+<div class=tit>Classifica<small style="font-size:34px;margin-left:14px;opacity:.75">Serie A</small></div>
+<div class=tab><div class=h><span class=n>Squadra</span><span class=g>G</span><b>Pt</b></div>{righe}</div>
+<div class=nota>{esc(c.get("nota", ""))}</div>{sub_html}<div class=cred>Dati: {esc(spec["fonte"])}</div>"""
+
+
 def risolvi_foto(spec, banca):
     """Per ogni scena (e per il finale) una immagine pertinente, DIVERSA dalle altre finché ce ne sono.
     Una scena senza immagine propria usa un'altra immagine della storia; se non c'è nessuna immagine il video non si fa.
@@ -294,10 +331,12 @@ def risolvi_foto(spec, banca):
     usate, scelte = set(), []
     for s in scene:
         nome = s.get("foto", "")
-        if s.get("tabella"):   # la schermata coi risultati non ha un'immagine sua
+        if s.get("tabella") or s.get("classifica"):   # le schermate coi risultati e con la classifica non hanno un'immagine loro
             scelte.append([None, False])
             continue
-        cands = [] if s.get("tipo") == "squadra" else (banca.candidati(nome, len(nome.split()) == 1) if nome else [])
+        cands = banca.candidati_partita(**s["cerca"]) if s.get("cerca") else []   # prima foto di articoli sulla partita
+        if not cands and s.get("tipo") != "squadra" and nome:
+            cands = banca.candidati(nome, len(nome.split()) == 1)
         c = next((x for x in cands if x["id"] not in usate), None) or (cands[0] if cands else None)
         if c is None and s.get("scheda"):   # nessuna foto libera (o scena su una squadra): i due stemmi col risultato
             sc_ = s["scheda"]
@@ -313,7 +352,7 @@ def risolvi_foto(spec, banca):
         scelte.append([c, bool(c)])
     storia = banca.tutte()
     for sc, s in zip(scelte, scene):
-        if sc[0] is None and storia and not s.get("tabella"):
+        if sc[0] is None and storia and not s.get("tabella") and not s.get("classifica") and not (s.get("scheda") or s.get("stemma")):
             sc[0] = next((x for x in storia if x["id"] not in usate), None) or storia[0]
             usate.add(sc[0]["id"])
     if not any(c for c, _ in scelte):
@@ -321,7 +360,7 @@ def risolvi_foto(spec, banca):
     foglio = []
     for i, (s, (c, propria)) in enumerate(zip(scene, scelte), 1):
         if c is None:
-            foglio.append(f"{i}. schermata coi risultati (nessuna foto)" if s.get("tabella") else f"{i}. {s.get('foto', '?')} → nessuna immagine")
+            foglio.append(f"{i}. schermata {'coi risultati' if s.get('tabella') else 'con la classifica'} (nessuna foto)" if (s.get("tabella") or s.get("classifica")) else f"{i}. {s.get('foto', '?')} → nessuna immagine")
             continue
         foglio.append(f"{i}. {s.get('foto', '?')} → {c['origine']} · {c['credito']}" + ("" if propria else "  [immagine di un'altra scena: non c'è una foto di questo nome]"))
     return scelte, foglio
@@ -398,6 +437,7 @@ async def genera(spec, uscita, banca):
                     fine = s["ini"] + gruppi[gi + 1][1] if gi + 1 < len(gruppi) else fine_scena
                     sub_ = [s["tok"][j] for j in ids]
                     q = await scatta(pagina_tabella(spec, ini / totale, sub=sub_) if s["s"].get("tabella")
+                                     else pagina_classifica(spec, ini / totale, sub=sub_) if s["s"].get("classifica")
                                      else pagina(spec, s["s"], fb, cred, ini / totale, sub=sub_, nome=(ini - s["ini"]) < 3.0))
                     quadri.append((q, ini, fine))
             await b.close()
