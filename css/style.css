@@ -190,3 +190,6 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .rosa b { display: block; } .rosa small { color: var(--tenue); }
 .eventi { padding-left: 20px; } .eventi li { margin: 6px 0; }
 .nota { color: var(--tenue); font-size: 12px; margin-top: 14px; }
+
+.video { position: relative; aspect-ratio: 16/9; margin: 12px 0; border-radius: 10px; overflow: hidden; background: #000; }
+.video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }

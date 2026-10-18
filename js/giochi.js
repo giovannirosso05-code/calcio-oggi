@@ -13,6 +13,29 @@ const condividi = async (testo, btn) => {
   catch (e) { prompt("Copia il risultato:", testo); }
 };
 
+// ---------- soluzione dietro a un video ----------
+// Per le pubblicità a premio: la rete scelta definisce window.mostraAnnuncioRicompensa = () => Promise<boolean> (true = guardato fino in fondo).
+// Finché non c'è, il tasto sblocca subito la soluzione e, dove c'è, mostra il video del gol (YouTube, incorporato dal canale ufficiale).
+const VIDEO_GOL = { grosso: "", delpiero: "", zidane: "", maradona: "" };   // id YouTube (es. "dQw4w9WgXcQ"): da compilare con i link verificati
+const cercaYT = (q) => `https://www.youtube.com/results?search_query=${encodeURIComponent(q)}`;
+function soluzioneConVideo(box, { testo, ricerca, id }) {
+  const b = document.createElement("div");
+  b.className = "azioni";
+  b.innerHTML = `<button class="btn" type="button">🎬 Guarda il video per vedere la soluzione</button>`;
+  box.appendChild(b);
+  b.firstChild.onclick = async () => {
+    b.firstChild.disabled = true;
+    if (typeof window.mostraAnnuncioRicompensa === "function") {
+      let ok = false;
+      try { ok = await window.mostraAnnuncioRicompensa(); } catch (e) { ok = false; }
+      if (!ok) { b.firstChild.disabled = false; b.firstChild.textContent = "Video non completato: riprova"; return; }
+    }
+    b.outerHTML = `<div class="esito ok">${testo}</div>` + (id
+      ? `<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/${esc(id)}" title="Video del gol" loading="lazy" allowfullscreen></iframe></div>`
+      : ricerca ? `<p><a class="btn sec" target="_blank" rel="noopener" href="${cercaYT(ricerca)}">▶ Cerca il video su YouTube</a></p>` : "");
+  };
+}
+
 // ================= 1. ASTA AL BUIO =================
 // Cifre riportate dalla stampa, arrotondate al milione (alcune erano pagate in più rate o con bonus).
 const TRASFERIMENTI = [
@@ -122,7 +145,12 @@ function fantasma(box) {
       const ok = b.dataset.id === a.id; if (ok) punti++;
       box.querySelectorAll(".opzioni button").forEach((x) => { x.disabled = true; if (x.dataset.id === a.id) x.classList.add("giusta"); });
       if (!ok) b.classList.add("sbagliata");
-      box.insertAdjacentHTML("beforeend", `<div class="esito ${ok ? "ok" : "no"}">${ok ? "Giusto!" : "No."} Era: <b>${esc(a.risposta)}</b>.</div><div class="azioni"><button class="btn" id="avanti">${i + 1 < giri.length ? "Avanti" : "Risultato"}</button></div>`);
+      const avanti = `<div class="azioni"><button class="btn" id="avanti">${i + 1 < giri.length ? "Avanti" : "Risultato"}</button></div>`;
+      const sol = { testo: `Era: <b>${esc(a.risposta)}</b>.`, ricerca: "gol " + a.risposta.split(" · ")[0] + " " + a.risposta.split(" · ")[1].replace(/\(.*\)/, ""), id: VIDEO_GOL[a.id] };
+      if (ok) { box.insertAdjacentHTML("beforeend", `<div class="esito ok">Giusto! Era: <b>${esc(a.risposta)}</b>.</div>`); }
+      else { box.insertAdjacentHTML("beforeend", `<div class="esito no">No.</div>`); soluzioneConVideo(box, sol); }
+      box.insertAdjacentHTML("beforeend", avanti);
+      $("avanti").onclick = () => { i++; turno(); };
       $("avanti").onclick = () => { i++; turno(); };
     }));
   };
@@ -206,7 +234,7 @@ function macchina(box) {
       const v = g === t.a ? "✅ esatto" : g < t.a ? "⬆ più recente" : "⬇ più vecchio";
       prove.push({ g, v });
       if (g === t.a) disegna(`<div class="esito ok">Esatto: <b>${t.a}</b>!</div>`, true);
-      else if (prove.length >= MAX) disegna(`<div class="esito no">Era il <b>${t.a}</b>.</div>`, true);
+      else if (prove.length >= MAX) { disegna(`<div class="esito no">Tentativi finiti.</div>`, true); soluzioneConVideo(box, { testo: `Era il <b>${t.a}</b>.` }); }
       else disegna();
     };
   };
