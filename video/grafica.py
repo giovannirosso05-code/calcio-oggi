@@ -22,9 +22,13 @@ SCURO = (20, 23, 28)
 
 UA = {"User-Agent": "CalcioOggi/1.0 (https://github.com/giovannirosso05-code/calcio-oggi)"}
 LICENZE_LIBERE = ("cc by", "cc0", "public domain", "pd")
+PAROLE_CALCIO = ("football", "footballer", "soccer", "calcio", "calciator")
 SQUADRE = ("inter", "milan", "juventus", "napoli", "roma", "lazio", "atalanta", "fiorentina", "bologna", "torino",
            "genoa", "udinese", "lecce", "cagliari", "como", "parma", "sassuolo", "verona", "monza", "empoli",
            "real madrid", "barcellona", "psg", "manchester city", "liverpool", "arsenal", "bayern", "chelsea")
+
+
+ULTIMO_FILE = ""   # solo per controllo a mano: quale file è stato scelto
 
 
 def font(dimensione: int):
@@ -50,6 +54,8 @@ def _pulisci(html: str) -> str:
 
 def cerca_foto(titolo: str):
     """Restituisce (immagine PIL, credito) oppure (None, ''). Qualsiasi errore: nessuna foto, mai una foto a caso."""
+    global ULTIMO_FILE
+    ULTIMO_FILE = ""
     for nome in _candidati(titolo):
         try:
             r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=20, params={
@@ -74,11 +80,16 @@ def cerca_foto(titolo: str):
                 continue
             if (info.get("width") or 0) < 700:
                 continue
+            # il nome nel titolo non basta (omonimi, foto di gruppo): la foto deve stare in categorie di calcio
+            categorie = _pulisci((meta.get("Categories") or {}).get("value", "")).lower()
+            if not any(k in categorie for k in PAROLE_CALCIO):
+                continue
             try:
                 img = Image.open(io.BytesIO(requests.get(info["thumburl"], headers=UA, timeout=30).content)).convert("RGB")
             except (requests.RequestException, OSError):
                 continue
             autore = _pulisci((meta.get("Artist") or {}).get("value", "")) or "Wikimedia Commons"
+            ULTIMO_FILE = p.get("title", "")
             return img, f"Foto: {autore[:40]} · {licenza} · Wikimedia Commons"
         time.sleep(1)
     return None, ""
