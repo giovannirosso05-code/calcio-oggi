@@ -45,6 +45,18 @@ def prompt(titolo, serie="Serie A"):
     )
 
 
+def modelli_immagine(chiave):
+    """Modelli che la chiave può usare per creare immagini (chiesti a Google), prima i noti, poi gli altri con 'image' nel nome."""
+    try:
+        r = requests.get(f"https://generativelanguage.googleapis.com/v1beta/models?key={chiave}&pageSize=200", timeout=30)
+        nomi = [m["name"].split("/")[-1] for m in r.json().get("models", []) if "generateContent" in m.get("supportedGenerationMethods", []) and "image" in m["name"]]
+    except (requests.RequestException, ValueError, KeyError):
+        nomi = []
+    print("[copertina ia] modelli immagine disponibili:", nomi or "nessuno / elenco non letto")
+    noti = [m for m in MODELLI if m in nomi]
+    return noti + [m for m in nomi if m not in noti] or MODELLI
+
+
 def genera_sfondo(titolo, serie="Serie A", tentativi=2):
     """Immagine PIL 1080x1920 generata dall'IA, oppure None."""
     chiave = os.environ.get("GEMINI_API_KEY", "").strip()
@@ -53,7 +65,7 @@ def genera_sfondo(titolo, serie="Serie A", tentativi=2):
         return None
     corpo = {"contents": [{"parts": [{"text": prompt(titolo, serie)}]}],
              "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": "9:16"}}}
-    for modello in MODELLI:
+    for modello in modelli_immagine(chiave)[:5]:
         for i in range(tentativi):
             try:
                 r = requests.post(f"{URL.format(modello=modello)}?key={chiave}", json=corpo, timeout=120)
@@ -64,7 +76,7 @@ def genera_sfondo(titolo, serie="Serie A", tentativi=2):
                 time.sleep(6 * (i + 1))
                 continue
             if not r.ok:
-                print(f"[copertina ia] {modello}: HTTP {r.status_code} {r.text[:200]}")
+                print(f"[copertina ia] {modello}: HTTP {r.status_code} {re.sub(r'\\s+', ' ', r.text)[:300]}")
                 break
             for p in (r.json().get("candidates") or [{}])[0].get("content", {}).get("parts", []):
                 dati = (p.get("inlineData") or p.get("inline_data") or {}).get("data")
