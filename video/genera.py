@@ -18,6 +18,7 @@ from PIL import Image
 
 from video import foto as FOTO
 from video.grafica import crea_copertina
+from video.immagini import Banca
 from video.notizia_sub import NessunaFoto, genera
 from video.scaletta import ErroreScaletta, da_notizia
 
@@ -105,7 +106,8 @@ def main():
             estratto = next((a.get("estratto", "") for a in _rassegna() if a.get("url") == url), "")
             spec = da_notizia(url, titolo, fonte, serie, estratto, _rassegna())
             nome = "notizia"
-        risultato = asyncio.run(genera(spec, USCITA / "video.mp4"))
+        banca = Banca(_rassegna(), spec.get("url", ""), spec.get("titolo_breve", ""), spec.get("fonte", ""))
+        risultato = asyncio.run(genera(spec, USCITA / "video.mp4", banca))
     except (ErroreScaletta, NessunaFoto) as errore:
         scrivi(f"⚠️ {errore}")
         print("video non fatto:", errore)

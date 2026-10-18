@@ -22,7 +22,7 @@ import sys
 import tempfile
 from pathlib import Path
 
-from video import foto as FOTO
+from video.immagini import componi
 from video.voce import crea_audio_con_tempi
 
 QUI = Path(__file__).resolve().parent
@@ -133,7 +133,7 @@ def pagina(spec, scena, foto_b64, credito, avanzamento, sub=None, nome=False, ho
 .u{{margin-top:50px;font:700 56px Oswald;color:{NOM};letter-spacing:.04em}}
 .n{{position:absolute;left:60px;right:60px;bottom:90px;text-align:center;font:500 22px Inter;color:rgba(255,255,255,.7)}}
 </style><div class=bg></div><div class=prog></div><div class=c><img src="data:image/png;base64,{logo}"><div class=q>{esc(finale)}</div><div class=cm>Dimmi la tua nei commenti</div><div class=u>@calciooggi</div></div>
-<div class=n>Fonte: {esc(spec['fonte'])} · Sito non ufficiale, non affiliato a Serie A, UEFA, FIGC o ai club. Foto: Wikimedia Commons</div>""")
+<div class=n>Fonte: {esc(spec['fonte'])} · Sito non ufficiale, non affiliato a Serie A, UEFA, FIGC o ai club. {esc(spec.get('_crediti', ''))}</div>""")
     base = f"""<!doctype html><meta charset=utf-8><style>{CSS_FONT}
 *{{box-sizing:border-box}} html,body{{margin:0;width:{W}px;height:{H}px;background:#0b0b0e;color:#fff;font-family:Inter,sans-serif;overflow:hidden;position:relative}}
 .bg{{position:absolute;inset:0;background:url(data:image/jpeg;base64,{foto_b64}) {pos}/cover no-repeat}}
@@ -163,41 +163,52 @@ def pagina(spec, scena, foto_b64, credito, avanzamento, sub=None, nome=False, ho
     return base + corpo
 
 
-def risolvi_foto(spec, cerca=FOTO.trova):
-    """Per ogni scena la foto pertinente. Una scena senza foto propria usa quella del protagonista del video (la prima trovata);
-    se non c'è nessuna foto per nessuna scena il video non si fa. Restituisce ({nome: dict foto}, foglio di controllo)."""
+def risolvi_foto(spec, banca):
+    """Per ogni scena (e per il finale) una immagine pertinente, DIVERSA dalle altre finché ce ne sono.
+    Una scena senza immagine propria usa un'altra immagine della storia; se non c'è nessuna immagine il video non si fa.
+    Restituisce (lista parallela a scene + finale di (immagine, propria), foglio di controllo)."""
     scene = list(spec["scene"]) + [spec["finale"]]
-    trovate = {}
+    usate, scelte = set(), []
     for s in scene:
-        n = s.get("foto", "")
-        if n not in trovate:
-            trovate[n] = cerca(n)
-    principale = next((trovate[s.get("foto", "")] for s in scene if trovate.get(s.get("foto", ""))), None)
-    if principale is None:
-        raise NessunaFoto("nessuna foto verificata per i protagonisti: " + ", ".join(sorted({s.get("foto", "?") for s in scene})))
+        nome = s.get("foto", "")
+        cands = banca.candidati(nome, len(nome.split()) == 1) if nome else []
+        c = next((x for x in cands if x["id"] not in usate), None) or (cands[0] if cands else None)
+        if c:
+            usate.add(c["id"])
+        scelte.append([c, bool(c)])
+    storia = banca.tutte()
+    for sc in scelte:
+        if sc[0] is None and storia:
+            sc[0] = next((x for x in storia if x["id"] not in usate), None) or storia[0]
+            usate.add(sc[0]["id"])
+    if not any(c for c, _ in scelte):
+        raise NessunaFoto("nessuna immagine trovata per i protagonisti: " + ", ".join(sorted({s.get("foto", "?") for s in scene})))
     foglio = []
-    for i, s in enumerate(scene, 1):
-        f = trovate.get(s.get("foto", ""))
-        if f:
-            foglio.append(f"{i}. {s['foto']} → {f['tipo']} verificato su Wikidata ({f['qid']}) · {f['credito']}")
-        else:
-            foglio.append(f"{i}. {s.get('foto', '?')} → nessuna foto verificata: uso quella di {principale['nome']} · {principale['credito']}")
-    return trovate, principale, foglio
+    for i, (s, (c, propria)) in enumerate(zip(scene, scelte), 1):
+        foglio.append(f"{i}. {s.get('foto', '?')} → {c['origine']} · {c['credito']}" + ("" if propria else "  [immagine di un'altra scena: non c'è una foto di questo nome]"))
+    return scelte, foglio
 
 
-async def genera(spec, uscita, cerca=FOTO.trova):
+async def genera(spec, uscita, banca):
     """Crea il video in `uscita`. Restituisce {'copertina': percorso png, 'foglio': [righe], 'durata': secondi}."""
     from playwright.async_api import async_playwright
     vel = spec.get("velocita", "+38%")
     uscita = Path(uscita); uscita.parent.mkdir(parents=True, exist_ok=True)
-    trovate, principale, foglio = risolvi_foto(spec, cerca)
+    scelte, foglio = risolvi_foto(spec, banca)
     with tempfile.TemporaryDirectory() as tmp:
         tmp = Path(tmp)
         scene = list(spec["scene"])
         finale = spec["finale"]
+        spec["_crediti"] = "Foto: " + ", ".join(sorted({c["credito"].replace("Foto: ", "").split(" · ")[0] for c, _ in scelte if c}))   # crediti reali, per la schermata finale
+        for k, sc in enumerate(scene + [finale]):   # immagine scelta (già composta 1080x1920 e salvata) per ogni scena
+            c, propria = scelte[k]
+            if c is not None:
+                f = tmp / f"img{k}.jpg"
+                componi(c["img"]).save(f, quality=90)
+                sc["_img"] = (f, c["credito"], propria)
         # subito dopo il gancio (la fine non la ascolta nessuno): invito a seguire il canale; "segui": false nello spec lo toglie
         if spec.get("segui", True) and scene and scene[0].get("hook") and not any("Seguici" in x.get("testo", "") for x in scene):
-            scene.insert(1, {**{k: v for k, v in scene[0].items() if k in ("foto", "pos")}, "testo": "*Seguici* per altri contenuti come questo.", "velocita": "+20%"})
+            scene.insert(1, {**{k: v for k, v in scene[0].items() if k in ("foto", "pos", "_img")}, "testo": "*Seguici* per altri contenuti come questo.", "velocita": "+20%"})
         t = 0.0; lavoro = []
         for i, s in enumerate(scene + [dict(finale, testo=finale["domanda"] + " Dimmi la tua nei commenti.", finale=True)]):
             tok = token(s["testo"]); parlato = " ".join(pronuncia(w) for w, _ in tok)
@@ -232,11 +243,10 @@ async def genera(spec, uscita, cerca=FOTO.trova):
                 f = tmp / f"q{k}.png"; k += 1
                 await pg.screenshot(path=str(f)); return f
             for idx, s in enumerate(lavoro):
-                propria = trovate.get(s["s"].get("foto", ""))
-                f = propria or principale
-                fb, cred = b64(f["file"]), f["credito"]
-                if propria and propria["tipo"] == "persona" and not s["s"].get("nome"):
-                    s["s"]["nome"] = s["s"]["foto"].upper()   # targhetta col nome, solo se la foto è davvero di quella persona
+                img_f, cred, propria = s["s"].get("_img") or next(x["s"]["_img"] for x in lavoro if x["s"].get("_img"))
+                fb = b64(img_f)
+                if propria and len(s["s"].get("foto", "").split()) >= 2 and not s["s"].get("nome"):
+                    s["s"]["nome"] = s["s"]["foto"].upper()   # targhetta col nome, solo se l'immagine è di quella persona (articolo col suo nome nel titolo)
                 fine_scena = (lavoro[idx + 1]["ini"] if idx < len(lavoro) - 1 else s["ini"] + s["dur"] + 0.6)
                 if s["s"].get("finale"):
                     quadri.append((await scatta(pagina(spec, s["s"], fb, cred, 1.0, finale=s["s"]["domanda"])), s["ini"], fine_scena)); continue
