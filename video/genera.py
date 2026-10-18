@@ -134,7 +134,7 @@ def main():
             estratto = next((a.get("estratto", "") for a in _rassegna() if a.get("url") == url), "")
             spec = da_notizia(url, titolo, fonte, serie, estratto, _rassegna())
             nome = "notizia"
-        banca = Banca(_rassegna(), spec.get("url", ""), spec.get("titolo_breve", ""), spec.get("fonte", ""))
+        banca = Banca(_rassegna(), spec.get("url", ""), spec.get("titolo_breve", ""), spec.get("fonte", ""), solo_espn=spec.get("solo_espn", False))
         risultato = asyncio.run(genera(spec, USCITA / "video.mp4", banca))
     except (ErroreScaletta, NessunaFoto) as errore:
         scrivi(f"⚠️ {errore}")

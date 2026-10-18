@@ -229,6 +229,28 @@ def stemma_per(nome, tutte):
     return marc.get(parole[-1], "") if parole else ""
 
 
+def partita_di(nome, tutte):
+    """(partita, 'squadra'|'persona') a cui appartiene `nome` (una squadra o un marcatore dei dati), oppure (None, '')."""
+    n = _norm(nome)
+    for p in tutte:
+        if n in {_norm(p[k][c]) for k in ("casa", "ospite") for c in ("breve", "nome")}:
+            return p, "squadra"
+    parole = [w for w in n.split() if len(w) > 2]
+    for p in tutte:
+        if parole and any(all(w in _norm(g.get("marcatore", "")).split() for w in parole) for g in p.get("gol", [])):
+            return p, "persona"
+    return None, ""
+
+
+def _scena(nome, tutte, **resto):
+    """Scena su una squadra o un marcatore: foto (solo ESPN per i marcatori) e, in mancanza, i due stemmi col risultato."""
+    p, tipo = partita_di(nome, tutte)
+    sc = {"foto": nome, "tipo": tipo, "stemma": stemma_per(nome, tutte), **resto}
+    if p:
+        sc["scheda"] = {"c": p["casa"].get("logo", ""), "o": p["ospite"].get("logo", ""), "gc": p["casa"]["gol"], "go": p["ospite"]["gol"]}
+    return sc
+
+
 def da_giornata(oggi=None) -> dict:
     """Spec del video (per notizia_sub.genera), oppure ErroreScaletta."""
     giorno, tutte, mancano = partite_del_giorno(oggi)
@@ -242,13 +264,13 @@ def da_giornata(oggi=None) -> dict:
             break
     if errori:
         raise ErroreScaletta("Non sono riuscito a scrivere un riepilogo che rispetti le regole (" + "; ".join(errori[:3]) + "): il video non l'ho fatto.")
-    scene = [{"foto": spec["hook_foto"], "stemma": stemma_per(spec["hook_foto"], tutte), "hook": True, "hook_titolo": spec["hook_titolo"], "testo": spec["hook_testo"]},
+    scene = [_scena(spec["hook_foto"], tutte, hook=True, hook_titolo=spec["hook_titolo"], testo=spec["hook_testo"]),
              {"foto": "", "tabella": True, "testo": "Questi sono i risultati della giornata di Serie A. " + spec["tabella_testo"], "durata_min": 6.0}]
-    scene += [{"foto": s["foto"], "stemma": stemma_per(s["foto"], tutte), "testo": s["testo"]} for s in spec["scene"]]
+    scene += [_scena(s["foto"], tutte, testo=s["testo"]) for s in spec["scene"]]
     if mancano:
         etichetta, gare = mancano
         coppie = " e ".join(f"[{p['casa']['breve']}] contro [{p['ospite']['breve']}]" for p in gare[:2])
-        scene.append({"foto": gare[0]["casa"]["breve"], "stemma": gare[0]["casa"].get("logo", ""), "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}." if len(gare) <= 2 else f"Mancano ancora le partite *{etichetta}*."})
+        scene.append({"foto": gare[0]["casa"]["breve"], "tipo": "squadra", "stemma": gare[0]["casa"].get("logo", ""), "scheda": {"c": gare[0]["casa"].get("logo", ""), "o": gare[0]["ospite"].get("logo", "")}, "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}." if len(gare) <= 2 else f"Mancano ancora le partite *{etichetta}*."})
     return {"serie": "Serie A", "titolo_breve": "Serie A: riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
             "scene": scene, "finale": spec["finale"], "apertura": spec.get("apertura", "Il riepilogo della giornata"), "hashtag": spec.get("hashtag", []),
-            "tabella": tabella(giorno, tutte), "url": ""}
+            "tabella": tabella(giorno, tutte), "url": "", "solo_espn": True}

@@ -117,7 +117,8 @@ def _punteggio(nome, titolo):
 
 
 class Banca:
-    def __init__(self, rassegna, url="", titolo="", fonte="", pubblicato=""):
+    def __init__(self, rassegna, url="", titolo="", fonte="", pubblicato="", solo_espn=False):
+        self.solo_espn = solo_espn   # riepiloghi: per i marcatori solo le foto ESPN col nome in didascalia (le foto degli articoli possono mostrare altre persone)
         self.articoli = [{**a, "titolo": html.unescape(a.get("titolo", ""))} for a in (rassegna or []) if a.get("url")]
         if url and not any(a["url"] == url for a in self.articoli):
             self.articoli.append({"url": url, "titolo": titolo, "fonte": fonte, "pubblicato": pubblicato})
@@ -174,7 +175,7 @@ class Banca:
         chiave = (nome, squadra)
         if chiave in self._cache:
             return self._cache[chiave]
-        out = self._da_articoli(nome)
+        out = [] if self.solo_espn else self._da_articoli(nome)
         if len(_parole(nome)) >= 2:
             out += self._da_espn(nome)   # ESPN solo per le persone: per le squadre prenderebbe foto di altri club
         if not out and (squadra or len(_parole(nome)) == 1):
