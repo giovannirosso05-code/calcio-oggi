@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-18T14:29:17.870433+00:00",
+  "aggiornato": "2026-10-18T17:30:26.059720+00:00",
   "totale": 45,
   "articoli": [
     {
@@ -14,15 +14,48 @@
       "pubblicato": "2026-10-18T13:29:40+00:00"
     },
     {
-      "id": "27939e5a21",
-      "titolo": "Bove: \"La Roma è partita bene, vediamo come si evolve la stagione. La Serie A è lunga\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/bove-la-roma-partita-bene-vediamo-evolve-stagione-serie-lunga-2284607",
-      "estratto": "Edoardo Bove, intervenuto ai microfoni dei media a margine della presentazione del docu-film \"In un battito\", ha dato un suo giudizio anche sul campionato di Serie A.",
+      "id": "42ce5a7edf",
+      "titolo": "Fiorentina, Ndour: \"Dall'inizio paragoni con l'anno scorso, ma è tutto diverso\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/fiorentina-ndour-dall-inizio-paragoni-scorso-diverso-2284707",
+      "estratto": "Solo un ko, ma nessun fantasma che riemerge.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-18T14:15:00+00:00"
+      "pubblicato": "2026-10-18T17:30:00+00:00"
+    },
+    {
+      "id": "4c3fc66c26",
+      "titolo": "Giugliano, il ds Antonazzo: \"Ci aspettavamo di più da Di Napoli, all'opera per il futuro\"",
+      "url": "https://www.tuttomercatoweb.com/serie-c/giugliano-ds-antonazzo-ci-aspettavamo-napoli-opera-futuro-2284718",
+      "estratto": "Alla vigilia della gara di domani contro il Foggia Calcio 1920, valida per la decima giornata Serie C, Girone C, sono arrivate, attraverso i canali ufficiali del club, le parole del direttore sportivo del Giugliano Angelo Antonazzo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T17:04:13+00:00"
+    },
+    {
+      "id": "2541c1cf3a",
+      "titolo": "Fiorentina, Ndour: \"Distratti dal possibile fallo sul primo gol. Da apprezzare la reazione\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/fiorentina-ndour-distratti-possibile-fallo-gol-apprezzare-reazione-2284716",
+      "estratto": "Cher Ndour, centrocampista della Fiorentina, ha parlato a Sky Sport dopo la sconfitta contro il Como per 3-1 al Franchi: \"Abbiamo iniziato bene questa partita avendo occasioni nei primi minuti.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T17:00:00+00:00"
+    },
+    {
+      "id": "dbcafb4732",
+      "titolo": "Vanoli avvisa la Fiorentina: \"Prendiamo gol con una facilit&agrave; incredibile\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/18-151975739/vanoli_avvisa_la_fiorentina_prendiamo_gol_con_una_facilit_incredibile/",
+      "estratto": "Il tecnico dei viola non si d&agrave; pace dopo la sconfitta contro il Como: \"Ma le decisioni arbitrali ci hanno penalizzato\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-18T16:10:21+00:00"
     },
     {
       "id": "6ad5148cf3",
@@ -47,6 +80,39 @@
       "pubblicato": "2026-10-18T11:17:57+00:00"
     },
     {
+      "id": "6a7897aa92",
+      "titolo": "Fabregas riparte e pensa gi&agrave; alla Champions: \"Esperienza incredibile, ma vedo poco la mia famiglia...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/10/18-151978162/fabregas_riparte_e_pensa_gi_alla_champions_esperienza_incredibile_ma_vedo_poco_la_mia_famiglia_/",
+      "estratto": "L'analisi postpartita del tecnico del Como dopo la vittoria in trasferta per 3-1 al Franchi contro la Fiorentina nella settima giornata di Serie A",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 60,
+      "pubblicato": "2026-10-18T12:22:01+00:00"
+    },
+    {
+      "id": "734b119257",
+      "titolo": "Carnesecchi para un rigore a Ramos, ma sul corner seguente segna Gila: Milan-Atalanta 3-0",
+      "url": "https://www.tuttomercatoweb.com/serie-a/carnesecchi-para-rigore-ramos-corner-segna-gila-milan-atalanta-3-0-2284722",
+      "estratto": "Dopo poco più di dieci minuti del secondo tempo di Milan-Atalanta, Gonçalo Ramos sbaglia un calcio di rigore (da lui conquistato per fallo di mano di Kristensen), con Carnesecchi che intuisce l'angolo e devia in corner.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 50,
+      "pubblicato": "2026-10-18T17:20:00+00:00"
+    },
+    {
+      "id": "8b7a6561e5",
+      "titolo": "Anche il Como dimentica la Champions e batte 3-1 una buona Fiorentina: al Franchi, per&ograve;, &egrave; notte fonda",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/18-151982442/anche_il_como_dimentica_la_champions_e_batte_3-1_una_buona_fiorentina_al_franchi_per_notte_fonda/",
+      "estratto": "La squadra di Fabregas si impone su quella di Vanoli: a segno Liberali, Nico Paz e Douvikas. Inutile la rete di Pongracic",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 50,
+      "pubblicato": "2026-10-18T15:10:28+00:00"
+    },
+    {
       "id": "252885631c",
       "titolo": "Champions, scelti gli arbitri per Roma e Napoli: chi sono e i precedenti con le italiane&nbsp;",
       "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/18-151977373/champions_scelti_gli_arbitri_per_roma_e_napoli_chi_sono_e_i_precedenti_con_le_italiane/",
@@ -58,26 +124,48 @@
       "pubblicato": "2026-10-18T11:35:15+00:00"
     },
     {
-      "id": "7e58dc11fe",
-      "titolo": "Pobega: \"La Nazionale è il sogno di tutti ma io devo pensare a fare bene al Bologna\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/pobega-la-nazionale-sogno-pensare-bologna-2284582",
-      "estratto": "Al termine del match perso contro l'Inter, il centrocampista del Bologna Tommaso Pobega ha parlato ai microfoni di SportMediaset: \"Noi abbiamo calato un po' di intensità e un po' di qualità.",
+      "id": "afac47ee75",
+      "titolo": "Serie B, 7ª giornata: Cesena-Avellino 1-1. Tutto nella ripresa, Izzo risponde a Fiori",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-7a-giornata-cesena-avellino-1-1-ripresa-izzo-risponde-fiori-2284720",
+      "estratto": "Finisce 1-1 la sfida tra Cesena e Avellino, valida per la 7ª giornata di Serie B.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-18T14:27:00+00:00"
+      "pubblicato": "2026-10-18T17:13:35+00:00"
     },
     {
-      "id": "dcba50db6a",
-      "titolo": "Udinese, Davis: \"Sconfitta imbarazzante. Dobbiamo rimanere uniti e lavorare\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/udinese-davis-sconfitta-imbarazzante-dobbiamo-rimanere-uniti-lavorare-2284640",
-      "estratto": "Le parole dell'attaccante dell'Udinese Keinan Davis al termine della partita contro il Lecce.",
+      "id": "eeace36975",
+      "titolo": "Como, Fabregas: \"Sfida allo United un sogno realizzato. Ma la Serie A è la cosa più importante\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/como-fabregas-sfida-united-sogno-realizzato-serie-importante-2284719",
+      "estratto": "Cesc Fabregas, tecnico del Como, ha parlato a Sky Sport dopo la vittoria contro la Fiorentina: \"Per noi ogni giorno è uno step di crescita importanti.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-18T14:23:04+00:00"
+      "pubblicato": "2026-10-18T17:08:20+00:00"
+    },
+    {
+      "id": "307fdd675b",
+      "titolo": "Como, Liberali: \"In questa squadra non esistono vice o alter ego. Possiamo giocare tutti\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/como-liberali-in-squadra-esistono-vice-alter-ego-possiamo-giocare-tutti-2284712",
+      "estratto": "Mattia Liberali, attaccante del Como autore del suo primo gol in maglia lariana contro la Fiorentina, ha parlato dopo la gara a Sky Sport.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T16:53:00+00:00"
+    },
+    {
+      "id": "2927a71021",
+      "titolo": "Fabregas: &ldquo;Molto bravi a reggere la pressione&rdquo;. Vanoli: &ldquo;Ci ha disturbato il fallo non fischiato sullo 0-1\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/18-151983762/fabregas_molto_bravi_a_reggere_la_pressione_vanoli_ci_ha_disturbato_il_fallo_non_fischiato_sullo_0-1/",
+      "estratto": "Lo spagnolo: \"Como, partita molto completa\". Il tecnico della Fiorentina: \"Abbiamo incontrato una squadra forte e dimostrato di potercela giocare alla pari\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-18T16:24:15+00:00"
     },
     {
       "id": "b1292766cb",
@@ -89,61 +177,6 @@
       "citazione": true,
       "punteggio": 40,
       "pubblicato": "2026-10-18T14:20:30+00:00"
-    },
-    {
-      "id": "fe206ef35b",
-      "titolo": "Lecce, Gaspar: \"Importante non prendere gol, ma possiamo sempre migliorare\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-gaspar-2284650",
-      "estratto": "Le parole del difensore del Lecce Kialonda Gaspar a DAZN, al termine della sfida contro l'Udinese: \"Per noi era importante non prendere gol, avevamo fatto tante cose bene, ma c'è sempre da migliorare.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T14:12:00+00:00"
-    },
-    {
-      "id": "c932190a9e",
-      "titolo": "Lecce, Di Francesco: \"Ho visto pochi vincere qui 3-0. Punti importanti, ma mai abbassare la guardia\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-francesco-ho-pochi-vincere-3-0-punti-importanti-abbassare-guardia-2284645",
-      "estratto": "Eusebio Di Francesco, allenatore del Lecce, ha analizzato ai microfoni di DAZN la bella vittoria dei suoi contro l'Udinese.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T14:08:34+00:00"
-    },
-    {
-      "id": "4c0817375d",
-      "titolo": "Lecce, Siebert: \"Ho dato il 100% per la squadra, contentissimo per il gol\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-siebert-ho-dato-100-squadra-contentissimo-gol-2284649",
-      "estratto": "Jamil Siebert, difensore del Lecce, ha parlato ai microfoni da DAZN al termine della sfida contro l'Udinese vinta 0-3 dai salentini.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T14:06:43+00:00"
-    },
-    {
-      "id": "6b1bcb2b17",
-      "titolo": "Sambenedettese, Mussi dopo il 2-2 di Vado: \"Due rigori ripetuti, chiediamo equità\"",
-      "url": "https://www.tuttomercatoweb.com/serie-c/sambenedettese-mussi-2-2-vado-due-rigori-ripetuti-chiediamo-equita-2284606",
-      "estratto": "La Sambenedettese torna dalla trasferta contro il Vado con un pareggio per 2-2, ma anche con tanta rabbia per gli episodi arbitrali che hanno caratterizzato la gara della decima giornata di Serie C.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T14:04:00+00:00"
-    },
-    {
-      "id": "b06fa2bb6b",
-      "titolo": "Lecce, N'Dri: \"Il mio gol? Alla Inzaghi. Siamo una famiglia\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-n-dri-il-gol-inzaghi-famiglia-2284648",
-      "estratto": "Le parole dell'attaccante del Lecce Konan N'Dri al termine della sfida contro l'Udinese.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T13:58:00+00:00"
     },
     {
       "id": "c01ed5c1c8",
@@ -179,59 +212,92 @@
       "pubblicato": "2026-10-18T09:33:00+00:00"
     },
     {
-      "id": "c7493ecd2c",
-      "titolo": "Altra papera di De Gea e tris del Como: Douvikas firma l'1-3, Fiorentina alle corde",
-      "url": "https://www.tuttomercatoweb.com/serie-a/altra-papera-de-gea-tris-como-douvikas-firma-1-3-fiorentina-corde-2284654",
-      "estratto": "Il Como cala il tris e si porta sul 1-3 contro la Fiorentina.",
+      "id": "e56c85667a",
+      "titolo": "L'Atalanta riapre la partita a San Siro: assist di Zalewski, Gaetano punisce il Milan",
+      "url": "https://www.tuttomercatoweb.com/serie-a/atalanta-riapre-partita-san-siro-assist-zalewski-gaetano-punisce-milan-2284726",
+      "estratto": "A metà secondo tempo l'Atalanta riapre la partita a San Siro, trovando la rete dell'1-3.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T14:28:01+00:00"
+      "pubblicato": "2026-10-18T17:29:00+00:00"
     },
     {
-      "id": "52b13f56b9",
-      "titolo": "Atalanta, motorata a Milano per sostenere i nerazzurri prima di San Siro: la ricostruzione",
-      "url": "https://www.tuttomercatoweb.com/serie-a/atalanta-motorata-milano-sostenere-squadra-ricostruzione-2284647",
-      "estratto": "Gli ultras dell’Atalanta sono partiti questa mattina in moto alla volta di Milano per manifestare la propria vicinanza alla squadra in vista della sfida contro il Milan, in programma alle 18 a San Siro.",
+      "id": "fa03bc5863",
+      "titolo": "Filip Stankovic con il mantello. Il retroscena sull'Italia, il Venezia che lo blinda e l'Inter",
+      "url": "https://www.tuttomercatoweb.com/serie-a/filip-stankovic-mantello-retroscena-italia-venezia-blinda-inter-2284715",
+      "estratto": "Filip Stankovic continua a volare.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T14:00:47+00:00"
+      "pubblicato": "2026-10-18T17:23:00+00:00"
     },
     {
-      "id": "fedb7e2fef",
-      "titolo": "La Roma dimentica il Real, l'Inter dimentica il Brugge, il Napoli si dimentica di giocare. L'avvio horror di Allegri che fa tremare De Laurentiis",
-      "url": "https://www.tuttomercatoweb.com/editoriale/roma-dimentica-real-inter-dimentica-brugge-napoli-dimentica-giocare-avvio-horror-allegri-tremare-de-2284510",
-      "estratto": "La Roma dimentica il Real, l’Inter dimentica il Club Brugge, il Napoli si dimentica di giocare.",
+      "id": "5b4913b3f1",
+      "titolo": "L'Ajax manda un segnale all'Atalanta: 5-2 al Groningen, Klaassen sfortunato due volte",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/ajax-manda-segnale-atalanta-5-2-groningen-klaassen-sfortunato-2284714",
+      "estratto": "L'Ajax torna a sorridere e lo fa con una prestazione autoritaria, imponendosi per 5-2 sul campo del Groningen nella nona giornata di Eredivisie e mandando un messaggio all'Atalanta, prossima avversaria in Conference League.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T14:00:20+00:00"
+      "pubblicato": "2026-10-18T17:12:22+00:00"
     },
     {
-      "id": "940fd1f701",
-      "titolo": "Ritmo altissimo, tre gol e uno annullato: uno spettacolare Como-Fiorentina è 1-2 al 45'",
-      "url": "https://www.tuttomercatoweb.com/serie-a/liberali-nico-paz-gelano-franchi-pongracic-2-2-45-fiorentina-como-2284646",
-      "estratto": "Termina 1-2 il primo tempo del Franchi tra Fiorentina e Como.",
-      "fonte": "TMW",
+      "id": "db1694b3e2",
+      "titolo": "Juve-Lazio diretta Serie A: segui la sfida tra Spalletti e Gattuso, il risultato LIVE",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/18-151979554/juve-lazio_diretta_serie_a_segui_la_sfida_tra_spalletti_e_gattuso_il_risultato_live/",
+      "estratto": "La domenica della 7&ordf; giornata di campionato si chiude all'Allianz Stadium, con la sfida tra bianconeri e biancocelesti: aggiornamenti e cronaca in tempo reale",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T13:56:01+00:00"
+      "pubblicato": "2026-10-18T17:11:00+00:00"
     },
     {
-      "id": "567fa2aa2d",
-      "titolo": "Serie B, 7ª giornata: Juve Stabia-Sudtirol 1-0 al 45'. Decide il gol di Sibilli",
-      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-7a-giornata-juve-stabia-sudtirol-1-0-45-decide-gol-sibilli-2284644",
-      "estratto": "È finito pochi istanti fa il primo tempo di Juve Stabia-Sudtirol sul risultato di 1-0.",
-      "fonte": "TMW",
+      "id": "2e4db6f583",
+      "titolo": "Juve-Lazio, diretta: formazioni e risultato in tempo reale. Spalletti sfida Gattuso",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151975757/juve-lazio_diretta_formazioni_e_risultato_in_tempo_reale_spalletti_sfida_gattuso/",
+      "estratto": "I bianconeri in campo nella sfida allo Stadium contro i biancocelesti per dare continuit&agrave; alla vittoria in Europa League",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-18T13:49:00+00:00"
+      "pubblicato": "2026-10-18T15:45:04+00:00"
+    },
+    {
+      "id": "91df5ac4f0",
+      "titolo": "Il Como sbanca il Franchi: Liberali-Nico Paz show, la Fiorentina crolla. Fabregas a -3 dalla Roma",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/18-151982614/il_como_sbanca_il_franchi_liberali-nico_paz_show_la_fiorentina_crolla_fabregas_a_-3_dalla_roma/",
+      "estratto": "I lariani ritrovano la vittoria trionfando sul campo dei viola. Seconda sconfitta di fila per Vanoli: la&nbsp;classifica resta complicata per i toscani",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T15:12:56+00:00"
+    },
+    {
+      "id": "66952a1025",
+      "titolo": "Juve Stabia travolgente, prima sconfitta per il S&uuml;dtirol: decidono Sibilli, Di Nardo e Sandrucci",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/18-151978157/juve_stabia_travolgente_prima_sconfitta_per_il_sdtirol_decidono_sibilli_di_nardo_e_sandrucci/",
+      "estratto": "Gli altoatesini, in inferiorit&agrave; numerica dal 59' (espulso Vasco Lopes), cadono al Menti: vince De Giorgio, Possanzini perde l'imbattibilit&agrave;",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T15:03:13+00:00"
+    },
+    {
+      "id": "3becc6be58",
+      "titolo": "Milan-Atalanta, diretta Serie A: risultato in tempo reale, show rossonero",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/18-151980872/milan-atalanta_diretta_serie_a_formazioni_e_risultato_in_tempo_reale_amorim_sfida_sarri/",
+      "estratto": "I rossoneri sull'onda dell'entusiasmo dopo il successo in Europa League vogliono rilanciarsi anche in campionato. La Dea per la chance di risalire in classifica",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-18T14:30:00+00:00"
     },
     {
       "id": "fca101e2fd",
@@ -278,19 +344,8 @@
       "pubblicato": "2026-10-18T10:24:19+00:00"
     },
     {
-      "id": "1536c283e6",
-      "titolo": "Dove vedere Juve Stabia-Sudtirol in tv? Dazn o Sky, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/18-151975755/dove_vedere_juve_stabia-sudtirol_in_tv_dazn_o_sky_orario/",
-      "estratto": "La sfida apre la domenica di Serie B, trasferta in Campania per gli altoatesini: tutte le info sul match e le formazioni ufficiali",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T09:35:10+00:00"
-    },
-    {
       "id": "2f212945a6",
-      "titolo": "Milan-Atalanta: probabili formazioni e diretta. Dove si vede in tv e streaming",
+      "titolo": "Milan-Atalanta: formazioni ufficiali e diretta. Dove si vede in tv e streaming",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/16-151930769/milan-atalanta_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming/",
       "estratto": "Diavoli e Dea sono entrambi reduci da due buone vittorie in Europa: adesso soltanto una avr&agrave; la meglio anche in campionato",
       "fonte": "Tuttosport",
@@ -300,81 +355,70 @@
       "pubblicato": "2026-10-18T08:42:00+00:00"
     },
     {
-      "id": "949defa895",
-      "titolo": "Milan, Ramos per la svolta: contro l'Atalanta tocca a Gon&ccedil;alo. Amorim col dubbio Cisse",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/18-151972203/milan_ramos_per_la_svolta_contro_l_atalanta_tocca_a_gonalo_amorim_col_dubbio_cisse/",
-      "estratto": "Il portoghese guida l&rsquo;attacco dei rossoneri e cerca la gioia del gol anche in campionato. L'allenatore portoghese sta sciogliendo gli ultimi dubbi di formazione&nbsp;",
-      "fonte": "Tuttosport",
+      "id": "3b6ca80259",
+      "titolo": "Il Como non soffre la Champions? Fabregas eguaglia un record di 76 anni fa",
+      "url": "https://www.tuttomercatoweb.com/serie-a/como-soffre-champions-fabregas-eguaglia-record-76-2284710",
+      "estratto": "Come andrà il Como considerando le fatiche della Champions League, che non ha mai provato nella propria storia? Lo vedremo, ma intanto una prima risposta in questo primo scorcio di stagione l'abbiamo già avuta.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T08:07:09+00:00"
+      "punteggio": 20,
+      "pubblicato": "2026-10-18T17:15:00+00:00"
     },
     {
-      "id": "75f62822ba",
-      "titolo": "Pagelle Bologna-Inter: Sucic da &ldquo;Mai dire Gol&rdquo;, Bonny imprevedibile, Bernardeschi&hellip;",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/18-151972115/pagelle_bologna-inter_sucic_da_mai_dire_gol_bonny_imprevedibile_bernardeschi/",
-      "estratto": "Voti e i giudizi dei protagonisti della sfida del Dall'Ara che ha visto i nerazzurri ribaltare il vantaggio dei padroni di casa",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T07:59:00+00:00"
-    },
-    {
-      "id": "8f6c708eb0",
-      "titolo": "Pagelle Roma-Genoa: Magia Castro, gioia Lulli, lampo Soul&eacute;. Gasp riparte, De Rossi in ritardo",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/18-151973079/pagelle_roma-genoa_magia_castro_gioia_lulli_lampo_soul_gasp_riparte_de_rossi_in_ritardo/",
-      "estratto": "Voti e giudizi dei protagonisti della sfida dell'Olimpico, dove i giallorossi hanno ritrovato il sorriso dopo l'amara notte di Champions",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T07:48:27+00:00"
-    },
-    {
-      "id": "f7864ac24d",
-      "titolo": "Ora si, anzi no: il dubbio di Spalletti risolto dall&rsquo;uomo Juve che agisce nell&rsquo;ombra",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151971936/ora_si_anzi_no_il_dubbio_di_spalletti_risolto_dalluomo_juve_che_agisce_nellombra/",
-      "estratto": "Il tecnico bianconero ha cambiato idea, per il big match con la Lazio la scelta &egrave; presa",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T07:37:00+00:00"
-    },
-    {
-      "id": "ce94433ff9",
-      "titolo": "Primavera, ecco la Juve! Monza battuto 2-1 con Borasio e Rigo, primo successo stagionale per Padoin",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151974049/primavera_juve_diretta_sfida_al_monza_formazioni_e_risultato_in_tempo_reale/",
-      "estratto": "Gara in gestione ma finale di sofferenza, poi la vittoria: i bianconeri espugnano Monzello, portano a casa i 3 punti e abbandonano l'ultimo posto in classifica",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-18T07:24:08+00:00"
-    },
-    {
-      "id": "79e60a804f",
-      "titolo": "Da Hellas-Catanzaro a Samp-Arezzo: le formazioni ufficiali della 7ª giornata di Serie B",
-      "url": "https://www.tuttomercatoweb.com/serie-b/hellas-catanzaro-samp-arezzo-formazioni-ufficiali-7a-giornata-serie-b-2284062",
-      "estratto": "La settima giornata di Serie B inizia questa sera con la sfida del 'Bentegodi' fra Hellas Verona e Catanzaro per poi chiudersi domenica sera (ore 19:30) con l’Arezzo che sarà di scena al 'Ferraris' in casa della Sampdoria.",
+      "id": "c759ade5f0",
+      "titolo": "Ligue 1, il Monaco spreca l'occasione e perde: 4 in vetta, c'è anche il Paris FC di Lopez",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/ligue-1-monaco-spreca-occasione-perde-4-vetta-paris-fc-lopez-2284723",
+      "estratto": "Sono terminate le sfide della settima giornata di Ligue 1 disputate nel tardo pomeriggio.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-18T14:19:00+00:00"
+      "pubblicato": "2026-10-18T17:26:48+00:00"
     },
     {
-      "id": "f712c4af69",
-      "titolo": "Lecce, Coulibaly sostituito nel primo tempo: problema muscolare alla coscia destra",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-coulibaly-sostituito-tempo-problema-muscolare-coscia-destra-2284643",
-      "estratto": "Tre punti importanti ottenuti su un campo difficile.",
+      "id": "6ebcedbd49",
+      "titolo": "Casarano, riflessioni in corso per il post Di Bari: in pole come sostituto c'è Prosperi",
+      "url": "https://www.tuttomercatoweb.com/serie-c/casarano-riflessioni-corso-post-bari-pole-sostituto-prosperi-2284721",
+      "estratto": "Casarano al lavoro per trovare il nuovo allenatore, dopo l'ufficialità dell'esonero di Vito Di Bari.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-18T13:53:01+00:00"
+      "pubblicato": "2026-10-18T17:19:27+00:00"
+    },
+    {
+      "id": "62ac1225e8",
+      "titolo": "Casarano, Di Bari viene sollevato dall'incarico: fatale la cinquina contro la Cavese",
+      "url": "https://www.tuttomercatoweb.com/serie-c/casarano-bari-viene-sollevato-incarico-fatale-cinquina-cavese-2284708",
+      "estratto": "La notizia era nell'aria già dalle ultime ore dopo il ko per 5-2 incassato questo pomeriggio in casa della Cavese ed è diventata ufficiale: Vito Di Bari non è più il tecnico del Casarano.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T16:56:00+00:00"
+    },
+    {
+      "id": "14d6a8f951",
+      "titolo": "Un altro ko per la Vis Pesaro porta al cambio di panchina: esonerato Andrea Gennari",
+      "url": "https://www.tuttomercatoweb.com/serie-c/ko-vis-pesaro-porta-cambio-panchina-esonerato-andrea-gennari-2284713",
+      "estratto": "Vis Pesaro ad una svolta.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T16:53:35+00:00"
+    },
+    {
+      "id": "31af7646b1",
+      "titolo": "United, altro passo falso: solo pari con il Leeds. Goleada Brighton, vince il Bournemouth",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/10/18-151982719/united_altro_passo_falso_solo_pari_con_il_leeds_goleada_brighton_vince_il_bournemouth/",
+      "estratto": "I Red Devils non vanno oltre il pareggio in trasferta. Un risultato che non aiuta Michael Carrick, gi&agrave; finito sotto pressione",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-18T15:34:36+00:00"
     },
     {
       "id": "68e17d702e",
@@ -452,50 +496,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-18T09:40:35+00:00"
-    },
-    {
-      "id": "f46708575f",
-      "titolo": "Dove vedere Sorrento-Casertana in tv? Sky o Dazn, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/18-151975753/dove_vedere_sorrento-casertana_in_tv_sky_o_dazn_orario/",
-      "estratto": "Scopri tutto ci&ograve; che c'&egrave; da sapere sulla sfida del girone C di Serie C: le info per seguire il match",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:22:07+00:00"
-    },
-    {
-      "id": "2c724775a1",
-      "titolo": "Dove vedere Pescara-Ostiamare in tv? Sky o Dazn, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/18-151975742/dove_vedere_pescara-ostiamare_in_tv_sky_o_dazn_orario/",
-      "estratto": "Scopri tutto ci&ograve; che c'&egrave; da sapere sulla sfida del girone B di Serie C: le info per seguire il match",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:18:53+00:00"
-    },
-    {
-      "id": "99ed454b46",
-      "titolo": "Dove vedere Bari-Crotone in tv? Sky o Dazn, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/18-151975646/dove_vedere_bari-crotone_in_tv_sky_o_dazn_orario/",
-      "estratto": "Scopri tutto ci&ograve; che c'&egrave; da sapere sulla sfida del girone C di Serie C: le info per seguire il match",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:14:01+00:00"
-    },
-    {
-      "id": "3ddfc781b8",
-      "titolo": "Dove vedere Cosenza-Altamura in tv? Sky o Dazn, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-c/2026/10/18-151975643/dove_vedere_cosenza-altamura_in_tv_sky_o_dazn_orario/",
-      "estratto": "Scopri tutto ci&ograve; che c'&egrave; da sapere sulla sfida del girone C di Serie C: le info per seguire il match",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T09:06:59+00:00"
     }
   ]
 }
