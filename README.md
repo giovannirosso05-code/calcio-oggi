@@ -11,10 +11,17 @@ classifiche e notizie. Mai quote né pronostici.
 - Il workflow `.github/workflows/aggiorna-notizie.yml` esegue entrambi ogni 15 minuti e salva i file.
 - Il sito è statico (`index.html`, `partite.html`, `classifiche.html`, `notizie.html`, cartelle `css/`, `js/`, `img/`).
   Per le partite in corso il browser chiede i punteggi aggiornati direttamente a ESPN ogni 30 secondi.
-- `video/` genera copertina e video nello stile di GP Oggi (foto a tutto schermo, logo, badge ULTIM'ORA, titolone su box,
-  credito foto) e li manda su Telegram. La foto viene cercata su Wikimedia Commons (solo licenze libere, solo se il nome
-  è nel titolo del file); se non c'è, sfondo del marchio. Colori in `video/grafica.py` (`COLORE_BOX`).
-  Workflow `video-automatici.yml`, input `cosa` = `notizia-scelta` (copertina + video) oppure `copertina`.
+- `video/` genera i video "ULTIM'ORA" con lo stesso sistema di GP Oggi e MMA Oggi (`notizia_sub.py`): foto del protagonista a tutto schermo,
+  striscia col titolo, targhetta col nome, sottotitoli a tempo parola per parola (gialle le parole chiave), "Seguici" dopo il gancio,
+  domanda finale. Voce Azure Speech `it-IT-DiegoNeural` (poi Edge, poi Google).
+  - `scaletta.py`: legge l'articolo e scrive la scaletta con Gemini, con parole proprie e senza inventare (controlli: parole vietate,
+    nomi che non sono nell'articolo, frasi copiate). Se non passa i controlli il video non si fa e arriva un avviso.
+  - `foto.py`: foto solo di calciatori, allenatori, arbitri e squadre verificati su Wikidata, con licenza libera (mai NC) e credito nel video.
+    Una scena senza foto propria usa quella del protagonista; senza nessuna foto pertinente il video non si fa. Su Telegram arriva
+    il foglio di controllo con le foto usate.
+  - Workflow `video-automatici.yml` (lanciato dal bot: `/video`, `/n_codice`, `/copertina`) e `video-da-spec.yml` (scaletta scritta a mano in `video/spec/*.json`,
+    esempio in `video/esempio-spec-notizia.json`).
+  - Secret nel repo: `TELEGRAM_TOKEN`, `CHAT_ID`, `AZURE_SPEECH_KEY`, `AZURE_SPEECH_REGION`, `GEMINI_API_KEY`.
 - `worker/bot-telegram.js` è il bot Telegram (Cloudflare Worker) con i comandi `/radar`, `/video`, `/copertina`, `/oggi`,
   `/live`, `/risultati`, `/classifica`, `/coda`, `/aggiorna`, più il Cron Trigger che lancia l'aggiornamento ogni 10 minuti.
   Istruzioni di installazione in cima al file.

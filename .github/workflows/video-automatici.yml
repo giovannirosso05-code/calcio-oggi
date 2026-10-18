@@ -1,10 +1,13 @@
 name: Genera Video Calcio
 
+# Lanciato dal bot Telegram (/video, /n_..., /copertina) o a mano da Actions.
+# notizia-scelta: legge l'articolo, scrive la scaletta (Gemini), fa il video con voce Azure e sottotitoli a tempo e lo manda su Telegram.
+# copertina: solo la copertina.
 on:
   workflow_dispatch:
     inputs:
       cosa:
-        description: 'Tipo di operazione: notizia-scelta (copertina + video) o copertina'
+        description: 'notizia-scelta (video) oppure copertina'
         required: true
         default: 'notizia-scelta'
       url:
@@ -12,25 +15,23 @@ on:
         required: false
         default: ''
 
+concurrency:
+  group: video-calcio
+  cancel-in-progress: false
+
 jobs:
   crea-video:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
-      - name: Installa dipendenze di sistema (FFmpeg)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-
-      - name: Installa pacchetti Python
-        run: pip install -r requirements.txt
-
-      - name: Esegui generazione video e invio Telegram
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Genera e invia su Telegram
         env:
           INPUT_COSA: ${{ github.event.inputs.cosa }}
           INPUT_URL: ${{ github.event.inputs.url }}
@@ -38,4 +39,13 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m video.genera
+      - name: Avvisa su Telegram se il video non è riuscito
+        if: failure()
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT: ${{ secrets.CHAT_ID }}
+        run: |
+          [ -n "$TOKEN" ] && curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" -d chat_id="$CHAT" --data-urlencode "text=⚠️ Il video non è riuscito. Dettagli: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" > /dev/null || true

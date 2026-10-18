@@ -1,0 +1,45 @@
+{
+ "titolo_breve": "Lautaro: lo scudetto è l'obiettivo",
+ "scene": [
+  {
+   "foto": "Lautaro Martinez",
+   "hook": true,
+   "hook_titolo": "Lautaro punta allo scudetto",
+   "testo": "[Lautaro Martinez] punta dritto allo *scudetto* con l'[Inter]."
+  },
+  {
+   "foto": "Lautaro Martinez",
+   "testo": "Dopo la vittoria sul [Napoli] l'attaccante dice che la squadra ha *carattere*."
+  },
+  {
+   "foto": "Simone Inzaghi",
+   "testo": "L'allenatore [Simone Inzaghi] applaude il gruppo, ma ricorda che il campionato è ancora *lungo*."
+  },
+  {
+   "foto": "Napoli",
+   "testo": "Gli azzurri hanno perso e adesso devono rialzarsi in fretta, senza guardare la classifica."
+  },
+  {
+   "foto": "Inter",
+   "testo": "I nerazzurri vogliono continuare a vincere e tenere la testa della classifica ancora per molte settimane."
+  },
+  {
+   "foto": "Lautaro Martinez",
+   "testo": "Per il capitano contano il gruppo e la fame di vittorie, più dei numeri personali di questo inizio."
+  }
+ ],
+ "finale": {
+  "foto": "Lautaro Martinez",
+  "domanda": "L'Inter vince lo scudetto?"
+ },
+ "apertura": "Lautaro non si nasconde.",
+ "hashtag": [
+  "inter",
+  "lautaro"
+ ],
+ "serie": "Serie A",
+ "fonte": "TMW",
+ "url": "http://x",
+ "velocita": "+38%",
+ "etichetta": "Ultim'ora"
+}

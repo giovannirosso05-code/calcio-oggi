@@ -2,12 +2,8 @@
 foto a tutto schermo con sfumatura scura in basso, logo e badge ULTIM'ORA in alto a sinistra,
 titolone su box colorati, credito foto in basso a destra.
 """
-import io
-import re
-import time
 from pathlib import Path
 
-import requests
 from PIL import Image, ImageDraw, ImageFont
 
 LARGHEZZA, ALTEZZA = 1080, 1920
@@ -20,15 +16,6 @@ COLORE_BOX = (43, 217, 107)
 COLORE_TESTO_BOX = (20, 23, 28)
 SCURO = (20, 23, 28)
 
-UA = {"User-Agent": "CalcioOggi/1.0 (https://github.com/giovannirosso05-code/calcio-oggi)"}
-LICENZE_LIBERE = ("cc by", "cc0", "public domain", "pd")
-PAROLE_CALCIO = ("football", "footballer", "soccer", "calcio", "calciator")
-SQUADRE = ("inter", "milan", "juventus", "napoli", "roma", "lazio", "atalanta", "fiorentina", "bologna", "torino",
-           "genoa", "udinese", "lecce", "cagliari", "como", "parma", "sassuolo", "verona", "monza", "empoli",
-           "real madrid", "barcellona", "psg", "manchester city", "liverpool", "arsenal", "bayern", "chelsea")
-
-
-ULTIMO_FILE = ""   # solo per controllo a mano: quale file è stato scelto
 
 
 def font(dimensione: int):
@@ -38,61 +25,12 @@ def font(dimensione: int):
         return ImageFont.load_default()
 
 
-# ---------- Foto da Wikimedia Commons (solo licenze libere, solo se il nome è nel titolo del file) ----------
-def _candidati(titolo: str):
-    """Nomi da cercare: prima coppie di parole con la maiuscola (es. Lautaro Martinez), poi squadre note."""
-    parole = re.findall(r"[A-ZÀ-Ý][\wà-ÿ'’-]+", titolo)
-    coppie = [f"{a} {b}" for a, b in zip(parole, parole[1:])]
-    minuscolo = titolo.lower()
-    squadre = [s for s in SQUADRE if re.search(rf"\b{re.escape(s)}\b", minuscolo)]
-    return coppie[:2] + squadre[:2]
-
-
-def _pulisci(html: str) -> str:
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html or "")).strip()
-
-
+# ---------- Foto (solo persone e squadre di calcio verificate su Wikidata: vedi video/foto.py) ----------
 def cerca_foto(titolo: str):
-    """Restituisce (immagine PIL, credito) oppure (None, ''). Qualsiasi errore: nessuna foto, mai una foto a caso."""
-    global ULTIMO_FILE
-    ULTIMO_FILE = ""
-    for nome in _candidati(titolo):
-        try:
-            r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=20, params={
-                "action": "query", "format": "json", "generator": "search", "gsrsearch": nome,
-                "gsrnamespace": 6, "gsrlimit": 8, "prop": "imageinfo",
-                "iiprop": "url|extmetadata|size|mime", "iiurlwidth": 1400,
-            })
-            pagine = (r.json().get("query") or {}).get("pages") or {}
-        except (requests.RequestException, ValueError):
-            continue
-        parole_nome = [p for p in re.split(r"\s+", nome.lower()) if len(p) > 2]
-        for p in sorted(pagine.values(), key=lambda x: x.get("index", 99)):
-            info = (p.get("imageinfo") or [{}])[0]
-            meta = info.get("extmetadata") or {}
-            licenza = _pulisci((meta.get("LicenseShortName") or {}).get("value", ""))
-            titolo_file = p.get("title", "").lower()
-            if not info.get("thumburl") or info.get("mime") not in ("image/jpeg", "image/png"):
-                continue
-            if not any(licenza.lower().startswith(l) for l in LICENZE_LIBERE):
-                continue
-            if not all(w in titolo_file for w in parole_nome):
-                continue
-            if (info.get("width") or 0) < 700:
-                continue
-            # il nome nel titolo non basta (omonimi, foto di gruppo): la foto deve stare in categorie di calcio
-            categorie = _pulisci((meta.get("Categories") or {}).get("value", "")).lower()
-            if not any(k in categorie for k in PAROLE_CALCIO):
-                continue
-            try:
-                img = Image.open(io.BytesIO(requests.get(info["thumburl"], headers=UA, timeout=30).content)).convert("RGB")
-            except (requests.RequestException, OSError):
-                continue
-            autore = _pulisci((meta.get("Artist") or {}).get("value", "")) or "Wikimedia Commons"
-            ULTIMO_FILE = p.get("title", "")
-            return img, f"Foto: {autore[:40]} · {licenza} · Wikimedia Commons"
-        time.sleep(1)
-    return None, ""
+    """(immagine PIL, credito) oppure (None, '')."""
+    from video.foto import trova_per_titolo
+    f = trova_per_titolo(titolo)
+    return (Image.open(f["file"]).convert("RGB"), f["credito"]) if f else (None, "")
 
 
 # ---------- Disegno ----------

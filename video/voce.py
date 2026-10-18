@@ -25,7 +25,7 @@ def _parlato(testo: str) -> str:
     return " ".join(sistema(p) for p in testo.split())
 
 
-def _voce_azure(parlato: str, uscita: Path):
+def _voce_azure(parlato: str, uscita: Path, velocita: str | None = None):
     """Restituisce i tempi [(inizio, fine, parola)] in secondi. Solleva un errore se Azure non risponde."""
     import azure.cognitiveservices.speech as sdk
 
@@ -45,7 +45,7 @@ def _voce_azure(parlato: str, uscita: Path):
 
     sint.synthesis_word_boundary.connect(parola)
     ssml = ('<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="it-IT">'
-            f'<voice name="{VOCE}"><prosody rate="{RATE_AZURE}">{escape(parlato)}</prosody></voice></speak>')
+            f'<voice name="{VOCE}"><prosody rate="{velocita or RATE_AZURE}">{escape(parlato)}</prosody></voice></speak>')
     r = sint.speak_ssml_async(ssml).get()
     if r.reason != sdk.ResultReason.SynthesizingAudioCompleted:
         dettaglio = ""
@@ -55,13 +55,13 @@ def _voce_azure(parlato: str, uscita: Path):
     return tempi
 
 
-def _voce_edge(parlato: str, uscita: Path):
+def _voce_edge(parlato: str, uscita: Path, velocita: str | None = None):
     import edge_tts
 
     tempi = []
 
     async def _genera():
-        c = edge_tts.Communicate(parlato, VOCE, rate=RATE_EDGE, boundary="WordBoundary")
+        c = edge_tts.Communicate(parlato, VOCE, rate=velocita or RATE_EDGE, boundary="WordBoundary")
         with open(uscita, "wb") as f:
             async for pezzo in c.stream():
                 if pezzo["type"] == "audio":
@@ -74,19 +74,19 @@ def _voce_edge(parlato: str, uscita: Path):
     return tempi
 
 
-def _voce_riserva(parlato: str, uscita: Path):
+def _voce_riserva(parlato: str, uscita: Path, velocita: str | None = None):
     """Voce di Google, accelerata con ffmpeg. Niente tempi per parola: i sottotitoli si distribuiscono uniformi."""
     from gtts import gTTS
 
     grezzo = Path(str(uscita) + ".gtts.mp3")
     gTTS(parlato, lang="it").save(str(grezzo))
-    velocita = 1 + int(RATE_EDGE.strip("+%")) / 100
-    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(grezzo), "-filter:a", f"atempo={min(velocita, 2.0):.2f}", str(uscita)], check=True)
+    fattore = 1 + int((velocita or RATE_EDGE).strip("+%")) / 100
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(grezzo), "-filter:a", f"atempo={min(fattore, 2.0):.2f}", str(uscita)], check=True)
     grezzo.unlink(missing_ok=True)
     return []
 
 
-def crea_audio_con_tempi(testo: str, percorso_uscita: str | Path):
+def crea_audio_con_tempi(testo: str, percorso_uscita: str | Path, velocita: str | None = None):
     """(file audio, tempi, nome della voce usata). I tempi sono [(inizio, fine, parola)] in secondi."""
     uscita = Path(percorso_uscita)
     uscita.parent.mkdir(parents=True, exist_ok=True)
@@ -94,16 +94,16 @@ def crea_audio_con_tempi(testo: str, percorso_uscita: str | Path):
 
     if os.environ.get("AZURE_SPEECH_KEY") and os.environ.get("AZURE_SPEECH_REGION"):
         try:
-            return uscita, _voce_azure(parlato, uscita), f"Azure Speech ({VOCE})"
+            return uscita, _voce_azure(parlato, uscita, velocita), f"Azure Speech ({VOCE})"
         except Exception as errore:
             print(f"  [voce] Azure non risponde ({str(errore)[:80]}), provo Edge TTS", flush=True)
     else:
         print("  [voce] Azure non configurato (mancano AZURE_SPEECH_KEY / AZURE_SPEECH_REGION)", flush=True)
     try:
-        return uscita, _voce_edge(parlato, uscita), f"Edge TTS ({VOCE})"
+        return uscita, _voce_edge(parlato, uscita, velocita), f"Edge TTS ({VOCE})"
     except Exception as errore:
         print(f"  [voce] Edge TTS non risponde ({str(errore)[:60]}), uso la voce di riserva", flush=True)
-    return uscita, _voce_riserva(parlato, uscita), "riserva Google (gTTS)"
+    return uscita, _voce_riserva(parlato, uscita, velocita), "riserva Google (gTTS)"
 
 
 def crea_audio(testo: str, percorso_uscita: str | Path) -> Path:
