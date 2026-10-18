@@ -28,6 +28,7 @@ from video.voce import crea_audio_con_tempi
 QUI = Path(__file__).resolve().parent
 FONT = QUI / "fonts"
 LOGO = QUI.parent / "img" / "logo-orizzontale.png"
+LOGO_Q = QUI.parent / "img" / "logo-quadrato.png"   # il logo del profilo (pallone nella porta), in alto in tutti i video
 W, H = 1080, 1920
 COL, TXT, NOM, GIALLO = "#2bd96b", "#14171c", "#7ff0a8", "#ffd21f"   # colore del marchio, testo sui box, nomi, parole chiave
 RALLENTA = 0.97   # tutte le voci 3% più lente, come in GP Oggi
@@ -127,20 +128,20 @@ def pagina(spec, scena, foto_b64, credito, avanzamento, sub=None, nome=False, ho
 *{{box-sizing:border-box}} html,body{{margin:0;width:{W}px;height:{H}px;background:#0b0b0e;color:#fff;overflow:hidden;position:relative}}
 .bg{{position:absolute;inset:-60px;background:url(data:image/jpeg;base64,{foto_b64}) center 14%/cover no-repeat;filter:blur(38px) brightness(.5)}}
 .prog{{position:absolute;left:0;top:0;height:10px;width:100%;background:{COL}}}
-.c{{position:absolute;left:0;right:0;top:560px;text-align:center}} .c img{{width:560px}}
+.c{{position:absolute;left:0;right:0;top:520px;text-align:center}} .c img{{width:460px;border-radius:26px}}
 .q{{margin:70px 100px 0;font:700 80px/1.08 Oswald;text-transform:uppercase;-webkit-text-stroke:2px #000;paint-order:stroke fill}}
 .cm{{margin:34px 100px 0;font:700 50px/1.1 Oswald;text-transform:uppercase;color:{GIALLO};letter-spacing:.03em}}
 .u{{margin-top:50px;font:700 56px Oswald;color:{NOM};letter-spacing:.04em}}
 .n{{position:absolute;left:60px;right:60px;bottom:90px;text-align:center;font:500 22px Inter;color:rgba(255,255,255,.7)}}
-</style><div class=bg></div><div class=prog></div><div class=c><img src="data:image/png;base64,{logo}"><div class=q>{esc(finale)}</div><div class=cm>Dimmi la tua nei commenti</div><div class=u>@calciooggi</div></div>
+</style><div class=bg></div><div class=prog></div><div class=c><img src="data:image/png;base64,{b64(LOGO_Q)}"><div class=q>{esc(finale)}</div><div class=cm>Dimmi la tua nei commenti</div><div class=u>@calciooggi</div></div>
 <div class=n>Fonte: {esc(spec['fonte'])} · Sito non ufficiale, non affiliato a Serie A, UEFA, FIGC o ai club. {esc(spec.get('_crediti', ''))}</div>""")
     base = f"""<!doctype html><meta charset=utf-8><style>{CSS_FONT}
 *{{box-sizing:border-box}} html,body{{margin:0;width:{W}px;height:{H}px;background:#0b0b0e;color:#fff;font-family:Inter,sans-serif;overflow:hidden;position:relative}}
 .bg{{position:absolute;inset:0;background:url(data:image/jpeg;base64,{foto_b64}) {pos}/cover no-repeat}}
 .velo{{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.35) 0%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 45%,rgba(8,8,10,.92) 78%,#0b0b0e 100%)}}
 .prog{{position:absolute;left:0;top:0;height:10px;width:{avanzamento * 100:.1f}%;background:{COL}}}
-.logo{{position:absolute;left:50px;top:150px;width:300px}}
-.tag{{position:absolute;left:372px;top:160px;font:700 30px Oswald;letter-spacing:.06em;text-transform:uppercase;background:{COL};color:{TXT};padding:4px 16px;border-radius:6px}}
+.logo{{position:absolute;left:50px;top:150px;width:150px;height:150px;border-radius:14px}}
+.tag{{position:absolute;left:224px;top:200px;font:700 30px Oswald;letter-spacing:.06em;text-transform:uppercase;background:{COL};color:{TXT};padding:4px 16px;border-radius:6px}}
 .strip{{position:absolute;left:40px;top:300px;max-width:900px;background:{COL};color:{TXT};font:700 44px/1.1 Oswald;text-transform:uppercase;padding:10px 18px}}
 .nome{{position:absolute;left:60px;top:{spec.get('nome_top', 930)}px;background:#000;font:700 38px Oswald;text-transform:uppercase;letter-spacing:.04em;padding:6px 18px}}
 .sub{{position:absolute;left:90px;width:900px;top:{scena.get('sub_top', spec.get('sub_top', 1180))}px;text-align:center;font:700 62px/1.18 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill;text-shadow:0 4px 18px rgba(0,0,0,.7)}}
@@ -148,7 +149,7 @@ def pagina(spec, scena, foto_b64, credito, avanzamento, sub=None, nome=False, ho
 .cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.75);max-width:600px;text-align:right}}
 </style><div class=bg></div><div class=velo></div><div class=prog></div>"""
     etichetta = esc(spec.get("etichetta", "Ultim'ora"))
-    corpo = f'<img class=logo src="data:image/png;base64,{logo}"><div class=tag>{etichetta}</div>'
+    corpo = f'<img class=logo src="data:image/png;base64,{b64(LOGO_Q)}"><div class=tag>{etichetta}</div>'
     if hook:
         righe = "".join(f'<span style="display:inline-block;background:{COL};color:{TXT};padding:4px 16px;margin:4px 0">{esc(r.strip())}</span><br>'
                         for r in re.findall(r".{1,16}(?:\s|$)", spec["scene"][0]["hook_titolo"].upper()))
@@ -167,7 +168,7 @@ def pagina_tabella(spec, avanzamento, sub=None):
     """Schermata con tutti i risultati della giornata (spec["tabella"]); i sottotitoli stanno sotto, nella parte libera."""
     t = spec["tabella"]
     n_righe = sum(len(g["righe"]) for g in t["gruppi"])
-    riga_h = max(34, min(104, int((1330 - len(t["gruppi"]) * 62) / max(n_righe, 1))))
+    riga_h = max(34, min(104, int((1270 - len(t["gruppi"]) * 62) / max(n_righe, 1))))
     f = min(int(riga_h * 0.56), 48)
     logo = min(int(riga_h * 0.78), 84)
     corpo = ""
@@ -181,11 +182,11 @@ def pagina_tabella(spec, avanzamento, sub=None):
     return f"""<!doctype html><meta charset=utf-8><style>{CSS_FONT}
 *{{box-sizing:border-box}} html,body{{margin:0;width:{W}px;height:{H}px;background:#0b0b0e;color:#fff;font-family:Inter,sans-serif;overflow:hidden;position:relative}}
 .prog{{position:absolute;left:0;top:0;height:10px;width:{avanzamento * 100:.1f}%;background:{COL}}}
-.logo{{position:absolute;left:50px;top:110px;width:300px}}
-.tag{{position:absolute;left:372px;top:120px;font:700 30px Oswald;letter-spacing:.06em;text-transform:uppercase;background:{COL};color:{TXT};padding:4px 16px;border-radius:6px}}
-.tit{{position:absolute;left:40px;top:190px;background:{COL};color:{TXT};font:700 50px/1.1 Oswald;text-transform:uppercase;padding:8px 18px}}
+.logo{{position:absolute;left:50px;top:95px;width:130px;height:130px;border-radius:12px}}
+.tag{{position:absolute;left:204px;top:135px;font:700 30px Oswald;letter-spacing:.06em;text-transform:uppercase;background:{COL};color:{TXT};padding:4px 16px;border-radius:6px}}
+.tit{{position:absolute;left:40px;top:250px;background:{COL};color:{TXT};font:700 50px/1.1 Oswald;text-transform:uppercase;padding:8px 18px}}
 .tit small{{font-size:34px;margin-left:14px;opacity:.75}}
-.tab{{position:absolute;left:40px;right:40px;top:290px}}
+.tab{{position:absolute;left:40px;right:40px;top:350px}}
 .lega{{font:700 {int(riga_h * 0.6)}px/{int(riga_h * 1.1)}px Oswald;text-transform:uppercase;color:{COL};letter-spacing:.06em;margin-top:{int(riga_h * 0.25)}px;border-bottom:2px solid rgba(255,255,255,.18)}}
 .r{{display:flex;align-items:center;height:{riga_h}px;font:700 {f}px Oswald;text-transform:uppercase;border-bottom:1px solid rgba(255,255,255,.08)}}
 .r .c{{flex:1;min-width:0;text-align:right;padding-right:14px;white-space:nowrap;overflow:hidden}} .r .o{{flex:1;min-width:0;text-align:left;padding-left:14px;white-space:nowrap;overflow:hidden}}
@@ -194,7 +195,7 @@ def pagina_tabella(spec, avanzamento, sub=None):
 .sub{{position:absolute;left:90px;width:900px;top:1690px;text-align:center;font:700 58px/1.15 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill}}
 .sub .g{{color:{GIALLO}}} .sub .s{{color:{NOM}}}
 .cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.7)}}
-</style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
+</style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO_Q)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
 <div class=tit>Risultati della giornata<small>{esc(t["data"])}</small></div><div class=tab>{corpo}</div>{sub_html}<div class=cred>Dati: {esc(spec["fonte"])}</div>"""
 
 
@@ -289,7 +290,7 @@ def scheda(url_casa, url_ospite, gc=None, go=None):
 def pagina_classifica(spec, avanzamento, sub=None):
     """Classifica con partite giocate e punti; * = squadra che ha ancora una partita da giocare in questa giornata."""
     c = spec["classifica"]
-    riga_h = min(62, int(1320 / max(len(c["righe"]), 1)))
+    riga_h = min(58, int(1230 / max(len(c["righe"]), 1)))
     f = min(int(riga_h * 0.56), 36)
     logo = int(riga_h * 0.8)
     righe = ""
@@ -302,10 +303,10 @@ def pagina_classifica(spec, avanzamento, sub=None):
     return f"""<!doctype html><meta charset=utf-8><style>{CSS_FONT}
 *{{box-sizing:border-box}} html,body{{margin:0;width:{W}px;height:{H}px;background:#0b0b0e;color:#fff;font-family:Inter,sans-serif;overflow:hidden;position:relative}}
 .prog{{position:absolute;left:0;top:0;height:10px;width:{avanzamento * 100:.1f}%;background:{COL}}}
-.logo{{position:absolute;left:50px;top:110px;width:300px}}
-.tag{{position:absolute;left:372px;top:120px;font:700 30px Oswald;letter-spacing:.06em;text-transform:uppercase;background:{COL};color:{TXT};padding:4px 16px;border-radius:6px}}
-.tit{{position:absolute;left:40px;top:190px;background:{COL};color:{TXT};font:700 50px/1.1 Oswald;text-transform:uppercase;padding:8px 18px}}
-.tab{{position:absolute;left:40px;right:40px;top:285px}}
+.logo{{position:absolute;left:50px;top:95px;width:130px;height:130px;border-radius:12px}}
+.tag{{position:absolute;left:204px;top:135px;font:700 30px Oswald;letter-spacing:.06em;text-transform:uppercase;background:{COL};color:{TXT};padding:4px 16px;border-radius:6px}}
+.tit{{position:absolute;left:40px;top:250px;background:{COL};color:{TXT};font:700 50px/1.1 Oswald;text-transform:uppercase;padding:8px 18px}}
+.tab{{position:absolute;left:40px;right:40px;top:345px}}
 .h{{display:flex;align-items:center;height:44px;font:700 26px Oswald;color:rgba(255,255,255,.55);text-transform:uppercase;letter-spacing:.08em;border-bottom:2px solid rgba(255,255,255,.18)}}
 .h .n{{flex:1;padding-left:{logo + 78}px}} .h .g,.h b{{width:120px;text-align:center;font-weight:700}}
 .r{{display:flex;align-items:center;height:{riga_h}px;font:700 {f}px Oswald;text-transform:uppercase;border-bottom:1px solid rgba(255,255,255,.08);position:relative}}
@@ -313,11 +314,11 @@ def pagina_classifica(spec, avanzamento, sub=None):
 .r img,.r i{{flex:none;width:{logo}px;height:{logo}px;object-fit:contain;background:#f1f4f2;border-radius:50%;padding:{max(2, int(logo * 0.1))}px;margin-right:18px}}
 .r .n{{flex:1;white-space:nowrap;overflow:hidden}} .r sup{{color:{GIALLO};font-size:{int(f * 1.1)}px;margin-left:4px}}
 .r .g{{width:120px;text-align:center;color:rgba(255,255,255,.8)}} .r b{{width:120px;text-align:center;color:{GIALLO};font-size:{int(f * 1.15)}px}}
-.nota{{position:absolute;left:40px;top:{285 + 44 + len(c["righe"]) * riga_h + 18}px;font:500 24px Inter;color:rgba(255,255,255,.65)}}
+.nota{{position:absolute;left:40px;top:{345 + 44 + len(c["righe"]) * riga_h + 18}px;font:500 24px Inter;color:rgba(255,255,255,.65)}}
 .sub{{position:absolute;left:90px;width:900px;top:1690px;text-align:center;font:700 58px/1.15 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill}}
 .sub .g{{color:{GIALLO}}} .sub .s{{color:{NOM}}}
 .cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.7)}}
-</style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
+</style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO_Q)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
 <div class=tit>Classifica<small style="font-size:34px;margin-left:14px;opacity:.75">Serie A</small></div>
 <div class=tab><div class=h><span class=n>Squadra</span><span class=g>G</span><b>Pt</b></div>{righe}</div>
 <div class=nota>{esc(c.get("nota", ""))}</div>{sub_html}<div class=cred>Dati: {esc(spec["fonte"])}</div>"""

@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw, ImageFont
 LARGHEZZA, ALTEZZA = 1080, 1920
 RADICE = Path(__file__).resolve().parent.parent
 FONT = RADICE / "video" / "fonts" / "Oswald-Bold.ttf"
-LOGO = RADICE / "img" / "logo-orizzontale.png"
+LOGO = RADICE / "img" / "logo-quadrato.png"   # il logo del profilo, in alto
 
 # Colori del marchio (gli stessi del logo): per passare al blu di GP Oggi basta cambiare queste due righe
 COLORE_BOX = (43, 217, 107)
@@ -84,14 +84,16 @@ def crea_copertina(titolo: str, fonte: str = "", serie: str = "", foto=None, cre
 
     # in alto a sinistra: logo e badge (sotto la fascia coperta dall'interfaccia di Instagram/TikTok)
     if LOGO.exists():
-        logo = Image.open(LOGO).convert("RGBA")
-        logo = logo.resize((340, int(logo.height * 340 / logo.width)), Image.LANCZOS)
-        img.alpha_composite(logo, (60, 250))
+        logo = Image.open(LOGO).convert("RGBA").resize((250, 250), Image.LANCZOS)
+        mask = Image.new("L", (250, 250), 0)
+        ImageDraw.Draw(mask).rounded_rectangle([0, 0, 249, 249], radius=22, fill=255)
+        logo.putalpha(mask)
+        img.alpha_composite(logo, (60, 235))
     fb = font(34)
     etichetta = "ULTIM'ORA"
     larg = int(fb.getlength(etichetta)) + 50
-    d.rectangle([60, 350, 60 + larg, 350 + 62], fill=COLORE_BOX)
-    d.text((60 + 25, 350 + 31), etichetta, font=fb, fill=COLORE_TESTO_BOX, anchor="lm")
+    d.rectangle([330, 330, 330 + larg, 330 + 62], fill=COLORE_BOX)
+    d.text((330 + 25, 330 + 31), etichetta, font=fb, fill=COLORE_TESTO_BOX, anchor="lm")
 
     # titolone su box, allineato a sinistra: la dimensione scende finché sta in 4 righe
     massimo = LARGHEZZA - 120
