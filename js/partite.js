@@ -1,4 +1,4 @@
-import { logoLega, esc, montaPagina, partiteLive, giornoRoma, oggiRoma, dataSolo, spostaGiorno, elencoPerLega, messaggioErrore } from "./common.js?v=12";
+import { logoLega, esc, montaPagina, partiteLive, giornoRoma, oggiRoma, dataSolo, spostaGiorno, elencoPerLega, messaggioErrore } from "./common.js?v=15";
 
 montaPagina("partite.html");
 

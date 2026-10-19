@@ -25,6 +25,37 @@ def vicina(p, adesso, grande=False):
     return timedelta(0) <= quando - adesso < timedelta(hours=3)
 
 
+STAT_VOTO = ("totalGoals", "goalAssists", "totalShots", "shotsOnTarget", "saves", "yellowCards", "redCards", "ownGoals", "foulsCommitted", "goalsConceded")
+
+
+def _minuto(t):
+    """"45'+2'" -> 47"""
+    import re
+    n = [int(x) for x in re.findall(r"\d+", t or "")]
+    return n[0] + (n[1] if len(n) > 1 else 0) if n else None
+
+
+def voto(g, minuti, ruolo, gol_fatti, gol_subiti):
+    """Voto statistico 4-9 (passo 0,5) calcolato SOLO da numeri della partita: non è il giudizio di un giornalista. 15 minuti o meno: nessun voto (S.V.)."""
+    if minuti is None or minuti <= 15:
+        return None
+    s = g.get("s", {})
+    v = 6.0 + min(s.get("totalGoals", 0), 3) * 1.0 + s.get("goalAssists", 0) * 0.7 + s.get("shotsOnTarget", 0) * 0.1
+    v -= s.get("yellowCards", 0) * 0.3 + s.get("redCards", 0) * 1.5 + s.get("ownGoals", 0) * 1.0
+    if s.get("foulsCommitted", 0) >= 4:
+        v -= 0.2
+    if ruolo == "G":
+        v += s.get("saves", 0) * 0.25
+    if ruolo == "G" or (("B" in ruolo or "D" in ruolo) and "M" not in ruolo):
+        if gol_subiti == 0 and minuti >= 60:
+            v += 0.4
+        elif gol_subiti >= 3:
+            v -= 0.4
+    v += 0.3 if gol_fatti > gol_subiti else -0.3 if gol_fatti < gol_subiti else 0
+    v = 6.0 + (v - 6.0) * min(1.0, minuti / 60)      # chi gioca poco pesa meno
+    return round(max(4.0, min(9.0, v)) * 2) / 2
+
+
 def dettaglio(p):
     d = scarica(SUMMARY.format(lega=p["lega"]), event=p["id"])
     if not d:
@@ -45,8 +76,37 @@ def dettaglio(p):
         rose.append({"sq": r["team"]["id"], "modulo": r.get("formation") or "", "giocatori": [
             {"id": (x.get("athlete") or {}).get("id"), "nome": (x.get("athlete") or {}).get("displayName", ""), "breve": (x.get("athlete") or {}).get("shortName", ""),
              "num": x.get("jersey"), "pos": (x.get("position") or {}).get("abbreviation", ""), "tit": bool(x.get("starter")), "posto": x.get("formationPlace"),
-             "entra": bool(x.get("subbedIn")), "esce": bool(x.get("subbedOut"))} for x in r.get("roster") or []]})
-    return p["id"], {"eventi": eventi, "stat": stat, "rose": rose, "stadio": ((d.get("gameInfo") or {}).get("venue") or {}).get("fullName", "")}
+             "entra": bool(x.get("subbedIn")), "esce": bool(x.get("subbedOut")),
+             "s": {st["name"]: st.get("value") for st in x.get("stats") or [] if st.get("name") in STAT_VOTO and st.get("value")}} for x in r.get("roster") or []]})
+    # minuti giocati e voto statistico
+    esce, entra, rosso = {}, {}, {}
+    for e in eventi:
+        m = _minuto(e["min"])
+        if "substitution" in e["t"] and len(e["chi"]) == 2 and m is not None:
+            entra[e["chi"][0]["id"]] = m
+            esce[e["chi"][1]["id"]] = m
+        elif "red" in e["t"] and e["chi"] and m is not None:
+            rosso[e["chi"][0]["id"]] = m
+    gol = {str(c["id"]): c.get("gol") for c in (p["casa"], p["ospite"])}
+    altro = {str(p["casa"]["id"]): str(p["ospite"]["id"]), str(p["ospite"]["id"]): str(p["casa"]["id"])}
+    if p["stato"] == "post" and all(gol.get(k) is not None for k in gol):
+        for r in rose:
+            fatti, subiti = gol.get(str(r["sq"])), gol.get(altro.get(str(r["sq"])))
+            for g in r["giocatori"]:
+                if g["tit"]:
+                    inizio = 0
+                elif g["id"] in entra:
+                    inizio = entra[g["id"]]
+                else:
+                    g["min"] = 0
+                    continue
+                fine = min(x for x in (esce.get(g["id"]), rosso.get(g["id"]), 90) if x is not None)
+                g["min"] = max(0, fine - inizio)
+                g["v"] = voto(g, g["min"], g["pos"], fatti or 0, subiti or 0)
+    for r in rose:
+        for g in r["giocatori"]:
+            g.pop("s", None)
+    return p["id"], {"vv": 2, "eventi": eventi, "stat": stat, "rose": rose, "stadio": ((d.get("gameInfo") or {}).get("venue") or {}).get("fullName", "")}
 
 
 SCHEDULE = "https://site.api.espn.com/apis/site/v2/sports/soccer/all/teams/{id}/schedule"
@@ -96,7 +156,7 @@ def main():
     except (OSError, ValueError):
         pass
     # una partita finita con i dettagli già salvati non si riscarica
-    gia = [(p["id"], vecchi[p["id"]]) for p in scelte if p["stato"] == "post" and p["id"] in vecchi and vecchi[p["id"]].get("rose")]
+    gia = [(p["id"], vecchi[p["id"]]) for p in scelte if p["stato"] == "post" and p["id"] in vecchi and vecchi[p["id"]].get("vv") == 2]
     da_fare = [p for p in scelte if p["id"] not in dict(gia)]
     with ThreadPoolExecutor(max_workers=8) as pool:
         risultati = gia + [r for r in pool.map(dettaglio, da_fare) if r]
