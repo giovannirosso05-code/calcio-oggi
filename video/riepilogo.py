@@ -64,9 +64,12 @@ def _logo(url, cache={}):
     """Logo scaricato e rimpicciolito, come data URI (la pagina del video non deve aspettare la rete)."""
     if url not in cache:
         try:
-            r = requests.get(url, headers=UA, timeout=20)
-            r.raise_for_status()
-            im = Image.open(io.BytesIO(r.content)).convert("RGBA")
+            if url and not url.startswith("http"):   # stemmi nostri nel repo (es. img/squadre/105.png)
+                im = Image.open(RADICE / url).convert("RGBA")
+            else:
+                r = requests.get(url, headers=UA, timeout=20)
+                r.raise_for_status()
+                im = Image.open(io.BytesIO(r.content)).convert("RGBA")
             im.thumbnail((72, 72), Image.LANCZOS)
             buf = io.BytesIO(); im.save(buf, "PNG")
             cache[url] = "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode()
@@ -366,4 +369,174 @@ def da_giornata(oggi=None, testo=None, solo_scheda=()) -> dict:
     for k in solo_scheda:   # scelte tue: «in questa scena niente foto» (i numeri sono quelli delle anteprime)
         if 1 <= int(k) <= len(tutte_le_scene):
             tutte_le_scene[int(k) - 1]["solo_scheda"] = True
+    return risultato
+
+
+# =====================================================================================================================
+# Riepilogo sui 5 campionati principali: tutti i risultati e le 5 classifiche con i cambi di posizione delle ultime partite
+# =====================================================================================================================
+TOP5 = [("ita.1", "Serie A"), ("eng.1", "Premier League"), ("esp.1", "LaLiga"), ("ger.1", "Bundesliga"), ("fra.1", "Ligue 1")]
+ORD = ("prima seconda terza quarta quinta sesta settima ottava nona decima undicesima dodicesima tredicesima quattordicesima quindicesima "
+       "sedicesima diciassettesima diciottesima diciannovesima ventesima").split()
+
+
+def partite_oggi(oggi=None):
+    """(giorno, [partite finite dei 5 campionati], etichetta): quelle di oggi; se oggi ne sono finite meno di 6 si aggiungono quelle di ieri
+    (di sera tardi o a inizio settimana le partite di oggi sono poche). ErroreScaletta se in tutto sono meno di 3."""
+    oggi = oggi or datetime.now(ROMA).date()
+    nomi = dict(TOP5)
+    tutte = [p for p in _dati()["partite"] if p["lega"] in nomi and p.get("stato") == "post"]
+    fatte = [p for p in tutte if _giorno_roma(p) == oggi]
+    etichetta = "di oggi"
+    if len(fatte) < 6:
+        fatte = [p for p in tutte if oggi - timedelta(days=1) <= _giorno_roma(p) <= oggi]
+        etichetta = "di ieri e di oggi"
+    for p in fatte:
+        p["_lega"] = nomi[p["lega"]]
+    if len(fatte) < 3:
+        raise ErroreScaletta(f"Ho solo {len(fatte)} partite finite dei 5 campionati principali ({etichetta}): per un riepilogo ne servono almeno 3.")
+    return oggi, fatte, etichetta
+
+
+def _tabella_lega(lega):
+    try:
+        c = next(c for c in json.loads((RADICE / "data" / "classifiche.json").read_text(encoding="utf-8"))["classifiche"] if c["lega"] == lega)
+        return c["gruppi"][0]["righe"]
+    except (OSError, ValueError, StopIteration, KeyError, IndexError):
+        return []
+
+
+def posizioni_prima(righe, partite_lega):
+    """{id squadra: posizione prima di queste partite}: dalla classifica attuale si tolgono punti e gol delle partite finite considerate.
+    Ordine: punti, differenza reti, gol fatti (a pari merito resta la posizione attuale: può differire dallo spareggio ufficiale)."""
+    dati = {r["squadra"]["id"]: {"pt": r["pt"], "gf": r["gf"], "gs": r["gs"], "pos": r["pos"]} for r in righe}
+    for p in partite_lega:
+        c, o = p["casa"], p["ospite"]
+        if c["id"] not in dati or o["id"] not in dati:
+            continue
+        gc, go = c["gol"], o["gol"]
+        for t, mio, suo in ((c, gc, go), (o, go, gc)):
+            d = dati[t["id"]]
+            d["pt"] -= 3 if mio > suo else 1 if mio == suo else 0
+            d["gf"] -= mio
+            d["gs"] -= suo
+    ordine = sorted(dati, key=lambda i: (-dati[i]["pt"], -(dati[i]["gf"] - dati[i]["gs"]), -dati[i]["gf"], dati[i]["pos"]))
+    return {i: n + 1 for n, i in enumerate(ordine)}
+
+
+def classifiche_oggi(partite):
+    """[{lega, titolo, classifica_dati, movimenti}] per i campionati con partite finite; `movimenti` = [(squadra, pos prima, pos ora)] solo per chi ha giocato."""
+    out = []
+    for lega, nome in TOP5:
+        giocate = [p for p in partite if p["lega"] == lega]
+        righe = _tabella_lega(lega)
+        if not giocate or not righe:
+            continue
+        prima = posizioni_prima(righe, giocate)
+        hanno_giocato = {t["id"] for p in giocate for t in (p["casa"], p["ospite"])}
+        out_righe, mov = [], []
+        for r in righe:
+            sid = r["squadra"]["id"]
+            var = (prima.get(sid, r["pos"]) - r["pos"]) if sid in hanno_giocato else 0
+            zona = (r.get("zona") or {}).get("testo", "").lower()
+            out_righe.append({"pos": r["pos"], "nome": vis(r["squadra"]["breve"]), "logo": _logo(r["squadra"].get("logo", "")), "g": r["g"], "pt": r["pt"],
+                              "zona": "champions" if "champions" in zona else "europa" if ("europa" in zona or "conference" in zona) else "retro" if "retroc" in zona else "",
+                              "var": var})
+            if var:
+                mov.append((vis(r["squadra"]["breve"]), prima[sid], r["pos"]))
+        mov.sort(key=lambda m: -abs(m[1] - m[2]))
+        out.append({"lega": lega, "titolo": nome, "classifica_dati": {"righe": out_righe, "nota": "▲▼ posizioni guadagnate o perse con queste partite"}, "movimenti": mov})
+    return out
+
+
+def _ord(n):
+    return ORD[n - 1] if 1 <= n <= 20 else f"{n}ª"
+
+
+def prompt_oggi(tutte, cl, etichetta="di oggi", errori=None):
+    risultati = "\n".join(f"- {p['_lega']}: {vis(p['casa']['breve'])} {p['casa']['gol']}-{p['ospite']['gol']} {vis(p['ospite']['breve'])}" for p in tutte)
+    blocchi = []
+    for c in cl:
+        righe = "\n".join(f"  - {s}: dalla {_ord(a)} posizione alla {_ord(b)}" for s, a, b in c["movimenti"][:4]) or "  - nessun cambio di posizione"
+        primi = ", ".join(f"{r['pos']}. {r['nome']} ({r['pt']} pt)" for r in c["classifica_dati"]["righe"][:3])
+        blocchi.append(f"{c['titolo']} (chiave «{c['lega']}») — primi tre: {primi}\n  CAMBI DI POSIZIONE (i più grandi, dovuti a queste partite):\n{righe}")
+    return (
+        "Sei l'autore dei video di Calcio Oggi, canale italiano di calcio senza volto (solo foto, sottotitoli e voce sintetica). "
+        f"Scrivi il testo del video RIEPILOGO sui 5 campionati principali ({etichetta}): gancio, schermata con tutti i risultati, poi le 5 classifiche (una per campionato) con un breve commento sui cambi di posizione più clamorosi.\n\n"
+        "REGOLE OBBLIGATORIE\n"
+        "- Usa SOLO i dati qui sotto. Mai inventare motivi, giudizi sui giocatori, infortuni, precedenti, obiettivi di stagione, punti.\n"
+        "- Ogni risultato in cifre deve essere IDENTICO a uno dei risultati qui sotto. Le posizioni si dicono solo come nei CAMBI DI POSIZIONE (es. «dalla nona alla sesta posizione»), scritte in lettere.\n"
+        "- Per ogni campionato commenta 1 o 2 cambi (i più grandi della lista) in 14-24 parole; se non ci sono cambi, di' chi guida la classifica. Puoi usare «salta», «scende», «scivola», «risale», «balza»: l'enfasi è permessa perché sono dati.\n"
+        "- Parole SEMPLICI e dirette come al bar. VIETATI gergo e metafore: «a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show».\n"
+        "- Niente quote, pronostici, scommesse, premi, soldi. Nessun insulto. Nessuna colpa senza fonte.\n"
+        "- hook_testo: UNA frase di 10-16 parole col risultato o il cambio più clamoroso, dai dati. tabella_testo: 1 frase, 12-20 parole, su un risultato dei dati (la voce fissa «Questi sono i risultati» viene prima).\n"
+        "- *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = squadre.\n"
+        "- hook_foto: il nome di UNA squadra dei dati. finale.foto: una squadra dei dati. finale.domanda: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote.\n"
+        "- apertura: una frase forte per la didascalia. hashtag: 3 o 4 parole senza #.\n\n"
+        "RISULTATI\n" + risultati + "\n\nCLASSIFICHE E CAMBI\n" + "\n".join(blocchi) + "\n\n"
+        + (("ERRORI DELLA VERSIONE PRECEDENTE, correggili: " + "; ".join(errori) + "\n\n") if errori else "")
+        + 'Rispondi SOLO con JSON valido: {"hook_titolo": "max 38 caratteri", "hook_testo": "...", "hook_foto": "squadra", "tabella_testo": "...", '
+        '"classifiche": {"ita.1": "...", "eng.1": "...", "esp.1": "...", "ger.1": "...", "fra.1": "..."}, "finale": {"foto": "squadra", "domanda": "..."}, "apertura": "...", "hashtag": ["...", "..."]}'
+    )
+
+
+def controlla_oggi(spec, tutte, cl):
+    errori = []
+    if not spec.get("hook_testo") or not spec.get("hook_titolo") or len(spec["hook_titolo"]) > 42:
+        errori.append("hook_testo e hook_titolo (max 38 caratteri) obbligatori")
+    if not (spec.get("finale") or {}).get("domanda"):
+        errori.append("manca finale.domanda")
+    testi = {"hook_testo": spec.get("hook_testo", ""), "tabella_testo": spec.get("tabella_testo", "")}
+    comm = spec.get("classifiche") or {}
+    for c in cl:
+        t = comm.get(c["lega"], "")
+        n = len(re.sub(r"[*\[\]]", "", t).split())
+        if not 10 <= n <= 32:
+            errori.append(f"commento «{c['lega']}»: {n} parole, ne servono 14-24")
+        testi["c_" + c["lega"]] = t
+    tutto = json.dumps(spec, ensure_ascii=False)
+    if VIETATE.search(tutto):
+        errori.append("contiene parole vietate")
+    if GERGO.search(tutto):
+        errori.append("contiene gergo o modi di dire (" + ", ".join(sorted({m.group(0).lower() for m in GERGO.finditer(tutto)})) + ")")
+    veri = {f"{p['casa']['gol']}-{p['ospite']['gol']}" for p in tutte} | {f"{p['ospite']['gol']}-{p['casa']['gol']}" for p in tutte}
+    for t in testi.values():
+        for m in re.findall(r"\d+\s*[-–a]\s*\d+", t):
+            if re.sub(r"\s*[–a]\s*", "-", m.replace(" ", "")) not in veri:
+                errori.append(f"il risultato «{m}» non è tra quelli dei dati")
+    nomi = {_norm(x) for p in tutte for x in (p["casa"]["breve"], p["casa"]["nome"], p["ospite"]["breve"], p["ospite"]["nome"], vis(p["casa"]["breve"]), vis(p["ospite"]["breve"]))}
+    for f in (spec.get("hook_foto", ""), (spec.get("finale") or {}).get("foto", "")):
+        if not f or _norm(f) not in nomi:
+            errori.append(f"la foto «{f}» non è una squadra dei dati")
+    return list(dict.fromkeys(errori))
+
+
+def da_oggi(oggi=None, testo=None) -> dict:
+    """Spec del video «Riepilogo» sui 5 campionati (per notizia_sub.genera), oppure ErroreScaletta."""
+    giorno, tutte, etichetta = partite_oggi(oggi)
+    cl = classifiche_oggi(tutte)
+    errori, spec = None, testo
+    if testo:
+        errori = controlla_oggi(spec, tutte, cl)
+        if errori:
+            raise ErroreScaletta("Il testo fissato non passa più i controlli (" + "; ".join(errori[:3]) + ").")
+    for _ in range(0 if testo else 3):
+        spec = chiedi(prompt_oggi(tutte, cl, etichetta, errori))
+        errori = controlla_oggi(spec, tutte, cl)
+        if not errori:
+            break
+    if errori:
+        raise ErroreScaletta("Non sono riuscito a scrivere un riepilogo che rispetti le regole (" + "; ".join(errori[:3]) + "): il video non l'ho fatto.")
+    scene = [_scena(spec["hook_foto"], tutte, hook=True, hook_titolo=spec["hook_titolo"], testo=spec["hook_testo"]),
+             {"foto": "", "tabella": True, "testo": f"Questi sono i risultati {etichetta}. " + spec["tabella_testo"], "durata_min": 6.0}]
+    for c in cl:
+        scene.append({"foto": "", "classifica": True, "classifica_dati": {**c["classifica_dati"], "titolo": c["titolo"]},
+                      "testo": f"{c['titolo']}. " + spec["classifiche"][c["lega"]], "durata_min": 6.0})
+    tab = tabella(giorno, tutte)
+    tab["data"] = etichetta.replace("di ", "")
+    risultato = {"serie": "Serie A", "titolo_breve": "Riepilogo sui 5 campionati", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
+                 "scene": scene, "finale": _scena(spec["finale"]["foto"], tutte, domanda=spec["finale"]["domanda"]),
+                 "apertura": spec.get("apertura", "Il riepilogo di oggi"), "hashtag": spec.get("hashtag", []),
+                 "tabella": tab, "classifica": cl[0]["classifica_dati"], "url": "", "solo_espn": True}
+    risultato["_testo"] = {k: v for k, v in spec.items()}
     return risultato

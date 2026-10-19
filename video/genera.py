@@ -22,7 +22,7 @@ from video.copertina_ai import genera_sfondo
 from video.grafica import crea_copertina
 from video.immagini import Banca
 from video.notizia_sub import NessunaFoto, genera
-from video.riepilogo import da_giornata
+from video.riepilogo import da_giornata, da_oggi
 from video.scaletta import ErroreScaletta, da_notizia
 
 RADICE = Path(__file__).resolve().parent.parent
@@ -146,6 +146,10 @@ def main():
         if cosa == "spec":
             spec = json.loads(Path(dati).read_text(encoding="utf-8"))
             nome = Path(dati).stem
+        elif cosa == "riepilogo-oggi":   # risultati di oggi dei 5 campionati principali + 5 classifiche con i cambi di posizione
+            fisso = json.loads(Path(dati).read_text(encoding="utf-8")) if dati.endswith(".json") else {}
+            spec = da_oggi(testo=fisso.get("testo"))
+            nome = "riepilogo-oggi"
         elif cosa == "riepilogo":
             # url (facoltativo): percorso di un file .json con "testo" (testo già approvato) e/o "solo_scheda": [numeri di scena senza foto]
             fisso = json.loads(Path(dati).read_text(encoding="utf-8")) if dati.endswith(".json") else {}
@@ -165,7 +169,7 @@ def main():
         scrivi(f"⚠️ {errore}")
         print("video non fatto:", errore)
         return
-    if cosa == "riepilogo":   # il testo letto dalla voce, per controllarlo (e per poterlo correggere e rifare il video con quel testo)
+    if cosa in ("riepilogo", "riepilogo-oggi"):   # il testo letto dalla voce, per controllarlo (e per poterlo correggere e rifare il video con quel testo)
         testo = "\n".join(re.sub(r"[*\[\]]", "", s["testo"]) for s in spec["scene"]) + "\n" + spec["finale"].get("domanda", "")
         print("[testo del video]\n" + testo, flush=True)
         print("[testo json]" + json.dumps(spec.get("_testo", {}), ensure_ascii=False), flush=True)

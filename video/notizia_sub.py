@@ -325,7 +325,9 @@ def pagina_classifica(spec, avanzamento, sub=None):
     for r in c["righe"]:
         zona = {"champions": "#2bd96b", "europa": "#4da3ff", "retro": "#ff5a5f"}.get(r.get("zona", ""), "transparent")
         lg = f'<img src="{r["logo"]}">' if r["logo"] else "<i></i>"
-        righe += (f'<div class=r><em style="background:{zona}"></em><span class=p>{r["pos"]}</span>{lg}<span class=n>{esc(r["nome"])}{"<sup>*</sup>" if r["asterisco"] else ""}</span>'
+        var = r.get("var", 0)
+        freccia = (f'<span class="v su">▲{var}</span>' if var > 0 else f'<span class="v giu">▼{-var}</span>' if var < 0 else '<span class=v></span>')
+        righe += (f'<div class=r><em style="background:{zona}"></em><span class=p>{r["pos"]}</span>{lg}<span class=n>{esc(r["nome"])}{"<sup>*</sup>" if r.get("asterisco") else ""}</span>{freccia}'
                   f'<span class=g>{r["g"]}</span><b>{r["pt"]}</b></div>')
     sub_html = ('<div class=sub>' + " ".join(f'<span class="{fl}">{esc(w)}</span>' for w, fl in sub) + '</div>') if sub else ""
     return f"""<!doctype html><meta charset=utf-8><style>{CSS_FONT}
@@ -340,6 +342,7 @@ def pagina_classifica(spec, avanzamento, sub=None):
 .r{{display:flex;align-items:center;height:{riga_h}px;font:700 {f}px Oswald;text-transform:uppercase;border-bottom:1px solid rgba(255,255,255,.08);position:relative}}
 .r em{{width:8px;height:{int(riga_h * 0.7)}px;border-radius:3px;margin-right:14px}} .r .p{{width:50px;color:rgba(255,255,255,.6)}}
 .r img,.r i{{flex:none;width:{logo}px;height:{logo}px;object-fit:contain;background:#f1f4f2;border-radius:50%;padding:{max(2, int(logo * 0.1))}px;margin-right:18px}}
+.r .v{{flex:none;width:{int(f * 2.6)}px;text-align:center;font-size:{int(f * 0.8)}px}} .r .v.su{{color:#2bd96b}} .r .v.giu{{color:#ff5a5f}}
 .r .n{{flex:1;white-space:nowrap;overflow:hidden}} .r sup{{color:{GIALLO};font-size:{int(f * 1.1)}px;margin-left:4px}}
 .r .g{{width:120px;text-align:center;color:rgba(255,255,255,.8)}} .r b{{width:120px;text-align:center;color:{GIALLO};font-size:{int(f * 1.15)}px}}
 .nota{{position:absolute;left:40px;top:{345 + 44 + len(c["righe"]) * riga_h + 18}px;font:500 24px Inter;color:rgba(255,255,255,.65)}}
@@ -347,7 +350,7 @@ def pagina_classifica(spec, avanzamento, sub=None):
 .sub .g{{color:{NOM}}} .sub .s{{color:{NOM}}}
 .cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.7)}}
 </style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO_Q)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
-<div class=tit>Classifica<small style="font-size:34px;margin-left:14px;opacity:.75">Serie A</small></div>
+<div class=tit>Classifica<small style="font-size:34px;margin-left:14px;opacity:.75">{esc(c.get("titolo", "Serie A"))}</small></div>
 <div class=tab><div class=h><span class=n>Squadra</span><span class=g>G</span><b>Pt</b></div>{righe}</div>
 <div class=nota>{esc(c.get("nota", ""))}</div>{sub_html}<div class=cred>Dati: {esc(spec["fonte"])}</div>"""
 
@@ -491,7 +494,7 @@ async def genera(spec, uscita, banca):
                     fine = s["ini"] + gruppi[gi + 1][1] if gi + 1 < len(gruppi) else fine_scena
                     sub_ = [s["tok"][j] for j in ids]
                     q = await scatta(pagina_tabella(spec, ini / totale, sub=sub_) if s["s"].get("tabella")
-                                     else pagina_classifica(spec, ini / totale, sub=sub_) if s["s"].get("classifica")
+                                     else pagina_classifica(dict(spec, classifica=s["s"].get("classifica_dati") or spec["classifica"]), ini / totale, sub=sub_) if s["s"].get("classifica")
                                      else pagina(spec, s["s"], fb, cred, ini / totale, sub=sub_, nome=(ini - s["ini"]) < 3.0))
                     quadri.append((q, ini, fine))
             await b.close()
