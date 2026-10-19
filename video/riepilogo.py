@@ -24,6 +24,8 @@ ORDINE = ["ita.1", "uefa.champions", "uefa.europa", "uefa.europa.conf", "ita.cop
 EUROPA = {"uefa.champions", "uefa.europa", "uefa.europa.conf"}
 MAX_RIGHE = 26
 GERGO = re.compile(r"domicilio|corsar|espugn|sbanc|\btris\b|manita|cappotto|\bko\b|\bk\.o|show|spettacol|dilag|asfalt|schiacc|travolg|umilia|demolis|stende|di scarto|gol di differenza", re.I)
+# frasi che attribuiscono alle squadre bisogni, obiettivi o stati d'animo che nei dati non ci sono («Monza a caccia di punti» dopo un 4-0)
+INVENTATO = re.compile(r"a caccia|in cerca|alla ricerca|cerca(no)? (di|punti|il|la|riscatto)|\bvuole\b|\bvogliono\b|punta a|puntano a|ambizion|sogna|rilancia|ai ripari|fame di|disperat|bisogno di|obiettivo|\briscatt|\bcrisi\b|\bsvolta\b|\bsalvezza\b|\bscudetto\b|\btitolo\b", re.I)
 MESI = "gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre".split()
 
 
@@ -259,6 +261,8 @@ def controlla(spec, tutte, scelte):
         errori.append("contiene parole vietate")
     if GERGO.search(tutto):
         errori.append("contiene gergo o modi di dire (" + ", ".join(sorted({m.group(0).lower() for m in GERGO.finditer(tutto)})) + "): usa parole semplici")
+    if INVENTATO.search(tutto):
+        errori.append("attribuisce obiettivi, bisogni o stati d'animo che non sono nei dati (" + ", ".join(sorted({m.group(0).lower() for m in INVENTATO.finditer(tutto)})) + ")")
     veri = {f"{p['casa']['gol']}-{p['ospite']['gol']}" for p in tutte} | {f"{p['ospite']['gol']}-{p['casa']['gol']}" for p in tutte}
     for t in testi:
         for m in re.findall(r"\d+\s*[-–a]\s*\d+", t):
@@ -471,6 +475,7 @@ def prompt_oggi(tutte, cl, etichetta="di oggi", errori=None):
         "- Per ogni campionato il commento (16-28 parole) PARTE dalla capolista (la squadra prima in classifica, con i suoi punti se vuoi) e poi racconta 1 o 2 cambi di posizione (i più grandi della lista); se non ci sono cambi, di' solo della capolista e di chi la insegue. Puoi usare «salta», «scende», «scivola», «risale», «balza»: l'enfasi è permessa perché sono dati.\n"
         "- Parole SEMPLICI e dirette come al bar. VIETATI gergo e metafore: «a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show».\n"
         "- Niente quote, pronostici, scommesse, premi, soldi. Nessun insulto. Nessuna colpa senza fonte.\n"
+        "- VIETATO attribuire alle squadre obiettivi, bisogni o stati d'animo («a caccia di punti», «in cerca di riscatto», «vuole», «sogna», «crisi», «svolta»): di' SOLO risultati, punti e posizioni, che sono nei dati. Non spiegare PERCHÉ una squadra ha vinto o perso.\n"
         "- hook_testo: UNA frase di 10-16 parole sulle partite di STASERA/OGGI: usa un risultato marcato [OGGI] (se ce ne sono), mai una partita di [IERI] (le abbiamo già raccontate): non parlare di Juventus-Lazio. Dai dati. tabella_testo: 1 frase, 12-20 parole, su un risultato dei dati (la voce fissa «Questi sono i risultati» viene prima).\n"
         "- *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = squadre.\n"
         "- hook_foto: il nome di UNA squadra dei dati. finale.foto: una squadra dei dati. finale.domanda: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote.\n"
@@ -504,6 +509,8 @@ def controlla_oggi(spec, tutte, cl):
         errori.append("contiene parole vietate")
     if GERGO.search(tutto):
         errori.append("contiene gergo o modi di dire (" + ", ".join(sorted({m.group(0).lower() for m in GERGO.finditer(tutto)})) + ")")
+    if INVENTATO.search(tutto):
+        errori.append("attribuisce obiettivi, bisogni o stati d'animo che non sono nei dati (" + ", ".join(sorted({m.group(0).lower() for m in INVENTATO.finditer(tutto)})) + "): di' solo risultati e posizioni")
     veri = {f"{p['casa']['gol']}-{p['ospite']['gol']}" for p in tutte} | {f"{p['ospite']['gol']}-{p['casa']['gol']}" for p in tutte}
     for t in testi.values():
         for m in re.findall(r"\d+\s*[-–a]\s*\d+", t):
