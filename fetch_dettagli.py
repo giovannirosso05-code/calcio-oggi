@@ -12,12 +12,16 @@ SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/soccer/{lega}/summary"
 STAT = {"possessionPct", "totalShots", "shotsOnTarget", "wonCorners", "foulsCommitted", "yellowCards", "redCards", "offsides", "saves"}
 
 
-def vicina(p, adesso):
+# i campionati più seguiti tengono i dettagli per tutti i 4 giorni di partite.json, gli altri solo 30 ore (il file resta leggero)
+GRANDI = {"Italia", "Coppe europee", "Inghilterra", "Spagna", "Germania", "Francia", "Nazionali"}
+
+
+def vicina(p, adesso, grande=False):
     quando = datetime.fromisoformat(p["data"].replace("Z", "+00:00"))
     if p["stato"] == "in":
         return True
     if p["stato"] == "post":
-        return adesso - quando < timedelta(hours=30)
+        return adesso - quando < timedelta(hours=100 if grande else 30)
     return timedelta(0) <= quando - adesso < timedelta(hours=3)
 
 
@@ -76,10 +80,20 @@ def probabile(args):
 
 def main():
     adesso = datetime.now(timezone.utc)
-    partite = json.loads((DATA_DIR / "partite.json").read_text(encoding="utf-8"))["partite"]
-    scelte = [p for p in partite if vicina(p, adesso)]
+    dati = json.loads((DATA_DIR / "partite.json").read_text(encoding="utf-8"))
+    partite = dati["partite"]
+    gruppo = {l["id"]: l.get("gruppo") for l in dati["leghe"]}
+    scelte = [p for p in partite if vicina(p, adesso, gruppo.get(p["lega"]) in GRANDI)]
+    vecchi = {}
+    try:
+        vecchi = json.loads((DATA_DIR / "dettagli.json").read_text(encoding="utf-8")).get("partite", {})
+    except (OSError, ValueError):
+        pass
+    # una partita finita con i dettagli già salvati non si riscarica
+    gia = [(p["id"], vecchi[p["id"]]) for p in scelte if p["stato"] == "post" and p["id"] in vecchi and vecchi[p["id"]].get("rose")]
+    da_fare = [p for p in scelte if p["id"] not in dict(gia)]
     with ThreadPoolExecutor(max_workers=8) as pool:
-        risultati = [r for r in pool.map(dettaglio, scelte) if r]
+        risultati = gia + [r for r in pool.map(dettaglio, da_fare) if r]
     if not risultati and scelte:
         raise SystemExit("Nessun dettaglio scaricato: il file precedente resta.")
     precedenti = {}
