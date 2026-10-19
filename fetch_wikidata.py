@@ -5,6 +5,7 @@ mai una faccia a caso. Per gli allenatori si usa il "capo allenatore" attuale (s
 Scrive data/foto.json {id giocatore: file di Commons} e data/allenatori.json {id squadra: nome}.
 """
 import json
+import os
 import time
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
@@ -16,6 +17,7 @@ from fetch_dati import DATA_DIR
 UA = {"User-Agent": "CalcioOggi/1.0 (https://github.com/giovannirosso05-code/calcio-oggi)"}
 FOTO = DATA_DIR / "foto.json"
 ALLENATORI = DATA_DIR / "allenatori.json"
+CLUB = DATA_DIR / "club.json"
 
 
 def sparql(q):
@@ -54,22 +56,44 @@ def chunk_foto(giocatori):
     return trovate
 
 
-def chunk_allenatori(squadre):
-    """squadre: [(id, nome)] -> {id: allenatore}"""
-    q = f"""SELECT ?l ?club ?cl WHERE {{
-      VALUES ?l {{ {val({s[1] for s in squadre})} }}
-      ?club rdfs:label ?l . ?club wdt:P31/wdt:P279* wd:Q476028 .
-      ?club p:P286 ?st . ?st ps:P286 ?c . FILTER NOT EXISTS {{ ?st pq:P582 ?fine }}
-      ?c rdfs:label ?cl . FILTER(LANG(?cl) = "it" || LANG(?cl) = "en")
+def chunk_club(squadre):
+    """squadre: [(id, nome, breve)] -> {id: {allenatore, fondazione, citta, stadio}} (solo dove il club è uno solo e sicuro)"""
+    nomi = {n for s in squadre for n in s[1:] if n}
+    q = f"""SELECT ?l ?club ?cl ?inc ?citta ?stadio WHERE {{
+      VALUES ?l {{ {val(nomi)} }}
+      ?club (rdfs:label|skos:altLabel) ?l . ?club wdt:P31/wdt:P279* wd:Q476028 .
+      OPTIONAL {{ ?club p:P286 ?st . ?st ps:P286 ?c . FILTER NOT EXISTS {{ ?st pq:P582 ?fine }} ?c rdfs:label ?cl . FILTER(LANG(?cl) = "it" || LANG(?cl) = "en") }}
+      OPTIONAL {{ ?club wdt:P571 ?inc }}
+      OPTIONAL {{ ?club wdt:P159 ?h . ?h rdfs:label ?citta . FILTER(LANG(?citta) = "it") }}
+      OPTIONAL {{ ?club wdt:P115 ?v . ?v rdfs:label ?stadio . FILTER(LANG(?stadio) = "it") }}
     }}"""
-    per_nome = defaultdict(dict)   # nome squadra -> {club: {lang: nome}}
+    per_nome = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))   # nome -> club -> campo -> valori
     for r in sparql(q):
-        per_nome[r["l"]["value"]].setdefault(r["club"]["value"], []).append(r["cl"]["value"])
+        c = per_nome[r["l"]["value"]][r["club"]["value"]]
+        for k, campo in (("cl", "allenatore"), ("citta", "citta"), ("stadio", "stadio")):
+            if k in r:
+                c[campo].add(r[k]["value"])
+        if "inc" in r:
+            c["fondazione"].add(r["inc"]["value"][:4])
     out = {}
-    for sid, nome in squadre:
-        club = per_nome.get(nome, {})
-        if len(club) == 1:      # più club con lo stesso nome = ambiguo: meglio niente che l'allenatore sbagliato
-            out[sid] = sorted(next(iter(club.values())), key=len)[0]
+    for sid, *nomi_sq in squadre:
+        trovati = {}
+        for n in nomi_sq:
+            trovati.update(per_nome.get(n, {}))
+        if len(trovati) != 1:      # nessun club o più club con quel nome: meglio niente che il dato sbagliato
+            continue
+        c = next(iter(trovati.values()))
+        info = {}
+        if c["allenatore"]:
+            info["allenatore"] = sorted(c["allenatore"], key=len)[0]
+        if c["fondazione"]:
+            info["fondazione"] = min(c["fondazione"])
+        if len(c["citta"]) >= 1:
+            info["citta"] = sorted(c["citta"], key=len)[0]
+        if c["stadio"]:
+            info["stadio"] = sorted(c["stadio"], key=len)[0]
+        if info:
+            out[sid] = info
     return out
 
 
@@ -79,11 +103,11 @@ def main():
         if f.name == "indice.json":
             continue
         for t in json.loads(f.read_text(encoding="utf-8"))["squadre"]:
-            squadre[t["id"]] = t["nome"]
+            squadre[t["id"]] = (t["nome"], t.get("breve") or "")
             for g in t["giocatori"]:
                 giocatori[g["id"]] = (g["id"], g["nome"], g["nascita"])
     foto = json.loads(FOTO.read_text(encoding="utf-8")) if FOTO.exists() else {}
-    nuovi = [g for gid, g in giocatori.items() if gid not in foto and g[2]]
+    nuovi = [] if os.environ.get("SOLO_CLUB") else [g for gid, g in giocatori.items() if gid not in foto and g[2]]
     lotti = [nuovi[i:i + 70] for i in range(0, len(nuovi), 70)]
     print(f"giocatori da controllare: {len(nuovi)} in {len(lotti)} richieste", flush=True)
     with ThreadPoolExecutor(max_workers=3) as pool:
@@ -96,14 +120,16 @@ def main():
         foto.setdefault(g[0], "")
     FOTO.write_text(json.dumps({k: v for k, v in foto.items() if v}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
-    elenco = list(squadre.items())
-    lotti = [elenco[i:i + 60] for i in range(0, len(elenco), 60)]
-    allen = {}
+    elenco = [(i, n, b) for i, (n, b) in squadre.items()]
+    lotti = [elenco[i:i + 40] for i in range(0, len(elenco), 40)]
+    club = {}
     with ThreadPoolExecutor(max_workers=3) as pool:
-        for res in pool.map(chunk_allenatori, lotti):
-            allen.update(res)
+        for res in pool.map(chunk_club, lotti):
+            club.update(res)
+    CLUB.write_text(json.dumps(club, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    allen = {k: v["allenatore"] for k, v in club.items() if v.get("allenatore")}
     ALLENATORI.write_text(json.dumps(allen, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"foto: {sum(1 for v in foto.values() if v)}, allenatori: {len(allen)}/{len(squadre)}")
+    print(f"foto: {sum(1 for v in foto.values() if v)}, club: {len(club)}/{len(squadre)}, allenatori: {len(allen)}")
 
 
 if __name__ == "__main__":

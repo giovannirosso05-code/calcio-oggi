@@ -10,8 +10,8 @@ const box = document.getElementById("scheda"), id = param("id");
   if (!trovata) return errore(box, "Non trovo questa squadra.");
   const { squadra: t, lega } = trovata;
   await caricaFoto();
-  const allenatori = await fetchJSON("data/allenatori.json").catch(() => ({}));
-  const allenatore = allenatori[id] || "";
+  const club = (await fetchJSON("data/club.json").catch(() => ({})))[id] || {};
+  const allenatore = club.allenatore || (await fetchJSON("data/allenatori.json").catch(() => ({})))[id] || "";
   document.title = `${t.nome}: rosa, risultati e prossime partite — Calcio Oggi`;
 
   // posizione in classifica (se c'è) dal file delle classifiche
@@ -22,7 +22,11 @@ const box = document.getElementById("scheda"), id = param("id");
     for (const g of c.gruppi) { const r = g.righe.find((x) => String(x.squadra.id) === String(id)); if (r) posizione = `${r.pos}° in ${c.nome} · ${r.pt} punti`; }
   }
   const testa = `<div class="scheda-testa" style="--col:${t.colore ? "#" + esc(t.colore) : "var(--accento)"}">${stemma(t.logo, 88)}
-    <div><h1>${esc(t.nome)}</h1>${posizione ? `<p>${esc(posizione)}</p>` : ""}${allenatore ? `<p class="tenue">Allenatore: ${esc(allenatore)}</p>` : ""}</div></div>`;
+    <div><h1>${esc(t.nome)}</h1>${posizione ? `<p>${esc(posizione)}</p>` : ""}</div></div>`;
+
+  // scheda del club: solo i dati che Wikidata conferma (niente campo = dato non trovato, non inventato)
+  const datiClub = [["Fondazione", club.fondazione], ["Città", club.citta], ["Stadio", club.stadio], ["Allenatore", allenatore], ["Giocatori in rosa", t.giocatori.length || ""]].filter(([, v]) => v);
+  const schedaClub = datiClub.length ? `<h2 class="section-title"><span>Il club</span></h2><div class="dati-griglia">${datiClub.map(([k, v]) => `<div><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>` : "";
 
   // partite: ultime e prossime (dal file delle partite, finestra di pochi giorni)
   const sue = (pa?.partite || []).filter((p) => String(p.casa.id) === String(id) || String(p.ospite.id) === String(id));
@@ -37,5 +41,5 @@ const box = document.getElementById("scheda"), id = param("id");
       <span><b>${a.num ? `<i class="num">${esc(a.num)}</i> ` : ""}${esc(a.nome)}</b><small>${a.eta ? a.eta + " anni" : ""}${a.naz ? " · " + esc(nazione(a.naz)) : ""}</small></span></a>`;
   const rosa = perRuolo.length ? perRuolo.map(([r, l]) => `<h2 class="section-title"><span>${RUOLI[r] || r}</span></h2><div class="elenco-giocatori">${l.map(riga).join("")}</div>`).join("")
     : `<div class="vuoto">La rosa di questa squadra non è disponibile.</div>`;
-  box.innerHTML = testa + blocco("Prossime partite", prossime) + blocco("Ultimi risultati", giocate) + rosa;
+  box.innerHTML = testa + schedaClub + blocco("Prossime partite", prossime) + blocco("Ultimi risultati", giocate) + rosa;
 })().catch(() => errore(box));
