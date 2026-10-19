@@ -111,7 +111,7 @@ def sorprese(partite, n=2):
     return [x[1:] for x in out[:n]]
 
 
-VISIBILI = {"inter milan": "Inter"}   # come si scrivono e si dicono i nomi nei video
+VISIBILI = {"inter milan": "Inter", "c palace": "Crystal Palace", "nottm forest": "Nottingham Forest", "man united": "Manchester United", "man city": "Manchester City", "le havre ac": "Le Havre"}   # come si scrivono e si dicono i nomi nei video
 ALLENATORI = {"lazio": "Gennaro Gattuso", "juventus": "Luciano Spalletti"}   # per la foto del gancio: l'allenatore di chi ha vinto (solo quelli confermati dagli articoli)
 NON_SORPRESE = {"como"}   # gioca bene da tempo: non si dice che «sorprende»
 GRANDI = {"inter", "milan", "juventus", "napoli", "roma", "atalanta"}
@@ -319,7 +319,7 @@ def _scena(nome, tutte, **resto):
     sc = {"foto": nome, "tipo": tipo, "stemma": stemma_per(nome, tutte), **resto}
     if p:
         sc["cerca"] = {"squadre": [p["casa"]["breve"], p["ospite"]["breve"]], "marcatore": nome if tipo == "persona" else ""}
-        if resto.get("hook") and p["casa"]["gol"] != p["ospite"]["gol"]:   # gancio: prima la foto dell'allenatore di chi ha vinto
+        if resto.get("hook") and not resto.get("senza_allenatore") and p["casa"]["gol"] != p["ospite"]["gol"]:   # gancio: prima la foto dell'allenatore di chi ha vinto
             vincente = (p["casa"] if p["casa"]["gol"] > p["ospite"]["gol"] else p["ospite"])["breve"]
             coach = ALLENATORI.get(_norm(vincente))
             if coach:   # foto libera dell'allenatore (Wikimedia, verificata su Wikidata); se manca, la scheda con gli stemmi (mai una foto di stadio a caso)
@@ -376,6 +376,7 @@ def da_giornata(oggi=None, testo=None, solo_scheda=()) -> dict:
 # Riepilogo sui 5 campionati principali: tutti i risultati e le 5 classifiche con i cambi di posizione delle ultime partite
 # =====================================================================================================================
 TOP5 = [("ita.1", "Serie A"), ("eng.1", "Premier League"), ("esp.1", "LaLiga"), ("ger.1", "Bundesliga"), ("fra.1", "Ligue 1")]
+COPERTINA_PERSONA = "Lamine Yamal"   # la copertina del riepilogo ha il volto di un giocatore noto
 ORD = ("prima seconda terza quarta quinta sesta settima ottava nona decima undicesima dodicesima tredicesima quattordicesima quindicesima "
        "sedicesima diciassettesima diciottesima diciannovesima ventesima").split()
 
@@ -454,7 +455,8 @@ def _ord(n):
 
 
 def prompt_oggi(tutte, cl, etichetta="di oggi", errori=None):
-    risultati = "\n".join(f"- {p['_lega']}: {vis(p['casa']['breve'])} {p['casa']['gol']}-{p['ospite']['gol']} {vis(p['ospite']['breve'])}" for p in tutte)
+    oggi = datetime.now(ROMA).date()
+    risultati = "\n".join(f"- [{'OGGI' if _giorno_roma(p) == oggi else 'IERI'}] {p['_lega']}: {vis(p['casa']['breve'])} {p['casa']['gol']}-{p['ospite']['gol']} {vis(p['ospite']['breve'])}" for p in tutte)
     blocchi = []
     for c in cl:
         righe = "\n".join(f"  - {s}: dalla {_ord(a)} posizione alla {_ord(b)}" for s, a, b in c["movimenti"][:4]) or "  - nessun cambio di posizione"
@@ -469,7 +471,7 @@ def prompt_oggi(tutte, cl, etichetta="di oggi", errori=None):
         "- Per ogni campionato commenta 1 o 2 cambi (i più grandi della lista) in 14-24 parole; se non ci sono cambi, di' chi guida la classifica. Puoi usare «salta», «scende», «scivola», «risale», «balza»: l'enfasi è permessa perché sono dati.\n"
         "- Parole SEMPLICI e dirette come al bar. VIETATI gergo e metafore: «a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show».\n"
         "- Niente quote, pronostici, scommesse, premi, soldi. Nessun insulto. Nessuna colpa senza fonte.\n"
-        "- hook_testo: UNA frase di 10-16 parole col risultato o il cambio più clamoroso, dai dati. tabella_testo: 1 frase, 12-20 parole, su un risultato dei dati (la voce fissa «Questi sono i risultati» viene prima).\n"
+        "- hook_testo: UNA frase di 10-16 parole sulle partite di STASERA/OGGI: usa un risultato marcato [OGGI] (se ce ne sono), mai una partita di [IERI] (le abbiamo già raccontate): non parlare di Juventus-Lazio. Dai dati. tabella_testo: 1 frase, 12-20 parole, su un risultato dei dati (la voce fissa «Questi sono i risultati» viene prima).\n"
         "- *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = squadre.\n"
         "- hook_foto: il nome di UNA squadra dei dati. finale.foto: una squadra dei dati. finale.domanda: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote.\n"
         "- apertura: una frase forte per la didascalia. hashtag: 3 o 4 parole senza #.\n\n"
@@ -527,7 +529,11 @@ def da_oggi(oggi=None, testo=None) -> dict:
             break
     if errori:
         raise ErroreScaletta("Non sono riuscito a scrivere un riepilogo che rispetti le regole (" + "; ".join(errori[:3]) + "): il video non l'ho fatto.")
-    scene = [_scena(spec["hook_foto"], tutte, hook=True, hook_titolo=spec["hook_titolo"], testo=spec["hook_testo"]),
+    gancio = _scena(spec["hook_foto"], tutte, hook=True, senza_allenatore=True, hook_titolo=spec["hook_titolo"], testo=spec["hook_testo"])
+    gancio.pop("cerca", None)   # le foto degli articoli sulla partita (qui un montaggio di tre fotogrammi) non vanno bene per la copertina
+    gancio["persona_libera"] = COPERTINA_PERSONA
+    gancio["solo_commons"] = True   # volto grande, foto libera (Wikimedia, verificata su Wikidata)
+    scene = [gancio,
              {"foto": "", "tabella": True, "testo": f"Questi sono i risultati {etichetta}. " + spec["tabella_testo"], "durata_min": 6.0}]
     for c in cl:
         scene.append({"foto": "", "classifica": True, "classifica_dati": {**c["classifica_dati"], "titolo": c["titolo"]},

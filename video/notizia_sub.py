@@ -43,7 +43,7 @@ class NessunaFoto(Exception):
 
 
 # Come la voce deve dire alcuni nomi e sigle (i sottotitoli restano scritti giusti). Si allunga col tempo.
-PRONUNCIA = {"Krösche": "Krèusce", "Krosche": "Krèusce", "Kroesche": "Krèusce", "Peque": "Pèke", "Gonçalo": "Gonsàlo", "Como": "Còmo", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "Kvaratskhelia": "Kvaratskèlia", "Dumfries": "Dumfrìs"}
+PRONUNCIA = {"Marseille": "Marsiglia", "Lyon": "Lione", "Nice": "Nizza", "Crystal": "Crìstal", "Palace": "Pàlis", "Bournemouth": "Bornmuth", "Brighton": "Braiton", "Leeds": "Lìds", "Auxerre": "Osèr", "Rennes": "Rèn", "Lorient": "Lorià", "Angers": "Anjè", "Hoffenheim": "Hòffenhaim", "Freiburg": "Fraiburg", "Gladbach": "Gladbac", "Leverkusen": "Lèverkusen", "Havre": "Avr", "Krösche": "Krèusce", "Krosche": "Krèusce", "Kroesche": "Krèusce", "Peque": "Pèke", "Gonçalo": "Gonsàlo", "Como": "Còmo", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "Kvaratskhelia": "Kvaratskèlia", "Dumfries": "Dumfrìs"}
 
 
 def pronuncia(parola):
@@ -371,7 +371,7 @@ def risolvi_foto(spec, banca):
             s = {k: v for k, v in s.items() if k not in ("persona_libera", "cerca", "cerca_prima")}
             s["tipo"] = "squadra"
         if s.get("persona_libera"):   # ritratto della persona (es. l'allenatore di chi ha vinto): prima gli articoli con il suo nome all'inizio del titolo, poi Wikimedia
-            cands = banca.foto_da_titolo_che_inizia(s["persona_libera"])
+            cands = [] if s.get("solo_commons") else banca.foto_da_titolo_che_inizia(s["persona_libera"])   # solo_commons: solo la foto libera di Wikimedia, mai foto di articoli
             from video.foto import trova
             try:
                 f = None if cands else trova(s["persona_libera"])
