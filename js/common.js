@@ -97,7 +97,14 @@ export function elencoPerLega(partite, leghe) {
     if (!gruppi.has(p.lega)) gruppi.set(p.lega, []);
     gruppi.get(p.lega).push(p);
   });
-  return [...gruppi].map(([id, lista]) => `<div class="gruppo-lega"><div class="lega-nome">${esc(nomi.get(id) || id)}</div><div class="griglia-partite">${lista.map(cardPartita).join("")}</div></div>`).join("");
+  // dentro ogni competizione le partite sono divise per fascia d'orario (se ce n'è più di una)
+  const fasce = (lista) => {
+    const per = new Map();
+    lista.forEach((p) => { const o = oraRoma(p.data); if (!per.has(o)) per.set(o, []); per.get(o).push(p); });
+    if (per.size < 2) return `<div class="griglia-partite">${lista.map(cardPartita).join("")}</div>`;
+    return [...per].map(([ora, l]) => `<div class="fascia"><span>ore ${esc(ora)}</span></div><div class="griglia-partite">${l.map(cardPartita).join("")}</div>`).join("");
+  };
+  return [...gruppi].map(([id, lista]) => `<div class="gruppo-lega"><div class="lega-nome">${esc(nomi.get(id) || id)}</div>${fasce(lista)}</div>`).join("");
 }
 
 // ---------- Dati partite con aggiornamento in diretta da ESPN ----------
