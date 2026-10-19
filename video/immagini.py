@@ -22,6 +22,7 @@ CACHE = Path(__file__).resolve().parent / "_cache" / "img"
 W, H = 1080, 1920
 ESCLUDI = re.compile(r"logo|icon|avatar|sprite|banner|placeholder|pixel|1x1|/ads?/|emoji|share|favicon|\.svg|\.gif|loader|spinner|profile", re.I)
 MIN_LARGHEZZA = 600
+GESTIONE = re.compile(r"confermat|esoner|panchina|allenatore|mister|\bds\b|dirigent|president|societ|trattativ|mercato|cessione|rinnov|futuro|\bsostitu|\bsuccess|\bcandidat|\bagente|stipend|contratt|intervist", re.I)
 PAROLE_VUOTE = set("il lo la i gli le un una di a da in con su per tra fra e ed o ma che non si del della dei delle al alla ai alle dal dalla nel nella sul sulla fc ac as ss".split())
 
 
@@ -166,8 +167,8 @@ class Banca:
             t = set(_parole(a.get("titolo", "")))
             ha = [bool(x & t) for x in k]
             titolo = a.get("titolo", "")
-            cronaca = bool(re.search(r"\b\d{1,2}\s*[-–]\s*\d{1,2}\b", titolo))   # col risultato nel titolo: è la cronaca della partita (altri articoli con le due squadre possono parlare d'altro, con la foto di un'altra persona)
-            if (not solo_marcatore and all(ha) and len(ha) >= 2 and cronaca) or (cognome and cognome in t and any(ha)):
+            gestione = bool(GESTIONE.search(titolo))   # articoli su panchine, mercato, dirigenti: la foto è di un'altra persona, non della partita
+            if not gestione and ((not solo_marcatore and all(ha) and len(ha) >= 2) or (cognome and cognome in t and any(ha))):
                 buoni.append((all(ha), a))
         buoni = [a for _, a in sorted(buoni, key=lambda x: (x[0], x[1].get("pubblicato", "")), reverse=True)]
         out = []
