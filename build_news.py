@@ -121,12 +121,16 @@ def squadra_del_titolo(titolo, squadre):
     return migliore[1] if migliore else None
 
 
+# TMW mette nel feed «calcio» anche Serie C, Serie D e dilettanti: la sezione si legge dall'indirizzo, non dal feed (che per noi è tutto «Serie A»)
+SEZIONI_MINORI = re.compile(r"/(serie-c|serie-d|lega-pro|eccellenza|promozione|dilettanti|calcio-giovanile|primavera|calcio-a-5)/", re.I)
+
+
 def analizza_articolo(entry, fonte, serie, data_pubb=None, titolo=None, link=None, estratto=None):
     titolo = pulisci_testo(titolo if titolo is not None else entry.get("title", ""))
     link = (link if link is not None else entry.get("link", "")).strip()
     estratto = pulisci_testo(estratto if estratto is not None else (entry.get("summary", "") or entry.get("description", "")))
 
-    if not titolo or not link or len(titolo) < 20 or SCARTA.search(titolo):
+    if not titolo or not link or len(titolo) < 20 or SCARTA.search(titolo) or SEZIONI_MINORI.search(link):
         return None
 
     # Riconoscimento citazioni e dichiarazioni
