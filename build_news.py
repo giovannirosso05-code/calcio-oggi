@@ -29,6 +29,8 @@ FEEDS = [
     {"url": "https://www.corrieredellosport.it/rss/calcio/champions-league", "fonte": "Corriere dello Sport", "serie": "Champions"},
     {"url": "https://www.tuttosport.com/rss/calcio/champions-league", "fonte": "Tuttosport", "serie": "Champions"},
     {"url": "https://www.tuttomercatoweb.com/rss/?t=europa", "fonte": "TMW", "serie": "Estero"},
+    # Daily Mail (inglese, tabloid: spesso indiscrezioni): le notizie su grandi squadre e stelle passano il filtro estero e vengono tradotte; il video le presenta come voci non confermate
+    {"url": "https://www.dailymail.co.uk/sport/football/index.rss", "fonte": "Daily Mail", "serie": "Estero"},
 ]
 
 # Notizie dei campionati esteri e delle coppe da ESPN (in inglese: il testo del video lo riscrive Gemini in italiano)
@@ -122,6 +124,8 @@ def squadra_del_titolo(titolo, squadre):
 
 
 # TMW mette nel feed «calcio» anche Serie C, Serie D e dilettanti: la sezione si legge dall'indirizzo, non dal feed (che per noi è tutto «Serie A»)
+# dirette e riepiloghi (nei titoli inglesi sono in maiuscolo: «Premier League LIVE», «RECAP»): non sono notizie su cui fare un video
+DIRETTE = re.compile(r"\bLIVE\b|\bRECAP\b|\bPLAYER RATINGS\b|\bTEAM NEWS\b")
 SEZIONI_MINORI = re.compile(r"/(serie-c|serie-d|lega-pro|eccellenza|promozione|dilettanti|calcio-giovanile|primavera|calcio-a-5)/", re.I)
 
 
@@ -130,7 +134,7 @@ def analizza_articolo(entry, fonte, serie, data_pubb=None, titolo=None, link=Non
     link = (link if link is not None else entry.get("link", "")).strip()
     estratto = pulisci_testo(estratto if estratto is not None else (entry.get("summary", "") or entry.get("description", "")))
 
-    if not titolo or not link or len(titolo) < 20 or SCARTA.search(titolo) or SEZIONI_MINORI.search(link):
+    if not titolo or not link or len(titolo) < 20 or SCARTA.search(titolo) or SEZIONI_MINORI.search(link) or DIRETTE.search(titolo):
         return None
 
     # Riconoscimento citazioni e dichiarazioni
