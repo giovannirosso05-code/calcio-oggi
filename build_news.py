@@ -62,6 +62,10 @@ STAR_ESTERO = {"mbappe", "haaland", "messi", "ronaldo", "cristiano ronaldo", "vi
                "ancelotti", "klopp", "arteta", "slot", "flick", "xabi alonso", "de bruyne", "rodri", "pedri", "lamine yamal", "dembele", "neymar", "modric", "benzema"}
 CLAMOROSO = re.compile(r"scandal|arrest|indagin|investigat|inchiesta|morto|muore|\bdies?\b|\bdied\b|\bdeath\b|\bbanned?\b|squalific|\bsacked\b|esoner|\bfired\b|\bresign|dimission|\brecord\b|shock|clamoros|storic|choc|\bcrisi\b|rissa|\bprobe\b|\blawsuit\b|\bcharged\b|accusa", re.I)
 
+# notizie gravi o clamorose (sanzioni, penalizzazioni, retrocessioni…): salgono in cima anche se la squadra ha già altre notizie
+GRAVE = re.compile(r"deduction|relegat|penalizz|retrocess|retrocede|punishment|sanction|disqualif|expelled|stripped of|points? cut|revocat|radiat|fallimento|bankrupt", re.I)
+BONUS_GRAVE = 300
+
 PENALITA_RIPETIZIONE = 200   # per ogni notizia in più sulla stessa squadra (il bot divide il punteggio per 4: pesa quanto 50 punti)
 BONUS_HA_GIOCATO = 120       # squadra scesa in campo nelle ultime 36 ore
 
@@ -150,6 +154,8 @@ def analizza_articolo(entry, fonte, serie, data_pubb=None, titolo=None, link=Non
         punti += 30
     if any(k in titolo_lower for k in ["polemica", "rigore", "arbitro", "infortunio", "esonero", "champions"]):
         punti += 20
+    if GRAVE.search(titolo):
+        punti += BONUS_GRAVE
 
     # Data pubblicazione
     if data_pubb is None:
