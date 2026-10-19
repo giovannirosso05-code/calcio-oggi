@@ -48,6 +48,14 @@ ALIAS = {
     "manchester united": ["manchester united", "united"], "borussia dortmund": ["dortmund"], "bayer leverkusen": ["leverkusen"], "athletic club": ["athletic bilbao", "athletic"],
 }
 
+# Estero: interessa solo chi è davvero importante, oppure una notizia clamorosa (scandalo, arresto, esonero...), oppure se c'entra una squadra italiana
+TOP_ESTERO = {"real madrid", "barcelona", "barcellona", "atletico madrid", "atletico", "manchester city", "man city", "manchester united", "man united", "united",
+              "liverpool", "arsenal", "chelsea", "tottenham", "newcastle", "bayern", "bayern monaco", "bayern munich", "dortmund", "borussia dortmund", "leverkusen",
+              "psg", "paris saint germain", "marseille", "marsiglia", "monaco", "lione", "lyon", "benfica", "porto", "sporting", "ajax", "galatasaray", "athletic club"}
+STAR_ESTERO = {"mbappe", "haaland", "messi", "ronaldo", "cristiano ronaldo", "vinicius", "bellingham", "yamal", "salah", "kane", "lewandowski", "mourinho", "guardiola",
+               "ancelotti", "klopp", "arteta", "slot", "flick", "xabi alonso", "de bruyne", "rodri", "pedri", "lamine yamal", "dembele", "neymar", "modric", "benzema"}
+CLAMOROSO = re.compile(r"scandal|arrest|indagin|investigat|inchiesta|morto|muore|\bdies?\b|\bdied\b|\bdeath\b|\bbanned?\b|squalific|\bsacked\b|esoner|\bfired\b|\bresign|dimission|\brecord\b|shock|clamoros|storic|choc|\bcrisi\b|rissa|\bprobe\b|\blawsuit\b|\bcharged\b|accusa", re.I)
+
 PENALITA_RIPETIZIONE = 200   # per ogni notizia in più sulla stessa squadra (il bot divide il punteggio per 4: pesa quanto 50 punti)
 BONUS_HA_GIOCATO = 120       # squadra scesa in campo nelle ultime 36 ore
 
@@ -164,6 +172,26 @@ def leggi_espn(lega):
     return r.json().get("articles", [])
 
 
+def interessa_all_estero(a, squadre):
+    """True se l'articolo è fatto per il pubblico italiano: non è estero, oppure parla di una grande, di una stella, di una squadra italiana o di un fatto clamoroso."""
+    if a["serie"] not in ("Estero", "Champions"):
+        return True
+    t = " " + norm(a["titolo"]) + " "
+    if CLAMOROSO.search(a["titolo"]):
+        return True
+    if any(" " + k + " " in t for k in TOP_ESTERO | STAR_ESTERO):
+        return True
+    return any(s["lega"] == "ita.1" and any(" " + k + " " in t for k in s["chiavi"]) for s in squadre)
+
+
+def etichetta_estero(articoli, squadre):
+    """Le notizie su squadre straniere dai feed «Serie A» vanno tra quelle estere: prima di filtrare, altrimenti passano senza controllo."""
+    for a in articoli:
+        s = squadra_del_titolo(a["titolo"], squadre)
+        if s and a["serie"] == "Serie A" and not s["lega"].startswith("ita."):
+            a["serie"] = "Estero"
+
+
 def varia_e_premia(articoli, squadre):
     """Mette un tetto alle notizie sulla stessa squadra (altrimenti oggi sono tutte sulla Juve) e dà più peso a chi ha giocato da poco.
     Il bot ordina per citazione + punteggio/4 + freschezza: qui si regola il punteggio, così basta questo file."""
@@ -226,6 +254,10 @@ def main():
         except Exception as err:
             print(f"Errore ESPN {lega}: {err}")
 
+    etichetta_estero(articoli, squadre)
+    prima = len(articoli)
+    articoli = [a for a in articoli if interessa_all_estero(a, squadre)]
+    print(f"Estero: tolte {prima - len(articoli)} notizie senza una grande squadra, una stella o un fatto clamoroso")
     varia_e_premia(articoli, squadre)
 
     # Ordina per data e importanza
