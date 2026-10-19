@@ -9,6 +9,8 @@ Segreti: GEMINI_API_KEY (oppure ANTHROPIC_API_KEY come riserva).
 """
 import json
 import os
+from datetime import datetime
+from email.utils import parsedate_to_datetime
 import re
 import time
 
@@ -52,6 +54,65 @@ def _parole(titolo: str):
     return {p for p in _norm(titolo).split() if len(p) > 3 and p not in PAROLE_VUOTE}
 
 
+def altre_fonti(titolo: str, url: str = "", pubblicato: str = "", massimo: int = 4) -> str:
+    """Cerca sul web (Bing Notizie) altre testate sulla stessa storia e ne prende titolo, anteprima e testo. Serve solo come materiale
+    per capire i fatti: il video lo racconta con parole nostre. Vuoto se non trova niente di pertinente."""
+    import html as _html
+    import urllib.parse
+    import xml.etree.ElementTree as ET
+    mie = _parole(titolo)
+    if len(mie) < 3:
+        return ""
+    # nomi propri del titolo (maiuscole) + parole lunghe; se la ricerca è troppo stretta non trova niente, quindi si allarga
+    propri = [p for p in re.findall(r"[A-ZÀ-Ý][\wà-ÿ'-]{3,}", titolo)]
+    lunghe = sorted(mie, key=len, reverse=True)
+    radice = None
+    for n in (4, 3, 2):
+        parole = list(dict.fromkeys([_norm(p) for p in propri[:2]] + lunghe))[:n]
+        try:
+            r = requests.get("https://www.bing.com/news/search", params={"q": " ".join(parole), "format": "rss", "mkt": "it-IT"}, headers=UA, timeout=25)
+            r.raise_for_status()
+            prova = ET.fromstring(r.content)
+        except (requests.RequestException, ET.ParseError):
+            continue
+        if prova.find(".//item") is not None:
+            radice = prova
+            break
+    if radice is None:
+        return ""
+    inizio = None
+    if pubblicato:
+        try:
+            inizio = datetime.fromisoformat(pubblicato.replace("Z", "+00:00"))
+        except ValueError:
+            pass
+    pezzi, usate = [], 0
+    for item in radice.iter("item"):
+        t = _html.unescape(item.findtext("title") or "")
+        anteprima = re.sub(r"<[^>]+>", " ", _html.unescape(item.findtext("description") or ""))
+        # stessa storia = parole chiave in comune (titolo + anteprima) E uscita a ridosso del nostro articolo: così non si mescolano partite diverse
+        if len(mie & _parole(t + " " + anteprima)) < 2:
+            continue
+        if inizio and item.findtext("pubDate"):
+            try:
+                quando = parsedate_to_datetime(item.findtext("pubDate"))
+                if abs((quando - inizio).total_seconds()) > 36 * 3600:
+                    continue
+            except (TypeError, ValueError):
+                pass
+        link = item.findtext("link") or ""
+        vero = urllib.parse.parse_qs(urllib.parse.urlparse(_html.unescape(link)).query).get("url", [""])[0]
+        if vero and vero.split("?")[0] == (url or "").split("?")[0]:
+            continue
+        pezzi.append(t + ". " + anteprima)
+        if vero and usate < 3:
+            usate += 1
+            pezzi.append(testo_pagina(vero)[:2500])
+        if len(pezzi) >= massimo * 2:
+            break
+    return re.sub(r"\s+", " ", " ".join(pezzi)).strip()
+
+
 def testo_completo(url, titolo, estratto="", rassegna=None) -> str:
     """Testo dell'articolo; se è corto si allunga con l'estratto del feed e con le altre testate sulla stessa storia (almeno 3 parole del titolo)."""
     testo = testo_pagina(url) if url else ""
@@ -65,6 +126,9 @@ def testo_completo(url, titolo, estratto="", rassegna=None) -> str:
             testo += " " + (a.get("estratto") or "") + " " + a.get("titolo", "")
             if len(testo) >= MINIMO_CARATTERI:
                 break
+    if len(testo) < MINIMO_CARATTERI:   # ancora corto: altre testate sullo stesso fatto, cercate sul web
+        pubb = next((a.get("pubblicato", "") for a in rassegna or [] if a.get("url") == url), "")
+        testo += " " + altre_fonti(titolo, url, pubb)
     if len(testo) < MINIMO_CARATTERI:
         raise ErroreScaletta(f"L'articolo è troppo corto o non si legge ({len(testo)} caratteri, ne servono {MINIMO_CARATTERI}): "
                              "il video non l'ho fatto. Scegli un'altra notizia o mandami il testo.")

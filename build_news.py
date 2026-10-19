@@ -309,7 +309,7 @@ def solo_con_video(articoli, scartate):
 
     def controlla(a):
         m = memoria.get(a["url"])
-        if m and (m["ok"] or (adesso - datetime.fromisoformat(m["t"])).total_seconds() < 3 * 3600):
+        if m and m.get("v") == 2 and (m["ok"] or (adesso - datetime.fromisoformat(m["t"])).total_seconds() < 3 * 3600):
             return a["url"], m
         try:
             testo_completo(a["url"], a["titolo"], a.get("estratto", ""), articoli)
@@ -317,8 +317,8 @@ def solo_con_video(articoli, scartate):
         except ErroreScaletta:
             ok = False
         except Exception:
-            return a["url"], m or {"ok": True, "t": adesso.isoformat()}   # errore di rete nostro: nel dubbio la notizia resta
-        return a["url"], {"ok": ok, "t": adesso.isoformat()}
+            return a["url"], m or {"ok": True, "t": adesso.isoformat(), "v": 2}   # errore di rete nostro: nel dubbio la notizia resta
+        return a["url"], {"ok": ok, "t": adesso.isoformat(), "v": 2}
 
     with ThreadPoolExecutor(max_workers=8) as pool:
         esiti = dict(pool.map(controlla, articoli))
