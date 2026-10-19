@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-19T09:46:30.050982+00:00",
-  "totale": 12,
+  "aggiornato": "2026-10-19T09:47:31.779118+00:00",
+  "totale": 14,
   "articoli": [
     {
       "id": "999c418456",
@@ -21,13 +21,22 @@
       "pubblicato": "2026-10-19T08:21:58+00:00"
     },
     {
-      "id": "e8aa0d503e",
-      "titolo": "José Mourinho non comprende \"l'ossessione\" per la gomitata del madridista Güler",
-      "url": "https://www.espn.com/soccer/story/_/id/50213726/mourinho-obsession-elbow-madrid-guler",
-      "estratto": "José Mourinho ha affermato di non aver visto \"immagini\" di una gomitata di Arda Güler — non sanzionata dall'arbitro — nel 4-1 del Real Madrid contro il Siviglia.",
+      "id": "83b561d29d",
+      "titolo": "Leboeuf definisce \"mediocre\" il Man United di Carrick",
+      "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average",
+      "estratto": "Leboeuf definisce \"mediocre\" il Man United di Carrick",
       "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-19T08:14:56+00:00"
+      "pubblicato": "2026-10-18T22:23:21+00:00"
+    },
+    {
+      "id": "9c0387c6ad",
+      "titolo": "Roberto De Zerbi sull'ultima mossa nel ritiro del Tottenham: \"Via i telefoni\" durante i pasti",
+      "url": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals",
+      "estratto": "Roberto De Zerbi ha rivelato che i telefoni sono stati banditi a tavola durante il ritiro del Tottenham a Marbella, nel suo ultimo tentativo di trasformare un gruppo eterogeneo di giocatori in una vera squadra.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T21:55:30+00:00"
     },
     {
       "id": "bc99e45754",
@@ -48,15 +57,6 @@
       "pubblicato": "2026-10-18T19:39:48+00:00"
     },
     {
-      "id": "e33dfe221d",
-      "titolo": "Oyarzabal trascina la Real Sociedad: manita al Malaga. Vincono Osasuna e Celta Vigo",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/18-151988863/oyarzabal_trascina_la_real_sociedad_manita_al_malaga_vincono_osasuna_e_celta_vigo/",
-      "estratto": "I risultati della nona giornata di Liga: strepitoso l'attaccante spagnolo con una doppietta",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T19:11:40+00:00"
-    },
-    {
       "id": "c601b5be30",
       "titolo": "Diego Gómez ascolta i consigli di Lionel Messi mentre il Brighton segue il suo mantra: \"Sfidare le gerarchie\"",
       "url": "https://www.espn.com/soccer/story/_/id/50211483/diego-gomez-heeds-advice-lionel-messi-brighton-further-reject-ceilings-ambition",
@@ -64,6 +64,24 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-18T19:03:04+00:00"
+    },
+    {
+      "id": "997a04ae15",
+      "titolo": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto",
+      "url": "https://www.espn.com/video/clip/_/id/50211677/arsenal-fans-frustrated-games-more-difficult-be",
+      "estratto": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T18:01:27+00:00"
+    },
+    {
+      "id": "b26cc612b1",
+      "titolo": "Carrick: il pareggio con il Leeds sembra un \"nuovo inizio\" per il Man Utd",
+      "url": "https://www.espn.com/video/clip/_/id/50211373/leeds-draw-feels-fresh-start-man-utd",
+      "estratto": "Carrick: il pareggio con il Leeds sembra un \"nuovo inizio\" per il Man Utd",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T17:15:55+00:00"
     },
     {
       "id": "80e357e952",
@@ -75,22 +93,22 @@
       "pubblicato": "2026-10-18T16:51:40+00:00"
     },
     {
-      "id": "1fe0d1445d",
-      "titolo": "Álex Baena punge nel finale contro l'Espanyol: l'Atlético non molla il Barça",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401882843",
-      "estratto": "Il subentrato dell'Atlético Madrid Álex Baena ha segnato nel finale regalando la vittoria per 1-0 in LaLiga sul campo dell'Espanyol.",
+      "id": "146c9fc687",
+      "titolo": "Jordan Henderson non rinuncia all'Inghilterra dopo la rinascita al Chelsea",
+      "url": "https://www.espn.com/soccer/story/_/id/50210890/jordan-henderson-england-chelsea-revitalisation",
+      "estratto": "Jordan Henderson non ha rinunciato a prolungare la propria carriera con l'Inghilterra, ribadendo l'intenzione di sfruttare questa seconda giovinezza al Chelsea per dimostrare di poter ancora competere ai massimi livelli.",
       "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-17T15:26:08+00:00"
+      "pubblicato": "2026-10-18T16:30:44+00:00"
     },
     {
-      "id": "17f0ab689a",
-      "titolo": "Il Real Madrid chiede le dimissioni del presidente de LaLiga dopo il paragone tra gli attacchi agli arbitri e la propaganda nazista",
-      "url": "https://www.espn.com/soccer/story/_/id/50196433/real-madrid-laliga-chief-resign-reference-nazi-propaganda",
-      "estratto": "Il Real Madrid chiede le dimissioni del numero uno de LaLiga dopo aver paragonato i tentativi del club di screditare gli arbitri alle tecniche di propaganda del regime nazista tedesco.",
+      "id": "fc944d10cd",
+      "titolo": "Flick conferma il rientro di Raphinha e de Jong nel Barcellona",
+      "url": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
+      "estratto": "Flick conferma il rientro di Raphinha e de Jong nel Barcellona",
       "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-16T15:11:09+00:00"
+      "pubblicato": "2026-10-16T17:17:45+00:00"
     },
     {
       "id": "ca59c4f252",

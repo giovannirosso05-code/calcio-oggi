@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-19T09:46:30.095099+00:00",
-  "totale": 106,
+  "aggiornato": "2026-10-19T09:47:31.840630+00:00",
+  "totale": 104,
   "articoli": [
     {
       "id": "577e49c8db",
@@ -15,6 +15,18 @@
       "squadra": "Atalanta"
     },
     {
+      "id": "53a0b78759",
+      "titolo": "\"E il tacco e la punta...\", il gesto di Kalulu sul 2-0 per la Lazio che ha fatto infuriare i tifosi della Juve",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/19-152000656/e_il_tacco_e_la_punta_il_gesto_di_kalulu_sul_2-0_per_la_lazio_che_ha_fatto_infuriare_i_tifosi_della_juve/",
+      "estratto": "Il difensore si lascia andare ad un virtuosismo fuori luogo e sui social si scatena la protesta bianconera: \"L'ho visto, mi sono alzata e me ne sono andata\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-10-19T09:45:12+00:00",
+      "squadra": "Lazio"
+    },
+    {
       "id": "ec3d205d6d",
       "titolo": "“Se giochi in Serie A non puoi fare una roba così”, “Vicini allo zero”: il processo Sky alla Juve",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151999049/se_giochi_in_serie_a_non_puoi_fare_una_roba_cos_vicini_allo_zero_il_processo_sky_alla_juve/",
@@ -25,18 +37,6 @@
       "punteggio": 190,
       "pubblicato": "2026-10-19T09:22:19+00:00",
       "squadra": "Juventus"
-    },
-    {
-      "id": "30b8a1f63d",
-      "titolo": "Gattuso ora ci crede: \"Si è creata una famiglia. E la Lazio può sorprendere”",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/18-151992933/gattuso_ora_ci_crede_si_creata_una_famiglia_e_la_lazio_pu_sorprendere/",
-      "estratto": "Il tecnico, dopo la grande vittoria sulla Juve allo Stadium, fa i complimenti ai ragazzi e guarda lontano: \"Ci godiamo il successo\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 190,
-      "pubblicato": "2026-10-18T21:24:09+00:00",
-      "squadra": "Lazio"
     },
     {
       "id": "519b6d3021",
@@ -133,18 +133,6 @@
       "punteggio": 120,
       "pubblicato": "2026-10-18T18:08:02+00:00",
       "squadra": "Nottm Forest"
-    },
-    {
-      "id": "b26cc612b1",
-      "titolo": "Carrick: il pareggio con il Leeds sembra un \"nuovo inizio\" per il Man Utd",
-      "url": "https://www.espn.com/video/clip/_/id/50211373/leeds-draw-feels-fresh-start-man-utd",
-      "estratto": "Carrick: il pareggio con il Leeds sembra un \"nuovo inizio\" per il Man Utd",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 120,
-      "pubblicato": "2026-10-18T17:15:55+00:00",
-      "squadra": "Leeds"
     },
     {
       "id": "2f14c4612f",
@@ -342,6 +330,17 @@
       "pubblicato": "2026-10-19T08:20:44+00:00"
     },
     {
+      "id": "e8aa0d503e",
+      "titolo": "José Mourinho non comprende \"l'ossessione\" per la gomitata del madridista Güler",
+      "url": "https://www.espn.com/soccer/story/_/id/50213726/mourinho-obsession-elbow-madrid-guler",
+      "estratto": "José Mourinho ha affermato di non aver visto \"immagini\" di una gomitata di Arda Güler — non sanzionata dall'arbitro — nel 4-1 del Real Madrid contro il Siviglia.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 0,
+      "pubblicato": "2026-10-19T08:14:56+00:00"
+    },
+    {
       "id": "4637a5d091",
       "titolo": "Calciomercato, indiscrezioni e notizie: il Galatasaray punta Fernandes del Man United",
       "url": "https://www.espn.com/soccer/story/_/id/50216552/transfer-rumors-news-galatasaray-eye-move-man-united-star-bruno-fernandes",
@@ -412,17 +411,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "9c0387c6ad",
-      "titolo": "Roberto De Zerbi sull'ultima mossa nel ritiro del Tottenham: \"Via i telefoni\" durante i pasti",
-      "url": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals",
-      "estratto": "Roberto De Zerbi ha rivelato che i telefoni sono stati banditi a tavola durante il ritiro del Tottenham a Marbella, nel suo ultimo tentativo di trasformare un gruppo eterogeneo di giocatori in una vera squadra.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T21:55:30+00:00"
-    },
-    {
       "id": "11cababbeb",
       "titolo": "Traffico in vetta alla Ligue 1: vincono Lione e Paris Fc, cade a sorpresa il Monaco",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/10/18-151991797/traffico_in_vetta_alla_ligue_1_vincono_lione_e_paris_fc_cade_a_sorpresa_il_monaco/",
@@ -433,18 +421,6 @@
       "punteggio": 0,
       "pubblicato": "2026-10-18T20:42:26+00:00",
       "squadra": "Paris FC"
-    },
-    {
-      "id": "146c9fc687",
-      "titolo": "Jordan Henderson non rinuncia all'Inghilterra dopo la rinascita al Chelsea",
-      "url": "https://www.espn.com/soccer/story/_/id/50210890/jordan-henderson-england-chelsea-revitalisation",
-      "estratto": "Jordan Henderson non ha rinunciato a prolungare la propria carriera con l'Inghilterra, ribadendo l'intenzione di sfruttare questa seconda giovinezza al Chelsea per dimostrare di poter ancora competere ai massimi livelli.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-18T16:30:44+00:00",
-      "squadra": "Chelsea"
     },
     {
       "id": "ab38693b60",
@@ -493,6 +469,18 @@
       "pubblicato": "2026-10-17T17:43:16+00:00"
     },
     {
+      "id": "1fe0d1445d",
+      "titolo": "Álex Baena punge nel finale contro l'Espanyol: l'Atlético non molla il Barça",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882843",
+      "estratto": "Il subentrato dell'Atlético Madrid Álex Baena ha segnato nel finale regalando la vittoria per 1-0 in LaLiga sul campo dell'Espanyol.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-17T15:26:08+00:00",
+      "squadra": "Espanyol"
+    },
+    {
       "id": "619310f81f",
       "titolo": "Gaetano: \"Felice del mio primo gol con l'Atalanta. Una sola parola: peccato, in tutti i sensi\"",
       "url": "https://www.tuttomercatoweb.com/serie-a/gaetano-felice-gol-atalanta-sola-parola-peccato-sensi-2284899",
@@ -517,6 +505,18 @@
       "squadra": "Juventus"
     },
     {
+      "id": "30b8a1f63d",
+      "titolo": "Gattuso ora ci crede: \"Si è creata una famiglia. E la Lazio può sorprendere”",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/18-151992933/gattuso_ora_ci_crede_si_creata_una_famiglia_e_la_lazio_pu_sorprendere/",
+      "estratto": "Il tecnico, dopo la grande vittoria sulla Juve allo Stadium, fa i complimenti ai ragazzi e guarda lontano: \"Ci godiamo il successo\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -10,
+      "pubblicato": "2026-10-18T21:24:09+00:00",
+      "squadra": "Lazio"
+    },
+    {
       "id": "8b869329af",
       "titolo": "Chi è Markus Krosche? E con quale ruolo può arrivare al Milan? Tutto sul re del mercato tedesco",
       "url": "https://www.tuttomercatoweb.com/serie-a/markus-krosche-ruolo-arrivare-milan-re-mercato-tedesco-2284907",
@@ -527,18 +527,6 @@
       "punteggio": -50,
       "pubblicato": "2026-10-19T09:29:22+00:00",
       "squadra": "Milan"
-    },
-    {
-      "id": "0220aa8634",
-      "titolo": "Lazio, il martirio dei tifosi continua: la gioia per il primato, ma solo fuori dall'Olimpico",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-martirio-tifosi-continua-gioia-primato-olimpico-2284895",
-      "estratto": "La Lazio di Gennaro Gattuso vola sulle ali dell'entusiasmo e sogna in grande dopo l'impresa di ieri all'Allianz Stadium contro la Juventus.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -50,
-      "pubblicato": "2026-10-19T08:51:00+00:00",
-      "squadra": "Lazio"
     },
     {
       "id": "91df5ac4f0",
@@ -709,27 +697,27 @@
       "squadra": "Milan"
     },
     {
-      "id": "0363043c94",
-      "titolo": "Conceicao rischia un mese di stop! Cos’è successo contro la Lazio",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997512/conceicao_rischia_un_mese_di_stop_cos_successo_contro_la_lazio/",
-      "estratto": "L'esterno portoghese entra nella ripresa e al triplice fischio esce sofferente: ora gli esami per capire l'entità del problema",
-      "fonte": "Tuttosport",
+      "id": "0220aa8634",
+      "titolo": "Lazio, il martirio dei tifosi continua: la gioia per il primato, ma solo fuori dall'Olimpico",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-martirio-tifosi-continua-gioia-primato-olimpico-2284895",
+      "estratto": "La Lazio di Gennaro Gattuso vola sulle ali dell'entusiasmo e sogna in grande dopo l'impresa di ieri all'Allianz Stadium contro la Juventus.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -250,
-      "pubblicato": "2026-10-19T06:25:20+00:00",
+      "pubblicato": "2026-10-19T08:51:00+00:00",
       "squadra": "Lazio"
     },
     {
-      "id": "83b561d29d",
-      "titolo": "Leboeuf definisce \"mediocre\" il Man United di Carrick",
-      "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average",
-      "estratto": "Leboeuf definisce \"mediocre\" il Man United di Carrick",
+      "id": "70c413ce54",
+      "titolo": "Michael Carrick sul peggior inizio del Man United dal 1986: la situazione \"non è affatto bella\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50210858/michael-carrick-man-united-worst-start-1986-situation-look-great",
+      "estratto": "Michael Carrick ha dichiarato che la situazione del Manchester United \"non è affatto bella\", dopo che l'1-1 sul campo del Leeds ha lasciato il club nella seconda metà della classifica di Premier League.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -280,
-      "pubblicato": "2026-10-18T22:23:21+00:00",
+      "pubblicato": "2026-10-18T18:53:49+00:00",
       "squadra": "Man United"
     },
     {
@@ -829,27 +817,27 @@
       "squadra": "Milan"
     },
     {
-      "id": "40cfecc3d7",
-      "titolo": "Lazio e Gattuso, se tre indizi fanno una prova",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/19-151996510/lazio_e_gattuso_se_tre_indizi_fanno_una_prova/",
-      "estratto": "La squadra che ha schiantato la Juve in casa sua ne ha forniti sette di fila: tutti i meriti di Gattuso",
-      "fonte": "Corriere dello Sport",
+      "id": "0363043c94",
+      "titolo": "Conceicao rischia un mese di stop! Cos’è successo contro la Lazio",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997512/conceicao_rischia_un_mese_di_stop_cos_successo_contro_la_lazio/",
+      "estratto": "L'esterno portoghese entra nella ripresa e al triplice fischio esce sofferente: ora gli esami per capire l'entità del problema",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-10-19T05:43:04+00:00",
+      "pubblicato": "2026-10-19T06:25:20+00:00",
       "squadra": "Lazio"
     },
     {
-      "id": "70c413ce54",
-      "titolo": "Michael Carrick sul peggior inizio del Man United dal 1986: la situazione \"non è affatto bella\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50210858/michael-carrick-man-united-worst-start-1986-situation-look-great",
-      "estratto": "Michael Carrick ha dichiarato che la situazione del Manchester United \"non è affatto bella\", dopo che l'1-1 sul campo del Leeds ha lasciato il club nella seconda metà della classifica di Premier League.",
+      "id": "338f545370",
+      "titolo": "Riepilogo Premier League: il Man United fatica e pareggia; l'Arsenal soffre ma vince",
+      "url": "https://www.espn.com/soccer/story/_/id/50190864/premier-league-live-updates-leeds-united-manchester-united-nottingham-forest-arsenal",
+      "estratto": "L'Arsenal conquista una vittoria fondamentale per tenere il passo del Manchester City in vetta alla Premier League. Tutti gli aggiornamenti nel liveblog dedicato di ESPN.",
       "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -480,
-      "pubblicato": "2026-10-18T18:53:49+00:00",
+      "pubblicato": "2026-10-18T18:01:56+00:00",
       "squadra": "Man United"
     },
     {
@@ -937,15 +925,27 @@
       "squadra": "Milan"
     },
     {
-      "id": "338f545370",
-      "titolo": "Riepilogo Premier League: il Man United fatica e pareggia; l'Arsenal soffre ma vince",
-      "url": "https://www.espn.com/soccer/story/_/id/50190864/premier-league-live-updates-leeds-united-manchester-united-nottingham-forest-arsenal",
-      "estratto": "L'Arsenal conquista una vittoria fondamentale per tenere il passo del Manchester City in vetta alla Premier League. Tutti gli aggiornamenti nel liveblog dedicato di ESPN.",
-      "fonte": "ESPN",
+      "id": "40cfecc3d7",
+      "titolo": "Lazio e Gattuso, se tre indizi fanno una prova",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/19-151996510/lazio_e_gattuso_se_tre_indizi_fanno_una_prova/",
+      "estratto": "La squadra che ha schiantato la Juve in casa sua ne ha forniti sette di fila: tutti i meriti di Gattuso",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -650,
+      "pubblicato": "2026-10-19T05:43:04+00:00",
+      "squadra": "Lazio"
+    },
+    {
+      "id": "57d252c90d",
+      "titolo": "United, altro passo falso: solo 1-1 a Leeds. Brighton show, l'Arsenal vince e si riavvicina al City",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/10/18-151982719/united_altro_passo_falso_solo_1-1_a_leeds_brighton_show_l_arsenal_vince_e_si_riavvicina_al_city/",
+      "estratto": "I Red Devils non vanno oltre il pareggio in trasferta. Un risultato che non aiuta Carrick, già finito sotto pressione. Successo dei Gunners in casa del Nottingham",
+      "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -680,
-      "pubblicato": "2026-10-18T18:01:56+00:00",
+      "pubblicato": "2026-10-18T17:34:00+00:00",
       "squadra": "Man United"
     },
     {
@@ -997,6 +997,18 @@
       "squadra": "Barcelona"
     },
     {
+      "id": "17f0ab689a",
+      "titolo": "Il Real Madrid chiede le dimissioni del presidente de LaLiga dopo il paragone tra gli attacchi agli arbitri e la propaganda nazista",
+      "url": "https://www.espn.com/soccer/story/_/id/50196433/real-madrid-laliga-chief-resign-reference-nazi-propaganda",
+      "estratto": "Il Real Madrid chiede le dimissioni del numero uno de LaLiga dopo aver paragonato i tentativi del club di screditare gli arbitri alle tecniche di propaganda del regime nazista tedesco.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -800,
+      "pubblicato": "2026-10-16T15:11:09+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
       "id": "eea6bae2c2",
       "titolo": "\"Juve inferiore\", Spalletti giù duro: \"Senza ritmo né cuore. C'è chi lotta e chi si lascia cadere\"",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/18-151992553/juve_inferiore_spalletti_gi_duro_senza_ritmo_n_cuore_c_chi_lotta_e_chi_si_lascia_cadere/",
@@ -1021,28 +1033,16 @@
       "squadra": "Milan"
     },
     {
-      "id": "57d252c90d",
-      "titolo": "United, altro passo falso: solo 1-1 a Leeds. Brighton show, l'Arsenal vince e si riavvicina al City",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/10/18-151982719/united_altro_passo_falso_solo_1-1_a_leeds_brighton_show_l_arsenal_vince_e_si_riavvicina_al_city/",
-      "estratto": "I Red Devils non vanno oltre il pareggio in trasferta. Un risultato che non aiuta Carrick, già finito sotto pressione. Successo dei Gunners in casa del Nottingham",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -880,
-      "pubblicato": "2026-10-18T17:34:00+00:00",
-      "squadra": "Man United"
-    },
-    {
-      "id": "997a04ae15",
-      "titolo": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto",
-      "url": "https://www.espn.com/video/clip/_/id/50211677/arsenal-fans-frustrated-games-more-difficult-be",
-      "estratto": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto",
+      "id": "fde05fe9b2",
+      "titolo": "Michael Carrick non placa le pressioni: il Man United pareggia a Leeds",
+      "url": "https://www.espn.com/soccer/story/_/id/50210339/pressure-piles-michael-carrick-man-united-draw-leeds",
+      "estratto": "Il futuro di Michael Carrick sulla panchina del Manchester United resta tutt'altro che al sicuro, dopo che la sua squadra è stata fermata domenica sull'1-1 dai rivali del Leeds United.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-10-18T18:01:27+00:00",
-      "squadra": "Arsenal"
+      "punteggio": -880,
+      "pubblicato": "2026-10-18T15:54:17+00:00",
+      "squadra": "Man United"
     },
     {
       "id": "55b6825f74",
@@ -1081,15 +1081,15 @@
       "squadra": "Milan"
     },
     {
-      "id": "fde05fe9b2",
-      "titolo": "Michael Carrick non placa le pressioni: il Man United pareggia a Leeds",
-      "url": "https://www.espn.com/soccer/story/_/id/50210339/pressure-piles-michael-carrick-man-united-draw-leeds",
-      "estratto": "Il futuro di Michael Carrick sulla panchina del Manchester United resta tutt'altro che al sicuro, dopo che la sua squadra è stata fermata domenica sull'1-1 dai rivali del Leeds United.",
+      "id": "6336d27bce",
+      "titolo": "Nicol: dubbi sul Manchester United di Carrick dopo la prestazione contro il Leeds",
+      "url": "https://www.espn.com/video/clip/_/id/50210530/question-marks-carrick-manchester-united-performance-vs-leeds",
+      "estratto": "Nicol: dubbi sul Manchester United di Carrick dopo la prestazione contro il Leeds",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1080,
-      "pubblicato": "2026-10-18T15:54:17+00:00",
+      "pubblicato": "2026-10-18T15:29:36+00:00",
       "squadra": "Man United"
     },
     {
@@ -1117,28 +1117,16 @@
       "squadra": "Juventus"
     },
     {
-      "id": "6336d27bce",
-      "titolo": "Nicol: dubbi sul Manchester United di Carrick dopo la prestazione contro il Leeds",
-      "url": "https://www.espn.com/video/clip/_/id/50210530/question-marks-carrick-manchester-united-performance-vs-leeds",
-      "estratto": "Nicol: dubbi sul Manchester United di Carrick dopo la prestazione contro il Leeds",
+      "id": "a52a6d4dd5",
+      "titolo": "Le parole di Lisandro Martínez sul Man United \"non sono così lontane dal vero\", ma non andavano dette - Peter Schmeichel",
+      "url": "https://www.espn.com/soccer/story/_/id/50197099/lisandro-martinez-man-united-comments-not-far-not-made-peter-schmeichel",
+      "estratto": "L'ex portiere del Manchester United Peter Schmeichel ha dichiarato di ritenere che le critiche rivolte da Lisandro Martínez ai vertici societari del club \"non siano così lontane dal vero\".",
       "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
+      "serie": "Champions",
+      "citazione": true,
       "punteggio": -1280,
-      "pubblicato": "2026-10-18T15:29:36+00:00",
+      "pubblicato": "2026-10-16T16:59:55+00:00",
       "squadra": "Man United"
-    },
-    {
-      "id": "fc944d10cd",
-      "titolo": "Flick conferma il rientro di Raphinha e de Jong nel Barcellona",
-      "url": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
-      "estratto": "Flick conferma il rientro di Raphinha e de Jong nel Barcellona",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1400,
-      "pubblicato": "2026-10-16T17:17:45+00:00",
-      "squadra": "Barcelona"
     },
     {
       "id": "8b4a675f51",
@@ -1151,18 +1139,6 @@
       "punteggio": -1450,
       "pubblicato": "2026-10-19T09:25:00+00:00",
       "squadra": "Juventus"
-    },
-    {
-      "id": "a52a6d4dd5",
-      "titolo": "Le parole di Lisandro Martínez sul Man United \"non sono così lontane dal vero\", ma non andavano dette - Peter Schmeichel",
-      "url": "https://www.espn.com/soccer/story/_/id/50197099/lisandro-martinez-man-united-comments-not-far-not-made-peter-schmeichel",
-      "estratto": "L'ex portiere del Manchester United Peter Schmeichel ha dichiarato di ritenere che le critiche rivolte da Lisandro Martínez ai vertici societari del club \"non siano così lontane dal vero\".",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": -1480,
-      "pubblicato": "2026-10-16T16:59:55+00:00",
-      "squadra": "Man United"
     },
     {
       "id": "91b900950e",
