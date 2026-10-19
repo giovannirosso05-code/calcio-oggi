@@ -44,6 +44,7 @@ partiteLive((agg) => { partite = agg; ridisegna(); }).then(({ partite: p, leghe:
   document.getElementById("g-prec").addEventListener("click", () => vai(spostaGiorno(stato.giorno, -1)));
   document.getElementById("g-succ").addEventListener("click", () => vai(spostaGiorno(stato.giorno, 1)));
   document.getElementById("g-oggi").addEventListener("click", () => vai(oggi));
+  document.getElementById("g-data").addEventListener("click", (e) => { try { e.target.showPicker(); } catch (err) { /* il browser lo apre da solo */ } });
   document.getElementById("g-data").addEventListener("change", (e) => e.target.value && vai(e.target.value));
   document.getElementById("filtri").addEventListener("click", (e) => {
     const b = e.target.closest(".pill[data-f]");
