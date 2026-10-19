@@ -1,5 +1,5 @@
-import { fetchJSON, esc, montaPagina, oraRoma } from "./common.js?v=11";
-import { param, errore, stemma, linkSquadra, linkGiocatore , caricaFoto, paginaFoto } from "./schede.js?v=11";
+import { fetchJSON, esc, montaPagina, oraRoma } from "./common.js?v=12";
+import { param, errore, stemma, linkSquadra, linkGiocatore , caricaFoto, paginaFoto } from "./schede.js?v=12";
 
 montaPagina("partite.html");
 const box = document.getElementById("scheda"), id = param("id");
@@ -22,7 +22,7 @@ function disegna(righe, casa, sq) {
     const x = (casa ? 6 : 94) + (casa ? 1 : -1) * (i * (40 / (n - 1)));            // 6%..46% per la casa, 94%..54% per gli ospiti
     const y0 = ((j + 0.5) / fila.length) * 100;
     const y = casa ? y0 : 100 - y0;                                                  // chi attacca a sinistra ha destra e sinistra invertite
-    return `<a class="gioc ${casa ? "casa" : "ospite"}" style="left:${x}%;top:${y}%" href="giocatore.html?id=${encodeURIComponent(p.id)}&squadra=${encodeURIComponent(sq)}"><i>${esc(p.num || "")}</i><span>${esc(p.breve || p.nome)}</span></a>`;
+    return `<a class="gioc ${casa ? "casa" : "ospite"}${p.fuori ? " fuori" : ""}"${p.fuori ? ' title="Espulso nell\'ultima partita: probabilmente squalificato"' : ""} style="left:${x}%;top:${y}%" href="giocatore.html?id=${encodeURIComponent(p.id)}&squadra=${encodeURIComponent(sq)}"><i>${esc(p.num || "")}</i><span>${p.fuori ? "⛔ " : ""}${esc(p.breve || p.nome)}</span></a>`;
   }).join("")).join("");
 }
 const campoDoppio = (r1, r2, c1, c2) => `<div class="campo-scroll"><div class="campo-o">
@@ -91,7 +91,7 @@ const titolariTesto = (r, sq) => `<ul class="liste">${r.giocatori.filter((p) => 
     const pr = [p.casa, p.ospite].map((s) => det?.probabili?.[s.id]);
     if (p.stato === "pre" && pr[0] && pr[1]) {
       const f1 = file(pr[0].giocatori, pr[0].modulo), f2 = file(pr[1].giocatori, pr[1].modulo);
-      forma = `<p class="avviso">Formazioni ufficiali non ancora disponibili. Queste sono le <b>probabili</b>, costruite con l'ultimo undici schierato da ciascuna squadra: non sono una previsione degli allenatori e possono cambiare.</p>
+      forma = `<p class="avviso">Formazioni ufficiali non ancora disponibili. Queste sono le <b>probabili</b>, costruite con l'ultimo undici schierato da ciascuna squadra: non sono una previsione degli allenatori e non tengono conto di squalifiche per somma di ammonizioni, infortuni o scelte tecniche. ⛔ = espulso nell'ultima partita, quindi probabilmente squalificato.</p>
         <div class="forma-testa"><span>${stemma(p.casa.logo, 26)} ${esc(p.casa.nome)} ${pr[0].modulo ? "· " + esc(pr[0].modulo) : ""}</span><span>${esc(p.ospite.nome)} ${pr[1].modulo ? "· " + esc(pr[1].modulo) : ""} ${stemma(p.ospite.logo, 26)}</span></div>`
         + (f1 && f2 ? campoDoppio(f1, f2, { id: p.casa.id, modulo: pr[0].modulo }, { id: p.ospite.id, modulo: pr[1].modulo }) : `<div class="due-colonne"><div>${titolariTesto(pr[0], p.casa.id)}</div><div>${titolariTesto(pr[1], p.ospite.id)}</div></div>`)
         + `<p class="tenue piccolo">Ultimo undici: ${esc(p.casa.breve || p.casa.nome)} (${esc(pr[0].contro)}), ${esc(p.ospite.breve || p.ospite.nome)} (${esc(pr[1].contro)}).</p>`;

@@ -67,14 +67,20 @@ def probabile(args):
     if not giocate:
         return squadra, None
     ultima = giocate[-1]
-    if precedenti.get(squadra, {}).get("evento") == ultima["id"]:
+    if precedenti.get(squadra, {}).get("evento") == ultima["id"] and precedenti[squadra].get("v") == 2:
         return squadra, precedenti[squadra]
     sm = scarica(SUMMARY.format(lega="all"), event=ultima["id"])
     for r in (sm or {}).get("rosters") or []:
         if str(r["team"]["id"]) == str(squadra):
             u = undici(r)
+            # espulso nell'ultima partita = squalificato nella prossima: lo segniamo, non lo togliamo (non sapremmo chi lo sostituisce)
+            espulsi = {str(((x.get("participants") or [{}])[0].get("athlete") or {}).get("id")) for x in (sm or {}).get("keyEvents") or []
+                       if "red-card" in ((x.get("type") or {}).get("type") or "") and str((x.get("team") or {}).get("id")) == str(squadra)}
+            for g in u["giocatori"]:
+                if str(g["id"]) in espulsi:
+                    g["fuori"] = True
             if len(u["giocatori"]) == 11:
-                return squadra, {"evento": ultima["id"], "contro": ultima.get("name", ""), "data": ultima["date"], **u}
+                return squadra, {"v": 2, "evento": ultima["id"], "contro": ultima.get("name", ""), "data": ultima["date"], **u}
     return squadra, None
 
 
