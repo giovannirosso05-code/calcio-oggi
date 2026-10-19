@@ -538,9 +538,11 @@ def da_oggi(oggi=None, testo=None) -> dict:
     if errori:
         raise ErroreScaletta("Non sono riuscito a scrivere un riepilogo che rispetti le regole (" + "; ".join(errori[:3]) + "): il video non l'ho fatto.")
     gancio = _scena(spec["hook_foto"], tutte, hook=True, senza_allenatore=True, hook_titolo=spec["hook_titolo"], testo=spec["hook_testo"])
-    gancio.pop("cerca", None)   # le foto degli articoli sulla partita (qui un montaggio di tre fotogrammi) non vanno bene per la copertina
-    gancio["persona_libera"] = COPERTINA_PERSONA
-    gancio["solo_commons"] = True   # volto grande, foto libera (Wikimedia, verificata su Wikidata)
+    # copertina: il volto di Yamal, ma SOLO da una foto ESPN (didascalia con nome e cognome); se ESPN non ne ha, resta la scheda con i due stemmi della partita
+    gancio.pop("cerca", None)
+    gancio.pop("persona_libera", None)
+    gancio["foto"] = COPERTINA_PERSONA
+    gancio["tipo"] = "persona"
     scene = [gancio,
              {"foto": "", "tabella": True, "testo": f"Questi sono i risultati {etichetta}. " + spec["tabella_testo"], "durata_min": 6.0}]
     for c in cl:
