@@ -22,7 +22,7 @@ export const aggiornatoIl = (iso) => (iso ? `Aggiornato alle ${oraRoma(iso)} · 
 export const spostaGiorno = (g, n) => { const d = dataSolo(g); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
 
 // ---------- Pagina: header, footer, tema ----------
-const PAGINE = [["index.html", "Oggi"], ["partite.html", "Partite"], ["classifiche.html", "Classifiche"], ["notizie.html", "Notizie"], ["giochi.html", "Giochi"]];
+const PAGINE = [["index.html", "Oggi"], ["partite.html", "Partite"], ["classifiche.html", "Classifiche"], ["squadre.html", "Squadre"], ["notizie.html", "Notizie"], ["giochi.html", "Giochi"]];
 
 function applicaTema(t) { document.documentElement.dataset.tema = t; }
 
@@ -73,6 +73,9 @@ function marcatori(p) {
   return `<div class="marcatori">⚽ ${p.gol.map(nome).join(" · ")}</div>`;
 }
 
+// nome della squadra: porta alla sua scheda (sopra il link della partita)
+const nomeSq = (s) => (s.id ? `<a class="nome-sq" href="squadra.html?id=${encodeURIComponent(s.id)}">${esc(s.breve || s.nome)}</a>` : `<span>${esc(s.breve || s.nome)}</span>`);
+
 export function cardPartita(p, senzaOra = false) {
   const nascondi = senzaOra && p.stato === "pre";   // l'orario è già nell'etichetta della fascia
   const { casa, ospite } = p;
@@ -81,11 +84,12 @@ export function cardPartita(p, senzaOra = false) {
   return `<div class="partita${p.stato === "in" ? " live" : ""}${nascondi ? " senza-stato" : ""}">
     ${nascondi ? "" : colonnaStato(p)}
     <div class="p-squadre">
-      <div class="p-sq${vince(casa)}">${logoSq(casa)}<span>${esc(casa.breve || casa.nome)}</span></div>
-      <div class="p-sq${vince(ospite)}">${logoSq(ospite)}<span>${esc(ospite.breve || ospite.nome)}</span></div>
+      <div class="p-sq${vince(casa)}">${logoSq(casa)}${nomeSq(casa)}</div>
+      <div class="p-sq${vince(ospite)}">${logoSq(ospite)}${nomeSq(ospite)}</div>
     </div>
     <div class="p-gol"><b>${gol[0]}</b><b>${gol[1]}</b></div>
     ${p.stato !== "pre" ? marcatori(p) : ""}
+    ${p.id && p.lega ? `<a class="partita-link" href="partita.html?id=${encodeURIComponent(p.id)}&lega=${encodeURIComponent(p.lega)}" aria-label="${esc(casa.nome)} – ${esc(ospite.nome)}: formazioni e cronaca"></a>` : ""}
   </div>`;
 }
 
@@ -135,8 +139,9 @@ export async function partiteLive(quandoAggiorna) {
   };
   const ricarica = async () => {
     const giorno = oggiRoma().replaceAll("-", "");
-    const risposte = await Promise.all(dati.leghe.map((l) => fetch(SCOREBOARD(l.id, giorno)).then((r) => (r.ok ? r.json() : null)).catch(() => null)));
-    const nuove = risposte.flatMap((d, i) => (d?.events || []).map((e) => daEvento(e, dati.leghe[i].id)).filter(Boolean));
+    const attive = dati.leghe.filter((l) => partite.some((p) => p.lega === l.id && giornoRoma(p.data) === oggiRoma()));
+    const risposte = await Promise.all(attive.map((l) => fetch(SCOREBOARD(l.id, giorno)).then((r) => (r.ok ? r.json() : null)).catch(() => null)));
+    const nuove = risposte.flatMap((d, i) => (d?.events || []).map((e) => daEvento(e, attive[i].id)).filter(Boolean));
     if (nuove.length) { unisci(nuove); quandoAggiorna?.(partite); }
   };
   const vicine = () => partite.some((p) => p.stato === "in" || (p.stato === "pre" && Math.abs(new Date(p.data) - Date.now()) < 3 * 36e5));
@@ -155,7 +160,7 @@ export function tabellaClassifica(gruppo, completa = true) {
   const righe = gruppo.righe.map((r) => {
     if (r.zona?.testo) zone.set(r.zona.testo, r.zona.colore || "#888");
     const bordo = r.zona?.colore ? `style="border-left-color:${esc(r.zona.colore)}"` : "";
-    return `<tr><td class="pos" ${bordo}>${r.pos ?? ""}</td><td class="sq"><div class="sq-cella">${logoSq(r.squadra)}<span>${esc(r.squadra.breve || r.squadra.nome)}</span></div></td>
+    return `<tr><td class="pos" ${bordo}>${r.pos ?? ""}</td><td class="sq"><div class="sq-cella">${logoSq(r.squadra)}${nomeSq(r.squadra)}</div></td>
       <td>${r.g ?? ""}</td><td class="opz">${r.v ?? ""}</td><td class="opz">${r.n ?? ""}</td><td class="opz">${r.p ?? ""}</td><td class="opz">${r.gf ?? ""}</td><td class="opz">${r.gs ?? ""}</td>
       <td>${r.dr > 0 ? "+" : ""}${r.dr ?? ""}</td><td class="pt">${r.pt ?? ""}</td></tr>`;
   }).join("");

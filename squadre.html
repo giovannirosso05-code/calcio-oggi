@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="img/favicon-64.png?v=2">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png?v=2">
+<link rel="manifest" href="manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Calcio Oggi">
+<meta name="theme-color" content="#14171c">
+<title>Squadre e giocatori — Calcio Oggi</title>
+<meta name="description" content="Squadre, rose e schede dei giocatori di tutti i campionati: Serie A, Premier League, LaLiga e molti altri.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Calcio Oggi">
+<meta property="og:title" content="Squadre e giocatori — Calcio Oggi">
+<meta property="og:description" content="Squadre, rose e schede dei giocatori di tutti i campionati: Serie A, Premier League, LaLiga e molti altri.">
+<meta property="og:image" content="https://giovannirosso05-code.github.io/calcio-oggi/img/og-image.png">
+<meta property="og:url" content="https://giovannirosso05-code.github.io/calcio-oggi/squadre.html">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://giovannirosso05-code.github.io/calcio-oggi/squadre.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=7">
+<script>try{var t=localStorage.getItem("tema");if(t!=="chiaro"&&t!=="scuro")t=matchMedia("(prefers-color-scheme: dark)").matches?"scuro":"chiaro";document.documentElement.dataset.tema=t}catch(e){document.documentElement.dataset.tema="chiaro"}</script>
+</head>
+<body>
+<a class="skip" href="#contenuto">Vai al contenuto</a>
+<header id="site-header" class="site-header"></header>
+<main id="contenuto">
+<div class="container">
+  <section class="hero"><h1><span class="accent">Squadre</span> e giocatori</h1>
+    <p id="intro">Scegli un campionato, oppure cerca una squadra o un giocatore.</p></section>
+  <input id="cerca" class="cerca" type="search" placeholder="Cerca una squadra o un giocatore…" aria-label="Cerca una squadra o un giocatore" autocomplete="off">
+  <div id="contenuto-squadre"><div class="vuoto">Caricamento…</div></div>
+</div>
+</main>
+<footer id="site-footer" class="site-footer"></footer>
+<script type="module" src="js/squadre.js?v=7"></script>
+</body>
+</html>

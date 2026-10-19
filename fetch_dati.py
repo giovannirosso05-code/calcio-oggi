@@ -15,21 +15,73 @@ DATA_DIR.mkdir(exist_ok=True)
 SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/soccer/{lega}/scoreboard"
 STANDINGS = "https://site.api.espn.com/apis/v2/sports/soccer/{lega}/standings"
 
-GIORNI_INDIETRO = 7
+GIORNI_INDIETRO = 4
 GIORNI_AVANTI = 7
 
-# id ESPN, nome, ha una classifica a girone unico?
+# id ESPN, nome in italiano, gruppo (paese o tipo di competizione), ha una classifica a tabella?
+# L'ordine è quello in cui compaiono nel sito: prima l'Italia, poi le coppe europee, poi i campionati top.
 LEGHE = [
-    {"id": "ita.1", "nome": "Serie A", "classifica": True},
-    {"id": "uefa.champions", "nome": "Champions League", "classifica": True},
-    {"id": "uefa.europa", "nome": "Europa League", "classifica": True},
-    {"id": "uefa.europa.conf", "nome": "Conference League", "classifica": True},
-    {"id": "ita.coppa_italia", "nome": "Coppa Italia", "classifica": False},
-    {"id": "ita.2", "nome": "Serie B", "classifica": True},
-    {"id": "eng.1", "nome": "Premier League", "classifica": True},
-    {"id": "esp.1", "nome": "LaLiga", "classifica": True},
-    {"id": "ger.1", "nome": "Bundesliga", "classifica": True},
-    {"id": "fra.1", "nome": "Ligue 1", "classifica": True},
+    {"id": "ita.1", "nome": "Serie A", "gruppo": "Italia", "classifica": True},
+    {"id": "ita.2", "nome": "Serie B", "gruppo": "Italia", "classifica": True},
+    {"id": "ita.coppa_italia", "nome": "Coppa Italia", "gruppo": "Italia", "classifica": False},
+    {"id": "ita.super_cup", "nome": "Supercoppa Italiana", "gruppo": "Italia", "classifica": False},
+    {"id": "uefa.champions", "nome": "Champions League", "gruppo": "Coppe europee", "classifica": True},
+    {"id": "uefa.europa", "nome": "Europa League", "gruppo": "Coppe europee", "classifica": True},
+    {"id": "uefa.europa.conf", "nome": "Conference League", "gruppo": "Coppe europee", "classifica": True},
+    {"id": "uefa.europa.conf_qual", "nome": "Conference League (qualificazioni)", "gruppo": "Coppe europee", "classifica": False},
+    {"id": "eng.1", "nome": "Premier League", "gruppo": "Inghilterra", "classifica": True},
+    {"id": "eng.2", "nome": "Championship", "gruppo": "Inghilterra", "classifica": True},
+    {"id": "eng.3", "nome": "League One", "gruppo": "Inghilterra", "classifica": True},
+    {"id": "eng.fa", "nome": "FA Cup", "gruppo": "Inghilterra", "classifica": False},
+    {"id": "eng.league_cup", "nome": "Carabao Cup", "gruppo": "Inghilterra", "classifica": False},
+    {"id": "eng.charity", "nome": "Community Shield", "gruppo": "Inghilterra", "classifica": False},
+    {"id": "esp.1", "nome": "LaLiga", "gruppo": "Spagna", "classifica": True},
+    {"id": "esp.2", "nome": "LaLiga 2", "gruppo": "Spagna", "classifica": True},
+    {"id": "esp.copa_del_rey", "nome": "Coppa del Re", "gruppo": "Spagna", "classifica": False},
+    {"id": "esp.super_cup", "nome": "Supercoppa di Spagna", "gruppo": "Spagna", "classifica": False},
+    {"id": "ger.1", "nome": "Bundesliga", "gruppo": "Germania", "classifica": True},
+    {"id": "ger.2", "nome": "2. Bundesliga", "gruppo": "Germania", "classifica": True},
+    {"id": "ger.dfb_pokal", "nome": "Coppa di Germania", "gruppo": "Germania", "classifica": False},
+    {"id": "ger.super_cup", "nome": "Supercoppa di Germania", "gruppo": "Germania", "classifica": False},
+    {"id": "fra.1", "nome": "Ligue 1", "gruppo": "Francia", "classifica": True},
+    {"id": "fra.2", "nome": "Ligue 2", "gruppo": "Francia", "classifica": True},
+    {"id": "fra.coupe_de_france", "nome": "Coppa di Francia", "gruppo": "Francia", "classifica": False},
+    {"id": "por.1", "nome": "Primeira Liga", "gruppo": "Portogallo", "classifica": True},
+    {"id": "ned.1", "nome": "Eredivisie", "gruppo": "Paesi Bassi", "classifica": True},
+    {"id": "bel.1", "nome": "Pro League", "gruppo": "Belgio", "classifica": True},
+    {"id": "tur.1", "nome": "Süper Lig", "gruppo": "Turchia", "classifica": True},
+    {"id": "sco.1", "nome": "Scottish Premiership", "gruppo": "Scozia", "classifica": True},
+    {"id": "gre.1", "nome": "Super League Grecia", "gruppo": "Grecia", "classifica": True},
+    {"id": "aut.1", "nome": "Bundesliga Austria", "gruppo": "Austria", "classifica": True},
+    {"id": "sui.1", "nome": "Super League Svizzera", "gruppo": "Svizzera", "classifica": True},
+    {"id": "den.1", "nome": "Superliga Danimarca", "gruppo": "Danimarca", "classifica": True},
+    {"id": "swe.1", "nome": "Allsvenskan", "gruppo": "Svezia", "classifica": True},
+    {"id": "nor.1", "nome": "Eliteserien", "gruppo": "Norvegia", "classifica": True},
+    {"id": "cze.1", "nome": "Liga Ceca", "gruppo": "Repubblica Ceca", "classifica": True},
+    {"id": "rou.1", "nome": "Liga 1 Romania", "gruppo": "Romania", "classifica": True},
+    {"id": "rus.1", "nome": "Premier League Russa", "gruppo": "Russia", "classifica": True},
+    {"id": "fifa.world", "nome": "Mondiali", "gruppo": "Nazionali", "classifica": False},
+    {"id": "fifa.worldq.uefa", "nome": "Qualificazioni Mondiali (Europa)", "gruppo": "Nazionali", "classifica": True},
+    {"id": "fifa.worldq.conmebol", "nome": "Qualificazioni Mondiali (Sud America)", "gruppo": "Nazionali", "classifica": True},
+    {"id": "uefa.euro", "nome": "Europei", "gruppo": "Nazionali", "classifica": False},
+    {"id": "uefa.nations", "nome": "Nations League", "gruppo": "Nazionali", "classifica": True},
+    {"id": "concacaf.nations.league", "nome": "Nations League CONCACAF", "gruppo": "Nazionali", "classifica": False},
+    {"id": "fifa.friendly", "nome": "Amichevoli internazionali", "gruppo": "Nazionali", "classifica": False},
+    {"id": "fifa.cwc", "nome": "Mondiale per Club", "gruppo": "Club nel mondo", "classifica": False},
+    {"id": "club.friendly", "nome": "Amichevoli di club", "gruppo": "Club nel mondo", "classifica": False},
+    {"id": "usa.1", "nome": "MLS", "gruppo": "Stati Uniti", "classifica": True},
+    {"id": "mex.1", "nome": "Liga MX", "gruppo": "Messico", "classifica": True},
+    {"id": "bra.1", "nome": "Brasileirão", "gruppo": "Brasile", "classifica": True},
+    {"id": "arg.1", "nome": "Liga Argentina", "gruppo": "Argentina", "classifica": True},
+    {"id": "conmebol.libertadores", "nome": "Copa Libertadores", "gruppo": "Americhe", "classifica": True},
+    {"id": "conmebol.sudamericana", "nome": "Copa Sudamericana", "gruppo": "Americhe", "classifica": True},
+    {"id": "concacaf.champions", "nome": "Champions CONCACAF", "gruppo": "Americhe", "classifica": False},
+    {"id": "jpn.1", "nome": "J1 League", "gruppo": "Giappone", "classifica": True},
+    {"id": "chn.1", "nome": "Super League Cina", "gruppo": "Cina", "classifica": True},
+    {"id": "aus.1", "nome": "A-League", "gruppo": "Australia", "classifica": True},
+    {"id": "ind.1", "nome": "Indian Super League", "gruppo": "India", "classifica": True},
+    {"id": "afc.champions", "nome": "Champions League Asia", "gruppo": "Asia", "classifica": True},
+    {"id": "caf.champions", "nome": "Champions League Africa", "gruppo": "Africa", "classifica": True},
 ]
 
 sessione = requests.Session()
@@ -169,7 +221,7 @@ def main():
         raise SystemExit("Nessuna partita scaricata: i file in data/ restano quelli di prima.")
     (DATA_DIR / "partite.json").write_text(json.dumps({
         "generato": adesso,
-        "leghe": [{"id": l["id"], "nome": l["nome"], **loghi.get(l["id"], {})} for l in LEGHE],
+        "leghe": [{"id": l["id"], "nome": l["nome"], "gruppo": l["gruppo"], **loghi.get(l["id"], {})} for l in LEGHE],
         "partite": partite,
     }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"partite.json: {len(partite)} partite ({errori}/{totale} richieste fallite)")
@@ -179,7 +231,7 @@ def main():
     if classifiche:
         (DATA_DIR / "classifiche.json").write_text(json.dumps({
             "generato": adesso,
-            "classifiche": [{**c, **loghi.get(c["lega"], {})} for c in classifiche],
+            "classifiche": [{**c, "gruppo": next(l["gruppo"] for l in LEGHE if l["id"] == c["lega"]), **loghi.get(c["lega"], {})} for c in classifiche],
         }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"classifiche.json: {len(classifiche)} campionati")
 

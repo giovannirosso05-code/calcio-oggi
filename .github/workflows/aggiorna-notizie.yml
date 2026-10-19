@@ -27,9 +27,11 @@ jobs:
         run: python build_news.py
       - name: Partite e classifiche (ESPN)
         run: python fetch_dati.py
+      - name: Formazioni e cronaca delle partite vicine
+        run: python fetch_dettagli.py || true
       - name: Salva dati
         run: |
           git config user.name "calcio-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/rassegna.json data/rassegna_scartate.json data/traduzioni.json data/partite.json data/classifiche.json 2>/dev/null || true
+          git add data/rassegna.json data/rassegna_scartate.json data/traduzioni.json data/partite.json data/classifiche.json data/dettagli.json 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "dati: aggiornamento" && git pull --rebase origin main && git push)

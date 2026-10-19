@@ -1,0 +1,38 @@
+import { fetchJSON, esc, montaPagina, cardPartita } from "./common.js?v=7";
+import { param, errore, stemma, foto, RUOLI, ORDINE_RUOLI, RUOLO_CODICE, nazione, trovaSquadra } from "./schede.js?v=7";
+
+montaPagina("squadre.html");
+const box = document.getElementById("scheda"), id = param("id");
+
+(async () => {
+  if (!id) return errore(box, "Squadra non indicata.");
+  const trovata = await trovaSquadra(id);
+  if (!trovata) return errore(box, "Non trovo questa squadra.");
+  const { squadra: t, lega } = trovata;
+  document.title = `${t.nome}: rosa, risultati e prossime partite — Calcio Oggi`;
+
+  // posizione in classifica (se c'è) dal file delle classifiche
+  let posizione = "";
+  const [cl, pa] = await Promise.all([fetchJSON("data/classifiche.json").catch(() => null), fetchJSON("data/partite.json").catch(() => null)]);
+  for (const c of cl?.classifiche || []) {
+    if (c.lega !== lega) continue;
+    for (const g of c.gruppi) { const r = g.righe.find((x) => String(x.squadra.id) === String(id)); if (r) posizione = `${r.pos}° in ${c.nome} · ${r.pt} punti`; }
+  }
+  const testa = `<div class="scheda-testa" style="--col:${t.colore ? "#" + esc(t.colore) : "var(--accento)"}">${stemma(t.logo, 88)}
+    <div><h1>${esc(t.nome)}</h1>${posizione ? `<p>${esc(posizione)}</p>` : ""}${t.allenatore ? `<p class="tenue">Allenatore: ${esc(t.allenatore)}</p>` : ""}</div></div>`;
+
+  // partite: ultime e prossime (dal file delle partite, finestra di pochi giorni)
+  const sue = (pa?.partite || []).filter((p) => String(p.casa.id) === String(id) || String(p.ospite.id) === String(id));
+  const giocate = sue.filter((p) => p.stato === "post").slice(-5).reverse(), prossime = sue.filter((p) => p.stato !== "post").slice(0, 5);
+  const blocco = (titolo, l) => (l.length ? `<h2 class="section-title"><span>${titolo}</span></h2><div class="griglia-partite">${l.map((p) => cardPartita(p)).join("")}</div>` : "");
+
+  // rosa per ruolo
+  const perRuolo = ORDINE_RUOLI.map((r) => [r, t.giocatori.filter((a) => RUOLO_CODICE[a.ruolo] === r).sort((a, b) => (Number(a.num) || 99) - (Number(b.num) || 99))]).filter(([, l]) => l.length);
+  const altri = t.giocatori.filter((a) => !RUOLO_CODICE[a.ruolo]);
+  if (altri.length) perRuolo.push(["Altri", altri]);
+  const riga = (a) => `<a class="riga-giocatore" href="giocatore.html?id=${encodeURIComponent(a.id)}&squadra=${encodeURIComponent(id)}">${foto(a.id, a.nome, "foto foto-s")}
+      <span><b>${a.num ? `<i class="num">${esc(a.num)}</i> ` : ""}${esc(a.nome)}</b><small>${a.eta ? a.eta + " anni" : ""}${a.naz ? " · " + esc(nazione(a.naz)) : ""}</small></span></a>`;
+  const rosa = perRuolo.length ? perRuolo.map(([r, l]) => `<h2 class="section-title"><span>${RUOLI[r] || r}</span></h2><div class="elenco-giocatori">${l.map(riga).join("")}</div>`).join("")
+    : `<div class="vuoto">La rosa di questa squadra non è disponibile.</div>`;
+  box.innerHTML = testa + blocco("Prossime partite", prossime) + blocco("Ultimi risultati", giocate) + rosa;
+})().catch(() => errore(box));

@@ -1,0 +1,31 @@
+name: Aggiorna Rose Squadre
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna-rose
+  cancel-in-progress: false
+
+jobs:
+  rose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Rose di tutte le squadre (ESPN)
+        run: python fetch_squadre.py
+      - name: Salva dati
+        run: |
+          git config user.name "calcio-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/squadre data/giocatori.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "dati: rose aggiornate" && git pull --rebase origin main && git push)
