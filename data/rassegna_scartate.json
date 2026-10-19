@@ -1,7 +1,133 @@
 {
-  "aggiornato": "2026-10-19T16:30:31.281797+00:00",
-  "totale": 13,
+  "aggiornato": "2026-10-19T19:10:05.112583+00:00",
+  "totale": 62,
   "articoli": [
+    {
+      "id": "99dc69e0cb",
+      "titolo": "Celtic winger Jota determined to be better than ever after making long-awaited comeback",
+      "url": "https://www.dailymail.com/sport/football/article-16221649/Celtic-winger-Jota-determined-better-making-long-awaited-comeback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Celtic winger Jota is confident he can recapture his best form after finally making his long-awaited comeback from a serious knee injury.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T19:01:59+00:00"
+    },
+    {
+      "id": "cffc9d603b",
+      "titolo": "Athletic, tegola per Terzic: Guruzeta k.o., stagione finita dopo la rottura del crociato",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/athletic-tegola-terzic-guruzeta-k-o-stagione-finita-rottura-crociato-2285078",
+      "estratto": "Brutte notizie per l’Athletic Club e per Edin Terzic.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T19:01:00+00:00"
+    },
+    {
+      "id": "38cbecade7",
+      "titolo": "Frustrated Hearts skipper Stephen Kingsley admits Parkhead horror show was a 'calamity of errors'",
+      "url": "https://www.dailymail.com/sport/football/article-16221267/Frustrated-Hearts-skipper-Stephen-Kingsley-admits-Parkhead-horror-calamity-errors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "At the end of what proved to be a humiliating afternoon for Hearts, there was no hiding place for Wouter Vrancken and his players.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T18:59:05+00:00"
+    },
+    {
+      "id": "667f7ef2e7",
+      "titolo": "Cristiano Ronaldo will miss NO games and is handed a measly £215 fine - which will take the £488,000-a-day superstar just 38 SECONDS to pay off - for walking out of Portugal camp",
+      "url": "https://www.dailymail.com/sport/football/article-16221551/cristiano-ronaldo-ban-fine-portugal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "The superstar, 41, has technically been banned for a month by Portuguese football chiefs - but that punishment is backdated to his strop on September 30, reports in his homeland claim.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T18:38:22+00:00"
+    },
+    {
+      "id": "19db3b0f0f",
+      "titolo": "Now even RED CARDS go digital! Referee uses a 'smartphone' to dish out his punishments - but fans are not convinced",
+      "url": "https://www.dailymail.com/sport/football/article-16218411/red-card-digital-referee-uruguay-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Eduardo Varela has become the first referee in history to send a player off with a digital red card in a trial in a Copa Uruguay clash between Nacional and Rentistas.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T18:18:23+00:00"
+    },
+    {
+      "id": "9ed9b50af6",
+      "titolo": "Power Ranking di Champions League prima della 3ª giornata: Chi è al 1º posto?",
+      "url": "https://www.espn.com/soccer/story/_/id/50211589/champions-league-power-rankings-md3-no-1-psg-arsenal-barcelona-bayern-munich",
+      "estratto": "È tempo di UEFA Champions League! Sono passate circa sei settimane dal nostro ultimo aggiornamento, ma il nostro panel di esperti e votanti stilerà la classifica delle prime 10 squadre della competizione. A che posizione si trova il vostro club?",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-19T18:17:43+00:00"
+    },
+    {
+      "id": "868f806dae",
+      "titolo": "Celtic winger Jota lifts the lid on 18 months of injury anguish... 'I've met some demons and had talks with them'",
+      "url": "https://www.dailymail.com/sport/football/article-16221133/Celtic-winger-Jota-lifts-lid-18-months-injury-anguish-Ive-met-demons-talks-them.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "When Celtic beat Dundee United 5-0 back in April 2025, the overriding emotion at Tannadice was one of euphoria and celebration.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T17:58:50+00:00"
+    },
+    {
+      "id": "357ea39495",
+      "titolo": "Why Brighton are scoring SO many goals",
+      "url": "https://www.dailymail.com/sport/football/article-16220345/Brighton-goals-Premier-League-Hurzeler.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Fabian Hurzeler's side, after yet another rout against Crystal Palace, have now racked up more goals across Europe's top five leagues than anyone bar Barcelona and Real Madrid.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T17:39:52+00:00"
+    },
+    {
+      "id": "318b0bccce",
+      "titolo": "Il Brentford si rivolge alla polizia per il lancio \"pericoloso\" di una palla da rugby nella partita contro il Liverpool",
+      "url": "https://www.espn.com/soccer/story/_/id/50219498/brentford-contact-police-dangerous-rugby-ball-stunt-liverpool-game",
+      "estratto": "Il Brentford ha contattato la polizia in seguito a un episodio \"pericoloso\" e \"potenzialmente molto dannoso\" che ha visto coinvolto un \"oggetto calciato dall'alto verso il terreno di gioco\" nella sconfitta per 2-1 contro il Liverpool.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T16:55:50+00:00"
+    },
+    {
+      "id": "7d5c025a05",
+      "titolo": "Everton legend Duncan Ferguson, 54, makes surprise return to management as he takes reins at Irish Premiership club Glentoran",
+      "url": "https://www.dailymail.com/sport/football/article-16220985/Everton-legend-Duncan-Ferguson-54-makes-surprise-return-management-takes-reins-Irish-Premiership-club-Glentoran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "The former Scotland forward, 54, has signed a multi-year contract at the Belfast club in his return to management after leaving Inverness Caledonian Thistle in October 2024.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T16:51:57+00:00"
+    },
+    {
+      "id": "1dac0b2f2c",
+      "titolo": "Emiliano Buendia closes in on new contract with Aston Villa - after battling back from the brink to become one of Unai Emery's favourites",
+      "url": "https://www.dailymail.com/sport/football/article-16221225/emiliano-buendia-contract-aston-villa-unai-emery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "EXCLUSIVE BY TOM COLLOMOSSE: Emiliano Buendia is close to agreeing a new contract with Aston Villa after positive progress in talks.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T16:43:15+00:00"
+    },
+    {
+      "id": "65c93cf65d",
+      "titolo": "Former England footballer Steven Caulker pleads for work on LinkedIn as he says he's now stuck unemployed and 'can't even get an interview'",
+      "url": "https://www.dailymail.com/sport/football/article-16219937/stephen-caulker-footballer-unemployed-linkedin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Caulker spent eights months as Turkish club Konyaspor Kulubu Dernegi's assistant manager until his exit in September, but now he is struggling in his search for a new opportunity.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T16:30:39+00:00"
+    },
+    {
+      "id": "d1fec34005",
+      "titolo": "'He's like a Formula One car on the pitch': Inside the rapid rise of Victor Munoz - and how electrifying talent who trains in mindfulness, rejected Real Madrid and has 'Spartan' discipline became the perfect winger for Andoni Iraola",
+      "url": "https://www.dailymail.com/sport/football/article-16220349/victor-munoz-liverpool-real-madrid-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ask anyone in Spain about Munoz and the replies all centre on the same thing. His speed. 'He was the Formula One car of Real Madrid's academy,' one source says.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T16:07:29+00:00"
+    },
+    {
+      "id": "0c94511375",
+      "titolo": "Trinity Rodman turns heads in Victoria's Secret Fashion Show debut as soccer star reunited with Kobe Bryant's daughter, Natalia",
+      "url": "https://www.dailymail.com/sport/football/article-16219599/kobe-bryant-natalia-trinity-rodman-victorias-secret.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Trinity Rodman stepped off the soccer field and onto the Victoria's Secret Fashion Show catwalk on Sunday along with Natalie Bryant, daughter of NBA legend Kobe.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T15:40:46+00:00"
+    },
     {
       "id": "495515031e",
       "titolo": "Maresca: il Manchester City ha \"opzioni\" nonostante i problemi con gli infortuni",
@@ -30,6 +156,24 @@
       "pubblicato": "2026-10-19T15:25:16+00:00"
     },
     {
+      "id": "7717143538",
+      "titolo": "England star Marc Guehi suggests taking the knee may have 'lost its meaning' and questions its significance as he leads Premier League stars in rejecting the anti-racism gesture",
+      "url": "https://www.dailymail.com/sport/football/article-16220539/Marc-Guehi-suggests-taking-knee-lost-meaning-questions-significance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Manchester City and England defender Marc Guehi has suggested that taking the knee as an anti-racism gesture may have lost its meaning after choosing to remain standing at kick-off.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T14:33:29+00:00"
+    },
+    {
+      "id": "45701d23ef",
+      "titolo": "Former Germany star Kerem Demirbay says he 'forever regrets' playing for them in bombshell admission",
+      "url": "https://www.dailymail.com/sport/football/article-16220641/Former-Germany-star-Kerem-Demirbay-says-forever-regrets-playing-bombshell-admission.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Demirbay's debut for Germany came in a friendly against Denmark before he scored in a Confederations Cup victory over Cameroon.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T14:19:02+00:00"
+    },
+    {
       "id": "28289c4c14",
       "titolo": "L'ex nazionale inglese Steven Caulker rivela su LinkedIn il peso della disoccupazione",
       "url": "https://www.espn.com/soccer/story/_/id/50217509/ex-england-international-steven-caulker-reveals-toll-unemployment-linkedin",
@@ -48,6 +192,42 @@
       "pubblicato": "2026-10-19T12:28:12+00:00"
     },
     {
+      "id": "9eeefbfa43",
+      "titolo": "Reclusive poppy protest footballer James McClean says he 'supports the IRA' - and their 'bloodshed' - as he reveals he mutes the TV whenever 'God Save The King' is played",
+      "url": "https://www.dailymail.com/sport/football/article-16218627/Reclusive-poppy-protest-footballer-James-McClean-says-supports-IRA-bloodshed-reveals-mutes-TV-God-Save-King-played.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "That stems from his refusal to wear the poppy on his shirt on Remembrance weekend, while he often stands away from team-mates during pre-match commemorations.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T12:24:32+00:00"
+    },
+    {
+      "id": "f1d5a37090",
+      "titolo": "'Completely unaware Paris is in ruins': England keeper Jordan Pickford and wife Megan's romantic 24-hour private jet break is derailed by rioting - and they had no idea it was happening!",
+      "url": "https://www.dailymail.com/sport/football/article-16219855/Megan-Jordan-Pickford-detour-escape-chaos-Paris-England-star-WAG-romantic-24-hour-private-jet-break-watch-Celine-Dion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "A weekend of widespread violence took place in the city after an initial peaceful protest on Saturday against rising living costs and poor public services turned nasty.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T12:17:26+00:00"
+    },
+    {
+      "id": "95bed25b59",
+      "titolo": "'I show my respect by standing up': Why taking the knee rebel Dominic Calvert-Lewin snubbed anti-racism gesture alongside five other Premier League stars",
+      "url": "https://www.dailymail.com/sport/football/article-16219957/Why-taking-knee-rebel-Calvert-Lewin-snubbed-anti-racism-gesture.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Leeds United manager Daniel Farke has explained why Dominic Calvert-Lewin chose not to take the knee ahead of Sunday's 1-1 draw with Manchester United.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T11:37:42+00:00"
+    },
+    {
+      "id": "1c5afe6ecf",
+      "titolo": "MORE Premier League stars join rejection of taking the knee as fans boo the anti-racism gesture amid growing doubts over its impact",
+      "url": "https://www.dailymail.com/sport/football/article-16218639/fans-boo-footballers-knee-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Bournemouth stars Rayan and Tyler Adams rejected taking the knee, while the gesture was loudly booed at Leeds United, as doubts over the anti-racism gesture's impact continue to grow.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T10:42:45+00:00"
+    },
+    {
       "id": "999c418456",
       "titolo": "I migliori gol dalla distanza della Premier League dopo la perla di Diego Gómez: la classifica",
       "url": "https://www.espn.com/soccer/story/_/id/50216799/ranking-premier-league-best-long-distance-goals-diego-gomez-strike-brighton",
@@ -55,6 +235,15 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-19T10:29:12+00:00"
+    },
+    {
+      "id": "11c8cf421f",
+      "titolo": "Nottingham Forest ban 'misogynistic' chant - and tell fans they face 'education sessions' if they sing it",
+      "url": "https://www.dailymail.com/sport/football/article-16218477/Nottingham-Forest-fans-accuse-club-going-woke-ban-misogynistic-chant-tell-face-education-sessions-sing-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "On Saturday afternoon, the club released a statement titled 'a message to supporters', where they insisted that this must no longer be the case.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T08:55:59+00:00"
     },
     {
       "id": "0b96c02b77",
@@ -66,6 +255,15 @@
       "pubblicato": "2026-10-19T08:21:58+00:00"
     },
     {
+      "id": "6d9e836bd0",
+      "titolo": "Journey to Wembley: Halifax reach first round in a beloved stadium they may soon lose - as ambitious South Shields' FA Cup dreams fizzle out for another year",
+      "url": "https://www.dailymail.com/sport/football/article-16218801/journey-wembley-halifax-south-shields.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "IAN HERBERT AT THE SHAY STADIUM: We're here in Halifax, west Yorkshire, with South Shields, on the sixth instalment of our journey to Wembley told through all 13 rounds.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T01:00:46+00:00"
+    },
+    {
       "id": "83b561d29d",
       "titolo": "Leboeuf definisce \"mediocre\" il Man United di Carrick",
       "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average",
@@ -73,6 +271,15 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-18T22:23:21+00:00"
+    },
+    {
+      "id": "900606f06f",
+      "titolo": "It's a game of four halves for Armadale Thistle as West Lothian club are forced to play TWICE in one day",
+      "url": "https://www.dailymail.com/sport/football/article-16218573/Its-game-four-halves-Armadale-Thistle-West-Lothian-club-forced-play-TWICE-one-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "It is high noon in Armadale. The kick-off for Thistle's first match of the day is in a couple of hours. A second, scheduled for 7.45pm, seems a long way off.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T20:35:33+00:00"
     },
     {
       "id": "bc99e45754",
@@ -84,6 +291,24 @@
       "pubblicato": "2026-10-18T20:21:05+00:00"
     },
     {
+      "id": "527ca515aa",
+      "titolo": "Celtic's rampant, ruthless display against a so-called title rival is just what Martin O'Neill needed",
+      "url": "https://www.dailymail.com/sport/football/article-16219031/Celtics-rampant-ruthless-display-against-called-title-rival-just-Martin-ONeill-needed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "If Martin O'Neill had any lingering doubts as to whether he should have stayed on as Celtic manager, this will surely have eliminated them.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T20:16:00+00:00"
+    },
+    {
+      "id": "d72da0fe82",
+      "titolo": "Celtic boss Martin O'Neill says seven-goal slaughter of Hearts is major boost ahead of Europa League tie",
+      "url": "https://www.dailymail.com/sport/football/article-16219023/Celtic-boss-Martin-ONeill-says-seven-goal-slaughter-Hearts-major-boost-ahead-Europa-League-tie.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martin O'Neill believes today's ruthless thrashing of Hearts could breathe new life into Celtic's season.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T19:23:44+00:00"
+    },
+    {
       "id": "997a04ae15",
       "titolo": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto",
       "url": "https://www.espn.com/video/clip/_/id/50211677/arsenal-fans-frustrated-games-more-difficult-be",
@@ -91,6 +316,33 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-18T18:01:27+00:00"
+    },
+    {
+      "id": "13200beed2",
+      "titolo": "Celtic 7-1 Hearts: Another Tynecastle title dream dies a death at Celtic Park as Benjamin Nygren and Callum Osmand both score twice to ruthlessly rip apart Wouter Vrancken's men",
+      "url": "https://www.dailymail.com/sport/football/article-16218921/CELTIC-7-HEARTS-1-Tynecastle-title-dream-dies-death-Celtic-Park-Vranckens-men-ruthlessly-ripped-apart.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Earlier this week, Tony Bloom reaffirmed his vision for Hearts and spoke of his belief that they will be crowned champions of Scotland within the next ten years.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T18:00:44+00:00"
+    },
+    {
+      "id": "b398991028",
+      "titolo": "Fabian Hurzeler breaks his Crystal Palace hoodoo as Brighton blow their bitter rivals away 5-0 to leave Pierre Sage smarting, writes NICK SZCZEPANIK",
+      "url": "https://www.dailymail.com/sport/football/article-16218749/Fabian-Hurzeler-breaks-Crystal-Palace-duck-Brighton-blow-big-rivals-away-5-0-leave-Pierre-Sage-smarting-writes-Nick-Szczepanik.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "NICK SZCZEPANIK AT THE AMEX STADIUM: This will take some getting over for the travelling fans, and their under-fire manager Pierre Sage.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T17:39:16+00:00"
+    },
+    {
+      "id": "f1c7050585",
+      "titolo": "All that was missing from Rangers' slapstick defending was a banana skin and someone throwing a bucket of water over themselves",
+      "url": "https://www.dailymail.com/sport/football/article-16218691/Rangers-Dundee-defending.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "As every budding football coach will tell you, winning matches is all about getting the small details right.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T17:35:07+00:00"
     },
     {
       "id": "b26cc612b1",
@@ -102,6 +354,15 @@
       "pubblicato": "2026-10-18T17:15:55+00:00"
     },
     {
+      "id": "3387c180e5",
+      "titolo": "Honeymoon is over for Hibs boss Reedijk as hapless Leith men make it SIX months without a league win at Easter Road",
+      "url": "https://www.dailymail.com/sport/football/article-16218693/Honeymoon-Hibs-boss-Reedijk-hapless-Leith-men-make-SIX-months-without-league-win-Easter-Road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Speaking ahead of Saturday's clash with Falkirk, new Hibs boss Marink Reedijk couldn't possibly have been any more enthusiastic about the prospect of making his Easter Road bow.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T17:06:18+00:00"
+    },
+    {
       "id": "80e357e952",
       "titolo": "Fabian Hürzeler ai tifosi del Brighton: bevete una birra e non guardate la classifica di Premier League",
       "url": "https://www.espn.com/soccer/story/_/id/50211094/fabian-hurzeler-brighton-crystal-palace-diego-gomez-premier-league",
@@ -111,13 +372,193 @@
       "pubblicato": "2026-10-18T16:51:40+00:00"
     },
     {
-      "id": "146c9fc687",
-      "titolo": "Jordan Henderson non rinuncia all'Inghilterra dopo la rinascita al Chelsea",
-      "url": "https://www.espn.com/soccer/story/_/id/50210890/jordan-henderson-england-chelsea-revitalisation",
-      "estratto": "Jordan Henderson non ha rinunciato a prolungare la propria carriera con l'Inghilterra, ribadendo l'intenzione di sfruttare questa seconda giovinezza al Chelsea per dimostrare di poter ancora competere ai massimi livelli.",
-      "fonte": "ESPN",
+      "id": "9f872b1084",
+      "titolo": "The whole Rangers team shares blame for Dan Neil's and Dujon Sterling's costly blunders, claims goalkeeper Ivor Pandur",
+      "url": "https://www.dailymail.com/sport/football/article-16218861/Rangers-Pandur-Neil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ivor Pandur is adamant that Rangers will take collective responsibility for their weekend failings at Dens Park.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-18T16:30:44+00:00"
+      "pubblicato": "2026-10-18T16:49:09+00:00"
+    },
+    {
+      "id": "d37157dd6d",
+      "titolo": "Alex Scott QUITS Disney's 'Gen Z' Women's Champions League football show, just two rounds of matches in, after saying she 'didn't agree with all decisions' on 'Match of the Day with a dog'",
+      "url": "https://www.dailymail.com/sport/football/article-16212253/Alex-Scott-QUITS-Disneys-Gen-Z-Womens-Champions-League-football-just-two-rounds-matches-saying-didnt-agree-decisions-Match-Day-dog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Alex Scott has left her role as part of Disney+'s Women's Champions League coverage just weeks after taking part in the launch of new show 'The Hangout', which was widely criticised by fans.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T16:37:09+00:00"
+    },
+    {
+      "id": "c8b5c29d10",
+      "titolo": "Rio Ngumoha: I'm learning from Anthony Gordon and Bukayo Saka... and in talks for new Liverpool contract",
+      "url": "https://www.dailymail.com/sport/football/article-16218593/rio-ngumoha-liverpool-contract-saka-gordon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Liverpool starlet Rio Ngumoha says he has been inspired after watching Bukayo Saka and Anthony Gordon for England - and insists talks over a new Anfield contract are 'going well'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T15:09:07+00:00"
+    },
+    {
+      "id": "50ce769ee6",
+      "titolo": "The Brighton Beckham! Premier League star scores INCREDIBLE goal from the halfway line, 30 years on from when David did the same",
+      "url": "https://www.dailymail.com/sport/football/article-16214357/Brighton-star-scores-INCREDIBLE-goal-halfway-line-rise-SECOND-Premier-League-leaders-Man-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Brighton star Diego Gomez has scored a remarkable goal of the season contender as the Premier League's surprise package move up to second in the table in a first half thumping.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T14:50:39+00:00"
+    },
+    {
+      "id": "9e128a87f2",
+      "titolo": "Revealed: The day Roy Keane squared up to poppy protest footballer James McClean in half-time f-word rant about his photo with an Irish boxer",
+      "url": "https://www.dailymail.com/sport/football/article-16218313/The-day-Roy-Keane-squared-poppy-protest-footballer-James-McClean-half-time-f-word-rant-photo-Irish-boxer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "McClean won 103 caps for his country between 2012 and 2023, and came across Keane while the former Man United hardman was assistant manager to Martin O'Neill from 2013 to 2018.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T12:15:39+00:00"
+    },
+    {
+      "id": "2027703837",
+      "titolo": "McInnes rues conceding equaliser that burst Rangers' bubble and cost Ibrox men points in Dens Park thriller",
+      "url": "https://www.dailymail.com/sport/football/article-16217699/McInnes-rues-conceding-equaliser-burst-Rangers-bubble-cost-Ibrox-men-points-Dens-Park-thriller.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "DEREK McINNES claimed Dundee's equaliser felt like a balloon popping for his Rangers side as they threw away two points from a winning position at Dens Park.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T22:48:24+00:00"
+    },
+    {
+      "id": "6336562bb9",
+      "titolo": "Dundee 2 Rangers 2: Dark Blues dig deep to bring an end to error-strewn Rangers' winning streak",
+      "url": "https://www.dailymail.com/sport/football/article-16217329/Dundee-2-Rangers-2-Dark-Blues-dig-deep-bring-end-error-strewn-Rangers-winning-streak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ASKED on Friday if it was imperative that his side applied pressure to their rivals by winning the day before they faced off, Derek McInnes claimed that it was too early to talk about turning up the heat.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T22:25:06+00:00"
+    },
+    {
+      "id": "0f9550fa1b",
+      "titolo": "Hogh hasn't scored a goal in two months ... are Celtic running out of patience with their £11m striker?",
+      "url": "https://www.dailymail.com/sport/football/article-16216693/Hogh-Celtic-ONeill-patience.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "There was a line from Martin O'Neill's media conference in Lisbon the other night which hinted at a growing frustration with Kasper Hogh.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T22:20:06+00:00"
+    },
+    {
+      "id": "87bf13c43c",
+      "titolo": "Osmand braced for bad blood when Hearts visit Celtic for first time since title denouement",
+      "url": "https://www.dailymail.com/sport/football/article-16216691/Osmand-Celtic-Hearts-hostile.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Celtic striker Callum Osmand is braced for a hostile affair when title rivals Hearts visit Parkhead on Sunday afternoon.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T22:19:07+00:00"
+    },
+    {
+      "id": "4379326bbb",
+      "titolo": "HIBS 1 FALKIRK 2: Losing habit hits Reedijk hard as Leith men hit rock bottom after defeat to Bairns",
+      "url": "https://www.dailymail.com/sport/football/article-16217219/Reedijk-Hibernian-Falkirk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Hibs manager Marink Reedijk isn't particularly accustomed to losing. But with this lot at his disposal, he might have to get used to it.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T19:28:53+00:00"
+    },
+    {
+      "id": "b3540bc21e",
+      "titolo": "Alvaro Arbeloa secures first Premier League win as Fulham boss and saves job for now: Fulham 1-0 Hull City",
+      "url": "https://www.dailymail.com/sport/football/article-16214339/Alvaro-Arbeloa-secures-Premier-League-win-Fulham-boss-saves-job-Fulham-1-0-Hull-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "BOBBY MANZI AT CRAVEN COTTAGE: It had been mooted that Arbeloa would be axed if Fulham failed to beat Hull after six games without a win to open the season.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T18:18:36+00:00"
+    },
+    {
+      "id": "72a7aefa68",
+      "titolo": "Premier League stars say no to the knee: England defender Marc Guehi joins Ainsley Maitland-Niles and Issa Diop in rejecting anti-racism gesture amid growing doubts over its impact",
+      "url": "https://www.dailymail.com/sport/football/article-16216689/ainsley-maitland-niles-everton-knee-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "The Premier League's 'No Room For Racism' weekend got underway at the Hill Dickinson Stadium during the lunchtime contest, with all 22 players invited to kneel on the turf.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T15:52:36+00:00"
+    },
+    {
+      "id": "7d2f849793",
+      "titolo": "Five months on from final-day devastation, can Hearts harness sense of injustice to announce themselves as title contenders once again?",
+      "url": "https://www.dailymail.com/sport/football/article-16215019/Five-months-final-day-devastation-Hearts-harness-sense-injustice-announce-title-contenders-again.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "When Hearts lost the title in the closing minutes of season 1985-86, the hangover which followed was industrial strength.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T15:46:16+00:00"
+    },
+    {
+      "id": "deb731a7e1",
+      "titolo": "Liverpool suffer major blow as Dominik Szoboszlai is forced off just half-an-hour into his injury comeback at Brentford",
+      "url": "https://www.dailymail.com/sport/football/article-16216923/Liverpool-suffer-major-blow-Dominik-Szoboszlai-forced-just-half-hour-injury-comeback-Brentford.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "The Hungary international went down off the ball and signalled towards the Liverpool bench that he had to come off.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T15:41:25+00:00"
+    },
+    {
+      "id": "6c840c6e99",
+      "titolo": "Is this the worst penalty decision ever?",
+      "url": "https://www.dailymail.com/sport/football/article-16215981/Is-worst-penalty-decision-ever.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Viewers were calling it the 'worst penalty award' they'd ever seen. Former Scotland star James McFadden could only say 'wow'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T11:47:24+00:00"
+    },
+    {
+      "id": "c96fa85c0b",
+      "titolo": "Rio Ferdinand embroiled in fat-shaming row after telling Man United influencer to 'pick up your t**s' following Instagram dig",
+      "url": "https://www.dailymail.com/sport/football/article-16216439/rio-ferdinand-man-united-influencer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "The dig has become something of a PR disaster for the 47-year-old, who is now taking a lashing from fans in his own Instagram comments section - though some have sided with him.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T10:33:23+00:00"
+    },
+    {
+      "id": "1273ccac2e",
+      "titolo": "How Fabian Hurzeler turned Brighton from 'nice guys' to Champions League contenders: His ruthless pre-season edict, the Austrian boot camp, an All Blacks guru, Bart Verbruggen's coffee club and the 'best squad ever'",
+      "url": "https://www.dailymail.com/sport/football/article-16214081/Brighton-Fabian-Hurzeler-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Brighton sit third in the table after winning four and drawing one of their first six games. They have won their last three by an aggregate score of 10-0. So how have they done it?",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T01:00:59+00:00"
+    },
+    {
+      "id": "5fc7c872be",
+      "titolo": "'He's a dead man strutting': Inside Fulham's divided dressing room - as we reveal how Alvaro Arbeloa alienated his own players from day one, the 'disconnect' splitting stars and staff and why 'worried' owners don't want to pull trigger",
+      "url": "https://www.dailymail.com/sport/football/article-16214511/Fulham-mess-Alvaro-Arbeloa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "After just six Premier League matches as Fulham manager, Alvaro Arbeloa is a dead man walking. Or in the words of one source close to the dressing-room, a 'dead man strutting'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-17T01:00:56+00:00"
+    },
+    {
+      "id": "54a911d8cd",
+      "titolo": "Celtic boss O'Neill insists a future Hearts title triumph would be a shot in the arm for Scottish football",
+      "url": "https://www.dailymail.com/sport/football/article-16215381/Celtic-boss-ONeill-insists-future-Hearts-title-triumph-shot-arm-Scottish-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "MARTIN O'NEILL believes it would be a huge boost to Scottish football if Hearts were to win the league title in the near future.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-16T21:57:05+00:00"
+    },
+    {
+      "id": "45aee86bf2",
+      "titolo": "'When it really matters, England would choose Pickford': Everton boss David Moyes insists his No1 is better than ever despite pressure for his international place... and says he remains a better kicker than rival James Trafford",
+      "url": "https://www.dailymail.com/sport/football/article-16215223/When-really-matters-England-choose-Pickford-Everton-boss-David-Moyes-insists-No1-better-despite-pressure-international-place-says-remains-better-kicker-rival-James-Trafford.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Trafford, who signed for Leeds from Manchester City, elbowed Pickford out of the Three Lions XI for two of four games in the recent international window.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-16T21:30:49+00:00"
+    },
+    {
+      "id": "cff4c9fe23",
+      "titolo": "Jamie Vardy opens his account for Burnley as former Leicester star, 39, scores in his 20TH consecutive season - but can't save the Clarets from Wolves comeback",
+      "url": "https://www.dailymail.com/sport/football/article-16215779/Jamie-Vardy-Burnley-20th-consecutive-season-Wolves-comeback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "The 39-year-old opened his account for his new club in typical fashion, as he raced onto a through ball from Jacob Bruun Larsen and slotted past Wolves goalkeeper Jose Sa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-16T21:26:49+00:00"
     }
   ]
 }
