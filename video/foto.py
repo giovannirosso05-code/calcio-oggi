@@ -156,6 +156,25 @@ def _da_categoria(nome: str):
     return None, ""
 
 
+def da_categoria_tutte(nome: str, massimo: int = 3):
+    """Più ritratti liberi della persona dalla categoria di Commons (stesso filtro di _da_categoria): [(immagine, credito)]. Serve a non avere la stessa foto in tutte le scene."""
+    d = _get(COMMONS, {"action": "query", "list": "categorymembers", "cmtitle": "Category:" + nome, "cmtype": "file", "cmlimit": 60, "format": "json"})
+    titoli = [m["title"][5:] for m in ((d or {}).get("query", {}).get("categorymembers", []) or [])]
+    voluto = _norm(nome)
+    ammesse = {"cropped", "crop", "portrait", "edit", "edited", "v", "jpg", "jpeg", "png"}
+    buoni = [t for t in titoli if t.lower().endswith((".jpg", ".jpeg", ".png")) and voluto in _norm(t)
+             and all(p in ammesse for p in [p for p in _norm(t).replace(voluto, " ").split() if not p.isdigit()])]
+    buoni.sort(key=lambda t: (max([int(a) for a in re.findall(r"(20[0-3]\d)", t)] or [0]), "cropped" in t.lower()), reverse=True)
+    out = []
+    for t in buoni[:8]:
+        img, credito = _foto_da_file(t, minimo=400)
+        if img is not None:
+            out.append((img, credito))
+        if len(out) >= massimo:
+            break
+    return out
+
+
 def trova(nome: str):
     """{'file', 'credito', 'qid', 'tipo', 'nome'} oppure None. Il risultato si ricorda in video/_cache/foto/."""
     nome = re.sub(r"\s+", " ", str(nome or "")).strip()

@@ -259,11 +259,25 @@ class Banca:
         out = []
         persona = len(_parole(nome)) >= 2 and not squadra
         if persona and not self.solo_espn:
+            # foto che ci manda direttamente chi gestisce il canale: video/foto-manuali/nome-cognome/*.jpg (credito in credito.txt)
+            cartella = Path(__file__).resolve().parent / "foto-manuali" / "-".join(_parole(nome))
+            if cartella.is_dir():
+                credito = (cartella / "credito.txt").read_text(encoding="utf-8").strip() if (cartella / "credito.txt").exists() else "Foto: fornita dal canale"
+                for p in sorted(cartella.glob("*")):
+                    if p.suffix.lower() in (".jpg", ".jpeg", ".png"):
+                        out.append({"id": _id(str(p)), "img": Image.open(p).convert("RGB"), "credito": credito, "origine": f"foto manuale {p.name}"})
+        if persona and not self.solo_espn:
             # prima la foto libera di Wikimedia Commons: l'identità è verificata da Wikidata (nome intero, calciatore/allenatore, foto sua)
             from video.foto import trova
             f = trova(nome)
             if f:
                 out.append({"id": _id(str(f["file"])), "img": Image.open(f["file"]).convert("RGB"), "credito": f["credito"], "origine": f"Wikimedia Commons {f['qid']}"})
+            from video.foto import da_categoria_tutte
+            visti = {(x["credito"], x["img"].size) for x in out}
+            for img, credito in da_categoria_tutte(nome, 3):   # altri ritratti liberi: scene diverse, foto diverse
+                if (credito, img.size) not in visti:
+                    visti.add((credito, img.size))
+                    out.append({"id": _id(credito + str(img.size)), "img": img, "credito": credito, "origine": "Wikimedia Commons (categoria)"})
         if not self.solo_espn:
             out += self._da_articoli(nome)
         if len(_parole(nome)) >= 2:

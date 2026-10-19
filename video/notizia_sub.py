@@ -53,6 +53,7 @@ def pronuncia(parola):
 
 def token(testo):
     """[(parola, 'g'|'s'|'')] da un testo con *gialle* e [nomi]; il testo da pronunciare è senza segni."""
+    testo = re.sub(r"(?<=\d)\s*[-–]\s*(?=\d)", " a ", testo)   # «1-0» la voce lo legge «uno trattino zero»: «1 a 0» diventa «uno a zero»
     out = []
     for m in re.finditer(r"\*(.+?)\*|\[(.+?)\]|([^*\[\]]+)", testo):
         if m.group(1):
