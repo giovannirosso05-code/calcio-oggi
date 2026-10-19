@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-10-19T07:30:19.205708+00:00",
-  "totale": 9,
+  "aggiornato": "2026-10-19T09:13:46.137826+00:00",
+  "totale": 8,
   "articoli": [
+    {
+      "id": "0b96c02b77",
+      "titolo": "Si ritira Saido Berahino: l'ex attaccante di West Brom e Stoke chiude la carriera a 33 anni",
+      "url": "https://www.espn.com/soccer/story/_/id/50216914/saido-berahino-retires-ex-west-brom-stoke-striker-ends-career-aged-33",
+      "estratto": "L'ex attaccante di West Bromwich Albion e Stoke City Saido Berahino ha annunciato il suo ritiro dal calcio all'età di 33 anni.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T08:21:58+00:00"
+    },
     {
       "id": "bc99e45754",
       "titolo": "Dominic Calvert-Lewin \"ha mostrato rispetto restando in piedi\" mentre gli altri si inginocchiavano contro il razzismo - Daniel Farke",
@@ -64,24 +73,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-16T09:29:39+00:00"
-    },
-    {
-      "id": "a0994b097e",
-      "titolo": "Crollo Italia nel ranking Uefa: finisce sotto ad Azerbaigian e Grecia!",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/16-151930774/crollo_italia_nel_ranking_uefa_finisce_sotto_ad_azerbaigian_e_grecia_/",
-      "estratto": "Dopo il doppio zero in Champions League, le vittorie in Europa e Conference: ecco la situazione per sognare un posto in più in Europa",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-10-16T09:10:13+00:00"
-    },
-    {
-      "id": "885318bb7a",
-      "titolo": "147 reti in due giornate: la Champions è una fabbrica del gol",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/16-151928807/147_reti_in_due_giornate_la_champions_una_fabbrica_del_gol/",
-      "estratto": "Tutte le trentasei squadre partecipanti hanno già trovato la rete nella competizione",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-10-16T07:38:37+00:00"
     }
   ]
 }
