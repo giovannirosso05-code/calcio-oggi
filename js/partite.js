@@ -20,7 +20,11 @@ function disegna(oggi, minimo, massimo) {
   document.getElementById("g-succ").disabled = stato.giorno >= massimo;
   document.getElementById("g-oggi").setAttribute("aria-pressed", String(stato.giorno === oggi));
 
-  const delGiorno = partite.filter((p) => giornoRoma(p.data) === stato.giorno);
+  const norm = (t) => String(t || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  const q = norm(document.getElementById("g-cerca").value).trim();
+  const nomeLega = Object.fromEntries(leghe.map((l) => [l.id, norm(l.nome)]));
+  const delGiorno = partite.filter((p) => giornoRoma(p.data) === stato.giorno
+    && (!q || [p.casa.nome, p.casa.breve, p.ospite.nome, p.ospite.breve, nomeLega[p.lega]].some((t) => norm(t).includes(q))));
   const presenti = new Set(delGiorno.map((p) => p.lega));
   // il filtro mostra solo i campionati che quel giorno hanno partite
   const opzioni = [["tutte", "Tutte"], ...leghe.filter((l) => presenti.has(l.id)).map((l) => [l.id, l.nome, logoLega(l)])];
@@ -28,7 +32,7 @@ function disegna(oggi, minimo, massimo) {
   document.getElementById("filtri").innerHTML = opzioni.map(([v, t, lg]) => `<button type="button" class="pill" data-f="${esc(v)}" aria-pressed="${v === stato.lega}">${lg || ""}<span>${esc(t)}</span></button>`).join("");
 
   const lista = delGiorno.filter((p) => stato.lega === "tutte" || p.lega === stato.lega);
-  document.getElementById("elenco").innerHTML = lista.length ? elencoPerLega(lista, leghe) : `<div class="vuoto">Nessuna partita in questo giorno.</div>`;
+  document.getElementById("elenco").innerHTML = lista.length ? elencoPerLega(lista, leghe) : `<div class="vuoto">Nessuna partita trovata in questo giorno.</div>`;
 }
 
 let ridisegna = () => {};
@@ -44,6 +48,7 @@ partiteLive((agg) => { partite = agg; ridisegna(); }).then(({ partite: p, leghe:
   document.getElementById("g-prec").addEventListener("click", () => vai(spostaGiorno(stato.giorno, -1)));
   document.getElementById("g-succ").addEventListener("click", () => vai(spostaGiorno(stato.giorno, 1)));
   document.getElementById("g-oggi").addEventListener("click", () => vai(oggi));
+  document.getElementById("g-cerca").addEventListener("input", () => ridisegna());
   document.getElementById("g-data").addEventListener("click", (e) => { try { e.target.showPicker(); } catch (err) { /* il browser lo apre da solo */ } });
   document.getElementById("g-data").addEventListener("change", (e) => e.target.value && vai(e.target.value));
   document.getElementById("filtri").addEventListener("click", (e) => {

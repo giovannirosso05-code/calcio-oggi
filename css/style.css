@@ -335,3 +335,5 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .mg b { font-weight: 600; }
 .mg small { color: var(--tenue); font-weight: 600; }
 .m-col.dx .mg { flex-direction: row-reverse; }
+
+.cerca-partite { flex: 1 1 220px; width: auto; max-width: 340px; margin: 0 0 0 auto; height: 40px; padding: 0 16px; }
