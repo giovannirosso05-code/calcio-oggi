@@ -548,8 +548,7 @@ def da_oggi(oggi=None, testo=None) -> dict:
     gancio.pop("persona_libera", None)
     gancio["foto"] = COPERTINA_PERSONA
     gancio["tipo"] = "persona"
-    scene = [gancio,
-             {"foto": "", "tabella": True, "testo": f"Questi sono i risultati {etichetta}. " + spec["tabella_testo"], "durata_min": 6.0}]
+    scene = [gancio]
     for c in cl:
         mie = [p for p in tutte if p["lega"] == c["lega"]]
         tab = tabella(giorno, mie)
