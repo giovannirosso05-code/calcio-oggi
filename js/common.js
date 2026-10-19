@@ -73,12 +73,13 @@ function marcatori(p) {
   return `<div class="marcatori">⚽ ${p.gol.map(nome).join(" · ")}</div>`;
 }
 
-export function cardPartita(p) {
+export function cardPartita(p, senzaOra = false) {
+  const nascondi = senzaOra && p.stato === "pre";   // l'orario è già nell'etichetta della fascia
   const { casa, ospite } = p;
   const gol = p.stato === "pre" ? ["", ""] : [casa.gol ?? 0, ospite.gol ?? 0];
   const vince = (s) => (p.stato === "post" && s.vince ? " vince" : "");
-  return `<div class="partita${p.stato === "in" ? " live" : ""}">
-    ${colonnaStato(p)}
+  return `<div class="partita${p.stato === "in" ? " live" : ""}${nascondi ? " senza-stato" : ""}">
+    ${nascondi ? "" : colonnaStato(p)}
     <div class="p-squadre">
       <div class="p-sq${vince(casa)}">${logoSq(casa)}<span>${esc(casa.breve || casa.nome)}</span></div>
       <div class="p-sq${vince(ospite)}">${logoSq(ospite)}<span>${esc(ospite.breve || ospite.nome)}</span></div>
@@ -102,7 +103,7 @@ export function elencoPerLega(partite, leghe) {
     const per = new Map();
     lista.forEach((p) => { const o = oraRoma(p.data); if (!per.has(o)) per.set(o, []); per.get(o).push(p); });
     if (per.size < 2) return `<div class="griglia-partite">${lista.map(cardPartita).join("")}</div>`;
-    return [...per].map(([ora, l]) => `<div class="fascia"><span>ore ${esc(ora)}</span></div><div class="griglia-partite">${l.map(cardPartita).join("")}</div>`).join("");
+    return [...per].map(([ora, l]) => `<div class="fascia"><span>ore ${esc(ora)}</span></div><div class="griglia-partite">${l.map((p) => cardPartita(p, true)).join("")}</div>`).join("");
   };
   return [...gruppi].map(([id, lista]) => `<div class="gruppo-lega"><div class="lega-nome">${esc(nomi.get(id) || id)}</div>${fasce(lista)}</div>`).join("");
 }
