@@ -12,8 +12,8 @@ FONT = RADICE / "video" / "fonts" / "Oswald-Bold.ttf"
 LOGO = RADICE / "img" / "logo-quadrato.png"   # il logo del profilo, in alto
 
 # Colori del marchio (gli stessi del logo): per passare al blu di GP Oggi basta cambiare queste due righe
-COLORE_BOX = (43, 217, 107)
-COLORE_TESTO_BOX = (20, 23, 28)
+COLORE_BOX = (229, 34, 45)           # il rosso di GP Oggi, MMA Oggi e del badge OGGI del logo: titolo bianco su box rossi
+COLORE_TESTO_BOX = (255, 255, 255)
 SCURO = (20, 23, 28)
 
 
@@ -75,25 +75,24 @@ def _righe(titolo: str, f, massimo: int):
 
 
 def crea_copertina(titolo: str, fonte: str = "", serie: str = "", foto=None, credito: str = "",
-                   file_uscita: str | Path = "output/card.png") -> Path:
+                   file_uscita: str | Path = "output/card.png", etichetta: str = "ULTIM'ORA") -> Path:
     uscita = Path(file_uscita)
     uscita.parent.mkdir(parents=True, exist_ok=True)
 
     img = _sfumatura(_sfondo(foto))
     d = ImageDraw.Draw(img)
 
-    # in alto a sinistra: logo e badge (sotto la fascia coperta dall'interfaccia di Instagram/TikTok)
+    # in alto a sinistra: logo piccolo con il badge accanto, come GP Oggi (sotto la fascia coperta dall'interfaccia di Instagram/TikTok)
     if LOGO.exists():
-        logo = Image.open(LOGO).convert("RGBA").resize((250, 250), Image.LANCZOS)
-        mask = Image.new("L", (250, 250), 0)
-        ImageDraw.Draw(mask).rounded_rectangle([0, 0, 249, 249], radius=22, fill=255)
+        logo = Image.open(LOGO).convert("RGBA").resize((190, 190), Image.LANCZOS)
+        mask = Image.new("L", (190, 190), 0)
+        ImageDraw.Draw(mask).rounded_rectangle([0, 0, 189, 189], radius=18, fill=255)
         logo.putalpha(mask)
-        img.alpha_composite(logo, (60, 235))
+        img.alpha_composite(logo, (60, 250))
     fb = font(34)
-    etichetta = "ULTIM'ORA"
     larg = int(fb.getlength(etichetta)) + 50
-    d.rectangle([330, 330, 330 + larg, 330 + 62], fill=COLORE_BOX)
-    d.text((330 + 25, 330 + 31), etichetta, font=fb, fill=COLORE_TESTO_BOX, anchor="lm")
+    d.rounded_rectangle([280, 318, 280 + larg, 318 + 62], radius=6, fill=COLORE_BOX)
+    d.text((280 + 25, 318 + 31), etichetta, font=fb, fill=COLORE_TESTO_BOX, anchor="lm")
 
     # titolone su box, allineato a sinistra: la dimensione scende finché sta in 4 righe
     massimo = LARGHEZZA - 120
@@ -111,11 +110,8 @@ def crea_copertina(titolo: str, fonte: str = "", serie: str = "", foto=None, cre
         d.text((60 + 30, y + alt_riga // 2 + 4), r, font=f, fill=COLORE_TESTO_BOX, anchor="lm")
         y += alt_riga
 
-    if serie or fonte:
-        d.text((60, 1580), " · ".join(x for x in (serie.upper(), f"FONTE: {fonte}".upper() if fonte else "") if x), font=font(34), fill=(220, 226, 230))
     if credito:
         d.text((LARGHEZZA - 40, ALTEZZA - 60), credito, font=font(26), fill=(210, 215, 220, 200), anchor="rs")
-    d.text((60, ALTEZZA - 60), "@calciooggi", font=font(30), fill=(255, 255, 255, 220), anchor="ls")
 
     img.convert("RGB").save(uscita)
     return uscita
