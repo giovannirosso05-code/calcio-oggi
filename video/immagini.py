@@ -178,6 +178,25 @@ class Banca:
         self._cache[chiave] = out
         return out
 
+    def foto_da_titolo_che_inizia(self, nome_completo):
+        """Foto di articoli il cui titolo COMINCIA col cognome (interviste e dichiarazioni: «Gattuso: …»): quasi sempre il ritratto della persona."""
+        cognome = ([w for w in _parole(nome_completo) if len(w) >= 4] or [""])[-1]
+        chiave = ("inizia", cognome)
+        if chiave in self._cache:
+            return self._cache[chiave]
+        out = []
+        if cognome:
+            arts = [a for a in self.articoli if (_parole(a.get("titolo", "")) or [""])[0] == cognome]
+            arts.sort(key=lambda a: a.get("pubblicato", ""), reverse=True)
+            for a in arts[:4]:
+                for u in immagini_pagina(a["url"], 3):
+                    img = scarica(u, a["url"])
+                    if img is not None:
+                        out.append({"id": _id(u), "img": img, "credito": f"Foto: {a.get('fonte', 'testata')}", "origine": f"articolo {a.get('fonte', '')} su {nome_completo}: {a.get('titolo', '')[:60]}"})
+                        break
+        self._cache[chiave] = out
+        return out
+
     def _espn_news(self):
         if self._espn is None:
             self._espn = []

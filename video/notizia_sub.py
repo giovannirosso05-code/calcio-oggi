@@ -338,10 +338,11 @@ def risolvi_foto(spec, banca):
             scelte.append([None, False])
             continue
         cands = []
-        if s.get("persona_libera"):   # foto libera di Wikimedia di quella persona (es. l'allenatore di chi ha vinto), verificata su Wikidata
+        if s.get("persona_libera"):   # ritratto della persona (es. l'allenatore di chi ha vinto): prima gli articoli con il suo nome all'inizio del titolo, poi Wikimedia
+            cands = banca.foto_da_titolo_che_inizia(s["persona_libera"])
             from video.foto import trova
             try:
-                f = trova(s["persona_libera"])
+                f = None if cands else trova(s["persona_libera"])
             except Exception:
                 f = None
             if f:
