@@ -12,6 +12,7 @@ DATA_DIR = Path(__file__).parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
 FILE_RASSEGNA = DATA_DIR / "rassegna.json"
 FILE_PARTITE = DATA_DIR / "partite.json"
+FILE_SCARTATE = DATA_DIR / "rassegna_scartate.json"   # le notizie estere meno importanti: non vanno nel bot, ma si possono leggere nella pagina «Altre notizie»
 UA = {"User-Agent": "Mozilla/5.0 (compatible; CalcioOggiBot/1.0; +https://github.com/giovannirosso05-code/calcio-oggi)"}
 
 FEEDS = [
@@ -49,7 +50,7 @@ ALIAS = {
 }
 
 # Estero: interessa solo chi è davvero importante, oppure una notizia clamorosa (scandalo, arresto, esonero...), oppure se c'entra una squadra italiana
-TOP_ESTERO = {"real madrid", "barcelona", "barcellona", "atletico madrid", "atletico", "manchester city", "man city", "manchester united", "man united", "united",
+TOP_ESTERO = {"real madrid", "barcelona", "barcellona", "atletico madrid", "atletico", "manchester city", "man city", "manchester united", "man united", "man utd", "utd", "united",
               "liverpool", "arsenal", "chelsea", "tottenham", "newcastle", "bayern", "bayern monaco", "bayern munich", "dortmund", "borussia dortmund", "leverkusen",
               "psg", "paris saint germain", "marseille", "marsiglia", "monaco", "lione", "lyon", "benfica", "porto", "sporting", "ajax", "galatasaray", "athletic club"}
 STAR_ESTERO = {"mbappe", "haaland", "messi", "ronaldo", "cristiano ronaldo", "vinicius", "bellingham", "yamal", "salah", "kane", "lewandowski", "mourinho", "guardiola",
@@ -256,8 +257,13 @@ def main():
 
     etichetta_estero(articoli, squadre)
     prima = len(articoli)
+    scartate = [a for a in articoli if not interessa_all_estero(a, squadre)]
     articoli = [a for a in articoli if interessa_all_estero(a, squadre)]
     print(f"Estero: tolte {prima - len(articoli)} notizie senza una grande squadra, una stella o un fatto clamoroso")
+    scartate.sort(key=lambda x: x["pubblicato"], reverse=True)
+    with open(FILE_SCARTATE, "w", encoding="utf-8") as out:
+        json.dump({"aggiornato": datetime.now(timezone.utc).isoformat(), "totale": len(scartate),
+                   "articoli": [{k: a[k] for k in ("id", "titolo", "url", "estratto", "fonte", "serie", "pubblicato")} for a in scartate]}, out, ensure_ascii=False, indent=2)
     varia_e_premia(articoli, squadre)
 
     # Ordina per data e importanza
