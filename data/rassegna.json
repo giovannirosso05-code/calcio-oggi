@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-18T23:55:09.064021+00:00",
+  "aggiornato": "2026-10-19T03:18:25.292671+00:00",
   "totale": 45,
   "articoli": [
     {
@@ -56,17 +56,6 @@
       "citazione": true,
       "punteggio": 70,
       "pubblicato": "2026-10-18T22:20:00+00:00"
-    },
-    {
-      "id": "f96c31c2e0",
-      "titolo": "Juventus, Spalletti: \"Sono preoccupato perché stiamo peggiorando\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-breve-conferenza-stampa-spalletti-2284765",
-      "estratto": "23:07 - Luciano Spalletti, allenatore della Juventus, ha parlato in conferenza stampa al termine della sfida contro la Lazio.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-18T22:17:31+00:00"
     },
     {
       "id": "88bf8a6049",
@@ -166,17 +155,6 @@
       "citazione": true,
       "punteggio": 40,
       "pubblicato": "2026-10-18T22:19:26+00:00"
-    },
-    {
-      "id": "96c9472d85",
-      "titolo": "La Legge Bove spiegata da lui stesso: \"Mi hanno detto che a gennaio sarà calendarizzata\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/legge-bove-spiegata-stesso-mi-gennaio-calendarizzata-2284737",
-      "estratto": "Edoardo Bove, intervenuto ai microfoni dei media a margine della presentazione del docu-film \"In un battito\", ha parlato anche della cosiddetta 'legge Bove' e di quanto accadutogli dopo quel famoso Fiorentina-Inter.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-18T22:15:00+00:00"
     },
     {
       "id": "922c92361c",
@@ -375,6 +353,28 @@
       "citazione": false,
       "punteggio": 30,
       "pubblicato": "2026-10-18T13:36:25+00:00"
+    },
+    {
+      "id": "c1c30ea504",
+      "titolo": "Evan Ferguson, il possibile acquisto del Genoa. Che poi ha puntato su Osmajic",
+      "url": "https://www.tuttomercatoweb.com/nato-oggi/evan-ferguson-possibile-acquisto-genoa-puntato-osmajic-2283905",
+      "estratto": "Doveva andare al Genoa, Evan Ferguson.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-19T03:00:22+00:00"
+    },
+    {
+      "id": "34b776e41b",
+      "titolo": "Le partite di oggi: il programma di lunedì 19 ottobre",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-lunedi-19-ottobre-2284652",
+      "estratto": "Sono tante, anche questo lunedì, le partite da seguire in Italia e all'estero.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-19T02:30:36+00:00"
     },
     {
       "id": "7936b27134",
