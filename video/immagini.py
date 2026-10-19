@@ -9,6 +9,7 @@ scelgono per ogni scena immagini DIVERSE, finché ce ne sono.
 import hashlib
 import html
 import io
+import json
 import re
 from pathlib import Path
 
@@ -105,6 +106,27 @@ def _parole(testo):
     return [p for p in _norm(testo).split() if len(p) > 1]
 
 
+_COGNOMI = None
+
+
+def _cognomi_noti():
+    """Cognomi dei calciatori (data/giocatori.json): se nel titolo c'è anche un altro calciatore, la foto dell'articolo può essere sua."""
+    global _COGNOMI
+    if _COGNOMI is None:
+        try:
+            elenco = json.loads((Path(__file__).resolve().parent.parent / "data" / "giocatori.json").read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            elenco = []
+        _COGNOMI = {u for g in elenco for u in [(_parole(g[1]) or [""])[-1]] if len(u) >= 5} - PAROLE_VUOTE
+    return _COGNOMI
+
+
+def _nomina_altri(nome, titolo):
+    """True se il titolo cita un altro calciatore oltre a `nome`: titoli come «le magie di Güler e Mbappé» hanno la foto di uno solo, e non sappiamo chi."""
+    suoi = set(_parole(nome))
+    return any(p in _cognomi_noti() and p not in suoi for p in _parole(titolo))
+
+
 def _punteggio(nome, titolo):
     """0 = non c'entra, 2 = nome e cognome nel titolo, 1 = solo il cognome (almeno 5 lettere) o il nome della squadra."""
     n, t = [p for p in _parole(nome) if p not in PAROLE_VUOTE], set(_parole(titolo))
@@ -132,6 +154,8 @@ class Banca:
         cand = []
         for a in self.articoli:
             p = _punteggio(nome, a.get("titolo", ""))
+            if p and len(_parole(nome)) >= 2 and _nomina_altri(nome, a.get("titolo", "")) and a["url"] != self.principale:
+                continue   # titolo con due calciatori: la foto potrebbe essere dell'altro
             if p:
                 cand.append((p + (0.5 if a["url"] == self.principale else 0), a.get("pubblicato", ""), a))
         cand.sort(key=lambda x: (x[0], x[1]), reverse=True)
@@ -219,7 +243,7 @@ class Banca:
         n = [p for p in _parole(nome) if p not in PAROLE_VUOTE]
         for x in self._espn_news():
             t = set(_parole(x["testo"]))
-            if n and all(p in t for p in n):
+            if n and all(p in t for p in n) and not _nomina_altri(nome, x["testo"]):
                 im = scarica(x["url"])
                 if im is not None:
                     out.append({"id": _id(x["url"]), "img": im, "credito": "Foto: ESPN", "origine": "ESPN: " + x["testo"][:60]})
