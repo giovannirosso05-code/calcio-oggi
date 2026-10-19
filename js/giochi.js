@@ -1,4 +1,4 @@
-import { esc, montaPagina } from "./common.js?v=9";
+import { esc, montaPagina } from "./common.js?v=11";
 
 montaPagina("giochi.html");
 

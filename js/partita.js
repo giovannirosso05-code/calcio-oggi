@@ -1,5 +1,5 @@
-import { fetchJSON, esc, montaPagina, oraRoma } from "./common.js?v=9";
-import { param, errore, stemma, linkSquadra, linkGiocatore , caricaFoto, paginaFoto } from "./schede.js?v=9";
+import { fetchJSON, esc, montaPagina, oraRoma } from "./common.js?v=11";
+import { param, errore, stemma, linkSquadra, linkGiocatore , caricaFoto, paginaFoto } from "./schede.js?v=11";
 
 montaPagina("partite.html");
 const box = document.getElementById("scheda"), id = param("id");

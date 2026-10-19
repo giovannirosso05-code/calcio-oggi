@@ -80,6 +80,9 @@ function marcatori(p) {
 // nome della squadra: porta alla sua scheda (sopra il link della partita)
 const nomeSq = (s) => (s.id ? `<a class="nome-sq" href="squadra.html?id=${encodeURIComponent(s.id)}">${esc(s.breve || s.nome)}</a>` : `<span>${esc(s.breve || s.nome)}</span>`);
 
+// stemma + nome insieme: cliccando su uno dei due si apre la rosa della squadra
+const sqLink = (s) => (s.id ? `<a class="nome-sq sq-link" href="squadra.html?id=${encodeURIComponent(s.id)}">${logoSq(s)}<span>${esc(s.breve || s.nome)}</span></a>` : `${logoSq(s)}<span>${esc(s.breve || s.nome)}</span>`);
+
 export function cardPartita(p, senzaOra = false) {
   const nascondi = senzaOra && p.stato === "pre";   // l'orario è già nell'etichetta della fascia
   const { casa, ospite } = p;
@@ -88,8 +91,8 @@ export function cardPartita(p, senzaOra = false) {
   return `<div class="partita${p.stato === "in" ? " live" : ""}${nascondi ? " senza-stato" : ""}">
     ${nascondi ? "" : colonnaStato(p)}
     <div class="p-squadre">
-      <div class="p-sq${vince(casa)}">${logoSq(casa)}${nomeSq(casa)}</div>
-      <div class="p-sq${vince(ospite)}">${logoSq(ospite)}${nomeSq(ospite)}</div>
+      <div class="p-sq${vince(casa)}">${sqLink(casa)}</div>
+      <div class="p-sq${vince(ospite)}">${sqLink(ospite)}</div>
     </div>
     <div class="p-gol"><b>${gol[0]}</b><b>${gol[1]}</b></div>
     ${p.stato !== "pre" ? marcatori(p) : ""}
@@ -164,7 +167,7 @@ export function tabellaClassifica(gruppo, completa = true) {
   const righe = gruppo.righe.map((r) => {
     if (r.zona?.testo) zone.set(r.zona.testo, r.zona.colore || "#888");
     const bordo = r.zona?.colore ? `style="border-left-color:${esc(r.zona.colore)}"` : "";
-    return `<tr><td class="pos" ${bordo}>${r.pos ?? ""}</td><td class="sq"><div class="sq-cella">${logoSq(r.squadra)}${nomeSq(r.squadra)}</div></td>
+    return `<tr><td class="pos" ${bordo}>${r.pos ?? ""}</td><td class="sq"><div class="sq-cella">${sqLink(r.squadra)}</div></td>
       <td>${r.g ?? ""}</td><td class="opz">${r.v ?? ""}</td><td class="opz">${r.n ?? ""}</td><td class="opz">${r.p ?? ""}</td><td class="opz">${r.gf ?? ""}</td><td class="opz">${r.gs ?? ""}</td>
       <td>${r.dr > 0 ? "+" : ""}${r.dr ?? ""}</td><td class="pt">${r.pt ?? ""}</td></tr>`;
   }).join("");
