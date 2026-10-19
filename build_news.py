@@ -1,7 +1,9 @@
 import hashlib
 import html
 import json
+import os
 import re
+import time
 import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -12,6 +14,7 @@ DATA_DIR = Path(__file__).parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
 FILE_RASSEGNA = DATA_DIR / "rassegna.json"
 FILE_PARTITE = DATA_DIR / "partite.json"
+FILE_TRADUZIONI = DATA_DIR / "traduzioni.json"   # titoli ed estratti già tradotti (ogni notizia si traduce una volta sola)
 FILE_SCARTATE = DATA_DIR / "rassegna_scartate.json"   # le notizie estere meno importanti: non vanno nel bot, ma si possono leggere nella pagina «Altre notizie»
 UA = {"User-Agent": "Mozilla/5.0 (compatible; CalcioOggiBot/1.0; +https://github.com/giovannirosso05-code/calcio-oggi)"}
 
@@ -193,6 +196,79 @@ def etichetta_estero(articoli, squadre):
             a["serie"] = "Estero"
 
 
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{modello}:generateContent"
+GEMINI_MODELLI = ["gemini-flash-latest", "gemini-flash-lite-latest"]
+
+
+def _chiedi_traduzione(voci, chiave):
+    """Traduce in italiano [{"titolo", "estratto"}] con Gemini; restituisce la lista tradotta (stesso ordine) o None."""
+    prompt = ("Traduci in italiano giornalistico naturale questi titoli e questi estratti di notizie di calcio (dall'inglese). "
+              "Regole: mantieni i nomi di persone, squadre e competizioni come si scrivono in italiano (Real Madrid, Manchester United, Champions League); "
+              "non aggiungere informazioni, non togliere nulla di importante, nessun commento; le virgolette restano; un estratto vuoto resta vuoto. "
+              "Rispondi SOLO con un array JSON, uno per voce e nello stesso ordine, di oggetti {\"titolo\": \"...\", \"estratto\": \"...\"}.\n\n"
+              + json.dumps(voci, ensure_ascii=False))
+    corpo = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"temperature": 0.2, "maxOutputTokens": 8192, "responseMimeType": "application/json", "thinkingConfig": {"thinkingBudget": 0}}}
+    for modello in GEMINI_MODELLI:
+        for tentativo in range(3):
+            try:
+                r = requests.post(f"{GEMINI_URL.format(modello=modello)}?key={chiave}", json=corpo, timeout=90)
+            except requests.RequestException:
+                break
+            if r.status_code == 400 and "thinkingConfig" in corpo["generationConfig"]:
+                corpo["generationConfig"].pop("thinkingConfig")
+                continue
+            if r.status_code == 429:
+                time.sleep(8 * (tentativo + 1))
+                continue
+            if not r.ok:
+                break
+            try:
+                testo = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+                dati = json.loads(re.sub(r"^```(?:json)?|```$", "", testo.strip(), flags=re.M).strip(), strict=False)
+            except (KeyError, IndexError, ValueError):
+                continue
+            if isinstance(dati, list) and len(dati) == len(voci) and all(isinstance(x, dict) and x.get("titolo") for x in dati):
+                return dati
+    return None
+
+
+def traduci_inglesi(articoli):
+    """Le notizie di ESPN sono in inglese e sul sito devono essere in italiano: si traducono (una volta sola, con memoria) e quelle che non si riescono a tradurre si tolgono.
+    Restituisce la lista senza le notizie non tradotte."""
+    try:
+        memoria = json.loads(FILE_TRADUZIONI.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        memoria = {}
+    da_fare = [a for a in articoli if a["fonte"] == "ESPN" and a["id"] not in memoria]
+    chiave = os.environ.get("GEMINI_API_KEY", "").strip()
+    if da_fare and chiave:
+        for i in range(0, len(da_fare), 25):
+            gruppo = da_fare[i:i + 25]
+            risposta = _chiedi_traduzione([{"titolo": a["titolo"], "estratto": a["estratto"]} for a in gruppo], chiave)
+            if risposta:
+                for a, t in zip(gruppo, risposta):
+                    titolo = pulisci_testo(t.get("titolo", ""))
+                    if titolo and titolo.lower() != a["titolo"].lower():
+                        memoria[a["id"]] = {"titolo": titolo, "estratto": pulisci_testo(t.get("estratto", ""))[:250]}
+            else:
+                print(f"Traduzione non riuscita per {len(gruppo)} notizie")
+    elif da_fare:
+        print("GEMINI_API_KEY mancante: le notizie in inglese non si possono tradurre e non vengono pubblicate")
+    out = []
+    for a in articoli:
+        if a["fonte"] != "ESPN":
+            out.append(a)
+        elif a["id"] in memoria:
+            a["titolo"] = memoria[a["id"]]["titolo"]
+            a["estratto"] = memoria[a["id"]]["estratto"]
+            a["citazione"] = a["citazione"] or bool(VIRGOLETTE.search(a["titolo"]))
+            out.append(a)
+    ids = {a["id"] for a in articoli}
+    memoria = {k: v for k, v in memoria.items() if k in ids}   # la memoria tiene solo le notizie ancora in lista
+    FILE_TRADUZIONI.write_text(json.dumps(memoria, ensure_ascii=False, indent=1), encoding="utf-8")
+    return out
+
+
 def varia_e_premia(articoli, squadre):
     """Mette un tetto alle notizie sulla stessa squadra (altrimenti oggi sono tutte sulla Juve) e dà più peso a chi ha giocato da poco.
     Il bot ordina per citazione + punteggio/4 + freschezza: qui si regola il punteggio, così basta questo file."""
@@ -260,6 +336,10 @@ def main():
     scartate = [a for a in articoli if not interessa_all_estero(a, squadre)]
     articoli = [a for a in articoli if interessa_all_estero(a, squadre)]
     print(f"Estero: tolte {prima - len(articoli)} notizie senza una grande squadra, una stella o un fatto clamoroso")
+    todas = traduci_inglesi(articoli + scartate)   # una sola chiamata per tutte: la memoria evita di ritradurre
+    ok = {a["id"] for a in todas}
+    articoli = [a for a in articoli if a["id"] in ok]
+    scartate = [a for a in scartate if a["id"] in ok]
     scartate.sort(key=lambda x: x["pubblicato"], reverse=True)
     with open(FILE_SCARTATE, "w", encoding="utf-8") as out:
         json.dump({"aggiornato": datetime.now(timezone.utc).isoformat(), "totale": len(scartate),
