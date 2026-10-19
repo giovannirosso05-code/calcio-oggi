@@ -18,6 +18,7 @@ UA = {"User-Agent": "CalcioOggi/1.0 (https://github.com/giovannirosso05-code/cal
 FOTO = DATA_DIR / "foto.json"
 ALLENATORI = DATA_DIR / "allenatori.json"
 CLUB = DATA_DIR / "club.json"
+MANUALE = DATA_DIR / "club_manuale.json"   # correzioni scritte a mano: hanno sempre la precedenza su Wikidata
 
 
 def sparql(q):
@@ -122,10 +123,19 @@ def main():
 
     elenco = [(i, n, b) for i, (n, b) in squadre.items()]
     lotti = [elenco[i:i + 40] for i in range(0, len(elenco), 40)]
-    club = {}
+    club = json.loads(CLUB.read_text(encoding="utf-8")) if CLUB.exists() else {}   # un dato già trovato non si perde se oggi Wikidata non risponde
     with ThreadPoolExecutor(max_workers=3) as pool:
         for res in pool.map(chunk_club, lotti):
-            club.update(res)
+            for k, v in res.items():
+                club.setdefault(k, {}).update(v)
+    CLUB.write_text(json.dumps(club, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    if not os.environ.get("SOLO_CLUB"):
+        from fetch_club_grandi import main as completa_grandi
+        completa_grandi()
+    club = json.loads(CLUB.read_text(encoding="utf-8"))
+    if MANUALE.exists():
+        for k, v in json.loads(MANUALE.read_text(encoding="utf-8")).items():
+            club.setdefault(k, {}).update(v)
     CLUB.write_text(json.dumps(club, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     allen = {k: v["allenatore"] for k, v in club.items() if v.get("allenatore")}
     ALLENATORI.write_text(json.dumps(allen, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
