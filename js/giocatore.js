@@ -1,5 +1,5 @@
-import { fetchJSON, esc, montaPagina, cardPartita } from "./common.js?v=7";
-import { WEB, chiedi, param, errore, stemma, foto, RUOLO_SING, RUOLO_CODICE, STAT_IT, nazione, dataNascita, trovaSquadra } from "./schede.js?v=7";
+import { fetchJSON, esc, montaPagina, cardPartita } from "./common.js?v=9";
+import { WEB, chiedi, param, errore, stemma, foto, RUOLO_SING, RUOLO_CODICE, STAT_IT, nazione, dataNascita, trovaSquadra , caricaFoto, paginaFoto } from "./schede.js?v=9";
 
 montaPagina("squadre.html");
 const box = document.getElementById("scheda"), id = param("id");
@@ -17,15 +17,16 @@ const competizione = (n) => COMP.reduce((s, [en, it]) => s.replace(en, it), Stri
   const g = trovata?.squadra.giocatori.find((x) => String(x.id) === String(id));
   if (!g) return errore(box, "Non trovo questo giocatore.");
   const t = trovata.squadra;
+  await caricaFoto();
   document.getElementById("indietro").outerHTML = `<a class="indietro" id="indietro" href="squadra.html?id=${encodeURIComponent(t.id)}">← ${esc(t.nome)}</a>`;
   document.title = `${g.nome}: scheda e statistiche — Calcio Oggi`;
 
   const ruolo = RUOLO_SING[RUOLO_CODICE[g.ruolo]] || "";
   const dati = [["Ruolo", ruolo], ["Numero", g.num ? "#" + g.num : ""], ["Età", g.eta ? g.eta + " anni" : ""], ["Nato il", dataNascita(g.nascita)],
     ["Nazionalità", nazione(g.naz)], ["Altezza", g.alt ? g.alt + " cm" : ""], ["Peso", g.peso ? g.peso + " kg" : ""]].filter(([, v]) => v);
-  const testa = `<div class="scheda-testa">${foto(g.id, g.nome, "foto foto-l")}<div><h1>${esc(g.nome)}</h1>
+  const testa = `<div class="scheda-testa">${foto(g.id, g.nome, "foto foto-l", g.foto)}<div><h1>${esc(g.nome)}</h1>
     <p><a class="lk" href="squadra.html?id=${encodeURIComponent(t.id)}">${stemma(t.logo, 22)} ${esc(t.nome)}</a>${ruolo ? ` · ${esc(ruolo)}` : ""}</p>
-    <p class="tenue">${esc(trovata.nomeLega)}</p></div></div>
+    <p class="tenue">${esc(trovata.nomeLega)}</p>${!g.foto && paginaFoto(g.id) ? `<p class="tenue piccolo">Foto: <a class="lk" href="${esc(paginaFoto(g.id))}" target="_blank" rel="noopener">Wikimedia Commons</a> (licenza libera, autore nella pagina del file)</p>` : ""}</div></div>
     <div class="dati-griglia">${dati.map(([k, v]) => `<div><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>`;
   box.innerHTML = testa;
 

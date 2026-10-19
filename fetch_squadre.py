@@ -51,6 +51,7 @@ def rosa_squadra(arg):
             "num": a.get("jersey"), "ruolo": RUOLI.get((a.get("position") or {}).get("name"), ""),
             "eta": a.get("age"), "nascita": (a.get("dateOfBirth") or "")[:10], "naz": a.get("citizenship"),
             "alt": cm(a.get("height")), "peso": kg(a.get("weight")),
+            "foto": (a.get("headshot") or {}).get("href", ""),
         })
     coach = ((d or {}).get("coach") or [{}])[0]
     return {

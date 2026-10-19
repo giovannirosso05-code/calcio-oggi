@@ -45,6 +45,35 @@ def dettaglio(p):
     return p["id"], {"eventi": eventi, "stat": stat, "rose": rose, "stadio": ((d.get("gameInfo") or {}).get("venue") or {}).get("fullName", "")}
 
 
+SCHEDULE = "https://site.api.espn.com/apis/site/v2/sports/soccer/all/teams/{id}/schedule"
+
+
+def undici(r):
+    return {"modulo": r.get("formation") or "", "giocatori": [
+        {"id": (x.get("athlete") or {}).get("id"), "nome": (x.get("athlete") or {}).get("displayName", ""), "breve": (x.get("athlete") or {}).get("shortName", ""),
+         "num": x.get("jersey"), "pos": (x.get("position") or {}).get("abbreviation", ""), "tit": True, "posto": x.get("formationPlace")}
+        for x in r.get("roster") or [] if x.get("starter")]}
+
+
+def probabile(args):
+    """Probabile formazione = undici titolare dell'ultima partita giocata dalla squadra (non è una previsione di un allenatore: l'etichetta nel sito lo dice)."""
+    squadra, precedenti = args
+    d = scarica(SCHEDULE.format(id=squadra))
+    giocate = sorted([e for e in (d or {}).get("events", []) if ((e.get("competitions") or [{}])[0].get("status") or {}).get("type", {}).get("state") == "post"], key=lambda e: e["date"])
+    if not giocate:
+        return squadra, None
+    ultima = giocate[-1]
+    if precedenti.get(squadra, {}).get("evento") == ultima["id"]:
+        return squadra, precedenti[squadra]
+    sm = scarica(SUMMARY.format(lega="all"), event=ultima["id"])
+    for r in (sm or {}).get("rosters") or []:
+        if str(r["team"]["id"]) == str(squadra):
+            u = undici(r)
+            if len(u["giocatori"]) == 11:
+                return squadra, {"evento": ultima["id"], "contro": ultima.get("name", ""), "data": ultima["date"], **u}
+    return squadra, None
+
+
 def main():
     adesso = datetime.now(timezone.utc)
     partite = json.loads((DATA_DIR / "partite.json").read_text(encoding="utf-8"))["partite"]
@@ -53,8 +82,18 @@ def main():
         risultati = [r for r in pool.map(dettaglio, scelte) if r]
     if not risultati and scelte:
         raise SystemExit("Nessun dettaglio scaricato: il file precedente resta.")
-    (DATA_DIR / "dettagli.json").write_text(json.dumps({"generato": adesso.isoformat(), "partite": dict(risultati)}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"dettagli.json: {len(risultati)}/{len(scelte)} partite")
+    precedenti = {}
+    try:
+        precedenti = json.loads((DATA_DIR / "dettagli.json").read_text(encoding="utf-8")).get("probabili", {})
+    except (OSError, ValueError):
+        pass
+    senza = [p for p in partite if p["stato"] == "pre" and timedelta(0) <= datetime.fromisoformat(p["data"].replace("Z", "+00:00")) - adesso < timedelta(hours=36)
+             and not any(r["giocatori"] for r in (dict(risultati).get(p["id"]) or {}).get("rose", []))]
+    squadre = sorted({str(x["id"]) for p in senza for x in (p["casa"], p["ospite"]) if x.get("id")})
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        probabili = {k: v for k, v in pool.map(probabile, [(sq, precedenti) for sq in squadre]) if v}
+    (DATA_DIR / "dettagli.json").write_text(json.dumps({"generato": adesso.isoformat(), "partite": dict(risultati), "probabili": probabili}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"dettagli.json: {len(risultati)}/{len(scelte)} partite, {len(probabili)} probabili formazioni")
 
 
 if __name__ == "__main__":

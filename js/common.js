@@ -69,8 +69,12 @@ function giornoLabel(iso) {
 
 function marcatori(p) {
   if (!p.gol?.length) return "";
-  const nome = (g) => `${esc(g.marcatore)} ${esc(g.minuto)}${g.rigore ? " (rig.)" : ""}${g.autogol ? " (aut.)" : ""}`;
-  return `<div class="marcatori">⚽ ${p.gol.map(nome).join(" · ")}</div>`;
+  const nome = (g) => `<span class="mg"><i>⚽</i><b>${esc(g.marcatore)}</b> <small>${esc(g.minuto)}${g.rigore ? " rig." : ""}${g.autogol ? " aut." : ""}</small></span>`;
+  // i gol sono divisi per squadra: a sinistra quelli della squadra di casa, a destra quelli dell'ospite (l'autogol conta per l'avversario, ESPN lo assegna già così)
+  const di = (s) => p.gol.filter((g) => String(g.squadra) === String(s.id));
+  const l1 = di(p.casa), l2 = di(p.ospite);
+  if (l1.length + l2.length !== p.gol.length) return `<div class="marcatori"><div class="m-col">${p.gol.map(nome).join("")}</div></div>`;
+  return `<div class="marcatori"><div class="m-col">${l1.map(nome).join("")}</div><div class="m-col dx">${l2.map(nome).join("")}</div></div>`;
 }
 
 // nome della squadra: porta alla sua scheda (sopra il link della partita)

@@ -1,4 +1,4 @@
-import { logoLega, fetchJSON, esc, montaPagina, aggiornatoIl, tabellaClassifica, messaggioErrore } from "./common.js?v=7";
+import { logoLega, fetchJSON, esc, montaPagina, aggiornatoIl, tabellaClassifica, messaggioErrore } from "./common.js?v=9";
 
 montaPagina("classifiche.html");
 

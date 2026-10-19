@@ -1,6 +1,6 @@
 // Aiuti per le pagine di squadre, giocatori e partite. I dati arrivano da ESPN direttamente dal browser
 // (le richieste sono aperte a tutti i siti), quindi ogni squadra e ogni giocatore ha la sua scheda senza file da rigenerare.
-import { esc, fetchJSON } from "./common.js?v=7";
+import { esc, fetchJSON } from "./common.js?v=9";
 
 export const API = "https://site.api.espn.com/apis/site/v2/sports/soccer";
 export const WEB = "https://site.web.api.espn.com/apis/common/v3";
@@ -53,9 +53,15 @@ export const kg = (libbre) => (libbre ? Math.round(libbre * 0.4536) : null);
 export const dataNascita = (iso) => (iso ? new Intl.DateTimeFormat("it-IT", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).format(new Date(iso)) : "");
 
 // ---------- pezzi di pagina ----------
-const FOTO = (id) => `https://a.espncdn.com/i/headshots/soccer/players/full/${id}.png`;
-export function foto(id, nome, classe = "foto") {
-  return `<span class="${classe}"><img src="${FOTO(id)}" alt="${esc(nome)}" loading="lazy" onerror="this.parentNode.classList.add('senza-foto');this.remove()"><b aria-hidden="true">${esc(iniziali(nome))}</b></span>`;
+// Foto: prima quella di ESPN (se la scheda ne ha una), poi quella libera di Wikimedia Commons trovata via Wikidata, altrimenti le iniziali.
+let _foto = {};
+export async function caricaFoto() { try { _foto = await fetchJSON("data/foto.json"); } catch (e) { _foto = {}; } }
+export const fotoCommons = (id) => (_foto[id] ? `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(_foto[id])}?width=300` : "");
+export const paginaFoto = (id) => (_foto[id] ? `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(_foto[id])}` : "");
+export function foto(id, nome, classe = "foto", espn = "") {
+  const url = espn || fotoCommons(id);
+  if (!url) return `<span class="${classe} senza-foto"><b aria-hidden="true">${esc(iniziali(nome))}</b></span>`;
+  return `<span class="${classe}"><img src="${esc(url)}" alt="${esc(nome)}" loading="lazy" onerror="this.parentNode.classList.add('senza-foto');this.remove()"><b aria-hidden="true">${esc(iniziali(nome))}</b></span>`;
 }
 export const iniziali = (nome) => String(nome || "").split(/\s+/).filter(Boolean).map((p) => p[0]).slice(0, 2).join("").toUpperCase();
 

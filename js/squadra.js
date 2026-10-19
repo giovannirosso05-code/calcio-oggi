@@ -1,5 +1,5 @@
-import { fetchJSON, esc, montaPagina, cardPartita } from "./common.js?v=7";
-import { param, errore, stemma, foto, RUOLI, ORDINE_RUOLI, RUOLO_CODICE, nazione, trovaSquadra } from "./schede.js?v=7";
+import { fetchJSON, esc, montaPagina, cardPartita } from "./common.js?v=9";
+import { param, errore, stemma, foto, RUOLI, ORDINE_RUOLI, RUOLO_CODICE, nazione, trovaSquadra , caricaFoto, paginaFoto } from "./schede.js?v=9";
 
 montaPagina("squadre.html");
 const box = document.getElementById("scheda"), id = param("id");
@@ -9,6 +9,9 @@ const box = document.getElementById("scheda"), id = param("id");
   const trovata = await trovaSquadra(id);
   if (!trovata) return errore(box, "Non trovo questa squadra.");
   const { squadra: t, lega } = trovata;
+  await caricaFoto();
+  const allenatori = await fetchJSON("data/allenatori.json").catch(() => ({}));
+  const allenatore = allenatori[id] || "";
   document.title = `${t.nome}: rosa, risultati e prossime partite — Calcio Oggi`;
 
   // posizione in classifica (se c'è) dal file delle classifiche
@@ -19,7 +22,7 @@ const box = document.getElementById("scheda"), id = param("id");
     for (const g of c.gruppi) { const r = g.righe.find((x) => String(x.squadra.id) === String(id)); if (r) posizione = `${r.pos}° in ${c.nome} · ${r.pt} punti`; }
   }
   const testa = `<div class="scheda-testa" style="--col:${t.colore ? "#" + esc(t.colore) : "var(--accento)"}">${stemma(t.logo, 88)}
-    <div><h1>${esc(t.nome)}</h1>${posizione ? `<p>${esc(posizione)}</p>` : ""}${t.allenatore ? `<p class="tenue">Allenatore: ${esc(t.allenatore)}</p>` : ""}</div></div>`;
+    <div><h1>${esc(t.nome)}</h1>${posizione ? `<p>${esc(posizione)}</p>` : ""}${allenatore ? `<p class="tenue">Allenatore: ${esc(allenatore)}</p>` : ""}</div></div>`;
 
   // partite: ultime e prossime (dal file delle partite, finestra di pochi giorni)
   const sue = (pa?.partite || []).filter((p) => String(p.casa.id) === String(id) || String(p.ospite.id) === String(id));
@@ -30,7 +33,7 @@ const box = document.getElementById("scheda"), id = param("id");
   const perRuolo = ORDINE_RUOLI.map((r) => [r, t.giocatori.filter((a) => RUOLO_CODICE[a.ruolo] === r).sort((a, b) => (Number(a.num) || 99) - (Number(b.num) || 99))]).filter(([, l]) => l.length);
   const altri = t.giocatori.filter((a) => !RUOLO_CODICE[a.ruolo]);
   if (altri.length) perRuolo.push(["Altri", altri]);
-  const riga = (a) => `<a class="riga-giocatore" href="giocatore.html?id=${encodeURIComponent(a.id)}&squadra=${encodeURIComponent(id)}">${foto(a.id, a.nome, "foto foto-s")}
+  const riga = (a) => `<a class="riga-giocatore" href="giocatore.html?id=${encodeURIComponent(a.id)}&squadra=${encodeURIComponent(id)}">${foto(a.id, a.nome, "foto foto-s", a.foto)}
       <span><b>${a.num ? `<i class="num">${esc(a.num)}</i> ` : ""}${esc(a.nome)}</b><small>${a.eta ? a.eta + " anni" : ""}${a.naz ? " · " + esc(nazione(a.naz)) : ""}</small></span></a>`;
   const rosa = perRuolo.length ? perRuolo.map(([r, l]) => `<h2 class="section-title"><span>${RUOLI[r] || r}</span></h2><div class="elenco-giocatori">${l.map(riga).join("")}</div>`).join("")
     : `<div class="vuoto">La rosa di questa squadra non è disponibile.</div>`;

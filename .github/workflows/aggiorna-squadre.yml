@@ -23,9 +23,11 @@ jobs:
       - run: pip install requests
       - name: Rose di tutte le squadre (ESPN)
         run: python fetch_squadre.py
+      - name: Foto e allenatori (Wikidata)
+        run: python fetch_wikidata.py || true
       - name: Salva dati
         run: |
           git config user.name "calcio-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/squadre data/giocatori.json 2>/dev/null || true
+          git add data/squadre data/giocatori.json data/foto.json data/allenatori.json 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "dati: rose aggiornate" && git pull --rebase origin main && git push)

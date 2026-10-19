@@ -125,7 +125,6 @@ main { flex: 1 0 auto; }
 .p-gol { display: flex; flex-direction: column; gap: 6px; text-align: right; font-family: var(--font-titoli); font-size: 18px; font-weight: 600; min-width: 22px; }
 .p-gol b { line-height: 22px; height: 22px; }
 .p-sq.vince + .p-sq, .p-sq + .p-sq.vince { }
-.marcatori { grid-column: 2 / 4; font-size: 12px; color: var(--tenue); margin-top: -2px; }
 .partita-link { position: absolute; inset: 0; border-radius: var(--raggio); }
 .partita { cursor: default; }
 
@@ -282,3 +281,57 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .sotto { font: 600 14px var(--font-titoli); text-transform: uppercase; color: var(--tenue); margin: 14px 0 0; }
 .ev { font-weight: 700; } .ev.su { color: #1a9d4a; } .ev.giu { color: #d33; }
 @media (max-width: 560px) { .scheda-testa { flex-direction: column; text-align: center; } .liste { columns: 1; } .m-sq { font-size: 15px; } .cronaca li { grid-template-columns: 44px 24px 1fr; } .cronaca li small { display: none; } }
+
+/* filtri dei campionati: una sola riga che scorre di lato (i campionati sono tanti) */
+#filtri.filtri { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; scrollbar-width: thin; -webkit-overflow-scrolling: touch; }
+#filtri.filtri .pill { flex: none; white-space: nowrap; }
+
+/* ---------- cronaca a due colonne ---------- */
+.cron { align-items: start; }
+.cron-sq { background: var(--card); border: 1px solid var(--linea); border-radius: var(--raggio); overflow: hidden; }
+.cron-sq header { display: flex; align-items: center; gap: 14px; padding: 14px 16px; background: var(--scuro); color: #fff; }
+.cron-sq header b { display: block; font: 700 22px var(--font-titoli); text-transform: uppercase; }
+.cron-sq header small { color: #b9c3bd; }
+.cron-sq ul { list-style: none; margin: 0; padding: 4px 0; }
+.cron-sq li { display: grid; grid-template-columns: 52px 34px 1fr; gap: 6px; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--linea); }
+.cron-sq li:last-child { border-bottom: 0; }
+.cron-sq .min { font: 700 18px var(--font-titoli); color: var(--tenue); }
+.cron-sq .ic { font-size: 22px; text-align: center; }
+.cron-sq .tx b { display: block; font-size: 16px; }
+.cron-sq .tx small { color: var(--tenue); }
+.cron-sq li.ev-gol { background: rgba(43,217,107,.12); }
+.cron-sq li.ev-gol .tx b { font-size: 18px; }
+.cron-sq li.ev-cambio .tx b { font-weight: 500; font-size: 15px; }
+.vuoto-c { padding: 14px 16px; margin: 0; }
+.cart { display: inline-block; width: 16px; height: 22px; border-radius: 3px; }
+.cart.g { background: #ffd51f; } .cart.r { background: #e5232f; }
+/* ---------- campo orizzontale con le due squadre ---------- */
+.forma-testa { display: flex; justify-content: space-between; align-items: center; font: 700 20px var(--font-titoli); text-transform: uppercase; margin: 8px 2px; gap: 10px; flex-wrap: wrap; }
+.forma-testa span { display: inline-flex; align-items: center; gap: 8px; }
+.campo-scroll { overflow-x: auto; border-radius: var(--raggio); }
+.campo-o { position: relative; min-width: 720px; aspect-ratio: 2 / 1; background: repeating-linear-gradient(90deg, #2f8f2f 0, #2f8f2f 8.33%, #297f29 8.33%, #297f29 16.66%); border: 3px solid #1d5f1d; border-radius: var(--raggio); }
+.c-linee i { position: absolute; border: 2px solid rgba(255,255,255,.75); }
+.c-linee .c-centro { left: 50%; top: 0; bottom: 0; width: 0; border-width: 0 0 0 2px; }
+.c-linee .c-centro::after { content: ""; position: absolute; left: -48px; top: calc(50% - 48px); width: 90px; height: 90px; border: 2px solid rgba(255,255,255,.75); border-radius: 50%; }
+.c-linee .c-area { top: 20%; height: 60%; width: 16%; }
+.c-linee .c-area.sx { left: 0; border-left: 0; } .c-linee .c-area.dx { right: 0; border-right: 0; }
+.c-linee .c-porta { top: 38%; height: 24%; width: 5%; border-width: 2px; }
+.c-linee .c-porta.sx { left: 0; border-left: 0; } .c-linee .c-porta.dx { right: 0; border-right: 0; }
+.c-modulo { position: absolute; top: 8px; font: 700 15px var(--font-titoli); color: rgba(255,255,255,.85); }
+.c-modulo.sx { left: 12px; } .c-modulo.dx { right: 12px; }
+.campo-o .gioc { position: absolute; transform: translate(-50%, -50%); width: 84px; }
+.campo-o .gioc i { margin-bottom: 2px; }
+.campo-o .gioc.ospite i { background: #14171c; color: #fff; border: 2px solid #fff; }
+.avviso { background: var(--card); border: 1px dashed var(--accento-testo); border-radius: var(--raggio); padding: 10px 14px; margin: 6px 0 10px; }
+.piccolo { font-size: 13px; }
+@media (max-width: 560px) { .campo-o { min-width: 640px; } .cron-sq li { grid-template-columns: 44px 30px 1fr; } }
+
+/* gol sotto la scheda: due colonne, una per squadra */
+.marcatori { grid-column: 1 / -1; display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--linea); font-size: 13px; }
+.m-col { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.m-col.dx { align-items: flex-end; text-align: right; }
+.mg { display: inline-flex; align-items: baseline; gap: 5px; }
+.mg i { font-style: normal; font-size: 12px; }
+.mg b { font-weight: 600; }
+.mg small { color: var(--tenue); font-weight: 600; }
+.m-col.dx .mg { flex-direction: row-reverse; }

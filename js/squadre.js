@@ -1,5 +1,5 @@
-import { fetchJSON, esc, montaPagina, logoLega } from "./common.js?v=7";
-import { errore, stemma, foto, param, indiceSquadre, fileLega } from "./schede.js?v=7";
+import { fetchJSON, esc, montaPagina, logoLega } from "./common.js?v=9";
+import { errore, stemma, foto, param, indiceSquadre, fileLega , caricaFoto, paginaFoto } from "./schede.js?v=9";
 
 montaPagina("squadre.html");
 const box = document.getElementById("contenuto-squadre"), cerca = document.getElementById("cerca"), intro = document.getElementById("intro");
@@ -35,6 +35,7 @@ async function ricerca(q) {
   q = norma(q.trim());
   if (q.length < 3) return param("lega") ? squadreDi(param("lega")) : campionati();
   giocatori ||= await fetchJSON("data/giocatori.json").catch(() => []);
+  await caricaFoto();
   if (q !== norma(cerca.value.trim())) return;
   const sq = Object.entries(indice).filter(([, t]) => norma(t.nome).includes(q)).slice(0, 24);
   const gi = giocatori.filter((g) => norma(g[1]).includes(q)).slice(0, 40);
