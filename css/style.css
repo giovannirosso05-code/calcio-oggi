@@ -391,3 +391,8 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .cal-giorni button.pt:not(.sel)::after { content: ""; position: absolute; bottom: 4px; left: 50%; width: 4px; height: 4px; margin-left: -2px; border-radius: 50%; background: var(--accento); }
 .cal-nota { margin: 10px 0 0; font-size: 12px; color: var(--tenue); display: flex; align-items: center; gap: 6px; }
 .cal-nota i { width: 6px; height: 6px; border-radius: 50%; background: var(--accento); }
+
+.anno-riga { display: flex; gap: 10px; align-items: flex-end; flex-wrap: wrap; }
+.anno-campo { display: grid; gap: 4px; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--tenue); font-weight: 600; }
+.anno-campo input { width: 150px; height: 46px; border-radius: 12px; border: 2px solid var(--linea); background: var(--card); color: var(--testo); font: 700 22px var(--font-titoli, inherit); letter-spacing: .06em; padding: 0 14px; text-transform: none; }
+.anno-campo input:focus { outline: none; border-color: var(--accento); box-shadow: 0 0 0 4px rgba(46,160,67,.18); }

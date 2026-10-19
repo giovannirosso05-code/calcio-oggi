@@ -1,6 +1,6 @@
 // Aiuti per le pagine di squadre, giocatori e partite. I dati arrivano da ESPN direttamente dal browser
 // (le richieste sono aperte a tutti i siti), quindi ogni squadra e ogni giocatore ha la sua scheda senza file da rigenerare.
-import { esc, fetchJSON } from "./common.js?v=19";
+import { esc, fetchJSON } from "./common.js?v=20";
 
 export const API = "https://site.api.espn.com/apis/site/v2/sports/soccer";
 export const WEB = "https://site.web.api.espn.com/apis/common/v3";

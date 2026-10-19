@@ -1,5 +1,5 @@
-import { fetchJSON, esc, montaPagina, logoLega } from "./common.js?v=19";
-import { errore, stemma, foto, param, indiceSquadre, fileLega , caricaFoto, paginaFoto } from "./schede.js?v=19";
+import { fetchJSON, esc, montaPagina, logoLega } from "./common.js?v=20";
+import { errore, stemma, foto, param, indiceSquadre, fileLega , caricaFoto, paginaFoto } from "./schede.js?v=20";
 
 montaPagina("squadre.html");
 const box = document.getElementById("contenuto-squadre"), cerca = document.getElementById("cerca"), intro = document.getElementById("intro");

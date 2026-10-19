@@ -1,4 +1,4 @@
-import { fetchJSON, esc, montaPagina, dataBreve, aggiornatoIl, messaggioErrore } from "./common.js?v=19";
+import { fetchJSON, esc, montaPagina, dataBreve, aggiornatoIl, messaggioErrore } from "./common.js?v=20";
 
 montaPagina("notizie.html");
 

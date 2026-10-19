@@ -1,5 +1,5 @@
-import { fetchJSON, esc, montaPagina, cardPartita } from "./common.js?v=19";
-import { param, errore, stemma, foto, RUOLI, ORDINE_RUOLI, RUOLO_CODICE, nazione, trovaSquadra , caricaFoto, paginaFoto } from "./schede.js?v=19";
+import { fetchJSON, esc, montaPagina, cardPartita } from "./common.js?v=20";
+import { param, errore, stemma, foto, RUOLI, ORDINE_RUOLI, RUOLO_CODICE, nazione, trovaSquadra , caricaFoto, paginaFoto } from "./schede.js?v=20";
 
 montaPagina("squadre.html");
 const box = document.getElementById("scheda"), id = param("id");

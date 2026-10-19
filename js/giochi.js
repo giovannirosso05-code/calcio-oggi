@@ -1,4 +1,4 @@
-import { esc, montaPagina } from "./common.js?v=19";
+import { esc, montaPagina } from "./common.js?v=20";
 
 montaPagina("giochi.html");
 
@@ -260,22 +260,29 @@ function macchina(box, casuale = false) {
       <ol class="eventi">${indizi.slice(0, fatto ? indizi.length : visibili).map((x) => `<li>${esc(x)}</li>`).join("")}</ol>
       ${prove.length ? `<ul class="eventi">${prove.map((p) => `<li>${esc(p.g)} → ${p.v}</li>`).join("")}</ul>` : ""}${msg}
       ${fatto ? `<div class="azioni"><button class="btn" id="cond">Condividi</button><button class="btn sec" id="altra">Un'altra stagione</button></div>`
-        : `<div class="azioni"><select id="anno" aria-label="Stagione" style="padding:10px;border-radius:10px;border:1px solid var(--linea);background:var(--bg);color:inherit">${STAGIONI.map((x) => `<option>${x[0]}</option>`).join("")}</select><button class="btn" id="ok">Prova</button></div>`}`;
+        : `<div class="azioni anno-riga"><label class="anno-campo"><span>Anno di inizio</span><input id="anno" inputmode="numeric" maxlength="9" autocomplete="off" placeholder="es. 2007" aria-label="Anno di inizio della stagione"></label><button class="btn" id="ok">Prova</button></div>
+        <p class="tenue piccolo">Scrivi l'anno in cui inizia la stagione: 2007 vuol dire 2007/08. Le stagioni vanno da ${STAGIONI[0][0]} a ${STAGIONI[STAGIONI.length - 1][0]}.</p><p class="tenue piccolo" id="err-anno" role="alert"></p>`}`;
     if (fatto) {
       const vinto = prove[prove.length - 1].ok;
       $("cond").onclick = (e) => condividi(`⚽ Calcio Oggi · Time Machine\n${vinto ? `Stagione indovinata con ${vite} ${vite === 1 ? "vita" : "vite"} rimaste ${"❤️".repeat(vite)}` : "Stagione non indovinata 🖤🖤🖤"}`, e.target);
       $("altra").onclick = () => macchina(box, true);
       return;
     }
-    $("anno").value = STAGIONI[Math.floor(STAGIONI.length / 2)][0];
-    $("ok").onclick = () => {
-      const g = $("anno").value, gi = STAGIONI.findIndex((x) => x[0] === g);
-      const ok = g === vera;
-      prove.push({ g, ok, v: ok ? "✅ esatta" : gi < k ? "⬆ più recente" : "⬇ più vecchia" });
+    const primo = Number(STAGIONI[0][0].slice(0, 4)), ultimo = Number(STAGIONI[STAGIONI.length - 1][0].slice(0, 4)), anno0 = Number(vera.slice(0, 4));
+    const nome = (y) => `${y}/${String((y + 1) % 100).padStart(2, "0")}`;
+    const prova = () => {
+      const m = $("anno").value.match(/\d{4}/);
+      const y = m ? Number(m[0]) : NaN;
+      if (!(y >= primo && y <= ultimo)) { $("err-anno").textContent = `Scrivi un anno di quattro cifre tra ${primo} e ${ultimo}.`; return; }
+      const g = nome(y), ok = y === anno0;
+      prove.push({ g, ok, v: ok ? "✅ esatta" : y < anno0 ? "⬆ più recente" : "⬇ più vecchia" });
       if (ok) disegna(`<div class="esito ok">Esatto: <b>${vera}</b>!</div>`, true);
       else if (VITE - prove.filter((p) => !p.ok).length <= 0) { disegna(`<div class="esito no">Vite finite.</div>`, true); soluzioneConVideo(box, { testo: `Era la stagione <b>${vera}</b>.` }); }
       else disegna();
     };
+    $("ok").onclick = prova;
+    $("anno").addEventListener("keydown", (e) => { if (e.key === "Enter") prova(); });
+    $("anno").focus({ preventScroll: true });
   };
   disegna();
 }
