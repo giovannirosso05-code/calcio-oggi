@@ -1,7 +1,19 @@
 {
-  "aggiornato": "2026-10-19T19:10:05.203444+00:00",
+  "aggiornato": "2026-10-19T19:12:01.644342+00:00",
   "totale": 143,
   "articoli": [
+    {
+      "id": "7f308f67f5",
+      "titolo": "\"Il Manchester City rischia la retrocessione in Championship\": l'ipotesi sconvolge la Premier League",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/10/19-152005685/il_manchester_city_rischia_la_retrocessione_in_championship_l_ipotesi_sconvolge_la_premier_league/",
+      "estratto": "Secondo il Daily Mail il club, colpevole di 114 violazioni finanziarie, potrebbe finire in Serie B con una penalizzazione di punti e una maxi multa",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 360,
+      "pubblicato": "2026-10-19T16:45:16+00:00",
+      "squadra": "Man City"
+    },
     {
       "id": "326babe735",
       "titolo": "\"Juve da ricostruire, problema complesso. Senza campioni e comunicazione debole\": l'analisi di Tuttosport",
@@ -39,6 +51,42 @@
       "squadra": "Lazio"
     },
     {
+      "id": "df0174c360",
+      "titolo": "Un attaccante come Varela a Monza non lo avevano mai visto. Lo dicono i numeri",
+      "url": "https://www.tuttomercatoweb.com/serie-a/attaccante-varela-monza-visto-dicono-numeri-2285101",
+      "estratto": "C'è un attaccante portoghese che sta spaccando in due le difese della Serie A e che gioca in Lombardia e no, non è quello a cui state pensando.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-10-19T19:08:12+00:00",
+      "squadra": "Monza"
+    },
+    {
+      "id": "a9cae28f90",
+      "titolo": "Torino, Che Adams: \"Spero di arrivare a 10 gol. La doppia cifra è un obiettivo\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-adams-spero-arrivare-10-gol-doppia-cifra-obiettivo-2285105",
+      "estratto": "Che Adams, attaccante del Torino, è intervenuto ai microfoni di Sky Sport prima della partita contro il Parma, commentando le parole del suo allenatore Abate, che ha chiesto ai suoi di giocare senza pensieri: \"La cosa importante sia non entrare in ca",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-10-19T18:51:33+00:00",
+      "squadra": "Torino"
+    },
+    {
+      "id": "739cd1ab93",
+      "titolo": "Parma, Gilardino: \"Mi auguro che Romero ed El Bilal Touré possano far male al Torino\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/parma-gilardino-tornare-emozionante-lavorato-intensamente-gara-2285103",
+      "estratto": "L'allenatore del Parma Alberto Gilardino ha parlato a DAZN prima della sfida contro il Torino: \"Tornare qua in questo stadio mi fa venire alla mente dei ricordi bellissimi che mi sono portato dietro per tutta la carriera.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-10-19T18:45:00+00:00",
+      "squadra": "Parma"
+    },
+    {
       "id": "4b1dc9aba0",
       "titolo": "Michael Carrick says he has blocked out noise surrounding Man United with 'headphones' but believes their draw at Leeds is a 'fresh start' and has 'no doubts' his side can overturn poor run",
       "url": "https://www.dailymail.com/sport/football/article-16218925/Michael-Carrick-blocked-noise-Man-United-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -61,6 +109,18 @@
       "punteggio": 150,
       "pubblicato": "2026-10-19T08:35:17+00:00",
       "squadra": "Fiorentina"
+    },
+    {
+      "id": "44724bf149",
+      "titolo": "De Zerbi si gioca tutto, le formazioni di Tottenham-Coventry: Solanke con Kudus e Marmoush",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/de-zerbi-gioca-tutto-formazioni-tottenham-coventry-solanke-kudus-marmoush-2285098",
+      "estratto": "È una sfida dal peso specifico importante quella che chiude la settima giornata di Premier League.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-10-19T18:56:54+00:00",
+      "squadra": "Coventry"
     },
     {
       "id": "41ec0adf9c",
@@ -123,6 +183,18 @@
       "squadra": "Leeds"
     },
     {
+      "id": "0694f3a008",
+      "titolo": "Insiders tell me Man City are set to face huge points deduction which will guarantee relegation - but they won't be sent down to League Two. And that seems fair, writes OLIVER HOLT",
+      "url": "https://www.dailymail.com/sport/football/article-16220009/Manchester-City-points-deduction-relegation-Oliver-Holt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "It is thought the Premier League are pressing for City's punishment to be announced before the result of their appeal, which is unlikely to be decided before the end of January.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 100,
+      "pubblicato": "2026-10-19T15:34:14+00:00",
+      "squadra": "Man City"
+    },
+    {
       "id": "05eccb1902",
       "titolo": "Allegri, scudo Napoli e futuro: \"Niente è facile, se sono stati scelti...\". E Meret: \"Dobbiamo affrontare questi eventi\"",
       "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/19-152004416/allegri_scudo_napoli_e_futuro_niente_facile_se_sono_stati_scelti_e_meret_dobbiamo_affrontare_questi_eventi/",
@@ -159,18 +231,6 @@
       "squadra": "S Bratislava"
     },
     {
-      "id": "7f308f67f5",
-      "titolo": "\"Il Manchester City rischia la retrocessione in Championship\": l'ipotesi sconvolge la Premier League",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/10/19-152005685/il_manchester_city_rischia_la_retrocessione_in_championship_l_ipotesi_sconvolge_la_premier_league/",
-      "estratto": "Secondo il Daily Mail il club, colpevole di 114 violazioni finanziarie, potrebbe finire in Serie B con una penalizzazione di punti e una maxi multa",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 60,
-      "pubblicato": "2026-10-19T16:45:16+00:00",
-      "squadra": "Man City"
-    },
-    {
       "id": "fdb95ff33c",
       "titolo": "Malagò tra delusione Champions e sorprese Serie A, ma Baldini punge: \"Il problema sono i dirigenti\"",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/19-152001363/malag_tra_delusione_champions_e_sorprese_serie_a_ma_baldini_punge_il_problema_sono_i_dirigenti/",
@@ -192,42 +252,6 @@
       "punteggio": 50,
       "pubblicato": "2026-10-19T09:36:44+00:00",
       "squadra": "Inter Milan"
-    },
-    {
-      "id": "df0174c360",
-      "titolo": "Un attaccante come Varela a Monza non lo avevano mai visto. Lo dicono i numeri",
-      "url": "https://www.tuttomercatoweb.com/serie-a/attaccante-varela-monza-visto-dicono-numeri-2285101",
-      "estratto": "C'è un attaccante portoghese che sta spaccando in due le difese della Serie A e che gioca in Lombardia e no, non è quello a cui state pensando.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-19T19:08:12+00:00",
-      "squadra": "Monza"
-    },
-    {
-      "id": "a9cae28f90",
-      "titolo": "Torino, Che Adams: \"Spero di arrivare a 10 gol. La doppia cifra è un obiettivo\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-adams-spero-arrivare-10-gol-doppia-cifra-obiettivo-2285105",
-      "estratto": "Che Adams, attaccante del Torino, è intervenuto ai microfoni di Sky Sport prima della partita contro il Parma, commentando le parole del suo allenatore Abate, che ha chiesto ai suoi di giocare senza pensieri: \"La cosa importante sia non entrare in ca",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-19T18:51:33+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "739cd1ab93",
-      "titolo": "Parma, Gilardino: \"Mi auguro che Romero ed El Bilal Touré possano far male al Torino\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/parma-gilardino-tornare-emozionante-lavorato-intensamente-gara-2285103",
-      "estratto": "L'allenatore del Parma Alberto Gilardino ha parlato a DAZN prima della sfida contro il Torino: \"Tornare qua in questo stadio mi fa venire alla mente dei ricordi bellissimi che mi sono portato dietro per tutta la carriera.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-19T18:45:00+00:00",
-      "squadra": "Parma"
     },
     {
       "id": "0afa07d9b1",
@@ -378,18 +402,6 @@
       "punteggio": 0,
       "pubblicato": "2026-10-19T19:04:28+00:00",
       "squadra": "Palermo"
-    },
-    {
-      "id": "44724bf149",
-      "titolo": "De Zerbi si gioca tutto, le formazioni di Tottenham-Coventry: Solanke con Kudus e Marmoush",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/de-zerbi-gioca-tutto-formazioni-tottenham-coventry-solanke-kudus-marmoush-2285098",
-      "estratto": "È una sfida dal peso specifico importante quella che chiude la settima giornata di Premier League.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-19T18:56:54+00:00",
-      "squadra": "Coventry"
     },
     {
       "id": "4b9b5f0762",
@@ -642,6 +654,30 @@
       "squadra": "Lazio"
     },
     {
+      "id": "43ff8b76eb",
+      "titolo": "Torino, Abate: \"Le parole d'ordine sono lavoro e umiltà. Il modulo lo fanno i giocatori\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-abate-le-parole-ordine-lavoro-umilta-modulo-giocatori-2285104",
+      "estratto": "L'allenatore del Torino Ignazio Abate ha parlato a DAZN a pochi minuti dal calcio d'inizio del match contro il Parma: “Lavoriamo in una piazza molto importante, dove ci stimolano a fare sempre il meglio.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -40,
+      "pubblicato": "2026-10-19T18:44:00+00:00",
+      "squadra": "Torino"
+    },
+    {
+      "id": "a286b92bbe",
+      "titolo": "Fabbian: \"Gilardino esigente, ci sta dando tanto. Questo Parma è giovane, ha voglia\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/fabbian-gilardino-esigente-dando-tanto-parma-giovane-voglia-2285102",
+      "estratto": "Giovanni Fabbian, centrocampista del Parma, ha parlato così a pochi minuti dall'inizio del match contro il Torino: \"Gilardino ci sta chiedendo di dare il massimo come sempre, è un allenatore esigente, ci sta dando tanto e dobbiamo continuare a seguir",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -40,
+      "pubblicato": "2026-10-19T18:41:33+00:00",
+      "squadra": "Parma"
+    },
+    {
       "id": "af05e65789",
       "titolo": "Michael Carrick responds to Nicky Butt's 'management's not for me' claim before landing the Man United job - as defiant boss insists he does not fear the sack ahead of crunch Leeds clash",
       "url": "https://www.dailymail.com/sport/football/article-16216611/Michael-Carrick-responds-Nicky-Butts-managements-not-claim-landing-Man-United-job-defiant-boss-insists-does-not-fear-sack-ahead-crunch-Leeds-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -652,6 +688,18 @@
       "punteggio": -40,
       "pubblicato": "2026-10-17T21:30:49+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "d8b529ed51",
+      "titolo": "Monza-Cagliari 4-0, Varela man of the match, difesa rossoblu da incubo",
+      "url": "https://www.tuttomercatoweb.com/serie-a/monza-cagliari-4-0-varela-man-of-the-match-difesa-rossoblu-incubo-2285100",
+      "estratto": "Lezione di calcio del Monza, che abbatte il Cagliari 4-0 e cala il poker.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-10-19T18:30:32+00:00",
+      "squadra": "Monza"
     },
     {
       "id": "176eb249a5",
@@ -688,30 +736,6 @@
       "punteggio": -130,
       "pubblicato": "2026-10-19T10:14:28+00:00",
       "squadra": "AS Roma"
-    },
-    {
-      "id": "43ff8b76eb",
-      "titolo": "Torino, Abate: \"Le parole d'ordine sono lavoro e umiltà. Il modulo lo fanno i giocatori\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-abate-le-parole-ordine-lavoro-umilta-modulo-giocatori-2285104",
-      "estratto": "L'allenatore del Torino Ignazio Abate ha parlato a DAZN a pochi minuti dal calcio d'inizio del match contro il Parma: “Lavoriamo in una piazza molto importante, dove ci stimolano a fare sempre il meglio.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -160,
-      "pubblicato": "2026-10-19T18:44:00+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "a286b92bbe",
-      "titolo": "Fabbian: \"Gilardino esigente, ci sta dando tanto. Questo Parma è giovane, ha voglia\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/fabbian-gilardino-esigente-dando-tanto-parma-giovane-voglia-2285102",
-      "estratto": "Giovanni Fabbian, centrocampista del Parma, ha parlato così a pochi minuti dall'inizio del match contro il Torino: \"Gilardino ci sta chiedendo di dare il massimo come sempre, è un allenatore esigente, ci sta dando tanto e dobbiamo continuare a seguir",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -160,
-      "pubblicato": "2026-10-19T18:41:33+00:00",
-      "squadra": "Parma"
     },
     {
       "id": "2193938587",
@@ -760,30 +784,6 @@
       "punteggio": -180,
       "pubblicato": "2026-10-19T16:49:31+00:00",
       "squadra": "Barcelona"
-    },
-    {
-      "id": "d8b529ed51",
-      "titolo": "Monza-Cagliari 4-0, Varela man of the match, difesa rossoblu da incubo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/monza-cagliari-4-0-varela-man-of-the-match-difesa-rossoblu-incubo-2285100",
-      "estratto": "Lezione di calcio del Monza, che abbatte il Cagliari 4-0 e cala il poker.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-10-19T18:30:32+00:00",
-      "squadra": "Monza"
-    },
-    {
-      "id": "20775a5aa3",
-      "titolo": "How can Man City survive without Erling Haaland? These are Enzo Maresca's four options - from an ideal replica and two false-nine candidates to the academy wild card",
-      "url": "https://www.dailymail.com/sport/football/article-16220891/Manchester-City-Erling-Haaland-injury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN: Erling Haaland is usually striking fear into opponents but it was the turn of Manchester City's supporters to experience what that feels like at around 5pm on Saturday.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-10-19T16:37:22+00:00",
-      "squadra": "Man City"
     },
     {
       "id": "e562f048ee",
@@ -858,6 +858,30 @@
       "squadra": "Juventus"
     },
     {
+      "id": "a9fb14e207",
+      "titolo": "Gilardino: \"Emozionante tornare a Parma. Bernabé? Sa trovare lo spazio per fare la differenza\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/gilardino-emozionante-tornare-parma-bernabe-sa-trovare-spazio-differenza-2285099",
+      "estratto": "Alberto Gilardino, tecnico del Parma, è intervenuto ai microfoni di Sky Sport a pochi minuti dal match contro il Torino: \"È normale che nel tornare al Tardini sono emozionato, ma la dovrò mettere da parte appena l'arbitro fischierà.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -240,
+      "pubblicato": "2026-10-19T18:37:07+00:00",
+      "squadra": "Parma"
+    },
+    {
+      "id": "8fd74dacfe",
+      "titolo": "Torino, Adams: \"Spero di tornare al gol. Preferisco ricevere la palla sui piedi\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-adams-spero-tornare-gol-preferisco-ricevere-palla-piedi-2285095",
+      "estratto": "L'attaccante del Torino Che Adams ha parlato ai microfoni di DAZN a pochi minuti dal fischio d'inizio del match contro il Parma al Tardini: \"Spero di continuare come stavo facendo a inizio stagione, prima della pausa per le Nazionali.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -240,
+      "pubblicato": "2026-10-19T18:34:00+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "d2048841f9",
       "titolo": "Former Man United striker Fraizer Campbell reveals crippling snus addiction during his Premier League playing days that left him 'constantly fatigued'",
       "url": "https://www.dailymail.com/sport/football/article-16214541/Former-Man-United-Fraizer-Campbell-snus-addiction-Premier-League-fatigued.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -882,6 +906,18 @@
       "squadra": "Lazio"
     },
     {
+      "id": "a190a337c4",
+      "titolo": "Serie A, la classifica aggiornata: il Monza torna a vincere e si allontana dalla zona rossa",
+      "url": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-monza-torna-vincere-allontana-zona-rossa-2285097",
+      "estratto": "Monza devastante nel posticipo del lunedì.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-10-19T18:26:38+00:00",
+      "squadra": "Monza"
+    },
+    {
       "id": "722ba47044",
       "titolo": "La Roma ritrova lo Slovan Bratislava e l'ex calciatore stuzzica i giallorossi: \"Noi facemmo a pezzi Totti e gli altri e nello spogliatoio...\"",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-151997418/la_roma_ritrova_lo_slovan_bratislava_e_l_ex_calciatore_stuzzica_i_giallorossi_noi_facemmo_a_pezzi_totti_e_gli_altri_e_nello/",
@@ -892,30 +928,6 @@
       "punteggio": -330,
       "pubblicato": "2026-10-19T06:36:52+00:00",
       "squadra": "AS Roma"
-    },
-    {
-      "id": "a9fb14e207",
-      "titolo": "Gilardino: \"Emozionante tornare a Parma. Bernabé? Sa trovare lo spazio per fare la differenza\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/gilardino-emozionante-tornare-parma-bernabe-sa-trovare-spazio-differenza-2285099",
-      "estratto": "Alberto Gilardino, tecnico del Parma, è intervenuto ai microfoni di Sky Sport a pochi minuti dal match contro il Torino: \"È normale che nel tornare al Tardini sono emozionato, ma la dovrò mettere da parte appena l'arbitro fischierà.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -360,
-      "pubblicato": "2026-10-19T18:37:07+00:00",
-      "squadra": "Parma"
-    },
-    {
-      "id": "8fd74dacfe",
-      "titolo": "Torino, Adams: \"Spero di tornare al gol. Preferisco ricevere la palla sui piedi\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-adams-spero-tornare-gol-preferisco-ricevere-palla-piedi-2285095",
-      "estratto": "L'attaccante del Torino Che Adams ha parlato ai microfoni di DAZN a pochi minuti dal fischio d'inizio del match contro il Parma al Tardini: \"Spero di continuare come stavo facendo a inizio stagione, prima della pausa per le Nazionali.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -360,
-      "pubblicato": "2026-10-19T18:34:00+00:00",
-      "squadra": "Torino"
     },
     {
       "id": "c92639811f",
@@ -954,27 +966,15 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "a190a337c4",
-      "titolo": "Serie A, la classifica aggiornata: il Monza torna a vincere e si allontana dalla zona rossa",
-      "url": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-monza-torna-vincere-allontana-zona-rossa-2285097",
-      "estratto": "Monza devastante nel posticipo del lunedì.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-10-19T18:26:38+00:00",
-      "squadra": "Monza"
-    },
-    {
-      "id": "0694f3a008",
-      "titolo": "Insiders tell me Man City are set to face huge points deduction which will guarantee relegation - but they won't be sent down to League Two. And that seems fair, writes OLIVER HOLT",
-      "url": "https://www.dailymail.com/sport/football/article-16220009/Manchester-City-points-deduction-relegation-Oliver-Holt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "It is thought the Premier League are pressing for City's punishment to be announced before the result of their appeal, which is unlikely to be decided before the end of January.",
+      "id": "20775a5aa3",
+      "titolo": "How can Man City survive without Erling Haaland? These are Enzo Maresca's four options - from an ideal replica and two false-nine candidates to the academy wild card",
+      "url": "https://www.dailymail.com/sport/football/article-16220891/Manchester-City-Erling-Haaland-injury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JACK GAUGHAN: Erling Haaland is usually striking fear into opponents but it was the turn of Manchester City's supporters to experience what that feels like at around 5pm on Saturday.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-10-19T15:34:14+00:00",
+      "pubblicato": "2026-10-19T16:37:22+00:00",
       "squadra": "Man City"
     },
     {
@@ -1026,6 +1026,30 @@
       "squadra": "Juventus"
     },
     {
+      "id": "ca37300910",
+      "titolo": "Abate: \"A Torino il peso della storia si sente. Vlasic? Sono veramente felice di lui\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/abate-a-torino-peso-storia-sente-vlasic-veramente-felice-lui-2285093",
+      "estratto": "Ignazio Abate, allenatore del Torino, è intervenuto ai microfoni di Sky Sport, commentando così la gara che attende i granata contro il Parma: \"La squadra mi dà sempre segnali positivi giorno dopo giorno.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -440,
+      "pubblicato": "2026-10-19T18:25:20+00:00",
+      "squadra": "Torino"
+    },
+    {
+      "id": "366a1df79f",
+      "titolo": "Parma, Fabbian: \"Non guardiamo la classifica. Siamo un gruppo unito e seguiamo il mister\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/parma-fabbian-non-guardiamo-classifica-unito-seguiamo-mister-2285091",
+      "estratto": "Il centrocampista del Parma Giovanni Fabbian ha parlato a DAZN prima del match contro il Torino: \"Gilardino? Stiamo lavorando forte in settimana, noi giocatori cerchiamo di fare quello che ci chiede.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -440,
+      "pubblicato": "2026-10-19T18:15:00+00:00",
+      "squadra": "Parma"
+    },
+    {
       "id": "ff10530357",
       "titolo": "Former Man United star Ander Herrera reveals he is now 'playing for free' after choosing to donate weekly wage to his boyhood club - having cashed in on £53m at Old Trafford and PSG",
       "url": "https://www.dailymail.com/sport/football/article-16214641/Former-Man-United-star-Ander-Herrera-reveals-playing-free-choosing-donate-weekly-wage-boyhood-club-having-cashed-53m-Old-Trafford-PSG.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1038,6 +1062,18 @@
       "squadra": "Man United"
     },
     {
+      "id": "45d7990297",
+      "titolo": "I giovani fanno felice Juric: Varela show, poker del Monza sul Cagliari",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-152003753/i_giovani_fanno_felice_juric_varela_show_poker_del_monza_sul_cagliari/",
+      "estratto": "Successo per 4-0 dei brianzoli nel primo posticipo della 7ª giornata di Serie A: doppietta e assist per il portoghese, in gol anche Kouadio e Robinson",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -480,
+      "pubblicato": "2026-10-19T18:24:34+00:00",
+      "squadra": "Monza"
+    },
+    {
       "id": "252885631c",
       "titolo": "Champions, scelti gli arbitri per Roma e Napoli: chi sono e i precedenti con le italiane",
       "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/18-151977373/champions_scelti_gli_arbitri_per_roma_e_napoli_chi_sono_e_i_precedenti_con_le_italiane/",
@@ -1048,42 +1084,6 @@
       "punteggio": -550,
       "pubblicato": "2026-10-18T11:35:15+00:00",
       "squadra": "AS Roma"
-    },
-    {
-      "id": "ca37300910",
-      "titolo": "Abate: \"A Torino il peso della storia si sente. Vlasic? Sono veramente felice di lui\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/abate-a-torino-peso-storia-sente-vlasic-veramente-felice-lui-2285093",
-      "estratto": "Ignazio Abate, allenatore del Torino, è intervenuto ai microfoni di Sky Sport, commentando così la gara che attende i granata contro il Parma: \"La squadra mi dà sempre segnali positivi giorno dopo giorno.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -560,
-      "pubblicato": "2026-10-19T18:25:20+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "366a1df79f",
-      "titolo": "Parma, Fabbian: \"Non guardiamo la classifica. Siamo un gruppo unito e seguiamo il mister\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/parma-fabbian-non-guardiamo-classifica-unito-seguiamo-mister-2285091",
-      "estratto": "Il centrocampista del Parma Giovanni Fabbian ha parlato a DAZN prima del match contro il Torino: \"Gilardino? Stiamo lavorando forte in settimana, noi giocatori cerchiamo di fare quello che ci chiede.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -560,
-      "pubblicato": "2026-10-19T18:15:00+00:00",
-      "squadra": "Parma"
-    },
-    {
-      "id": "45d7990297",
-      "titolo": "I giovani fanno felice Juric: Varela show, poker del Monza sul Cagliari",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-152003753/i_giovani_fanno_felice_juric_varela_show_poker_del_monza_sul_cagliari/",
-      "estratto": "Successo per 4-0 dei brianzoli nel primo posticipo della 7ª giornata di Serie A: doppietta e assist per il portoghese, in gol anche Kouadio e Robinson",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -600,
-      "pubblicato": "2026-10-19T18:24:34+00:00",
-      "squadra": "Monza"
     },
     {
       "id": "82b80b8f87",
@@ -1182,18 +1182,6 @@
       "squadra": "Man United"
     },
     {
-      "id": "99fe88efb8",
-      "titolo": "Roma, la febbre d’Europa accende l’Olimpico: già venduti 63 mila biglietti",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/19-152006048/roma_la_febbre_deuropa_accende_lolimpico_gi_venduti_63_mila_biglietti/",
-      "estratto": "La voglia di Champions si fa sentire e accende la città: i tifosi si preparano a diventare ancora una volta il cuore pulsante della passione romanista",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -770,
-      "pubblicato": "2026-10-19T16:31:05+00:00",
-      "squadra": "AS Roma"
-    },
-    {
       "id": "0b2de42acf",
       "titolo": "Parte male il Parma, il Torino è già in vantaggio al 5': 0-1 al Tardini, segna Simeone",
       "url": "https://www.tuttomercatoweb.com/serie-a/parma-torino-vantaggio-5-0-1-tardini-segna-simeone-2285108",
@@ -1201,7 +1189,7 @@
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -800,
+      "punteggio": -680,
       "pubblicato": "2026-10-19T18:50:43+00:00",
       "squadra": "Parma"
     },
@@ -1213,9 +1201,21 @@
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -800,
+      "punteggio": -680,
       "pubblicato": "2026-10-19T18:22:00+00:00",
       "squadra": "Monza"
+    },
+    {
+      "id": "99fe88efb8",
+      "titolo": "Roma, la febbre d’Europa accende l’Olimpico: già venduti 63 mila biglietti",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/19-152006048/roma_la_febbre_deuropa_accende_lolimpico_gi_venduti_63_mila_biglietti/",
+      "estratto": "La voglia di Champions si fa sentire e accende la città: i tifosi si preparano a diventare ancora una volta il cuore pulsante della passione romanista",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -770,
+      "pubblicato": "2026-10-19T16:31:05+00:00",
+      "squadra": "AS Roma"
     },
     {
       "id": "cfa4e02d96",
@@ -1290,6 +1290,18 @@
       "squadra": "Man United"
     },
     {
+      "id": "3d2411c3fc",
+      "titolo": "Un super Monza rifila al Cagliari più gol di quelli incassati finora: finisce 4-0 al Brianteo",
+      "url": "https://www.tuttomercatoweb.com/serie-a/super-monza-rifila-cagliari-gol-incassati-finora-finisce-4-0-brianteo-2285094",
+      "estratto": "Grande prova di forza del Monza di Ivan Juric, che davanti al proprio pubblico supera il Cagliari con un netto 4-0.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -880,
+      "pubblicato": "2026-10-19T18:22:00+00:00",
+      "squadra": "Monza"
+    },
+    {
       "id": "2d95334d18",
       "titolo": "Riserve a chi? Così la 'seconda Roma' fa il gioco di Gasperini: non solo Lulli e Castro",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/19-151997786/riserve_a_chi_cos_la_seconda_roma_fa_il_gioco_di_gasperini_non_solo_lulli_e_castro/",
@@ -1300,18 +1312,6 @@
       "punteggio": -970,
       "pubblicato": "2026-10-19T08:21:51+00:00",
       "squadra": "AS Roma"
-    },
-    {
-      "id": "3d2411c3fc",
-      "titolo": "Un super Monza rifila al Cagliari più gol di quelli incassati finora: finisce 4-0 al Brianteo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/super-monza-rifila-cagliari-gol-incassati-finora-finisce-4-0-brianteo-2285094",
-      "estratto": "Grande prova di forza del Monza di Ivan Juric, che davanti al proprio pubblico supera il Cagliari con un netto 4-0.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-10-19T18:22:00+00:00",
-      "squadra": "Monza"
     },
     {
       "id": "81f3a691b6",
