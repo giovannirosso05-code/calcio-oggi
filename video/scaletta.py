@@ -55,7 +55,13 @@ def _parole(titolo: str):
     return {p for p in _norm(titolo).split() if len(p) > 3 and p not in PAROLE_VUOTE}
 
 
-def altre_fonti(titolo: str, url: str = "", pubblicato: str = "", massimo: int = 4) -> str:
+def _italiano(testo: str) -> bool:
+    """Titolo e anteprima in italiano (almeno 3 parole comuni): le testate turche o spagnole sulla stessa storia non servono a un video in italiano."""
+    comuni = {"di", "il", "la", "che", "per", "con", "del", "della", "un", "una", "dopo", "non", "nel", "alla", "sono", "è", "ha", "gli", "le", "dei", "al", "in", "e"}
+    return sum(1 for p in re.findall(r"[a-zàèéìòù']+", testo.lower()) if p in comuni) >= 3
+
+
+def altre_fonti(titolo: str, url: str = "", pubblicato: str = "", massimo: int = 4, estratto: str = "") -> str:
     """Cerca sul web (Bing Notizie) altre testate sulla stessa storia e ne prende titolo, anteprima e testo. Serve solo come materiale
     per capire i fatti: il video lo racconta con parole nostre. Vuoto se non trova niente di pertinente."""
     import html as _html
@@ -64,22 +70,36 @@ def altre_fonti(titolo: str, url: str = "", pubblicato: str = "", massimo: int =
     mie = _parole(titolo)
     if len(mie) < 3:
         return ""
-    # nomi propri del titolo (maiuscole) + parole lunghe; se la ricerca è troppo stretta non trova niente, quindi si allarga
-    propri = [p for p in re.findall(r"[A-ZÀ-Ý][\wà-ÿ'-]{3,}", titolo)]
+    contesto = mie | _parole(estratto)   # titolo + estratto: più parole per riconoscere la stessa storia scritta con altre parole
+    # più ricerche (un risultato di una sola query può perdere la testata che dà il dettaglio): nomi propri del titolo e dell'estratto, poi parole lunghe
+    propri = list(dict.fromkeys(re.findall(r"[A-ZÀ-Ý][\wà-ÿ'-]{3,}", titolo + " " + estratto)))
     lunghe = sorted(mie, key=len, reverse=True)
-    radice = None
+    tentativi = []
     for n in (4, 3, 2):
-        parole = list(dict.fromkeys([_norm(p) for p in propri[:2]] + lunghe))[:n]
+        tentativi.append(list(dict.fromkeys([_norm(p) for p in propri[:2]] + lunghe))[:n])
+    tentativi.append([_norm(p) for p in propri[:4]])
+    tentativi.append([_norm(p) for p in propri[1:4]])
+    estratte = sorted(_parole(estratto) - mie, key=len, reverse=True)[:3]   # parole dell'estratto che non sono nel titolo (es. «gomitata», «rosso»)
+    tentativi.append([_norm(p) for p in propri[2:3]] + estratte[:2])
+    tentativi.append([_norm(p) for p in propri[2:4]] + estratte[:1])
+    tentativi.append([_norm(p) for p in propri[2:]] + estratte[:2])     # frase lunga: Bing restituisce anche gli articoli che citano episodi precisi
+    voci = []
+    visti = set()
+    for parole in tentativi:
+        if not parole:
+            continue
         try:
             r = requests.get("https://www.bing.com/news/search", params={"q": " ".join(parole), "format": "rss", "mkt": "it-IT"}, headers=UA, timeout=25)
             r.raise_for_status()
             prova = ET.fromstring(r.content)
         except (requests.RequestException, ET.ParseError):
             continue
-        if prova.find(".//item") is not None:
-            radice = prova
-            break
-    if radice is None:
+        for item in prova.iter("item"):
+            chiave = item.findtext("link") or ""
+            if chiave not in visti:
+                visti.add(chiave)
+                voci.append(item)
+    if not voci:
         return ""
     inizio = None
     if pubblicato:
@@ -87,12 +107,13 @@ def altre_fonti(titolo: str, url: str = "", pubblicato: str = "", massimo: int =
             inizio = datetime.fromisoformat(pubblicato.replace("Z", "+00:00"))
         except ValueError:
             pass
-    pezzi, usate = [], 0
-    for item in radice.iter("item"):
+    buone = []
+    for item in voci:
         t = _html.unescape(item.findtext("title") or "")
         anteprima = re.sub(r"<[^>]+>", " ", _html.unescape(item.findtext("description") or ""))
         # stessa storia = parole chiave in comune (titolo + anteprima) E uscita a ridosso del nostro articolo: così non si mescolano partite diverse
-        if len(mie & _parole(t + " " + anteprima)) < 2:
+        comuni = len(contesto & _parole(t + " " + anteprima))
+        if comuni < 3 or not _italiano(t + " " + anteprima):
             continue
         if inizio and item.findtext("pubDate"):
             try:
@@ -105,12 +126,13 @@ def altre_fonti(titolo: str, url: str = "", pubblicato: str = "", massimo: int =
         vero = urllib.parse.parse_qs(urllib.parse.urlparse(_html.unescape(link)).query).get("url", [""])[0]
         if vero and vero.split("?")[0] == (url or "").split("?")[0]:
             continue
+        buone.append((comuni, t, anteprima, vero))
+    buone.sort(key=lambda x: -x[0])
+    pezzi = []
+    for n, (_, t, anteprima, vero) in enumerate(buone[:massimo + 2]):
         pezzi.append(t + ". " + anteprima)
-        if vero and usate < 3:
-            usate += 1
+        if vero and n < 5:   # il testo della pagina dà i dettagli (minuti, nomi): lo leggiamo per le più pertinenti
             pezzi.append(testo_pagina(vero)[:2500])
-        if len(pezzi) >= massimo * 2:
-            break
     return re.sub(r"\s+", " ", " ".join(pezzi)).strip()
 
 
@@ -129,7 +151,7 @@ def testo_completo(url, titolo, estratto="", rassegna=None) -> str:
                 break
     if len(testo) < MINIMO_CARATTERI:   # ancora corto: altre testate sullo stesso fatto, cercate sul web
         pubb = next((a.get("pubblicato", "") for a in rassegna or [] if a.get("url") == url), "")
-        testo += " " + altre_fonti(titolo, url, pubb)
+        testo += " " + altre_fonti(titolo, url, pubb, estratto=estratto)
     if len(testo) < MINIMO_CARATTERI:
         raise ErroreScaletta(f"L'articolo è troppo corto o non si legge ({len(testo)} caratteri, ne servono {MINIMO_CARATTERI}): "
                              "il video non l'ho fatto. Scegli un'altra notizia o mandami il testo.")
@@ -144,6 +166,11 @@ def prompt(titolo, fonte, serie, articolo, errori=None):
         "- Ogni fatto deve venire dal TITOLO o dall'ARTICOLO qui sotto: mai inventare nomi, cifre, date, motivi. Se non è scritto, non lo dici.\n"
         "- Racconta con parole TUE: non copiare frasi dell'articolo (mai più di 5 parole di fila uguali).\n"
         "- Le dichiarazioni si attribuiscono a chi le ha dette («dice», «secondo»), mai come fatti tuoi. Niente colpe senza una fonte. Niente opinioni tue.\n"
+        "- Se nel testo ci sono i DATI UFFICIALI DELLA PARTITA, usali per dire con precisione chi ha segnato e a che minuto. Se l'articolo dà il minuto di un episodio "
+        "(per esempio un fallo non punito) e i dati danno il minuto di un gol, dì chiaramente se il gol è arrivato prima o dopo. Un gol si può chiamare «bellissimo» "
+        "solo se l'articolo o la testata lo scrive; altrimenti «il gol dell'1-0» e basta.\n"
+        "- Se l'articolo o le testate parlano di un «rosso mancato» o di un errore dell'arbitro, dillo come opinione della stampa («secondo la stampa», «molti parlano di»), "
+        "mai come tuo giudizio e mai come fatto.\n"
         "- «Indiscrezione» solo per voci di mercato o notizie non confermate. Se la notizia è una dichiarazione, un risultato o un fatto di campo, "
         "NON dire «secondo indiscrezioni» né «dalle indiscrezioni» e non aprire con frasi di cautela: attribuisci la frase a chi l'ha detta e vai al fatto.\n"
         "- Non nominare mai la testata a voce. Non spiegare cos'è la Serie A o cos'è un campionato.\n"
@@ -308,9 +335,51 @@ def _persone_al_posto_delle_squadre(spec):
             s["foto"] = protagonista
 
 
+ITA_ESPN = {"siviglia": "sevilla", "barcellona": "barcelona", "bayern monaco": "bayern munich", "inter": "internazionale", "atletico madrid": "atletico madrid",
+            "manchester united": "manchester united", "valencia": "valencia", "siviglia fc": "sevilla"}
+
+
+def fatti_partita(titolo: str, articolo: str) -> str:
+    """Dati ufficiali (ESPN, già nei nostri file) della partita di cui parla la notizia: risultato, marcatori con minuto, cartellini.
+    Serve a dire con certezza chi ha segnato e quando, e se un gol è arrivato prima o dopo un episodio di cui l'articolo dà il minuto."""
+    dati = Path(__file__).resolve().parent.parent / "data"
+    try:
+        partite = json.loads((dati / "partite.json").read_text(encoding="utf-8"))["partite"]
+        dett = json.loads((dati / "dettagli.json").read_text(encoding="utf-8"))["partite"]
+    except (OSError, ValueError, KeyError):
+        return ""
+    testo = " " + _norm(titolo + " " + articolo) + " "
+    for k, v in ITA_ESPN.items():
+        testo = testo.replace(" " + k + " ", " " + v + " ")
+    trovate = []
+    for p in partite:
+        if p.get("stato") != "post" or p["id"] not in dett:
+            continue
+        nomi = [{_norm(p[x]["nome"]), _norm(p[x].get("breve", ""))} - {""} for x in ("casa", "ospite")]
+        if all(any(" " + n + " " in testo for n in g) for g in nomi):
+            trovate.append(p)
+    if len(trovate) != 1:   # nessuna partita o dubbio (stesse due squadre due volte nella finestra): meglio niente
+        return ""
+    p = trovate[0]
+    nome_sq = {str(p[x]["id"]): p[x]["nome"] for x in ("casa", "ospite")}
+    righe = [f"{p['casa']['nome']} {p['casa'].get('gol')}-{p['ospite'].get('gol')} {p['ospite']['nome']}."]
+    for e in dett[p["id"]]["eventi"]:
+        t, chi = e["t"], [c["nome"] for c in e["chi"]]
+        if "goal" in t and "own" not in t and chi:
+            righe.append(f"Gol {e['min']} {chi[0]} ({nome_sq.get(str(e['sq']), '')})" + (f", assist {chi[1]}" if len(chi) > 1 else "") + ".")
+        elif "penalty" in t and "scored" in t and chi:
+            righe.append(f"Gol su rigore {e['min']} {chi[0]} ({nome_sq.get(str(e['sq']), '')}).")
+        elif "red" in t and chi:
+            righe.append(f"Espulsione {e['min']} {chi[0]}.")
+    return " ".join(righe)
+
+
 def da_notizia(url, titolo, fonte, serie="Serie A", estratto="", rassegna=None) -> dict:
     """Spec completo del video (pronto per notizia_sub), oppure ErroreScaletta."""
     articolo = testo_completo(url, titolo, estratto, rassegna)
+    ufficiali = fatti_partita(titolo, articolo)
+    if ufficiali:
+        articolo += " DATI UFFICIALI DELLA PARTITA (ESPN): " + ufficiali
     errori = None
     for tentativo in range(2):
         spec = chiedi(prompt(titolo, fonte, serie, articolo, errori))

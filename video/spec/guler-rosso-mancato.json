@@ -1,0 +1,47 @@
+{
+ "titolo_breve": "Güler, il rosso mancato",
+ "scene": [
+  {
+   "foto": "Arda Güler",
+   "hook": true,
+   "hook_titolo": "Güler: gomitata e niente rosso",
+   "testo": "Una gomitata al difensore al *22'* e nessun rosso: il [Real Madrid] batte il [Siviglia] 4-1 e [Güler] fa discutere."
+  },
+  {
+   "foto": "Arda Güler",
+   "testo": "Secondo le cronache, [Güler] corre senza palla e colpisce con il *gomito* [Peque], marcatore del [Siviglia]."
+  },
+  {
+   "foto": "Arda Güler",
+   "testo": "L'arbitro non fischia e il *VAR* non interviene: per molti è un rosso mancato, il difensore [Kike Salas] protesta."
+  },
+  {
+   "foto": "Arda Güler",
+   "testo": "Otto minuti dopo, al *30'*, [Güler] sblocca la partita con il gol dell'1-0. Il gol arriva dopo l'episodio, non prima."
+  },
+  {
+   "foto": "José Mourinho",
+   "testo": "[Mourinho] dice di non aver visto *immagini* della gomitata e non capisce l'ossessione per questo episodio."
+  },
+  {
+   "foto": "José Mourinho",
+   "testo": "Il tecnico del [Real Madrid] ammette che non avrebbe problemi a riconoscere un errore, ma parla di troppa *polemica*."
+  }
+ ],
+ "finale": {
+  "foto": "Arda Güler",
+  "domanda": "Tutti esagerano oppure il rosso era netto?"
+ },
+ "apertura": "Il gol è arrivato dopo l'episodio, ma il rosso resta in discussione.",
+ "hashtag": [
+  "realmadrid",
+  "guler",
+  "mourinho",
+  "liga"
+ ],
+ "serie": "Estero",
+ "fonte": "ESPN",
+ "url": "https://www.espn.com/soccer/story/_/id/50213726/mourinho-obsession-elbow-madrid-guler",
+ "velocita": "+38%",
+ "etichetta": "Ultim'ora"
+}
