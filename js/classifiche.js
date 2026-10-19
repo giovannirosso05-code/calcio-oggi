@@ -1,4 +1,4 @@
-import { logoLega, fetchJSON, esc, montaPagina, aggiornatoIl, tabellaClassifica, messaggioErrore } from "./common.js?v=20";
+import { logoLega, fetchJSON, esc, montaPagina, aggiornatoIl, tabellaClassifica, messaggioErrore } from "./common.js?v=21";
 
 montaPagina("classifiche.html");
 
@@ -13,7 +13,7 @@ fetchJSON("data/classifiche.json").then(({ classifiche, generato }) => {
     if (!giusti.length) { tabelle.innerHTML = `<div class="vuoto">Nessun campionato con questo nome.</div>`; return; }
     const gruppi = new Map();
     giusti.forEach((c) => { const g = c.gruppo || "Altri"; if (!gruppi.has(g)) gruppi.set(g, []); gruppi.get(g).push(c); });
-    tabelle.innerHTML = [...gruppi].map(([g, l]) => `<h2 class="section-title"><span>${esc(g)}</span></h2><div class="carte carte-lega">${l.map((c) => `<a class="carta-lega" href="classifiche.html?lega=${encodeURIComponent(c.lega)}">${logoLega(c)}<span>${esc(c.nome)}</span></a>`).join("")}</div>`).join("");
+    tabelle.innerHTML = [...gruppi].map(([g, l]) => `<h2 class="section-title"><span>${esc(g)}</span></h2><div class="carte carte-lega">${l.map((c) => `<a class="carta-lega" href="campionato.html?lega=${encodeURIComponent(c.lega)}&tab=classifica">${logoLega(c)}<span>${esc(c.nome)}</span></a>`).join("")}</div>`).join("");
   };
   const apri = (c) => {
     cerca.hidden = true;

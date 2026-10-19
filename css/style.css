@@ -396,3 +396,5 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .anno-campo { display: grid; gap: 4px; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--tenue); font-weight: 600; }
 .anno-campo input { width: 150px; height: 46px; border-radius: 12px; border: 2px solid var(--linea); background: var(--card); color: var(--testo); font: 700 22px var(--font-titoli, inherit); letter-spacing: .06em; padding: 0 14px; text-transform: none; }
 .anno-campo input:focus { outline: none; border-color: var(--accento); box-shadow: 0 0 0 4px rgba(46,160,67,.18); }
+
+.schede { display: flex; gap: 8px; margin: 6px 0 14px; flex-wrap: wrap; }
