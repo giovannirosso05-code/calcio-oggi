@@ -43,10 +43,6 @@
   "titolo": "Flick conferma il rientro di Raphinha e de Jong nel Barcellona",
   "estratto": "Flick conferma il rientro di Raphinha e de Jong nel Barcellona"
  },
- "17f0ab689a": {
-  "titolo": "Il Real Madrid chiede le dimissioni del presidente de LaLiga dopo il paragone tra gli attacchi agli arbitri e la propaganda nazista",
-  "estratto": "Il Real Madrid chiede le dimissioni del numero uno de LaLiga dopo aver paragonato i tentativi del club di screditare gli arbitri alle tecniche di propaganda del regime nazista tedesco."
- },
  "4637a5d091": {
   "titolo": "Calciomercato, indiscrezioni e notizie: il Galatasaray punta Fernandes del Man United",
   "estratto": "Il Galatasaray è pronto a muoversi per il centrocampista del Manchester United Bruno Fernandes. Le ultime indiscrezioni su Transfer Talk."
@@ -103,22 +99,6 @@
   "titolo": "Jordan Henderson non rinuncia all'Inghilterra dopo la rinascita al Chelsea",
   "estratto": "Jordan Henderson non ha rinunciato a prolungare la propria carriera con l'Inghilterra, ribadendo l'intenzione di sfruttare questa seconda giovinezza al Chelsea per dimostrare di poter ancora competere ai massimi livelli."
  },
- "244290e880": {
-  "titolo": "Sette partite, sette punti: il Man United cammina come un sonnambulo verso un'altra stagione fallimentare",
-  "estratto": "Il Manchester United stava già vivendo il suo peggior avvio di stagione in Premier League dal 1986. Il pareggio per 1-1 con il Leeds non sarà d'aiuto."
- },
- "70c413ce54": {
-  "titolo": "Michael Carrick sul peggior inizio del Man United dal 1986: la situazione \"non è affatto bella\"",
-  "estratto": "Michael Carrick ha dichiarato che la situazione del Manchester United \"non è affatto bella\", dopo che l'1-1 sul campo del Leeds ha lasciato il club nella seconda metà della classifica di Premier League."
- },
- "6336d27bce": {
-  "titolo": "Nicol: dubbi sul Manchester United di Carrick dopo la prestazione contro il Leeds",
-  "estratto": "Nicol: dubbi sul Manchester United di Carrick dopo la prestazione contro il Leeds"
- },
- "fde05fe9b2": {
-  "titolo": "Michael Carrick non placa le pressioni: il Man United pareggia a Leeds",
-  "estratto": "Il futuro di Michael Carrick sulla panchina del Manchester United resta tutt'altro che al sicuro, dopo che la sua squadra è stata fermata domenica sull'1-1 dai rivali del Leeds United."
- },
  "2d09e17cd3": {
   "titolo": "Harry Kane batte un altro record alla sua 100ª presenza in Bundesliga con il Bayern Monaco",
   "estratto": "Sabato Harry Kane ha segnato il suo 102° gol nella sua centesima presenza in Bundesliga: il dato più alto mai registrato da qualsiasi giocatore nella storia del campionato dopo un secolo di partite."
@@ -143,10 +123,6 @@
   "titolo": "Le parole di Lisandro Martínez sul Man United \"non sono così lontane dal vero\", ma non andavano dette - Peter Schmeichel",
   "estratto": "L'ex portiere del Manchester United Peter Schmeichel ha dichiarato di ritenere che le critiche rivolte da Lisandro Martínez ai vertici societari del club \"non siano così lontane dal vero\"."
  },
- "5474bf3a9a": {
-  "titolo": "Interesse del Getafe per Jadon Sancho: \"Abbiamo presentato un'offerta definitiva\" - presidente del club",
-  "estratto": "Il presidente del Getafe Ángel Torres ha confermato che il club è interessato a ingaggiare lo svincolato Jadon Sancho."
- },
  "bc99e45754": {
   "titolo": "Dominic Calvert-Lewin \"ha mostrato rispetto restando in piedi\" mentre gli altri si inginocchiavano contro il razzismo - Daniel Farke",
   "estratto": "Il tecnico del Leeds Daniel Farke ha affermato che l'attaccante Dominic Calvert-Lewin ha dimostrato \"rispetto\" non inginocchiandosi prima del pareggio di domenica del Leeds United contro il Manchester United."
@@ -154,10 +130,6 @@
  "80e357e952": {
   "titolo": "Fabian Hürzeler ai tifosi del Brighton: bevete una birra e non guardate la classifica di Premier League",
   "estratto": "Fabian Hürzeler ha detto ai tifosi del Brighton & Hove Albion di \"godersi una birra\" e di non guardare la classifica di Premier League per festeggiare la vittoria sul Crystal Palace."
- },
- "ca59c4f252": {
-  "titolo": "La vittoria dello Shakhtar in Champions League contro l'AEK è stata più di una semplice partita",
-  "estratto": "A causa della guerra, lo Shakhtar Donetsk non gioca in casa dal 2014 e in questa stagione disputa le partite interne di Champions League allo Stamford Bridge del Chelsea. La vittoria di mercoledì è stata un promemoria di quanto sia assurda la loro si"
  },
  "cfa4e02d96": {
   "titolo": "Yamal del Barcellona contro Mbappé del Real Madrid: quale stella del Clásico ha più chance per il Pallone d'Oro?",
@@ -178,5 +150,37 @@
  "999c418456": {
   "titolo": "I migliori gol dalla distanza della Premier League dopo la perla di Diego Gómez: la classifica",
   "estratto": "Il gol da fuori area di Diego Gómez per il Brighton contro il Palace è stato spettacolare, ma quali sono le migliori conclusioni della storia della Premier League?"
+ },
+ "f1e218e75e": {
+  "titolo": "Marc Guéhi del Manchester City: inginocchiarsi potrebbe aver perso impatto, si può fare di più",
+  "estratto": "Il difensore del Manchester City Marc Guéhi ritiene che il gesto dei calciatori di inginocchiarsi prima delle partite possa aver perso il suo impatto e auspica che si faccia di più nella lotta del calcio contro il razzismo."
+ },
+ "4d7146ca44": {
+  "titolo": "Ronald Araújo: \"È presto\" per dire se la permanenza al Liverpool sarà definitiva",
+  "estratto": "Ronald Araújo ha dichiarato di essere \"molto felice\" di essere al Liverpool, ma che è \"troppo presto\" per dire se il suo trasferimento in prestito dal Barcellona diventerà permanente."
+ },
+ "91b19c2799": {
+  "titolo": "Chi potrebbe sostituire Carrick dopo il peggior avvio del Manchester United dal 1986?",
+  "estratto": "Il Manchester United ha faticato in questa stagione, ma quali allenatori potrebbero subentrare per sostituire Michael Carrick qualora il club decidesse di esonerarlo?"
+ },
+ "495515031e": {
+  "titolo": "Maresca: il Manchester City ha \"opzioni\" nonostante i problemi con gli infortuni",
+  "estratto": "Maresca: il Manchester City ha \"opzioni\" nonostante i problemi con gli infortuni"
+ },
+ "cf20b5c9e7": {
+  "titolo": "La partita di Champions League tra PSG e Barcellona si disputerà nonostante le proteste in Francia",
+  "estratto": "La prestigiosa sfida di Champions League tra PSG e Barcellona si svolgerà come previsto martedì a Parigi, nonostante un fine settimana di violente proteste."
+ },
+ "81f3a691b6": {
+  "titolo": "Luis Enrique del PSG su come fermare il Barcellona: tenere la palla lontana da Lamine Yamal",
+  "estratto": "Luis Enrique ha dichiarato che il Paris Saint-Germain fermerà Lamine Yamal non permettendo al Barcellona di avere il pallone, in vista del super scontro di Champions League tra le due squadre."
+ },
+ "455d452b28": {
+  "titolo": "Antoine Semenyo out per due mesi, il Manchester City nutre speranze per Erling Haaland",
+  "estratto": "Antoine Semenyo è infortunato e dovrà affrontare un'assenza di otto settimane per il Manchester City, come confermato da Enzo Maresca."
+ },
+ "28289c4c14": {
+  "titolo": "L'ex nazionale inglese Steven Caulker rivela su LinkedIn il peso della disoccupazione",
+  "estratto": "L'ex nazionale inglese Steven Caulker ha condiviso la sua paura di fronteggiare la disoccupazione."
  }
 }

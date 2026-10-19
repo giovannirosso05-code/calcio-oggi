@@ -1,7 +1,52 @@
 {
-  "aggiornato": "2026-10-19T09:47:31.779118+00:00",
-  "totale": 14,
+  "aggiornato": "2026-10-19T16:30:31.281797+00:00",
+  "totale": 13,
   "articoli": [
+    {
+      "id": "495515031e",
+      "titolo": "Maresca: il Manchester City ha \"opzioni\" nonostante i problemi con gli infortuni",
+      "url": "https://www.espn.com/video/clip/_/id/50218999/manchester-city-options-injury-setbacks",
+      "estratto": "Maresca: il Manchester City ha \"opzioni\" nonostante i problemi con gli infortuni",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-19T15:39:20+00:00"
+    },
+    {
+      "id": "4c45ce4693",
+      "titolo": "\"City, doppia penalizzazione: una per farli retrocedere in Serie B e l'altra per farceli restare\"",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/10/19-152005204/city_doppia_penalizzazione_una_per_farli_retrocedere_in_serie_b_e_l_altra_per_farceli_restare/",
+      "estratto": "Clamorosa indiscrezione dall'Inghilterra: ecco quale dovrebbe essere la pena inflitta al club per aver barato economicamente per anni",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T15:36:47+00:00"
+    },
+    {
+      "id": "f1e218e75e",
+      "titolo": "Marc Guéhi del Manchester City: inginocchiarsi potrebbe aver perso impatto, si può fare di più",
+      "url": "https://www.espn.com/soccer/story/_/id/50218768/marc-guehi-man-city-taking-knee-english-premier-league",
+      "estratto": "Il difensore del Manchester City Marc Guéhi ritiene che il gesto dei calciatori di inginocchiarsi prima delle partite possa aver perso il suo impatto e auspica che si faccia di più nella lotta del calcio contro il razzismo.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T15:25:16+00:00"
+    },
+    {
+      "id": "28289c4c14",
+      "titolo": "L'ex nazionale inglese Steven Caulker rivela su LinkedIn il peso della disoccupazione",
+      "url": "https://www.espn.com/soccer/story/_/id/50217509/ex-england-international-steven-caulker-reveals-toll-unemployment-linkedin",
+      "estratto": "L'ex nazionale inglese Steven Caulker ha condiviso la sua paura di fronteggiare la disoccupazione.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T13:15:32+00:00"
+    },
+    {
+      "id": "6d23a6c551",
+      "titolo": "Allegri perde ancora Alisson Santos: stesso infortunio del 9 settembre, quando può tornare in campo",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/19-152002671/allegri_perde_ancora_alisson_santos_stesso_infortunio_del_9_settembre_quando_pu_tornare_in_campo/",
+      "estratto": "Il brasiliano, al rientro dopo 38 giorni, ha accusato il problema negli ultimi minuti della sfida contro il Venezia",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T12:28:12+00:00"
+    },
     {
       "id": "999c418456",
       "titolo": "I migliori gol dalla distanza della Premier League dopo la perla di Diego Gómez: la classifica",
@@ -9,7 +54,7 @@
       "estratto": "Il gol da fuori area di Diego Gómez per il Brighton contro il Palace è stato spettacolare, ma quali sono le migliori conclusioni della storia della Premier League?",
       "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-19T09:41:39+00:00"
+      "pubblicato": "2026-10-19T10:29:12+00:00"
     },
     {
       "id": "0b96c02b77",
@@ -30,15 +75,6 @@
       "pubblicato": "2026-10-18T22:23:21+00:00"
     },
     {
-      "id": "9c0387c6ad",
-      "titolo": "Roberto De Zerbi sull'ultima mossa nel ritiro del Tottenham: \"Via i telefoni\" durante i pasti",
-      "url": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals",
-      "estratto": "Roberto De Zerbi ha rivelato che i telefoni sono stati banditi a tavola durante il ritiro del Tottenham a Marbella, nel suo ultimo tentativo di trasformare un gruppo eterogeneo di giocatori in una vera squadra.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T21:55:30+00:00"
-    },
-    {
       "id": "bc99e45754",
       "titolo": "Dominic Calvert-Lewin \"ha mostrato rispetto restando in piedi\" mentre gli altri si inginocchiavano contro il razzismo - Daniel Farke",
       "url": "https://www.espn.com/soccer/story/_/id/50212578/dominic-calvert-lewin-showed-respect-standing-others-took-knee-racism-campaign-daniel-farke",
@@ -46,24 +82,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-18T20:21:05+00:00"
-    },
-    {
-      "id": "244290e880",
-      "titolo": "Sette partite, sette punti: il Man United cammina come un sonnambulo verso un'altra stagione fallimentare",
-      "url": "https://www.espn.com/soccer/story/_/id/50210655/seven-games-seven-points-man-united-sleepwalking-another-lost-season",
-      "estratto": "Il Manchester United stava già vivendo il suo peggior avvio di stagione in Premier League dal 1986. Il pareggio per 1-1 con il Leeds non sarà d'aiuto.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T19:39:48+00:00"
-    },
-    {
-      "id": "c601b5be30",
-      "titolo": "Diego Gómez ascolta i consigli di Lionel Messi mentre il Brighton segue il suo mantra: \"Sfidare le gerarchie\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50211483/diego-gomez-heeds-advice-lionel-messi-brighton-further-reject-ceilings-ambition",
-      "estratto": "È stato un gol di cui Lionel Messi sarebbe andato fiero. Ma non per le ragioni che si potrebbero pensare.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T19:03:04+00:00"
     },
     {
       "id": "997a04ae15",
@@ -100,33 +118,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-18T16:30:44+00:00"
-    },
-    {
-      "id": "fc944d10cd",
-      "titolo": "Flick conferma il rientro di Raphinha e de Jong nel Barcellona",
-      "url": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
-      "estratto": "Flick conferma il rientro di Raphinha e de Jong nel Barcellona",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-16T17:17:45+00:00"
-    },
-    {
-      "id": "ca59c4f252",
-      "titolo": "La vittoria dello Shakhtar in Champions League contro l'AEK è stata più di una semplice partita",
-      "url": "https://www.espn.com/soccer/story/_/id/50189050/shakhtar-donetsk-aek-athens-ukraine-russia-uefa-champions-league-gab-marcotti",
-      "estratto": "A causa della guerra, lo Shakhtar Donetsk non gioca in casa dal 2014 e in questa stagione disputa le partite interne di Champions League allo Stamford Bridge del Chelsea. La vittoria di mercoledì è stata un promemoria di quanto sia assurda la loro si",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-16T11:55:16+00:00"
-    },
-    {
-      "id": "5474bf3a9a",
-      "titolo": "Interesse del Getafe per Jadon Sancho: \"Abbiamo presentato un'offerta definitiva\" - presidente del club",
-      "url": "https://www.espn.com/soccer/story/_/id/50195063/jadon-sancho-interest-getafe-made-final-offer-club-president",
-      "estratto": "Il presidente del Getafe Ángel Torres ha confermato che il club è interessato a ingaggiare lo svincolato Jadon Sancho.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-16T10:49:47+00:00"
     }
   ]
 }
