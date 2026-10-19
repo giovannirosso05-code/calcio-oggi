@@ -2,8 +2,8 @@
 :root {
   --scuro: #14171c;
   --accento: #2bd96b;
-  --accento-testo: #0a6f31;
-  --bg: #f1f4f2;
+  --accento-testo: #086329;
+  --bg: #d9eddf;
   --card: #ffffff;
   --testo: #14171c;
   --tenue: #46505a;
@@ -13,8 +13,8 @@
   --raggio: 12px;
   --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-titoli: "Oswald", "Arial Narrow", Impact, sans-serif;
-  --erba-1: #eef6f0;
-  --erba-2: #e6f1ea;
+  --erba-1: #d9eddf;
+  --erba-2: #c9e4d3;
   color-scheme: light;
 }
 :root[data-tema="scuro"] {
@@ -24,8 +24,8 @@
   --tenue: #9aa5ae;
   --linea: #262c34;
   --accento-testo: #2bd96b;
-  --erba-1: #0c1a12;
-  --erba-2: #0f2016;
+  --erba-1: #11301f;
+  --erba-2: #0b2015;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -232,3 +232,5 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .cerca { width: 100%; max-width: 420px; padding: 11px 16px; border: 1px solid var(--linea); border-radius: 999px; background: var(--card); color: var(--testo); font: 500 15px var(--font); margin: 4px 0 6px; }
 .indietro { display: inline-block; font-weight: 600; color: var(--tenue); padding: 4px 0; }
 .indietro:hover { color: var(--testo); }
+/* tema scuro: gli stemmi neri (Juventus, Spurs, Lecce…) spariscono sul fondo, quindi un cerchio chiaro dietro */
+:root[data-tema="scuro"] .p-sq img, :root[data-tema="scuro"] .sq-cella img, :root[data-tema="scuro"] .widget img.logo-sq { background: rgba(255,255,255,.92); border-radius: 50%; padding: 2px; }

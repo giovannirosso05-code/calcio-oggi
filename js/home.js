@@ -1,5 +1,5 @@
 import { fetchJSON, esc, montaPagina, partiteLive, giornoRoma, oggiRoma, dataLunga, dataBreve, aggiornatoIl, messaggioErrore,
-  elencoPerLega, tabellaClassifica, logoSq, spostaGiorno } from "./common.js?v=4";
+  elencoPerLega, tabellaClassifica, logoSq, spostaGiorno } from "./common.js?v=5";
 
 montaPagina("index.html");
 
