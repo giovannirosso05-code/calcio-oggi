@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-19T19:16:59.359996+00:00",
-  "totale": 143,
+  "aggiornato": "2026-10-19T20:58:03.705211+00:00",
+  "totale": 152,
   "articoli": [
     {
       "id": "7f308f67f5",
@@ -13,6 +13,18 @@
       "punteggio": 360,
       "pubblicato": "2026-10-19T16:45:16+00:00",
       "squadra": "Man City"
+    },
+    {
+      "id": "821927bf1d",
+      "titolo": "Udinese, sondato Pioli per la panchina. E il \"suo\" Milan può decidere il futuro di Runjaic",
+      "url": "https://www.tuttomercatoweb.com/serie-a/udinese-sondato-pioli-panchina-suo-milan-decidere-runjaic-2285109",
+      "estratto": "La panchina di Kosta Runjaic è a rischio, con la squadra reduce da un pesante ko casalingo contro il Lecce e ora penultima con un solo punto di vantaggio sul Venezia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-10-19T20:30:07+00:00",
+      "squadra": "Udinese"
     },
     {
       "id": "326babe735",
@@ -51,40 +63,40 @@
       "squadra": "Lazio"
     },
     {
-      "id": "df0174c360",
-      "titolo": "Un attaccante come Varela a Monza non lo avevano mai visto. Lo dicono i numeri",
-      "url": "https://www.tuttomercatoweb.com/serie-a/attaccante-varela-monza-visto-dicono-numeri-2285101",
-      "estratto": "C'è un attaccante portoghese che sta spaccando in due le difese della Serie A e che gioca in Lombardia e no, non è quello a cui state pensando.",
+      "id": "7ef5691984",
+      "titolo": "Liberali: \"Il Como non guarda molto all'età. Qua tanti giovani che possono crescere\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/liberali-il-como-guarda-eta-tanti-giovani-possono-crescere-2285085",
+      "estratto": "Mattia Liberali si è sbloccato questo weekend, segnando contro la Fiorentina il gol del momentaneo 1-0.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 160,
-      "pubblicato": "2026-10-19T19:08:12+00:00",
+      "pubblicato": "2026-10-19T20:52:51+00:00",
+      "squadra": "Como"
+    },
+    {
+      "id": "56311ead09",
+      "titolo": "Cagliari, Deiola: \"Sconfitta che ci sarà utile. Non eravamo forti prima, non siamo scarsi ora\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/cagliari-deiola-sconfitta-utile-forti-prima-scarsi-ora-2285134",
+      "estratto": "Intervenuto in conferenza stampa dopo il 4-0 incassato dal Monza, il centrocampista del Cagliari Alessandro Deiola ha commento così il ko: \"E' un passo falso che ci sarà utile, non eravamo forti prima e non siamo scarsi adesso.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-10-19T20:16:06+00:00",
+      "squadra": "Cagliari"
+    },
+    {
+      "id": "c60a900357",
+      "titolo": "Monza, Birindelli: \"Juric ci sta dando un'identità. Che impatto Tornqvist, non me lo aspettavo\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/monza-birindelli-juric-dando-identita-impatto-tornqvist-aspettavo-2285141",
+      "estratto": "Al termine della sfida tra Monza e Cagliari valida per la settima giornata di Serie A e che si è conclusa sul risultato di 4-0, ha parlato il capitano dei brianzoli Samuele Birindelli: \"L'abbiamo preparata bene, volevamo fare la partita, sapevamo le ",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-10-19T20:14:00+00:00",
       "squadra": "Monza"
-    },
-    {
-      "id": "a9cae28f90",
-      "titolo": "Torino, Che Adams: \"Spero di arrivare a 10 gol. La doppia cifra è un obiettivo\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-adams-spero-arrivare-10-gol-doppia-cifra-obiettivo-2285105",
-      "estratto": "Che Adams, attaccante del Torino, è intervenuto ai microfoni di Sky Sport prima della partita contro il Parma, commentando le parole del suo allenatore Abate, che ha chiesto ai suoi di giocare senza pensieri: \"La cosa importante sia non entrare in ca",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-10-19T18:51:33+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "739cd1ab93",
-      "titolo": "Parma, Gilardino: \"Mi auguro che Romero ed El Bilal Touré possano far male al Torino\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/parma-gilardino-tornare-emozionante-lavorato-intensamente-gara-2285103",
-      "estratto": "L'allenatore del Parma Alberto Gilardino ha parlato a DAZN prima della sfida contro il Torino: \"Tornare qua in questo stadio mi fa venire alla mente dei ricordi bellissimi che mi sono portato dietro per tutta la carriera.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-10-19T18:45:00+00:00",
-      "squadra": "Parma"
     },
     {
       "id": "4b1dc9aba0",
@@ -99,6 +111,30 @@
       "squadra": "Man United"
     },
     {
+      "id": "9a441ba78c",
+      "titolo": "Doppio Simeone e Adams, Abate schianta il Parma: Torino, aggancio al Napoli e -1 dalla Juve",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/19-152012903/doppio_simeone_e_adams_abate_schianta_il_parma_torino_aggancio_al_napoli_e_-1_dalla_juve/",
+      "estratto": "I granata si impongono 3-0 al Tardini e salgono a quota 10 punti in classifica",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 150,
+      "pubblicato": "2026-10-19T20:43:37+00:00",
+      "squadra": "Parma"
+    },
+    {
+      "id": "a4bbec275d",
+      "titolo": "Serie A, la classifica aggiornata: il Torino aggancia il Napoli. Parma penultimo",
+      "url": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-torino-aggancia-napoli-parma-penultimo-2285153",
+      "estratto": "Un Torino devastante chiude la 7ª giornata di Serie A.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 150,
+      "pubblicato": "2026-10-19T20:41:44+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "3cb4aad9c8",
       "titolo": "Moviola Fiorentina-Como: c’era fallo su Gonçalves. Il 2-2 e quei centimetri...",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-151999899/moviola_fiorentina-como_cera_fallo_su_gonalves_il_2-2_e_quei_centimetri_/",
@@ -111,27 +147,15 @@
       "squadra": "Fiorentina"
     },
     {
-      "id": "44724bf149",
-      "titolo": "De Zerbi si gioca tutto, le formazioni di Tottenham-Coventry: Solanke con Kudus e Marmoush",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/de-zerbi-gioca-tutto-formazioni-tottenham-coventry-solanke-kudus-marmoush-2285098",
-      "estratto": "È una sfida dal peso specifico importante quella che chiude la settima giornata di Premier League.",
+      "id": "51c368c766",
+      "titolo": "Serie B 2026/2027, il punto sulle panchine: Corradi esonerato dalla Sampdoria",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-2026-2027-punto-panchine-corradi-esonerato-sampdoria-2285120",
+      "estratto": "Novità per le panchine di Serie B.",
       "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-10-19T18:56:54+00:00",
-      "squadra": "Coventry"
-    },
-    {
-      "id": "41ec0adf9c",
-      "titolo": "Crisi senza fine per la Sampdoria: esonerato Corradi, ora è ufficiale",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/sampdoria/2026/10/19-152008221/crisi_senza_fine_per_la_sampdoria_esonerato_corradi_ora_ufficiale/",
-      "estratto": "Il tecnico paga la sconfitta casalinga contro l'Arezzo, la quinta nelle prime sette giornate in Serie B: Giampaolo il grande favorito per la successione",
-      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 120,
-      "pubblicato": "2026-10-19T18:29:35+00:00",
+      "pubblicato": "2026-10-19T20:45:51+00:00",
       "squadra": "Sampdoria"
     },
     {
@@ -171,15 +195,15 @@
       "squadra": "Nottm Forest"
     },
     {
-      "id": "f6cbe26283",
-      "titolo": "Il trasferimento di Eric Cantona, il celebre scontro tra Roy Keane e Alf-Inge Haaland, gli insulti e le etichette pesanti... Sir Alex Ferguson fu sorpreso dal profondo odio reciproco tra Leeds e Man United: ma da dove ha origine?",
-      "url": "https://www.dailymail.com/sport/football/article-16211227/Eric-Cantonas-transfer-Roy-Keane-Alf-Inge-Haalands-infamous-clash-players-called-scum-Sir-Alex-Ferguson-surprised-deep-hatred-Leeds-Man-United-does-come-from.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Leeds United e Manchester United. Una rivalità accesa, aspra e viscerale. Nel calcio ne esistono davvero poche paragonabili.",
-      "fonte": "Daily Mail",
+      "id": "b26cc612b1",
+      "titolo": "Carrick: il pareggio con il Leeds sembra un \"nuovo inizio\" per il Man Utd",
+      "url": "https://www.espn.com/video/clip/_/id/50211373/leeds-draw-feels-fresh-start-man-utd",
+      "estratto": "Carrick: il pareggio con il Leeds sembra un \"nuovo inizio\" per il Man Utd",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": false,
+      "citazione": true,
       "punteggio": 120,
-      "pubblicato": "2026-10-18T06:00:46+00:00",
+      "pubblicato": "2026-10-18T17:15:55+00:00",
       "squadra": "Leeds"
     },
     {
@@ -195,6 +219,18 @@
       "squadra": "Man City"
     },
     {
+      "id": "4cb2349db1",
+      "titolo": "Totti scherza: \"Io nella Roma di Gasperini? Lui è tosto, ma dopo Zeman posso fare tutto\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/totti-scherza-io-roma-gasperini-tosto-zeman-posso-tutto-2285129",
+      "estratto": "Francesco Totti è intervenuto ai microfoni di Sky Sport a margine della presentazione del suo nuovo libro 'Oltre.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-19T20:22:18+00:00",
+      "squadra": "AS Roma"
+    },
+    {
       "id": "05eccb1902",
       "titolo": "Allegri, scudo Napoli e futuro: \"Niente è facile, se sono stati scelti...\". E Meret: \"Dobbiamo affrontare questi eventi\"",
       "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/19-152004416/allegri_scudo_napoli_e_futuro_niente_facile_se_sono_stati_scelti_e_meret_dobbiamo_affrontare_questi_eventi/",
@@ -205,18 +241,6 @@
       "punteggio": 70,
       "pubblicato": "2026-10-19T14:05:17+00:00",
       "squadra": "Napoli"
-    },
-    {
-      "id": "303e881e8d",
-      "titolo": "Gasperini: \"Lesione per Dybala, tempi più lunghi\". Pellegrini, il retroscena sul rinnovo con la Roma",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/19-152002047/gasperini_lesione_per_dybala_tempi_pi_lunghi_pellegrini_il_retroscena_sul_rinnovo_con_la_roma/",
-      "estratto": "Il tecnico dei giallorossi ha parlato alla vigilia del match di Champions League contro lo Slovan Bratislava. E sul prolungamento di contratto del numero 7...",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-19T12:41:14+00:00",
-      "squadra": "AS Roma"
     },
     {
       "id": "5162ac4e50",
@@ -252,6 +276,28 @@
       "punteggio": 50,
       "pubblicato": "2026-10-19T09:36:44+00:00",
       "squadra": "Inter Milan"
+    },
+    {
+      "id": "8a1fd028cc",
+      "titolo": "Luis Enrique incorona Messi: \"Paragonarlo con qualsiasi altro giocatore è impossibile\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/luis-enrique-incorona-messi-yamal-paragonarlo-giocatore-impossibile-2285119",
+      "estratto": "Alla vigilia della sfida di Champions League tra Paris Saint-Germain e Barcellona, Luis Enrique torna a parlare del suo passato blaugrana e dedica parole al miele a Lionel Messi, suo ex giocatore nel triennio della storica MSN.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-19T20:26:18+00:00"
+    },
+    {
+      "id": "254d934f09",
+      "titolo": "Totti: \"L'addio al calcio? Sono morto, mi sono sentito perso\". Poi si commuove parlando del padre",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/19-152011688/totti_l_addio_al_calcio_sono_morto_mi_sono_sentito_perso/",
+      "estratto": "L'ex capitano della Roma si racconta con sincerità in occasione della presentazione del suo libro 'Oltre'",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-19T20:03:39+00:00"
     },
     {
       "id": "0afa07d9b1",
@@ -392,16 +438,59 @@
       "squadra": "Shakhtar"
     },
     {
-      "id": "a3623f6bb7",
-      "titolo": "Serie B, la Top11 della 7ª giornata: Segre lancia il Palermo, super Mosquera",
-      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-top11-7a-giornata-segre-lancia-palermo-super-mosquera-2285077",
-      "estratto": "La settima giornata di Serie B segna la prima fuga del Palermo, vittorioso 2-0 a Mantova e ora a +5 sulla seconda.",
+      "id": "8a78447439",
+      "titolo": "Dejan Kulusevski torna a giocare con il Tottenham 526 giorni dopo l'infortunio al ginocchio",
+      "url": "https://www.espn.com/soccer/story/_/id/50217765/dejan-kulusevski-makes-tottenham-return-526-days-suffering-knee-injury",
+      "estratto": "Lunedì Dejan Kulusevski ha disputato la sua prima partita dopo 526 giorni, subentrando dalla panchina all'86° minuto della sfida di Premier League tra il Tottenham e il Coventry.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-19T20:53:34+00:00"
+    },
+    {
+      "id": "27b14bd236",
+      "titolo": "Serie B, la classifica degli allenatori dopo la 7ª giornata: Galloppa in vetta, ultimo Corradi",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-classifica-allenatori-7a-giornata-galloppa-vetta-corradi-2285112",
+      "estratto": "Il Palermo scappa, le inseguitrici rallentano e la lotta salvezza si accende: la settima giornata di Serie B porta novità importanti.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-19T19:04:28+00:00",
-      "squadra": "Palermo"
+      "pubblicato": "2026-10-19T20:33:57+00:00"
+    },
+    {
+      "id": "3c7b5cd561",
+      "titolo": "Serie B, i migliori attaccanti dopo la 7ª giornata: Belotti davanti a tutti",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-migliori-attaccanti-7a-giornata-belotti-2285110",
+      "estratto": "La settima giornata di Serie B consegna verdetti importanti sia in vetta sia in coda.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-19T20:19:04+00:00"
+    },
+    {
+      "id": "25cca987d2",
+      "titolo": "Serie B, i migliori centrocampisti dopo la 7ª giornata: Tramoni mette Caso nel mirino",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-migliori-centrocampisti-7a-giornata-tramoni-mette-mirino-2285107",
+      "estratto": "La classifica di Serie B comincia a delinearsi dopo la settima giornata, con il Palermo che allunga in testa grazie al 2-0 sul campo del Mantova.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-19T20:04:01+00:00"
+    },
+    {
+      "id": "d5fbb43471",
+      "titolo": "Baldini da applausi, ha il coraggio di dire le cose come stanno",
+      "url": "https://www.tuttosport.com/news/calcio/italia/under-21/2026/10/19-152011586/baldini_da_applausi_ha_il_coraggio_di_dire_le_cose_come_stanno/",
+      "estratto": "Il ct dell'Under 21 ha indicato la strada da seguire per risollevare il nostro calcio: \"Non abbiamo un problema di materia prima perché i giovani di valore ci sono. Il problema sono quei dirigenti che pensano al denaro e mettono la coscienza in secon",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-19T19:22:32+00:00"
     },
     {
       "id": "4b9b5f0762",
@@ -413,17 +502,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-19T18:30:25+00:00"
-    },
-    {
-      "id": "01372afd36",
-      "titolo": "L'addio commosso di Krosche all'Eintracht: l'ex d.s. prima saluta la squadra, poi i tifosi",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/addio-commosso-krosche-eintracht-d-s-saluta-squadra-tifosi-2285084",
-      "estratto": "È stato un addio carico di emozioni quello di Markus Krosche all’Eintracht Francoforte.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-19T18:12:50+00:00"
     },
     {
       "id": "4637a5d091",
@@ -654,28 +732,16 @@
       "squadra": "Lazio"
     },
     {
-      "id": "43ff8b76eb",
-      "titolo": "Torino, Abate: \"Le parole d'ordine sono lavoro e umiltà. Il modulo lo fanno i giocatori\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-abate-le-parole-ordine-lavoro-umilta-modulo-giocatori-2285104",
-      "estratto": "L'allenatore del Torino Ignazio Abate ha parlato a DAZN a pochi minuti dal calcio d'inizio del match contro il Parma: “Lavoriamo in una piazza molto importante, dove ci stimolano a fare sempre il meglio.",
-      "fonte": "TMW",
+      "id": "3b316ca71f",
+      "titolo": "Monza, Juric gongola dopo il poker al Cagliari e avvisa Abate: \"Col Torino come in Coppa\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/monza/2026/10/19-152006491/monza_juric_gongola_dopo_il_poker_al_cagliari_e_avvisa_abate_col_torino_come_in_coppa/",
+      "estratto": "Il tecnico dei brianzoli ha fatto il punto sulla gara interna contro la formazione di Piscanane che ha visto i padroni di casa imporsi per 4-0",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -40,
-      "pubblicato": "2026-10-19T18:44:00+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "a286b92bbe",
-      "titolo": "Fabbian: \"Gilardino esigente, ci sta dando tanto. Questo Parma è giovane, ha voglia\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/fabbian-gilardino-esigente-dando-tanto-parma-giovane-voglia-2285102",
-      "estratto": "Giovanni Fabbian, centrocampista del Parma, ha parlato così a pochi minuti dall'inizio del match contro il Torino: \"Gilardino ci sta chiedendo di dare il massimo come sempre, è un allenatore esigente, ci sta dando tanto e dobbiamo continuare a seguir",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -40,
-      "pubblicato": "2026-10-19T18:41:33+00:00",
-      "squadra": "Parma"
+      "pubblicato": "2026-10-19T19:33:21+00:00",
+      "squadra": "Monza"
     },
     {
       "id": "af05e65789",
@@ -690,27 +756,39 @@
       "squadra": "Man United"
     },
     {
-      "id": "d8b529ed51",
-      "titolo": "Monza-Cagliari 4-0, Varela man of the match, difesa rossoblu da incubo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/monza-cagliari-4-0-varela-man-of-the-match-difesa-rossoblu-incubo-2285100",
-      "estratto": "Lezione di calcio del Monza, che abbatte il Cagliari 4-0 e cala il poker.",
+      "id": "358a7dbc4e",
+      "titolo": "Torino, a breve le parole di mister Abate in conferenza stampa",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-breve-parole-mister-abate-conferenza-stampa-2285130",
+      "estratto": "Ore 22.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-10-19T18:30:32+00:00",
-      "squadra": "Monza"
+      "pubblicato": "2026-10-19T20:50:00+00:00",
+      "squadra": "Torino"
     },
     {
-      "id": "176eb249a5",
-      "titolo": "Giampaolo verso la panchina della Sampdoria: il tecnico tratta con la Cremonese per la risoluzione",
-      "url": "https://www.tuttomercatoweb.com/serie-b/giampolo-panchina-sampdoria-tecnico-tratta-cremonese-risoluzione-2285092",
-      "estratto": "La Sampdoria ha deciso di esonerare il tecnico Bernardo Corradi.",
+      "id": "ad59cb9fc1",
+      "titolo": "Parma, a breve le parole di mister Gilardino in conferenza stampa",
+      "url": "https://www.tuttomercatoweb.com/serie-a/parma-breve-parole-mister-gilardino-conferenza-stampa-2285128",
+      "estratto": "Ore 22.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-10-19T18:18:14+00:00",
+      "pubblicato": "2026-10-19T20:50:00+00:00",
+      "squadra": "Parma"
+    },
+    {
+      "id": "41ec0adf9c",
+      "titolo": "Crisi senza fine per la Sampdoria: esonerato Corradi, ora è ufficiale",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/sampdoria/2026/10/19-152008221/crisi_senza_fine_per_la_sampdoria_esonerato_corradi_ora_ufficiale/",
+      "estratto": "Il tecnico paga la sconfitta casalinga contro l'Arezzo, la quinta nelle prime sette giornate in Serie B: Giampaolo il grande favorito per la successione",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-10-19T18:29:35+00:00",
       "squadra": "Sampdoria"
     },
     {
@@ -726,15 +804,27 @@
       "squadra": "Nottm Forest"
     },
     {
-      "id": "f353cad3ca",
-      "titolo": "Il Ceo del Bodo e quel retroscena su Mourinho: \"Ai tempi della Roma non gradiva il campo. Ora noi siamo cambiati\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-152001127/il_ceo_del_bodo_e_quel_retroscena_su_mourinho_ai_tempi_della_roma_non_gradiva_il_campo_ora_noi_siamo_cambiati/",
-      "estratto": "Frode Thomassen, il manager dei norvegesi, che domani affronteranno il Napoli in Champions, incontra i giornalisti italiani",
-      "fonte": "Corriere dello Sport",
+      "id": "f6cbe26283",
+      "titolo": "Il trasferimento di Eric Cantona, il celebre scontro tra Roy Keane e Alf-Inge Haaland, gli insulti e le etichette pesanti... Sir Alex Ferguson fu sorpreso dal profondo odio reciproco tra Leeds e Man United: ma da dove ha origine?",
+      "url": "https://www.dailymail.com/sport/football/article-16211227/Eric-Cantonas-transfer-Roy-Keane-Alf-Inge-Haalands-infamous-clash-players-called-scum-Sir-Alex-Ferguson-surprised-deep-hatred-Leeds-Man-United-does-come-from.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Leeds United e Manchester United. Una rivalità accesa, aspra e viscerale. Nel calcio ne esistono davvero poche paragonabili.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-10-18T06:00:46+00:00",
+      "squadra": "Leeds"
+    },
+    {
+      "id": "303e881e8d",
+      "titolo": "Gasperini: \"Lesione per Dybala, tempi più lunghi\". Pellegrini, il retroscena sul rinnovo con la Roma",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/19-152002047/gasperini_lesione_per_dybala_tempi_pi_lunghi_pellegrini_il_retroscena_sul_rinnovo_con_la_roma/",
+      "estratto": "Il tecnico dei giallorossi ha parlato alla vigilia del match di Champions League contro lo Slovan Bratislava. E sul prolungamento di contratto del numero 7...",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-10-19T10:14:28+00:00",
+      "pubblicato": "2026-10-19T12:41:14+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -786,15 +876,15 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "e562f048ee",
-      "titolo": "Mikel Arteta giustifica la prova opaca dell'Arsenal con la tattica del Nottingham Forest: \"Hanno piazzato un albero di Natale\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree",
-      "estratto": "Mikel Arteta ha difeso il suo Arsenal dopo l'unico tiro nello specchio effettuato nella vittoria per 1-0 di domenica sul campo del Nottingham Forest.",
-      "fonte": "ESPN",
+      "id": "28fab6ffaf",
+      "titolo": "Kompany infortunato: difficoltà a camminare e stare in piedi ma ci sarà con l'Arsenal",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/kompany-infortunato-difficolta-camminare-stare-arsenal-2285122",
+      "estratto": "Una situazione insolita potrebbe caratterizzare la sfida di Champions League tra Bayern Monaco e Arsenal.",
+      "fonte": "TMW",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -200,
-      "pubblicato": "2026-10-19T11:00:24+00:00",
+      "pubblicato": "2026-10-19T20:42:41+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -858,30 +948,6 @@
       "squadra": "Juventus"
     },
     {
-      "id": "a9fb14e207",
-      "titolo": "Gilardino: \"Emozionante tornare a Parma. Bernabé? Sa trovare lo spazio per fare la differenza\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/gilardino-emozionante-tornare-parma-bernabe-sa-trovare-spazio-differenza-2285099",
-      "estratto": "Alberto Gilardino, tecnico del Parma, è intervenuto ai microfoni di Sky Sport a pochi minuti dal match contro il Torino: \"È normale che nel tornare al Tardini sono emozionato, ma la dovrò mettere da parte appena l'arbitro fischierà.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -240,
-      "pubblicato": "2026-10-19T18:37:07+00:00",
-      "squadra": "Parma"
-    },
-    {
-      "id": "8fd74dacfe",
-      "titolo": "Torino, Adams: \"Spero di tornare al gol. Preferisco ricevere la palla sui piedi\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-adams-spero-tornare-gol-preferisco-ricevere-palla-piedi-2285095",
-      "estratto": "L'attaccante del Torino Che Adams ha parlato ai microfoni di DAZN a pochi minuti dal fischio d'inizio del match contro il Parma al Tardini: \"Spero di continuare come stavo facendo a inizio stagione, prima della pausa per le Nazionali.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -240,
-      "pubblicato": "2026-10-19T18:34:00+00:00",
-      "squadra": "Torino"
-    },
-    {
       "id": "d2048841f9",
       "titolo": "L'ex attaccante del Manchester United Fraizer Campbell rivela una grave dipendenza dallo snus durante i suoi anni in Premier League che lo lasciava 'costantemente affaticato'",
       "url": "https://www.dailymail.com/sport/football/article-16214541/Former-Man-United-Fraizer-Campbell-snus-addiction-Premier-League-fatigued.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -906,27 +972,51 @@
       "squadra": "Lazio"
     },
     {
-      "id": "a190a337c4",
-      "titolo": "Serie A, la classifica aggiornata: il Monza torna a vincere e si allontana dalla zona rossa",
-      "url": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-monza-torna-vincere-allontana-zona-rossa-2285097",
-      "estratto": "Monza devastante nel posticipo del lunedì.",
+      "id": "76d575b03e",
+      "titolo": "Toro scatenato contro il Parma: tris granata al Tardini, Simeone protagonista",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-152003855/toro_scatenato_contro_il_parma_tris_granata_al_tardini_simeone_protagonista/",
+      "estratto": "Nel monday night della 7ª giornata di Serie A la squadra di Abate vince e convince (3-0): doppietta per il Cholito e guizzo di Adams. Secondo ko di fila per i gialloblù di Gilardino",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-10-19T20:43:35+00:00",
+      "squadra": "Parma"
+    },
+    {
+      "id": "674de1779a",
+      "titolo": "Il Torino passeggia sul Parma: secondo ko consecutivo per Gilardino, è 3-0 al Tardini",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-passeggia-parma-ko-gilardino-3-0-tardini-2285152",
+      "estratto": "Il Parma perde nettamente 3-0 e non esce più dalla crisi.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -280,
-      "pubblicato": "2026-10-19T18:26:38+00:00",
+      "pubblicato": "2026-10-19T20:37:13+00:00",
+      "squadra": "Torino"
+    },
+    {
+      "id": "45d7990297",
+      "titolo": "I giovani fanno felice Juric: Varela show, poker del Monza sul Cagliari",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-152003753/i_giovani_fanno_felice_juric_varela_show_poker_del_monza_sul_cagliari/",
+      "estratto": "Successo per 4-0 dei brianzoli nel primo posticipo della 7ª giornata di Serie A: doppietta e assist per il portoghese, in gol anche Kouadio e Robinson",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-10-19T18:24:34+00:00",
       "squadra": "Monza"
     },
     {
-      "id": "722ba47044",
-      "titolo": "La Roma ritrova lo Slovan Bratislava e l'ex calciatore stuzzica i giallorossi: \"Noi facemmo a pezzi Totti e gli altri e nello spogliatoio...\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-151997418/la_roma_ritrova_lo_slovan_bratislava_e_l_ex_calciatore_stuzzica_i_giallorossi_noi_facemmo_a_pezzi_totti_e_gli_altri_e_nello/",
-      "estratto": "Quindici anni fa, prima partita ufficiale dell'era americana, la Roma venne eliminata ai preliminari di Europa League. Era il debutto di Luis Enrique",
+      "id": "f353cad3ca",
+      "titolo": "Il Ceo del Bodo e quel retroscena su Mourinho: \"Ai tempi della Roma non gradiva il campo. Ora noi siamo cambiati\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-152001127/il_ceo_del_bodo_e_quel_retroscena_su_mourinho_ai_tempi_della_roma_non_gradiva_il_campo_ora_noi_siamo_cambiati/",
+      "estratto": "Frode Thomassen, il manager dei norvegesi, che domani affronteranno il Napoli in Champions, incontra i giornalisti italiani",
       "fonte": "Corriere dello Sport",
-      "serie": "Champions",
+      "serie": "Serie A",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-10-19T06:36:52+00:00",
+      "pubblicato": "2026-10-19T10:14:28+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -978,15 +1068,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "52cdd90a76",
-      "titolo": "Il trend insostenibile e la lacuna strutturale che l'Arsenal deve risolvere per continuare a vincere: e perché il fatto che Eberechi Eze sia il capro espiatorio di Mikel Arteta è un preoccupante déjà-vu, scrive ISAAN KHAN",
-      "url": "https://www.dailymail.com/sport/football/article-16214377/arsenal-nottingham-forest-analysis-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "ISAAN KHAN AL CITY GROUND: È il recente stile di gioco dell'Arsenal a essere mascherato dai risultati, un limite di fondo che stona con le 10 vittorie conquistate nelle ultime 11 partite.",
-      "fonte": "Daily Mail",
+      "id": "e562f048ee",
+      "titolo": "Mikel Arteta giustifica la prova opaca dell'Arsenal con la tattica del Nottingham Forest: \"Hanno piazzato un albero di Natale\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree",
+      "estratto": "Mikel Arteta ha difeso il suo Arsenal dopo l'unico tiro nello specchio effettuato nella vittoria per 1-0 di domenica sul campo del Nottingham Forest.",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": false,
+      "citazione": true,
       "punteggio": -400,
-      "pubblicato": "2026-10-19T08:32:25+00:00",
+      "pubblicato": "2026-10-19T11:00:24+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1026,30 +1116,6 @@
       "squadra": "Juventus"
     },
     {
-      "id": "ca37300910",
-      "titolo": "Abate: \"A Torino il peso della storia si sente. Vlasic? Sono veramente felice di lui\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/abate-a-torino-peso-storia-sente-vlasic-veramente-felice-lui-2285093",
-      "estratto": "Ignazio Abate, allenatore del Torino, è intervenuto ai microfoni di Sky Sport, commentando così la gara che attende i granata contro il Parma: \"La squadra mi dà sempre segnali positivi giorno dopo giorno.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -440,
-      "pubblicato": "2026-10-19T18:25:20+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "366a1df79f",
-      "titolo": "Parma, Fabbian: \"Non guardiamo la classifica. Siamo un gruppo unito e seguiamo il mister\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/parma-fabbian-non-guardiamo-classifica-unito-seguiamo-mister-2285091",
-      "estratto": "Il centrocampista del Parma Giovanni Fabbian ha parlato a DAZN prima del match contro il Torino: \"Gilardino? Stiamo lavorando forte in settimana, noi giocatori cerchiamo di fare quello che ci chiede.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -440,
-      "pubblicato": "2026-10-19T18:15:00+00:00",
-      "squadra": "Parma"
-    },
-    {
       "id": "ff10530357",
       "titolo": "L'ex stella del Manchester United Ander Herrera rivela di 'giocare gratis' dopo aver scelto di donare il suo stipendio settimanale alla squadra della sua infanzia - dopo aver incassato 53 milioni di sterline a Old Trafford e al PSG",
       "url": "https://www.dailymail.com/sport/football/article-16214641/Former-Man-United-star-Ander-Herrera-reveals-playing-free-choosing-donate-weekly-wage-boyhood-club-having-cashed-53m-Old-Trafford-PSG.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1062,27 +1128,39 @@
       "squadra": "Man United"
     },
     {
-      "id": "45d7990297",
-      "titolo": "I giovani fanno felice Juric: Varela show, poker del Monza sul Cagliari",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-152003753/i_giovani_fanno_felice_juric_varela_show_poker_del_monza_sul_cagliari/",
-      "estratto": "Successo per 4-0 dei brianzoli nel primo posticipo della 7ª giornata di Serie A: doppietta e assist per il portoghese, in gol anche Kouadio e Robinson",
-      "fonte": "Corriere dello Sport",
+      "id": "aa23135e8d",
+      "titolo": "Simeone fa doppietta, il Torino va sul 3-0 al 69': è notte fonda per il Parma",
+      "url": "https://www.tuttomercatoweb.com/serie-a/simeone-doppietta-torino-3-0-69-notte-fonda-parma-2285144",
+      "estratto": "Il Torino chiude definitivamente i conti al 69' con il super gol di Simeone.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -480,
-      "pubblicato": "2026-10-19T18:24:34+00:00",
+      "pubblicato": "2026-10-19T20:11:48+00:00",
+      "squadra": "Torino"
+    },
+    {
+      "id": "42f97fe929",
+      "titolo": "Monza da urlo. Doppio Varela, Kouadio e Robinson travolgono Cagliari: 2ª vittoria per Juric",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/19-152006490/monza_da_urlo_doppio_varela_kouadio_e_robinson_travolgono_cagliari_2_vittoria_per_juric/",
+      "estratto": "I brianzoli calano il poker contro la formazione di Pisacane alla 7ª giornata di campionato",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -480,
+      "pubblicato": "2026-10-19T18:22:00+00:00",
       "squadra": "Monza"
     },
     {
-      "id": "252885631c",
-      "titolo": "Champions, scelti gli arbitri per Roma e Napoli: chi sono e i precedenti con le italiane",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/18-151977373/champions_scelti_gli_arbitri_per_roma_e_napoli_chi_sono_e_i_precedenti_con_le_italiane/",
-      "estratto": "Entrambi i direttori di gara hanno i bilanci in positivo quando hanno incontrato i club italiani in Europa",
-      "fonte": "Tuttosport",
+      "id": "722ba47044",
+      "titolo": "La Roma ritrova lo Slovan Bratislava e l'ex calciatore stuzzica i giallorossi: \"Noi facemmo a pezzi Totti e gli altri e nello spogliatoio...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-151997418/la_roma_ritrova_lo_slovan_bratislava_e_l_ex_calciatore_stuzzica_i_giallorossi_noi_facemmo_a_pezzi_totti_e_gli_altri_e_nello/",
+      "estratto": "Quindici anni fa, prima partita ufficiale dell'era americana, la Roma venne eliminata ai preliminari di Europa League. Era il debutto di Luis Enrique",
+      "fonte": "Corriere dello Sport",
       "serie": "Champions",
-      "citazione": false,
-      "punteggio": -550,
-      "pubblicato": "2026-10-18T11:35:15+00:00",
+      "citazione": true,
+      "punteggio": -530,
+      "pubblicato": "2026-10-19T06:36:52+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1098,27 +1176,27 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "455d452b28",
-      "titolo": "Antoine Semenyo out per due mesi, il Manchester City nutre speranze per Erling Haaland",
-      "url": "https://www.espn.com/soccer/story/_/id/50217514/antoine-semenyo-two-months-man-city-hopeful-erling-haaland",
-      "estratto": "Antoine Semenyo è infortunato e dovrà affrontare un'assenza di otto settimane per il Manchester City, come confermato da Enzo Maresca.",
+      "id": "495515031e",
+      "titolo": "Maresca: il Manchester City ha \"opzioni\" nonostante i problemi con gli infortuni",
+      "url": "https://www.espn.com/video/clip/_/id/50218999/manchester-city-options-injury-setbacks",
+      "estratto": "Maresca: il Manchester City ha \"opzioni\" nonostante i problemi con gli infortuni",
       "fonte": "ESPN",
       "serie": "Champions",
-      "citazione": false,
+      "citazione": true,
       "punteggio": -600,
-      "pubblicato": "2026-10-19T12:43:50+00:00",
+      "pubblicato": "2026-10-19T15:39:20+00:00",
       "squadra": "Man City"
     },
     {
-      "id": "556981e3a8",
-      "titolo": "Arteta: Madueke è amato nello spogliatoio dell'Arsenal",
-      "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
-      "estratto": "Arteta: Madueke è amato nello spogliatoio dell'Arsenal",
-      "fonte": "ESPN",
+      "id": "52cdd90a76",
+      "titolo": "Il trend insostenibile e la lacuna strutturale che l'Arsenal deve risolvere per continuare a vincere: e perché il fatto che Eberechi Eze sia il capro espiatorio di Mikel Arteta è un preoccupante déjà-vu, scrive ISAAN KHAN",
+      "url": "https://www.dailymail.com/sport/football/article-16214377/arsenal-nottingham-forest-analysis-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ISAAN KHAN AL CITY GROUND: È il recente stile di gioco dell'Arsenal a essere mascherato dai risultati, un limite di fondo che stona con le 10 vittorie conquistate nelle ultime 11 partite.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-10-18T22:00:29+00:00",
+      "pubblicato": "2026-10-19T08:32:25+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1182,40 +1260,28 @@
       "squadra": "Man United"
     },
     {
-      "id": "0b2de42acf",
-      "titolo": "Parte male il Parma, il Torino è già in vantaggio al 5': 0-1 al Tardini, segna Simeone",
-      "url": "https://www.tuttomercatoweb.com/serie-a/parma-torino-vantaggio-5-0-1-tardini-segna-simeone-2285108",
-      "estratto": "Il Torino è già in vantaggio dopo 5 minuti.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -680,
-      "pubblicato": "2026-10-19T18:50:43+00:00",
-      "squadra": "Parma"
-    },
-    {
-      "id": "42f97fe929",
-      "titolo": "Monza da urlo. Doppio Varela, Kouadio e Robinson travolgono Cagliari: 2ª vittoria per Juric",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/19-152006490/monza_da_urlo_doppio_varela_kouadio_e_robinson_travolgono_cagliari_2_vittoria_per_juric/",
-      "estratto": "I brianzoli calano il poker contro la formazione di Pisacane alla 7ª giornata di campionato",
+      "id": "252885631c",
+      "titolo": "Champions, scelti gli arbitri per Roma e Napoli: chi sono e i precedenti con le italiane",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/18-151977373/champions_scelti_gli_arbitri_per_roma_e_napoli_chi_sono_e_i_precedenti_con_le_italiane/",
+      "estratto": "Entrambi i direttori di gara hanno i bilanci in positivo quando hanno incontrato i club italiani in Europa",
       "fonte": "Tuttosport",
-      "serie": "Serie A",
+      "serie": "Champions",
       "citazione": false,
-      "punteggio": -680,
-      "pubblicato": "2026-10-19T18:22:00+00:00",
-      "squadra": "Monza"
+      "punteggio": -750,
+      "pubblicato": "2026-10-18T11:35:15+00:00",
+      "squadra": "AS Roma"
     },
     {
-      "id": "99fe88efb8",
-      "titolo": "Roma, la febbre d’Europa accende l’Olimpico: già venduti 63 mila biglietti",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/19-152006048/roma_la_febbre_deuropa_accende_lolimpico_gi_venduti_63_mila_biglietti/",
-      "estratto": "La voglia di Champions si fa sentire e accende la città: i tifosi si preparano a diventare ancora una volta il cuore pulsante della passione romanista",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
+      "id": "f1e218e75e",
+      "titolo": "Marc Guéhi del Manchester City: inginocchiarsi potrebbe aver perso impatto, si può fare di più",
+      "url": "https://www.espn.com/soccer/story/_/id/50218768/marc-guehi-man-city-taking-knee-english-premier-league",
+      "estratto": "Il difensore del Manchester City Marc Guéhi ritiene che il gesto dei calciatori di inginocchiarsi prima delle partite possa aver perso il suo impatto e auspica che si faccia di più nella lotta del calcio contro il razzismo.",
+      "fonte": "ESPN",
+      "serie": "Estero",
       "citazione": false,
-      "punteggio": -770,
-      "pubblicato": "2026-10-19T16:31:05+00:00",
-      "squadra": "AS Roma"
+      "punteggio": -800,
+      "pubblicato": "2026-10-19T15:25:16+00:00",
+      "squadra": "Man City"
     },
     {
       "id": "cfa4e02d96",
@@ -1230,28 +1296,16 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "1c25c92e4d",
-      "titolo": "Mikel Arteta elogia la resilienza dell'Arsenal e la capacità di 'soffrire' nella sofferta vittoria sul campo del Nottingham Forest, ma ammette l'errore tattico; il tecnico dei Gunners lancia poi la sfida a uno 'speciale' Noni Madueke dopo il suo ingresso decisivo",
-      "url": "https://www.dailymail.com/sport/football/article-16219061/Mikel-Arteta-hails-Arsenals-resilience-ability-suffer-gritty-victory-Nottingham-Forest-makes-tactical-admission-Gunners-boss-lays-challenge-special-Noni-Madueke-matchwinning-cameo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "ISAAN KHAN AL CITY GROUND: L'Arsenal ha dominato il possesso palla senza pungere nei pressi dell'area di rigore, prima che quattro cambi nella ripresa, tra cui Madueke, contribuissero a invertire l'inerzia del match.",
-      "fonte": "Daily Mail",
+      "id": "556981e3a8",
+      "titolo": "Arteta: Madueke è amato nello spogliatoio dell'Arsenal",
+      "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
+      "estratto": "Arteta: Madueke è amato nello spogliatoio dell'Arsenal",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -800,
-      "pubblicato": "2026-10-18T21:30:46+00:00",
+      "pubblicato": "2026-10-18T22:00:29+00:00",
       "squadra": "Arsenal"
-    },
-    {
-      "id": "99fcc5083c",
-      "titolo": "Il Manchester City deve fare i conti con CINQUE timori per infortuni negli ultimi istanti della vittoria contro l'Ipswich, mentre Enzo Maresca fornisce aggiornamenti su Erling Haaland dopo che la stella è zoppicata nel tunnel",
-      "url": "https://www.dailymail.com/sport/football/article-16217291/Man-City-injury-scares-Ipswich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN: Il City li valuterà in vista della sfida di Champions League contro l'AEK Atene all'Etihad Stadium martedì prima di recarsi in casa dell'Aston Villa il prossimo fine settimana.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -800,
-      "pubblicato": "2026-10-17T19:22:00+00:00",
-      "squadra": "Man City"
     },
     {
       "id": "721036c996",
@@ -1290,27 +1344,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "3d2411c3fc",
-      "titolo": "Un super Monza rifila al Cagliari più gol di quelli incassati finora: finisce 4-0 al Brianteo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/super-monza-rifila-cagliari-gol-incassati-finora-finisce-4-0-brianteo-2285094",
-      "estratto": "Grande prova di forza del Monza di Ivan Juric, che davanti al proprio pubblico supera il Cagliari con un netto 4-0.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -880,
-      "pubblicato": "2026-10-19T18:22:00+00:00",
-      "squadra": "Monza"
-    },
-    {
-      "id": "2d95334d18",
-      "titolo": "Riserve a chi? Così la 'seconda Roma' fa il gioco di Gasperini: non solo Lulli e Castro",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/19-151997786/riserve_a_chi_cos_la_seconda_roma_fa_il_gioco_di_gasperini_non_solo_lulli_e_castro/",
-      "estratto": "I giocatori che sanno attendere la propria occasione per dimostrare di valere sono alla base del vincente gruppo giallorosso",
-      "fonte": "Tuttosport",
+      "id": "99fe88efb8",
+      "titolo": "Roma, la febbre d’Europa accende l’Olimpico: già venduti 63 mila biglietti",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/19-152006048/roma_la_febbre_deuropa_accende_lolimpico_gi_venduti_63_mila_biglietti/",
+      "estratto": "La voglia di Champions si fa sentire e accende la città: i tifosi si preparano a diventare ancora una volta il cuore pulsante della passione romanista",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -970,
-      "pubblicato": "2026-10-19T08:21:51+00:00",
+      "pubblicato": "2026-10-19T16:31:05+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1326,28 +1368,28 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "c973d69962",
-      "titolo": "L'Arsenal non sembra ancora pronto ad \"aggredire\" il titolo di Premier League come vorrebbe",
-      "url": "https://www.espn.com/soccer/story/_/id/50210987/arsenal-look-ready-attack-premier-league-title-want-yet",
-      "estratto": "I campioni in carica della Premier League dell'Arsenal hanno offerto una prestazione offensiva opaca contro il Nottingham Forest, ma forse va bene così.",
+      "id": "455d452b28",
+      "titolo": "Antoine Semenyo out per due mesi, il Manchester City nutre speranze per Erling Haaland",
+      "url": "https://www.espn.com/soccer/story/_/id/50217514/antoine-semenyo-two-months-man-city-hopeful-erling-haaland",
+      "estratto": "Antoine Semenyo è infortunato e dovrà affrontare un'assenza di otto settimane per il Manchester City, come confermato da Enzo Maresca.",
       "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
+      "serie": "Champions",
+      "citazione": false,
       "punteggio": -1000,
-      "pubblicato": "2026-10-18T19:48:31+00:00",
-      "squadra": "Arsenal"
+      "pubblicato": "2026-10-19T12:43:50+00:00",
+      "squadra": "Man City"
     },
     {
-      "id": "88af372321",
-      "titolo": "Erling Haaland spaventa il Manchester City per un infortunio dopo essere stato protagonista nella vittoria contro l'Ipswich ed Enzo Maresca fa la storia mentre il club continua a vincere nonostante il verdetto di colpevolezza, scrive JACK GAUGHAN",
-      "url": "https://www.dailymail.com/sport/football/article-16214341/Man-City-3-2-Ipswich-Premier-League-2025-26-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN ALL'ETIHAD: Sei punti separano la capolista e l'Arsenal prima che i campioni vadano a fare visita al Nottingham Forest domenica, con un margine maggiore su Liverpool e Chelsea.",
+      "id": "1c25c92e4d",
+      "titolo": "Mikel Arteta elogia la resilienza dell'Arsenal e la capacità di 'soffrire' nella sofferta vittoria sul campo del Nottingham Forest, ma ammette l'errore tattico; il tecnico dei Gunners lancia poi la sfida a uno 'speciale' Noni Madueke dopo il suo ingresso decisivo",
+      "url": "https://www.dailymail.com/sport/football/article-16219061/Mikel-Arteta-hails-Arsenals-resilience-ability-suffer-gritty-victory-Nottingham-Forest-makes-tactical-admission-Gunners-boss-lays-challenge-special-Noni-Madueke-matchwinning-cameo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ISAAN KHAN AL CITY GROUND: L'Arsenal ha dominato il possesso palla senza pungere nei pressi dell'area di rigore, prima che quattro cambi nella ripresa, tra cui Madueke, contribuissero a invertire l'inerzia del match.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1000,
-      "pubblicato": "2026-10-17T17:12:41+00:00",
-      "squadra": "Man City"
+      "pubblicato": "2026-10-18T21:30:46+00:00",
+      "squadra": "Arsenal"
     },
     {
       "id": "a376ba30fd",
@@ -1362,16 +1404,28 @@
       "squadra": "Juventus"
     },
     {
-      "id": "c739ccd9ef",
-      "titolo": "Peter Schmeichel spiega l'intervista 'maldestra' di Lisandro Martinez dopo che i tifosi del Manchester United hanno sostenuto che abbia 'cercato di sviare la conversazione' sulle 'buone notizie' dopo l'esplosivo sfogo dell'argentino",
-      "url": "https://www.dailymail.com/sport/football/article-16215661/Peter-Schmeichel-Lisandro-Martinez-interview-Man-United-explosive-outburst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Schmeichel ha rivelato che non avrebbe dovuto intervistare Martinez nel post-partita e che il difensore gli era stato presentato pochi istanti dopo aver rilasciato le sue dichiarazioni esplosive.",
+      "id": "53e94210f5",
+      "titolo": "Dopo quasi sette anni da leader indiscusso del Man United, si avvicina il momento in cui Bruno Fernandes dovrà cedere lo scettro? La sua prestazione contro il Leeds è lo specchio della sua stagione, scrive CHRIS WHEELER",
+      "url": "https://www.dailymail.com/sport/football/article-16214367/bruno-fernandes-manchester-united.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Un tempo chiunque avrebbe scommesso sull'ultima parola di Bruno a Elland Road. Ma non è andata così, proprio come non è riuscito a incidere nella maggior parte delle 10 partite giocate finora dallo United in questa stagione.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1050,
-      "pubblicato": "2026-10-16T20:03:10+00:00",
+      "punteggio": -1080,
+      "pubblicato": "2026-10-19T16:05:27+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "2d95334d18",
+      "titolo": "Riserve a chi? Così la 'seconda Roma' fa il gioco di Gasperini: non solo Lulli e Castro",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/19-151997786/riserve_a_chi_cos_la_seconda_roma_fa_il_gioco_di_gasperini_non_solo_lulli_e_castro/",
+      "estratto": "I giocatori che sanno attendere la propria occasione per dimostrare di valere sono alla base del vincente gruppo giallorosso",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1170,
+      "pubblicato": "2026-10-19T08:21:51+00:00",
+      "squadra": "AS Roma"
     },
     {
       "id": "f1896a1e16",
@@ -1386,6 +1440,54 @@
       "squadra": "Barcelona"
     },
     {
+      "id": "c973d69962",
+      "titolo": "L'Arsenal non sembra ancora pronto ad \"aggredire\" il titolo di Premier League come vorrebbe",
+      "url": "https://www.espn.com/soccer/story/_/id/50210987/arsenal-look-ready-attack-premier-league-title-want-yet",
+      "estratto": "I campioni in carica della Premier League dell'Arsenal hanno offerto una prestazione offensiva opaca contro il Nottingham Forest, ma forse va bene così.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -1200,
+      "pubblicato": "2026-10-18T19:48:31+00:00",
+      "squadra": "Arsenal"
+    },
+    {
+      "id": "99fcc5083c",
+      "titolo": "Il Manchester City deve fare i conti con CINQUE timori per infortuni negli ultimi istanti della vittoria contro l'Ipswich, mentre Enzo Maresca fornisce aggiornamenti su Erling Haaland dopo che la stella è zoppicata nel tunnel",
+      "url": "https://www.dailymail.com/sport/football/article-16217291/Man-City-injury-scares-Ipswich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JACK GAUGHAN: Il City li valuterà in vista della sfida di Champions League contro l'AEK Atene all'Etihad Stadium martedì prima di recarsi in casa dell'Aston Villa il prossimo fine settimana.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1200,
+      "pubblicato": "2026-10-17T19:22:00+00:00",
+      "squadra": "Man City"
+    },
+    {
+      "id": "417d624a88",
+      "titolo": "Next Gen, finalmente gioia Juve! Durmisi due volte, il Renate si arrende",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151998323/diretta_juve_next_gen-renate_formazioni_e_risultato_in_tempo_reale/",
+      "estratto": "La squadra di Brambilla torna a vincere: avversari in 9 uomini nel finale. Tutte le emozioni della partita",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1250,
+      "pubblicato": "2026-10-19T20:23:00+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "91b19c2799",
+      "titolo": "Chi potrebbe sostituire Carrick dopo il peggior avvio del Manchester United dal 1986?",
+      "url": "https://www.espn.com/soccer/story/_/id/50216946/who-replace-michael-carrick-manchester-united-manager",
+      "estratto": "Il Manchester United ha faticato in questa stagione, ma quali allenatori potrebbero subentrare per sostituire Michael Carrick qualora il club decidesse di esonerarlo?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1280,
+      "pubblicato": "2026-10-19T13:59:10+00:00",
+      "squadra": "Man United"
+    },
+    {
       "id": "fae90d0f12",
       "titolo": "Se un tempo avevamo gli Invincibili di Arsene Wenger, ora dobbiamo sopportare gli Inguardabili di Mikel Arteta. L'Arsenal avrà pure portato a casa il risultato col Nottingham Forest, ma è stato con le unghie e senza alcuna classe, scrive TOM COLLOMOSSE",
       "url": "https://www.dailymail.com/sport/football/article-16214375/Nottingham-Forest-0-1-Arsenal-Noni-Madueke-Premier-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1393,44 +1495,8 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1200,
-      "pubblicato": "2026-10-18T19:09:28+00:00",
-      "squadra": "Arsenal"
-    },
-    {
-      "id": "e560b6b803",
-      "titolo": "Comolli in Serie B, il ritorno dell'ex ad Juve nel calcio italiano: il comunicato del Pisa",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/19-152005304/comolli_in_serie_b_il_ritorno_dell_ex_ad_juve_nel_calcio_italiano_il_comunicato_del_pisa/",
-      "estratto": "Il dirigente francese, dopo l'esperienza in bianconero, resta in Italia ma passa in cadetteria",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1250,
-      "pubblicato": "2026-10-19T15:56:16+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "53e94210f5",
-      "titolo": "Dopo quasi sette anni da leader indiscusso del Man United, si avvicina il momento in cui Bruno Fernandes dovrà cedere lo scettro? La sua prestazione contro il Leeds è lo specchio della sua stagione, scrive CHRIS WHEELER",
-      "url": "https://www.dailymail.com/sport/football/article-16214367/bruno-fernandes-manchester-united.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Un tempo chiunque avrebbe scommesso sull'ultima parola di Bruno a Elland Road. Ma non è andata così, proprio come non è riuscito a incidere nella maggior parte delle 10 partite giocate finora dallo United in questa stagione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1280,
-      "pubblicato": "2026-10-19T16:05:27+00:00",
-      "squadra": "Man United"
-    },
-    {
-      "id": "157e2865f2",
-      "titolo": "Calciomercato, indiscrezioni e notizie: Viktor Gyökeres potrebbe lasciare l'Arsenal a gennaio?",
-      "url": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
-      "estratto": "L'attaccante dell'Arsenal Viktor Gyökeres potrebbe lasciare il club a gennaio, mentre il Manchester United cerca rinforzi per la finestra invernale. Le ultime indiscrezioni su Transfer Talk.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
       "punteggio": -1400,
-      "pubblicato": "2026-10-18T18:55:48+00:00",
+      "pubblicato": "2026-10-18T19:09:28+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1446,28 +1512,52 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "b0bfffb9a5",
-      "titolo": "Comolli riparte dalla Serie B: l'ex Juve è il nuovo presidente e amministratore delegato",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/pisa/2026/10/19-152005306/comolli_riparte_dalla_serie_b_l_ex_juve_il_nuovo_presidente_e_amministratore_delegato/",
-      "estratto": "Saluta la famiglia Corrado: il dirigente francese entrerà a far parte del Consiglio di Amministrazione",
-      "fonte": "Corriere dello Sport",
+      "id": "88af372321",
+      "titolo": "Erling Haaland spaventa il Manchester City per un infortunio dopo essere stato protagonista nella vittoria contro l'Ipswich ed Enzo Maresca fa la storia mentre il club continua a vincere nonostante il verdetto di colpevolezza, scrive JACK GAUGHAN",
+      "url": "https://www.dailymail.com/sport/football/article-16214341/Man-City-3-2-Ipswich-Premier-League-2025-26-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JACK GAUGHAN ALL'ETIHAD: Sei punti separano la capolista e l'Arsenal prima che i campioni vadano a fare visita al Nottingham Forest domenica, con un margine maggiore su Liverpool e Chelsea.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1400,
+      "pubblicato": "2026-10-17T17:12:41+00:00",
+      "squadra": "Man City"
+    },
+    {
+      "id": "25afdfd42e",
+      "titolo": "Quando il calcio incontra il cinema: Juve-Lazio e le lezioni di romanesco di Rocco Schiavone",
+      "url": "https://www.tuttomercatoweb.com/serie-a/calcio-incontra-cinema-juve-lazio-lezioni-romanesco-rocco-schiavone-2285140",
+      "estratto": "La Lazio vola in Serie A col successo sul campo della Juventus.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1450,
-      "pubblicato": "2026-10-19T15:55:52+00:00",
+      "pubblicato": "2026-10-19T20:08:07+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "91b19c2799",
-      "titolo": "Chi potrebbe sostituire Carrick dopo il peggior avvio del Manchester United dal 1986?",
-      "url": "https://www.espn.com/soccer/story/_/id/50216946/who-replace-michael-carrick-manchester-united-manager",
-      "estratto": "Il Manchester United ha faticato in questa stagione, ma quali allenatori potrebbero subentrare per sostituire Michael Carrick qualora il club decidesse di esonerarlo?",
-      "fonte": "ESPN",
+      "id": "ca3ff9ec51",
+      "titolo": "Non sorprende l'enorme hype attorno a Carlos Baleba: un Man United disperato sa che il suo acquisto da 70 milioni di sterline DEVE funzionare... e il Man City ha ceduto il portiere sbagliato in estate? IAN LADYMAN per My Football Weekend",
+      "url": "https://www.dailymail.com/sport/football/article-16219871/No-wonder-frantic-hype-Carlos-Baleba-desperate-Man-United-know-70m-work-did-Man-City-sell-wrong-goalkeeper-summer-IAN-LADYMAN-Football-Weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nel calcio la disperazione può portare all'esagerazione. Ci si aggrappa a qualsiasi cosa e si traggono conclusioni affrettate. Ecco perché dentro e attorno al Manchester United si sta facendo così tanto clamore per il nuovo centrocampista Carlos Bale",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1480,
-      "pubblicato": "2026-10-19T13:59:10+00:00",
+      "pubblicato": "2026-10-19T12:09:22+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "157e2865f2",
+      "titolo": "Calciomercato, indiscrezioni e notizie: Viktor Gyökeres potrebbe lasciare l'Arsenal a gennaio?",
+      "url": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
+      "estratto": "L'attaccante dell'Arsenal Viktor Gyökeres potrebbe lasciare il club a gennaio, mentre il Manchester United cerca rinforzi per la finestra invernale. Le ultime indiscrezioni su Transfer Talk.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1600,
+      "pubblicato": "2026-10-18T18:55:48+00:00",
+      "squadra": "Arsenal"
     },
     {
       "id": "ff64a85a88",
@@ -1482,40 +1572,40 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "be528c99bb",
-      "titolo": "Svelato: I piani dell'Arsenal per rinnovare il centro d'allenamento di London Colney nella corsa agli armamenti con le rivali delle Big Six, dalle nuove palestre a un 'hub' all'avanguardia e il motivo per cui volevano un 'mini-stadio' per le giovanili",
-      "url": "https://www.dailymail.com/sport/football/article-16215225/arsenal-london-colney-training-ground-revamp.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dalle operazioni commerciali al reclutamento, l'Arsenal è irremovibile nel rinnovare tutto il possibile per capitalizzare sul primo titolo di Premier League in 22 anni e consolidare il proprio posto nell'élite europea.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1600,
-      "pubblicato": "2026-10-17T15:20:14+00:00",
-      "squadra": "Arsenal"
-    },
-    {
-      "id": "7cf1dd05ee",
-      "titolo": "Lussazione alla spalla per Conceiçao: quante partite salta con la Juve",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/19-152001764/lussazione_alla_spalla_per_conceiao_quante_partite_salta_con_la_juve/",
-      "estratto": "Il giocatore ha accusato il problema negli ultimi minuti della sfida contro la Lazio. Spalletti dovrà fare a meno di lui per le prossime partite",
-      "fonte": "Corriere dello Sport",
+      "id": "e560b6b803",
+      "titolo": "Comolli in Serie B, il ritorno dell'ex ad Juve nel calcio italiano: il comunicato del Pisa",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/19-152005304/comolli_in_serie_b_il_ritorno_dell_ex_ad_juve_nel_calcio_italiano_il_comunicato_del_pisa/",
+      "estratto": "Il dirigente francese, dopo l'esperienza in bianconero, resta in Italia ma passa in cadetteria",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1650,
-      "pubblicato": "2026-10-19T12:08:58+00:00",
+      "pubblicato": "2026-10-19T15:56:16+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "ca3ff9ec51",
-      "titolo": "Non sorprende l'enorme hype attorno a Carlos Baleba: un Man United disperato sa che il suo acquisto da 70 milioni di sterline DEVE funzionare... e il Man City ha ceduto il portiere sbagliato in estate? IAN LADYMAN per My Football Weekend",
-      "url": "https://www.dailymail.com/sport/football/article-16219871/No-wonder-frantic-hype-Carlos-Baleba-desperate-Man-United-know-70m-work-did-Man-City-sell-wrong-goalkeeper-summer-IAN-LADYMAN-Football-Weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Nel calcio la disperazione può portare all'esagerazione. Ci si aggrappa a qualsiasi cosa e si traggono conclusioni affrettate. Ecco perché dentro e attorno al Manchester United si sta facendo così tanto clamore per il nuovo centrocampista Carlos Bale",
+      "id": "f0f413ea72",
+      "titolo": "Il post 'f***ing disgrace' di Amad Diallo era rivolto al compagno Lisandro Martinez, suggerisce Gary Neville: stelle del Man United ai ferri corti nello spogliatoio tra scintille e accuse reciproche",
+      "url": "https://www.dailymail.com/sport/football/article-16219823/Amad-Diallos-f-ing-disgrace-post-targeted-team-mate-Lisandro-Martinez-suggests-Gary-Neville-Man-United-stars-launching-dressing-room-mutiny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Gary Neville è categorico: i giocatori del Manchester United se le sono 'dette di tutti i colori' nello spogliatoio dopo il durissimo sfogo di Lisandro Martinez contro i vertici del club.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1680,
-      "pubblicato": "2026-10-19T12:09:22+00:00",
+      "pubblicato": "2026-10-19T08:21:19+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "997a04ae15",
+      "titolo": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto",
+      "url": "https://www.espn.com/video/clip/_/id/50211677/arsenal-fans-frustrated-games-more-difficult-be",
+      "estratto": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1800,
+      "pubblicato": "2026-10-18T18:01:27+00:00",
+      "squadra": "Arsenal"
     },
     {
       "id": "55b6825f74",
@@ -1530,39 +1620,27 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "f9a2ae24a9",
-      "titolo": "Allenamenti sempre stimolanti, trovarsi un hobby... e sapere quando lasciare partire i top player: cosa può imparare Mikel Arteta da grandi come Sir Alex Ferguson, Bob Paisley e Graham Taylor nel tentativo di tagliare il traguardo dei 10 anni e costruire una dinastia all'Arsenal",
-      "url": "https://www.dailymail.com/sport/football/article-16211115/Mikel-Arteta-Arsenal-10-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "IAN HERBERT: Una conversazione tra Sir Alex Ferguson e Rio Ferdinand di quasi 20 anni fa aiuta a spiegare la longevità e il successo dell'ex manager del Manchester United.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1800,
-      "pubblicato": "2026-10-17T01:00:46+00:00",
-      "squadra": "Arsenal"
-    },
-    {
-      "id": "91b900950e",
-      "titolo": "Spalletti pronto alla rivoluzione: chi avrà l'occasione per ribaltare le gerarchie in Juve-Rennes",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997598/spalletti_pronto_alla_rivoluzione_chi_avr_l_occasione_per_ribaltare_le_gerarchie_in_juve-rennes/",
-      "estratto": "Tanti i cambi previsti per la sfida di Europa League contro i francesi: l'allenatore vuole scuotere la squadra dopo il ko in campionato contro la Lazio",
-      "fonte": "Tuttosport",
+      "id": "b0bfffb9a5",
+      "titolo": "Comolli riparte dalla Serie B: l'ex Juve è il nuovo presidente e amministratore delegato",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/pisa/2026/10/19-152005306/comolli_riparte_dalla_serie_b_l_ex_juve_il_nuovo_presidente_e_amministratore_delegato/",
+      "estratto": "Saluta la famiglia Corrado: il dirigente francese entrerà a far parte del Consiglio di Amministrazione",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1850,
-      "pubblicato": "2026-10-19T08:03:23+00:00",
+      "pubblicato": "2026-10-19T15:55:52+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "f0f413ea72",
-      "titolo": "Il post 'f***ing disgrace' di Amad Diallo era rivolto al compagno Lisandro Martinez, suggerisce Gary Neville: stelle del Man United ai ferri corti nello spogliatoio tra scintille e accuse reciproche",
-      "url": "https://www.dailymail.com/sport/football/article-16219823/Amad-Diallos-f-ing-disgrace-post-targeted-team-mate-Lisandro-Martinez-suggests-Gary-Neville-Man-United-stars-launching-dressing-room-mutiny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Gary Neville è categorico: i giocatori del Manchester United se le sono 'dette di tutti i colori' nello spogliatoio dopo il durissimo sfogo di Lisandro Martinez contro i vertici del club.",
-      "fonte": "Daily Mail",
+      "id": "f7793acfba",
+      "titolo": "Harry Maguire: il Manchester United ha \"voltato pagina\" dopo lo sfogo di Lisandro Martínez",
+      "url": "https://www.espn.com/soccer/story/_/id/50216595/harry-maguire-man-united-moved-lisandro-martinez-rant",
+      "estratto": "Harry Maguire ha assicurato che lo spogliatoio del Manchester United si è lasciato alle spalle la sfuriata di Lisandro Martínez.",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": false,
+      "citazione": true,
       "punteggio": -1880,
-      "pubblicato": "2026-10-19T08:21:19+00:00",
+      "pubblicato": "2026-10-19T07:41:20+00:00",
       "squadra": "Man United"
     },
     {
@@ -1578,39 +1656,27 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "954c3b58a5",
-      "titolo": "La notte di fuoco della Juve, botta e risposta davanti alle telecamere tra Bremer e Spalletti: cosa è successo dopo la Lazio",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/19-151999265/la_notte_di_fuoco_della_juve_botta_e_risposta_davanti_alle_telecamere_tra_bremer_e_spalletti_cosa_successo_dopo_la_lazio/",
-      "estratto": "Il difensore attacca i compagni e l'allenatore non ci sta e lo dice pubblicamente: tutti i dettagli",
+      "id": "be528c99bb",
+      "titolo": "Svelato: I piani dell'Arsenal per rinnovare il centro d'allenamento di London Colney nella corsa agli armamenti con le rivali delle Big Six, dalle nuove palestre a un 'hub' all'avanguardia e il motivo per cui volevano un 'mini-stadio' per le giovanili",
+      "url": "https://www.dailymail.com/sport/football/article-16215225/arsenal-london-colney-training-ground-revamp.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dalle operazioni commerciali al reclutamento, l'Arsenal è irremovibile nel rinnovare tutto il possibile per capitalizzare sul primo titolo di Premier League in 22 anni e consolidare il proprio posto nell'élite europea.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2000,
+      "pubblicato": "2026-10-17T15:20:14+00:00",
+      "squadra": "Arsenal"
+    },
+    {
+      "id": "7cf1dd05ee",
+      "titolo": "Lussazione alla spalla per Conceiçao: quante partite salta con la Juve",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/19-152001764/lussazione_alla_spalla_per_conceiao_quante_partite_salta_con_la_juve/",
+      "estratto": "Il giocatore ha accusato il problema negli ultimi minuti della sfida contro la Lazio. Spalletti dovrà fare a meno di lui per le prossime partite",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2050,
-      "pubblicato": "2026-10-19T08:00:10+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "f7793acfba",
-      "titolo": "Harry Maguire: il Manchester United ha \"voltato pagina\" dopo lo sfogo di Lisandro Martínez",
-      "url": "https://www.espn.com/soccer/story/_/id/50216595/harry-maguire-man-united-moved-lisandro-martinez-rant",
-      "estratto": "Harry Maguire ha assicurato che lo spogliatoio del Manchester United si è lasciato alle spalle la sfuriata di Lisandro Martínez.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -2080,
-      "pubblicato": "2026-10-19T07:41:20+00:00",
-      "squadra": "Man United"
-    },
-    {
-      "id": "7a568ca77a",
-      "titolo": "Rissa in Juve-Lazio, botte in tribuna: intervengono anche McKennie e Douglas Luiz. La ricostruzione",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997687/rissa_in_juve-lazio_botte_in_tribuna_intervengono_anche_mckennie_e_douglas_luiz_la_ricostruzione/",
-      "estratto": "Gioco fermo per qualche minuto perché l'alterco tra i tifosi costringe i giocatori bianconeri a guardare e provare a placare gli animi molto accesi",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -2250,
-      "pubblicato": "2026-10-19T06:38:22+00:00",
+      "pubblicato": "2026-10-19T12:08:58+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1621,9 +1687,33 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2280,
+      "punteggio": -2080,
       "pubblicato": "2026-10-19T07:07:53+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "f9a2ae24a9",
+      "titolo": "Allenamenti sempre stimolanti, trovarsi un hobby... e sapere quando lasciare partire i top player: cosa può imparare Mikel Arteta da grandi come Sir Alex Ferguson, Bob Paisley e Graham Taylor nel tentativo di tagliare il traguardo dei 10 anni e costruire una dinastia all'Arsenal",
+      "url": "https://www.dailymail.com/sport/football/article-16211115/Mikel-Arteta-Arsenal-10-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "IAN HERBERT: Una conversazione tra Sir Alex Ferguson e Rio Ferdinand di quasi 20 anni fa aiuta a spiegare la longevità e il successo dell'ex manager del Manchester United.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2200,
+      "pubblicato": "2026-10-17T01:00:46+00:00",
+      "squadra": "Arsenal"
+    },
+    {
+      "id": "91b900950e",
+      "titolo": "Spalletti pronto alla rivoluzione: chi avrà l'occasione per ribaltare le gerarchie in Juve-Rennes",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997598/spalletti_pronto_alla_rivoluzione_chi_avr_l_occasione_per_ribaltare_le_gerarchie_in_juve-rennes/",
+      "estratto": "Tanti i cambi previsti per la sfida di Europa League contro i francesi: l'allenatore vuole scuotere la squadra dopo il ko in campionato contro la Lazio",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -2250,
+      "pubblicato": "2026-10-19T08:03:23+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "9f90c1ba4f",
@@ -1633,9 +1723,21 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2480,
+      "punteggio": -2280,
       "pubblicato": "2026-10-19T01:59:24+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "7a568ca77a",
+      "titolo": "Rissa in Juve-Lazio, botte in tribuna: intervengono anche McKennie e Douglas Luiz. La ricostruzione",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997687/rissa_in_juve-lazio_botte_in_tribuna_intervengono_anche_mckennie_e_douglas_luiz_la_ricostruzione/",
+      "estratto": "Gioco fermo per qualche minuto perché l'alterco tra i tifosi costringe i giocatori bianconeri a guardare e provare a placare gli animi molto accesi",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -2450,
+      "pubblicato": "2026-10-19T06:38:22+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "338f545370",
@@ -1645,7 +1747,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2680,
+      "punteggio": -2480,
       "pubblicato": "2026-10-18T18:01:56+00:00",
       "squadra": "Man United"
     },
@@ -1657,7 +1759,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2880,
+      "punteggio": -2680,
       "pubblicato": "2026-10-18T16:44:58+00:00",
       "squadra": "Man United"
     },
@@ -1669,7 +1771,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3080,
+      "punteggio": -2880,
       "pubblicato": "2026-10-17T21:30:52+00:00",
       "squadra": "Man United"
     },
@@ -1681,7 +1783,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3280,
+      "punteggio": -3080,
       "pubblicato": "2026-10-17T16:57:03+00:00",
       "squadra": "Man United"
     },
@@ -1693,7 +1795,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3480,
+      "punteggio": -3280,
       "pubblicato": "2026-10-16T22:34:39+00:00",
       "squadra": "Man United"
     }
