@@ -381,6 +381,9 @@ def da_giornata(oggi=None, testo=None, solo_scheda=()) -> dict:
 # =====================================================================================================================
 TOP5 = [("ita.1", "Serie A"), ("eng.1", "Premier League"), ("esp.1", "LaLiga"), ("ger.1", "Bundesliga"), ("fra.1", "Ligue 1")]
 COPERTINA_PERSONA = "Lamine Yamal"   # la copertina del riepilogo ha il volto di un giocatore noto
+ALIAS = {"barcelona": {"barcellona"}, "lyon": {"lione"}, "bayern": {"bayern monaco", "bayern munich"}, "man city": {"manchester city"}, "manchester city": {"man city"},
+         "inter": {"internazionale"}, "psg": {"paris saint germain", "paris sg"}, "napoli": {"napoli"}, "dortmund": {"borussia dortmund"}, "atletico": {"atletico madrid"},
+         "atletico madrid": {"atletico"}, "marseille": {"marsiglia"}, "nice": {"nizza"}}
 ORD = ("prima seconda terza quarta quinta sesta settima ottava nona decima undicesima dodicesima tredicesima quattordicesima quindicesima "
        "sedicesima diciassettesima diciottesima diciannovesima ventesima").split()
 
@@ -471,6 +474,7 @@ def prompt_oggi(tutte, cl, etichetta="di oggi", errori=None):
         "- Usa SOLO i dati qui sotto. Mai inventare motivi, giudizi sui giocatori, infortuni, precedenti, obiettivi di stagione, punti.\n"
         "- Ogni risultato in cifre deve essere IDENTICO a uno dei risultati qui sotto. Le posizioni si dicono solo come nei CAMBI DI POSIZIONE (es. «dalla nona alla sesta posizione»), scritte in lettere.\n"
         "- Per ogni campionato il commento (16-28 parole) PARTE dalla capolista (la squadra prima in classifica, con i suoi punti se vuoi) e poi racconta 1 o 2 cambi di posizione (i più grandi della lista); se non ci sono cambi, di' solo della capolista e di chi la insegue. Puoi usare «salta», «scende», «scivola», «risale», «balza»: l'enfasi è permessa perché sono dati.\n"
+        "- Scrivi i nomi delle squadre ESATTAMENTE come nei dati qui sotto (es. «Barcelona», «Lyon», «Bayern»). Non usare le parole «scudetto», «titolo», «salvezza», «obiettivo»: di' solo chi è primo, i punti e le posizioni.\n"
         "- Parole SEMPLICI e dirette come al bar. VIETATI gergo e metafore: «a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show».\n"
         "- Niente quote, pronostici, scommesse, premi, soldi. Nessun insulto. Nessuna colpa senza fonte.\n"
         "- VIETATO attribuire alle squadre obiettivi, bisogni o stati d'animo («a caccia di punti», «in cerca di riscatto», «vuole», «sogna», «crisi», «svolta»): di' SOLO risultati, punti e posizioni, che sono nei dati. Non spiegare PERCHÉ una squadra ha vinto o perso.\n"
@@ -499,7 +503,8 @@ def controlla_oggi(spec, tutte, cl):
         if not 10 <= n <= 34:
             errori.append(f"commento «{c['lega']}»: {n} parole, ne servono 16-28")
         capolista = c["classifica_dati"]["righe"][0]["nome"]
-        if _norm(capolista) not in _norm(t):
+        varianti = {_norm(capolista)} | ALIAS.get(_norm(capolista), set())   # Barcelona = Barcellona, Lyon = Lione…
+        if not any(v in _norm(t) for v in varianti):
             errori.append(f"il commento «{c['lega']}» deve nominare la capolista ({capolista})")
         testi["c_" + c["lega"]] = t
     tutto = json.dumps(spec, ensure_ascii=False)
