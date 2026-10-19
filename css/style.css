@@ -2,19 +2,19 @@
 :root {
   --scuro: #14171c;
   --accento: #2bd96b;
-  --accento-testo: #0f8f40;
+  --accento-testo: #0a6f31;
   --bg: #f1f4f2;
   --card: #ffffff;
   --testo: #14171c;
-  --tenue: #5b6670;
+  --tenue: #46505a;
   --linea: #dde3df;
   --live: #e5384b;
   --zona-ok: #2bd96b;
   --raggio: 12px;
   --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-titoli: "Oswald", "Arial Narrow", Impact, sans-serif;
-  --erba-1: #e8f3ec;
-  --erba-2: #dfeee4;
+  --erba-1: #eef6f0;
+  --erba-2: #e6f1ea;
   color-scheme: light;
 }
 :root[data-tema="scuro"] {
