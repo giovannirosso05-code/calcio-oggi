@@ -153,10 +153,10 @@ class Banca:
             parole.add("juve")
         return parole
 
-    def candidati_partita(self, squadre, marcatore=""):
+    def candidati_partita(self, squadre, marcatore="", solo_marcatore=False):
         """Foto di articoli il cui TITOLO parla di quella partita: ha entrambe le squadre, oppure il cognome del marcatore e almeno una delle due squadre.
         Così non si prende la foto di un articolo che nomina solo il Milan ma parla d'altro."""
-        chiave = ("partita", tuple(squadre), marcatore)
+        chiave = ("partita", tuple(squadre), marcatore, solo_marcatore)
         if chiave in self._cache:
             return self._cache[chiave]
         k = [self._chiavi(s) for s in squadre]
@@ -165,9 +165,9 @@ class Banca:
         for a in self.articoli:
             t = set(_parole(a.get("titolo", "")))
             ha = [bool(x & t) for x in k]
-            if (all(ha) and len(ha) >= 2) or (cognome and cognome in t and any(ha)):
-                buoni.append(a)
-        buoni.sort(key=lambda a: a.get("pubblicato", ""), reverse=True)
+            if (not solo_marcatore and all(ha) and len(ha) >= 2) or (cognome and cognome in t and any(ha)):
+                buoni.append((all(ha), a))
+        buoni = [a for _, a in sorted(buoni, key=lambda x: (x[0], x[1].get("pubblicato", "")), reverse=True)]
         out = []
         for a in buoni[:4]:
             for u in immagini_pagina(a["url"], 3):

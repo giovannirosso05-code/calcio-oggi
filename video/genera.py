@@ -10,6 +10,7 @@ import asyncio
 import html
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -140,6 +141,10 @@ def main():
         scrivi(f"⚠️ {errore}")
         print("video non fatto:", errore)
         return
+    if cosa == "riepilogo":   # il testo letto dalla voce, per controllarlo (e per poterlo correggere e rifare il video con quel testo)
+        testo = "\n".join(re.sub(r"[*\[\]]", "", s["testo"]) for s in spec["scene"]) + "\n" + spec["finale"].get("domanda", "")
+        print("[testo del video]\n" + testo, flush=True)
+        scrivi("📝 Testo del video (controllalo prima di postare):\n\n" + testo)
     # prima il foglio di controllo con le foto usate, poi copertina e video, poi la didascalia da copiare
     scrivi("🔎 Controllo foto (guardale prima di postare):\n" + "\n".join(risultato["foglio"]))
     cop_ia = copertina_ia(spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_ia.png")

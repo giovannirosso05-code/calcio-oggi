@@ -22,6 +22,8 @@ import sys
 import tempfile
 from pathlib import Path
 
+from PIL import Image
+
 from video.immagini import componi
 from video.voce import crea_audio_con_tempi
 
@@ -41,7 +43,7 @@ class NessunaFoto(Exception):
 
 
 # Come la voce deve dire alcuni nomi e sigle (i sottotitoli restano scritti giusti). Si allunga col tempo.
-PRONUNCIA = {"VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "Kvaratskhelia": "Kvaratskèlia", "Dumfries": "Dumfrìs"}
+PRONUNCIA = {"Gonçalo": "Gonsàlo", "Como": "Còmo", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "Kvaratskhelia": "Kvaratskèlia", "Dumfries": "Dumfrìs"}
 
 
 def pronuncia(parola):
@@ -145,7 +147,7 @@ def pagina(spec, scena, foto_b64, credito, avanzamento, sub=None, nome=False, ho
 .strip{{position:absolute;left:40px;top:300px;max-width:900px;background:{COL};color:{TXT};font:700 44px/1.1 Oswald;text-transform:uppercase;padding:10px 18px}}
 .nome{{position:absolute;left:60px;top:{spec.get('nome_top', 930)}px;background:#000;font:700 38px Oswald;text-transform:uppercase;letter-spacing:.04em;padding:6px 18px}}
 .sub{{position:absolute;left:90px;width:900px;top:{scena.get('sub_top', spec.get('sub_top', 1180))}px;text-align:center;font:700 62px/1.18 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill;text-shadow:0 4px 18px rgba(0,0,0,.7)}}
-.sub .g{{color:{GIALLO}}} .sub .s{{color:{NOM}}}
+.sub .g{{color:{NOM}}} .sub .s{{color:{NOM}}}
 .cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.75);max-width:600px;text-align:right}}
 </style><div class=bg></div><div class=velo></div><div class=prog></div>"""
     etichetta = esc(spec.get("etichetta", "Ultim'ora"))
@@ -193,7 +195,7 @@ def pagina_tabella(spec, avanzamento, sub=None):
 .r img,.r i{{flex:none;width:{logo}px;height:{logo}px;object-fit:contain;background:#f1f4f2;border-radius:50%;padding:{max(2, int(riga_h * 0.07))}px}}
 .r b{{flex:none;width:190px;text-align:center;font-size:{int(f * 1.15)}px;color:{GIALLO}}}
 .sub{{position:absolute;left:90px;width:900px;top:1690px;text-align:center;font:700 58px/1.15 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill}}
-.sub .g{{color:{GIALLO}}} .sub .s{{color:{NOM}}}
+.sub .g{{color:{NOM}}} .sub .s{{color:{NOM}}}
 .cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.7)}}
 </style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO_Q)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
 <div class=tit>Risultati della giornata<small>{esc(t["data"])}</small></div><div class=tab>{corpo}</div>{sub_html}<div class=cred>Dati: {esc(spec["fonte"])}</div>"""
@@ -316,7 +318,7 @@ def pagina_classifica(spec, avanzamento, sub=None):
 .r .g{{width:120px;text-align:center;color:rgba(255,255,255,.8)}} .r b{{width:120px;text-align:center;color:{GIALLO};font-size:{int(f * 1.15)}px}}
 .nota{{position:absolute;left:40px;top:{345 + 44 + len(c["righe"]) * riga_h + 18}px;font:500 24px Inter;color:rgba(255,255,255,.65)}}
 .sub{{position:absolute;left:90px;width:900px;top:1690px;text-align:center;font:700 58px/1.15 Oswald;text-transform:uppercase;word-spacing:.18em;-webkit-text-stroke:2px #000;paint-order:stroke fill}}
-.sub .g{{color:{GIALLO}}} .sub .s{{color:{NOM}}}
+.sub .g{{color:{NOM}}} .sub .s{{color:{NOM}}}
 .cred{{position:absolute;right:40px;bottom:36px;font:500 20px Inter;color:rgba(255,255,255,.7)}}
 </style><div class=prog></div><img class=logo src="data:image/png;base64,{b64(LOGO_Q)}"><div class=tag>{esc(spec.get("etichetta", "Riepilogo"))}</div>
 <div class=tit>Classifica<small style="font-size:34px;margin-left:14px;opacity:.75">Serie A</small></div>
@@ -335,7 +337,17 @@ def risolvi_foto(spec, banca):
         if s.get("tabella") or s.get("classifica"):   # le schermate coi risultati e con la classifica non hanno un'immagine loro
             scelte.append([None, False])
             continue
-        cands = banca.candidati_partita(**s["cerca"]) if s.get("cerca") else []   # prima foto di articoli sulla partita
+        cands = []
+        if s.get("persona_libera"):   # foto libera di Wikimedia di quella persona (es. l'allenatore di chi ha vinto), verificata su Wikidata
+            from video.foto import trova
+            try:
+                f = trova(s["persona_libera"])
+            except Exception:
+                f = None
+            if f:
+                cands = [{"id": "wiki:" + str(f["qid"]), "img": Image.open(f["file"]).convert("RGB"), "credito": f["credito"], "origine": f"Wikidata {f['qid']}: {s['persona_libera']}"}]
+        if not cands and s.get("cerca"):   # poi le foto di articoli che parlano di quella partita
+            cands = banca.candidati_partita(**s["cerca"])
         if not cands and s.get("tipo") != "squadra" and nome:
             cands = banca.candidati(nome, len(nome.split()) == 1)
         c = next((x for x in cands if x["id"] not in usate), None) or (cands[0] if cands else None)

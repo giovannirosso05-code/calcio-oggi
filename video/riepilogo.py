@@ -83,7 +83,7 @@ def tabella(giorno, partite):
     leghe = sorted(per_lega, key=lambda l: ORDINE.index(l) if l in ORDINE else 99)
     gruppi = []
     for l in leghe:
-        righe = [{"c": p["casa"]["breve"], "o": p["ospite"]["breve"], "gc": p["casa"]["gol"], "go": p["ospite"]["gol"],
+        righe = [{"c": vis(p["casa"]["breve"]), "o": vis(p["ospite"]["breve"]), "gc": p["casa"]["gol"], "go": p["ospite"]["gol"],
                   "lc": _logo(p["casa"].get("logo", "")), "lo": _logo(p["ospite"].get("logo", ""))} for p in per_lega[l]]
         gruppi.append({"nome": per_lega[l][0]["_lega"], "righe": righe})
     return {"data": "Serie A", "gruppi": gruppi}
@@ -108,6 +108,9 @@ def sorprese(partite, n=2):
     return [x[1:] for x in out[:n]]
 
 
+VISIBILI = {"inter milan": "Inter"}   # come si scrivono e si dicono i nomi nei video
+ALLENATORI = {"lazio": "Gennaro Gattuso", "juventus": "Luciano Spalletti"}   # per la foto del gancio: l'allenatore di chi ha vinto (solo quelli confermati dagli articoli)
+NON_SORPRESE = {"como"}   # gioca bene da tempo: non si dice che «sorprende»
 GRANDI = {"inter", "milan", "juventus", "napoli", "roma", "atalanta"}
 
 
@@ -125,7 +128,7 @@ def classifica(mancano):
     for r in _righe_classifica():
         z = (r.get("zona") or {}).get("testo", "").lower()
         zona = "champions" if "champions" in z else "europa" if ("europa" in z or "conference" in z) else "retro" if "retroc" in z else ""
-        righe.append({"pos": r["pos"], "nome": r["squadra"]["breve"], "logo": _logo(r["squadra"].get("logo", "")), "g": r["g"], "pt": r["pt"], "zona": zona, "asterisco": r["squadra"]["id"] in ancora})
+        righe.append({"pos": r["pos"], "nome": vis(r["squadra"]["breve"]), "logo": _logo(r["squadra"].get("logo", "")), "g": r["g"], "pt": r["pt"], "zona": zona, "asterisco": r["squadra"]["id"] in ancora})
     nota = "* ha ancora una partita da giocare in questa giornata" if any(x["asterisco"] for x in righe) else ""
     return {"righe": righe, "nota": nota}
 
@@ -152,16 +155,20 @@ def fatti_classifica(tutte):
     for r in righe:
         t = r["squadra"]
         f = _forma(storico, t["id"])
-        out.append(f"{r['pos']}. {t['breve']} {r['pt']} pt, {r['g']} G, ultimi risultati: {' '.join(f) or '-'}" + (" · prima vittoria della stagione (oggi)" if t["id"] in vinte_oggi and r["v"] == 1 else ""))
-    sopra = [r["squadra"]["breve"] for r in righe[:5] if not (_parole_squadra(r["squadra"]["breve"]) & GRANDI)]
-    out.append("SQUADRE SOPRA LE ATTESE (in zona alta senza essere tra le grandi: puoi dire che sorprendono): " + (", ".join(sopra) or "nessuna"))
-    seg = [r["squadra"]["breve"] for r in righe if _forma(storico, r["squadra"]["id"]) == ["P", "P"]]
+        out.append(f"{r['pos']}. {vis(t['breve'])} {r['pt']} pt, {r['g']} G, ultimi risultati: {' '.join(f) or '-'}" + (" · prima vittoria della stagione (oggi)" if t["id"] in vinte_oggi and r["v"] == 1 else ""))
+    sopra = [vis(r["squadra"]["breve"]) for r in righe[:5] if not (_parole_squadra(r["squadra"]["breve"]) & (GRANDI | NON_SORPRESE))]
+    out.append("SQUADRE CHE STUPISCONO (in zona alta senza essere tra le grandi: puoi dire che «continuano a stupire» o «a sorprendere»): " + (", ".join(sopra) or "nessuna"))
+    seg = [vis(r["squadra"]["breve"]) for r in righe if _forma(storico, r["squadra"]["id"]) == ["P", "P"]]
     out.append("HANNO PERSO LE ULTIME 2 PARTITE (puoi dire «continua a perdere»): " + (", ".join(seg) or "nessuna"))
     return out
 
 
 def _parole_squadra(nome):
     return {w for w in _norm(nome).split() if len(w) > 3}
+
+
+def vis(nome):
+    return VISIBILI.get(_norm(nome), nome)
 
 
 def _interesse(p):
@@ -187,10 +194,10 @@ def migliori(partite, n=4):
 
 
 def _descrivi(p):
-    id_nome = {p["casa"]["id"]: p["casa"]["breve"], p["ospite"]["id"]: p["ospite"]["breve"]}
+    id_nome = {p["casa"]["id"]: vis(p["casa"]["breve"]), p["ospite"]["id"]: vis(p["ospite"]["breve"])}
     marc = "; ".join(f"{g.get('marcatore', '?')} ({id_nome.get(g.get('squadra'), '?')}) {g.get('minuto', '')}"
                      + (" rigore" if g.get("rigore") else "") + (" autogol" if g.get("autogol") else "") for g in p.get("gol", []))
-    return f"{p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" + (f" · gol: {marc}" if marc else " · (marcatori non disponibili)")
+    return f"{p['_lega']}: {vis(p['casa']['breve'])} {p['casa']['gol']}-{p['ospite']['gol']} {vis(p['ospite']['breve'])}" + (f" · gol: {marc}" if marc else " · (marcatori non disponibili)")
 
 
 def prompt(giorno, tutte, scelte, mancano, sorp, fatti, errori=None):
@@ -214,10 +221,10 @@ def prompt(giorno, tutte, scelte, mancano, sorp, fatti, errori=None):
         "- «finale.domanda»: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote. «finale.foto»: una squadra dei dati.\n"
         "- «apertura»: una frase forte di una riga per la didascalia. «hashtag»: 3 o 4 parole senza #.\n\n"
         "RISULTATI A SORPRESA (puoi usare la parola «sorprende» SOLO per questi: una squadra molto più in basso in classifica ha battuto una molto più in alto)\n"
-        + ("\n".join(f"- {v} (oggi {pv}ª in classifica) batte {l} ({pl}ª)" for v, pv, l, pl, _ in sorp) if sorp else "- nessuno: non usare la parola «sorprende»") + "\n\n"
+        + ("\n".join(f"- {vis(v)} (oggi {pv}ª in classifica) batte {vis(l)} ({pl}ª)" for v, pv, l, pl, _ in sorp) if sorp else "- nessuno: non usare la parola «sorprende»") + "\n\n"
         + "\n".join(fatti) + "\n\n"
         "PARTITE DA RACCONTARE (in ordine)\n" + "\n".join(f"{i + 1}. {_descrivi(p)}" for i, p in enumerate(scelte)) + "\n\n"
-        "TUTTI I RISULTATI DELLA GIORNATA (solo per contesto)\n" + "\n".join(f"- {p['_lega']}: {p['casa']['breve']} {p['casa']['gol']}-{p['ospite']['gol']} {p['ospite']['breve']}" for p in tutte) + "\n\n"
+        "TUTTI I RISULTATI DELLA GIORNATA (solo per contesto)\n" + "\n".join(f"- {p['_lega']}: {vis(p['casa']['breve'])} {p['casa']['gol']}-{p['ospite']['gol']} {vis(p['ospite']['breve'])}" for p in tutte) + "\n\n"
         + (("ERRORI DELLA VERSIONE PRECEDENTE, correggili: " + "; ".join(errori) + "\n\n") if errori else "")
         + "Rispondi SOLO con JSON valido, in questa forma:\n"
         '{"hook_titolo": "max 38 caratteri", "hook_testo": "...", "hook_foto": "squadra o marcatore", "tabella_testo": "1 o 2 frasi, 14-24 parole, su 1 o 2 risultati a sorpresa o fuori dalle partite raccontate", "classifica_testo": "2 frasi, 18-30 parole: considerazione sulla classifica", "scene": [{"foto": "...", "testo": "..."}], '
@@ -254,7 +261,7 @@ def controlla(spec, tutte, scelte):
         for m in re.findall(r"\d+\s*[-–a]\s*\d+", t):
             if re.sub(r"\s*[–a]\s*", "-", m.replace(" ", "")) not in veri:
                 errori.append(f"il risultato «{m}» non è tra quelli dei dati")
-    nomi = {_norm(x) for p in tutte for x in (p["casa"]["breve"], p["casa"]["nome"], p["ospite"]["breve"], p["ospite"]["nome"])}
+    nomi = {_norm(x) for p in tutte for x in (p["casa"]["breve"], p["casa"]["nome"], p["ospite"]["breve"], p["ospite"]["nome"], vis(p["casa"]["breve"]), vis(p["ospite"]["breve"]))}
     cognomi = {w for p in tutte for g in p.get("gol", []) for w in _norm(g.get("marcatore", "")).split() if len(w) > 2}
     def ammesso(foto):
         n = _norm(foto)
@@ -270,7 +277,7 @@ def _stemmi(tutte):
     squadre, marc = {}, {}
     for p in tutte:
         for t in (p["casa"], p["ospite"]):
-            for n in (t["breve"], t["nome"]):
+            for n in (t["breve"], t["nome"], vis(t["breve"])):
                 squadre[_norm(n)] = t.get("logo", "")
         logo = {p["casa"]["id"]: p["casa"].get("logo", ""), p["ospite"]["id"]: p["ospite"].get("logo", "")}
         for g in p.get("gol", []):
@@ -294,7 +301,7 @@ def partita_di(nome, tutte):
     """(partita, 'squadra'|'persona') a cui appartiene `nome` (una squadra o un marcatore dei dati), oppure (None, '')."""
     n = _norm(nome)
     for p in tutte:
-        if n in {_norm(p[k][c]) for k in ("casa", "ospite") for c in ("breve", "nome")}:
+        if n in ({_norm(p[k][c]) for k in ("casa", "ospite") for c in ("breve", "nome")} | {_norm(vis(p[k]["breve"])) for k in ("casa", "ospite")}):
             return p, "squadra"
     parole = [w for w in n.split() if len(w) > 2]
     for p in tutte:
@@ -309,6 +316,12 @@ def _scena(nome, tutte, **resto):
     sc = {"foto": nome, "tipo": tipo, "stemma": stemma_per(nome, tutte), **resto}
     if p:
         sc["cerca"] = {"squadre": [p["casa"]["breve"], p["ospite"]["breve"]], "marcatore": nome if tipo == "persona" else ""}
+        if resto.get("hook") and p["casa"]["gol"] != p["ospite"]["gol"]:   # gancio: prima la foto dell'allenatore di chi ha vinto
+            vincente = (p["casa"] if p["casa"]["gol"] > p["ospite"]["gol"] else p["ospite"])["breve"]
+            coach = ALLENATORI.get(_norm(vincente))
+            if coach:   # foto libera dell'allenatore (Wikimedia, verificata su Wikidata); se manca, la scheda con gli stemmi (mai una foto di stadio a caso)
+                sc["persona_libera"] = coach
+                sc.pop("cerca", None)
         sc["scheda"] = {"c": p["casa"].get("logo", ""), "o": p["ospite"].get("logo", ""), "gc": p["casa"]["gol"], "go": p["ospite"]["gol"]}
     return sc
 
@@ -333,7 +346,7 @@ def da_giornata(oggi=None) -> dict:
     scene.append({"foto": "", "classifica": True, "testo": spec["classifica_testo"], "durata_min": 7.0})
     if mancano:
         etichetta, gare = mancano
-        coppie = " e ".join(f"[{p['casa']['breve']}] contro [{p['ospite']['breve']}]" for p in gare[:2])
+        coppie = " e ".join(f"[{vis(p['casa']['breve'])}] contro [{vis(p['ospite']['breve'])}]" for p in gare[:2])
         scene.append({"foto": gare[0]["casa"]["breve"], "tipo": "squadra", "stemma": gare[0]["casa"].get("logo", ""), "scheda": {"c": gare[0]["casa"].get("logo", ""), "o": gare[0]["ospite"].get("logo", "")}, "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}." if len(gare) <= 2 else f"Mancano ancora le partite *{etichetta}*."})
     return {"serie": "Serie A", "titolo_breve": "Serie A: riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
             "scene": scene, "finale": _scena(spec["finale"]["foto"], tutte, domanda=spec["finale"]["domanda"]), "apertura": spec.get("apertura", "Il riepilogo della giornata"), "hashtag": spec.get("hashtag", []),
