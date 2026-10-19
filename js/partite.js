@@ -1,4 +1,4 @@
-import { logoLega, esc, montaPagina, partiteLive, giornoRoma, oggiRoma, dataSolo, spostaGiorno, elencoPerLega, messaggioErrore } from "./common.js?v=17";
+import { fetchJSON, logoLega, esc, montaPagina, partiteLive, giornoRoma, oggiRoma, dataSolo, spostaGiorno, elencoPerLega, messaggioErrore } from "./common.js?v=19";
 
 montaPagina("partite.html");
 
@@ -52,9 +52,11 @@ function disegna(oggi, minimo, massimo) {
     document.getElementById("filtri").innerHTML = "";
     const trovate = partite.filter(corrisponde);
     const perGiorno = [...new Set(trovate.map((p) => giornoRoma(p.data)))].sort();
-    document.getElementById("elenco").innerHTML = perGiorno.length
+    const trovati = leghe.filter((l) => nomeLega[l.id].includes(q));
+    const schede = trovati.length ? `<h2 class="section-title"><span>Campionati e coppe</span></h2><div class="carte carte-lega">${trovati.map((l) => `<a class="carta-lega" href="squadre.html?lega=${encodeURIComponent(l.id)}">${logoLega(l)}<span>${esc(l.nome)}</span></a>`).join("")}</div>` : "";
+    document.getElementById("elenco").innerHTML = schede + (perGiorno.length
       ? perGiorno.map((g) => `<h2 class="section-title"><span>${esc(etichettaGiorno(g, oggi))}</span></h2>${elencoPerLega(trovate.filter((p) => giornoRoma(p.data) === g), leghe)}`).join("")
-      : `<div class="vuoto">Nessuna partita trovata nei giorni disponibili (da ${esc(etichettaGiorno(minimo, oggi))} a ${esc(etichettaGiorno(massimo, oggi))}).</div>`;
+      : `<div class="vuoto">Nessuna partita in programma nei giorni disponibili (da ${esc(etichettaGiorno(minimo, oggi))} a ${esc(etichettaGiorno(massimo, oggi))}).${trovati.length ? " Qui sopra trovi squadre e rose." : ""}</div>`);
     return;
   }
   const delGiorno = partite.filter((p) => giornoRoma(p.data) === stato.giorno);

@@ -1,5 +1,5 @@
-import { fetchJSON, esc, montaPagina, logoLega } from "./common.js?v=17";
-import { errore, stemma, foto, param, indiceSquadre, fileLega , caricaFoto, paginaFoto } from "./schede.js?v=17";
+import { fetchJSON, esc, montaPagina, logoLega } from "./common.js?v=19";
+import { errore, stemma, foto, param, indiceSquadre, fileLega , caricaFoto, paginaFoto } from "./schede.js?v=19";
 
 montaPagina("squadre.html");
 const box = document.getElementById("contenuto-squadre"), cerca = document.getElementById("cerca"), intro = document.getElementById("intro");
@@ -29,6 +29,11 @@ async function squadreDi(lega) {
   for (const c of (cl?.classifiche || []).filter((x) => x.lega === lega)) for (const g of c.gruppi) for (const r of g.righe) viste.push(r.squadra);
   for (const p of (pa?.partite || []).filter((x) => x.lega === lega)) viste.push(p.casa, p.ospite);
   for (const s of viste) if (s?.id && !per.has(String(s.id)) && indice[s.id]) per.set(String(s.id), { id: s.id, nome: indice[s.id].nome, breve: indice[s.id].nome, logo: indice[s.id].logo || s.logo });
+  // coppa nazionale con poche squadre note (fuori stagione): aggiungiamo quelle dei campionati dello stesso paese
+  if (per.size < 20 && info?.gruppo && info.gruppo !== "Coppe europee") {
+    for (const c of (cl?.classifiche || []).filter((x) => x.gruppo === info.gruppo && x.lega !== lega)) for (const g of c.gruppi) for (const r of g.righe) viste.push(r.squadra);
+    for (const s of viste) if (s?.id && !per.has(String(s.id)) && indice[s.id]) per.set(String(s.id), { id: s.id, nome: indice[s.id].nome, breve: indice[s.id].nome, logo: indice[s.id].logo || s.logo });
+  }
   const squadre = [...per.values()].sort((a, b) => a.nome.localeCompare(b.nome, "it"));
   box.innerHTML = `<p><a class="indietro" href="squadre.html">← Tutti i campionati</a></p>
     <h2 class="titolo-lega">${info ? logoLega(info) : ""}<span>${esc(info?.nome || f.nome)}</span></h2>
