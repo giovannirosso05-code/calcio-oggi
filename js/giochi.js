@@ -287,12 +287,17 @@ const GIOCHI = [
   ["spesa", "Spesa con Budget", "Cinque giocatori, un obiettivo e pochi euro. Nuovo ogni giorno.", spesa],
   ["time", "Time Machine", "Indizi difficili, una stagione dal 1989/90 a oggi. Hai 3 vite.", (b) => macchina(b)],
 ];
-let attivo = GIOCHI.find((g) => g[0] === location.hash.slice(1)) ? location.hash.slice(1) : "asta";
+// menu a schede: si sceglie un gioco, si apre da solo; "indietro" riporta alla lista
 const mostra = () => {
-  $("filtri").innerHTML = GIOCHI.map((g) => `<button type="button" class="pill" role="tab" data-g="${g[0]}" aria-selected="${g[0] === attivo}">${esc(g[1])}</button>`).join("");
-  const g = GIOCHI.find((x) => x[0] === attivo);
-  $("gioco").innerHTML = `<div class="gioco"><h2>${esc(g[1])}</h2><p class="regola">${esc(g[2])}</p><div id="area"></div></div>`;
+  const g = GIOCHI.find((x) => x[0] === location.hash.slice(1));
+  $("intro").hidden = !!g;
+  if (!g) {
+    $("gioco").innerHTML = `<div class="carte">${GIOCHI.map((x) => `<a class="carta" href="#${x[0]}"><h2>${esc(x[1])}</h2><p>${esc(x[2])}</p><span class="vai">Gioca →</span></a>`).join("")}</div>`;
+    return;
+  }
+  $("gioco").innerHTML = `<p><a class="indietro" href="giochi.html">← Tutti i giochi</a></p><div class="gioco"><h2>${esc(g[1])}</h2><p class="regola">${esc(g[2])}</p><div id="area"></div></div>`;
   g[3]($("area"));
+  window.scrollTo(0, 0);
 };
-$("filtri").addEventListener("click", (e) => { const b = e.target.closest("[data-g]"); if (b) { attivo = b.dataset.g; history.replaceState(null, "", "#" + attivo); mostra(); } });
+window.addEventListener("hashchange", mostra);
 mostra();

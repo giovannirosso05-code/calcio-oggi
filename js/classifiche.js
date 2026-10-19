@@ -5,17 +5,22 @@ montaPagina("classifiche.html");
 fetchJSON("data/classifiche.json").then(({ classifiche, generato }) => {
   document.getElementById("agg").textContent = aggiornatoIl(generato);
   const dalLink = new URLSearchParams(location.search).get("lega");
-  let corrente = classifiche.some((c) => c.lega === dalLink) ? dalLink : classifiche[0].lega;
+  const tabelle = document.getElementById("tabelle"), cerca = document.getElementById("cerca");
 
-  const disegna = () => {
-    document.getElementById("filtri").innerHTML = classifiche.map((c) => `<button type="button" class="pill" role="tab" data-l="${esc(c.lega)}" aria-selected="${c.lega === corrente}">${logoLega(c)}<span>${esc(c.nome)}</span></button>`).join("");
-    const c = classifiche.find((x) => x.lega === corrente);
-    document.getElementById("tabelle").innerHTML = c.gruppi.map((g) =>
+  // elenco dei campionati: un riquadro con lo stemma per ciascuno, con ricerca
+  const elenco = (q = "") => {
+    const giusti = classifiche.filter((c) => c.nome.toLowerCase().includes(q.trim().toLowerCase()));
+    tabelle.innerHTML = giusti.length
+      ? `<div class="carte carte-lega">${giusti.map((c) => `<a class="carta-lega" href="classifiche.html?lega=${encodeURIComponent(c.lega)}">${logoLega(c)}<span>${esc(c.nome)}</span></a>`).join("")}</div>`
+      : `<div class="vuoto">Nessun campionato con questo nome.</div>`;
+  };
+  const apri = (c) => {
+    cerca.hidden = true;
+    document.getElementById("intro").hidden = true;
+    tabelle.innerHTML = `<p><a class="indietro" href="classifiche.html">← Tutti i campionati</a></p><h2 class="titolo-lega">${logoLega(c)}<span>${esc(c.nome)}</span></h2>` + c.gruppi.map((g) =>
       `${c.gruppi.length > 1 || /phase|girone|group/i.test(g.nome) ? `<h2 class="section-title"><span>${esc(g.nome)}</span></h2>` : ""}${tabellaClassifica(g)}`).join("");
   };
-  document.getElementById("filtri").addEventListener("click", (e) => {
-    const b = e.target.closest("[data-l]");
-    if (b) { corrente = b.dataset.l; disegna(); }
-  });
-  disegna();
+  const scelta = classifiche.find((c) => c.lega === dalLink);
+  if (scelta) apri(scelta);
+  else { elenco(); cerca.addEventListener("input", () => elenco(cerca.value)); }
 }).catch(() => messaggioErrore(document.getElementById("tabelle")));

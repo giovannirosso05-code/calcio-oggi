@@ -216,3 +216,19 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .pill[aria-pressed="true"] .lg-scuro, .pill[aria-selected="true"] .lg-scuro { display: inline; }
 :root[data-tema="scuro"] .pill[aria-pressed="true"] .lg-scuro, :root[data-tema="scuro"] .pill[aria-selected="true"] .lg-scuro { display: none; }
 :root[data-tema="scuro"] .pill[aria-pressed="true"] .lg-chiaro, :root[data-tema="scuro"] .pill[aria-selected="true"] .lg-chiaro { display: inline; }
+
+/* ---------- riquadri: giochi e campionati ---------- */
+.carte { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; margin: 8px 0 24px; }
+.carta { display: flex; flex-direction: column; background: var(--card); border: 1px solid var(--linea); border-top: 4px solid var(--accento); border-radius: var(--raggio); padding: 18px; min-height: 170px; transition: transform .12s, box-shadow .12s; }
+.carta:hover, .carta-lega:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,.12); }
+.carta h2 { font: 700 22px var(--font-titoli); text-transform: uppercase; margin: 0 0 8px; }
+.carta p { margin: 0; color: var(--tenue); font-size: 14px; flex: 1; }
+.carta .vai { margin-top: 12px; font-weight: 700; color: var(--accento-testo, var(--testo)); }
+.carte-lega { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+.carta-lega { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; background: var(--card); border: 1px solid var(--linea); border-radius: var(--raggio); padding: 22px 12px; min-height: 150px; text-align: center; font: 600 17px var(--font-titoli); text-transform: uppercase; transition: transform .12s, box-shadow .12s; }
+.carta-lega .lg { width: 64px; height: 64px; }
+.titolo-lega { display: flex; align-items: center; gap: 12px; font: 700 28px var(--font-titoli); text-transform: uppercase; margin: 6px 0 12px; }
+.titolo-lega .lg { width: 40px; height: 40px; }
+.cerca { width: 100%; max-width: 420px; padding: 11px 16px; border: 1px solid var(--linea); border-radius: 999px; background: var(--card); color: var(--testo); font: 500 15px var(--font); margin: 4px 0 6px; }
+.indietro { display: inline-block; font-weight: 600; color: var(--tenue); padding: 4px 0; }
+.indietro:hover { color: var(--testo); }
