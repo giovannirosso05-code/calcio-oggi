@@ -29,7 +29,7 @@ function applicaTema(t) { document.documentElement.dataset.tema = t; }
 export function montaPagina(corrente) {
   const h = document.getElementById("site-header");
   if (h) {
-    h.innerHTML = `<div class="container"><a class="logo" href="index.html" aria-label="Calcio Oggi, home"><img src="img/logo-orizzontale.svg" alt="Calcio Oggi" width="171" height="38"></a>
+    h.innerHTML = `<div class="container"><a class="logo" href="index.html" aria-label="Calcio Oggi, home"><img src="img/logo-orizzontale.svg" alt="Calcio Oggi" width="131" height="44"></a>
       <nav class="nav" aria-label="Sezioni">${PAGINE.map(([u, t]) => `<a href="${u}"${u === corrente ? ' aria-current="page"' : ""}>${t}</a>`).join("")}</nav>
       <button type="button" class="tema-btn" id="tema-btn" aria-label="Cambia tema chiaro o scuro" title="Tema"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 3v18" /><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></svg></button></div>`;
     document.getElementById("tema-btn").addEventListener("click", () => {
@@ -40,7 +40,7 @@ export function montaPagina(corrente) {
   }
   const f = document.getElementById("site-footer");
   if (f) {
-    f.innerHTML = `<div class="container"><img src="img/logo-orizzontale.svg" alt="Calcio Oggi" width="136" height="30">
+    f.innerHTML = `<div class="container"><img src="img/logo-orizzontale.svg" alt="Calcio Oggi" width="89" height="30">
       <p>Partite, risultati, classifiche e notizie del calcio, in italiano. Mai quote né pronostici.</p>
       <p>Dati partite e classifiche: ESPN. Le notizie sono titoli con link alla fonte originale: gli articoli restano sui siti che li pubblicano.</p></div>`;
   }
