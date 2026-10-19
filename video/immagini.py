@@ -165,7 +165,9 @@ class Banca:
         for a in self.articoli:
             t = set(_parole(a.get("titolo", "")))
             ha = [bool(x & t) for x in k]
-            if (not solo_marcatore and all(ha) and len(ha) >= 2) or (cognome and cognome in t and any(ha)):
+            titolo = a.get("titolo", "")
+            cronaca = bool(re.search(r"\b\d{1,2}\s*[-–]\s*\d{1,2}\b", titolo))   # col risultato nel titolo: è la cronaca della partita (altri articoli con le due squadre possono parlare d'altro, con la foto di un'altra persona)
+            if (not solo_marcatore and all(ha) and len(ha) >= 2 and cronaca) or (cognome and cognome in t and any(ha)):
                 buoni.append((all(ha), a))
         buoni = [a for _, a in sorted(buoni, key=lambda x: (x[0], x[1].get("pubblicato", "")), reverse=True)]
         out = []
