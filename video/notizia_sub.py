@@ -363,6 +363,9 @@ def risolvi_foto(spec, banca):
             scelte.append([None, False])
             continue
         cands = []
+        if s.get("solo_scheda"):   # scelta tua: in questa scena niente foto, solo la scheda con gli stemmi
+            s = {k: v for k, v in s.items() if k not in ("persona_libera", "cerca", "cerca_prima")}
+            s["tipo"] = "squadra"
         if s.get("persona_libera"):   # ritratto della persona (es. l'allenatore di chi ha vinto): prima gli articoli con il suo nome all'inizio del titolo, poi Wikimedia
             cands = banca.foto_da_titolo_che_inizia(s["persona_libera"])
             from video.foto import trova
@@ -415,6 +418,13 @@ async def genera(spec, uscita, banca):
     vel = spec.get("velocita", "+38%")
     uscita = Path(uscita); uscita.parent.mkdir(parents=True, exist_ok=True)
     scelte, foglio = risolvi_foto(spec, banca)
+    anteprime = []   # una miniatura per scena, per farti approvare le foto su Telegram
+    cartella = uscita.parent / "anteprima"; cartella.mkdir(exist_ok=True)
+    for k, ((c, _), riga) in enumerate(zip(scelte, foglio), 1):
+        if c is not None:
+            f = cartella / f"{k:02d}.jpg"
+            componi(c["img"]).resize((405, 720)).save(f, quality=85)
+            anteprime.append((f, riga))
     with tempfile.TemporaryDirectory() as tmp:
         tmp = Path(tmp)
         scene = list(spec["scene"])
@@ -498,7 +508,7 @@ async def genera(spec, uscita, banca):
         if copertina:
             cop.write_bytes(Path(copertina).read_bytes())
         print(f"Fatto: {uscita} ({totale:.1f} s, {len(quadri)} fotogrammi)")
-    return {"copertina": cop, "foglio": foglio, "durata": totale}
+    return {"copertina": cop, "foglio": foglio, "durata": totale, "anteprime": anteprime}
 
 
 if __name__ == "__main__":

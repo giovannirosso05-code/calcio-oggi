@@ -326,14 +326,19 @@ def _scena(nome, tutte, **resto):
     return sc
 
 
-def da_giornata(oggi=None) -> dict:
+def da_giornata(oggi=None, testo=None, solo_scheda=()) -> dict:
     """Spec del video (per notizia_sub.genera), oppure ErroreScaletta."""
     giorno, tutte, mancano = partite_del_giorno(oggi)
     scelte = migliori(tutte)
     sorp = sorprese(tutte)
     fatti = fatti_classifica(tutte)
     errori, spec = None, None
-    for _ in range(3):
+    if testo:   # testo già approvato: non si richiama Gemini
+        spec = testo
+        errori = controlla(spec, tutte, scelte)
+        if errori:
+            raise ErroreScaletta("Il testo fissato non passa più i controlli (" + "; ".join(errori[:3]) + ").")
+    for _ in range(0 if testo else 3):
         spec = chiedi(prompt(giorno, tutte, scelte, mancano, sorp, fatti, errori))
         errori = controlla(spec, tutte, scelte)
         if not errori:
@@ -353,6 +358,12 @@ def da_giornata(oggi=None) -> dict:
                       "scheda_multipla": [{"c": p["casa"].get("logo", ""), "o": p["ospite"].get("logo", ""), "ora": ora(p)} for p in gare[:3]],
                       "scheda": {"c": gare[0]["casa"].get("logo", ""), "o": gare[0]["ospite"].get("logo", "")},
                       "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}."})
-    return {"serie": "Serie A", "titolo_breve": "Serie A: riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
+    risultato = {"serie": "Serie A", "titolo_breve": "Serie A: riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
             "scene": scene, "finale": _scena(spec["finale"]["foto"], tutte, domanda=spec["finale"]["domanda"]), "apertura": spec.get("apertura", "Il riepilogo della giornata"), "hashtag": spec.get("hashtag", []),
             "tabella": tabella(giorno, tutte), "classifica": classifica(mancano), "url": "", "solo_espn": True}
+    risultato["_testo"] = {k: v for k, v in spec.items()}   # il testo scritto da Gemini: si può fissare e rifare il video senza cambiarlo
+    tutte_le_scene = risultato["scene"] + [risultato["finale"]]
+    for k in solo_scheda:   # scelte tue: «in questa scena niente foto» (i numeri sono quelli delle anteprime)
+        if 1 <= int(k) <= len(tutte_le_scene):
+            tutte_le_scene[int(k) - 1]["solo_scheda"] = True
+    return risultato

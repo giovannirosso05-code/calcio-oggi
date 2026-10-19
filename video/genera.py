@@ -47,6 +47,28 @@ def manda(metodo, chiave, percorso, didascalia=""):
     return r.ok
 
 
+def album(foto):
+    """Manda le miniature a gruppi di 10, ognuna con numero di scena e fonte nella didascalia."""
+    token, chat = _tok_chat()
+    if not token or not chat:
+        print("[album] TELEGRAM_TOKEN o CHAT_ID non impostati")
+        return False
+    ok = True
+    for i in range(0, len(foto), 10):
+        gruppo = foto[i:i + 10]
+        media, files, aperti = [], {}, []
+        for j, (f, didascalia_) in enumerate(gruppo):
+            fh = open(f, "rb"); aperti.append(fh)
+            files[f"f{j}"] = fh
+            media.append({"type": "photo", "media": f"attach://f{j}", "caption": didascalia_[:1000]})
+        r = requests.post(f"https://api.telegram.org/bot{token}/sendMediaGroup", data={"chat_id": chat, "media": json.dumps(media)}, files=files, timeout=300)
+        for fh in aperti:
+            fh.close()
+        print("sendMediaGroup", r.status_code, r.text[:160] if not r.ok else "")
+        ok = ok and r.ok
+    return ok
+
+
 def scrivi(testo, da_copiare=False):
     token, chat = _tok_chat()
     if not token or not chat:
@@ -125,7 +147,9 @@ def main():
             spec = json.loads(Path(dati).read_text(encoding="utf-8"))
             nome = Path(dati).stem
         elif cosa == "riepilogo":
-            spec = da_giornata()
+            # url (facoltativo): percorso di un file .json con "testo" (testo già approvato) e/o "solo_scheda": [numeri di scena senza foto]
+            fisso = json.loads(Path(dati).read_text(encoding="utf-8")) if dati.endswith(".json") else {}
+            spec = da_giornata(testo=fisso.get("testo"), solo_scheda=fisso.get("solo_scheda", ()))
             nome = "riepilogo"
         else:
             url, titolo, fonte, serie = (dati.split("|") + ["", "", "", ""])[:4]
@@ -144,9 +168,14 @@ def main():
     if cosa == "riepilogo":   # il testo letto dalla voce, per controllarlo (e per poterlo correggere e rifare il video con quel testo)
         testo = "\n".join(re.sub(r"[*\[\]]", "", s["testo"]) for s in spec["scene"]) + "\n" + spec["finale"].get("domanda", "")
         print("[testo del video]\n" + testo, flush=True)
+        print("[testo json]" + json.dumps(spec.get("_testo", {}), ensure_ascii=False), flush=True)
         scrivi("📝 Testo del video (controllalo prima di postare):\n\n" + testo)
-    # prima il foglio di controllo con le foto usate, poi copertina e video, poi la didascalia da copiare
-    scrivi("🔎 Controllo foto (guardale prima di postare):\n" + "\n".join(risultato["foglio"]))
+    # prima le foto usate (con il numero della scena e la fonte), poi copertina e video, poi la didascalia da copiare
+    if risultato.get("anteprime"):
+        scrivi("🖼 Foto del video, una per scena (scrivimi i numeri di quelle da cambiare):")
+        album(risultato["anteprime"])
+    else:
+        scrivi("🔎 Controllo foto (guardale prima di postare):\n" + "\n".join(risultato["foglio"]))
     cop_ia = copertina_ia(spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_ia.png")
     cop_foto = None if cop_ia else copertina_foto(banca, spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_foto.png")[0]
     manda("sendPhoto", "photo", cop_ia or cop_foto or risultato["copertina"], "Copertina (sfondo IA)" if cop_ia else "Copertina")
