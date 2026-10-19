@@ -166,7 +166,7 @@ def squadra(c):
         "nome": t.get("displayName") or t.get("name") or "",
         "breve": t.get("shortDisplayName") or t.get("displayName") or "",
         "sigla": t.get("abbreviation") or "",
-        "logo": t.get("logo") or "",
+        "logo": logo_squadra(t.get("id"), t.get("logo") or ""),
         "gol": int(c["score"]) if str(c.get("score", "")).isdigit() else None,
         "vince": bool(c.get("winner")),
     }
@@ -249,7 +249,7 @@ def raccogli_classifica(lega):
             nota = en.get("note") or {}
             righe.append({
                 "pos": valore(st, "rank"),
-                "squadra": {"id": t.get("id"), "nome": t.get("displayName", ""), "breve": t.get("shortDisplayName", ""), "logo": logo},
+                "squadra": {"id": t.get("id"), "nome": t.get("displayName", ""), "breve": t.get("shortDisplayName", ""), "logo": logo_squadra(t.get("id"), logo)},
                 "g": valore(st, "gamesPlayed"), "v": valore(st, "wins"), "n": valore(st, "ties"), "p": valore(st, "losses"),
                 "gf": valore(st, "pointsFor"), "gs": valore(st, "pointsAgainst"), "dr": valore(st, "pointDifferential"),
                 "pt": valore(st, "points"),
@@ -259,6 +259,14 @@ def raccogli_classifica(lega):
         if righe:
             gruppi.append({"nome": ch.get("name", ""), "righe": righe})
     return {"lega": lega["id"], "nome": lega["nome"], "gruppi": gruppi} if gruppi else None
+
+
+# stemmi cambiati e non ancora aggiornati da ESPN: id squadra -> file nel repo (si aggiunge una riga e un'immagine in img/squadre/)
+LOGHI_MANUALI = {"105": "img/squadre/105.png"}   # Atalanta, nuovo stemma
+
+
+def logo_squadra(id_squadra, logo):
+    return LOGHI_MANUALI.get(str(id_squadra), logo)
 
 
 def logo_leghe():

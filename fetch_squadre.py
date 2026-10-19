@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 import requests
 
-from fetch_dati import DATA_DIR, LEGHE, sessione
+from fetch_dati import DATA_DIR, LEGHE, logo_squadra, sessione
 
 API = "https://site.api.espn.com/apis/site/v2/sports/soccer"
 CARTELLA = DATA_DIR / "squadre"
@@ -56,7 +56,7 @@ def rosa_squadra(arg):
     coach = ((d or {}).get("coach") or [{}])[0]
     return {
         "id": t["id"], "nome": t.get("displayName", ""), "breve": t.get("shortDisplayName") or t.get("displayName", ""),
-        "logo": ((t.get("logos") or [{}])[0]).get("href", ""), "colore": t.get("color") or "",
+        "logo": logo_squadra(t.get("id"), ((t.get("logos") or [{}])[0]).get("href", "")), "colore": t.get("color") or "",
         "allenatore": f"{coach.get('firstName', '')} {coach.get('lastName', '')}".strip(),
         "giocatori": giocatori,
     }
