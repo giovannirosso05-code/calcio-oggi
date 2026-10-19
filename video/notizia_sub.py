@@ -493,7 +493,7 @@ async def genera(spec, uscita, banca):
                     ini = s["ini"] + (0 if gi == 0 else t0)
                     fine = s["ini"] + gruppi[gi + 1][1] if gi + 1 < len(gruppi) else fine_scena
                     sub_ = [s["tok"][j] for j in ids]
-                    q = await scatta(pagina_tabella(spec, ini / totale, sub=sub_) if s["s"].get("tabella")
+                    q = await scatta(pagina_tabella(dict(spec, tabella=s["s"].get("tabella_dati") or spec["tabella"]), ini / totale, sub=sub_) if s["s"].get("tabella")
                                      else pagina_classifica(dict(spec, classifica=s["s"].get("classifica_dati") or spec["classifica"]), ini / totale, sub=sub_) if s["s"].get("classifica")
                                      else pagina(spec, s["s"], fb, cred, ini / totale, sub=sub_, nome=(ini - s["ini"]) < 3.0))
                     quadri.append((q, ini, fine))

@@ -386,18 +386,16 @@ ORD = ("prima seconda terza quarta quinta sesta settima ottava nona decima undic
 
 
 def partite_oggi(oggi=None):
-    """(giorno, [partite finite dei 5 campionati], etichetta): quelle di oggi; se oggi ne sono finite meno di 6 si aggiungono quelle di ieri
-    (di sera tardi o a inizio settimana le partite di oggi sono poche). ErroreScaletta se in tutto sono meno di 3."""
+    """(giorno, [partite finite dei 5 campionati], etichetta): TUTTA la giornata, da venerdì a oggi (a metà settimana da martedì), come il riepilogo di Serie A.
+    ErroreScaletta se in tutto sono meno di 3."""
     oggi = oggi or datetime.now(ROMA).date()
+    wd = oggi.weekday()   # lunedì = 0
+    inizio = oggi - timedelta(days=(wd - 4) % 7) if wd in (4, 5, 6, 0) else oggi - timedelta(days=wd - 1)
     nomi = dict(TOP5)
-    tutte = [p for p in _dati()["partite"] if p["lega"] in nomi and p.get("stato") == "post"]
-    fatte = [p for p in tutte if _giorno_roma(p) == oggi]
-    etichetta = "di oggi"
-    if len(fatte) < 6:
-        fatte = [p for p in tutte if oggi - timedelta(days=1) <= _giorno_roma(p) <= oggi]
-        etichetta = "di ieri e di oggi"
+    fatte = [p for p in _dati()["partite"] if p["lega"] in nomi and p.get("stato") == "post" and inizio <= _giorno_roma(p) <= oggi]
     for p in fatte:
         p["_lega"] = nomi[p["lega"]]
+    etichetta = f"da {GIORNI[inizio.weekday()]} a oggi"
     if len(fatte) < 3:
         raise ErroreScaletta(f"Ho solo {len(fatte)} partite finite dei 5 campionati principali ({etichetta}): per un riepilogo ne servono almeno 3.")
     return oggi, fatte, etichetta
@@ -460,7 +458,7 @@ def _ord(n):
 
 def prompt_oggi(tutte, cl, etichetta="di oggi", errori=None):
     oggi = datetime.now(ROMA).date()
-    risultati = "\n".join(f"- [{'OGGI' if _giorno_roma(p) == oggi else 'IERI'}] {p['_lega']}: {vis(p['casa']['breve'])} {p['casa']['gol']}-{p['ospite']['gol']} {vis(p['ospite']['breve'])}" for p in tutte)
+    risultati = "\n".join(f"- [{'OGGI' if _giorno_roma(p) == oggi else GIORNI[_giorno_roma(p).weekday()].upper()}] {p['_lega']}: {vis(p['casa']['breve'])} {p['casa']['gol']}-{p['ospite']['gol']} {vis(p['ospite']['breve'])}" for p in tutte)
     blocchi = []
     for c in cl:
         righe = "\n".join(f"  - {s}: dalla {_ord(a)} posizione alla {_ord(b)}" for s, a, b in c["movimenti"][:4]) or "  - nessun cambio di posizione"
@@ -476,13 +474,13 @@ def prompt_oggi(tutte, cl, etichetta="di oggi", errori=None):
         "- Parole SEMPLICI e dirette come al bar. VIETATI gergo e metafore: «a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show».\n"
         "- Niente quote, pronostici, scommesse, premi, soldi. Nessun insulto. Nessuna colpa senza fonte.\n"
         "- VIETATO attribuire alle squadre obiettivi, bisogni o stati d'animo («a caccia di punti», «in cerca di riscatto», «vuole», «sogna», «crisi», «svolta»): di' SOLO risultati, punti e posizioni, che sono nei dati. Non spiegare PERCHÉ una squadra ha vinto o perso.\n"
-        "- hook_testo: UNA frase di 10-16 parole sulle partite di STASERA/OGGI: usa un risultato marcato [OGGI] (se ce ne sono), mai una partita di [IERI] (le abbiamo già raccontate): non parlare di Juventus-Lazio. Dai dati. tabella_testo: 1 frase, 12-20 parole, su un risultato dei dati (la voce fissa «Questi sono i risultati» viene prima).\n"
+        "- hook_testo: UNA frase di 10-16 parole sulle partite di STASERA/OGGI: usa un risultato marcato [OGGI] (se ce ne sono), mai una partita di un altro giorno (le abbiamo già raccontate): non parlare di Juventus-Lazio. Dai dati.\n"
         "- *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = squadre.\n"
         "- hook_foto: il nome di UNA squadra dei dati. finale.foto: una squadra dei dati. finale.domanda: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote.\n"
         "- apertura: una frase forte per la didascalia. hashtag: 3 o 4 parole senza #.\n\n"
         "RISULTATI\n" + risultati + "\n\nCLASSIFICHE E CAMBI\n" + "\n".join(blocchi) + "\n\n"
         + (("ERRORI DELLA VERSIONE PRECEDENTE, correggili: " + "; ".join(errori) + "\n\n") if errori else "")
-        + 'Rispondi SOLO con JSON valido: {"hook_titolo": "max 38 caratteri", "hook_testo": "...", "hook_foto": "squadra", "tabella_testo": "...", '
+        + 'Rispondi SOLO con JSON valido: {"hook_titolo": "max 38 caratteri", "hook_testo": "...", "hook_foto": "squadra", '
         '"classifiche": {"ita.1": "...", "eng.1": "...", "esp.1": "...", "ger.1": "...", "fra.1": "..."}, "finale": {"foto": "squadra", "domanda": "..."}, "apertura": "...", "hashtag": ["...", "..."]}'
     )
 
@@ -493,7 +491,7 @@ def controlla_oggi(spec, tutte, cl):
         errori.append("hook_testo e hook_titolo (max 38 caratteri) obbligatori")
     if not (spec.get("finale") or {}).get("domanda"):
         errori.append("manca finale.domanda")
-    testi = {"hook_testo": spec.get("hook_testo", ""), "tabella_testo": spec.get("tabella_testo", "")}
+    testi = {"hook_testo": spec.get("hook_testo", "")}
     comm = spec.get("classifiche") or {}
     for c in cl:
         t = comm.get(c["lega"], "")
@@ -546,10 +544,13 @@ def da_oggi(oggi=None, testo=None) -> dict:
     scene = [gancio,
              {"foto": "", "tabella": True, "testo": f"Questi sono i risultati {etichetta}. " + spec["tabella_testo"], "durata_min": 6.0}]
     for c in cl:
+        mie = [p for p in tutte if p["lega"] == c["lega"]]
+        tab = tabella(giorno, mie)
+        tab["data"] = c["titolo"]
+        scene.append({"foto": "", "tabella": True, "tabella_dati": tab, "testo": f"{c['titolo']}: ecco i risultati {etichetta}.", "durata_min": 3.5})
         scene.append({"foto": "", "classifica": True, "classifica_dati": {**c["classifica_dati"], "titolo": c["titolo"]},
-                      "testo": f"{c['titolo']}. " + spec["classifiche"][c["lega"]], "durata_min": 6.0})
+                      "testo": spec["classifiche"][c["lega"]], "durata_min": 6.0})
     tab = tabella(giorno, tutte)
-    tab["data"] = etichetta.replace("di ", "")
     risultato = {"serie": "Serie A", "titolo_breve": "Riepilogo sui 5 campionati", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
                  "scene": scene, "finale": _scena(spec["finale"]["foto"], tutte, domanda=spec["finale"]["domanda"]),
                  "apertura": spec.get("apertura", "Il riepilogo di oggi"), "hashtag": spec.get("hashtag", []),
