@@ -150,11 +150,11 @@ class Banca:
         self._cache = {}
 
     # ---- fonti
-    def _da_articoli(self, nome):
+    def _da_articoli(self, nome, ambigui=False):
         cand = []
         for a in self.articoli:
             p = _punteggio(nome, a.get("titolo", ""))
-            if p and len(_parole(nome)) >= 2 and _nomina_altri(nome, a.get("titolo", "")) and a["url"] != self.principale:
+            if p and not ambigui and len(_parole(nome)) >= 2 and _nomina_altri(nome, a.get("titolo", "")) and a["url"] != self.principale:
                 continue   # titolo con due calciatori: la foto potrebbe essere dell'altro
             if p:
                 cand.append((p + (0.5 if a["url"] == self.principale else 0), a.get("pubblicato", ""), a))
@@ -238,12 +238,12 @@ class Banca:
                             self._espn.append({"url": im["url"], "testo": " ".join([a.get("headline", ""), im.get("caption") or ""])})   # titolo e didascalia, non la descrizione
         return self._espn
 
-    def _da_espn(self, nome):
+    def _da_espn(self, nome, ambigui=False):
         out = []
         n = [p for p in _parole(nome) if p not in PAROLE_VUOTE]
         for x in self._espn_news():
             t = set(_parole(x["testo"]))
-            if n and all(p in t for p in n) and not _nomina_altri(nome, x["testo"]):
+            if n and all(p in t for p in n) and (ambigui or not _nomina_altri(nome, x["testo"])):
                 im = scarica(x["url"])
                 if im is not None:
                     out.append({"id": _id(x["url"]), "img": im, "credito": "Foto: ESPN", "origine": "ESPN: " + x["testo"][:60]})
@@ -256,9 +256,23 @@ class Banca:
         chiave = (nome, squadra)
         if chiave in self._cache:
             return self._cache[chiave]
-        out = [] if self.solo_espn else self._da_articoli(nome)
+        out = []
+        persona = len(_parole(nome)) >= 2 and not squadra
+        if persona and not self.solo_espn:
+            # prima la foto libera di Wikimedia Commons: l'identità è verificata da Wikidata (nome intero, calciatore/allenatore, foto sua)
+            from video.foto import trova
+            f = trova(nome)
+            if f:
+                out.append({"id": _id(str(f["file"])), "img": Image.open(f["file"]).convert("RGB"), "credito": f["credito"], "origine": f"Wikimedia Commons {f['qid']}"})
+        if not self.solo_espn:
+            out += self._da_articoli(nome)
         if len(_parole(nome)) >= 2:
             out += self._da_espn(nome)   # ESPN solo per le persone: per le squadre prenderebbe foto di altri club
+        if not out and persona:
+            # nessuna foto sicura: meglio una foto di un articolo che cita anche un altro calciatore (può essere dell'altro: si vede nel foglio di controllo) che nessuna
+            out = ([] if self.solo_espn else self._da_articoli(nome, ambigui=True)) + self._da_espn(nome, ambigui=True)
+            for x in out:
+                x["origine"] = "DA CONTROLLARE (titolo con due calciatori): " + x["origine"]
         if not out and (squadra or len(_parole(nome)) == 1):
             from video.foto import trova   # foto libera di Wikidata, solo per le squadre e solo se non c'è altro
             f = trova(nome)
