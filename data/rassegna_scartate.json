@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-10-19T09:13:46.137826+00:00",
-  "totale": 8,
+  "aggiornato": "2026-10-19T09:46:30.050982+00:00",
+  "totale": 12,
   "articoli": [
+    {
+      "id": "999c418456",
+      "titolo": "I migliori gol dalla distanza della Premier League dopo la perla di Diego Gómez: la classifica",
+      "url": "https://www.espn.com/soccer/story/_/id/50216799/ranking-premier-league-best-long-distance-goals-diego-gomez-strike-brighton",
+      "estratto": "Il gol da fuori area di Diego Gómez per il Brighton contro il Palace è stato spettacolare, ma quali sono le migliori conclusioni della storia della Premier League?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T09:41:39+00:00"
+    },
     {
       "id": "0b96c02b77",
       "titolo": "Si ritira Saido Berahino: l'ex attaccante di West Brom e Stoke chiude la carriera a 33 anni",
@@ -10,6 +19,15 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-19T08:21:58+00:00"
+    },
+    {
+      "id": "e8aa0d503e",
+      "titolo": "José Mourinho non comprende \"l'ossessione\" per la gomitata del madridista Güler",
+      "url": "https://www.espn.com/soccer/story/_/id/50213726/mourinho-obsession-elbow-madrid-guler",
+      "estratto": "José Mourinho ha affermato di non aver visto \"immagini\" di una gomitata di Arda Güler — non sanzionata dall'arbitro — nel 4-1 del Real Madrid contro il Siviglia.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T08:14:56+00:00"
     },
     {
       "id": "bc99e45754",
@@ -21,6 +39,15 @@
       "pubblicato": "2026-10-18T20:21:05+00:00"
     },
     {
+      "id": "244290e880",
+      "titolo": "Sette partite, sette punti: il Man United cammina come un sonnambulo verso un'altra stagione fallimentare",
+      "url": "https://www.espn.com/soccer/story/_/id/50210655/seven-games-seven-points-man-united-sleepwalking-another-lost-season",
+      "estratto": "Il Manchester United stava già vivendo il suo peggior avvio di stagione in Premier League dal 1986. Il pareggio per 1-1 con il Leeds non sarà d'aiuto.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T19:39:48+00:00"
+    },
+    {
       "id": "e33dfe221d",
       "titolo": "Oyarzabal trascina la Real Sociedad: manita al Malaga. Vincono Osasuna e Celta Vigo",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/18-151988863/oyarzabal_trascina_la_real_sociedad_manita_al_malaga_vincono_osasuna_e_celta_vigo/",
@@ -28,6 +55,15 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "pubblicato": "2026-10-18T19:11:40+00:00"
+    },
+    {
+      "id": "c601b5be30",
+      "titolo": "Diego Gómez ascolta i consigli di Lionel Messi mentre il Brighton segue il suo mantra: \"Sfidare le gerarchie\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50211483/diego-gomez-heeds-advice-lionel-messi-brighton-further-reject-ceilings-ambition",
+      "estratto": "È stato un gol di cui Lionel Messi sarebbe andato fiero. Ma non per le ragioni che si potrebbero pensare.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-18T19:03:04+00:00"
     },
     {
       "id": "80e357e952",
@@ -39,13 +75,22 @@
       "pubblicato": "2026-10-18T16:51:40+00:00"
     },
     {
-      "id": "9a69a99cd5",
-      "titolo": "Il Brighton batte il Crystal Palace grazie al gol da più lontano in Premier League dal 2017 firmato Diego Gómez",
-      "url": "https://www.espn.com/soccer/story/_/id/50209965/brighton-diego-gomez-scores-longest-range-premier-league-goal-2017",
-      "estratto": "La conclusione da centrocampo di Diego Gómez con cui il Brighton ha superato il Crystal Palace è il gol segnato dalla distanza più elevata in Premier League dal novembre 2017.",
+      "id": "1fe0d1445d",
+      "titolo": "Álex Baena punge nel finale contro l'Espanyol: l'Atlético non molla il Barça",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882843",
+      "estratto": "Il subentrato dell'Atlético Madrid Álex Baena ha segnato nel finale regalando la vittoria per 1-0 in LaLiga sul campo dell'Espanyol.",
       "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-18T16:24:34+00:00"
+      "pubblicato": "2026-10-17T15:26:08+00:00"
+    },
+    {
+      "id": "17f0ab689a",
+      "titolo": "Il Real Madrid chiede le dimissioni del presidente de LaLiga dopo il paragone tra gli attacchi agli arbitri e la propaganda nazista",
+      "url": "https://www.espn.com/soccer/story/_/id/50196433/real-madrid-laliga-chief-resign-reference-nazi-propaganda",
+      "estratto": "Il Real Madrid chiede le dimissioni del numero uno de LaLiga dopo aver paragonato i tentativi del club di screditare gli arbitri alle tecniche di propaganda del regime nazista tedesco.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-16T15:11:09+00:00"
     },
     {
       "id": "ca59c4f252",
@@ -64,15 +109,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-16T10:49:47+00:00"
-    },
-    {
-      "id": "9cb50d2dc3",
-      "titolo": "Svaligiata la casa dell'ala brasiliana Antony durante la sfida di Champions League del Real Betis",
-      "url": "https://www.espn.com/soccer/story/_/id/50194943/brazil-winger-antony-home-burgled-real-betis-champions-league-match",
-      "estratto": "L'ala brasiliana Antony ha rivelato che la sua abitazione di Siviglia è stata svaligiata mercoledì, durante la partita di Champions League del Real Betis contro il Porto.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-16T09:29:39+00:00"
     }
   ]
 }
