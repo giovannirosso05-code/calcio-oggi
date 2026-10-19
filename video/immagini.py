@@ -256,7 +256,7 @@ class Banca:
         chiave = (nome, squadra)
         if chiave in self._cache:
             return self._cache[chiave]
-        out = []
+        out, piccole = [], []
         persona = len(_parole(nome)) >= 2 and not squadra
         if persona and not self.solo_espn:
             # foto che ci manda direttamente chi gestisce il canale: video/foto-manuali/nome-cognome/*.jpg (credito in credito.txt)
@@ -265,7 +265,9 @@ class Banca:
                 credito = (cartella / "credito.txt").read_text(encoding="utf-8").strip() if (cartella / "credito.txt").exists() else "Foto: fornita dal canale"
                 for p in sorted(cartella.glob("*")):
                     if p.suffix.lower() in (".jpg", ".jpeg", ".png"):
-                        out.append({"id": _id(str(p)), "img": Image.open(p).convert("RGB"), "credito": credito, "origine": f"foto manuale {p.name}"})
+                        im = Image.open(p).convert("RGB")
+                        # sotto i 500 px di larghezza sfocherebbe a schermo intero: passa in coda, dopo le foto più grandi
+                        (out if im.width >= 500 else piccole).append({"id": _id(str(p)), "img": im, "credito": credito, "origine": f"foto manuale {p.name}"})
         if persona and not self.solo_espn:
             # prima la foto libera di Wikimedia Commons: l'identità è verificata da Wikidata (nome intero, calciatore/allenatore, foto sua)
             from video.foto import trova
@@ -292,6 +294,7 @@ class Banca:
             f = trova(nome)
             if f:
                 out.append({"id": _id(str(f["file"])), "img": Image.open(f["file"]).convert("RGB"), "credito": f["credito"], "origine": f"Wikidata squadra {f['qid']}"})
+        out += piccole
         self._cache[chiave] = out
         return out
 
