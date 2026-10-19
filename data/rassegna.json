@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-19T21:00:21.512336+00:00",
-  "totale": 152,
+  "aggiornato": "2026-10-19T21:13:43.021639+00:00",
+  "totale": 149,
   "articoli": [
     {
       "id": "7f308f67f5",
@@ -63,6 +63,18 @@
       "squadra": "Lazio"
     },
     {
+      "id": "7a452235fc",
+      "titolo": "Torino, Perri: \"Il clean sheet è merito di tutti. La Serie A è più tattica della Premier\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-perri-il-clean-sheet-merito-tutti-serie-tattica-premier-2285161",
+      "estratto": "Lucas Perri, portiere del Torino, è intervenuto ai microfoni di Sky Sport dopo il netto 3-0 al Tardini, in casa del Parma: \"Abbiamo meritato questo clean sheet, il lavoro è di tutti, anche del preparatore dei portieri e dei compagni.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-10-19T21:07:12+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "7ef5691984",
       "titolo": "Liberali: \"Il Como non guarda molto all'età. Qua tanti giovani che possono crescere\"",
       "url": "https://www.tuttomercatoweb.com/serie-a/liberali-il-como-guarda-eta-tanti-giovani-possono-crescere-2285085",
@@ -87,15 +99,15 @@
       "squadra": "Cagliari"
     },
     {
-      "id": "c60a900357",
-      "titolo": "Monza, Birindelli: \"Juric ci sta dando un'identità. Che impatto Tornqvist, non me lo aspettavo\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/monza-birindelli-juric-dando-identita-impatto-tornqvist-aspettavo-2285141",
-      "estratto": "Al termine della sfida tra Monza e Cagliari valida per la settima giornata di Serie A e che si è conclusa sul risultato di 4-0, ha parlato il capitano dei brianzoli Samuele Birindelli: \"L'abbiamo preparata bene, volevamo fare la partita, sapevamo le ",
-      "fonte": "TMW",
+      "id": "3b316ca71f",
+      "titolo": "Monza, Juric gongola dopo il poker al Cagliari e avvisa Abate: \"Col Torino come in Coppa\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/monza/2026/10/19-152006491/monza_juric_gongola_dopo_il_poker_al_cagliari_e_avvisa_abate_col_torino_come_in_coppa/",
+      "estratto": "Il tecnico dei brianzoli ha fatto il punto sulla gara interna contro la formazione di Piscanane che ha visto i padroni di casa imporsi per 4-0",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 160,
-      "pubblicato": "2026-10-19T20:14:00+00:00",
+      "pubblicato": "2026-10-19T19:33:21+00:00",
       "squadra": "Monza"
     },
     {
@@ -123,18 +135,6 @@
       "squadra": "Parma"
     },
     {
-      "id": "a4bbec275d",
-      "titolo": "Serie A, la classifica aggiornata: il Torino aggancia il Napoli. Parma penultimo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-torino-aggancia-napoli-parma-penultimo-2285153",
-      "estratto": "Un Torino devastante chiude la 7ª giornata di Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 150,
-      "pubblicato": "2026-10-19T20:41:44+00:00",
-      "squadra": "Torino"
-    },
-    {
       "id": "3cb4aad9c8",
       "titolo": "Moviola Fiorentina-Como: c’era fallo su Gonçalves. Il 2-2 e quei centimetri...",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-151999899/moviola_fiorentina-como_cera_fallo_su_gonalves_il_2-2_e_quei_centimetri_/",
@@ -147,16 +147,28 @@
       "squadra": "Fiorentina"
     },
     {
-      "id": "51c368c766",
-      "titolo": "Serie B 2026/2027, il punto sulle panchine: Corradi esonerato dalla Sampdoria",
-      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-2026-2027-punto-panchine-corradi-esonerato-sampdoria-2285120",
-      "estratto": "Novità per le panchine di Serie B.",
-      "fonte": "TMW",
+      "id": "74f3e5b67b",
+      "titolo": "Corradi esonerato dalla Sampdoria, è ufficiale: ecco chi è il candidato per la panchina blucerchiata",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/sampdoria/2026/10/19-152013655/corradi_esonerato_dalla_sampdoria_ufficiale_ecco_chi_il_candidato_per_la_panchina_blucerchiata/",
+      "estratto": "L'ex attaccante di Inter e Lazio paga un avvio shock con appena 4 punti in 7 partite: la nota del club ligure",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 120,
-      "pubblicato": "2026-10-19T20:45:51+00:00",
+      "pubblicato": "2026-10-19T21:03:11+00:00",
       "squadra": "Sampdoria"
+    },
+    {
+      "id": "eb4da46d48",
+      "titolo": "Finalmente il Tottenham: Maddison, Marmoush e Davies stendono il Coventry. Prima gioia per De Zerbi",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/10/19-152011702/finalmente_il_tottenham_maddison_marmoush_e_davies_stendono_il_coventry_prima_gioia_per_de_zerbi/",
+      "estratto": "Gli Spurs superano in casa la formazione di Lampard e raccolgono i primi 3 punti in campionato",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-10-19T21:02:23+00:00",
+      "squadra": "Coventry"
     },
     {
       "id": "ceafa56268",
@@ -195,15 +207,15 @@
       "squadra": "Nottm Forest"
     },
     {
-      "id": "b26cc612b1",
-      "titolo": "Carrick: il pareggio con il Leeds sembra un \"nuovo inizio\" per il Man Utd",
-      "url": "https://www.espn.com/video/clip/_/id/50211373/leeds-draw-feels-fresh-start-man-utd",
-      "estratto": "Carrick: il pareggio con il Leeds sembra un \"nuovo inizio\" per il Man Utd",
-      "fonte": "ESPN",
+      "id": "f6cbe26283",
+      "titolo": "Il trasferimento di Eric Cantona, il celebre scontro tra Roy Keane e Alf-Inge Haaland, gli insulti e le etichette pesanti... Sir Alex Ferguson fu sorpreso dal profondo odio reciproco tra Leeds e Man United: ma da dove ha origine?",
+      "url": "https://www.dailymail.com/sport/football/article-16211227/Eric-Cantonas-transfer-Roy-Keane-Alf-Inge-Haalands-infamous-clash-players-called-scum-Sir-Alex-Ferguson-surprised-deep-hatred-Leeds-Man-United-does-come-from.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Leeds United e Manchester United. Una rivalità accesa, aspra e viscerale. Nel calcio ne esistono davvero poche paragonabili.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": 120,
-      "pubblicato": "2026-10-18T17:15:55+00:00",
+      "pubblicato": "2026-10-18T06:00:46+00:00",
       "squadra": "Leeds"
     },
     {
@@ -471,17 +483,6 @@
       "pubblicato": "2026-10-19T20:19:04+00:00"
     },
     {
-      "id": "25cca987d2",
-      "titolo": "Serie B, i migliori centrocampisti dopo la 7ª giornata: Tramoni mette Caso nel mirino",
-      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-migliori-centrocampisti-7a-giornata-tramoni-mette-mirino-2285107",
-      "estratto": "La classifica di Serie B comincia a delinearsi dopo la settima giornata, con il Palermo che allunga in testa grazie al 2-0 sul campo del Mantova.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-19T20:04:01+00:00"
-    },
-    {
       "id": "d5fbb43471",
       "titolo": "Baldini da applausi, ha il coraggio di dire le cose come stanno",
       "url": "https://www.tuttosport.com/news/calcio/italia/under-21/2026/10/19-152011586/baldini_da_applausi_ha_il_coraggio_di_dire_le_cose_come_stanno/",
@@ -592,17 +593,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-19T06:42:41+00:00"
-    },
-    {
-      "id": "81ef6e7b92",
-      "titolo": "Una sofferenza troppo lunga",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997409/una_sofferenza_troppo_lunga/",
-      "estratto": "Le stagioni di mediocrità si stratificano nell’anima di un popolo sempre più snervato",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-19T06:18:13+00:00"
     },
     {
       "id": "9c0387c6ad",
@@ -732,16 +722,16 @@
       "squadra": "Lazio"
     },
     {
-      "id": "3b316ca71f",
-      "titolo": "Monza, Juric gongola dopo il poker al Cagliari e avvisa Abate: \"Col Torino come in Coppa\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/monza/2026/10/19-152006491/monza_juric_gongola_dopo_il_poker_al_cagliari_e_avvisa_abate_col_torino_come_in_coppa/",
-      "estratto": "Il tecnico dei brianzoli ha fatto il punto sulla gara interna contro la formazione di Piscanane che ha visto i padroni di casa imporsi per 4-0",
-      "fonte": "Tuttosport",
+      "id": "eaabb279c8",
+      "titolo": "Torino, Simeone: \"Quando farò vedere il secondo gol a mio figlio non so se ci crederà\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-simeone-quando-vedere-gol-figlio-so-credera-2285157",
+      "estratto": "Giovanni Simeone, del Torino, è intervenuto ai microfoni di Sky Sport dopo la vittoria per 3-0 in casa del Parma: \"Sono contento di aver fatto una bella partita, ma la abbiamo fatta tutti.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -40,
-      "pubblicato": "2026-10-19T19:33:21+00:00",
-      "squadra": "Monza"
+      "pubblicato": "2026-10-19T21:00:10+00:00",
+      "squadra": "Torino"
     },
     {
       "id": "af05e65789",
@@ -756,16 +746,16 @@
       "squadra": "Man United"
     },
     {
-      "id": "358a7dbc4e",
-      "titolo": "Torino, a breve le parole di mister Abate in conferenza stampa",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-breve-parole-mister-abate-conferenza-stampa-2285130",
-      "estratto": "Ore 22.",
+      "id": "965897baac",
+      "titolo": "Finalmente la vittoria: il Tottenham di De Zerbi batte 3-1 il Coventry e non è più ultimo",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/vittoria-tottenham-de-zerbi-batte-3-1-coventry-2285160",
+      "estratto": "Il Tottenham prova a scacciare la crisi e conquista la prima vittoria del suo campionato.",
       "fonte": "TMW",
-      "serie": "Serie A",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-10-19T20:50:00+00:00",
-      "squadra": "Torino"
+      "pubblicato": "2026-10-19T20:57:55+00:00",
+      "squadra": "Coventry"
     },
     {
       "id": "ad59cb9fc1",
@@ -780,16 +770,28 @@
       "squadra": "Parma"
     },
     {
-      "id": "41ec0adf9c",
-      "titolo": "Crisi senza fine per la Sampdoria: esonerato Corradi, ora è ufficiale",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/sampdoria/2026/10/19-152008221/crisi_senza_fine_per_la_sampdoria_esonerato_corradi_ora_ufficiale/",
-      "estratto": "Il tecnico paga la sconfitta casalinga contro l'Arezzo, la quinta nelle prime sette giornate in Serie B: Giampaolo il grande favorito per la successione",
+      "id": "51c368c766",
+      "titolo": "Serie B 2026/2027, il punto sulle panchine: Corradi esonerato dalla Sampdoria",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-2026-2027-punto-panchine-corradi-esonerato-sampdoria-2285120",
+      "estratto": "Novità per le panchine di Serie B.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-10-19T20:45:51+00:00",
+      "squadra": "Sampdoria"
+    },
+    {
+      "id": "45d7990297",
+      "titolo": "I giovani fanno felice Juric: Varela show, poker del Monza sul Cagliari",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-152003753/i_giovani_fanno_felice_juric_varela_show_poker_del_monza_sul_cagliari/",
+      "estratto": "Successo per 4-0 dei brianzoli nel primo posticipo della 7ª giornata di Serie A: doppietta e assist per il portoghese, in gol anche Kouadio e Robinson",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-10-19T18:29:35+00:00",
-      "squadra": "Sampdoria"
+      "pubblicato": "2026-10-19T18:24:34+00:00",
+      "squadra": "Monza"
     },
     {
       "id": "5ba2f16b88",
@@ -802,18 +804,6 @@
       "punteggio": -80,
       "pubblicato": "2026-10-18T18:08:02+00:00",
       "squadra": "Nottm Forest"
-    },
-    {
-      "id": "f6cbe26283",
-      "titolo": "Il trasferimento di Eric Cantona, il celebre scontro tra Roy Keane e Alf-Inge Haaland, gli insulti e le etichette pesanti... Sir Alex Ferguson fu sorpreso dal profondo odio reciproco tra Leeds e Man United: ma da dove ha origine?",
-      "url": "https://www.dailymail.com/sport/football/article-16211227/Eric-Cantonas-transfer-Roy-Keane-Alf-Inge-Haalands-infamous-clash-players-called-scum-Sir-Alex-Ferguson-surprised-deep-hatred-Leeds-Man-United-does-come-from.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Leeds United e Manchester United. Una rivalità accesa, aspra e viscerale. Nel calcio ne esistono davvero poche paragonabili.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -80,
-      "pubblicato": "2026-10-18T06:00:46+00:00",
-      "squadra": "Leeds"
     },
     {
       "id": "303e881e8d",
@@ -850,18 +840,6 @@
       "punteggio": -170,
       "pubblicato": "2026-10-19T12:23:11+00:00",
       "squadra": "Napoli"
-    },
-    {
-      "id": "421db11da6",
-      "titolo": "Inter, quel ritmo da esportare in Europa",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/19-151999790/inter_quel_ritmo_da_esportare_in_europa/",
-      "estratto": "Le difficoltà in Champions non condizionano il campionato: Chivu conta 19 punti dopo 7 gare e ai nerazzurri era riuscito solo 4 volte",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-10-19T08:12:08+00:00",
-      "squadra": "Inter Milan"
     },
     {
       "id": "024c15fd2d",
@@ -960,16 +938,16 @@
       "squadra": "Man United"
     },
     {
-      "id": "0363043c94",
-      "titolo": "Conceicao rischia un mese di stop! Cos’è successo contro la Lazio",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997512/conceicao_rischia_un_mese_di_stop_cos_successo_contro_la_lazio/",
-      "estratto": "L'esterno portoghese entra nella ripresa e al triplice fischio esce sofferente: ora gli esami per capire l'entità del problema",
-      "fonte": "Tuttosport",
+      "id": "a4bbec275d",
+      "titolo": "Serie A, la classifica aggiornata: il Torino aggancia il Napoli. Parma penultimo",
+      "url": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-torino-aggancia-napoli-parma-penultimo-2285153",
+      "estratto": "Un Torino devastante chiude la 7ª giornata di Serie A.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -250,
-      "pubblicato": "2026-10-19T06:25:20+00:00",
-      "squadra": "Lazio"
+      "pubblicato": "2026-10-19T20:41:44+00:00",
+      "squadra": "Torino"
     },
     {
       "id": "76d575b03e",
@@ -984,27 +962,27 @@
       "squadra": "Parma"
     },
     {
-      "id": "674de1779a",
-      "titolo": "Il Torino passeggia sul Parma: secondo ko consecutivo per Gilardino, è 3-0 al Tardini",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-passeggia-parma-ko-gilardino-3-0-tardini-2285152",
-      "estratto": "Il Parma perde nettamente 3-0 e non esce più dalla crisi.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -280,
-      "pubblicato": "2026-10-19T20:37:13+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "45d7990297",
-      "titolo": "I giovani fanno felice Juric: Varela show, poker del Monza sul Cagliari",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/19-152003753/i_giovani_fanno_felice_juric_varela_show_poker_del_monza_sul_cagliari/",
-      "estratto": "Successo per 4-0 dei brianzoli nel primo posticipo della 7ª giornata di Serie A: doppietta e assist per il portoghese, in gol anche Kouadio e Robinson",
+      "id": "41ec0adf9c",
+      "titolo": "Crisi senza fine per la Sampdoria: esonerato Corradi, ora è ufficiale",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/sampdoria/2026/10/19-152008221/crisi_senza_fine_per_la_sampdoria_esonerato_corradi_ora_ufficiale/",
+      "estratto": "Il tecnico paga la sconfitta casalinga contro l'Arezzo, la quinta nelle prime sette giornate in Serie B: Giampaolo il grande favorito per la successione",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -280,
-      "pubblicato": "2026-10-19T18:24:34+00:00",
+      "pubblicato": "2026-10-19T18:29:35+00:00",
+      "squadra": "Sampdoria"
+    },
+    {
+      "id": "42f97fe929",
+      "titolo": "Monza da urlo. Doppio Varela, Kouadio e Robinson travolgono Cagliari: 2ª vittoria per Juric",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/19-152006490/monza_da_urlo_doppio_varela_kouadio_e_robinson_travolgono_cagliari_2_vittoria_per_juric/",
+      "estratto": "I brianzoli calano il poker contro la formazione di Pisacane alla 7ª giornata di campionato",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-10-19T18:22:00+00:00",
       "squadra": "Monza"
     },
     {
@@ -1128,28 +1106,16 @@
       "squadra": "Man United"
     },
     {
-      "id": "aa23135e8d",
-      "titolo": "Simeone fa doppietta, il Torino va sul 3-0 al 69': è notte fonda per il Parma",
-      "url": "https://www.tuttomercatoweb.com/serie-a/simeone-doppietta-torino-3-0-69-notte-fonda-parma-2285144",
-      "estratto": "Il Torino chiude definitivamente i conti al 69' con il super gol di Simeone.",
+      "id": "358a7dbc4e",
+      "titolo": "Torino, a breve le parole di mister Abate in conferenza stampa",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-breve-parole-mister-abate-conferenza-stampa-2285130",
+      "estratto": "Ore 22.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -480,
-      "pubblicato": "2026-10-19T20:11:48+00:00",
+      "pubblicato": "2026-10-19T20:50:00+00:00",
       "squadra": "Torino"
-    },
-    {
-      "id": "42f97fe929",
-      "titolo": "Monza da urlo. Doppio Varela, Kouadio e Robinson travolgono Cagliari: 2ª vittoria per Juric",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/19-152006490/monza_da_urlo_doppio_varela_kouadio_e_robinson_travolgono_cagliari_2_vittoria_per_juric/",
-      "estratto": "I brianzoli calano il poker contro la formazione di Pisacane alla 7ª giornata di campionato",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -480,
-      "pubblicato": "2026-10-19T18:22:00+00:00",
-      "squadra": "Monza"
     },
     {
       "id": "722ba47044",
@@ -1164,15 +1130,15 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "82b80b8f87",
-      "titolo": "La sfida con il PSG è un test per dimostrare il valore del Barcellona, secondo Hansi Flick",
-      "url": "https://www.espn.com/soccer/story/_/id/50219369/psg-match-test-barcelona-streak-hansi-flick",
-      "estratto": "Il tecnico del Barcellona Hansi Flick ha stimolato i suoi giocatori a dimostrare di poter competere con i migliori d'Europa battendo il PSG martedì.",
+      "id": "81f3a691b6",
+      "titolo": "Luis Enrique del PSG su come fermare il Barcellona: tenere la palla lontana da Lamine Yamal",
+      "url": "https://www.espn.com/soccer/story/_/id/50217694/psg-luis-enrique-stop-barcelona-lamine-yamal-keep-ball-away",
+      "estratto": "Luis Enrique ha dichiarato che il Paris Saint-Germain fermerà Lamine Yamal non permettendo al Barcellona di avere il pallone, in vista del super scontro di Champions League tra le due squadre.",
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-10-19T17:17:27+00:00",
+      "pubblicato": "2026-10-19T21:02:24+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1260,6 +1226,18 @@
       "squadra": "Man United"
     },
     {
+      "id": "674de1779a",
+      "titolo": "Il Torino passeggia sul Parma: secondo ko consecutivo per Gilardino, è 3-0 al Tardini",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-passeggia-parma-ko-gilardino-3-0-tardini-2285152",
+      "estratto": "Il Parma perde nettamente 3-0 e non esce più dalla crisi.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -680,
+      "pubblicato": "2026-10-19T20:37:13+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "252885631c",
       "titolo": "Champions, scelti gli arbitri per Roma e Napoli: chi sono e i precedenti con le italiane",
       "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/18-151977373/champions_scelti_gli_arbitri_per_roma_e_napoli_chi_sono_e_i_precedenti_con_le_italiane/",
@@ -1272,6 +1250,18 @@
       "squadra": "AS Roma"
     },
     {
+      "id": "82b80b8f87",
+      "titolo": "La sfida con il PSG è un test per dimostrare il valore del Barcellona, secondo Hansi Flick",
+      "url": "https://www.espn.com/soccer/story/_/id/50219369/psg-match-test-barcelona-streak-hansi-flick",
+      "estratto": "Il tecnico del Barcellona Hansi Flick ha stimolato i suoi giocatori a dimostrare di poter competere con i migliori d'Europa battendo il PSG martedì.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -800,
+      "pubblicato": "2026-10-19T17:17:27+00:00",
+      "squadra": "Barcelona"
+    },
+    {
       "id": "f1e218e75e",
       "titolo": "Marc Guéhi del Manchester City: inginocchiarsi potrebbe aver perso impatto, si può fare di più",
       "url": "https://www.espn.com/soccer/story/_/id/50218768/marc-guehi-man-city-taking-knee-english-premier-league",
@@ -1282,18 +1272,6 @@
       "punteggio": -800,
       "pubblicato": "2026-10-19T15:25:16+00:00",
       "squadra": "Man City"
-    },
-    {
-      "id": "cfa4e02d96",
-      "titolo": "Yamal del Barcellona contro Mbappé del Real Madrid: quale stella del Clásico ha più chance per il Pallone d'Oro?",
-      "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
-      "estratto": "Nella corsa al Pallone d'Oro più incerta degli ultimi anni, i fuoriclasse della Liga Lamine Yamal e Kylian Mbappé figurano tra i candidati alla vittoria del massimo riconoscimento individuale del calcio.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -800,
-      "pubblicato": "2026-10-19T15:18:14+00:00",
-      "squadra": "Barcelona"
     },
     {
       "id": "556981e3a8",
@@ -1356,15 +1334,15 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "81f3a691b6",
-      "titolo": "Luis Enrique del PSG su come fermare il Barcellona: tenere la palla lontana da Lamine Yamal",
-      "url": "https://www.espn.com/soccer/story/_/id/50217694/psg-luis-enrique-stop-barcelona-lamine-yamal-keep-ball-away",
-      "estratto": "Luis Enrique ha dichiarato che il Paris Saint-Germain fermerà Lamine Yamal non permettendo al Barcellona di avere il pallone, in vista del super scontro di Champions League tra le due squadre.",
+      "id": "cfa4e02d96",
+      "titolo": "Yamal del Barcellona contro Mbappé del Real Madrid: quale stella del Clásico ha più chance per il Pallone d'Oro?",
+      "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
+      "estratto": "Nella corsa al Pallone d'Oro più incerta degli ultimi anni, i fuoriclasse della Liga Lamine Yamal e Kylian Mbappé figurano tra i candidati alla vittoria del massimo riconoscimento individuale del calcio.",
       "fonte": "ESPN",
-      "serie": "Champions",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -1000,
-      "pubblicato": "2026-10-19T14:54:27+00:00",
+      "pubblicato": "2026-10-19T15:18:14+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1524,15 +1502,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "25afdfd42e",
-      "titolo": "Quando il calcio incontra il cinema: Juve-Lazio e le lezioni di romanesco di Rocco Schiavone",
-      "url": "https://www.tuttomercatoweb.com/serie-a/calcio-incontra-cinema-juve-lazio-lezioni-romanesco-rocco-schiavone-2285140",
-      "estratto": "La Lazio vola in Serie A col successo sul campo della Juventus.",
-      "fonte": "TMW",
+      "id": "e560b6b803",
+      "titolo": "Comolli in Serie B, il ritorno dell'ex ad Juve nel calcio italiano: il comunicato del Pisa",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/19-152005304/comolli_in_serie_b_il_ritorno_dell_ex_ad_juve_nel_calcio_italiano_il_comunicato_del_pisa/",
+      "estratto": "Il dirigente francese, dopo l'esperienza in bianconero, resta in Italia ma passa in cadetteria",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1450,
-      "pubblicato": "2026-10-19T20:08:07+00:00",
+      "pubblicato": "2026-10-19T15:56:16+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1572,15 +1550,15 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "e560b6b803",
-      "titolo": "Comolli in Serie B, il ritorno dell'ex ad Juve nel calcio italiano: il comunicato del Pisa",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/19-152005304/comolli_in_serie_b_il_ritorno_dell_ex_ad_juve_nel_calcio_italiano_il_comunicato_del_pisa/",
-      "estratto": "Il dirigente francese, dopo l'esperienza in bianconero, resta in Italia ma passa in cadetteria",
-      "fonte": "Tuttosport",
+      "id": "b0bfffb9a5",
+      "titolo": "Comolli riparte dalla Serie B: l'ex Juve è il nuovo presidente e amministratore delegato",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/pisa/2026/10/19-152005306/comolli_riparte_dalla_serie_b_l_ex_juve_il_nuovo_presidente_e_amministratore_delegato/",
+      "estratto": "Saluta la famiglia Corrado: il dirigente francese entrerà a far parte del Consiglio di Amministrazione",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1650,
-      "pubblicato": "2026-10-19T15:56:16+00:00",
+      "pubblicato": "2026-10-19T15:55:52+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1620,15 +1598,15 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "b0bfffb9a5",
-      "titolo": "Comolli riparte dalla Serie B: l'ex Juve è il nuovo presidente e amministratore delegato",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/pisa/2026/10/19-152005306/comolli_riparte_dalla_serie_b_l_ex_juve_il_nuovo_presidente_e_amministratore_delegato/",
-      "estratto": "Saluta la famiglia Corrado: il dirigente francese entrerà a far parte del Consiglio di Amministrazione",
+      "id": "7cf1dd05ee",
+      "titolo": "Lussazione alla spalla per Conceiçao: quante partite salta con la Juve",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/19-152001764/lussazione_alla_spalla_per_conceiao_quante_partite_salta_con_la_juve/",
+      "estratto": "Il giocatore ha accusato il problema negli ultimi minuti della sfida contro la Lazio. Spalletti dovrà fare a meno di lui per le prossime partite",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1850,
-      "pubblicato": "2026-10-19T15:55:52+00:00",
+      "pubblicato": "2026-10-19T12:08:58+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1668,15 +1646,15 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "7cf1dd05ee",
-      "titolo": "Lussazione alla spalla per Conceiçao: quante partite salta con la Juve",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/19-152001764/lussazione_alla_spalla_per_conceiao_quante_partite_salta_con_la_juve/",
-      "estratto": "Il giocatore ha accusato il problema negli ultimi minuti della sfida contro la Lazio. Spalletti dovrà fare a meno di lui per le prossime partite",
-      "fonte": "Corriere dello Sport",
+      "id": "91b900950e",
+      "titolo": "Spalletti pronto alla rivoluzione: chi avrà l'occasione per ribaltare le gerarchie in Juve-Rennes",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997598/spalletti_pronto_alla_rivoluzione_chi_avr_l_occasione_per_ribaltare_le_gerarchie_in_juve-rennes/",
+      "estratto": "Tanti i cambi previsti per la sfida di Europa League contro i francesi: l'allenatore vuole scuotere la squadra dopo il ko in campionato contro la Lazio",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2050,
-      "pubblicato": "2026-10-19T12:08:58+00:00",
+      "pubblicato": "2026-10-19T08:03:23+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1704,15 +1682,15 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "91b900950e",
-      "titolo": "Spalletti pronto alla rivoluzione: chi avrà l'occasione per ribaltare le gerarchie in Juve-Rennes",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997598/spalletti_pronto_alla_rivoluzione_chi_avr_l_occasione_per_ribaltare_le_gerarchie_in_juve-rennes/",
-      "estratto": "Tanti i cambi previsti per la sfida di Europa League contro i francesi: l'allenatore vuole scuotere la squadra dopo il ko in campionato contro la Lazio",
+      "id": "7a568ca77a",
+      "titolo": "Rissa in Juve-Lazio, botte in tribuna: intervengono anche McKennie e Douglas Luiz. La ricostruzione",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997687/rissa_in_juve-lazio_botte_in_tribuna_intervengono_anche_mckennie_e_douglas_luiz_la_ricostruzione/",
+      "estratto": "Gioco fermo per qualche minuto perché l'alterco tra i tifosi costringe i giocatori bianconeri a guardare e provare a placare gli animi molto accesi",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2250,
-      "pubblicato": "2026-10-19T08:03:23+00:00",
+      "pubblicato": "2026-10-19T06:38:22+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1726,18 +1704,6 @@
       "punteggio": -2280,
       "pubblicato": "2026-10-19T01:59:24+00:00",
       "squadra": "Man United"
-    },
-    {
-      "id": "7a568ca77a",
-      "titolo": "Rissa in Juve-Lazio, botte in tribuna: intervengono anche McKennie e Douglas Luiz. La ricostruzione",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/19-151997687/rissa_in_juve-lazio_botte_in_tribuna_intervengono_anche_mckennie_e_douglas_luiz_la_ricostruzione/",
-      "estratto": "Gioco fermo per qualche minuto perché l'alterco tra i tifosi costringe i giocatori bianconeri a guardare e provare a placare gli animi molto accesi",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -2450,
-      "pubblicato": "2026-10-19T06:38:22+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "338f545370",
