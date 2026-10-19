@@ -99,28 +99,60 @@ def _cerca_elemento(nome: str):
     return validi[0][1], validi[0][2], validi[0][3]
 
 
+def _foto_da_file(file: str, minimo: int = 700):
+    """(immagine PIL, credito) di un file di Commons con licenza libera e almeno 700 px, oppure (None, '')."""
+    d = _get(COMMONS, {"action": "query", "format": "json", "titles": "File:" + file, "prop": "imageinfo",
+                       "iiprop": "url|extmetadata|size|mime", "iiurlwidth": 1400})
+    for p in ((d or {}).get("query", {}).get("pages", {}) or {}).values():
+        info = (p.get("imageinfo") or [{}])[0]
+        meta = info.get("extmetadata") or {}
+        licenza = re.sub(r"<[^>]+>", "", (meta.get("LicenseShortName") or {}).get("value", "")).strip()
+        if not info.get("thumburl") or info.get("mime") not in ("image/jpeg", "image/png"):
+            continue
+        if not _licenza_libera(licenza) or (info.get("width") or 0) < minimo:
+            continue
+        try:
+            img = Image.open(io.BytesIO(requests.get(info["thumburl"], headers=UA, timeout=40).content)).convert("RGB")
+        except (requests.RequestException, OSError):
+            continue
+        autore = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", (meta.get("Artist") or {}).get("value", ""))).strip() or "Wikimedia Commons"
+        return img, f"Foto: {autore[:40]} · {licenza} · Wikimedia Commons"
+    return None, ""
+
+
 def _scarica_foto(entita):
     """(immagine PIL, credito) dalla foto P18 con licenza libera, oppure (None, '')."""
     claims = [c for c in entita.get("claims", {}).get("P18", []) if c["mainsnak"].get("datavalue")]
     claims.sort(key=lambda c: c.get("rank") != "preferred")
     for c in claims[:4]:
-        file = c["mainsnak"]["datavalue"]["value"]
-        d = _get(COMMONS, {"action": "query", "format": "json", "titles": "File:" + file, "prop": "imageinfo",
-                           "iiprop": "url|extmetadata|size|mime", "iiurlwidth": 1400})
-        for p in ((d or {}).get("query", {}).get("pages", {}) or {}).values():
-            info = (p.get("imageinfo") or [{}])[0]
-            meta = info.get("extmetadata") or {}
-            licenza = re.sub(r"<[^>]+>", "", (meta.get("LicenseShortName") or {}).get("value", "")).strip()
-            if not info.get("thumburl") or info.get("mime") not in ("image/jpeg", "image/png"):
-                continue
-            if not _licenza_libera(licenza) or (info.get("width") or 0) < 700:
-                continue
-            try:
-                img = Image.open(io.BytesIO(requests.get(info["thumburl"], headers=UA, timeout=40).content)).convert("RGB")
-            except (requests.RequestException, OSError):
-                continue
-            autore = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", (meta.get("Artist") or {}).get("value", ""))).strip() or "Wikimedia Commons"
-            return img, f"Foto: {autore[:40]} · {licenza} · Wikimedia Commons"
+        img, credito = _foto_da_file(c["mainsnak"]["datavalue"]["value"])
+        if img is not None:
+            return img, credito
+    return None, ""
+
+
+def _da_categoria(nome: str):
+    """Quando Wikidata non ha la foto: i file della categoria di Commons con il nome della persona (es. «Category:Arda Güler»).
+    L'identità è nel titolo del file (deve contenere nome e cognome); si preferiscono le foto più recenti e ritagliate."""
+    d = _get(COMMONS, {"action": "query", "list": "categorymembers", "cmtitle": "Category:" + nome, "cmtype": "file", "cmlimit": 60, "format": "json"})
+    titoli = [m["title"][5:] for m in ((d or {}).get("query", {}).get("categorymembers", []) or [])]
+    voluto = _norm(nome)
+    ammesse = {"cropped", "crop", "portrait", "edit", "edited", "v", "jpg", "jpeg", "png"}
+
+    def solo_ritratto(t):
+        # il titolo deve essere «Nome Cognome 2025 (cropped).jpg»: nomi come «fan boy with … jersey» o «… Forması» sono foto di altro (tifosi, maglie, murales)
+        resto = [p for p in _norm(t).replace(voluto, " ").split() if not p.isdigit()]
+        return voluto in _norm(t) and all(p in ammesse for p in resto)
+    buoni = [t for t in titoli if solo_ritratto(t) and t.lower().endswith((".jpg", ".jpeg", ".png"))]
+
+    def punti(t):
+        anni = [int(a) for a in re.findall(r"(20[0-3]\d)", t)]
+        return (max(anni) if anni else 0, "cropped" in t.lower())
+    buoni.sort(key=punti, reverse=True)
+    for t in buoni[:6]:
+        img, credito = _foto_da_file(t, minimo=400)   # i ritratti di Commons sono spesso piccoli: meglio il volto giusto un po' morbido che quello sbagliato
+        if img is not None:
+            return img, credito
     return None, ""
 
 
@@ -136,10 +168,13 @@ def trova(nome: str):
         m = json.loads(meta_f.read_text(encoding="utf-8"))
         return {**m, "file": jpg}
     trovato = _cerca_elemento(nome)
-    if not trovato:
-        return None
-    qid, tipo, entita = trovato
-    img, credito = _scarica_foto(entita)
+    qid, tipo, img, credito = "", "persona", None, ""
+    if trovato:
+        qid, tipo, entita = trovato
+        img, credito = _scarica_foto(entita)
+    if img is None and len(_norm(nome).split()) >= 2:
+        img, credito = _da_categoria(nome)   # Wikidata non ha la foto: categoria di Commons col nome
+        qid = qid or "categoria Commons"
     if img is None:
         return None
     img.save(jpg, quality=92)
