@@ -9,6 +9,7 @@ Segreti: GEMINI_API_KEY (oppure ANTHROPIC_API_KEY come riserva).
 """
 import json
 import os
+from pathlib import Path
 from datetime import datetime
 from email.utils import parsedate_to_datetime
 import re
@@ -143,14 +144,16 @@ def prompt(titolo, fonte, serie, articolo, errori=None):
         "- Ogni fatto deve venire dal TITOLO o dall'ARTICOLO qui sotto: mai inventare nomi, cifre, date, motivi. Se non è scritto, non lo dici.\n"
         "- Racconta con parole TUE: non copiare frasi dell'articolo (mai più di 5 parole di fila uguali).\n"
         "- Le dichiarazioni si attribuiscono a chi le ha dette («dice», «secondo»), mai come fatti tuoi. Niente colpe senza una fonte. Niente opinioni tue.\n"
-        "- Una sola fonte (la notizia è solo su una testata): presentala come indiscrezione.\n"
+        "- «Indiscrezione» solo per voci di mercato o notizie non confermate. Se la notizia è una dichiarazione, un risultato o un fatto di campo, "
+        "NON dire «secondo indiscrezioni» né «dalle indiscrezioni» e non aprire con frasi di cautela: attribuisci la frase a chi l'ha detta e vai al fatto.\n"
         "- Non nominare mai la testata a voce. Non spiegare cos'è la Serie A o cos'è un campionato.\n"
         "- VIETATE le parole: pronostico, scommessa, quota, bookmaker, bonus, premio, soldi, giocata. Nessun insulto.\n"
         "- Italiano di tutti i giorni, frasi brevi e complete (10-18 parole). Vai dritto alla notizia: cosa è successo, chi l'ha detto o deciso, cosa succede adesso.\n"
         "- Il TITOLO BREVE (max 40 caratteri) dice il fatto con i nomi, secco, senza riempitivi come «il parziale», «all'intervallo», «le ultime» né dettagli di contorno. La prima scena è il GANCIO: dice il fatto con i nomi, mai un'esclamazione vaga.\n"
         "- 6 o 7 scene in tutto, 80-110 parole totali. In ogni scena: *parola* = 1 o 2 parole forti da colorare di giallo; [Nome] = i nomi di persone e squadre.\n"
         "- «foto» di ogni scena: nome e cognome COMPLETO della persona di cui parla la scena, oppure il nome della squadra come si scrive di solito "
-        "(es. «Lautaro Martinez», «Inter»). Solo nomi che compaiono nell'ARTICOLO o nel TITOLO. Se nella scena non c'è una persona o una squadra, "
+        "(es. «Lautaro Martinez»). Metti il nome di una SQUADRA solo se nell'intera notizia non c'è nessuna persona: una foto «di squadra» "
+        "spesso è di un altro giocatore. Solo nomi che compaiono nell'ARTICOLO o nel TITOLO. Se nella scena non c'è una persona, "
         "usa il protagonista della notizia.\n"
         "- «finale.domanda»: una domanda secca che divide i tifosi (max 12 parole), senza soldi né quote. «finale.foto»: il protagonista.\n"
         "- «apertura»: una frase forte di una riga per la didascalia. «hashtag»: 3 o 4 parole senza #, specifiche (squadra, giocatore, campionato).\n\n"
@@ -279,6 +282,32 @@ def controlla(spec, titolo, articolo):
     return list(dict.fromkeys(errori))
 
 
+def _squadre_note() -> set:
+    """Nomi di squadre (da data/squadre/indice.json e dalle rose): una scena con la foto «Real Madrid» prende la prima foto di un articolo su quella squadra,
+    che può essere di un altro giocatore (è successo: Ronaldo in un video su Güler)."""
+    nomi = set()
+    cartella = Path(__file__).resolve().parent.parent / "data" / "squadre"
+    try:
+        for v in json.loads((cartella / "indice.json").read_text(encoding="utf-8")).values():
+            nomi.add(_norm(v["nome"]))
+    except (OSError, ValueError, KeyError):
+        pass
+    return nomi | {"real madrid", "inter", "milan", "juventus", "juve", "roma", "lazio", "napoli", "atalanta"}
+
+
+def _persone_al_posto_delle_squadre(spec):
+    """Se una scena ha come foto una squadra ma nella notizia c'è un protagonista (la persona più citata nelle altre scene), usa il protagonista."""
+    squadre = _squadre_note()
+    scene = spec["scene"] + [spec["finale"]]
+    persone = [s.get("foto", "") for s in scene if s.get("foto") and _norm(s["foto"]) not in squadre]
+    if not persone:
+        return
+    protagonista = max(set(persone), key=persone.count)
+    for s in scene:
+        if s.get("foto") and _norm(s["foto"]) in squadre:
+            s["foto"] = protagonista
+
+
 def da_notizia(url, titolo, fonte, serie="Serie A", estratto="", rassegna=None) -> dict:
     """Spec completo del video (pronto per notizia_sub), oppure ErroreScaletta."""
     articolo = testo_completo(url, titolo, estratto, rassegna)
@@ -292,6 +321,7 @@ def da_notizia(url, titolo, fonte, serie="Serie A", estratto="", rassegna=None) 
         raise ErroreScaletta("Non sono riuscito a scrivere un testo che rispetti le regole (" + "; ".join(errori[:3]) + "): il video non l'ho fatto. "
                              "Posso scriverlo io a mano se me lo chiedi.")
     spec.update({"serie": serie, "fonte": fonte, "url": url, "velocita": "+38%", "etichetta": "Ultim'ora"})
+    _persone_al_posto_delle_squadre(spec)
     for s in spec["scene"][1:]:
         s.pop("hook", None)
     return spec
