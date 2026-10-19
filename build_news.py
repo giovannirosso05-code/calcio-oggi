@@ -246,14 +246,17 @@ def _chiedi_traduzione(voci, chiave):
     return None
 
 
+FONTI_INGLESI = {"ESPN", "Daily Mail"}   # testate in inglese: si traducono prima di pubblicare
+
+
 def traduci_inglesi(articoli):
-    """Le notizie di ESPN sono in inglese e sul sito devono essere in italiano: si traducono (una volta sola, con memoria) e quelle che non si riescono a tradurre si tolgono.
+    """Le notizie di ESPN e del Daily Mail sono in inglese e sul sito devono essere in italiano: si traducono (una volta sola, con memoria) e quelle che non si riescono a tradurre si tolgono.
     Restituisce la lista senza le notizie non tradotte."""
     try:
         memoria = json.loads(FILE_TRADUZIONI.read_text(encoding="utf-8"))
     except (OSError, ValueError):
         memoria = {}
-    da_fare = [a for a in articoli if a["fonte"] == "ESPN" and a["id"] not in memoria]
+    da_fare = [a for a in articoli if a["fonte"] in FONTI_INGLESI and a["id"] not in memoria]
     chiave = os.environ.get("GEMINI_API_KEY", "").strip()
     if da_fare and chiave:
         for i in range(0, len(da_fare), 25):
@@ -270,7 +273,7 @@ def traduci_inglesi(articoli):
         print("GEMINI_API_KEY mancante: le notizie in inglese non si possono tradurre e non vengono pubblicate")
     out = []
     for a in articoli:
-        if a["fonte"] != "ESPN":
+        if a["fonte"] not in FONTI_INGLESI:
             out.append(a)
         elif a["id"] in memoria:
             a["titolo"] = memoria[a["id"]]["titolo"]
