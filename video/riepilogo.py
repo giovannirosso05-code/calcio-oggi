@@ -346,8 +346,13 @@ def da_giornata(oggi=None) -> dict:
     scene.append({"foto": "", "classifica": True, "testo": spec["classifica_testo"], "durata_min": 7.0})
     if mancano:
         etichetta, gare = mancano
-        coppie = " e ".join(f"[{vis(p['casa']['breve'])}] contro [{vis(p['ospite']['breve'])}]" for p in gare[:2])
-        scene.append({"foto": gare[0]["casa"]["breve"], "tipo": "squadra", "stemma": gare[0]["casa"].get("logo", ""), "scheda": {"c": gare[0]["casa"].get("logo", ""), "o": gare[0]["ospite"].get("logo", "")}, "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}." if len(gare) <= 2 else f"Mancano ancora le partite *{etichetta}*."})
+        def ora(p):
+            return datetime.fromisoformat(p["data"].replace("Z", "+00:00")).astimezone(ROMA).strftime("%H:%M")
+        coppie = " e ".join(f"[{vis(p['casa']['breve'])}] contro [{vis(p['ospite']['breve'])}] alle {ora(p)}" for p in gare[:3])
+        scene.append({"foto": gare[0]["casa"]["breve"], "tipo": "squadra",
+                      "scheda_multipla": [{"c": p["casa"].get("logo", ""), "o": p["ospite"].get("logo", ""), "ora": ora(p)} for p in gare[:3]],
+                      "scheda": {"c": gare[0]["casa"].get("logo", ""), "o": gare[0]["ospite"].get("logo", "")},
+                      "testo": f"Mancano ancora le partite *{etichetta}*: {coppie}."})
     return {"serie": "Serie A", "titolo_breve": "Serie A: riepilogo della giornata", "fonte": "ESPN", "etichetta": "Riepilogo", "velocita": "+38%", "segui": False,
             "scene": scene, "finale": _scena(spec["finale"]["foto"], tutte, domanda=spec["finale"]["domanda"]), "apertura": spec.get("apertura", "Il riepilogo della giornata"), "hashtag": spec.get("hashtag", []),
             "tabella": tabella(giorno, tutte), "classifica": classifica(mancano), "url": "", "solo_espn": True}

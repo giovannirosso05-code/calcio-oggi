@@ -240,7 +240,7 @@ def _porta():
         for x, y in ((L, T), (R, T), (L, B), (R, B)):
             d.ellipse(p(x - w / 2, y - w / 2, x + w / 2, y + w / 2), fill=col)
     d.line(p(60, B + 8, 1020, B + 8), fill=(60, 66, 72, 255), width=4 * S)
-    bx, by, br = 880, 1180, 78              # pallone fuori dalla porta
+    bx, by, br = 880, 1090, 72              # pallone fuori dalla porta (sopra la fascia dei sottotitoli)
     d.ellipse(p(bx - br * 1.2, by + br * 0.85, bx + br * 1.2, by + br * 1.05 + 16), fill=(0, 0, 0, 255))
     d.ellipse(p(bx - br - 7, by - br - 7, bx + br + 7, by + br + 7), fill=bianco)
     d.ellipse(p(bx - br, by - br, bx + br, by + br), fill=bianco, outline=scuro, width=6 * S)
@@ -268,6 +268,31 @@ def stemma(url):
         return None
     bg, d, S, p = _porta()
     _disco(bg, d, S, p, lg, W // 2, 840, 150)
+    return bg.resize((W, H), Image.LANCZOS).convert("RGB")
+
+
+def scheda_multipla(righe):
+    """Più partite da giocare: per ognuna i due stemmi, VS e l'ora d'inizio (righe = [{"c": logo, "o": logo, "ora": "18:30"}])."""
+    from PIL import Image, ImageDraw, ImageFont
+    logos = [(_logo(r["c"]), _logo(r["o"])) for r in righe]
+    if any(a is None or b is None for a, b in logos):
+        return None
+    S = 2
+    bg = Image.new("RGBA", (W * S, H * S), (11, 11, 14, 255))
+    d = ImageDraw.Draw(bg)
+    p = lambda *c: [v * S for v in c]
+    k = len(righe)
+    passo = 300 if k <= 2 else 250
+    y0 = 840 - (k - 1) * passo // 2
+    f_vs = ImageFont.truetype(str(FONT / "Oswald-Bold.ttf"), 54 * S)
+    f_ora = ImageFont.truetype(str(FONT / "Oswald-Bold.ttf"), 104 * S)
+    for i, ((a, b), r) in enumerate(zip(logos, righe)):
+        y = y0 + i * passo
+        d.rounded_rectangle(p(70, y - 125, 1010, y + 125), radius=28 * S, fill=(22, 24, 29, 255), outline=(60, 66, 72, 255), width=3 * S)
+        _disco(bg, d, S, p, a, 250, y, 95)
+        _disco(bg, d, S, p, b, 830, y, 95)
+        d.text((540 * S, (y - 52) * S), "VS", font=f_vs, fill=(150, 158, 165, 255), anchor="mm")
+        d.text((540 * S, (y + 22) * S), r["ora"], font=f_ora, fill=(255, 255, 255, 255), anchor="mm", stroke_width=5 * S, stroke_fill=(11, 11, 14, 255))
     return bg.resize((W, H), Image.LANCZOS).convert("RGB")
 
 
@@ -352,6 +377,10 @@ def risolvi_foto(spec, banca):
         if not cands and s.get("tipo") != "squadra" and nome:
             cands = banca.candidati(nome, len(nome.split()) == 1)
         c = next((x for x in cands if x["id"] not in usate), None) or (cands[0] if cands else None)
+        if c is None and s.get("scheda_multipla"):   # partite ancora da giocare: tutte, con l'ora
+            im = scheda_multipla(s["scheda_multipla"])
+            if im is not None:
+                c = {"id": "scheda-multipla:" + "".join(r["c"] + r["o"] for r in s["scheda_multipla"]), "img": im, "credito": "Stemmi dei club", "origine": "scheda con le partite da giocare e gli orari (dati ESPN)", "stemma": True}
         if c is None and s.get("scheda"):   # nessuna foto libera (o scena su una squadra): i due stemmi col risultato
             sc_ = s["scheda"]
             im = scheda(sc_["c"], sc_["o"], sc_.get("gc"), sc_.get("go"))
