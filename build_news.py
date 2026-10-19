@@ -293,6 +293,45 @@ def varia_e_premia(articoli, squadre):
         contate[s["nome"]] = n + 1
 
 
+FILE_VIDEO_OK = DATA_DIR / "video_ok.json"   # url -> {"ok": bool, "t": quando} : si legge la pagina una volta sola
+
+
+def solo_con_video(articoli, scartate):
+    """Una notizia che il bot non riesce a trasformare in video (testo troppo corto o pagina illeggibile) non va nella rassegna:
+    passa tra le «Altre notizie». Si usa lo stesso controllo del generatore di video (video/scaletta.py)."""
+    from concurrent.futures import ThreadPoolExecutor
+    from video.scaletta import ErroreScaletta, testo_completo
+    try:
+        memoria = json.loads(FILE_VIDEO_OK.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        memoria = {}
+    adesso = datetime.now(timezone.utc)
+
+    def controlla(a):
+        m = memoria.get(a["url"])
+        if m and (m["ok"] or (adesso - datetime.fromisoformat(m["t"])).total_seconds() < 3 * 3600):
+            return a["url"], m
+        try:
+            testo_completo(a["url"], a["titolo"], a.get("estratto", ""), articoli)
+            ok = True
+        except ErroreScaletta:
+            ok = False
+        except Exception:
+            return a["url"], m or {"ok": True, "t": adesso.isoformat()}   # errore di rete nostro: nel dubbio la notizia resta
+        return a["url"], {"ok": ok, "t": adesso.isoformat()}
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        esiti = dict(pool.map(controlla, articoli))
+    memoria.update(esiti)
+    attuali = {a["url"] for a in articoli}
+    memoria = {u: v for u, v in memoria.items() if u in attuali}
+    FILE_VIDEO_OK.write_text(json.dumps(memoria, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    buone = [a for a in articoli if esiti[a["url"]]["ok"]]
+    scartate += [a for a in articoli if not esiti[a["url"]]["ok"]]
+    print(f"Video: {len(articoli) - len(buone)} notizie senza testo sufficiente passate tra le «Altre notizie»")
+    return buone, scartate
+
+
 def main():
     articoli = []
     visti_url = set()
@@ -344,6 +383,8 @@ def main():
     ok = {a["id"] for a in todas}
     articoli = [a for a in articoli if a["id"] in ok]
     scartate = [a for a in scartate if a["id"] in ok]
+    if os.environ.get("SALTA_CONTROLLO_VIDEO") != "1":
+        articoli, scartate = solo_con_video(articoli, scartate)
     scartate.sort(key=lambda x: x["pubblicato"], reverse=True)
     with open(FILE_SCARTATE, "w", encoding="utf-8") as out:
         json.dump({"aggiornato": datetime.now(timezone.utc).isoformat(), "totale": len(scartate),

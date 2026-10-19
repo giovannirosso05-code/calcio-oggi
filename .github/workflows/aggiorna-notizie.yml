@@ -20,7 +20,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install requests feedparser
+      - run: pip install requests feedparser beautifulsoup4 pillow
       - name: Raccolta notizie
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -33,5 +33,5 @@ jobs:
         run: |
           git config user.name "calcio-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/rassegna.json data/rassegna_scartate.json data/traduzioni.json data/partite.json data/classifiche.json data/dettagli.json 2>/dev/null || true
+          git add data/rassegna.json data/rassegna_scartate.json data/traduzioni.json data/partite.json data/classifiche.json data/dettagli.json data/video_ok.json 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "dati: aggiornamento" && git pull --rebase origin main && git push)
