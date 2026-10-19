@@ -4,7 +4,7 @@ titolone su box colorati, credito foto in basso a destra.
 """
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 LARGHEZZA, ALTEZZA = 1080, 1920
 RADICE = Path(__file__).resolve().parent.parent
@@ -36,10 +36,34 @@ def cerca_foto(titolo: str):
 # ---------- Disegno ----------
 def _sfondo(foto):
     if foto is not None:
+        foto = foto.convert("RGB")
         sc = max(LARGHEZZA / foto.width, ALTEZZA / foto.height)
-        foto = foto.resize((int(foto.width * sc) + 1, int(foto.height * sc) + 1), Image.LANCZOS)
-        x, y = (foto.width - LARGHEZZA) // 2, int((foto.height - ALTEZZA) * 0.25)   # taglio un po' più in alto: il volto sta in alto
-        return foto.crop((x, y, x + LARGHEZZA, y + ALTEZZA)).convert("RGBA")
+        sfocata = foto.resize((int(foto.width * sc) + 1, int(foto.height * sc) + 1), Image.LANCZOS)
+        x, y = (sfocata.width - LARGHEZZA) // 2, (sfocata.height - ALTEZZA) // 2
+        base = sfocata.crop((x, y, x + LARGHEZZA, y + ALTEZZA))
+        if foto.width / foto.height > 0.62:
+            # foto orizzontale o quasi quadrata: a tutto schermo il volto verrebbe tagliato. Si mette INTERA (volto compreso) nella fascia centrale,
+            # su uno sfondo della stessa foto sfocato e scurito, con i bordi che sfumano
+            base = base.filter(ImageFilter.GaussianBlur(38))
+            base = Image.blend(base, Image.new("RGB", base.size, SCURO), 0.55)
+            sc2 = min(LARGHEZZA / foto.width, 1000 / foto.height)
+            if sc2 > 1.6:   # foto troppo piccola: non si ingrandisce oltre il doppio, altrimenti sfoca
+                sc2 = 1.6
+            w, h = int(foto.width * sc2), int(foto.height * sc2)
+            primo = foto.resize((w, h), Image.LANCZOS).convert("RGBA")
+            maschera = Image.new("L", (w, h), 255)
+            mp = maschera.load()
+            fade = min(90, h // 4)
+            for yy in range(h):
+                a = min(1.0, yy / fade, (h - 1 - yy) / fade)
+                for xx in range(w):
+                    mp[xx, yy] = int(255 * max(a, 0))
+            primo.putalpha(maschera)
+            base = base.convert("RGBA")
+            base.alpha_composite(primo, ((LARGHEZZA - w) // 2, 700 - h // 2))
+            return base
+        y = int((sfocata.height - ALTEZZA) * 0.25)
+        return sfocata.crop((x, y, x + LARGHEZZA, y + ALTEZZA)).convert("RGBA")
     # senza foto: sfondo del marchio con le linee del campo
     img = Image.new("RGBA", (LARGHEZZA, ALTEZZA), SCURO + (255,))
     d = ImageDraw.Draw(img, "RGBA")

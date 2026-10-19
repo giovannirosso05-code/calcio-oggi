@@ -43,7 +43,7 @@ class NessunaFoto(Exception):
 
 
 # Come la voce deve dire alcuni nomi e sigle (i sottotitoli restano scritti giusti). Si allunga col tempo.
-PRONUNCIA = {"Peque": "Pèke", "Gonçalo": "Gonsàlo", "Como": "Còmo", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "Kvaratskhelia": "Kvaratskèlia", "Dumfries": "Dumfrìs"}
+PRONUNCIA = {"Krösche": "Krèusce", "Krosche": "Krèusce", "Kroesche": "Krèusce", "Peque": "Pèke", "Gonçalo": "Gonsàlo", "Como": "Còmo", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "Kvaratskhelia": "Kvaratskèlia", "Dumfries": "Dumfrìs"}
 
 
 def pronuncia(parola):

@@ -15,7 +15,7 @@ RATE_AZURE = os.environ.get("VOCE_RATE_AZURE", "+38%")
 RATE_EDGE = os.environ.get("VOCE_RATE", "+37%")
 
 # Sigle e parole che la voce legge male: le scriviamo come si pronunciano
-PRONUNCIA = {"Peque": "Pèke", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "CT": "C T"}
+PRONUNCIA = {"Krösche": "Krèusce", "Krosche": "Krèusce", "Kroesche": "Krèusce", "Peque": "Pèke", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "CT": "C T"}
 
 
 def _parlato(testo: str) -> str:
