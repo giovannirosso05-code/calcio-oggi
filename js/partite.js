@@ -1,4 +1,4 @@
-import { esc, montaPagina, partiteLive, giornoRoma, oggiRoma, dataSolo, spostaGiorno, elencoPerLega, messaggioErrore } from "./common.js";
+import { logoLega, esc, montaPagina, partiteLive, giornoRoma, oggiRoma, dataSolo, spostaGiorno, elencoPerLega, messaggioErrore } from "./common.js";
 
 montaPagina("partite.html");
 
@@ -23,9 +23,9 @@ function disegna(oggi, minimo, massimo) {
   const delGiorno = partite.filter((p) => giornoRoma(p.data) === stato.giorno);
   const presenti = new Set(delGiorno.map((p) => p.lega));
   // il filtro mostra solo i campionati che quel giorno hanno partite
-  const opzioni = [["tutte", "Tutte"], ...leghe.filter((l) => presenti.has(l.id)).map((l) => [l.id, l.nome])];
+  const opzioni = [["tutte", "Tutte"], ...leghe.filter((l) => presenti.has(l.id)).map((l) => [l.id, l.nome, logoLega(l)])];
   if (!opzioni.some(([v]) => v === stato.lega)) stato.lega = "tutte";
-  document.getElementById("filtri").innerHTML = opzioni.map(([v, t]) => `<button type="button" class="pill" data-f="${esc(v)}" aria-pressed="${v === stato.lega}">${esc(t)}</button>`).join("");
+  document.getElementById("filtri").innerHTML = opzioni.map(([v, t, lg]) => `<button type="button" class="pill" data-f="${esc(v)}" aria-pressed="${v === stato.lega}">${lg || ""}<span>${esc(t)}</span></button>`).join("");
 
   const lista = delGiorno.filter((p) => stato.lega === "tutte" || p.lega === stato.lega);
   document.getElementById("elenco").innerHTML = lista.length ? elencoPerLega(lista, leghe) : `<div class="vuoto">Nessuna partita in questo giorno.</div>`;

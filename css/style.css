@@ -13,6 +13,9 @@
   --raggio: 12px;
   --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-titoli: "Oswald", "Arial Narrow", Impact, sans-serif;
+  --erba-1: #e3f1e7;
+  --erba-2: #d6eadc;
+  --campo: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 680 1050' preserveAspectRatio='xMidYMid meet'%3E%3Cg fill='none' stroke='%23ffffff' stroke-opacity='0.45' stroke-width='5' stroke-linejoin='round'%3E%3Crect x='30' y='30' width='620' height='990'/%3E%3Cpath d='M30 525H650'/%3E%3Ccircle cx='340' cy='525' r='92'/%3E%3Crect x='138' y='30' width='404' height='165'/%3E%3Crect x='224' y='30' width='232' height='62'/%3E%3Crect x='138' y='855' width='404' height='165'/%3E%3Crect x='224' y='958' width='232' height='62'/%3E%3Cpath d='M262 195A92 92 0 0 0 418 195'/%3E%3Cpath d='M262 855A92 92 0 0 1 418 855'/%3E%3C/g%3E%3Ccircle cx='340' cy='525' r='7' fill='%23ffffff' fill-opacity='0.45'/%3E%3C/svg%3E");
   color-scheme: light;
 }
 :root[data-tema="scuro"] {
@@ -22,11 +25,17 @@
   --tenue: #9aa5ae;
   --linea: #262c34;
   --accento-testo: #2bd96b;
+  --erba-1: #0c1a12;
+  --erba-2: #0f2016;
+  --campo: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 680 1050' preserveAspectRatio='xMidYMid meet'%3E%3Cg fill='none' stroke='%23ffffff' stroke-opacity='0.12' stroke-width='5' stroke-linejoin='round'%3E%3Crect x='30' y='30' width='620' height='990'/%3E%3Cpath d='M30 525H650'/%3E%3Ccircle cx='340' cy='525' r='92'/%3E%3Crect x='138' y='30' width='404' height='165'/%3E%3Crect x='224' y='30' width='232' height='62'/%3E%3Crect x='138' y='855' width='404' height='165'/%3E%3Crect x='224' y='958' width='232' height='62'/%3E%3Cpath d='M262 195A92 92 0 0 0 418 195'/%3E%3Cpath d='M262 855A92 92 0 0 1 418 855'/%3E%3C/g%3E%3Ccircle cx='340' cy='525' r='7' fill='%23ffffff' fill-opacity='0.12'/%3E%3C/svg%3E");
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; font: 15px/1.45 var(--font); background: var(--bg); color: var(--testo); }
+/* sfondo: strisce d'erba e le linee di un campo da calcio, morbide, dietro a schede che restano su fondo pieno */
+body::before { content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background: var(--campo) center / auto 96vh no-repeat, repeating-linear-gradient(0deg, var(--erba-1) 0, var(--erba-1) 90px, var(--erba-2) 90px, var(--erba-2) 180px); }
 a { color: inherit; text-decoration: none; }
 img { max-width: 100%; }
 button { font: inherit; color: inherit; cursor: pointer; }
@@ -119,6 +128,11 @@ button { font: inherit; color: inherit; cursor: pointer; }
 /* ---------- Filtri e navigazione giorno ---------- */
 .filtri { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }
 .pill { background: var(--card); border: 1px solid var(--linea); border-radius: 999px; padding: 6px 14px; font-size: 14px; font-weight: 500; }
+.pill:has(.lg) { display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px 6px 10px; }
+.lg { width: 20px; height: 20px; object-fit: contain; }
+.lg-scuro { display: none; }
+:root[data-tema="scuro"] .lg-chiaro { display: none; }
+:root[data-tema="scuro"] .lg-scuro { display: inline; }
 .pill[aria-pressed="true"], .pill[aria-selected="true"] { background: var(--scuro); color: #fff; border-color: var(--scuro); }
 :root[data-tema="scuro"] .pill[aria-pressed="true"], :root[data-tema="scuro"] .pill[aria-selected="true"] { background: var(--accento); color: var(--scuro); border-color: var(--accento); }
 .giorno-nav { display: flex; align-items: center; gap: 8px; margin: 16px 0 4px; flex-wrap: wrap; }
@@ -193,3 +207,8 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 
 .video { position: relative; aspect-ratio: 16/9; margin: 12px 0; border-radius: 10px; overflow: hidden; background: #000; }
 .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+/* il filtro attivo è scuro nel tema chiaro (e chiaro nel tema scuro): lo stemma usa la versione che si legge */
+.pill[aria-pressed="true"] .lg-chiaro, .pill[aria-selected="true"] .lg-chiaro { display: none; }
+.pill[aria-pressed="true"] .lg-scuro, .pill[aria-selected="true"] .lg-scuro { display: inline; }
+:root[data-tema="scuro"] .pill[aria-pressed="true"] .lg-scuro, :root[data-tema="scuro"] .pill[aria-selected="true"] .lg-scuro { display: none; }
+:root[data-tema="scuro"] .pill[aria-pressed="true"] .lg-chiaro, :root[data-tema="scuro"] .pill[aria-selected="true"] .lg-chiaro { display: inline; }

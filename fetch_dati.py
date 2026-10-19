@@ -148,15 +148,28 @@ def raccogli_classifica(lega):
     return {"lega": lega["id"], "nome": lega["nome"], "gruppi": gruppi} if gruppi else None
 
 
+def logo_leghe():
+    """Stemma di ogni competizione (versione per sfondo chiaro e per sfondo scuro), preso da ESPN."""
+    def uno(l):
+        d = scarica(SCOREBOARD.format(lega=l["id"])) or {}
+        loghi = ((d.get("leagues") or [{}])[0]).get("logos") or []
+        chiaro = next((x["href"] for x in loghi if "default" in x.get("rel", [])), "")
+        scuro = next((x["href"] for x in loghi if "dark" in x.get("rel", [])), chiaro)
+        return l["id"], {"logo": chiaro, "logo_scuro": scuro}
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        return dict(pool.map(uno, LEGHE))
+
+
 def main():
     adesso = datetime.now(timezone.utc).isoformat()
+    loghi = logo_leghe()
     partite, errori, totale = raccogli_partite()
     if not partite:
         # niente dati nuovi: meglio lasciare i file precedenti che sovrascriverli con un sito vuoto
         raise SystemExit("Nessuna partita scaricata: i file in data/ restano quelli di prima.")
     (DATA_DIR / "partite.json").write_text(json.dumps({
         "generato": adesso,
-        "leghe": [{"id": l["id"], "nome": l["nome"]} for l in LEGHE],
+        "leghe": [{"id": l["id"], "nome": l["nome"], **loghi.get(l["id"], {})} for l in LEGHE],
         "partite": partite,
     }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"partite.json: {len(partite)} partite ({errori}/{totale} richieste fallite)")
@@ -166,7 +179,7 @@ def main():
     if classifiche:
         (DATA_DIR / "classifiche.json").write_text(json.dumps({
             "generato": adesso,
-            "classifiche": classifiche,
+            "classifiche": [{**c, **loghi.get(c["lega"], {})} for c in classifiche],
         }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"classifiche.json: {len(classifiche)} campionati")
 

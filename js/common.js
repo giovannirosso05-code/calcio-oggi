@@ -155,4 +155,6 @@ export function tabellaClassifica(gruppo, completa = true) {
   return `<div class="tabella-wrap"><table class="classifica"><thead><tr><th class="pos">#</th><th class="sq" style="text-align:left">Squadra</th><th>G</th><th class="opz">V</th><th class="opz">N</th><th class="opz">P</th><th class="opz">GF</th><th class="opz">GS</th><th>DR</th><th>Pt</th></tr></thead><tbody>${righe}</tbody></table></div>
     ${completa && legenda ? `<div class="legenda">${legenda}</div>` : ""}`;
 }
+// stemma del campionato: due versioni, la scheda giusta si sceglie col tema (vedi .lg-chiaro / .lg-scuro nel CSS)
+export const logoLega = (l) => (l?.logo ? `<img class="lg lg-chiaro" src="${esc(l.logo)}" alt="" width="20" height="20" loading="lazy"><img class="lg lg-scuro" src="${esc(l.logo_scuro || l.logo)}" alt="" width="20" height="20" loading="lazy">` : "");
 export { logoSq };
