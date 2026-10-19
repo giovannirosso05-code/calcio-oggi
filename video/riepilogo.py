@@ -468,7 +468,7 @@ def prompt_oggi(tutte, cl, etichetta="di oggi", errori=None):
         "REGOLE OBBLIGATORIE\n"
         "- Usa SOLO i dati qui sotto. Mai inventare motivi, giudizi sui giocatori, infortuni, precedenti, obiettivi di stagione, punti.\n"
         "- Ogni risultato in cifre deve essere IDENTICO a uno dei risultati qui sotto. Le posizioni si dicono solo come nei CAMBI DI POSIZIONE (es. «dalla nona alla sesta posizione»), scritte in lettere.\n"
-        "- Per ogni campionato commenta 1 o 2 cambi (i più grandi della lista) in 14-24 parole; se non ci sono cambi, di' chi guida la classifica. Puoi usare «salta», «scende», «scivola», «risale», «balza»: l'enfasi è permessa perché sono dati.\n"
+        "- Per ogni campionato il commento (16-28 parole) PARTE dalla capolista (la squadra prima in classifica, con i suoi punti se vuoi) e poi racconta 1 o 2 cambi di posizione (i più grandi della lista); se non ci sono cambi, di' solo della capolista e di chi la insegue. Puoi usare «salta», «scende», «scivola», «risale», «balza»: l'enfasi è permessa perché sono dati.\n"
         "- Parole SEMPLICI e dirette come al bar. VIETATI gergo e metafore: «a domicilio», «corsaro», «espugna», «sbanca», «tris», «manita», «cappotto», «ko», «travolge», «show».\n"
         "- Niente quote, pronostici, scommesse, premi, soldi. Nessun insulto. Nessuna colpa senza fonte.\n"
         "- hook_testo: UNA frase di 10-16 parole sulle partite di STASERA/OGGI: usa un risultato marcato [OGGI] (se ce ne sono), mai una partita di [IERI] (le abbiamo già raccontate): non parlare di Juventus-Lazio. Dai dati. tabella_testo: 1 frase, 12-20 parole, su un risultato dei dati (la voce fissa «Questi sono i risultati» viene prima).\n"
@@ -493,8 +493,11 @@ def controlla_oggi(spec, tutte, cl):
     for c in cl:
         t = comm.get(c["lega"], "")
         n = len(re.sub(r"[*\[\]]", "", t).split())
-        if not 10 <= n <= 32:
-            errori.append(f"commento «{c['lega']}»: {n} parole, ne servono 14-24")
+        if not 10 <= n <= 34:
+            errori.append(f"commento «{c['lega']}»: {n} parole, ne servono 16-28")
+        capolista = c["classifica_dati"]["righe"][0]["nome"]
+        if _norm(capolista) not in _norm(t):
+            errori.append(f"il commento «{c['lega']}» deve nominare la capolista ({capolista})")
         testi["c_" + c["lega"]] = t
     tutto = json.dumps(spec, ensure_ascii=False)
     if VIETATE.search(tutto):
