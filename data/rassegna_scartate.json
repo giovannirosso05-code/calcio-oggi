@@ -1,7 +1,43 @@
 {
-  "aggiornato": "2026-10-20T19:18:41.960510+00:00",
-  "totale": 52,
+  "aggiornato": "2026-10-20T22:30:38.000479+00:00",
+  "totale": 51,
   "articoli": [
+    {
+      "id": "c9b7177c25",
+      "titolo": "Álvarez segna il primo gol con l'Atleti da aprile: sapevo che sarebbe arrivato",
+      "url": "https://www.espn.com/soccer/story/_/id/50232091/sure-was-coming",
+      "estratto": "Julián Álvarez ha realizzato il suo primo gol con l'Atlético Madrid dopo quasi sei mesi, consentendo ai colchoneros di rimontare e strappare un pareggio per 1-1 sul campo dello Stoccarda in Champions League.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-20T22:19:14+00:00"
+    },
+    {
+      "id": "693a95f252",
+      "titolo": "Ds Rennes: \"Ammiro il lavoro di Sartori. In Italia manca il coraggio di puntare sui giovani\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/ds-rennes-ammiro-lavoro-sartori-italia-manca-coraggio-puntare-giovani-2285400",
+      "estratto": "Intervistato dai colleghi di Gazzetta.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-20T22:15:00+00:00"
+    },
+    {
+      "id": "32a2b13bbe",
+      "titolo": "Moreno: Flick deve affrontare la questione della prestazione di Yamal contro il PSG",
+      "url": "https://www.espn.com/video/clip/_/id/50232381/flick-needs-address-yamal-performance-vs-psg",
+      "estratto": "Moreno: Flick deve affrontare la questione della prestazione di Yamal contro il PSG",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-20T22:11:46+00:00"
+    },
+    {
+      "id": "73ff55dc47",
+      "titolo": "21 ottobre 1997, Christian Vieri vince una Ferrari. Grazie a un gol dal fondo al PAOK",
+      "url": "https://www.tuttomercatoweb.com/accadde-oggi/21-ottobre-1997-christian-vieri-vince-ferrari-gol-fondo-paok-2284954",
+      "estratto": "il 21 ottobre del 1997, allo stadio Vicente Calderon di Madrid, si gioca la gara fra Atletico Madrid e PAOK Salonicco.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-20T22:00:49+00:00"
+    },
     {
       "id": "8a149d3122",
       "titolo": "Analisi dell'incubo d'inizio stagione del Crystal Palace: gli errori che potrebbero costare la panchina a Pierre Sage, come Steve Parish e Matt Hobbs lo hanno tradito sul mercato e perché i giocatori sono preoccupati e confusi",
@@ -19,15 +55,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-20T18:28:01+00:00"
-    },
-    {
-      "id": "07f44bd747",
-      "titolo": "Turchia, sospesi 147 dirigenti per scommesse illegali: stop anche al presidente del Trabzonspor",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/turchia-sospesi-147-dirigenti-scommesse-illegali-stop-45-presidente-trabzonspor-2285447",
-      "estratto": "La Federcalcio turca (TFF) continua la sua battaglia contro le scommesse illegali.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-10-20T18:18:45+00:00"
     },
     {
       "id": "dae5d282e0",
@@ -433,42 +460,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-17T22:48:24+00:00"
-    },
-    {
-      "id": "6336562bb9",
-      "titolo": "Dundee 2 Rangers 2: I Dark Blues lottano con le unghie e con i denti per porre fine alla striscia di vittorie dei Rangers, costellata di errori",
-      "url": "https://www.dailymail.com/sport/football/article-16217329/Dundee-2-Rangers-2-Dark-Blues-dig-deep-bring-end-error-strewn-Rangers-winning-streak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "INTERSTATO venerdì se fosse fondamentale che la sua squadra mettesse pressione sui rivali vincendo il giorno prima di affrontarsi, Derek McInnes ha affermato che era troppo presto per parlare di aumentare la pressione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T22:25:06+00:00"
-    },
-    {
-      "id": "0f9550fa1b",
-      "titolo": "Hogh non segna un gol da due mesi... Il Celtic sta perdendo la pazienza con il suo attaccante da 11 milioni di sterline?",
-      "url": "https://www.dailymail.com/sport/football/article-16216693/Hogh-Celtic-ONeill-patience.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "C'era una frase nella conferenza stampa di Martin O'Neill a Lisbona l'altra sera che lasciava intendere una crescente frustrazione nei confronti di Kasper Hogh.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T22:20:06+00:00"
-    },
-    {
-      "id": "87bf13c43c",
-      "titolo": "Osmand si prepara a un clima rovente in vista della visita degli Hearts al Celtic per la prima volta dal verdetto scudetto",
-      "url": "https://www.dailymail.com/sport/football/article-16216691/Osmand-Celtic-Hearts-hostile.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'attaccante del Celtic Callum Osmand si prepara a un'accoglienza ostile in occasione della sfida contro i rivali per il titolo degli Hearts, attesi a Parkhead domenica pomeriggio.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T22:19:07+00:00"
-    },
-    {
-      "id": "4379326bbb",
-      "titolo": "HIBS 1 FALKIRK 2: L'abitudine alla sconfitta pesa duramente su Reedijk, con la squadra di Leith sprofondata all'ultimo posto dopo il ko contro i Bairns",
-      "url": "https://www.dailymail.com/sport/football/article-16217219/Reedijk-Hibernian-Falkirk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico dell'Hibs Marink Reedijk non è particolarmente abituato a perdere. Ma con questo organico a disposizione, forse farebbe bene a farci l'abitudine.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T19:28:53+00:00"
     }
   ]
 }
