@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-10-20T00:23:32.306996+00:00",
-  "totale": 54,
+  "aggiornato": "2026-10-20T05:07:36.957455+00:00",
+  "totale": 52,
   "articoli": [
+    {
+      "id": "8a149d3122",
+      "titolo": "Analisi dell'incubo d'inizio stagione del Crystal Palace: gli errori che potrebbero costare la panchina a Pierre Sage, come Steve Parish e Matt Hobbs lo hanno tradito sul mercato e perché i giocatori sono preoccupati e confusi",
+      "url": "https://www.dailymail.com/sport/football/article-16219915/crystal-palace-pierre-sage-steve-parish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Sage è sotto stretta sorveglianza dopo la disastrosa sconfitta per 5-0 contro i rivali del Brighton. Ma questo non deve distrarre dai fallimenti imperdonabili dei suoi superiori.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-20T01:00:46+00:00"
+    },
     {
       "id": "cfa3044361",
       "titolo": "Maddison a segno in un rientro 'da sogno': il Tottenham centra la prima vittoria stagionale in Premier League",
@@ -37,15 +46,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T22:37:34+00:00"
-    },
-    {
-      "id": "8b06f9813f",
-      "titolo": "Paris FC, cambio al vertice: Ferracci lascia la presidenza, Arnault raccoglie il testimone",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/paris-fc-cambio-vertice-ferracci-lascia-presidenza-arnault-raccoglie-testimone-2285136",
-      "estratto": "Dopo vent’anni si chiude un’era al Paris FC.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T22:27:59+00:00"
     },
     {
       "id": "20c39df327",
@@ -469,24 +469,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-17T11:47:24+00:00"
-    },
-    {
-      "id": "1273ccac2e",
-      "titolo": "Come Fabian Hurzeler ha trasformato il Brighton da 'squadra di bravi ragazzi' a contendente per la Champions League: il suo spietato diktat pre-campionato, il ritiro in Austria, un guru degli All Blacks, il coffee club di Bart Verbruggen e la 'rosa migliore di sempre'",
-      "url": "https://www.dailymail.com/sport/football/article-16214081/Brighton-Fabian-Hurzeler-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Brighton occupa il terzo posto in classifica dopo aver ottenuto quattro vittorie e un pareggio nelle prime sei partite. Ha vinto le ultime tre gare con un punteggio complessivo di 10-0. Ma come hanno fatto?",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T01:00:59+00:00"
-    },
-    {
-      "id": "5fc7c872be",
-      "titolo": "'È un uomo morto che cammina': viaggio nello spogliatoio spaccato del Fulham, mentre sveliamo come Alvaro Arbeloa abbia alienato i suoi stessi giocatori dal primo giorno, la 'frattura' tra stelle e staff e il motivo per cui i proprietari 'preoccupati' non vogliono affondare il colpo",
-      "url": "https://www.dailymail.com/sport/football/article-16214511/Fulham-mess-Alvaro-Arbeloa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dopo appena sei partite di Premier League sulla panchina del Fulham, Alvaro Arbeloa è un dead man walking. O, per usare le parole di una fonte vicina allo spogliatoio, un 'uomo morto che cammina'.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T01:00:56+00:00"
     }
   ]
 }
