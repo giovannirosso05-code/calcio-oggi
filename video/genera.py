@@ -84,6 +84,9 @@ def scrivi(testo, da_copiare=False):
 
 def didascalia(spec):
     """Didascalia pronta (regole GP Oggi): frase forte, domanda + «Dimmi la tua nei commenti», riga del sito, massimo 5 hashtag con #calciooggi per primo."""
+    if spec.get("didascalia"):   # testo scritto a mano nello spec: si aggiungono solo sito e hashtag
+        extra = ["#calciooggi"] + ["#" + str(h).strip("# ").replace(" ", "") for h in spec.get("hashtag", [])]
+        return spec["didascalia"] + f"\n\n🔗 {SITO}\n" + " ".join(extra[:5])
     tag = ["#calciooggi"] + ["#" + str(h).strip("# ").replace(" ", "") for h in spec.get("hashtag", []) if str(h).strip("# ")]
     visti, tags = set(), []
     for t in tag:

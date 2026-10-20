@@ -10,8 +10,7 @@
   "ChampionsLeague",
   "Roma",
   "Napoli",
-  "PSG",
-  "Barcellona"
+  "PSGBarça"
  ],
  "scene": [
   {
@@ -38,5 +37,6 @@
  "finale": {
   "ucl": "finale",
   "domanda": "Chi vince il big match?"
- }
+ },
+ "didascalia": "🏆 Champions, stasera si accende il martedì europeo!\n\n🔥 PSG–Barcellona (21:00): primo contro secondo, 6 punti a testa dopo due giornate.\n🇮🇹 Roma–Slovan Bratislava e Napoli–Bodø/Glimt, sempre alle 21:00: la Roma è 25ª con 1 punto, il Napoli 32º a quota zero.\n📋 In tutto 9 partite: 2 alle 18:45 e 7 alle 21:00.\n\nChi vince il big match? Dimmi la tua nei commenti 👇"
 }
