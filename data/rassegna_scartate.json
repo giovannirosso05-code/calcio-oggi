@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-10-20T05:07:36.957455+00:00",
-  "totale": 52,
+  "aggiornato": "2026-10-20T10:04:34.585648+00:00",
+  "totale": 54,
   "articoli": [
+    {
+      "id": "02d96aaa47",
+      "titolo": "Il PSG svela la maglia per la partita NFL tra Steelers e Saints a Parigi",
+      "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+      "estratto": "Se vi siete mai chiesti che aspetto avrebbero i detentori della Champions League del PSG se si trasformassero improvvisamente in una franchigia NFL, eccolo qui.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-20T09:55:34+00:00"
+    },
+    {
+      "id": "a393f4565f",
+      "titolo": "Steven Gerrard: \"Nessun rimpianto\" per aver ignorato l'interesse di Real Madrid, Inter e Bayern Monaco",
+      "url": "https://www.espn.com/soccer/story/_/id/50226329/steven-gerrard-no-regrets-ignoring-real-madrid-inter-milan-bayern-munich-interest",
+      "estratto": "L'ex capitano del Liverpool Steven Gerrard ha dichiarato di non avere \"alcun rimpianto\" per aver rifiutato il trasferimento in altri top club europei, tra cui il Real Madrid, durante la sua carriera da giocatore.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-20T09:39:09+00:00"
+    },
     {
       "id": "8a149d3122",
       "titolo": "Analisi dell'incubo d'inizio stagione del Crystal Palace: gli errori che potrebbero costare la panchina a Pierre Sage, come Steve Parish e Matt Hobbs lo hanno tradito sul mercato e perché i giocatori sono preoccupati e confusi",
@@ -9,7 +27,7 @@
       "estratto": "Sage è sotto stretta sorveglianza dopo la disastrosa sconfitta per 5-0 contro i rivali del Brighton. Ma questo non deve distrarre dai fallimenti imperdonabili dei suoi superiori.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-20T01:00:46+00:00"
+      "pubblicato": "2026-10-20T09:38:09+00:00"
     },
     {
       "id": "cfa3044361",
@@ -18,7 +36,16 @@
       "estratto": "Un emozionato James Maddison ha definito un \"sogno\" segnare un gol e aiutare il Tottenham a lasciare l'ultimo posto della Premier League con una vittoria casalinga per 3-1.",
       "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-19T23:32:14+00:00"
+      "pubblicato": "2026-10-20T08:45:56+00:00"
+    },
+    {
+      "id": "58b5fcb95c",
+      "titolo": "Un esperimento globale: ESPN riesce a pronosticare i vincitori del Pallone d'Oro?",
+      "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+      "estratto": "I premi del Pallone d'Oro sono notoriamente difficili da pronosticare, ma ESPN e le sue risorse globali possono riuscirci?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-20T07:36:45+00:00"
     },
     {
       "id": "ca07a46be7",
@@ -28,15 +55,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-19T22:52:50+00:00"
-    },
-    {
-      "id": "65412e6205",
-      "titolo": "Rae: Lamine Yamal sta restituendo la gioia al calcio",
-      "url": "https://www.espn.com/video/clip/_/id/50221935/lamine-yamal-bringing-joy-back-football",
-      "estratto": "Rae: Lamine Yamal sta restituendo la gioia al calcio",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T22:52:46+00:00"
     },
     {
       "id": "481bb4a6d8",
@@ -192,6 +210,15 @@
       "pubblicato": "2026-10-19T14:19:02+00:00"
     },
     {
+      "id": "cec46db140",
+      "titolo": "Allegri: \"Mi metto in discussione tutti i giorni. I giocatori? Vanno difesi e aiutati\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-152003472/allegri_mi_metto_in_discussione_tutti_i_giorni_i_giocatori_vanno_difesi_e_aiutati/",
+      "estratto": "Le parole dell'allenatore del Napoli e di Meret nella conferenza stampa alla vigilia della sfida di Champions League contro il Bodo/Glimt: ecco cosa ha detto",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-10-19T13:47:36+00:00"
+    },
+    {
       "id": "28289c4c14",
       "titolo": "L'ex nazionale inglese Steven Caulker rivela su LinkedIn il peso della disoccupazione",
       "url": "https://www.espn.com/soccer/story/_/id/50217509/ex-england-international-steven-caulker-reveals-toll-unemployment-linkedin",
@@ -199,15 +226,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-19T13:15:32+00:00"
-    },
-    {
-      "id": "6d23a6c551",
-      "titolo": "Allegri perde ancora Alisson Santos: stesso infortunio del 9 settembre, quando può tornare in campo",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/19-152002671/allegri_perde_ancora_alisson_santos_stesso_infortunio_del_9_settembre_quando_pu_tornare_in_campo/",
-      "estratto": "Il brasiliano, al rientro dopo 38 giorni, ha accusato il problema negli ultimi minuti della sfida contro il Venezia",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T12:28:12+00:00"
     },
     {
       "id": "9eeefbfa43",
@@ -226,6 +244,15 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T12:17:26+00:00"
+    },
+    {
+      "id": "b774de3e9f",
+      "titolo": "Gasperini a sorpresa: \"Per Dybala ci vorranno altre due settimane\". Pellegrini: \"Vogliamo restare in alto\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-152001452/gasperini_a_sorpresa_per_dybala_ci_vorranno_altre_due_settimane_pellegrini_vogliamo_restare_in_alto/",
+      "estratto": "Il tecnico prima dello Slovan Bratislava: \"Una nuova risonanza ha evidenziato una piccola lesione. Abbiamo bisogno di vincere\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-10-19T12:13:26+00:00"
     },
     {
       "id": "95bed25b59",
@@ -298,15 +325,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-18T20:35:33+00:00"
-    },
-    {
-      "id": "bc99e45754",
-      "titolo": "Dominic Calvert-Lewin \"ha mostrato rispetto restando in piedi\" mentre gli altri si inginocchiavano contro il razzismo - Daniel Farke",
-      "url": "https://www.espn.com/soccer/story/_/id/50212578/dominic-calvert-lewin-showed-respect-standing-others-took-knee-racism-campaign-daniel-farke",
-      "estratto": "Il tecnico del Leeds Daniel Farke ha affermato che l'attaccante Dominic Calvert-Lewin ha dimostrato \"rispetto\" non inginocchiandosi prima del pareggio di domenica del Leeds United contro il Manchester United.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T20:21:05+00:00"
     },
     {
       "id": "527ca515aa",

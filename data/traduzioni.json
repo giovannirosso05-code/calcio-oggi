@@ -35,10 +35,6 @@
   "titolo": "Álex Baena punge nel finale contro l'Espanyol: l'Atlético non molla il Barça",
   "estratto": "Il subentrato dell'Atlético Madrid Álex Baena ha segnato nel finale regalando la vittoria per 1-0 in LaLiga sul campo dell'Espanyol."
  },
- "8a0e58ff82": {
-  "titolo": "José Mourinho elogia la grinta di Vinícius Júnior al Real Madrid: se fossi stato in lui, me ne sarei andato",
-  "estratto": "José Mourinho ha affermato che, se fosse stato al posto di Vinícius Júnior, avrebbe lasciato il Real Madrid la scorsa estate, lodando la mentalità dell'attaccante nel provare a ribaltare la propria situazione nel club."
- },
  "4637a5d091": {
   "titolo": "Calciomercato, indiscrezioni e notizie: il Galatasaray punta Fernandes del Man United",
   "estratto": "Il Galatasaray è pronto a muoversi per il centrocampista del Manchester United Bruno Fernandes. Le ultime indiscrezioni su Transfer Talk."
@@ -54,26 +50,6 @@
  "556981e3a8": {
   "titolo": "Arteta: Madueke è amato nello spogliatoio dell'Arsenal",
   "estratto": "Arteta: Madueke è amato nello spogliatoio dell'Arsenal"
- },
- "9c0387c6ad": {
-  "titolo": "Roberto De Zerbi sull'ultima mossa nel ritiro del Tottenham: \"Via i telefoni\" durante i pasti",
-  "estratto": "Roberto De Zerbi ha rivelato che i telefoni sono stati banditi a tavola durante il ritiro del Tottenham a Marbella, nel suo ultimo tentativo di trasformare un gruppo eterogeneo di giocatori in una vera squadra."
- },
- "e562f048ee": {
-  "titolo": "Mikel Arteta giustifica la prova opaca dell'Arsenal con la tattica del Nottingham Forest: \"Hanno piazzato un albero di Natale\"",
-  "estratto": "Mikel Arteta ha difeso il suo Arsenal dopo l'unico tiro nello specchio effettuato nella vittoria per 1-0 di domenica sul campo del Nottingham Forest."
- },
- "c973d69962": {
-  "titolo": "L'Arsenal non sembra ancora pronto ad \"aggredire\" il titolo di Premier League come vorrebbe",
-  "estratto": "I campioni in carica della Premier League dell'Arsenal hanno offerto una prestazione offensiva opaca contro il Nottingham Forest, ma forse va bene così."
- },
- "157e2865f2": {
-  "titolo": "Calciomercato, indiscrezioni e notizie: Viktor Gyökeres potrebbe lasciare l'Arsenal a gennaio?",
-  "estratto": "L'attaccante dell'Arsenal Viktor Gyökeres potrebbe lasciare il club a gennaio, mentre il Manchester United cerca rinforzi per la finestra invernale. Le ultime indiscrezioni su Transfer Talk."
- },
- "997a04ae15": {
-  "titolo": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto",
-  "estratto": "Nicol: i tifosi dell'Arsenal saranno frustrati da partite più complicate del dovuto"
  },
  "2d09e17cd3": {
   "titolo": "Harry Kane batte un altro record alla sua 100ª presenza in Bundesliga con il Bayern Monaco",
@@ -94,10 +70,6 @@
  "f1896a1e16": {
   "titolo": "Eric García e Jules Koundé del Barcellona indisponibili per infortunio contro il PSG",
   "estratto": "Sia Eric García che Jules Koundé salteranno per infortunio la sfida di Champions League del Barcellona contro il Paris Saint-Germain in programma martedì."
- },
- "bc99e45754": {
-  "titolo": "Dominic Calvert-Lewin \"ha mostrato rispetto restando in piedi\" mentre gli altri si inginocchiavano contro il razzismo - Daniel Farke",
-  "estratto": "Il tecnico del Leeds Daniel Farke ha affermato che l'attaccante Dominic Calvert-Lewin ha dimostrato \"rispetto\" non inginocchiandosi prima del pareggio di domenica del Leeds United contro il Manchester United."
  },
  "cfa4e02d96": {
   "titolo": "Yamal del Barcellona contro Mbappé del Real Madrid: quale stella del Clásico ha più chance per il Pallone d'Oro?",
@@ -530,5 +502,45 @@
  "8a149d3122": {
   "titolo": "Analisi dell'incubo d'inizio stagione del Crystal Palace: gli errori che potrebbero costare la panchina a Pierre Sage, come Steve Parish e Matt Hobbs lo hanno tradito sul mercato e perché i giocatori sono preoccupati e confusi",
   "estratto": "Sage è sotto stretta sorveglianza dopo la disastrosa sconfitta per 5-0 contro i rivali del Brighton. Ma questo non deve distrarre dai fallimenti imperdonabili dei suoi superiori."
+ },
+ "0f649378eb": {
+  "titolo": "Manchester United, c'è una \"cultura tossica\" accesa dal trio \"madridista\" formato da Cristiano Ronaldo, Raphael Varane e Casemiro: l'attacco frontale dell'ex tecnico Erik ten Hag sulla disciplina dei giocatori",
+  "estratto": "L'ex allenatore dello United Ten Hag ha accusato i vertici del club di alimentare una \"cultura tossica\". Ten Hag, esonerato nell'ottobre 2024, è stato schietto nel giudicare i suoi ex datori di lavoro."
+ },
+ "01aa435fe3": {
+  "titolo": "Il Real Madrid sembra più forte senza Vinícius Júnior?",
+  "estratto": "Il Real Madrid sembra più forte senza Vinícius Júnior?"
+ },
+ "f33f0d77c7": {
+  "titolo": "Calciomercato e news: i club di Premier League mettono gli occhi su Alexander-Arnold tra i dubbi sul Real Madrid",
+  "estratto": "Il difensore del Real Madrid Trent Alexander-Arnold sta valutando il suo futuro al Bernabéu, con Liverpool, Chelsea, Arsenal e Manchester City che monitorano la sua situazione. Gli ultimi aggiornamenti di Transfer Talk."
+ },
+ "a393f4565f": {
+  "titolo": "Steven Gerrard: \"Nessun rimpianto\" per aver ignorato l'interesse di Real Madrid, Inter e Bayern Monaco",
+  "estratto": "L'ex capitano del Liverpool Steven Gerrard ha dichiarato di non avere \"alcun rimpianto\" per aver rifiutato il trasferimento in altri top club europei, tra cui il Real Madrid, durante la sua carriera da giocatore."
+ },
+ "fff4a5c4a9": {
+  "titolo": "Gomez: Mourinho ha creato la narrazione secondo cui \"il mondo è contro\" il Real Madrid",
+  "estratto": "Gomez: Mourinho ha creato la narrazione secondo cui \"il mondo è contro\" il Real Madrid"
+ },
+ "e21c900308": {
+  "titolo": "Dejan Kulusevski spiega perché è \"diverso\" dopo il calvario degli infortuni al Tottenham",
+  "estratto": "Dejan Kulusevski ha dichiarato di essere \"più intelligente\" dopo essersi lasciato alle spalle un'assenza per infortunio durata 526 giorni, in occasione della vittoria del Tottenham contro il Coventry lunedì."
+ },
+ "b2938bf4b2": {
+  "titolo": "Il Manchester City ha imbrogliato perché la Premier League è stata strutturata per essere ingiusta",
+  "estratto": "La Premier League è ingiusta: ad alcune squadre è permesso spendere più di tutte le altre. Quindi, era logico che il Manchester City imbrogliasse per vincere."
+ },
+ "574a62e07c": {
+  "titolo": "Ayyoub Bouaddi e Carlos Baleba offrono speranza in mezzo alle nubi che si addensano su Manchester United e Manchester City",
+  "estratto": "È stato un inizio di stagione difficile per le due potenze di Manchester, con le difficoltà del Manchester United nel ritrovare la forma sotto la guida di Michael Carrick che non accennano a diminuire, mentre il Manchester City fa i conti con le cons"
+ },
+ "02d96aaa47": {
+  "titolo": "Il PSG svela la maglia per la partita NFL tra Steelers e Saints a Parigi",
+  "estratto": "Se vi siete mai chiesti che aspetto avrebbero i detentori della Champions League del PSG se si trasformassero improvvisamente in una franchigia NFL, eccolo qui."
+ },
+ "58b5fcb95c": {
+  "titolo": "Un esperimento globale: ESPN riesce a pronosticare i vincitori del Pallone d'Oro?",
+  "estratto": "I premi del Pallone d'Oro sono notoriamente difficili da pronosticare, ma ESPN e le sue risorse globali possono riuscirci?"
  }
 }
