@@ -169,6 +169,22 @@ def didascalia(partite, pos):
     return "\n".join(t)
 
 
+def schede_del_giorno(giorno):
+    """{nome: html} delle schede usate nel video: copertina, big, italiane, tutte, finale."""
+    from datetime import date
+    giorno = date.fromisoformat(giorno) if isinstance(giorno, str) else giorno
+    leg, partite, pos = dati_di_stasera(giorno)
+    ucl = logo_dati(leg.get("logo_scuro") or leg["logo"])
+    big = next(p for p in partite if {p["casa"]["nome"], p["ospite"]["nome"]} == {"Paris Saint-Germain", "Barcelona"})
+    ita = [p for p in partite if p["casa"]["nome"] in ITALIANE or p["ospite"]["nome"] in ITALIANE]
+    finale = base_html(f'<div style="position:absolute;left:0;right:0;top:420px;text-align:center"><img src="{ucl}" style="width:420px;height:420px;object-fit:contain">'
+                       f'<h1 style="margin-top:50px;font-size:104px;padding:0 60px">Chi vince<br>il big match?</h1>'
+                       f'<div class=chip style="margin-top:50px;font-size:44px">Dimmi la tua nei commenti</div>'
+                       f'<div style="margin-top:50px;font:700 56px Oswald;color:#9fb6ff;letter-spacing:.04em">@calciooggi</div></div>', ucl).replace(f'<img class=ucl src="{ucl}">', "")
+    return {"copertina": scheda_copertina(partite, ucl, pos), "big": scheda_big(big, ucl, pos), "italiane": scheda_italiane(ita, ucl, pos),
+            "tutte": scheda_tutte(partite, ucl), "finale": finale}
+
+
 def main(giorno=None):
     from playwright.sync_api import sync_playwright
     giorno = giorno or datetime.now(ROMA).date()

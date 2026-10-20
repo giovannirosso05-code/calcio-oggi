@@ -43,7 +43,7 @@ class NessunaFoto(Exception):
 
 
 # Come la voce deve dire alcuni nomi e sigle (i sottotitoli restano scritti giusti). Si allunga col tempo.
-PRONUNCIA = {"Marseille": "Marsiglia", "Lyon": "Lione", "Nice": "Nizza", "Crystal": "Crìstal", "Palace": "Pàlis", "Bournemouth": "Bornmuth", "Brighton": "Braiton", "Leeds": "Lìds", "Auxerre": "Osèr", "Rennes": "Rèn", "Lorient": "Lorià", "Angers": "Anjè", "Hoffenheim": "Hòffenhaim", "Freiburg": "Fraiburg", "Gladbach": "Gladbac", "Leverkusen": "Lèverkusen", "Havre": "Avr", "Krösche": "Krèusce", "Krosche": "Krèusce", "Kroesche": "Krèusce", "Peque": "Pèke", "Gonçalo": "Gonsàlo", "Como": "Còmo", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "Kvaratskhelia": "Kvaratskèlia", "Dumfries": "Dumfrìs"}
+PRONUNCIA = {"Marseille": "Marsiglia", "Lyon": "Lione", "Nice": "Nizza", "Crystal": "Crìstal", "Palace": "Pàlis", "Bournemouth": "Bornmuth", "Brighton": "Braiton", "Leeds": "Lìds", "Auxerre": "Osèr", "Rennes": "Rèn", "Lorient": "Lorià", "Angers": "Anjè", "Hoffenheim": "Hòffenhaim", "Freiburg": "Fraiburg", "Gladbach": "Gladbac", "Leverkusen": "Lèverkusen", "Havre": "Avr", "Krösche": "Krèusce", "Krosche": "Krèusce", "Kroesche": "Krèusce", "Peque": "Pèke", "Gonçalo": "Gonsàlo", "Como": "Còmo", "VAR": "Var", "UEFA": "Uefa", "FIGC": "F I G C", "Kvaratskhelia": "Kvaratskèlia", "Dumfries": "Dumfrìs", "PSG": "Pi Esse Gi", "Bodø": "Bòdo", "Slovan": "Slòvan", "Fenerbahçe": "Fenerbàce"}
 
 
 def pronuncia(parola):
@@ -165,6 +165,16 @@ def pagina(spec, scena, foto_b64, credito, avanzamento, sub=None, nome=False, ho
             corpo += '<div class=sub>' + " ".join(f'<span class="{fl}">{esc(w)}</span>' for w, fl in sub) + '</div>'
     corpo += f'<div class=cred>{esc(credito)}</div>'
     return base + corpo
+
+
+def pagina_ucl(html_, avanzamento, sub=None):
+    """Una scheda già pronta (social/champions_stasera.py) con barra di avanzamento e sottotitoli sotto."""
+    extra = (f"<style>.prog{{position:absolute;left:0;top:0;height:10px;width:{avanzamento * 100:.1f}%;background:#fff;z-index:5}}"
+             f".sub{{position:absolute;left:70px;width:940px;top:1585px;text-align:center;font:700 62px/1.18 Oswald;text-transform:uppercase;word-spacing:.18em;"
+             f"-webkit-text-stroke:2px #000;paint-order:stroke fill;text-shadow:0 4px 18px rgba(0,0,0,.7);z-index:5}} .sub .g,.sub .s{{color:{NOM}}}</style><div class=prog></div>")
+    if sub:
+        extra += '<div class=sub>' + " ".join(f'<span class="{fl}">{esc(w)}</span>' for w, fl in sub) + '</div>'
+    return html_ + extra
 
 
 def pagina_tabella(spec, avanzamento, sub=None):
@@ -363,7 +373,7 @@ def risolvi_foto(spec, banca):
     usate, scelte = set(), []
     for s in scene:
         nome = s.get("foto", "")
-        if s.get("tabella") or s.get("classifica"):   # le schermate coi risultati e con la classifica non hanno un'immagine loro
+        if s.get("tabella") or s.get("classifica") or s.get("ucl"):   # le schermate coi risultati e con la classifica non hanno un'immagine loro
             scelte.append([None, False])
             continue
         cands = []
@@ -402,15 +412,15 @@ def risolvi_foto(spec, banca):
         scelte.append([c, bool(c)])
     storia = banca.tutte()
     for sc, s in zip(scelte, scene):
-        if sc[0] is None and storia and not s.get("tabella") and not s.get("classifica") and not (s.get("scheda") or s.get("stemma")):
+        if sc[0] is None and storia and not s.get("tabella") and not s.get("classifica") and not s.get("ucl") and not (s.get("scheda") or s.get("stemma")):
             sc[0] = next((x for x in storia if x["id"] not in usate), None) or storia[0]
             usate.add(sc[0]["id"])
-    if not any(c for c, _ in scelte):
+    if not any(c for c, _ in scelte) and not any(x.get("ucl") for x in scene):
         raise NessunaFoto("nessuna immagine trovata per i protagonisti: " + ", ".join(sorted({s.get("foto", "?") for s in scene})))
     foglio = []
     for i, (s, (c, propria)) in enumerate(zip(scene, scelte), 1):
         if c is None:
-            foglio.append(f"{i}. schermata {'coi risultati' if s.get('tabella') else 'con la classifica'} (nessuna foto)" if (s.get("tabella") or s.get("classifica")) else f"{i}. {s.get('foto', '?')} → nessuna immagine")
+            foglio.append(f"{i}. scheda Champions (nessuna foto)" if s.get("ucl") else f"{i}. schermata {'coi risultati' if s.get('tabella') else 'con la classifica'} (nessuna foto)" if (s.get("tabella") or s.get("classifica")) else f"{i}. {s.get('foto', '?')} → nessuna immagine")
             continue
         foglio.append(f"{i}. {s.get('foto', '?')} → {c['origine']} · {c['credito']}" + ("" if propria else "  [immagine di un'altra scena: non c'è una foto di questo nome]"))
     return scelte, foglio
@@ -467,6 +477,10 @@ async def genera(spec, uscita, banca):
         totale = t
         quadri = []   # (png, inizio, fine)
         copertina = None
+        schede_ucl = {}
+        if any(x["s"].get("ucl") for x in lavoro):
+            from social.champions_stasera import schede_del_giorno
+            schede_ucl = schede_del_giorno(spec["ucl_giorno"])
         async with async_playwright() as p:
             b = await p.chromium.launch(**({"executable_path": "/opt/pw-browsers/chromium"} if Path("/opt/pw-browsers/chromium").exists() else {}), args=["--no-sandbox"])
             pg = await b.new_page(viewport={"width": W, "height": H})
@@ -477,6 +491,16 @@ async def genera(spec, uscita, banca):
                 f = tmp / f"q{k}.png"; k += 1
                 await pg.screenshot(path=str(f)); return f
             for idx, s in enumerate(lavoro):
+                if s["s"].get("ucl"):   # scheda Champions: niente foto, la grafica è già pronta
+                    html_ucl = schede_ucl[s["s"]["ucl"]]
+                    fine_scena = (lavoro[idx + 1]["ini"] if idx < len(lavoro) - 1 else s["ini"] + s["dur"] + 0.6)
+                    copertina = copertina or await scatta(pagina_ucl(html_ucl, 0))
+                    gruppi = pezzi(s["tok"], s["tempi"]) if s["tempi"] else [([], 0)]
+                    for gi, (ids, t0) in enumerate(gruppi):
+                        ini = s["ini"] + (0 if gi == 0 else t0)
+                        fine = s["ini"] + gruppi[gi + 1][1] if gi + 1 < len(gruppi) else fine_scena
+                        quadri.append((await scatta(pagina_ucl(html_ucl, ini / totale, sub=[s["tok"][j] for j in ids])), ini, fine))
+                    continue
                 img_f, cred, propria = s["s"].get("_img") or next(x["s"]["_img"] for x in lavoro if x["s"].get("_img"))
                 fb = b64(img_f)
                 if propria and "stemm" not in cred.lower() and len(s["s"].get("foto", "").split()) >= 2 and not s["s"].get("nome"):

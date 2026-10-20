@@ -180,8 +180,8 @@ def main():
         album(risultato["anteprime"])
     else:
         scrivi("🔎 Controllo foto (guardale prima di postare):\n" + "\n".join(risultato["foglio"]))
-    cop_ia = copertina_ia(spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_ia.png")
-    cop_foto = None if cop_ia else copertina_foto(banca, spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_foto.png")[0]
+    cop_ia = None if spec.get("ucl_giorno") else copertina_ia(spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_ia.png")
+    cop_foto = None if cop_ia or spec.get("ucl_giorno") else copertina_foto(banca, spec.get("titolo_breve", ""), spec.get("fonte", ""), spec.get("serie", "Serie A"), USCITA / "copertina_foto.png")[0]
     manda("sendPhoto", "photo", cop_ia or cop_foto or risultato["copertina"], "Copertina (sfondo IA)" if cop_ia else "Copertina")
     manda("sendVideo", "video", USCITA / "video.mp4", f"🎬 {spec.get('titolo_breve', '')}")
     scrivi(didascalia(spec), da_copiare=True)
