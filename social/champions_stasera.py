@@ -104,14 +104,14 @@ def scheda_copertina(partite, ucl, pos):
     return base_html(corpo, ucl).replace(f'<img class=ucl src="{ucl}">', "")
 
 
-def scheda_big(p, ucl, pos):
+def scheda_big(p, ucl, pos, titolo="Il big match"):
     c, o = p["casa"], p["ospite"]
     pc, po = pos.get(c["id"]), pos.get(o["id"])
     info = ""
     for s, x in ((c, pc), (o, po)):
         if x:
             info += f'<div class=chip>{nome(s)}: {x["pos"]}º · {punti(x["pt"])}</div>'
-    corpo = (f'<div style="position:absolute;left:0;right:0;top:300px;text-align:center"><div class=piccolo style="letter-spacing:.18em;text-transform:uppercase">Il big match</div>'
+    corpo = (f'<div style="position:absolute;left:0;right:0;top:300px;text-align:center"><div class=piccolo style="letter-spacing:.18em;text-transform:uppercase">{titolo}</div>'
              f'<div style="display:flex;align-items:center;justify-content:center;gap:30px;margin-top:70px">'
              f'<div><img src="{logo_dati(c["logo"])}" style="width:380px;height:380px;object-fit:contain"><h2 style="margin-top:20px">{nome(c)}</h2></div>'
              f'<div style="font:700 100px Oswald;color:#9fb6ff">VS</div>'
@@ -182,6 +182,7 @@ def schede_del_giorno(giorno):
                        f'<div class=chip style="margin-top:50px;font-size:44px">Dimmi la tua nei commenti</div>'
                        f'<div style="margin-top:50px;font:700 56px Oswald;color:#9fb6ff;letter-spacing:.04em">@calciooggi</div></div>', ucl).replace(f'<img class=ucl src="{ucl}">', "")
     return {"copertina": scheda_copertina(partite, ucl, pos), "big": scheda_big(big, ucl, pos), "italiane": scheda_italiane(ita, ucl, pos),
+            **{"ita-" + (p["casa"]["nome"] if p["casa"]["nome"] in ITALIANE else p["ospite"]["nome"]).split()[-1].lower(): scheda_big(p, ucl, pos, "L'italiana di stasera") for p in ita},
             "tutte": scheda_tutte(partite, ucl), "finale": finale}
 
 
