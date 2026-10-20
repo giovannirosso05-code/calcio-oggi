@@ -1,15 +1,69 @@
 {
-  "aggiornato": "2026-10-19T21:13:42.923133+00:00",
-  "totale": 59,
+  "aggiornato": "2026-10-20T00:23:32.306996+00:00",
+  "totale": 54,
   "articoli": [
     {
-      "id": "57aac07914",
-      "titolo": "Satriano risponde a Garcia, 1-1 tra Getafe e Rayo. Carvajal in campo per 80 minuti",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/satriano-risponde-garcia-1-1-getafe-rayo-carvajal-campo-80-minuti-2285162",
-      "estratto": "Nel giorno della prima volta di Dani Carvajal con la maglia del Getafe, la squadra di José Bordalas si cimenta in una vera e propria prova di forza e riesce a raddrizzare una sfida che sembrava aver preso la strada del Rayo Vallecano.",
+      "id": "cfa3044361",
+      "titolo": "Maddison a segno in un rientro 'da sogno': il Tottenham centra la prima vittoria stagionale in Premier League",
+      "url": "https://www.espn.com/soccer/story/_/id/50222119/maddison-scores-return-spurs-1st-epl-win",
+      "estratto": "Un emozionato James Maddison ha definito un \"sogno\" segnare un gol e aiutare il Tottenham a lasciare l'ultimo posto della Premier League con una vittoria casalinga per 3-1.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T23:32:14+00:00"
+    },
+    {
+      "id": "ca07a46be7",
+      "titolo": "Nicol: Il mercato del Manchester United deve cambiare",
+      "url": "https://www.espn.com/video/clip/_/id/50221891/manchester-united-recruitment-change",
+      "estratto": "Nicol: Il mercato del Manchester United deve cambiare",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T22:52:50+00:00"
+    },
+    {
+      "id": "65412e6205",
+      "titolo": "Rae: Lamine Yamal sta restituendo la gioia al calcio",
+      "url": "https://www.espn.com/video/clip/_/id/50221935/lamine-yamal-bringing-joy-back-football",
+      "estratto": "Rae: Lamine Yamal sta restituendo la gioia al calcio",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T22:52:46+00:00"
+    },
+    {
+      "id": "481bb4a6d8",
+      "titolo": "L'acrobazia geniale di Zlatan Ibrahimovic contro l'Inghilterra, la volee di Jamie Vardy e un siluro a Blackpool... dopo lo straordinario gol da centrocampo di Diego Gomez per il Brighton, i nostri esperti scelgono la loro rete preferita",
+      "url": "https://www.dailymail.com/sport/football/article-16219895/Zlatan-Ibrahimovics-acrobatic-stunner-against-England-Jamie-Vardys-volley-belter-Blackpool-Diego-Gomezs-halfway-line-stunner-Brighton-experts-pick-favourite-goal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dopo l'incredibile gol di Diego Gomez, abbiamo chiesto ai nostri esperti quale sia stata la loro rete preferita vista dal vivo...",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T22:37:34+00:00"
+    },
+    {
+      "id": "8b06f9813f",
+      "titolo": "Paris FC, cambio al vertice: Ferracci lascia la presidenza, Arnault raccoglie il testimone",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/paris-fc-cambio-vertice-ferracci-lascia-presidenza-arnault-raccoglie-testimone-2285136",
+      "estratto": "Dopo vent’anni si chiude un’era al Paris FC.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-10-19T21:12:30+00:00"
+      "pubblicato": "2026-10-19T22:27:59+00:00"
+    },
+    {
+      "id": "20c39df327",
+      "titolo": "Perché il calcio è diventato così indulgente con le simulazioni? Sembra che il 'tuffo' sia una piaga con cui abbiamo scelto di convivere",
+      "url": "https://www.dailymail.com/sport/football/article-16221559/Why-football-gone-soft-diving-simulation-seb-drozd-partick-thistle-ayr.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "'Per me non era assolutamente rigore.' Gli sportivi sono abituati a sentire i tecnici pronunciare queste parole, ma non di certo a sentirle dire dall'allenatore la cui squadra ha tratto vantaggio dalla decisione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T22:20:46+00:00"
+    },
+    {
+      "id": "32600102ed",
+      "titolo": "Kulusevski torna e il Tottenham centra la prima vittoria stagionale in Premier League",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879257",
+      "estratto": "Il Tottenham Hotspur ha abbandonato l'ultimo posto della Premier League dopo che la splendida rete d'apertura al 14' di James Maddison ha propiziato la vittoria casalinga per 3-1 di lunedì contro il Coventry City.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-19T21:22:23+00:00"
     },
     {
       "id": "bca00d338f",
@@ -30,15 +84,6 @@
       "pubblicato": "2026-10-19T20:24:02+00:00"
     },
     {
-      "id": "20c39df327",
-      "titolo": "Perché il calcio è diventato così indulgente con le simulazioni? Sembra che il 'tuffo' sia una piaga con cui abbiamo scelto di convivere",
-      "url": "https://www.dailymail.com/sport/football/article-16221559/Why-football-gone-soft-diving-simulation-seb-drozd-partick-thistle-ayr.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "'Per me non era assolutamente rigore.' Gli sportivi sono abituati a sentire i tecnici pronunciare queste parole, ma non di certo a sentirle dire dall'allenatore la cui squadra ha tratto vantaggio dalla decisione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T19:50:17+00:00"
-    },
-    {
       "id": "99dc69e0cb",
       "titolo": "L'esterno del Celtic Jota determinato a essere più forte che mai dopo il suo atteso ritorno",
       "url": "https://www.dailymail.com/sport/football/article-16221649/Celtic-winger-Jota-determined-better-making-long-awaited-comeback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -55,15 +100,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T18:59:05+00:00"
-    },
-    {
-      "id": "667f7ef2e7",
-      "titolo": "Cristiano Ronaldo NON salterà alcuna partita e rimedia una multa irrisoria da 215 sterline — che la superstar da 488.000 sterline al giorno ripianerà in appena 38 SECONDI — per aver abbandonato il ritiro del Portogallo",
-      "url": "https://www.dailymail.com/sport/football/article-16221551/cristiano-ronaldo-ban-fine-portugal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il fuoriclasse, 41 anni, è stato tecnicamente squalificato per un mese dai vertici del calcio portoghese, ma la sanzione è retroattiva e decorre dalla sua sfuriata del 30 settembre, stando a quanto riferito dai media della sua terra natale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T18:38:22+00:00"
     },
     {
       "id": "19db3b0f0f",
@@ -102,15 +138,6 @@
       "pubblicato": "2026-10-19T17:39:52+00:00"
     },
     {
-      "id": "318b0bccce",
-      "titolo": "Il Brentford si rivolge alla polizia per il lancio \"pericoloso\" di una palla da rugby nella partita contro il Liverpool",
-      "url": "https://www.espn.com/soccer/story/_/id/50219498/brentford-contact-police-dangerous-rugby-ball-stunt-liverpool-game",
-      "estratto": "Il Brentford ha contattato la polizia in seguito a un episodio \"pericoloso\" e \"potenzialmente molto dannoso\" che ha visto coinvolto un \"oggetto calciato dall'alto verso il terreno di gioco\" nella sconfitta per 2-1 contro il Liverpool.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T16:55:50+00:00"
-    },
-    {
       "id": "7d5c025a05",
       "titolo": "La leggenda dell'Everton Duncan Ferguson, 54 anni, fa un ritorno a sorpresa in panchina assumendo la guida del club di Irish Premiership Glentoran",
       "url": "https://www.dailymail.com/sport/football/article-16220985/Everton-legend-Duncan-Ferguson-54-makes-surprise-return-management-takes-reins-Irish-Premiership-club-Glentoran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -136,15 +163,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T16:30:39+00:00"
-    },
-    {
-      "id": "d1fec34005",
-      "titolo": "'In campo è come una Formula 1': l'ascesa fulminea di Victor Munoz, il talento esplosivo che pratica la mindfulness, ha detto no al Real Madrid e con una disciplina 'spartana' è diventato l'esterno perfetto per Andoni Iraola",
-      "url": "https://www.dailymail.com/sport/football/article-16220349/victor-munoz-liverpool-real-madrid-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Chiedete di Munoz a chiunque in Spagna e le risposte convergeranno tutte sullo stesso punto: la sua velocità. 'Era la Formula 1 del vivaio del Real Madrid', racconta una fonte.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T16:07:29+00:00"
     },
     {
       "id": "4c45ce4693",
@@ -309,15 +327,6 @@
       "pubblicato": "2026-10-18T19:23:44+00:00"
     },
     {
-      "id": "13200beed2",
-      "titolo": "Celtic-Hearts 7-1: un altro sogno scudetto svanisce a Celtic Park per i granata di Tynecastle; le doppiette di Benjamin Nygren e Callum Osmand demoliscono senza pietà gli uomini di Wouter Vrancken",
-      "url": "https://www.dailymail.com/sport/football/article-16218921/CELTIC-7-HEARTS-1-Tynecastle-title-dream-dies-death-Celtic-Park-Vranckens-men-ruthlessly-ripped-apart.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "All'inizio di questa settimana, Tony Bloom aveva ribadito i suoi piani per gli Hearts, dichiarandosi convinto che diventeranno campioni di Scozia entro i prossimi dieci anni.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T18:00:44+00:00"
-    },
-    {
       "id": "b398991028",
       "titolo": "Fabian Hurzeler sfata il tabù del Crystal Palace mentre il Brighton spazza via i suoi acerrimi rivali per 5-0 lasciando Pierre Sage di sasso, scrive NICK SZCZEPANIK",
       "url": "https://www.dailymail.com/sport/football/article-16218749/Fabian-Hurzeler-breaks-Crystal-Palace-duck-Brighton-blow-big-rivals-away-5-0-leave-Pierre-Sage-smarting-writes-Nick-Szczepanik.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -361,15 +370,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-18T16:37:09+00:00"
-    },
-    {
-      "id": "c8b5c29d10",
-      "titolo": "Rio Ngumoha: Imparo da Anthony Gordon e Bukayo Saka... e stiamo trattando il rinnovo con il Liverpool",
-      "url": "https://www.dailymail.com/sport/football/article-16218593/rio-ngumoha-liverpool-contract-saka-gordon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La giovane promessa del Liverpool Rio Ngumoha afferma di essersi ispirato guardando Bukayo Saka e Anthony Gordon con la maglia dell'Inghilterra e assicura che le trattative per il rinnovo ad Anfield 'stanno procedendo bene'.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T15:09:07+00:00"
     },
     {
       "id": "50ce769ee6",
@@ -462,15 +462,6 @@
       "pubblicato": "2026-10-17T15:46:16+00:00"
     },
     {
-      "id": "deb731a7e1",
-      "titolo": "Il Liverpool subisce un duro colpo poiché Dominik Szoboszlai è costretto a uscire dopo appena mezz'ora dal suo rientro dall'infortunio contro il Brentford",
-      "url": "https://www.dailymail.com/sport/football/article-16216923/Liverpool-suffer-major-blow-Dominik-Szoboszlai-forced-just-half-hour-injury-comeback-Brentford.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il nazionale ungherese si è accasciato a gioco fermo e ha fatto cenno alla panchina del Liverpool di dover essere sostituito.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T15:41:25+00:00"
-    },
-    {
       "id": "6c840c6e99",
       "titolo": "È questo il peggior rigore della storia?",
       "url": "https://www.dailymail.com/sport/football/article-16215981/Is-worst-penalty-decision-ever.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -478,15 +469,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-17T11:47:24+00:00"
-    },
-    {
-      "id": "c96fa85c0b",
-      "titolo": "Rio Ferdinand coinvolto in una polemica sul body-shaming dopo aver detto a un influencer del Manchester United di 'tirarsi su le tette' in seguito a una frecciata su Instagram",
-      "url": "https://www.dailymail.com/sport/football/article-16216439/rio-ferdinand-man-united-influencer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La battuta si è trasformata in un vero e proprio disastro di pubbliche relazioni per il 47enne, che ora sta subendo una pioggia di critiche dai tifosi nella sezione commenti del suo profilo Instagram, sebbene alcuni si siano schierati dalla sua parte",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T10:33:23+00:00"
     },
     {
       "id": "1273ccac2e",
@@ -505,33 +487,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-17T01:00:56+00:00"
-    },
-    {
-      "id": "54a911d8cd",
-      "titolo": "Il tecnico del Celtic O'Neill insiste: un futuro trionfo in campionato degli Hearts sarebbe una boccata d'ossigeno per il calcio scozzese",
-      "url": "https://www.dailymail.com/sport/football/article-16215381/Celtic-boss-ONeill-insists-future-Hearts-title-triumph-shot-arm-Scottish-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "MARTIN O'NEILL ritiene che sarebbe un enorme stimolo per il calcio scozzese se gli Hearts dovessero vincere il titolo di campione in un prossimo futuro.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-16T21:57:05+00:00"
-    },
-    {
-      "id": "45aee86bf2",
-      "titolo": "'Quando conta davvero, l'Inghilterra sceglierebbe Pickford': il tecnico dell'Everton David Moyes insiste sul fatto che il suo numero uno sia più in forma che mai nonostante la pressione per il posto in Nazionale... e ribadisce che resta un calciatore migliore del rivale James Trafford",
-      "url": "https://www.dailymail.com/sport/football/article-16215223/When-really-matters-England-choose-Pickford-Everton-boss-David-Moyes-insists-No1-better-despite-pressure-international-place-says-remains-better-kicker-rival-James-Trafford.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Trafford, passato al Leeds dal Manchester City, ha soffiato a Pickford la maglia da titolare nei Tre Leoni in due delle quattro partite della recente sosta per le nazionali.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-16T21:30:49+00:00"
-    },
-    {
-      "id": "cff4c9fe23",
-      "titolo": "Jamie Vardy si sblocca con il Burnley: l'ex stella del Leicester, a 39 anni, va a segno per la ventesima stagione consecutiva, ma non riesce a evitare la rimonta dei Wolves",
-      "url": "https://www.dailymail.com/sport/football/article-16215779/Jamie-Vardy-Burnley-20th-consecutive-season-Wolves-comeback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il 39enne si è sbloccato con la sua nuova squadra nel suo stile tipico, lanciandosi su un filtrante di Jacob Bruun Larsen e battendo il portiere dei Wolves Jose Sa.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-16T21:26:49+00:00"
     }
   ]
 }
