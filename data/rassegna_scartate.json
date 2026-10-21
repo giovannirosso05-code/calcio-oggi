@@ -1,7 +1,61 @@
 {
-  "aggiornato": "2026-10-21T05:54:16.513487+00:00",
-  "totale": 49,
+  "aggiornato": "2026-10-21T11:11:52.313859+00:00",
+  "totale": 54,
   "articoli": [
+    {
+      "id": "4bb5af1074",
+      "titolo": "Anthony Gordon: il PSG ha avuto momenti migliori e più qualità nella vittoria sul Barcellona",
+      "url": "https://www.espn.com/soccer/story/_/id/50235838/anthony-gordon-psg-had-better-moments-more-quality-barcelona-win",
+      "estratto": "Anthony Gordon ha offerto una valutazione onesta della sconfitta del Barcellona per 4-2 contro il Paris Saint-Germain, affermando che i campioni d'Europa hanno avuto \"momenti migliori e maggiore qualità\".",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-21T11:04:56+00:00"
+    },
+    {
+      "id": "d3c4387320",
+      "titolo": "Mohamed Salah fondamentale per la crescita di Rio Ngumoha al Liverpool - Virgil van Dijk",
+      "url": "https://www.espn.com/soccer/story/_/id/50236138/mohamed-salah-key-rio-ngumoha-development-liverpool-virgil-van-dijk",
+      "estratto": "Il capitano del Liverpool Virgil van Dijk ha dato merito a Mohamed Salah di aver contribuito alla crescita di Rio Ngumoha e crede che il giovane debba ancora mostrare \"molto di più\".",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-21T11:00:36+00:00"
+    },
+    {
+      "id": "b5b058fb07",
+      "titolo": "Furia Jack Wilshere: scontro con la panchina del Barnsley e scintille nel finale dopo la vittoria in League One",
+      "url": "https://www.dailymail.com/sport/football/article-16226169/jack-wilshere-luton-barnsley-melee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'allenatore del Luton Jack Wilshere è rimasto coinvolto in una furiosa mischia dopo il fischio finale della sfida della sua squadra contro il Barnsley a Kenilworth Road. Il Luton di Wilshere ha battuto il Barnsley 2-1 martedì sera.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-21T10:38:07+00:00"
+    },
+    {
+      "id": "08a34ba06a",
+      "titolo": "Come l'ultima trasformazione di Raphinha lo ha reso il centravanti di punta del Barcellona",
+      "url": "https://www.espn.com/soccer/story/_/id/50196710/raphinha-latest-transformation-barcelona-star-striker-premier-league-leeds-united",
+      "estratto": "Prima che Raphinha diventasse il capitano del Barcellona e si trasformasse nel suo attaccante principale, lottava per non retrocedere in Premier League con il Leeds United. È stata la sua consacrazione.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-21T08:34:23+00:00"
+    },
+    {
+      "id": "51d82d6183",
+      "titolo": "Alexis Mac Allister: \"Qualcosa non andava\" con Arne Slot al Liverpool",
+      "url": "https://www.espn.com/soccer/story/_/id/50235298/alexis-mac-allister-arne-slot-liverpool-andoni-iraola",
+      "estratto": "Alexis Mac Allister ha affermato che Andoni Iraola ha risolto i problemi interni al gruppo del Liverpool lasciati dal suo predecessore Arne Slot.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-21T08:33:46+00:00"
+    },
+    {
+      "id": "3435275db4",
+      "titolo": "Non basta la rete di Mason Greenwood: il Fenerbahce fermato dallo Slavia Praga",
+      "url": "https://www.espn.com/soccer/story/_/id/50235361/mason-greenwood-goal-vain-fenerbahce-held-slavia-prague",
+      "estratto": "Mason Greenwood ha segnato uno splendido gol in mezza volata per il Fenerbahce, prima che Pavel Kacor gli rispondesse con un clamoroso pareggio all'ultimo minuto per lo Slavia Praga martedì in Champions League.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-21T07:42:34+00:00"
+    },
     {
       "id": "9052944f47",
       "titolo": "Il presidente dell'autorità di vigilanza calcistica ribadisce il potere 'assoluto' di imporre la cessione del City",
@@ -37,6 +91,15 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-10-20T22:11:46+00:00"
+    },
+    {
+      "id": "2a5af7b067",
+      "titolo": "Manna conferma Allegri: \"Non è assolutamente in discussione. Serve pazienza\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152028629/manna_conferma_allegri_non_assolutamente_in_discussione_serve_pazienza/",
+      "estratto": "Le parole del direttore sportivo del Napoli prima della sfida di Champions League contro il Bodo/Glimt: ecco cosa ha detto",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-10-20T18:37:34+00:00"
     },
     {
       "id": "8a149d3122",
@@ -102,6 +165,15 @@
       "pubblicato": "2026-10-20T13:25:30+00:00"
     },
     {
+      "id": "f6d5756b47",
+      "titolo": "Chivu stizzito: \"Parlate sempre delle cose che non vanno. La Champions è solo un sogno\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/inter/2026/10/20-152025019/chivu_stizzito_parlate_sempre_delle_cose_che_non_vanno_la_champions_solo_un_sogno/",
+      "estratto": "L'allenatore dell'Inter prima della sfida contro lo Shakhtar: \"Squadra forte, sarà difficile. L'unico responsabile sono io, altrimenti di cosa parliamo?\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-10-20T13:10:26+00:00"
+    },
+    {
       "id": "58b5fcb95c",
       "titolo": "Un esperimento globale: ESPN riesce a pronosticare i vincitori del Pallone d'Oro?",
       "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
@@ -156,15 +228,6 @@
       "pubblicato": "2026-10-19T22:20:46+00:00"
     },
     {
-      "id": "32600102ed",
-      "titolo": "Kulusevski torna e il Tottenham centra la prima vittoria stagionale in Premier League",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879257",
-      "estratto": "Il Tottenham Hotspur ha abbandonato l'ultimo posto della Premier League dopo che la splendida rete d'apertura al 14' di James Maddison ha propiziato la vittoria casalinga per 3-1 di lunedì contro il Coventry City.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T21:22:23+00:00"
-    },
-    {
       "id": "0c94511375",
       "titolo": "Trinity Rodman cattura l'attenzione al debutto nel Victoria's Secret Fashion Show mentre la stella del calcio si riunisce con la figlia di Kobe Bryant, Natalia",
       "url": "https://www.dailymail.com/sport/football/article-16219599/kobe-bryant-natalia-trinity-rodman-victorias-secret.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -199,15 +262,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T18:18:23+00:00"
-    },
-    {
-      "id": "9ed9b50af6",
-      "titolo": "Power Ranking di Champions League prima della 3ª giornata: Chi è al 1º posto?",
-      "url": "https://www.espn.com/soccer/story/_/id/50211589/champions-league-power-rankings-md3-no-1-psg-arsenal-barcelona-bayern-munich",
-      "estratto": "È tempo di UEFA Champions League! Sono passate circa sei settimane dal nostro ultimo aggiornamento, ma il nostro panel di esperti e votanti stilerà la classifica delle prime 10 squadre della competizione. A che posizione si trova il vostro club?",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-19T18:17:43+00:00"
     },
     {
       "id": "868f806dae",
@@ -307,15 +361,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T12:17:26+00:00"
-    },
-    {
-      "id": "b774de3e9f",
-      "titolo": "Gasperini a sorpresa: \"Per Dybala ci vorranno altre due settimane\". Pellegrini: \"Vogliamo restare in alto\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-152001452/gasperini_a_sorpresa_per_dybala_ci_vorranno_altre_due_settimane_pellegrini_vogliamo_restare_in_alto/",
-      "estratto": "Il tecnico prima dello Slovan Bratislava: \"Una nuova risonanza ha evidenziato una piccola lesione. Abbiamo bisogno di vincere\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-10-19T12:13:26+00:00"
     },
     {
       "id": "95bed25b59",
