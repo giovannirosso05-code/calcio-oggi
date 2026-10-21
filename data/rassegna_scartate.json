@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-10-20T22:30:38.000479+00:00",
+  "aggiornato": "2026-10-21T00:59:18.346397+00:00",
   "totale": 51,
   "articoli": [
+    {
+      "id": "9052944f47",
+      "titolo": "Il presidente dell'autorità di vigilanza calcistica ribadisce il potere 'assoluto' di imporre la cessione del City",
+      "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale",
+      "estratto": "L'Independent Football Regulator avrà un \"potere assoluto\" per costringere i proprietari del Manchester City a vendere il club qualora venisse accertata una gestione irregolare, ha dichiarato il presidente dell'organismo di controllo.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-20T23:53:19+00:00"
+    },
+    {
+      "id": "546a0f970d",
+      "titolo": "Klinsmann: Ten Hag avrebbe dovuto tenere per sé i commenti su Ronaldo",
+      "url": "https://www.espn.com/video/clip/_/id/50232810/ten-hag-kept-ronaldo-comments-himself",
+      "estratto": "Klinsmann: Ten Hag avrebbe dovuto tenere per sé i commenti su Ronaldo",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-20T22:53:44+00:00"
+    },
     {
       "id": "c9b7177c25",
       "titolo": "Álvarez segna il primo gol con l'Atleti da aprile: sapevo che sarebbe arrivato",
@@ -291,15 +309,6 @@
       "pubblicato": "2026-10-19T13:47:36+00:00"
     },
     {
-      "id": "28289c4c14",
-      "titolo": "L'ex nazionale inglese Steven Caulker rivela su LinkedIn il peso della disoccupazione",
-      "url": "https://www.espn.com/soccer/story/_/id/50217509/ex-england-international-steven-caulker-reveals-toll-unemployment-linkedin",
-      "estratto": "L'ex nazionale inglese Steven Caulker ha condiviso la sua paura di fronteggiare la disoccupazione.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T13:15:32+00:00"
-    },
-    {
       "id": "9eeefbfa43",
       "titolo": "Il solitario calciatore protestatario James McClean afferma di 'sostenere l'IRA' e il loro 'spargimento di sangue' - e rivela di disattivare l'audio della TV ogni volta che viene suonata 'God Save The King'",
       "url": "https://www.dailymail.com/sport/football/article-16218627/Reclusive-poppy-protest-footballer-James-McClean-says-supports-IRA-bloodshed-reveals-mutes-TV-God-Save-King-played.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -451,15 +460,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-18T12:15:39+00:00"
-    },
-    {
-      "id": "2027703837",
-      "titolo": "McInnes si pente di aver subito il pareggio che ha sgonfiato i Rangers ed è costato punti agli uomini di Ibrox in un thriller a Dens Park",
-      "url": "https://www.dailymail.com/sport/football/article-16217699/McInnes-rues-conceding-equaliser-burst-Rangers-bubble-cost-Ibrox-men-points-Dens-Park-thriller.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "DEREK McINNES ha sostenuto che il gol del pareggio del Dundee è sembrato come un palloncino che scoppia per la sua squadra dei Rangers, che si è fatta sfuggire due punti da una situazione di vantaggio a Dens Park.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-17T22:48:24+00:00"
     }
   ]
 }
