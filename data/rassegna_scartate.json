@@ -1,15 +1,42 @@
 {
-  "aggiornato": "2026-10-21T15:58:16.155998+00:00",
-  "totale": 54,
+  "aggiornato": "2026-10-21T19:59:47.712534+00:00",
+  "totale": 49,
   "articoli": [
     {
-      "id": "760f19617f",
-      "titolo": "Boca da impazzire: 3-1 al Vasco, Paredes decisivo. Xeneizes in finale di Sudamericana",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/boca-impazzire-3-1-vasco-paredes-decisivo-xeneizes-finale-sudamericana-2285725",
-      "estratto": "Il Boca Juniors ribalta la semifinale e conquista la finale di Copa Sudamericana.",
+      "id": "c71c5bab5b",
+      "titolo": "Osvaldo festeggia in ospedale con la maglia di Paredes: il Boca è in finale di Sudamericana",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/osvaldo-festeggia-ospedale-maglia-paredes-boca-finale-sudamericana-2285835",
+      "estratto": "Daniel Osvaldo ha vissuto una notte speciale da tifoso.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-10-21T15:42:57+00:00"
+      "pubblicato": "2026-10-21T19:56:06+00:00"
+    },
+    {
+      "id": "10a98329fc",
+      "titolo": "Il Dundee rende omaggio al 'fulgido' genio georgiano Nemsadze",
+      "url": "https://www.dailymail.com/sport/football/article-16227673/Dundee-Nemsadze-tribute.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Dundee ha reso omaggio a Giorgi Nemsadze dopo la notizia della morte del loro 'fulgido' ex centrocampista all'età di 54 anni.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-21T17:54:22+00:00"
+    },
+    {
+      "id": "ded583f30c",
+      "titolo": "Q&A di Newcastle Confidential con CRAIG HOPE: Svelato il misterioso infortunio di Tino Livramento, cosa mi dicono le fonti sul futuro di Matthias Jaissle, il recupero lampo di Anthony Elanga e i piani di mercato di gennaio",
+      "url": "https://www.dailymail.com/sport/football/article-16226373/Newcastle-Confidential-Livramento-injury-Jaissle-Elanga-transfers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dal futuro e dalle tattiche di Jaissle fino agli infortuni e ai piani di mercato di gennaio, CRAIG HOPE affronta le vostre domande più importanti con approfondimenti e informazioni dall'interno di St James' Park…",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-21T16:15:59+00:00"
+    },
+    {
+      "id": "5be9c63a4c",
+      "titolo": "L'incubo John Textor al Crystal Palace: BOBBY MANZI rivela le spaccature con Steve Parish, il suo impero calcistico in frantumi e perché anche il Lione non lo sopporta",
+      "url": "https://www.dailymail.com/sport/football/article-16208241/Crystal-Palaces-John-Textor-nightmare-BOBBY-MANZI-reveals-blazing-rows-Steve-Parish-crumbling-football-empire-Lyon-stand-either.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Quando è risuonato il triplice fischio a Wembley e il Crystal Palace ha vinto la FA Cup, John Textor si è chinato per abbracciare Steve Parish. Il digiuno di trofei era finito. L'animosità era appena iniziata.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-21T16:10:12+00:00"
     },
     {
       "id": "e7143f3764",
@@ -75,15 +102,6 @@
       "pubblicato": "2026-10-21T11:13:47+00:00"
     },
     {
-      "id": "51d82d6183",
-      "titolo": "Alexis Mac Allister: \"Qualcosa non andava\" con Arne Slot al Liverpool",
-      "url": "https://www.espn.com/soccer/story/_/id/50235298/alexis-mac-allister-arne-slot-liverpool-andoni-iraola",
-      "estratto": "Alexis Mac Allister ha affermato che Andoni Iraola ha risolto i problemi interni al gruppo del Liverpool lasciati dal suo predecessore Arne Slot.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T08:33:46+00:00"
-    },
-    {
       "id": "3435275db4",
       "titolo": "Non basta la rete di Mason Greenwood: il Fenerbahce fermato dallo Slavia Praga",
       "url": "https://www.espn.com/soccer/story/_/id/50235361/mason-greenwood-goal-vain-fenerbahce-held-slavia-prague",
@@ -91,6 +109,15 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-10-21T07:42:34+00:00"
+    },
+    {
+      "id": "736376bc7e",
+      "titolo": "L'infortunio di Kvaratskhelia è un dramma! L'allarme dello specialista: \"Starà fuori 9 mesi\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152035562/l_infortunio_di_kvaratskhelia_un_dramma_l_allarme_dello_specialista_star_fuori_9_mesi/",
+      "estratto": "L'ex Napoli è crollato a terra dopo un contrasto durante la partita contro il Barcellona: si teme il peggio",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-10-21T06:47:21+00:00"
     },
     {
       "id": "9052944f47",
@@ -228,15 +255,6 @@
       "pubblicato": "2026-10-20T10:21:15+00:00"
     },
     {
-      "id": "f1b47d23e7",
-      "titolo": "Senza Lautaro l’Inter ha bisogno di Thuram anche in Champions: deve sbloccarsi in coppa",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152017723/senza_lautaro_linter_ha_bisogno_di_thuram_anche_in_champions_deve_sbloccarsi_in_coppa/",
-      "estratto": "Inesorabile in Serie A, il francese è ancora a secco in Europa dove il suo digiuno dura da tredici mesi: con il capitano infortunato Chivu punta forte su di lui",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-10-20T07:03:34+00:00"
-    },
-    {
       "id": "481bb4a6d8",
       "titolo": "L'acrobazia geniale di Zlatan Ibrahimovic contro l'Inghilterra, la volee di Jamie Vardy e un siluro a Blackpool... dopo lo straordinario gol da centrocampo di Diego Gomez per il Brighton, i nostri esperti scelgono la loro rete preferita",
       "url": "https://www.dailymail.com/sport/football/article-16219895/Zlatan-Ibrahimovics-acrobatic-stunner-against-England-Jamie-Vardys-volley-belter-Blackpool-Diego-Gomezs-halfway-line-stunner-Brighton-experts-pick-favourite-goal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -336,15 +354,6 @@
       "pubblicato": "2026-10-19T16:30:39+00:00"
     },
     {
-      "id": "e52b7ebdb0",
-      "titolo": "\"Cavalli tutto bene?\", Allegri e il divertente siparietto in conferenza stampa",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/19-152005680/cavalli_tutto_bene_allegri_e_il_divertente_siparietto_in_conferenza_stampa/",
-      "estratto": "Lo show dell'allenatore del Napoli con un giornalista prima delle domande in vista della partita di Champions contro il Bodo",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-10-19T16:18:47+00:00"
-    },
-    {
       "id": "7717143538",
       "titolo": "La stella dell'Inghilterra Marc Guehi suggerisce che inginocchiarsi potrebbe aver 'perso il suo significato' e ne mette in dubbio l'importanza mentre guida i big della Premier League nel respingere il gesto antirazzista",
       "url": "https://www.dailymail.com/sport/football/article-16220539/Marc-Guehi-suggests-taking-knee-lost-meaning-questions-significance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -433,60 +442,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-18T20:16:00+00:00"
-    },
-    {
-      "id": "d72da0fe82",
-      "titolo": "Il tecnico del Celtic Martin O'Neill afferma che la vittoria per sette gol contro gli Hearts è una spinta fondamentale in vista della sfida di Europa League",
-      "url": "https://www.dailymail.com/sport/football/article-16219023/Celtic-boss-Martin-ONeill-says-seven-goal-slaughter-Hearts-major-boost-ahead-Europa-League-tie.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Martin O'Neill ritiene che la spietata goleada di oggi contro gli Hearts possa dare nuova vita alla stagione del Celtic.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T19:23:44+00:00"
-    },
-    {
-      "id": "b398991028",
-      "titolo": "Fabian Hurzeler sfata il tabù del Crystal Palace mentre il Brighton spazza via i suoi acerrimi rivali per 5-0 lasciando Pierre Sage di sasso, scrive NICK SZCZEPANIK",
-      "url": "https://www.dailymail.com/sport/football/article-16218749/Fabian-Hurzeler-breaks-Crystal-Palace-duck-Brighton-blow-big-rivals-away-5-0-leave-Pierre-Sage-smarting-writes-Nick-Szczepanik.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "NICK SZCZEPANIK ALL'AMEX STADIUM: Ci vorrà del tempo per metabolizzare questa sconfitta per i tifosi in trasferta e per il loro allenatore in discussione Pierre Sage.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T17:39:16+00:00"
-    },
-    {
-      "id": "f1c7050585",
-      "titolo": "Tutto ciò che mancava alla difesa comica dei Rangers era una buccia di banana e qualcuno che si tirasse un secchio d'acqua addosso",
-      "url": "https://www.dailymail.com/sport/football/article-16218691/Rangers-Dundee-defending.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Come ogni allenatore di calcio in erba vi dirà, vincere le partite significa curare i piccoli dettagli.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T17:35:07+00:00"
-    },
-    {
-      "id": "3387c180e5",
-      "titolo": "La luna di miele è finita per il tecnico degli Hibs Reedijk mentre i malcapitati uomini di Leith arrivano a SEI mesi senza una vittoria in campionato a Easter Road",
-      "url": "https://www.dailymail.com/sport/football/article-16218693/Honeymoon-Hibs-boss-Reedijk-hapless-Leith-men-make-SIX-months-without-league-win-Easter-Road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Parlando in vista dello scontro di sabato con il Falkirk, il nuovo allenatore degli Hibs Marink Reedijk non avrebbe potuto essere più entusiasta della prospettiva di fare il suo esordio a Easter Road.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T17:06:18+00:00"
-    },
-    {
-      "id": "9f872b1084",
-      "titolo": "Tutta la squadra dei Rangers condivide la colpa dei costosi errori di Dan Neil e Dujon Sterling, sostiene il portiere Ivor Pandur",
-      "url": "https://www.dailymail.com/sport/football/article-16218861/Rangers-Pandur-Neil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ivor Pandur è irremovibile sul fatto che i Rangers si assumeranno la responsabilità collettiva per i loro fallimenti del fine settimana a Dens Park.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T16:49:09+00:00"
-    },
-    {
-      "id": "d37157dd6d",
-      "titolo": "Alex Scott LASCIA il programma di Disney+ sulla Women's Champions League dedicato alla 'Gen Z', a pochi giorni dall'avvio, dopo aver dichiarato di 'non condividere tutte le decisioni'",
-      "url": "https://www.dailymail.com/sport/football/article-16212253/Alex-Scott-QUITS-Disneys-Gen-Z-Womens-Champions-League-football-just-two-rounds-matches-saying-didnt-agree-decisions-Match-Day-dog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Alex Scott ha lasciato il suo ruolo all'interno della copertura della Women's Champions League su Disney+ poche settimane dopo aver preso parte al lancio del nuovo programma 'The Hangout', aspramente criticato dai tifosi.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-18T16:37:09+00:00"
     }
   ]
 }
