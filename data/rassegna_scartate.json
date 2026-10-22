@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-10-21T23:11:13.737566+00:00",
-  "totale": 55,
+  "aggiornato": "2026-10-22T01:32:29.604090+00:00",
+  "totale": 57,
   "articoli": [
+    {
+      "id": "36ba5c663a",
+      "titolo": "Valverde e Güler dimostrano perché saranno fondamentali per il Real Madrid nel Clásico di domenica",
+      "url": "https://www.espn.com/soccer/story/_/id/50242608/valverde-guler-show-why-theyll-key-madrid-sundays-clasico",
+      "estratto": "Kylian Mbappé ha avvertito che non bisogna dare \"troppo peso\" alla vittoria travolgente del Real Madrid contro il RB Leipzig in vista del Clásico di domenica, ma José Mourinho sta sicuramente iniziando a capire quale sia il suo undici migliore.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-21T23:50:25+00:00"
+    },
+    {
+      "id": "a61680c3c0",
+      "titolo": "Un'Aston Villa \"entusiasta\" si gode la sfida di Champions League dopo la terza vittoria consecutiva",
+      "url": "https://www.espn.com/soccer/story/_/id/50242645/aston-villa-uefa-champions-league-2026-viking-unai-emery",
+      "estratto": "Il tecnico dell'Aston Villa Unai Emery ritiene che la fiducia dei suoi giocatori stia crescendo dopo aver proseguito il loro impressionante avvio nella campagna di Champions League con una vittoria per 3-1 contro il Viking.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-21T23:48:19+00:00"
+    },
+    {
+      "id": "483e6bf255",
+      "titolo": "Jamie Carragher attacca Bruno Fernandes per le critiche a Michael Carrick: \"Uno scandalo assoluto\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50242382/jamie-carragher-slams-bruno-fernandes-michael-carrick-criticism-absolute-disgrace-man-united",
+      "estratto": "Carragher è stato feroce nelle sue critiche nei confronti di Fernandes dopo che il centrocampista è sembrato criticare le tattiche di Carrick nella sconfitta del Manchester United contro il Como.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-21T23:14:38+00:00"
+    },
     {
       "id": "50df028da8",
       "titolo": "Lennon avverte che gli allenatori hanno bisogno di supporto per la salute mentale tra critiche e abusi 'esagerati'",
@@ -9,7 +36,7 @@
       "estratto": "Neil Lennon ha sollevato preoccupazioni sul benessere psicologico dei moderni allenatori di calcio a causa del controllo 'istantaneo' ed 'esagerato' sul loro ruolo.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-21T23:02:14+00:00"
+      "pubblicato": "2026-10-21T23:09:38+00:00"
     },
     {
       "id": "909b0a00e0",
@@ -487,15 +514,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T08:55:59+00:00"
-    },
-    {
-      "id": "6d9e836bd0",
-      "titolo": "Viaggio verso Wembley: l'Halifax raggiunge il primo turno in un amato stadio che potrebbe presto perdere, mentre i sogni di FA Cup dell'ambizioso South Shields svaniscono per un altro anno",
-      "url": "https://www.dailymail.com/sport/football/article-16218801/journey-wembley-halifax-south-shields.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "IAN HERBERT ALLO SHAY STADIUM: Siamo qui a Halifax, nello Yorkshire occidentale, con il South Shields, alla sesta tappa del nostro viaggio verso Wembley raccontato attraverso tutti i 13 turni.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T01:00:46+00:00"
     }
   ]
 }

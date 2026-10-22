@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-21T23:11:13.866336+00:00",
-  "totale": 193,
+  "aggiornato": "2026-10-22T01:32:29.733496+00:00",
+  "totale": 194,
   "articoli": [
     {
       "id": "d3187a51ec",
@@ -39,16 +39,16 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "5ad5555c2d",
-      "titolo": "Ruben Amorim disinteressato a contribuire al dibattito sul Man United: \"Nulla da dire\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50241962/ruben-amorim-uninterested-contributing-man-united-discourse-say-ac-milan",
-      "estratto": "Ruben Amorim ha insistito sul fatto di non avere \"nulla da dire\" sul Manchester United in vista della sfida di Europa League del Milan a Bournemouth giovedì sera.",
-      "fonte": "ESPN",
-      "serie": "Estero",
+      "id": "3cbf29a491",
+      "titolo": "Claudio Pasqualin: \"Como, dalla Pergolettese al Manchester United. Bravi. Juve tutta da rifare\"",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/claudio-pasqualin-como-pergolettese-manchester-united-bravi-juve-rifare-2285918",
+      "estratto": "\"Quella del Como è stata una vittoria storica, importante.",
+      "fonte": "TMW",
+      "serie": "Serie A",
       "citazione": true,
       "punteggio": 190,
-      "pubblicato": "2026-10-21T22:04:57+00:00",
-      "squadra": "Man United"
+      "pubblicato": "2026-10-21T22:16:41+00:00",
+      "squadra": "Como"
     },
     {
       "id": "8d8a922945",
@@ -75,16 +75,16 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "c9b4e39932",
-      "titolo": "Salto in avanti nel ranking Uefa dopo i colpi Como, Inter, Roma e Napoli: come cambia la corsa al quinto posto Champions",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152053378/salto_in_avanti_nel_ranking_uefa_dopo_i_colpi_como_inter_roma_e_napoli/",
-      "estratto": "L'Italia sale in classifica: lo slot extra nella coppa più importante in Europa non è un miraggio",
+      "id": "272b332d55",
+      "titolo": "Bufera Manchester United: \"Umiliati\", \"Vergognosi\". La stampa inglese si ribella e chiede l'esonero di Carrick",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152051601/bufera_manchester_united_umiliati_vergognosi_la_stampa_inglese_si_ribella_e_chiede_l_esonero_di_carrick/",
+      "estratto": "I Red Devils travolti 4-1 dal Como nella terza giornata della Fase Campionato di Champions League: polemiche no stop oltremanica dopo il fischio finale",
       "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 170,
-      "pubblicato": "2026-10-21T21:03:16+00:00",
-      "squadra": "Como"
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 180,
+      "pubblicato": "2026-10-21T19:36:05+00:00",
+      "squadra": "Man United"
     },
     {
       "id": "17cadba3a1",
@@ -227,6 +227,17 @@
       "citazione": true,
       "punteggio": 60,
       "pubblicato": "2026-10-21T15:26:32+00:00"
+    },
+    {
+      "id": "0d9605ac82",
+      "titolo": "All'oscuro di tutto, Kane cerca di non \"stressarsi\" per l'assegnazione del Pallone d'Oro di lunedì",
+      "url": "https://www.espn.com/soccer/story/_/id/50242239/kane-trying-stress-monday-ballon-dor",
+      "estratto": "L'attaccante del Bayern Harry Kane ha dichiarato che preferirebbe sapere in anticipo se ha vinto il Pallone d'Oro, aggiungendo di essere ancora all'oscuro riguardo alla decisione di lunedì.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-21T23:34:34+00:00"
     },
     {
       "id": "8132ddef4f",
@@ -430,15 +441,15 @@
       "pubblicato": "2026-10-20T13:54:13+00:00"
     },
     {
-      "id": "844be3279c",
-      "titolo": "Lazio, per Gudmundsson, Marusic e Rovella rientro rimandato. Cancellieri è ok",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-gudmundsson-marusic-rovella-rientro-rimandato-cancellieri-ok-2285868",
-      "estratto": "Non è ancora il momento di Marusic e Rovella: i due giocatori della Lazio non ci saranno contro il Parma, salvo convocazioni simboliche.",
-      "fonte": "TMW",
+      "id": "b2c6ca3e9b",
+      "titolo": "Nuovo stadio Flaminio, Lotito in Campidoglio: l'accordo della Lazio per i prossimi 90 anni",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/21-152038391/nuovo_stadio_flaminio_lotito_in_campidoglio_l_accordo_della_lazio_per_i_prossimi_90_anni/",
+      "estratto": "Il presidente biancoceleste in Municipio per discutere varie tematiche inerenti la riqualificazione dello storico impianto capitolino tra nodi economici e diritto di superficie",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-21T21:59:00+00:00",
+      "pubblicato": "2026-10-21T13:32:36+00:00",
       "squadra": "Lazio"
     },
     {
@@ -511,6 +522,18 @@
       "squadra": "Inter Milan"
     },
     {
+      "id": "969956deed",
+      "titolo": "Chelsea Confidential: Le storie inedite che hanno plasmato il \"Magico\" Mike Penders, mentre gli addetti ai lavori di Cobham indicano il portiere di 2,01 metri, dotato di una mentalità incrollabile e di un segnale segreto, come destinato a diventare \"assolutamente d'élite\" in vista del severo test contro il Tottenham",
+      "url": "https://www.dailymail.com/sport/football/article-16224023/chelsea-confidential-mike-penders-goalkeeper.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "KIERAN GILL: Chiedete a chi sta dentro il Chelsea e, dopo aver invocato pazienza, esalterà come \"enorme\" il potenziale del ventunenne Penders. Non si tratta di una riserva qualunque.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 0,
+      "pubblicato": "2026-10-22T01:00:46+00:00",
+      "squadra": "Chelsea"
+    },
+    {
       "id": "d090c59c36",
       "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 21 ottobre",
       "url": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-21-ottobre-2285914",
@@ -543,18 +566,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-21T22:12:16+00:00"
-    },
-    {
-      "id": "768bb7286f",
-      "titolo": "22 ottobre 1997, il Parma batte i campioni d'Europa del Borussia Dortmund. Con gol di Crespo",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/22-ottobre-1997-parma-batte-campioni-europa-borussia-dortmund-gol-crespo-2285229",
-      "estratto": "Il 22 ottobre del 1997, allo stadio Tardini di Parma, va in scena la Champions League.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-21T22:00:17+00:00",
-      "squadra": "Parma"
     },
     {
       "id": "266030155a",
@@ -613,17 +624,6 @@
       "punteggio": 0,
       "pubblicato": "2026-10-21T14:12:36+00:00",
       "squadra": "Bournemouth"
-    },
-    {
-      "id": "fba639249d",
-      "titolo": "\"Non mi importa\" - Luis Enrique sul PSG favorito in Champions League",
-      "url": "https://www.espn.com/video/clip/_/id/50237537/i-care-luis-enrique-psg-being-ucl-favourites",
-      "estratto": "\"Non mi importa\" - Luis Enrique sul PSG favorito in Champions League",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": 0,
-      "pubblicato": "2026-10-21T13:41:43+00:00"
     },
     {
       "id": "926ed03681",
@@ -865,28 +865,28 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "272b332d55",
-      "titolo": "Bufera Manchester United: \"Umiliati\", \"Vergognosi\". La stampa inglese si ribella e chiede l'esonero di Carrick",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152051601/bufera_manchester_united_umiliati_vergognosi_la_stampa_inglese_si_ribella_e_chiede_l_esonero_di_carrick/",
-      "estratto": "I Red Devils travolti 4-1 dal Como nella terza giornata della Fase Campionato di Champions League: polemiche no stop oltremanica dopo il fischio finale",
+      "id": "c9b4e39932",
+      "titolo": "Salto in avanti nel ranking Uefa dopo i colpi Como, Inter, Roma e Napoli: come cambia la corsa al quinto posto Champions",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152053378/salto_in_avanti_nel_ranking_uefa_dopo_i_colpi_como_inter_roma_e_napoli/",
+      "estratto": "L'Italia sale in classifica: lo slot extra nella coppa più importante in Europa non è un miraggio",
       "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -20,
-      "pubblicato": "2026-10-21T19:36:05+00:00",
-      "squadra": "Man United"
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -30,
+      "pubblicato": "2026-10-21T21:03:16+00:00",
+      "squadra": "Como"
     },
     {
-      "id": "82a12c707e",
-      "titolo": "Fabregas carica il Como: “Crisi United? Nel calcio non esiste. Godiamocela, pensiamo a dove eravamo quattro anni fa”",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152026672/fabregas_carica_il_como_crisi_united_nel_calcio_non_esiste_godiamocela_pensiamo_a_dove_eravamo_quattro_anni_fa/",
-      "estratto": "Le parole dell'allenatore dei lariani e di Nico Paz nella conferenza stampa alla vigilia della sfida di Champions League: ecco cosa ha detto",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
+      "id": "5ad5555c2d",
+      "titolo": "Ruben Amorim disinteressato a contribuire al dibattito sul Man United: \"Nulla da dire\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50241962/ruben-amorim-uninterested-contributing-man-united-discourse-say-ac-milan",
+      "estratto": "Ruben Amorim ha insistito sul fatto di non avere \"nulla da dire\" sul Manchester United in vista della sfida di Europa League del Milan a Bournemouth giovedì sera.",
+      "fonte": "ESPN",
+      "serie": "Estero",
       "citazione": true,
       "punteggio": -40,
-      "pubblicato": "2026-10-20T15:27:35+00:00",
-      "squadra": "Como"
+      "pubblicato": "2026-10-21T23:50:30+00:00",
+      "squadra": "Man United"
     },
     {
       "id": "b636a920ea",
@@ -949,15 +949,15 @@
       "squadra": "Milan"
     },
     {
-      "id": "b2c6ca3e9b",
-      "titolo": "Nuovo stadio Flaminio, Lotito in Campidoglio: l'accordo della Lazio per i prossimi 90 anni",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/21-152038391/nuovo_stadio_flaminio_lotito_in_campidoglio_l_accordo_della_lazio_per_i_prossimi_90_anni/",
-      "estratto": "Il presidente biancoceleste in Municipio per discutere varie tematiche inerenti la riqualificazione dello storico impianto capitolino tra nodi economici e diritto di superficie",
-      "fonte": "Corriere dello Sport",
+      "id": "0545886a33",
+      "titolo": "Bremer avvertito da Alajbegovic, lo ignora e la Lazio segna: il caso Juve rivelato da Bordocam",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/21-152041096/bremer_avvertito_da_alajbegovic_lo_ignora_e_la_lazio_segna_il_caso_juve_rivelato_da_bordocam/",
+      "estratto": "Tutto quello che non si è visto della disfatta bianconera allo Stadium: il primo gol dei biancocelesti nasconde un retroscena chiave",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-10-21T13:32:36+00:00",
+      "pubblicato": "2026-10-21T13:15:00+00:00",
       "squadra": "Lazio"
     },
     {
@@ -969,7 +969,7 @@
       "serie": "Champions",
       "citazione": false,
       "punteggio": -180,
-      "pubblicato": "2026-10-21T22:42:46+00:00",
+      "pubblicato": "2026-10-22T00:35:51+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -993,7 +993,7 @@
       "serie": "Champions",
       "citazione": false,
       "punteggio": -200,
-      "pubblicato": "2026-10-21T22:54:36+00:00",
+      "pubblicato": "2026-10-21T23:19:14+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1057,15 +1057,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "ed01550e37",
-      "titolo": "Diretta Champions League: il Como ospita il Manchester United nel match pomeridiano",
-      "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
-      "estratto": "Segui gli aggiornamenti in tempo reale, i risultati e gli highlights delle gare di Champions League di mercoledì, tra cui Bayern Monaco-Arsenal, Real Madrid-RB Leipzig e molte altre.",
-      "fonte": "ESPN",
+      "id": "82a12c707e",
+      "titolo": "Fabregas carica il Como: “Crisi United? Nel calcio non esiste. Godiamocela, pensiamo a dove eravamo quattro anni fa”",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152026672/fabregas_carica_il_como_crisi_united_nel_calcio_non_esiste_godiamocela_pensiamo_a_dove_eravamo_quattro_anni_fa/",
+      "estratto": "Le parole dell'allenatore dei lariani e di Nico Paz nella conferenza stampa alla vigilia della sfida di Champions League: ecco cosa ha detto",
+      "fonte": "Corriere dello Sport",
       "serie": "Champions",
-      "citazione": false,
-      "punteggio": -260,
-      "pubblicato": "2026-10-21T21:48:32+00:00",
+      "citazione": true,
+      "punteggio": -240,
+      "pubblicato": "2026-10-20T15:27:35+00:00",
       "squadra": "Como"
     },
     {
@@ -1129,15 +1129,15 @@
       "squadra": "Juventus"
     },
     {
-      "id": "0545886a33",
-      "titolo": "Bremer avvertito da Alajbegovic, lo ignora e la Lazio segna: il caso Juve rivelato da Bordocam",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/21-152041096/bremer_avvertito_da_alajbegovic_lo_ignora_e_la_lazio_segna_il_caso_juve_rivelato_da_bordocam/",
-      "estratto": "Tutto quello che non si è visto della disfatta bianconera allo Stadium: il primo gol dei biancocelesti nasconde un retroscena chiave",
+      "id": "3673769f77",
+      "titolo": "Lazio, la capolista senza pubblico: respinto l'appello della società",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/lazio/2026/10/21-152036257/lazio_la_capolista_senza_pubblico_respinto_l_appello_della_societ/",
+      "estratto": "\"Non abbiamo due vedute diverse: non vogliamo più quel presidente\". Il ds Fabiani chiede ai tifosi di ritornare all’Olimpico: \"Il fatto che sia vuoto è un po’ come una sconfitta, da non dormirci la notte\"",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-10-21T13:15:00+00:00",
+      "pubblicato": "2026-10-21T10:20:17+00:00",
       "squadra": "Lazio"
     },
     {
@@ -1178,7 +1178,7 @@
     },
     {
       "id": "800fdd4fb2",
-      "titolo": "Toni: \"La cosa più bella del gol dell'Inter è lo stop. Como? Alcuni li vedremo nelle big\"",
+      "titolo": "Toni: \"La cosa più bella del gol dell'Inter è lo stop. Como? Due o tre li vedremo nelle big\"",
       "url": "https://www.tuttomercatoweb.com/serie-a/toni-la-bella-gol-inter-stop-como-vedremo-big-2285907",
       "estratto": "L'ex attaccante Luca Toni era a San Siro per raccontare la partita tra Inter e Shakhtar Donetsk di Champions League per Prime Video: \"Palla fantastica di Mkhitaryan, ma la cosa più bella del gol è stata lo stop.",
       "fonte": "TMW",
@@ -1225,27 +1225,27 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "a9586c4751",
-      "titolo": "Clamoroso poker del Como, Fabregas porta a spasso il Manchester United. Tutte le reazioni Champions",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152043378/como-manchester_united_diretta_champions_league_le_ultime_sulle_formazioni_fabregas_pu_sognare/",
-      "estratto": "I lariani dominano con i Red Devils nell'incontro valido per la terza giornata del super girone: termina 4-1, doppietta di Nico Paz",
-      "fonte": "Tuttosport",
+      "id": "2841b1778b",
+      "titolo": "Como, tu si Paz: 4-1 allo United in Champions. Ma è allarme infortuni: anche Liberali ko",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/como-favola-champions-4-1-united-fabregas-allarme-infortuni-liberali-ko-2285919",
+      "estratto": "Una splendida seconda vittoria casalinga in Champions League per il Como di Fabregas, che stravince (4-1) al Sinigaglia contro il Manchester United nel segno di Nico Paz (due gol e un assist), con Douvikas e il poker di Ramon a comparire insieme sul ",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -460,
-      "pubblicato": "2026-10-21T15:00:00+00:00",
+      "pubblicato": "2026-10-21T22:37:26+00:00",
       "squadra": "Como"
     },
     {
-      "id": "579d9be810",
+      "id": "0b07a1b115",
       "titolo": "Klinsmann: Il pareggio danneggia il Bayern Monaco più dell'Arsenal",
-      "url": "https://www.espn.com/video/clip/_/id/50242197/draw-damages-bayern-munich-more-arsen",
+      "url": "https://www.espn.com/video/clip/_/id/50242197/draw-damages-bayern-munich-more-arsenal",
       "estratto": "Klinsmann: Il pareggio danneggia il Bayern Monaco più dell'Arsenal",
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -480,
-      "pubblicato": "2026-10-21T22:29:32+00:00",
+      "pubblicato": "2026-10-22T00:35:41+00:00",
       "squadra": "Bayern"
     },
     {
@@ -1309,15 +1309,15 @@
       "squadra": "Milan"
     },
     {
-      "id": "3673769f77",
-      "titolo": "Lazio, la capolista senza pubblico: respinto l'appello della società",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/lazio/2026/10/21-152036257/lazio_la_capolista_senza_pubblico_respinto_l_appello_della_societ/",
-      "estratto": "\"Non abbiamo due vedute diverse: non vogliamo più quel presidente\". Il ds Fabiani chiede ai tifosi di ritornare all’Olimpico: \"Il fatto che sia vuoto è un po’ come una sconfitta, da non dormirci la notte\"",
-      "fonte": "Tuttosport",
+      "id": "15349d0a61",
+      "titolo": "Lazio, Gattuso ritrova Rovella e Cancellieri in vista del Parma",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/21-152038813/lazio_gattuso_ritrova_rovella_e_cancellieri_in_vista_del_parma/",
+      "estratto": "Si svuota l’infermeria con Rino che recupera due pedine importanti come l'esterno, tornato in gruppo e pronto a far rifiatare Isaksen e il centrocampista, che vede una possibile convocazione per la sfida contro i ducali",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -570,
-      "pubblicato": "2026-10-21T10:20:17+00:00",
+      "pubblicato": "2026-10-21T09:56:41+00:00",
       "squadra": "Lazio"
     },
     {
@@ -1393,15 +1393,15 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "81d9cf63f4",
-      "titolo": "Como-Manchester United, rissa tra tifosi inglesi ubriachi prima della Champions: tre feriti",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/10/21-152039536/como-manchester_united_rissa_tra_tifosi_inglesi_ubriachi_prima_della_champions_tre_feriti/",
-      "estratto": "Tensione nel centro della città lombarda alla vigilia della sfida europea. Tre uomini, di età compresa tra 43 e 49 anni, sono stati soccorsi dal 118 e trasportati in ospedale",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
+      "id": "ed01550e37",
+      "titolo": "Diretta Champions League: il Como ospita il Manchester United nel match pomeridiano",
+      "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
+      "estratto": "Segui gli aggiornamenti in tempo reale, i risultati e gli highlights delle gare di Champions League di mercoledì, tra cui Bayern Monaco-Arsenal, Real Madrid-RB Leipzig e molte altre.",
+      "fonte": "ESPN",
+      "serie": "Champions",
       "citazione": false,
       "punteggio": -660,
-      "pubblicato": "2026-10-21T09:57:40+00:00",
+      "pubblicato": "2026-10-21T21:48:32+00:00",
       "squadra": "Como"
     },
     {
@@ -1417,15 +1417,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "02306623ed",
-      "titolo": "Raphinha: La sconfitta del Barcellona contro il PSG non condizionerà il Clásico",
-      "url": "https://www.espn.com/soccer/story/_/id/50236725/raphinha-barcelona-psg-champions-league-winning-streak-ended",
-      "estratto": "Il capitano del Barcellona Raphinha non si aspetta che il 4-2 subito contro il Paris Saint-Germain, che ha interrotto una striscia di 11 vittorie consecutive, influisca sulla preparazione in vista del Clásico di domenica contro il Real Madrid.",
+      "id": "64bc587985",
+      "titolo": "Un Barcellona stanco tradito da 'troppi errori', si interrompe a Parigi la striscia di vittorie",
+      "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
+      "estratto": "Il tecnico del Barcellona Hansi Flick afferma che la sua squadra, apparsa stanca, ha commesso troppi errori mentre il loro inizio di stagione perfetto si è chiuso con una sconfitta per 4-2 contro il Paris Saint-Germain mercoledì in Champions League.",
       "fonte": "ESPN",
-      "serie": "Champions",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -680,
-      "pubblicato": "2026-10-21T12:26:53+00:00",
+      "pubblicato": "2026-10-21T08:37:19+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1475,18 +1475,6 @@
       "punteggio": -770,
       "pubblicato": "2026-10-21T22:28:49+00:00",
       "squadra": "Milan"
-    },
-    {
-      "id": "15349d0a61",
-      "titolo": "Lazio, Gattuso ritrova Rovella e Cancellieri in vista del Parma",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/21-152038813/lazio_gattuso_ritrova_rovella_e_cancellieri_in_vista_del_parma/",
-      "estratto": "Si svuota l’infermeria con Rino che recupera due pedine importanti come l'esterno, tornato in gruppo e pronto a far rifiatare Isaksen e il centrocampista, che vede una possibile convocazione per la sfida contro i ducali",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -770,
-      "pubblicato": "2026-10-21T09:56:41+00:00",
-      "squadra": "Lazio"
     },
     {
       "id": "e39e6b4d3c",
@@ -1561,15 +1549,15 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "5dce9798a2",
-      "titolo": "Cosa c'entrano i 'Montoni Furiosi' della Bolanesia e lo scouting dei Jacksonville Jaguars con Nico Paz e Cesc Fabregas? Perché il futuro del Como immaginato dal 'regista' Suwarso è in una botte di ferro",
-      "url": "https://www.tuttomercatoweb.com/editoriale/entrano-montoni-furiosi-bolanesia-scouting-jacksonville-jaguars-nico-paz-cesc-fabregas-como-immagina-2285865",
-      "estratto": "La storia del Como, che ha vissuto la notte più bella della sua storia battendo 4-1 il Manchester United in Champions League, parte dalla Bolanesia, una terra 'immaginaria'.",
-      "fonte": "TMW",
+      "id": "a9586c4751",
+      "titolo": "Clamoroso poker del Como, Fabregas porta a spasso il Manchester United. Tutte le reazioni Champions",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152043378/como-manchester_united_diretta_champions_league_le_ultime_sulle_formazioni_fabregas_pu_sognare/",
+      "estratto": "I lariani dominano con i Red Devils nell'incontro valido per la terza giornata del super girone: termina 4-1, doppietta di Nico Paz",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -880,
-      "pubblicato": "2026-10-21T22:01:00+00:00",
+      "punteggio": -860,
+      "pubblicato": "2026-10-21T15:00:00+00:00",
       "squadra": "Como"
     },
     {
@@ -1585,15 +1573,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "64bc587985",
-      "titolo": "Un Barcellona stanco tradito da 'troppi errori', si interrompe a Parigi la striscia di vittorie",
-      "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
-      "estratto": "Il tecnico del Barcellona Hansi Flick afferma che la sua squadra, apparsa stanca, ha commesso troppi errori mentre il loro inizio di stagione perfetto si è chiuso con una sconfitta per 4-2 contro il Paris Saint-Germain mercoledì in Champions League.",
+      "id": "cfa4e02d96",
+      "titolo": "Yamal del Barcellona contro Mbappé del Real Madrid: quale stella del Clásico ha più chance per il Pallone d'Oro?",
+      "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
+      "estratto": "Nella corsa al Pallone d'Oro più incerta degli ultimi anni, i fuoriclasse della Liga Lamine Yamal e Kylian Mbappé figurano tra i candidati alla vittoria del massimo riconoscimento individuale del calcio.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -880,
-      "pubblicato": "2026-10-21T08:37:19+00:00",
+      "pubblicato": "2026-10-21T08:29:25+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1705,15 +1693,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "12f1048d47",
-      "titolo": "Dawson: La pressione sul futuro di Carrick aumenta dopo la sconfitta contro il Como",
-      "url": "https://www.espn.com/video/clip/_/id/50241623/carrick-future-mounting-pressure-loss-vs-como",
-      "estratto": "Dawson: La pressione sul futuro di Carrick aumenta dopo la sconfitta contro il Como",
-      "fonte": "ESPN",
-      "serie": "Champions",
+      "id": "81d9cf63f4",
+      "titolo": "Como-Manchester United, rissa tra tifosi inglesi ubriachi prima della Champions: tre feriti",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/10/21-152039536/como-manchester_united_rissa_tra_tifosi_inglesi_ubriachi_prima_della_champions_tre_feriti/",
+      "estratto": "Tensione nel centro della città lombarda alla vigilia della sfida europea. Tre uomini, di età compresa tra 43 e 49 anni, sono stati soccorsi dal 118 e trasportati in ospedale",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
       "citazione": false,
-      "punteggio": -1080,
-      "pubblicato": "2026-10-21T21:15:59+00:00",
+      "punteggio": -1060,
+      "pubblicato": "2026-10-21T09:57:40+00:00",
       "squadra": "Como"
     },
     {
@@ -1729,15 +1717,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "cfa4e02d96",
-      "titolo": "Yamal del Barcellona contro Mbappé del Real Madrid: quale stella del Clásico ha più chance per il Pallone d'Oro?",
-      "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
-      "estratto": "Nella corsa al Pallone d'Oro più incerta degli ultimi anni, i fuoriclasse della Liga Lamine Yamal e Kylian Mbappé figurano tra i candidati alla vittoria del massimo riconoscimento individuale del calcio.",
-      "fonte": "ESPN",
-      "serie": "Estero",
+      "id": "5ea01016c6",
+      "titolo": "Psg-Barcellona senza senso, manita City. L’Atletico frena, Liverpool-Villarreal 4-3",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/20-152033639/psg-barcellona_senza_senso_manita_city_latletico_frena_liverpool-villarreal_4-3/",
+      "estratto": "Partita spettacolare del club parigino contro i blaugrana, con l'infortunio di Kvaratskhelia che macchia la vittoria perfetta. City a valanga sull'AEK Atene",
+      "fonte": "Tuttosport",
+      "serie": "Champions",
       "citazione": false,
       "punteggio": -1080,
-      "pubblicato": "2026-10-21T08:29:25+00:00",
+      "pubblicato": "2026-10-20T21:08:19+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1825,27 +1813,27 @@
       "squadra": "Napoli"
     },
     {
-      "id": "3763f70e27",
-      "titolo": "Il Como umilia il Manchester United mentre la goleada aumenta la pressione su Carrick",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915395",
-      "estratto": "Il Manchester United è incappato in una delle sconfitte europee più imbarazzanti della sua storia, con la rivelazione di Champions League del Como che si è imposta per 4-1 mercoledì.",
-      "fonte": "ESPN",
-      "serie": "Champions",
+      "id": "5dce9798a2",
+      "titolo": "Cosa c'entrano i 'Montoni Furiosi' della Bolanesia e lo scouting dei Jacksonville Jaguars con Nico Paz e Cesc Fabregas? Perché il futuro del Como immaginato dal 'regista' Suwarso è in una botte di ferro",
+      "url": "https://www.tuttomercatoweb.com/editoriale/entrano-montoni-furiosi-bolanesia-scouting-jacksonville-jaguars-nico-paz-cesc-fabregas-como-immagina-2285865",
+      "estratto": "La storia del Como, che ha vissuto la notte più bella della sua storia battendo 4-1 il Manchester United in Champions League, parte dalla Bolanesia, una terra 'immaginaria'.",
+      "fonte": "TMW",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": -1280,
-      "pubblicato": "2026-10-21T19:18:59+00:00",
+      "pubblicato": "2026-10-21T23:15:00+00:00",
       "squadra": "Como"
     },
     {
-      "id": "5ea01016c6",
-      "titolo": "Psg-Barcellona senza senso, manita City. L’Atletico frena, Liverpool-Villarreal 4-3",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/20-152033639/psg-barcellona_senza_senso_manita_city_latletico_frena_liverpool-villarreal_4-3/",
-      "estratto": "Partita spettacolare del club parigino contro i blaugrana, con l'infortunio di Kvaratskhelia che macchia la vittoria perfetta. City a valanga sull'AEK Atene",
-      "fonte": "Tuttosport",
+      "id": "0d7a1d218f",
+      "titolo": "Il PSG piega il Barcellona, Yamal non basta. Manita del City, il Liverpool ribalta il Villarreal",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152027733/il_borussia_dortmund_vince_ma_fatica_a_baku_fenerbahce_greenwood_non_basta_pari_contro_lo_slavia_praga/",
+      "estratto": "Tripletta di Foden contro l’AEK, Farioli cade contro il Psv: risultati e marcatori della terza giornata di Champions League",
+      "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -1280,
-      "pubblicato": "2026-10-20T21:08:19+00:00",
+      "pubblicato": "2026-10-20T18:48:03+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1921,40 +1909,28 @@
       "squadra": "Napoli"
     },
     {
-      "id": "37a3bf4f8d",
-      "titolo": "Il capitano del Manchester United Bruno Fernandes mette in discussione le tattiche del tecnico Michael Carrick dopo l'umiliazione in Champions League a Como",
-      "url": "https://www.dailymail.com/sport/football/article-16227947/Man-United-captain-Bruno-Fernandes-questions-manager-Michael-Carricks-tactics-wake-Champions-League-humiliation-Como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il capitano del Manchester United Bruno Fernandes ha messo in discussione le tattiche di Michael Carrick sulla scia dell'umiliazione subita dal club in Champions League a Como.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
+      "id": "567fc82aaf",
+      "titolo": "Temi caldi di Champions League: Che cosa pensare del caos al Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50239980/champions-league-talking-points-make-man-utd-mess",
+      "estratto": "Gab Marcotti, Sam Tighe, Beth Lindop e Mark Ogden analizzano una notte estremamente imbarazzante per il Manchester United, oltre a tutti gli altri momenti chiave della terza giornata.",
+      "fonte": "ESPN",
+      "serie": "Champions",
       "citazione": false,
       "punteggio": -1460,
-      "pubblicato": "2026-10-21T21:31:56+00:00",
+      "pubblicato": "2026-10-22T00:44:12+00:00",
       "squadra": "Man United"
     },
     {
-      "id": "a0c8d6a996",
-      "titolo": "Dominio Como, poker clamoroso contro il Manchester United: Nico Paz show, in gol Douvikas e Ramon",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152044716/dominio_como_poker_clamoroso_contro_il_manchester_united_nico_paz_show_in_gol_douvikas_e_ramon/",
-      "estratto": "Al Sinigaglia i lariani travolgono i Red Devils: serata da ricordare per la squadra di Fabregas, crisi nera per Carrick",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1480,
-      "pubblicato": "2026-10-21T18:40:58+00:00",
-      "squadra": "Como"
-    },
-    {
-      "id": "0d7a1d218f",
-      "titolo": "Il PSG piega il Barcellona, Yamal non basta. Manita del City, il Liverpool ribalta il Villarreal",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152027733/il_borussia_dortmund_vince_ma_fatica_a_baku_fenerbahce_greenwood_non_basta_pari_contro_lo_slavia_praga/",
-      "estratto": "Tripletta di Foden contro l’AEK, Farioli cade contro il Psv: risultati e marcatori della terza giornata di Champions League",
-      "fonte": "Corriere dello Sport",
+      "id": "12f1048d47",
+      "titolo": "Dawson: La pressione sul futuro di Carrick aumenta dopo la sconfitta contro il Como",
+      "url": "https://www.espn.com/video/clip/_/id/50241623/carrick-future-mounting-pressure-loss-vs-como",
+      "estratto": "Dawson: La pressione sul futuro di Carrick aumenta dopo la sconfitta contro il Como",
+      "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -1480,
-      "pubblicato": "2026-10-20T18:48:03+00:00",
-      "squadra": "Barcelona"
+      "pubblicato": "2026-10-21T21:15:59+00:00",
+      "squadra": "Como"
     },
     {
       "id": "fadb48b68e",
@@ -1993,27 +1969,27 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "c063743eb2",
-      "titolo": "Il Manchester United affronta una crisi difensiva con Lisandro Martínez che salta l'allenamento in vista della trasferta di Champions League a Como... regalando a Michael Carrick un enorme grattacapo su chi affiancare ad Harry Maguire",
-      "url": "https://www.dailymail.com/sport/football/article-16223239/Marcus-Rashford-Lisandro-Martinez-miss-training-Man-Uniteds-problems-pile-ahead-Champions-League-trip-Como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Martínez, costretto a uscire all'intervallo nella trasferta contro il Leeds United per un problema alla coscia, è stato tenuto a riposo nella sessione di martedì a Carrington, mettendo in dubbio la sua convocazione per la trasferta di Como.",
+      "id": "37a3bf4f8d",
+      "titolo": "Il capitano del Manchester United Bruno Fernandes mette in discussione le tattiche del tecnico Michael Carrick dopo l'umiliazione in Champions League a Como",
+      "url": "https://www.dailymail.com/sport/football/article-16227947/Man-United-captain-Bruno-Fernandes-questions-manager-Michael-Carricks-tactics-wake-Champions-League-humiliation-Como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il capitano del Manchester United Bruno Fernandes ha messo in discussione le tattiche di Michael Carrick sulla scia dell'umiliazione subita dal club in Champions League a Como.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1660,
-      "pubblicato": "2026-10-20T18:46:21+00:00",
+      "pubblicato": "2026-10-21T21:31:56+00:00",
       "squadra": "Man United"
     },
     {
-      "id": "080f274c05",
-      "titolo": "Come due magnati del tabacco, il legame unico di Cesc Fabregas, un ex duro del calcio inglese e il \"modello Disney\" hanno ispirato la straordinaria ascesa del Como prima del big match col Manchester United",
-      "url": "https://www.dailymail.com/sport/football/article-16208313/How-two-tobacco-tycoons-Cesc-Fabregas-unique-link-former-England-hardman-Disney-model-inspired-Comos-remarkable-rise-ahead-Manchester-United-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Appena sette anni fa militava in Serie D, il quarto livello del calcio italiano, dopo aver subito tre fallimenti tra il 2004 e il 2017.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
+      "id": "3763f70e27",
+      "titolo": "Il Como umilia il Manchester United mentre la goleada aumenta la pressione su Carrick",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915395",
+      "estratto": "Il Manchester United è incappato in una delle sconfitte europee più imbarazzanti della sua storia, con la rivelazione di Champions League del Como che si è imposta per 4-1 mercoledì.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
       "punteggio": -1680,
-      "pubblicato": "2026-10-21T15:57:51+00:00",
+      "pubblicato": "2026-10-21T19:18:59+00:00",
       "squadra": "Como"
     },
     {
@@ -2029,6 +2005,54 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "c063743eb2",
+      "titolo": "Il Manchester United affronta una crisi difensiva con Lisandro Martínez che salta l'allenamento in vista della trasferta di Champions League a Como... regalando a Michael Carrick un enorme grattacapo su chi affiancare ad Harry Maguire",
+      "url": "https://www.dailymail.com/sport/football/article-16223239/Marcus-Rashford-Lisandro-Martinez-miss-training-Man-Uniteds-problems-pile-ahead-Champions-League-trip-Como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martínez, costretto a uscire all'intervallo nella trasferta contro il Leeds United per un problema alla coscia, è stato tenuto a riposo nella sessione di martedì a Carrington, mettendo in dubbio la sua convocazione per la trasferta di Como.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1860,
+      "pubblicato": "2026-10-20T18:46:21+00:00",
+      "squadra": "Man United"
+    },
+    {
+      "id": "a0c8d6a996",
+      "titolo": "Dominio Como, poker clamoroso contro il Manchester United: Nico Paz show, in gol Douvikas e Ramon",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152044716/dominio_como_poker_clamoroso_contro_il_manchester_united_nico_paz_show_in_gol_douvikas_e_ramon/",
+      "estratto": "Al Sinigaglia i lariani travolgono i Red Devils: serata da ricordare per la squadra di Fabregas, crisi nera per Carrick",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1880,
+      "pubblicato": "2026-10-21T18:40:58+00:00",
+      "squadra": "Como"
+    },
+    {
+      "id": "02f53d3e7a",
+      "titolo": "NATHAN SALT stila la classifica delle peggiori sconfitte europee del Manchester United, dopo che la disastrosa prestazione di Como ha scatenato l'ennesima guerra civile e ha spinto il tecnico Michael Carrick a chiedere scusa ai tifosi",
+      "url": "https://www.dailymail.com/sport/football/article-16226013/NATHAN-SALT-ranks-Man-Uniteds-WORST-European-defeats-dreadful-Como-performance-sparked-latest-civil-war-left-manager-Michael-Carrick-apologising-supporters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "NATHAN SALT: Il Manchester United ha ricevuto una dura lezione sotto la pioggia a Como, offrendo una prestazione che rispecchia in pieno le critiche da squadra giovanile contro professionisti che circoleranno dopo la sconfitta per 4-1.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2080,
+      "pubblicato": "2026-10-22T01:00:49+00:00",
+      "squadra": "Man United"
+    },
+    {
+      "id": "080f274c05",
+      "titolo": "Come due magnati del tabacco, il legame unico di Cesc Fabregas, un ex duro del calcio inglese e il \"modello Disney\" hanno ispirato la straordinaria ascesa del Como prima del big match col Manchester United",
+      "url": "https://www.dailymail.com/sport/football/article-16208313/How-two-tobacco-tycoons-Cesc-Fabregas-unique-link-former-England-hardman-Disney-model-inspired-Comos-remarkable-rise-ahead-Manchester-United-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Appena sette anni fa militava in Serie D, il quarto livello del calcio italiano, dopo aver subito tre fallimenti tra il 2004 e il 2017.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -2080,
+      "pubblicato": "2026-10-21T15:57:51+00:00",
+      "squadra": "Como"
+    },
+    {
       "id": "786d8609b4",
       "titolo": "Il tecnico del Manchester United Carrick si scusa con i tifosi per la sconfitta 'inaccettabile' in Champions League a Como",
       "url": "https://www.espn.com/soccer/story/_/id/50240080/man-united-como-uefa-champions-league-2026",
@@ -2036,7 +2060,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -1880,
+      "punteggio": -2280,
       "pubblicato": "2026-10-21T23:02:17+00:00",
       "squadra": "Man United"
     },
@@ -2048,7 +2072,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -2080,
+      "punteggio": -2480,
       "pubblicato": "2026-10-21T22:50:24+00:00",
       "squadra": "Man United"
     },
@@ -2060,7 +2084,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2280,
+      "punteggio": -2680,
       "pubblicato": "2026-10-21T22:43:23+00:00",
       "squadra": "Man United"
     },
@@ -2072,7 +2096,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -2480,
+      "punteggio": -2880,
       "pubblicato": "2026-10-21T22:00:30+00:00",
       "squadra": "Man United"
     },
@@ -2084,7 +2108,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2680,
+      "punteggio": -3080,
       "pubblicato": "2026-10-21T21:55:09+00:00",
       "squadra": "Man United"
     },
@@ -2096,7 +2120,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -2880,
+      "punteggio": -3280,
       "pubblicato": "2026-10-21T20:48:44+00:00",
       "squadra": "Man United"
     },
@@ -2108,7 +2132,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -3080,
+      "punteggio": -3480,
       "pubblicato": "2026-10-21T20:29:13+00:00",
       "squadra": "Man United"
     },
@@ -2120,7 +2144,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3280,
+      "punteggio": -3680,
       "pubblicato": "2026-10-21T19:00:56+00:00",
       "squadra": "Man United"
     },
@@ -2132,7 +2156,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3480,
+      "punteggio": -3880,
       "pubblicato": "2026-10-21T12:43:12+00:00",
       "squadra": "Man United"
     },
@@ -2144,20 +2168,8 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3680,
+      "punteggio": -4080,
       "pubblicato": "2026-10-21T12:11:54+00:00",
-      "squadra": "Man United"
-    },
-    {
-      "id": "4a51fd774b",
-      "titolo": "Fàbregas: Non c'è alcuna crisi al Manchester United",
-      "url": "https://www.espn.com/video/clip/_/id/50236703/there-no-crisis-manchester-united",
-      "estratto": "Fàbregas: Non c'è alcuna crisi al Manchester United",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -3880,
-      "pubblicato": "2026-10-21T12:01:41+00:00",
       "squadra": "Man United"
     },
     {
@@ -2168,7 +2180,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4080,
+      "punteggio": -4280,
       "pubblicato": "2026-10-21T10:10:21+00:00",
       "squadra": "Man United"
     },
@@ -2180,7 +2192,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4280,
+      "punteggio": -4480,
       "pubblicato": "2026-10-21T10:09:07+00:00",
       "squadra": "Man United"
     },
@@ -2192,7 +2204,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4480,
+      "punteggio": -4680,
       "pubblicato": "2026-10-20T20:03:09+00:00",
       "squadra": "Man United"
     },
@@ -2204,7 +2216,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4680,
+      "punteggio": -4880,
       "pubblicato": "2026-10-20T19:02:29+00:00",
       "squadra": "Man United"
     },
@@ -2216,7 +2228,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4880,
+      "punteggio": -5080,
       "pubblicato": "2026-10-20T18:49:37+00:00",
       "squadra": "Man United"
     },
@@ -2228,7 +2240,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -5080,
+      "punteggio": -5280,
       "pubblicato": "2026-10-20T11:26:51+00:00",
       "squadra": "Man United"
     },
@@ -2240,7 +2252,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5280,
+      "punteggio": -5480,
       "pubblicato": "2026-10-19T16:05:27+00:00",
       "squadra": "Man United"
     },
@@ -2252,7 +2264,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5480,
+      "punteggio": -5680,
       "pubblicato": "2026-10-19T12:09:22+00:00",
       "squadra": "Man United"
     },
@@ -2264,7 +2276,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5680,
+      "punteggio": -5880,
       "pubblicato": "2026-10-19T08:21:19+00:00",
       "squadra": "Man United"
     },
@@ -2276,7 +2288,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5880,
+      "punteggio": -6080,
       "pubblicato": "2026-10-19T07:07:53+00:00",
       "squadra": "Man United"
     }
