@@ -1,15 +1,78 @@
 {
-  "aggiornato": "2026-10-22T06:35:47.662481+00:00",
-  "totale": 57,
+  "aggiornato": "2026-10-22T12:28:39.347586+00:00",
+  "totale": 54,
   "articoli": [
     {
-      "id": "42626bb4f1",
-      "titolo": "Miniera d'oro Bournemouth, Truffert un altro tesoro: ha stregato anche Zidane",
-      "url": "https://www.tuttomercatoweb.com/serie-a/miniera-oro-bournemouth-truffert-tesoro-stregato-zidane-2285315",
-      "estratto": "Lo abbiamo già visto da vicino con la Nazionale della Francia, senza dubbio Adrien Truffert è e sarà una delle prossime grandi plusvalenze del Bournemouth.",
-      "fonte": "TMW",
+      "id": "f34084eb10",
+      "titolo": "Riesci a risolvere il super quiz sulla Premier League di Ian Ladyman? Iscriviti alla newsletter Football Unfiltered di Daily Mail Sport e ricevi la nostra sfida esclusiva direttamente nella tua casella di posta",
+      "url": "https://www.dailymail.com/sport/football/article-16190717/Can-you-tackle-Ian-Ladymans-ultimate-Premier-League-quiz-Sign-Daily-Mail-Sports-Football-Unfiltered-newsletter-receive-exclusive-challenge-straight-inbox.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ogni lunedì vi offriremo approfondimenti esclusivi dai nostri inviati sui campi, le ultime notizie dal mondo del calcio e le opinioni del redattore calcistico Ian Ladyman.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-22T05:45:00+00:00"
+      "pubblicato": "2026-10-22T11:35:41+00:00"
+    },
+    {
+      "id": "37788587d8",
+      "titolo": "'Tieni gli occhi sulla strada': il messaggio della nuova moglie di Diogo Jota al marito svelato nel suo straziante racconto di come si è consumata la tragica morte della stella del Liverpool in un incidente con la sua Lamborghini",
+      "url": "https://www.dailymail.com/sport/football/article-16229313/Diogo-Jota-wife-text-message-husband-heartbreaking-account-tragic-Liverpool-stars-death-unfolded.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "In una nuova biografia sul compianto attaccante del Liverpool, Cardoso ha spiegato di essersi scambiata messaggi con Jota poco dopo la sua partenza per la città spagnola di Santander insieme al fratello Andre Silva.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T11:30:48+00:00"
+    },
+    {
+      "id": "5bf41c50bf",
+      "titolo": "Sei UN esperto di Premier League? Affronta il super quiz di IAN LADYMAN con Football Unfiltered",
+      "url": "https://www.dailymail.com/sport/football/article-16190729/Are-YOU-Premier-League-expert-IAN-LADYMANS-ultimate-quiz-Football-Unfiltered.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Salve! Se state leggendo questo, vi siete iscritti alla newsletter Football Unfiltered di Daily Mail Sport. Una saggia scelta, benvenuti a bordo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T11:00:49+00:00"
+    },
+    {
+      "id": "2b7b443ed9",
+      "titolo": "Di chi è la colpa al Manchester United?",
+      "url": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
+      "estratto": "Di chi è la colpa al Manchester United?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T10:28:31+00:00"
+    },
+    {
+      "id": "c301405444",
+      "titolo": "Il genio abbagliante e dribblatore di Dens Park: i CINQUE momenti migliori di Giorgi Nemsadze nel calcio scozzese",
+      "url": "https://www.dailymail.com/sport/football/article-16229387/Nemsadze-Dundee-Georgia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Tributi commossi sono stati tributati alla leggenda del Dundee Giorgi Nemsadze in seguito alla sua scomparsa all'età di 54 anni. Qui ripercorriamo i momenti più memorabili del georgiano in maglia blu scuro.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T10:26:25+00:00"
+    },
+    {
+      "id": "4f044d977b",
+      "titolo": "Frank Leboeuf attacca Bruno Fernandes per 'tradimento': 'Inizia a correre e smettila di parlare'",
+      "url": "https://www.espn.com/soccer/story/_/id/50246739/bruno-fernandes-frank-lebouef",
+      "estratto": "La leggenda della Francia Frank Leboeuf ha duramente criticato il centrocampista del Manchester United Bruno Fernandes per le sue critiche nei confronti di Michael Carrick in seguito all'umiliante sconfitta del club per 4-1 contro il Como in Champion",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-22T09:54:03+00:00"
+    },
+    {
+      "id": "483e6bf255",
+      "titolo": "Jamie Carragher attacca Bruno Fernandes per le critiche a Michael Carrick: \"Uno scandalo assoluto\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50242382/jamie-carragher-slams-bruno-fernandes-michael-carrick-criticism-absolute-disgrace-man-united",
+      "estratto": "Carragher è stato feroce nelle sue critiche nei confronti di Fernandes dopo che il centrocampista è sembrato criticare le tattiche di Carrick nella sconfitta del Manchester United contro il Como.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-22T09:33:18+00:00"
+    },
+    {
+      "id": "c5e2cc0167",
+      "titolo": "Gli animalisti contro il Crystal Palace: \"Stop all’aquila\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/10/22-152057039/gli_animalisti_contro_il_crystal_palace_stop_allaquila/",
+      "estratto": "Il club inglese nella bufera per l'utilizzo dell'uccello rapace prima di ogni partita",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T07:06:12+00:00"
     },
     {
       "id": "8d4f6ac4af",
@@ -37,15 +100,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-10-21T23:48:19+00:00"
-    },
-    {
-      "id": "483e6bf255",
-      "titolo": "Jamie Carragher attacca Bruno Fernandes per le critiche a Michael Carrick: \"Uno scandalo assoluto\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50242382/jamie-carragher-slams-bruno-fernandes-michael-carrick-criticism-absolute-disgrace-man-united",
-      "estratto": "Carragher è stato feroce nelle sue critiche nei confronti di Fernandes dopo che il centrocampista è sembrato criticare le tattiche di Carrick nella sconfitta del Manchester United contro il Como.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-21T23:14:38+00:00"
     },
     {
       "id": "50df028da8",
@@ -102,15 +156,6 @@
       "pubblicato": "2026-10-21T21:43:11+00:00"
     },
     {
-      "id": "ff5ccc4e62",
-      "titolo": "Salah non è l'unica stella del Trabzonspor di cui gli Hearts devono preoccuparsi, dice Vrancken",
-      "url": "https://www.dailymail.com/sport/football/article-16228205/Salah-Hearts-Trabzonspor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Wouter Vrancken ha avvertito gli Hearts di non focalizzarsi unicamente sul fermare Mohamed Salah, poiché un inarrestabile Trabzonspor ha molte altre minacce che devono essere affrontate.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T21:39:25+00:00"
-    },
-    {
       "id": "125298f345",
       "titolo": "La prodezza di Diomande suggella la vittoria del Madrid contro la sua ex squadra, il Leipzig",
       "url": "http://www.espn.com/soccer/report/_/gameId/401915313",
@@ -165,13 +210,13 @@
       "pubblicato": "2026-10-21T16:10:12+00:00"
     },
     {
-      "id": "e7143f3764",
-      "titolo": "Trevoh Chalobah svela il rimpianto per il Chelsea dopo il trasferimento da 30 milioni di sterline al Como",
-      "url": "https://www.espn.com/soccer/story/_/id/50238421/trevoh-chalobah-reveals-chelsea-regret-30-million-como-move",
-      "estratto": "Trevoh Chalobah ha rivelato il proprio rammarico per l'addio al Chelsea, ammettendo di aver voluto diventare una \"leggenda\" a Stamford Bridge.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T15:29:16+00:00"
+      "id": "f5ad65e3c8",
+      "titolo": "\"Perché proprio a me?\", la terribile confessione di Kvaratskhelia dopo il brutto infortunio in Champions",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152044244/perch_proprio_a_me_la_terribile_confessione_di_kvaratskhelia_dopo_il_brutto_infortunio_in_champions/",
+      "estratto": "Il georgiano del Psg si è rotto il crociato contro il Barcellona e salterà il resto della stagione. Sui social il sostegno di Cristiano Ronaldo: \"Il tuo meglio deve ancora venire\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-10-21T15:26:32+00:00"
     },
     {
       "id": "1846a6c9b5",
@@ -190,15 +235,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-21T14:07:53+00:00"
-    },
-    {
-      "id": "7086ceb754",
-      "titolo": "Spalletti svela: \"Con il Rennes giocano Kolo Muani e Woltemade insieme\". Poi sul chiarimento con Bremer",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/21-152042171/spalletti_svela_con_il_rennes_giocano_kolo_muani_e_woltemade_insieme_reazione_post_lazio_il_gruppo_serio_e_onesto/",
-      "estratto": "Le parole del tecnico in conferenza stampa alla vigilia della partita di Europa League, dove ha svelato l'attacco titolare: \"Tutti si sono resi molto disponibili\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T13:22:59+00:00"
     },
     {
       "id": "08a34ba06a",
@@ -327,24 +363,6 @@
       "pubblicato": "2026-10-20T14:02:15+00:00"
     },
     {
-      "id": "b310364c5c",
-      "titolo": "Morgan Rogers: la 'fame' di gol di João Pedro migliora tutti al Chelsea",
-      "url": "https://www.espn.com/soccer/story/_/id/50227941/morgan-rogers-joao-pedro-chelsea-xabi-alonso",
-      "estratto": "Morgan Rogers ritiene che João Pedro sia al massimo della condizione e ha elogiato la \"fame di gol\" del suo compagno di squadra in grande spolvero nel Chelsea di Xabi Alonso.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-20T13:25:30+00:00"
-    },
-    {
-      "id": "f6d5756b47",
-      "titolo": "Chivu stizzito: \"Parlate sempre delle cose che non vanno. La Champions è solo un sogno\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/inter/2026/10/20-152025019/chivu_stizzito_parlate_sempre_delle_cose_che_non_vanno_la_champions_solo_un_sogno/",
-      "estratto": "L'allenatore dell'Inter prima della sfida contro lo Shakhtar: \"Squadra forte, sarà difficile. L'unico responsabile sono io, altrimenti di cosa parliamo?\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-10-20T13:10:26+00:00"
-    },
-    {
       "id": "58b5fcb95c",
       "titolo": "Un esperimento globale: ESPN riesce a pronosticare i vincitori del Pallone d'Oro?",
       "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
@@ -469,51 +487,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T14:19:02+00:00"
-    },
-    {
-      "id": "9eeefbfa43",
-      "titolo": "Il solitario calciatore protestatario James McClean afferma di 'sostenere l'IRA' e il loro 'spargimento di sangue' - e rivela di disattivare l'audio della TV ogni volta che viene suonata 'God Save The King'",
-      "url": "https://www.dailymail.com/sport/football/article-16218627/Reclusive-poppy-protest-footballer-James-McClean-says-supports-IRA-bloodshed-reveals-mutes-TV-God-Save-King-played.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ciò deriva dal suo rifiuto di indossare il papavero sulla maglia durante il fine settimana della Memoria, mentre spesso si tiene lontano dai compagni di squadra durante le commemorazioni pre-partita.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T12:24:32+00:00"
-    },
-    {
-      "id": "f1d5a37090",
-      "titolo": "'Completamente ignari che Parigi sia inaridita': La fuga romantica di 24 ore in jet privato del portiere dell'Inghilterra Jordan Pickford e di sua moglie Megan viene mandata all'aria dai disordini, e non ne sapevano nulla!",
-      "url": "https://www.dailymail.com/sport/football/article-16219855/Megan-Jordan-Pickford-detour-escape-chaos-Paris-England-star-WAG-romantic-24-hour-private-jet-break-watch-Celine-Dion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Un fine settimana di diffusa violenza ha avuto luogo nella città dopo che una protesta inizialmente pacifica tenutasi sabato contro l'aumento del costo della vita e i cattivi servizi pubblici è degenerata.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T12:17:26+00:00"
-    },
-    {
-      "id": "95bed25b59",
-      "titolo": "'Mostro rispetto restando in piedi': perché il ribelle del *taking the knee* Dominic Calvert-Lewin ha snobbato il gesto antirazzismo insieme ad altri cinque stelle della Premier League",
-      "url": "https://www.dailymail.com/sport/football/article-16219957/Why-taking-knee-rebel-Calvert-Lewin-snubbed-anti-racism-gesture.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico del Leeds United Daniel Farke ha spiegato perché Dominic Calvert-Lewin ha scelto di non inginocchiarsi in vista del pareggio per 1-1 di domenica contro il Manchester United.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T11:37:42+00:00"
-    },
-    {
-      "id": "1c5afe6ecf",
-      "titolo": "NUOVE stelle della Premier League si uniscono al rifiuto del *taking the knee* mentre i tifosi fischiano il gesto antirazzismo tra crescenti dubbi sul suo impatto",
-      "url": "https://www.dailymail.com/sport/football/article-16218639/fans-boo-footballers-knee-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Le stelle del Bournemouth Rayan e Tyler Adams hanno rifiutato di inginocchiarsi, mentre il gesto è stato sonoramente fischiato al Leeds United, mentre continuano a crescere i dubbi sull'impatto del gesto antirazzismo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T10:42:45+00:00"
-    },
-    {
-      "id": "11c8cf421f",
-      "titolo": "Il Nottingham Forest vieta un coro 'misogino' e dice ai tifosi che rischiano 'sessioni educative' se lo cantano",
-      "url": "https://www.dailymail.com/sport/football/article-16218477/Nottingham-Forest-fans-accuse-club-going-woke-ban-misogynistic-chant-tell-face-education-sessions-sing-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Sabato pomeriggio, il club ha rilasciato un comunicato intitolato 'un messaggio ai sostenitori', in cui ha insistito sul fatto che ciò non debba più accadere.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T08:55:59+00:00"
     }
   ]
 }
