@@ -1,7 +1,52 @@
 {
-  "aggiornato": "2026-10-22T17:32:23.672765+00:00",
-  "totale": 45,
+  "aggiornato": "2026-10-22T20:49:54.426206+00:00",
+  "totale": 41,
   "articoli": [
+    {
+      "id": "1b70aa6ca3",
+      "titolo": "Nessun finale eroico questa volta: il Sunderland spreca il vantaggio contro la peggior squadra di Europa League, mentre il Brighton, solitamente prolifico, stecca in un pareggio scialbo contro i modesti cechi",
+      "url": "https://www.dailymail.com/sport/football/article-16229415/sunderland-brighton-crystal-palace-europe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il portiere Robin Roefs ha guardato il cielo e ha urlato un'imprecazione! Regis Le Bris è rimasto cupo a bordo campo. Il Sunderland aveva subito un gol, ed era nell'aria.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T20:37:33+00:00"
+    },
+    {
+      "id": "d3c787136a",
+      "titolo": "Europa League, i parziali delle 21: troppa Real Sociedad, Fonseca giù. Italiano sorride",
+      "url": "https://www.tuttomercatoweb.com/serie-a/europa-league-parziali-21-troppa-real-sociedad-fonseca-giu-italiano-sorride-2286203",
+      "estratto": "Finiscono qui i primi 45 minuti delle partite delle 21:00, in programma per il terzo turno di League Phase di Europa League.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T19:54:56+00:00"
+    },
+    {
+      "id": "531880f262",
+      "titolo": "Il Sunderland resta imbattuto in Europa League grazie al pareggio in trasferta contro il Lech Poznan",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915546",
+      "estratto": "Il Sunderland resta imbattuto in Europa League grazie al pareggio per 1-1 contro il Lech Poznan all'Enea Stadion giovedì.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-22T19:13:30+00:00"
+    },
+    {
+      "id": "ded583f30c",
+      "titolo": "Q&A di Newcastle Confidential con CRAIG HOPE: Svelato il misterioso infortunio di Tino Livramento, cosa mi dicono le fonti sul futuro di Matthias Jaissle, il recupero lampo di Anthony Elanga e i piani di mercato di gennaio",
+      "url": "https://www.dailymail.com/sport/football/article-16226373/Newcastle-Confidential-Livramento-injury-Jaissle-Elanga-transfers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dal futuro e dalle tattiche di Jaissle fino agli infortuni e ai piani di mercato di gennaio, CRAIG HOPE affronta le vostre domande più importanti con approfondimenti e informazioni dall'interno di St James' Park…",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T18:06:45+00:00"
+    },
+    {
+      "id": "3920290e54",
+      "titolo": "La vedova dell'icona del Middlesbrough Willie Maddren chiede maggiore protezione per i calciatori a causa del legame tra colpi di testa e SLA letale, che ha causato la morte prematura di Rob Burrow",
+      "url": "https://www.dailymail.com/sport/football/article-16228981/Widow-Middlesbrough-icon-Willie-Maddren-calls-greater-protection-footballers-link-headers-fatal-MND-caused-Rob-Burrows-premature-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "MATT BARLOW: Per i tifosi del Tees di una certa età, Willie Maddren non ha bisogno di presentazioni.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T17:53:17+00:00"
+    },
     {
       "id": "c301405444",
       "titolo": "Il genio abbagliante e dribblatore di Dens Park: i CINQUE momenti migliori di Giorgi Nemsadze nel calcio scozzese",
@@ -156,15 +201,6 @@
       "pubblicato": "2026-10-21T21:43:11+00:00"
     },
     {
-      "id": "125298f345",
-      "titolo": "La prodezza di Diomande suggella la vittoria del Madrid contro la sua ex squadra, il Leipzig",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915313",
-      "estratto": "Il Real Madrid ha mantenuto il suo percorso netto in Champions League con una netta vittoria per 4-1 contro il RB Leipzig mercoledì.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-21T21:34:22+00:00"
-    },
-    {
       "id": "b01bf856e3",
       "titolo": "Ryan Bertrand svelato come il volto dei nuovi e finora segreti investitori dell'AFC Wimbledon, con piani di spesa per 87 milioni di sterline",
       "url": "https://www.dailymail.com/sport/football/article-16223649/ryan-bertrand-afc-wimbledon-investor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -181,15 +217,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-21T17:54:22+00:00"
-    },
-    {
-      "id": "ded583f30c",
-      "titolo": "Q&A di Newcastle Confidential con CRAIG HOPE: Svelato il misterioso infortunio di Tino Livramento, cosa mi dicono le fonti sul futuro di Matthias Jaissle, il recupero lampo di Anthony Elanga e i piani di mercato di gennaio",
-      "url": "https://www.dailymail.com/sport/football/article-16226373/Newcastle-Confidential-Livramento-injury-Jaissle-Elanga-transfers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dal futuro e dalle tattiche di Jaissle fino agli infortuni e ai piani di mercato di gennaio, CRAIG HOPE affronta le vostre domande più importanti con approfondimenti e informazioni dall'interno di St James' Park…",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T16:15:59+00:00"
     },
     {
       "id": "f5ad65e3c8",
@@ -253,15 +280,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-20T23:53:19+00:00"
-    },
-    {
-      "id": "546a0f970d",
-      "titolo": "Klinsmann: Ten Hag avrebbe dovuto tenere per sé i commenti su Ronaldo",
-      "url": "https://www.espn.com/video/clip/_/id/50232810/ten-hag-kept-ronaldo-comments-himself",
-      "estratto": "Klinsmann: Ten Hag avrebbe dovuto tenere per sé i commenti su Ronaldo",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-20T22:53:44+00:00"
     },
     {
       "id": "cc14272815",
@@ -352,60 +370,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-19T22:20:46+00:00"
-    },
-    {
-      "id": "0c94511375",
-      "titolo": "Trinity Rodman cattura l'attenzione al debutto nel Victoria's Secret Fashion Show mentre la stella del calcio si riunisce con la figlia di Kobe Bryant, Natalia",
-      "url": "https://www.dailymail.com/sport/football/article-16219599/kobe-bryant-natalia-trinity-rodman-victorias-secret.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Trinity Rodman ha lasciato il campo di calcio per salire sulla passerella del Victoria's Secret Fashion Show domenica, insieme a Natalia Bryant, figlia della leggenda dell'NBA Kobe.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T20:24:02+00:00"
-    },
-    {
-      "id": "99dc69e0cb",
-      "titolo": "L'esterno del Celtic Jota determinato a essere più forte che mai dopo il suo atteso ritorno",
-      "url": "https://www.dailymail.com/sport/football/article-16221649/Celtic-winger-Jota-determined-better-making-long-awaited-comeback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'esterno del Celtic Jota è fiducioso di poter riconquistare la sua forma migliore dopo aver finalmente compiuto il suo atteso ritorno da un grave infortunio al ginocchio.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T19:01:59+00:00"
-    },
-    {
-      "id": "38cbecade7",
-      "titolo": "Il frustrato capitano degli Hearts Stephen Kingsley ammette che il disastro di Parkhead è stato una 'calamità di errori'",
-      "url": "https://www.dailymail.com/sport/football/article-16221267/Frustrated-Hearts-skipper-Stephen-Kingsley-admits-Parkhead-horror-calamity-errors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Al termine di quella che si è rivelata una pomeriggio umiliante per gli Hearts, non c'è stato scampo per Wouter Vrancken e i suoi giocatori.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T18:59:05+00:00"
-    },
-    {
-      "id": "19db3b0f0f",
-      "titolo": "Ora anche i CARTellini ROSSI diventano digitali! L'arbitro usa uno 'smartphone' per infliggere le sue punizioni, ma i tifosi non sono convinti",
-      "url": "https://www.dailymail.com/sport/football/article-16218411/red-card-digital-referee-uruguay-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Eduardo Varela è diventato il primo arbitro nella storia a espellere un giocatore con un cartellino rosso digitale durante una sperimentazione in un match di Copa Uruguay tra Nacional e Rentistas.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T18:18:23+00:00"
-    },
-    {
-      "id": "868f806dae",
-      "titolo": "L'esterno del Celtic Jota svela 18 mesi di sofferenza per infortunio... 'Ho incontrato alcuni demoni e ho parlato con loro'",
-      "url": "https://www.dailymail.com/sport/football/article-16221133/Celtic-winger-Jota-lifts-lid-18-months-injury-anguish-Ive-met-demons-talks-them.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Quando il Celtic ha battuto il Dundee United 5-0 nell'aprile del 2025, l'emozione prevalente a Tannadice è stata di euforia e festa.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T17:58:50+00:00"
-    },
-    {
-      "id": "357ea39495",
-      "titolo": "Perché il Brighton sta segnando COSÌ tanti gol",
-      "url": "https://www.dailymail.com/sport/football/article-16220345/Brighton-goals-Premier-League-Hurzeler.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La squadra di Fabian Hurzeler, dopo l'ennesima goleada contro il Crystal Palace, ha realizzato più gol nei primi cinque campionati europei rispetto a chiunque altro tranne Barcellona e Real Madrid.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T17:39:52+00:00"
     }
   ]
 }
