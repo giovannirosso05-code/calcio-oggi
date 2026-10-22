@@ -1,7 +1,43 @@
 {
-  "aggiornato": "2026-10-22T20:49:54.426206+00:00",
-  "totale": 41,
+  "aggiornato": "2026-10-22T23:53:36.505669+00:00",
+  "totale": 43,
   "articoli": [
+    {
+      "id": "18df59aa7f",
+      "titolo": "La stella del West Ham Edson Álvarez accusato di aver venduto falsi certificati Covid-19 in un giro \"illecito\" durante la pandemia insieme all'ex suocero... a poche settimane dall'accusa di rapimento",
+      "url": "https://www.dailymail.com/sport/football/article-16230227/West-Hams-Edson-Alvarez-accused-selling-fake-Covid-19-certificates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il centrocampista del West Ham Edson Álvarez e il suo ex suocero sono stati accusati di aver venduto falsi certificati di vaccinazione anti-Covid durante la pandemia.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T22:36:51+00:00"
+    },
+    {
+      "id": "73098420de",
+      "titolo": "CELTIC 1 CELTA VIGO 2: I fragili Bhoys buttano via tutto e lasciano le speranze di Europa League a un filo",
+      "url": "https://www.dailymail.com/sport/football/article-16231471/celtic-celta-vigo-europa-league-mika-baur-javi-rodriguez.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "A tre giorni dal ritorno dell'ora solare, il Celtic si è ritrovato a corto di tempo per soddisfare le minime aspettative in questa stagione di Europa League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T22:15:27+00:00"
+    },
+    {
+      "id": "ef7a78a39a",
+      "titolo": "Betis da sogno in Champions, ma Bartra scoppia in lacrime dopo il Feyenoord: il motivo",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/betis-sogno-champions-bartra-scoppia-lacrime-feyenoord-successo-2286244",
+      "estratto": "Il Betis Siviglia sta cavalcando un'onda d'entusiasmo incredibile.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T22:11:00+00:00"
+    },
+    {
+      "id": "3920290e54",
+      "titolo": "La vedova dell'icona del Middlesbrough Willie Maddren chiede maggiore protezione per i calciatori a causa del legame tra colpi di testa e SLA letale, che ha causato la morte prematura di Rob Burrow",
+      "url": "https://www.dailymail.com/sport/football/article-16228981/Widow-Middlesbrough-icon-Willie-Maddren-calls-greater-protection-footballers-link-headers-fatal-MND-caused-Rob-Burrows-premature-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "MATT BARLOW: Per i tifosi del Tees di una certa età, Willie Maddren non ha bisogno di presentazioni.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T22:08:18+00:00"
+    },
     {
       "id": "1b70aa6ca3",
       "titolo": "Nessun finale eroico questa volta: il Sunderland spreca il vantaggio contro la peggior squadra di Europa League, mentre il Brighton, solitamente prolifico, stecca in un pareggio scialbo contro i modesti cechi",
@@ -9,16 +45,43 @@
       "estratto": "Il portiere Robin Roefs ha guardato il cielo e ha urlato un'imprecazione! Regis Le Bris è rimasto cupo a bordo campo. Il Sunderland aveva subito un gol, ed era nell'aria.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-22T20:37:33+00:00"
+      "pubblicato": "2026-10-22T21:57:57+00:00"
     },
     {
-      "id": "d3c787136a",
-      "titolo": "Europa League, i parziali delle 21: troppa Real Sociedad, Fonseca giù. Italiano sorride",
-      "url": "https://www.tuttomercatoweb.com/serie-a/europa-league-parziali-21-troppa-real-sociedad-fonseca-giu-italiano-sorride-2286203",
-      "estratto": "Finiscono qui i primi 45 minuti delle partite delle 21:00, in programma per il terzo turno di League Phase di Europa League.",
-      "fonte": "TMW",
+      "id": "4d03501cdb",
+      "titolo": "La favola del Bournemouth condanna Rúben Amorim a un altro incubo in Inghilterra",
+      "url": "https://www.espn.com/soccer/story/_/id/50252034/bournemouth-fairytale-condemns-ruben-amorim-another-nightmare-england-ac-milan",
+      "estratto": "Il Bournemouth non avrebbe mai voluto che questa notte finisse. Rúben Amorim, tuttavia, sarebbe felice di dimenticare che questa sera sulla costa meridionale sia mai accaduta.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-22T21:49:57+00:00"
+    },
+    {
+      "id": "30abf03db7",
+      "titolo": "Il Crystal Palace costretto ad accontentarsi del pareggio in casa del Beşiktaş in 10 uomini",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915553",
+      "estratto": "Jean-Philippe Mateta ha segnato alla sua prima da titolare dalla prima giornata, ma il Crystal Palace non è riuscito a sfruttare l'espulsione di un giocatore del Beşiktaş per trovare la vittoria nel pareggio per 2-2 in Europa League a Istanbul.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-10-22T21:34:00+00:00"
+    },
+    {
+      "id": "ed5a850e6f",
+      "titolo": "Burley: Carrick dovrebbe prendere una posizione e lasciare fuori Fernandes",
+      "url": "https://www.espn.com/video/clip/_/id/50252435/carrick-take-stand-drop-fernandes",
+      "estratto": "Burley: Carrick dovrebbe prendere una posizione e lasciare fuori Fernandes",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-22T19:54:56+00:00"
+      "pubblicato": "2026-10-22T21:32:25+00:00"
+    },
+    {
+      "id": "d1fe72640e",
+      "titolo": "Wouter Vrancken orgoglioso dell'impegno della sua squadra degli Hearts decimata dagli infortuni in Turchia",
+      "url": "https://www.dailymail.com/sport/football/article-16231381/Wouter-Vrancken-proud-efforts-injury-hit-Hearts-Turkey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico degli Hearts Wouter Vrancken ha insistito nel dire di essere orgoglioso dell'impegno dei suoi giocatori nonostante la sconfitta per 2-0 contro il Trabzonspor di Mo Salah in UEFA Conference League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-22T20:55:23+00:00"
     },
     {
       "id": "531880f262",
@@ -37,15 +100,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-22T18:06:45+00:00"
-    },
-    {
-      "id": "3920290e54",
-      "titolo": "La vedova dell'icona del Middlesbrough Willie Maddren chiede maggiore protezione per i calciatori a causa del legame tra colpi di testa e SLA letale, che ha causato la morte prematura di Rob Burrow",
-      "url": "https://www.dailymail.com/sport/football/article-16228981/Widow-Middlesbrough-icon-Willie-Maddren-calls-greater-protection-footballers-link-headers-fatal-MND-caused-Rob-Burrows-premature-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "MATT BARLOW: Per i tifosi del Tees di una certa età, Willie Maddren non ha bisogno di presentazioni.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-22T17:53:17+00:00"
     },
     {
       "id": "c301405444",
@@ -118,15 +172,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-10-22T09:33:18+00:00"
-    },
-    {
-      "id": "c5e2cc0167",
-      "titolo": "Gli animalisti contro il Crystal Palace: \"Stop all’aquila\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/10/22-152057039/gli_animalisti_contro_il_crystal_palace_stop_allaquila/",
-      "estratto": "Il club inglese nella bufera per l'utilizzo dell'uccello rapace prima di ogni partita",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-22T07:06:12+00:00"
     },
     {
       "id": "8d4f6ac4af",
@@ -273,15 +318,6 @@
       "pubblicato": "2026-10-21T06:47:21+00:00"
     },
     {
-      "id": "9052944f47",
-      "titolo": "Il presidente dell'autorità di vigilanza calcistica ribadisce il potere 'assoluto' di imporre la cessione del City",
-      "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale",
-      "estratto": "L'Independent Football Regulator avrà un \"potere assoluto\" per costringere i proprietari del Manchester City a vendere il club qualora venisse accertata una gestione irregolare, ha dichiarato il presidente dell'organismo di controllo.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-20T23:53:19+00:00"
-    },
-    {
       "id": "cc14272815",
       "titolo": "Gasperini sorride e in diretta scherza con Allegri: \"Max arrivo arrivo\". La risposta è tutta da ridere",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152032801/gasperini_sorride_e_in_diretta_scherza_con_allegri_max_arrivo_arrivo_la_risposta_tutta_da_ridere/",
@@ -352,24 +388,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-20T10:21:15+00:00"
-    },
-    {
-      "id": "481bb4a6d8",
-      "titolo": "L'acrobazia geniale di Zlatan Ibrahimovic contro l'Inghilterra, la volee di Jamie Vardy e un siluro a Blackpool... dopo lo straordinario gol da centrocampo di Diego Gomez per il Brighton, i nostri esperti scelgono la loro rete preferita",
-      "url": "https://www.dailymail.com/sport/football/article-16219895/Zlatan-Ibrahimovics-acrobatic-stunner-against-England-Jamie-Vardys-volley-belter-Blackpool-Diego-Gomezs-halfway-line-stunner-Brighton-experts-pick-favourite-goal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dopo l'incredibile gol di Diego Gomez, abbiamo chiesto ai nostri esperti quale sia stata la loro rete preferita vista dal vivo...",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T22:37:34+00:00"
-    },
-    {
-      "id": "20c39df327",
-      "titolo": "Perché il calcio è diventato così indulgente con le simulazioni? Sembra che il 'tuffo' sia una piaga con cui abbiamo scelto di convivere",
-      "url": "https://www.dailymail.com/sport/football/article-16221559/Why-football-gone-soft-diving-simulation-seb-drozd-partick-thistle-ayr.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "'Per me non era assolutamente rigore.' Gli sportivi sono abituati a sentire i tecnici pronunciare queste parole, ma non di certo a sentirle dire dall'allenatore la cui squadra ha tratto vantaggio dalla decisione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-19T22:20:46+00:00"
     }
   ]
 }

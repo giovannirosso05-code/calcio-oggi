@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-22T20:49:54.514554+00:00",
-  "totale": 211,
+  "aggiornato": "2026-10-22T23:53:36.646083+00:00",
+  "totale": 221,
   "articoli": [
     {
       "id": "d3187a51ec",
@@ -37,6 +37,18 @@
       "punteggio": 210,
       "pubblicato": "2026-10-21T08:50:09+00:00",
       "squadra": "Inter Milan"
+    },
+    {
+      "id": "6bdf3f460e",
+      "titolo": "Roberto Breda: \"Milan, l'identità manca da troppo tempo. Atalanta, ci vuole tempo. E la Juve...\"",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/roberto-breda-milan-identita-manca-tempo-atalanta-vuole-tempo-juve-2286262",
+      "estratto": "\"Il Milan? I primi mesi per un allenatore nuovo non sono semplici.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-10-22T22:33:33+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "272b332d55",
@@ -87,6 +99,30 @@
       "squadra": "Trabzonspor"
     },
     {
+      "id": "c65c6898ac",
+      "titolo": "Vittorie come questa dimostrano alle stelle del Bournemouth che il club non è un trampolino di lancio, mentre si godono un'altra notte da ricordare nel 3-0 che umilia il Milan di Rúben Amorim, scrive KIERAN GILL",
+      "url": "https://www.dailymail.com/sport/football/article-16229409/AC-Milan-Bournemouth-Europa-League-memorable-victory-KIERAN-GIL-Ruben-Amorim.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "KIERAN GILL AL VITALITY STADIUM: Non c'è da stupirsi se quanti hanno sfidato la tempesta Austen per assistere a questa sfida di Europa League volevano una sciarpa tinta di rossonero.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 150,
+      "pubblicato": "2026-10-22T22:57:03+00:00",
+      "squadra": "Bournemouth"
+    },
+    {
+      "id": "72bceb1d97",
+      "titolo": "Conference League, risultati e classifica: Atalanta impantanata a metà",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/conference-league-risultati-classifica-atalanta-impantanata-meta-2286249",
+      "estratto": "Serata amara per l'Atalanta in Conference League, con gli uomini di Sarri che escono sconfitti 2-0 dalla Cruyff Arena contro l'Ajax.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 150,
+      "pubblicato": "2026-10-22T22:53:01+00:00",
+      "squadra": "Atalanta"
+    },
+    {
       "id": "a393f4565f",
       "titolo": "Steven Gerrard: \"Nessun rimpianto\" per aver ignorato l'interesse di Real Madrid, Inter e Bayern Monaco",
       "url": "https://www.espn.com/soccer/story/_/id/50226329/steven-gerrard-no-regrets-ignoring-real-madrid-inter-milan-bayern-munich-interest",
@@ -123,28 +159,52 @@
       "squadra": "Bayern"
     },
     {
-      "id": "6bee9d2ada",
-      "titolo": "Lazio, Isaksen sempre più protagonista: \"Possiamo fare qualcosa di importante\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-isaksen-protagonista-possiamo-importante-2286150",
-      "estratto": "Gustav Isaksen ha rilasciato alcune dichiarazioni attraverso i canali ufficiali della Lazio.",
+      "id": "a1789d1edd",
+      "titolo": "Italiano, rimpianti al Besiktas. Tonfo Lione con Fonseca: Europa League, risultati e classifica",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/italiano-rimpianti-besiktas-tonfo-lione-fonseca-europa-league-risultati-classifica-2286253",
+      "estratto": "La terza giornata di Europa League, valida per la League Phase, regala pioggia di gol e verdetti netti.",
       "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-22T20:15:00+00:00",
-      "squadra": "Lazio"
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-10-22T22:56:19+00:00",
+      "squadra": "Besiktas"
     },
     {
-      "id": "0fb1b680ff",
-      "titolo": "Giovane: \"Napoli, dopo martedì può cambiare tutto. Roma forte? Lo siamo anche noi\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/giovane-napoli-martedi-cambiare-tutto-roma-forte-noi-2286157",
-      "estratto": "Giovane, attaccante brasiliano del Napoli, è stato intervistato da Radio Kiss Kiss Napoli in vista del big match con la Roma di questo sabato.",
+      "id": "266030155a",
+      "titolo": "Quale Celtic vedremo? Devastante contro gli Hearts, disastroso contro il Benfica... Maloney spera che i Bhoys portino il loro rendimento interno nella sfida da dentro o fuori contro il Celta Vigo",
+      "url": "https://www.dailymail.com/sport/football/article-16227735/Will-real-Celtic-stand-Devastating-against-Hearts-diabolical-against-Benfica-Maloney-praying-Bhoys-bring-domestic-form-table-win-Celta-Vigo-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Raramente uno che usa giri di parole, la valutazione di Chris Sutton sullo spazio in cui il Celtic sembra trovarsi in questi giorni ha incontrato poca resistenza.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-10-21T21:43:30+00:00",
+      "squadra": "Celtic"
+    },
+    {
+      "id": "20b19e60f3",
+      "titolo": "La cessione del Napoli torna tema caldo. De Laurentiis spiega la situazione, parla anche Rizzetta",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cessione-napoli-torna-tema-caldo-de-laurentiis-spiega-situazione-parla-rizzetta-2286182",
+      "estratto": "\"Il Napoli non è in vendita\".",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-22T20:08:31+00:00",
+      "pubblicato": "2026-10-22T22:37:59+00:00",
       "squadra": "Napoli"
+    },
+    {
+      "id": "791943a449",
+      "titolo": "Isaksen pensa in grande: \"La Lazio può fare qualcosa di importante\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/22-152067781/isaksen_pensa_in_grande_la_lazio_pu_fare_qualcosa_di_importante/",
+      "estratto": "L'attaccante sicuro: \"Il segreto è lo spogliatoio e Gattuso è stato fondamentale\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-22T16:13:10+00:00",
+      "squadra": "Lazio"
     },
     {
       "id": "679f6756be",
@@ -189,8 +249,65 @@
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-22T20:45:32+00:00",
+      "pubblicato": "2026-10-22T22:30:32+00:00",
       "squadra": "Bologna"
+    },
+    {
+      "id": "73f8221ace",
+      "titolo": "Kolo Muani e Woltemade visti da Spalletti: \"Bene ma posso aspettarmi di più da tutti e due\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/kolo-muani-woltemade-visti-spalletti-bene-posso-aspettarmi-due-2286224",
+      "estratto": "Luciano Spalletti, allenatore della Juventus, nell'analisi da lui fatta nella conferenza stampa successiva al pareggio per 2-2 contro il Rennes in Europa League, si è soffermato tra le altre cose anche sul rendimento offerto dalla coppia dei centrava",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-22T22:15:07+00:00"
+    },
+    {
+      "id": "d05fc90d42",
+      "titolo": "Mikolajewski brilla col Lucerna: \"Obiettivo 20 gol e assist. Toro? In estate torno al Parma\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/mikolajewski-brilla-lucerna-obiettivo-20-gol-assist-parma-vediamo-estate-2286137",
+      "estratto": "Daniel Mikolajewski brilla in prestito al Lucerna, dove ha già messo a segno 4 gol e 3 assist in appena 10 partite.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-22T22:07:15+00:00",
+      "squadra": "Parma"
+    },
+    {
+      "id": "8fa965e1d6",
+      "titolo": "Sarri sul finale con l'Ajax: \"Ero incazzato perché qualche errore l'abbiamo concesso noi\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/sarri-finale-ajax-ero-incazzato-errore-concesso-noi-2286259",
+      "estratto": "Mister Maurizio Sarri, intervenuto in conferenza stampa dopo la sconfitta con l'Ajax in Conference League, ha analizzato la prestazione della sua Atalanta.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-22T22:05:17+00:00",
+      "squadra": "Ajax"
+    },
+    {
+      "id": "7d8a3abd11",
+      "titolo": "Sarri: \"Partita europea, ma ci mancavano 4 centrali. Dispiace per i tifosi\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/atalanta/2026/10/22-152082336/sarri_partita_europea_ma_ci_mancavano_4_centrali_dispiace_per_i_tifosi/",
+      "estratto": "Il tecnico dell'Atalanta: \"Non posso incolpare i ragazzi, abbiamo vanificato situazioni favorevoli\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-22T21:43:14+00:00"
+    },
+    {
+      "id": "0870567599",
+      "titolo": "Amorim mastica amaro: \"Troppi errori in difesa. Oggi non c'è stata partita\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152079419/amorim_mastica_amaro_troppi_errori_in_difesa_oggi_non_c_stata_partita/",
+      "estratto": "Le parole del tecnico dei rossoneri al termine della sfida sul campo del Bornemouth: \"Non possiamo prendere quei rigori\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-10-22T21:17:37+00:00"
     },
     {
       "id": "4369efce99",
@@ -316,17 +433,6 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "337395b7bc",
-      "titolo": "\"Ci siamo detti le cose in faccia\": Kolo Muani, cosa c’è dietro le parole in conferenza",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152055849/ci_siamo_detti_le_cose_in_faccia_kolo_muani_cosa_c_dietro_le_parole_in_conferenza/",
-      "estratto": "Il francese vuole subito ripartire in Europa League: \"Juve, siamo una famiglia e non ci manca la personalità. Dimostriamolo!\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-22T07:19:00+00:00"
-    },
-    {
       "id": "fdbca7ebbd",
       "titolo": "Hernani Junior esclusivo: \"Palermo, io vivo per te\"",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-b/palermo/2026/10/22-152057395/hernani_junior_esclusivo_palermo_io_vivo_per_te/",
@@ -383,52 +489,16 @@
       "pubblicato": "2026-10-20T13:54:13+00:00"
     },
     {
-      "id": "bac6c86aa5",
-      "titolo": "Ajax in vantaggio contro l'Atalanta: Arokodare sovrasta fisicamente Obric e segna l'1-0",
-      "url": "https://www.tuttomercatoweb.com/serie-a/ajax-vantaggio-atalanta-arokodare-sovrasta-fisicamente-obric-segna-1-0-2286216",
-      "estratto": "L'Ajax punisce l'Atalanta nei minuti finali della gara di Amsterdam, valida per la seconda giornata della fase campionato di Conference League.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-22T20:46:32+00:00",
-      "squadra": "Ajax"
-    },
-    {
-      "id": "f8c91887b0",
-      "titolo": "Ruben Amorim FURIOSO con la terna arbitrale dopo l'espulsione del portiere del Milan per una spinta in FACCIA a un giocatore del Bournemouth, mentre l'ex tecnico del Manchester United prova a fare una sostituzione senza togliere nessuno!",
-      "url": "https://www.dailymail.com/sport/football/article-16231225/ruben-amorim-ac-milan-bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ruben Amorim è andato su tutte le furie a bordo campo durante un ritorno da incubo in Inghilterra con il Milan contro il Bournemouth in Europa League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-22T20:43:40+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "a4218c04c1",
-      "titolo": "Lecce in campo in vista della Juve: Berisha ha lavorato a parte, Pierotti è rimasto a riposo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-campo-vista-juve-berisha-lavorato-parte-pierotti-rimasto-riposo-2286112",
-      "estratto": "Allenamento pomeridiano per il Lecce, in preparazione alla gara di domenica con la Juventus, valida per l'ottavo turno di Serie A.",
+      "id": "74f342dbf0",
+      "titolo": "Sampdoria, D'Angelo è il nuovo allenatore: spunta anche l'interesse di Antonini per il club",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/sampdoria-angelo-allenatore-spunta-interesse-antonini-club-2286214",
+      "estratto": "Giornata ricca di novità in casa Sampdoria, tra il cambio in panchina e le indiscrezioni sul futuro societario.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-22T20:30:24+00:00",
-      "squadra": "Lecce"
-    },
-    {
-      "id": "60fe0ae4be",
-      "titolo": "Bournemouth-Milan, diretta Europa League e risultato in tempo reale: raddoppio ed espulsione",
-      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/10/22-152067978/bournemouth-milan_diretta_europa_league_formazioni_e_risultato_in_tempo_reale_amorim_punta_su_cisse/",
-      "estratto": "I rossoneri fanno visita agli inglesi nella terza giornata della fase campionato. Senza Ramos, Amorim ridisegna l'attacco",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-22T17:30:00+00:00",
-      "squadra": "Bournemouth"
+      "pubblicato": "2026-10-22T22:34:33+00:00",
+      "squadra": "Sampdoria"
     },
     {
       "id": "bf5bf96e5e",
@@ -501,71 +571,15 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "42a85f4059",
-      "titolo": "PSG stellare e Doué non si tocca: la dirigenza gli ha presentato un'offerta di rinnovo",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/psg-stellare-doue-tocca-dirigenza-presentato-offerta-rinnovo-2286213",
-      "estratto": "Se Barcola è partito, il Paris Saint-Germain non ha alcuna intenzione di assistere all'addio di Desiré Doué, per nulla al mondo.",
+      "id": "2a14d4e05e",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 23 ottobre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/i-mercato-stop-i-indiscrezioni-trattative-retroscena-23-ottobre-2286107",
+      "estratto": "IL BAYER LEVERKUSEN PENSA A BREMER, PER LA JUVE IDEA TOMORI A PREZZO DI SALDO.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-22T20:41:29+00:00"
-    },
-    {
-      "id": "4be2e7b68f",
-      "titolo": "Spalletti in bilico? Un pareggio non può cambiare le parole dette da Carnevali",
-      "url": "https://www.tuttomercatoweb.com/serie-a/spalletti-bilico-pareggio-cambiare-parole-dette-carnevali-2286192",
-      "estratto": "Neanche l'Europa riesce ad alleviare il brutto periodo di casa Juventus: anche contro il Rennes i bianconeri mancano l'appuntamento con la vittoria, interrompendo quindi la mini-striscia di soli successi che aveva caratterizzato l'avvio bianconero ne",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-22T20:37:50+00:00"
-    },
-    {
-      "id": "5fb37bcbf7",
-      "titolo": "L'attaccante da 100 milioni non c'è più: Kolo Muani stecca anche con Woltemade",
-      "url": "https://www.tuttomercatoweb.com/serie-a/attaccante-100-piu-kolo-muani-stecca-woltemade-2286208",
-      "estratto": "Randal Kolo Muani è ufficialmente il tormentone di casa Juventus che va per la maggiore ormai dall'inizio della stagione.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-22T20:22:42+00:00"
-    },
-    {
-      "id": "ea7bb2cc03",
-      "titolo": "Dato impietoso sulla crisi di Vinicius Junior: contro il Lipsia 0 dribbling tentati",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/dato-impietoso-crisi-vinicius-junior-lipsia-0-dribbling-tentati-2286132",
-      "estratto": "Ciò che sta accadendo a Vinícius Júnior in casa Real Madrid inizia a destare un'autentica preoccupazione tra le mura del club: la stella capace in passato di terrorizzare le difese d'Europa a suon di dribbling appare oggi come un giocatore svuotato, ",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-22T20:11:38+00:00"
-    },
-    {
-      "id": "92e0cf6478",
-      "titolo": "Gli Stati Uniti ospiteranno la prima edizione della Coppa del Mondo per club femminile",
-      "url": "https://www.tuttomercatoweb.com/calcio-femminile/uniti-ospiteranno-edizione-coppa-club-femminile-fifa-2286174",
-      "estratto": "Il 17 dicembre 2025 il Consiglio della FIFA ha deciso che la prima edizione della Coppa del Mondo per club femminile della FIFA si sarebbe svolta dal 5 al 30 gennaio 2028.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-22T20:04:16+00:00"
-    },
-    {
-      "id": "4aeec02bb3",
-      "titolo": "Conference League, i parziali delle gare delle 21: Monaco avanti sul Friburgo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/conference-league-parziali-gare-21-monaco-friburgo-2286201",
-      "estratto": "Si sono conclusi i primi tempi delle sfide di Conference League delle 21, dopo le gare del pomeriggio.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-22T19:52:42+00:00",
-      "squadra": "Monaco"
+      "pubblicato": "2026-10-22T23:00:48+00:00"
     },
     {
       "id": "4ed16c9f73",
@@ -599,18 +613,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-22T15:20:52+00:00"
-    },
-    {
-      "id": "7e6cc562fe",
-      "titolo": "La Sampdoria prova a ripartire con D'Angelo",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/22-152066727/la_sampdoria_prova_a_ripartire_con_d_angelo/",
-      "estratto": "Consumato l'addio a Corradi e dopo una profonda riflessione, i bluerchiati decidono di affidarsi all'esperto ex di Pisa e Spezia",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-22T15:00:26+00:00",
-      "squadra": "Sampdoria"
     },
     {
       "id": "1e53211a17",
@@ -666,18 +668,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-22T08:36:05+00:00"
-    },
-    {
-      "id": "266030155a",
-      "titolo": "Quale Celtic vedremo? Devastante contro gli Hearts, disastroso contro il Benfica... Maloney spera che i Bhoys portino il loro rendimento interno nella sfida da dentro o fuori contro il Celta Vigo",
-      "url": "https://www.dailymail.com/sport/football/article-16227735/Will-real-Celtic-stand-Devastating-against-Hearts-diabolical-against-Benfica-Maloney-praying-Bhoys-bring-domestic-form-table-win-Celta-Vigo-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Raramente uno che usa giri di parole, la valutazione di Chris Sutton sullo spazio in cui il Celtic sembra trovarsi in questi giorni ha incontrato poca resistenza.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-21T21:43:30+00:00",
-      "squadra": "Celtic"
     },
     {
       "id": "ebc8ba6881",
@@ -784,38 +774,27 @@
       "pubblicato": "2026-10-20T13:23:32+00:00"
     },
     {
-      "id": "65412e6205",
-      "titolo": "Rae: Lamine Yamal sta restituendo la gioia al calcio",
-      "url": "https://www.espn.com/video/clip/_/id/50221935/lamine-yamal-bringing-joy-back-football",
-      "estratto": "Rae: Lamine Yamal sta restituendo la gioia al calcio",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-19T22:52:46+00:00"
-    },
-    {
-      "id": "39747082ad",
-      "titolo": "Il Brentford denuncia un tifoso alla polizia dopo che un pallone da rugby è stato calciato in campo da un condominio durante la sconfitta con il Liverpool",
-      "url": "https://www.dailymail.com/sport/football/article-16221613/ford-fan-rugby-ball-police-liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Gtech Community Stadium del Brentford è circondato da una giungla di condomini e, sebbene nessuno sia rimasto ferito, il pallone è effettivamente atterrato vicino al terreno di gioco.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-19T21:53:07+00:00",
-      "squadra": "Brentford"
-    },
-    {
-      "id": "d0ba929dda",
-      "titolo": "\"Tic tac\": misterioso post sui social di Pogba, l'ex Juventus torna a giocare in un club?",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/tic-tac-misterioso-post-social-pogba-juventus-torna-giocare-club-2286197",
-      "estratto": "Svincolato dalla risoluzione del suo contratto con il Monaco il 19 agosto, Paul Pogba sembra aver ritrovato la forma.",
-      "fonte": "TMW",
+      "id": "8a72fd07f8",
+      "titolo": "\"Intensità pazzesca, qui non mi manca niente\": Di Gregorio trionfa sul Milan e ringrazia Palladino...",
+      "url": "https://www.tuttosport.com/news/calcio/2026/10/22-152082338/intensit_pazzesca_qui_non_mi_manca_niente_di_gregorio_trionfa_sul_milan_e_ringrazia_palladino_/",
+      "estratto": "Il portiere ex Juventus parla dopo la vittoria del suo Bournemouth contro i rossoneri in Europa League: \"Italia? Da lontano vedo che non cambia nulla\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -10,
-      "pubblicato": "2026-10-22T20:26:13+00:00",
+      "pubblicato": "2026-10-22T21:47:03+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "da452104f4",
+      "titolo": "\"Rammarico, potevamo battere la Juve\": Camara spavaldo, le parole del Rennes",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/10/22-152078871/rammarico_potevamo_battere_la_juve_camara_spavaldo_le_parole_del_rennes/",
+      "estratto": "Il commento del centrocampista e del tecnico Haise dopo il 2-2 di Torino in Europa League: \"Possiamo essere orgogliosi\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -10,
+      "pubblicato": "2026-10-22T20:51:18+00:00",
       "squadra": "Juventus"
     },
     {
@@ -843,6 +822,30 @@
       "squadra": "Como"
     },
     {
+      "id": "7fcef876d7",
+      "titolo": "Arokodare rompe il muro nerazzurro dopo 86 minuti: Atalanta ko, ma Sarri non fa drammi",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/arokodare-rompe-muro-sarri-86-minuti-atalanta-ko-casa-ajax-2-0-2286255",
+      "estratto": "L'Atalanta cade 2-0 alla Johan Cruijff Arena contro un Ajax che domina per lunghi tratti e trova il successo soltanto nel finale.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -50,
+      "pubblicato": "2026-10-22T22:41:53+00:00",
+      "squadra": "Atalanta"
+    },
+    {
+      "id": "c97d8d9925",
+      "titolo": "Rose invita alla calma dopo che il Bournemouth travolge il Milan, mentre Amorim recrimina per il rosso",
+      "url": "https://www.espn.com/soccer/story/_/id/50252812/bournemouth-ac-milan-europa-league-ruben-amorim-marco-rose",
+      "estratto": "Marco Rose ha dichiarato che la sua squadra del Bournemouth manterrà i piedi per terra dopo aver dominato il Milan per 3-0 in Europa League, mentre Rúben Amorim ha affermato che la partita per la sua squadra era compromessa dopo il cartellino rosso a",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -50,
+      "pubblicato": "2026-10-22T22:37:05+00:00",
+      "squadra": "Bournemouth"
+    },
+    {
       "id": "b636a920ea",
       "titolo": "Il capitano del Bayern Monaco Joshua Kimmich salterà la sfida di Champions League contro l'Arsenal dopo l'improvvisa scomparsa del padre a 57 anni",
       "url": "https://www.dailymail.com/sport/football/article-16226289/bayern-munich-joshua-kimmich-father-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -867,6 +870,18 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "c1c13be3bc",
+      "titolo": "Il Real Madrid dovrebbe innervosire il Barcellona con i falli in El Clásico?",
+      "url": "https://www.espn.com/video/clip/_/id/50252567/should-real-madrid-frustrate-barcelona-fouls-el-clasico",
+      "estratto": "Il Real Madrid dovrebbe innervosire il Barcellona con i falli in El Clásico?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-10-22T21:48:39+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
       "id": "5d338ece89",
       "titolo": "TRABZONSPOR 2 HEARTS 0: Salah regna sovrano, ma l'Hearts decimato dagli infortuni mostra grandi progressi rispetto al crollo del fine settimana contro il Celtic",
       "url": "https://www.dailymail.com/sport/football/article-16231201/TRABZONSPOR-2-HEARTS-0-Salah-reigns-supreme-injury-hit-Hearts-major-improvement-weekend-surrender-Celtic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -880,7 +895,7 @@
     },
     {
       "id": "c4008a87a4",
-      "titolo": "Vince ancora il Bayer Leverkusen, Marsiglia ko contro lo Sturm Graz: i risultati delle sfide di Europa League",
+      "titolo": "Vince ancora il Bayer Leverkusen, pareggio per il Besiktas di Italiano: i risultati delle sfide di Europa League",
       "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152072958/vince_ancora_il_bayer_leverkusen_marsiglia_ko_contro_lo_sturm_graz_i_risultati_delle_sfide_di_europa_league/",
       "estratto": "Tedeschi a punteggio pieno assieme al Ferencvaros. Il Sunderland non va oltre il pareggio contro il Lech Poznan",
       "fonte": "Corriere dello Sport",
@@ -889,30 +904,6 @@
       "punteggio": -80,
       "pubblicato": "2026-10-22T18:46:53+00:00",
       "squadra": "Leverkusen"
-    },
-    {
-      "id": "393c5b4a2a",
-      "titolo": "Mourinho ha reso imperdibile la rivalità del Clásico tra Real Madrid e Barcellona. Ora è tornato per altro",
-      "url": "https://www.espn.com/soccer/story/_/id/50245408/jose-mourinho-el-clasico-unmissable-real-madrid-barcelona-guardiola-messi-ronaldo",
-      "estratto": "Tredici anni dopo aver contribuito a trasformare la più grande rivalità calcistica in un caos imperdibile, l'allenatore del Real Madrid José Mourinho torna ad affrontare il Barcellona in un Clásico con qualcosa da dimostrare",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -80,
-      "pubblicato": "2026-10-22T14:12:50+00:00",
-      "squadra": "Real Madrid"
-    },
-    {
-      "id": "791943a449",
-      "titolo": "Isaksen pensa in grande: \"La Lazio può fare qualcosa di importante\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/22-152067781/isaksen_pensa_in_grande_la_lazio_pu_fare_qualcosa_di_importante/",
-      "estratto": "L'attaccante sicuro: \"Il segreto è lo spogliatoio e Gattuso è stato fondamentale\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-10-22T16:13:10+00:00",
-      "squadra": "Lazio"
     },
     {
       "id": "3e241b5231",
@@ -963,40 +954,16 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "5da261f4dd",
-      "titolo": "Per il Milan la situazione è già disperata: sotto di 2 gol e in 10 all'intervallo a Bournemouth",
-      "url": "https://www.tuttomercatoweb.com/serie-a/milan-situazione-disperata-2-gol-10-intervallo-bournemouth-2286200",
-      "estratto": "Situazione già disperata per il Milan dopo 45 minuti.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-10-22T19:50:43+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "230016c9eb",
-      "titolo": "L'Ajax domina, l'Atalanta incassa ma resiste: 0-0 dopo 45 minuti alla Johan Cruijff Arena",
-      "url": "https://www.tuttomercatoweb.com/serie-a/ajax-domina-atalanta-incassa-resiste-0-0-45-minuti-johan-cruijff-arena-2286199",
-      "estratto": "Il primo tempo di Ajax-Atalanta si chiude sullo 0-0 alla Johan Cruijff Arena, ma il risultato parziale della gara - valida per la seconda giornata della fase campionato di Conference League - non racconta le difficoltà della squadra di Sarri.",
+      "id": "383bc0ca83",
+      "titolo": "Ajax-Atalanta 2-0: il tabellino della gara",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/ajax-atalanta-2-0-tabellino-gara-2286261",
+      "estratto": "Ecco di seguito il tabellino della gara: Ajax (4-3-3): ter Stegen; Lucas Rosa, Bouwman, Baas, Wijndal; Amrabat, Klaassen (16' st Tsygankov), Mokio; Brandt (45' st Janse), Marcos Leonardo (20' st Arokodare), Gloukh.",
       "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-10-22T19:46:29+00:00",
+      "pubblicato": "2026-10-22T22:18:51+00:00",
       "squadra": "Ajax"
-    },
-    {
-      "id": "573c15f634",
-      "titolo": "Come il Bournemouth è diventato favorito contro il Milan: dall'ispirazione alla celebre maglia rossonera alle 100.000 sterline che lo salvarono dal fallimento... ora i Cherries sono pronti a battere i loro idoli",
-      "url": "https://www.dailymail.com/sport/football/article-16226911/bournemouth-ac-milan-europa-league-meeting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "KIERAN GILL: Un altro club a questo punto avrebbe forse abbandonato l'autoironia, ma il Bournemouth è una realtà consapevole. Sanno da quali abissi sono risaliti per raggiungere questo palcoscenico europeo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-10-22T07:34:14+00:00",
-      "squadra": "Bournemouth"
     },
     {
       "id": "4e790cfeaf",
@@ -1023,6 +990,18 @@
       "squadra": "Liverpool "
     },
     {
+      "id": "7e6cc562fe",
+      "titolo": "La Sampdoria prova a ripartire con D'Angelo",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/22-152066727/la_sampdoria_prova_a_ripartire_con_d_angelo/",
+      "estratto": "Consumato l'addio a Corradi e dopo una profonda riflessione, i bluerchiati decidono di affidarsi all'esperto ex di Pisa e Spezia",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -200,
+      "pubblicato": "2026-10-22T15:00:26+00:00",
+      "squadra": "Sampdoria"
+    },
+    {
       "id": "6ab634c5f9",
       "titolo": "James Maddison fa decollare il Tottenham: il primo gol in Premier League dopo 610 giorni aiuta gli uomini di Roberto De Zerbi a lasciare l'ultimo posto in classifica nel 3-1 sul Coventry, mentre Dejan Kulusevski fa il suo tanto atteso ritorno",
       "url": "https://www.dailymail.com/sport/football/article-16220621/james-maddison-tottenham-premier-league-coventry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1033,6 +1012,18 @@
       "punteggio": -200,
       "pubblicato": "2026-10-20T06:44:08+00:00",
       "squadra": "Coventry"
+    },
+    {
+      "id": "495d099a3d",
+      "titolo": "Amorim abbattuto: \"Milan, non c'è stata partita. Maignan? Non ho parlato con lui\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/22-152080742/amorim_abbattuto_milan_non_c_stata_partita_maignan_non_ho_parlato_con_lui/",
+      "estratto": "Le parole del tecnico rossonero dopo il ko in casa del Bournemouth in Europa League: \"Gara negativa sotto ogni aspetto\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -210,
+      "pubblicato": "2026-10-22T21:25:34+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "bd985af1b3",
@@ -1071,6 +1062,30 @@
       "squadra": "Man United"
     },
     {
+      "id": "5c0caceeec",
+      "titolo": "Euforia Bournemouth per il 3-0 al Milan, il messaggio ironico sui social degli inglesi",
+      "url": "https://www.tuttomercatoweb.com/serie-a/euforia-bournemouth-3-0-milan-messaggio-ironico-social-inglesi-2286254",
+      "estratto": "Se il Milan piange, il Bournemouth ride.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -250,
+      "pubblicato": "2026-10-22T22:22:28+00:00",
+      "squadra": "Bournemouth"
+    },
+    {
+      "id": "9bf35ad5d5",
+      "titolo": "Atalanta piegata nel finale ad Amsterdam: l'Ajax vince 2-0, primo ko in Conference League per Sarri",
+      "url": "https://www.corrieredellosport.it/news/calcio/conference-league/2026/10/22-152074913/atalanta_piegata_nel_finale_ad_amsterdam_l_ajax_vince_2-0_primo_ko_in_conference_league_per_sarri/",
+      "estratto": "Una Dea in emergenza resiste fino all'87', poi i 'Lancieri' la spuntano con le reti di Arokodare e Ouazane nel match valido per la 2ª giornata: tutti i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -250,
+      "pubblicato": "2026-10-22T21:09:50+00:00",
+      "squadra": "Atalanta"
+    },
+    {
       "id": "ed01550e37",
       "titolo": "Diretta Champions League: il Como ospita il Manchester United nel match pomeridiano",
       "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
@@ -1095,15 +1110,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "4f3024b3be",
-      "titolo": "Mbappé e Diomande fanno esultare, mentre Vinícius Jr. viene fischiato nella vittoria del Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50242047/real-madrid-rb-leipzig-yan-diomande-kylian-mbappe-vinicius-jr",
-      "estratto": "José Mourinho ha dichiarato che i tifosi del Real Madrid \"sono tornati a casa felici\" grazie agli splendidi gol di Yan Diomande e Kylian Mbappé nella vittoria per 4-1 della squadra contro il RB Leipzig mercoledì.",
+      "id": "393c5b4a2a",
+      "titolo": "Mourinho ha reso imperdibile la rivalità del Clásico tra Real Madrid e Barcellona. Ora è tornato per altro",
+      "url": "https://www.espn.com/soccer/story/_/id/50245408/jose-mourinho-el-clasico-unmissable-real-madrid-barcelona-guardiola-messi-ronaldo",
+      "estratto": "Tredici anni dopo aver contribuito a trasformare la più grande rivalità calcistica in un caos imperdibile, l'allenatore del Real Madrid José Mourinho torna ad affrontare il Barcellona in un Clásico con qualcosa da dimostrare",
       "fonte": "ESPN",
-      "serie": "Champions",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -280,
-      "pubblicato": "2026-10-22T14:06:18+00:00",
+      "pubblicato": "2026-10-22T14:12:50+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1155,16 +1170,16 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "f0400813f8",
-      "titolo": "Come stanno Goncalo Ramos e Chukwueze: il comunicato ufficiale del Milan dopo gli infortuni",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/10/22-152066634/come_stanno_goncalo_ramos_e_chukwueze_il_comunicato_ufficiale_del_milan_dopo_gli_infortuni/",
-      "estratto": "Entrambi salteranno la sfida di stasera a Bornemouth, valida per la terza giornata della Fase Campionato di Europa League: l'aggiornamento del club rossonero sulle loro condizioni",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-10-22T14:44:04+00:00",
-      "squadra": "Milan"
+      "id": "eb5f3a9eb2",
+      "titolo": "Prima di \"the special one\", José Mourinho è stato \"the Barca one\"",
+      "url": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
+      "estratto": "Prima di \"the special one\", José Mourinho è stato \"the Barca one\"",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -400,
+      "pubblicato": "2026-10-22T22:17:50+00:00",
+      "squadra": "Barcelona"
     },
     {
       "id": "969956deed",
@@ -1179,30 +1194,6 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "cfa4e02d96",
-      "titolo": "Yamal del Barcellona contro Mbappé del Real Madrid: quale stella del Clásico ha più chance per il Pallone d'Oro?",
-      "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
-      "estratto": "Nella corsa al Pallone d'Oro più incerta degli ultimi anni, i fuoriclasse della Liga Lamine Yamal e Kylian Mbappé figurano tra i candidati alla vittoria del massimo riconoscimento individuale del calcio.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-10-22T14:14:29+00:00",
-      "squadra": "Barcelona"
-    },
-    {
-      "id": "4e7028430b",
-      "titolo": "Eli Junior Kroupi torna ad allenarsi con il Bournemouth e potrebbe sfidare il Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50237718/eli-junior-kroupi-bournemouth-injury-training-return-man-united-premier-league",
-      "estratto": "Il Bournemouth ha confermato che Eli Junior Kroupi, miglior marcatore del club nella scorsa stagione, è tornato ad allenarsi e potrebbe essere convocato per la sfida di domenica contro il Manchester United.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-10-21T14:12:36+00:00",
-      "squadra": "Bournemouth"
-    },
-    {
       "id": "f4f24950a5",
       "titolo": "Ronald Araújo: \"A Liverpool ho trovato quello di cui avevo bisogno\"",
       "url": "https://www.espn.com/soccer/story/_/id/50236600/ronald-araujo-liverpool-barcelona-villarreal-champions-league",
@@ -1215,15 +1206,15 @@
       "squadra": "Liverpool "
     },
     {
-      "id": "ff8f564c4a",
-      "titolo": "Juventus, Spalletti: \"Atteggiamento positivo. Gol annullato? Ci sono rimasto male\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-breve-conferenza-stampa-spalletti-2286126",
-      "estratto": "20:47 - Luciano Spalletti, allenatore della Juventus, ha parlato al termine della sfida di Europa League contro il Rennes.",
-      "fonte": "TMW",
+      "id": "eb35ce26da",
+      "titolo": "Carnevali carico: \"Spalletti? Sa quello che deve fare. È normale che la panchina della Juve scotti\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152068341/carnevali_carico_spalletti_sa_quello_che_deve_fare_normale_che_la_panchina_della_juve_scotti/",
+      "estratto": "L'amministratore delegato dei bianconeri, sul futuro del tecnico: \"Non possiamo cambiare ogni volta che le cose vanno male\"",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -410,
-      "pubblicato": "2026-10-22T19:43:31+00:00",
+      "pubblicato": "2026-10-22T16:34:49+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1239,15 +1230,51 @@
       "squadra": "Man United"
     },
     {
-      "id": "bd3986cba6",
-      "titolo": "Carlos Augusto e Martinez, la notte Inter è tutta loro",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/22-152059188/carlos_augusto_e_martinez_la_notte_inter_tutta_loro/",
-      "estratto": "In dieci per venti minuti dopo l'espulsione di Bastoni, i nerazzurri hanno battuto lo Shakhtar grazie al gol del brasiliano, migliore in campo. A ruota, il portiere: ha ripagato la fiducia di Chivu. Una vittoria che rilancia i Campioni d'Italia in Ch",
+      "id": "f8c91887b0",
+      "titolo": "Ruben Amorim FURIOSO con la terna arbitrale dopo l'espulsione del portiere del Milan per una spinta in FACCIA a un giocatore del Bournemouth, mentre l'ex tecnico del Manchester United prova a fare una sostituzione senza togliere nessuno!",
+      "url": "https://www.dailymail.com/sport/football/article-16231225/ruben-amorim-ac-milan-bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ruben Amorim è andato su tutte le furie a bordo campo durante un ritorno da incubo in Inghilterra con il Milan contro il Bournemouth in Europa League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -450,
+      "pubblicato": "2026-10-22T22:51:42+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "0b347fec50",
+      "titolo": "Bournemouth-Milan 3-0: il tabellino della gara",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/bournemouth-milan-3-0-tabellino-gara-2286260",
+      "estratto": "Ecco di seguito il tabellino della gara: Bournemouth (4-4-2) - Di Gregorio; Hill, Diakité, Antonio Silva, Truffert; Tavernier (16' st Toth, 33' st Adli), Christie, Adams (16' st Cook), Doak; Evanilson (20' st Rodriguez), Kluivert (16' st Rayan).",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -450,
+      "pubblicato": "2026-10-22T22:10:11+00:00",
+      "squadra": "Bournemouth"
+    },
+    {
+      "id": "5cda569d4c",
+      "titolo": "Atalanta, altra botta: Sarri affonda a Amsterdam, 2-0 Ajax. Monaco ok, Salah gol con il Trabzonspor",
+      "url": "https://www.tuttosport.com/news/calcio/conference-league/2026/10/22-152079328/atalanta_altra_botta_sarri_affonda_a_amsterdam_2-0_ajax_monaco_ok_salah_gol_con_il_trabzonspor/",
+      "estratto": "I bergamaschi crollano nel finale e rimediano la sconfitta nel secondo turno di Conference League. Goleade di Lugano e Panathinaikos",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-10-22T07:30:17+00:00",
+      "pubblicato": "2026-10-22T21:03:35+00:00",
+      "squadra": "Atalanta"
+    },
+    {
+      "id": "84630ff101",
+      "titolo": "Carlos Augusto, orgoglio Inter: lo Shakhtar spaventa Chivu ma San Siro esulta nonostante l'espulsione di Bastoni",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152047626/inter-shakhtar_donetsk_diretta_champions_league_segui_la_partita_di_oggi_in_diretta/",
+      "estratto": "La squadra di Chivu trova la prima vittoria dopo le due sconfitte nelle prime due partite della competizione. Nella ripresa espulso Bastoni",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -450,
+      "pubblicato": "2026-10-21T17:43:30+00:00",
       "squadra": "Inter Milan"
     },
     {
@@ -1263,15 +1290,15 @@
       "squadra": "Como"
     },
     {
-      "id": "790f77f537",
-      "titolo": "José Mourinho e Kylian Mbappé difendono Vinícius Júnior dopo i fischi dei tifosi del Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50246766/jose-mourinho-kylian-mbappe-defend-vinicius-junior-whistles-real-madrid-fans",
-      "estratto": "L'allenatore del Real Madrid José Mourinho e Kylian Mbappé hanno difeso Vinícius Júnior dopo che l'attaccante brasiliano ha attirato i fischi dei tifosi di casa durante la vittoria di mercoledì contro l'RB Lipsia.",
+      "id": "4f3024b3be",
+      "titolo": "Mbappé e Diomande fanno esultare, mentre Vinícius Jr. viene fischiato nella vittoria del Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50242047/real-madrid-rb-leipzig-yan-diomande-kylian-mbappe-vinicius-jr",
+      "estratto": "José Mourinho ha dichiarato che i tifosi del Real Madrid \"sono tornati a casa felici\" grazie agli splendidi gol di Yan Diomande e Kylian Mbappé nella vittoria per 4-1 della squadra contro il RB Leipzig mercoledì.",
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -480,
-      "pubblicato": "2026-10-22T14:05:09+00:00",
+      "pubblicato": "2026-10-22T14:06:18+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1323,18 +1350,6 @@
       "squadra": "Man City"
     },
     {
-      "id": "1a68b71195",
-      "titolo": "Ansia Milan, Ramos rischia anche l’Inter: chi può sostituirlo",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/22-152055948/ansia_milan_ramos_rischia_anche_linter_chi_pu_sostituirlo/",
-      "estratto": "A Bournemouth in emergenza, esami per il centravanti e ut pure Chukwueze per un problema all’anca",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-10-22T08:09:00+00:00",
-      "squadra": "Milan"
-    },
-    {
       "id": "98fb59464a",
       "titolo": "Si ferma Pellegrini: chiede il cambio in Roma-Slovan, cosa è successo",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152031352/si_ferma_pellegrini_chiede_il_cambio_in_roma-slovan_cosa_successo/",
@@ -1347,15 +1362,15 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "a66e54230a",
-      "titolo": "Il Barcellona conferma l'infortunio all'adduttore per Dani Olmo, potrebbe saltare un mese",
-      "url": "https://www.espn.com/soccer/story/_/id/50237026/barcelona-dani-olmo-adductor-injury-one-month-out",
-      "estratto": "Il Barcellona conferma l'infortunio all'adduttore per Dani Olmo, potrebbe saltare 1 mese",
+      "id": "cfa4e02d96",
+      "titolo": "Yamal del Barcellona contro Mbappé del Real Madrid: quale stella del Clásico ha più chance per il Pallone d'Oro?",
+      "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
+      "estratto": "Nella corsa al Pallone d'Oro più incerta degli ultimi anni, i fuoriclasse della Liga Lamine Yamal e Kylian Mbappé figurano tra i candidati alla vittoria del massimo riconoscimento individuale del calcio.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-10-21T17:28:24+00:00",
+      "pubblicato": "2026-10-22T14:14:29+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1371,15 +1386,15 @@
       "squadra": "Liverpool "
     },
     {
-      "id": "eb35ce26da",
-      "titolo": "Carnevali carico: \"Spalletti? Sa quello che deve fare. È normale che la panchina della Juve scotti\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152068341/carnevali_carico_spalletti_sa_quello_che_deve_fare_normale_che_la_panchina_della_juve_scotti/",
-      "estratto": "L'amministratore delegato dei bianconeri, sul futuro del tecnico: \"Non possiamo cambiare ogni volta che le cose vanno male\"",
-      "fonte": "Corriere dello Sport",
+      "id": "17a381c4cc",
+      "titolo": "\"Anni di errori, la maglia Juve pesa e lo vedo\". Poi la risposta in diretta tv sul futuro di Spalletti",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152067976/anni_di_errori_la_maglia_juve_pesa_e_lo_vedo_poi_la_risposta_in_diretta_tv_sul_futuro_di_spalletti/",
+      "estratto": "Carnevali tocca diversi temi nel pre partita della sfida contro il Rennes: dalle parole di Bremer alla panchina, le dichiarazioni",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -610,
-      "pubblicato": "2026-10-22T16:34:49+00:00",
+      "pubblicato": "2026-10-22T16:32:14+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1395,16 +1410,28 @@
       "squadra": "Man United"
     },
     {
-      "id": "84630ff101",
-      "titolo": "Carlos Augusto, orgoglio Inter: lo Shakhtar spaventa Chivu ma San Siro esulta nonostante l'espulsione di Bastoni",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152047626/inter-shakhtar_donetsk_diretta_champions_league_segui_la_partita_di_oggi_in_diretta/",
-      "estratto": "La squadra di Chivu trova la prima vittoria dopo le due sconfitte nelle prime due partite della competizione. Nella ripresa espulso Bastoni",
-      "fonte": "Corriere dello Sport",
+      "id": "38eaf9e47f",
+      "titolo": "Milan troppo brutto per essere vero. Follia Maignan e la strada Europa League è in salita",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/milan-brutto-vero-follia-maignan-strada-europa-league-salita-2286258",
+      "estratto": "Un Milan troppo brutto per essere vero, quello che ha giocato a Bournemouth.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -650,
+      "pubblicato": "2026-10-22T22:49:50+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "2897bb5699",
+      "titolo": "Il Bournemouth ottiene una vittoria storica contro il Milan dopo un bizzarro rosso a Maignan",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915552",
+      "estratto": "Il Bournemouth ha raggiunto vette vertiginose nella sua prima campagna in Europa League, spazzando via con un netto 3-0 il Milan ridotto in 10 uomini giovedì al Vitality Stadium.",
+      "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -650,
-      "pubblicato": "2026-10-21T17:43:30+00:00",
-      "squadra": "Inter Milan"
+      "pubblicato": "2026-10-22T21:21:32+00:00",
+      "squadra": "Bournemouth"
     },
     {
       "id": "c7b4b2aad9",
@@ -1419,15 +1446,15 @@
       "squadra": "Como"
     },
     {
-      "id": "baade2158e",
-      "titolo": "José Mourinho si lamenta: il Real Madrid ha 24 ore di riposo in meno rispetto al Barcellona in vista del Clásico",
-      "url": "https://www.espn.com/soccer/story/_/id/50247061/jose-mourinho-real-madrid-barcelona-el-clasico-less-rest",
-      "estratto": "L'allenatore del Real Madrid José Mourinho ha tenuto a sottolineare dopo la vittoria della sua squadra contro il Lipsia che i suoi avranno 24 ore di riposo in meno rispetto ai rivali di domenica del Barcellona in vista del Clásico.",
+      "id": "790f77f537",
+      "titolo": "José Mourinho e Kylian Mbappé difendono Vinícius Júnior dopo i fischi dei tifosi del Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50246766/jose-mourinho-kylian-mbappe-defend-vinicius-junior-whistles-real-madrid-fans",
+      "estratto": "L'allenatore del Real Madrid José Mourinho e Kylian Mbappé hanno difeso Vinícius Júnior dopo che l'attaccante brasiliano ha attirato i fischi dei tifosi di casa durante la vittoria di mercoledì contro l'RB Lipsia.",
       "fonte": "ESPN",
-      "serie": "Estero",
+      "serie": "Champions",
       "citazione": false,
       "punteggio": -680,
-      "pubblicato": "2026-10-22T10:31:36+00:00",
+      "pubblicato": "2026-10-22T14:05:09+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1491,15 +1518,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "64bc587985",
-      "titolo": "Un Barcellona stanco tradito da 'troppi errori', si interrompe a Parigi la striscia di vittorie",
-      "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
-      "estratto": "Il tecnico del Barcellona Hansi Flick afferma che la sua squadra, apparsa stanca, ha commesso troppi errori mentre il loro inizio di stagione perfetto si è chiuso con una sconfitta per 4-2 contro il Paris Saint-Germain mercoledì in Champions League.",
+      "id": "a66e54230a",
+      "titolo": "Il Barcellona conferma l'infortunio all'adduttore per Dani Olmo, potrebbe saltare un mese",
+      "url": "https://www.espn.com/soccer/story/_/id/50237026/barcelona-dani-olmo-adductor-injury-one-month-out",
+      "estratto": "Il Barcellona conferma l'infortunio all'adduttore per Dani Olmo, potrebbe saltare 1 mese",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -800,
-      "pubblicato": "2026-10-21T08:37:19+00:00",
+      "pubblicato": "2026-10-21T17:28:24+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1515,15 +1542,15 @@
       "squadra": "Liverpool "
     },
     {
-      "id": "17a381c4cc",
-      "titolo": "\"Anni di errori, la maglia Juve pesa e lo vedo\". Poi la risposta in diretta tv sul futuro di Spalletti",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152067976/anni_di_errori_la_maglia_juve_pesa_e_lo_vedo_poi_la_risposta_in_diretta_tv_sul_futuro_di_spalletti/",
-      "estratto": "Carnevali tocca diversi temi nel pre partita della sfida contro il Rennes: dalle parole di Bremer alla panchina, le dichiarazioni",
+      "id": "87b18274f3",
+      "titolo": "\"Allenare la Juve\", Bonucci dal sogno... all'incubo: \"Notti folli prima di giocarci contro\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152064412/allenare_la_juve_bonucci_dal_sogno_all_incubo_notti_folli_prima_di_giocarci_contro/",
+      "estratto": "I ricordi e le rivelazioni dell'ex difensore bianconero: \"Dopo Zenica ho litigato con mia moglie. Ronaldo e Messi sì, ma quando affrontavo lui...\"",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -810,
-      "pubblicato": "2026-10-22T16:32:14+00:00",
+      "pubblicato": "2026-10-22T11:56:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1539,6 +1566,30 @@
       "squadra": "Man United"
     },
     {
+      "id": "d9f4a9063b",
+      "titolo": "Milan travolto a Bournemouth: Maignan si fa espellere, a segno anche Kluivert",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152079505/milan_travolto_a_bournemouth_maignan_si_fa_espellere_a_segno_anche_kluivert/",
+      "estratto": "Le Cherries ne fanno tre ai rossoneri, rimasti in dieci nel primo tempo dopo un'ingenuità del portiere francese",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -850,
+      "pubblicato": "2026-10-22T21:01:08+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "573c15f634",
+      "titolo": "Come il Bournemouth è diventato favorito contro il Milan: dall'ispirazione alla celebre maglia rossonera alle 100.000 sterline che lo salvarono dal fallimento... ora i Cherries sono pronti a battere i loro idoli",
+      "url": "https://www.dailymail.com/sport/football/article-16226911/bournemouth-ac-milan-europa-league-meeting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "KIERAN GILL: Un altro club a questo punto avrebbe forse abbandonato l'autoironia, ma il Bournemouth è una realtà consapevole. Sanno da quali abissi sono risaliti per raggiungere questo palcoscenico europeo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -850,
+      "pubblicato": "2026-10-22T07:34:14+00:00",
+      "squadra": "Bournemouth"
+    },
+    {
       "id": "61bc2f0ba0",
       "titolo": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
       "url": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
@@ -1551,15 +1602,15 @@
       "squadra": "Como"
     },
     {
-      "id": "ed8090ed27",
-      "titolo": "Il Real Madrid asfalta il Lipsia. Pari spettacolo tra Bayern e Arsenal, poker Galatasaray",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152054723/il_real_madrid_asfalta_il_lipsia_pari_spettacolo_tra_bayern_e_arsenal_poker_galatasaray/",
-      "estratto": "I Blancos di Mourinho fanno la voce grossa contro i tedeschi. Kompany e Arteta portano un punto a testa a casa",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
+      "id": "baade2158e",
+      "titolo": "José Mourinho si lamenta: il Real Madrid ha 24 ore di riposo in meno rispetto al Barcellona in vista del Clásico",
+      "url": "https://www.espn.com/soccer/story/_/id/50247061/jose-mourinho-real-madrid-barcelona-el-clasico-less-rest",
+      "estratto": "L'allenatore del Real Madrid José Mourinho ha tenuto a sottolineare dopo la vittoria della sua squadra contro il Lipsia che i suoi avranno 24 ore di riposo in meno rispetto ai rivali di domenica del Barcellona in vista del Clásico.",
+      "fonte": "ESPN",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -880,
-      "pubblicato": "2026-10-21T21:27:47+00:00",
+      "pubblicato": "2026-10-22T10:31:36+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1623,6 +1674,18 @@
       "squadra": "Man City"
     },
     {
+      "id": "64bc587985",
+      "titolo": "Un Barcellona stanco tradito da 'troppi errori', si interrompe a Parigi la striscia di vittorie",
+      "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
+      "estratto": "Il tecnico del Barcellona Hansi Flick afferma che la sua squadra, apparsa stanca, ha commesso troppi errori mentre il loro inizio di stagione perfetto si è chiuso con una sconfitta per 4-2 contro il Paris Saint-Germain mercoledì in Champions League.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1000,
+      "pubblicato": "2026-10-21T08:37:19+00:00",
+      "squadra": "Barcelona"
+    },
+    {
       "id": "3fb5fc06aa",
       "titolo": "La notte in cui Rio Ngumoha ha confermato il suo status di futuro fuoriclasse mondiale: il Liverpool aveva a disposizione un attacco da 400 milioni di sterline, ma è stato il diciottenne a brillare più di tutti nella caotica rimonta vincente, scrive LEWIS STEELE",
       "url": "https://www.dailymail.com/sport/football/article-16223067/Rio-Ngumoha-shines-brightest-Liverpools-400m-attack-Teenager-stands-potential-world-beater-chaotic-comeback-win-writes-LEWIS-STEELE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1635,27 +1698,15 @@
       "squadra": "Liverpool "
     },
     {
-      "id": "5ea01016c6",
-      "titolo": "Psg-Barcellona senza senso, manita City. L’Atletico frena, Liverpool-Villarreal 4-3",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/20-152033639/psg-barcellona_senza_senso_manita_city_latletico_frena_liverpool-villarreal_4-3/",
-      "estratto": "Partita spettacolare del club parigino contro i blaugrana, con l'infortunio di Kvaratskhelia che macchia la vittoria perfetta. City a valanga sull'AEK Atene",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-10-20T21:08:19+00:00",
-      "squadra": "Barcelona"
-    },
-    {
-      "id": "87b18274f3",
-      "titolo": "\"Allenare la Juve\", Bonucci dal sogno... all'incubo: \"Notti folli prima di giocarci contro\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152064412/allenare_la_juve_bonucci_dal_sogno_all_incubo_notti_folli_prima_di_giocarci_contro/",
-      "estratto": "I ricordi e le rivelazioni dell'ex difensore bianconero: \"Dopo Zenica ho litigato con mia moglie. Ronaldo e Messi sì, ma quando affrontavo lui...\"",
+      "id": "d4d31f5a99",
+      "titolo": "Barzagli traccia la linea Juve: \"Non c'è riuscito nessuno. Tre dirigenze, cosa serve adesso\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152058019/barzagli_traccia_la_linea_juve_non_c_riuscito_nessuno_tre_dirigenze_cosa_serve_adesso/",
+      "estratto": "La leggenda bianconera tra il ricordo dei suoi anni a Torino e la formula per tornare grandi: \"Yildiz champagne. E a noi bastava uno sguardo\"",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -1010,
-      "pubblicato": "2026-10-22T11:56:00+00:00",
+      "pubblicato": "2026-10-22T08:54:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1671,6 +1722,18 @@
       "squadra": "Man United"
     },
     {
+      "id": "60fe0ae4be",
+      "titolo": "Il Milan affonda, Di Gregorio fa festa: 3-0 Bornemouth, notte da incubo per Amorim",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/10/22-152067978/bournemouth-milan_diretta_europa_league_formazioni_e_risultato_in_tempo_reale_amorim_punta_su_cisse/",
+      "estratto": "I rossoneri cadono sotto i colpi della squadra di Rose, che approfitta del rosso diretto a Maignan. Secondo ko in questa Europa League",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1050,
+      "pubblicato": "2026-10-22T17:30:00+00:00",
+      "squadra": "Milan"
+    },
+    {
       "id": "11c3f01b9a",
       "titolo": "Cesc Fàbregas: Ho detto ai giocatori del Como di 'rallentare' nelle fasi finali della vittoria contro il Manchester United",
       "url": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
@@ -1683,16 +1746,28 @@
       "squadra": "Como"
     },
     {
-      "id": "a50b7c1ed6",
-      "titolo": "Vinicius Junior ha DAVVERO valutato seriamente l'addio al Real Madrid per l'Arsenal in estate, svelato il loro approccio 'aggressivo'",
-      "url": "https://www.dailymail.com/sport/football/article-16227319/vinicius-junior-arsenal-real-madrid-transfer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'Arsenal si è informato su Vinicius Jr e alcune indiscrezioni suggeriscono che fosse disposto ad offrirgli la cifra monstre di 18,5 milioni di sterline a stagione, più di qualsiasi giocatore del club.",
-      "fonte": "Daily Mail",
+      "id": "ed8090ed27",
+      "titolo": "Il Real Madrid asfalta il Lipsia. Pari spettacolo tra Bayern e Arsenal, poker Galatasaray",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152054723/il_real_madrid_asfalta_il_lipsia_pari_spettacolo_tra_bayern_e_arsenal_poker_galatasaray/",
+      "estratto": "I Blancos di Mourinho fanno la voce grossa contro i tedeschi. Kompany e Arteta portano un punto a testa a casa",
+      "fonte": "Tuttosport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1080,
+      "pubblicato": "2026-10-21T21:27:47+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "4e7028430b",
+      "titolo": "Eli Junior Kroupi torna ad allenarsi con il Bournemouth e potrebbe sfidare il Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50237718/eli-junior-kroupi-bournemouth-injury-training-return-man-united-premier-league",
+      "estratto": "Il Bournemouth ha confermato che Eli Junior Kroupi, miglior marcatore del club nella scorsa stagione, è tornato ad allenarsi e potrebbe essere convocato per la sfida di domenica contro il Manchester United.",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1080,
-      "pubblicato": "2026-10-21T17:50:29+00:00",
-      "squadra": "Real Madrid"
+      "pubblicato": "2026-10-21T14:12:36+00:00",
+      "squadra": "Bournemouth"
     },
     {
       "id": "9aa04d4046",
@@ -1743,15 +1818,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "0d7a1d218f",
-      "titolo": "Il PSG piega il Barcellona, Yamal non basta. Manita del City, il Liverpool ribalta il Villarreal",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152027733/il_borussia_dortmund_vince_ma_fatica_a_baku_fenerbahce_greenwood_non_basta_pari_contro_lo_slavia_praga/",
-      "estratto": "Tripletta di Foden contro l’AEK, Farioli cade contro il Psv: risultati e marcatori della terza giornata di Champions League",
-      "fonte": "Corriere dello Sport",
+      "id": "5ea01016c6",
+      "titolo": "Psg-Barcellona senza senso, manita City. L’Atletico frena, Liverpool-Villarreal 4-3",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/20-152033639/psg-barcellona_senza_senso_manita_city_latletico_frena_liverpool-villarreal_4-3/",
+      "estratto": "Partita spettacolare del club parigino contro i blaugrana, con l'infortunio di Kvaratskhelia che macchia la vittoria perfetta. City a valanga sull'AEK Atene",
+      "fonte": "Tuttosport",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -1200,
-      "pubblicato": "2026-10-20T18:48:03+00:00",
+      "pubblicato": "2026-10-20T21:08:19+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1767,15 +1842,15 @@
       "squadra": "Liverpool "
     },
     {
-      "id": "d4d31f5a99",
-      "titolo": "Barzagli traccia la linea Juve: \"Non c'è riuscito nessuno. Tre dirigenze, cosa serve adesso\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152058019/barzagli_traccia_la_linea_juve_non_c_riuscito_nessuno_tre_dirigenze_cosa_serve_adesso/",
-      "estratto": "La leggenda bianconera tra il ricordo dei suoi anni a Torino e la formula per tornare grandi: \"Yildiz champagne. E a noi bastava uno sguardo\"",
-      "fonte": "Tuttosport",
+      "id": "18254dd3c1",
+      "titolo": "Woltemade e il siparietto con Kolo Muani prima del rigore per la Juve: prende la palla e...",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152073149/woltemade_e_il_siparietto_con_kolo_muani_prima_del_rigore_per_la_juve_prende_la_palla_e_/",
+      "estratto": "Con i bianconeri che erano sotto 2-1 nel match di Europa League contro il Rennes, il tedesco ha convinto il francese a lasciarlo andare sul dischetto: i dettagli",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -1210,
-      "pubblicato": "2026-10-22T08:54:00+00:00",
+      "citazione": false,
+      "punteggio": -1230,
+      "pubblicato": "2026-10-22T18:34:28+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1791,6 +1866,18 @@
       "squadra": "Man United"
     },
     {
+      "id": "f0400813f8",
+      "titolo": "Come stanno Goncalo Ramos e Chukwueze: il comunicato ufficiale del Milan dopo gli infortuni",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/10/22-152066634/come_stanno_goncalo_ramos_e_chukwueze_il_comunicato_ufficiale_del_milan_dopo_gli_infortuni/",
+      "estratto": "Entrambi salteranno la sfida di stasera a Bornemouth, valida per la terza giornata della Fase Campionato di Europa League: l'aggiornamento del club rossonero sulle loro condizioni",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1250,
+      "pubblicato": "2026-10-22T14:44:04+00:00",
+      "squadra": "Milan"
+    },
+    {
       "id": "c5338f2878",
       "titolo": "Chi è il Como? Il club della meta di vacanze che ha appena steso il Manchester United",
       "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
@@ -1803,15 +1890,15 @@
       "squadra": "Como"
     },
     {
-      "id": "64abf9e2e7",
-      "titolo": "Il Siviglia presenta un reclamo ufficiale a LaLiga per la sconfitta contro il Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50236214/sevilla-lodge-complaint-real-madrid-defeat-laliga",
-      "estratto": "Il Siviglia ha presentato un reclamo formale a LaLiga a seguito della controversa sconfitta di campionato per 4-1 subita domenica sul campo del Real Madrid.",
-      "fonte": "ESPN",
+      "id": "a50b7c1ed6",
+      "titolo": "Vinicius Junior ha DAVVERO valutato seriamente l'addio al Real Madrid per l'Arsenal in estate, svelato il loro approccio 'aggressivo'",
+      "url": "https://www.dailymail.com/sport/football/article-16227319/vinicius-junior-arsenal-real-madrid-transfer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'Arsenal si è informato su Vinicius Jr e alcune indiscrezioni suggeriscono che fosse disposto ad offrirgli la cifra monstre di 18,5 milioni di sterline a stagione, più di qualsiasi giocatore del club.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1280,
-      "pubblicato": "2026-10-21T10:55:42+00:00",
+      "pubblicato": "2026-10-21T17:50:29+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1851,15 +1938,27 @@
       "squadra": "Man City"
     },
     {
-      "id": "c1596547b8",
-      "titolo": "Siparietto Kolo Muani-Woltemade per tirare il rigore del 2-2 in Juve-Rennes: l'episodio",
-      "url": "https://www.tuttomercatoweb.com/serie-a/siparietto-kolo-muani-woltemade-tirare-rigore-2-2-juve-rennes-episodio-2286198",
-      "estratto": "C'è da segnalare un particolare siparietto avvenuto tra i due attaccanti della Juventus questa sera, al momento di calciare il rigore che ha poi portato al definitivo 2-2 contro il Rennes nel match della 3^ giornata della Fase Campionato di Europa Le",
-      "fonte": "TMW",
+      "id": "0d7a1d218f",
+      "titolo": "Il PSG piega il Barcellona, Yamal non basta. Manita del City, il Liverpool ribalta il Villarreal",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/20-152027733/il_borussia_dortmund_vince_ma_fatica_a_baku_fenerbahce_greenwood_non_basta_pari_contro_lo_slavia_praga/",
+      "estratto": "Tripletta di Foden contro l’AEK, Farioli cade contro il Psv: risultati e marcatori della terza giornata di Champions League",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1400,
+      "pubblicato": "2026-10-20T18:48:03+00:00",
+      "squadra": "Barcelona"
+    },
+    {
+      "id": "7b173548db",
+      "titolo": "Celik, dal gol all'infortunio: cosa è successo in Juve-Rennes e come sta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152072868/celik_dal_gol_all_infortunio_cosa_successo_in_juve-rennes_e_come_sta/",
+      "estratto": "L'esterno turco esce dal campo all'Intervallo per un problema di natura muscolare",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1430,
-      "pubblicato": "2026-10-22T19:57:00+00:00",
+      "pubblicato": "2026-10-22T18:14:05+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1875,6 +1974,18 @@
       "squadra": "Man United"
     },
     {
+      "id": "1a68b71195",
+      "titolo": "Ansia Milan, Ramos rischia anche l’Inter: chi può sostituirlo",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/22-152055948/ansia_milan_ramos_rischia_anche_linter_chi_pu_sostituirlo/",
+      "estratto": "A Bournemouth in emergenza, esami per il centravanti e ut pure Chukwueze per un problema all’anca",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1450,
+      "pubblicato": "2026-10-22T08:09:00+00:00",
+      "squadra": "Milan"
+    },
+    {
       "id": "12f1048d47",
       "titolo": "Dawson: La pressione sul futuro di Carrick aumenta dopo la sconfitta contro il Como",
       "url": "https://www.espn.com/video/clip/_/id/50241623/carrick-future-mounting-pressure-loss-vs-como",
@@ -1887,15 +1998,15 @@
       "squadra": "Como"
     },
     {
-      "id": "f33f0d77c7",
-      "titolo": "Calciomercato e news: i club di Premier League mettono gli occhi su Alexander-Arnold tra i dubbi sul Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-      "estratto": "Il difensore del Real Madrid Trent Alexander-Arnold sta valutando il suo futuro al Bernabéu, con Liverpool, Chelsea, Arsenal e Manchester City che monitorano la sua situazione. Gli ultimi aggiornamenti di Transfer Talk.",
+      "id": "64abf9e2e7",
+      "titolo": "Il Siviglia presenta un reclamo ufficiale a LaLiga per la sconfitta contro il Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50236214/sevilla-lodge-complaint-real-madrid-defeat-laliga",
+      "estratto": "Il Siviglia ha presentato un reclamo formale a LaLiga a seguito della controversa sconfitta di campionato per 4-1 subita domenica sul campo del Real Madrid.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1480,
-      "pubblicato": "2026-10-20T21:33:15+00:00",
+      "pubblicato": "2026-10-21T10:55:42+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1923,15 +2034,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "18254dd3c1",
-      "titolo": "Woltemade e il siparietto con Kolo Muani prima del rigore per la Juve: prende la palla e...",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152073149/woltemade_e_il_siparietto_con_kolo_muani_prima_del_rigore_per_la_juve_prende_la_palla_e_/",
-      "estratto": "Con i bianconeri che erano sotto 2-1 nel match di Europa League contro il Rennes, il tedesco ha convinto il francese a lasciarlo andare sul dischetto: i dettagli",
-      "fonte": "Corriere dello Sport",
+      "id": "3694897799",
+      "titolo": "Dalla dirigenza allo spogliatoio: la Juventus è con Spalletti. La vittoria non è arrivata (per l'ennesimo errore arbitrale) ma la reazione sì. A gennaio però servirà almeno un centravanti. Milan e Atalanta, giovedì nero: Sarri, serve una svolta",
+      "url": "https://www.tuttomercatoweb.com/editoriale/dirigenza-spogliatoio-juventus-spalletti-vittoria-arrivata-per-ennesimo-errore-arbitrale-reazione-si-2286205",
+      "estratto": "Servivano risposte, in casa Juventus, e la più importante è arrivata.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -1630,
-      "pubblicato": "2026-10-22T18:34:28+00:00",
+      "punteggio": -1650,
+      "pubblicato": "2026-10-22T23:10:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1959,15 +2070,15 @@
       "squadra": "Como"
     },
     {
-      "id": "01aa435fe3",
-      "titolo": "Il Real Madrid sembra più forte senza Vinícius Júnior?",
-      "url": "https://www.espn.com/video/clip/_/id/50226362/do-real-madrid-look-better-vinicius-junior",
-      "estratto": "Il Real Madrid sembra più forte senza Vinícius Júnior?",
+      "id": "f33f0d77c7",
+      "titolo": "Calciomercato e news: i club di Premier League mettono gli occhi su Alexander-Arnold tra i dubbi sul Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+      "estratto": "Il difensore del Real Madrid Trent Alexander-Arnold sta valutando il suo futuro al Bernabéu, con Liverpool, Chelsea, Arsenal e Manchester City che monitorano la sua situazione. Gli ultimi aggiornamenti di Transfer Talk.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1680,
-      "pubblicato": "2026-10-20T09:49:24+00:00",
+      "pubblicato": "2026-10-20T21:33:15+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1995,15 +2106,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "7b173548db",
-      "titolo": "Celik, dal gol all'infortunio: cosa è successo in Juve-Rennes e come sta",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152072868/celik_dal_gol_all_infortunio_cosa_successo_in_juve-rennes_e_come_sta/",
-      "estratto": "L'esterno turco esce dal campo all'Intervallo per un problema di natura muscolare",
-      "fonte": "Tuttosport",
+      "id": "2f18520d0a",
+      "titolo": "La dirigenza conferma Spalletti, la Juventus continua a faticare: col Rennes finisce 2-2",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/dirigenza-conferma-spalletti-juventus-continua-faticare-rennes-finisce-2-2-2286211",
+      "estratto": "Si interrompe la striscia perfetta della Juventus in Europa League: dopo aver cominciato al meglio il proprio cammino nella Fase Campionato, vincendo le prime due partite contro NEC e Celta Vigo, i bianconeri si inceppano contro il Rennes e si vedono",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -1830,
-      "pubblicato": "2026-10-22T18:14:05+00:00",
+      "punteggio": -1850,
+      "pubblicato": "2026-10-22T22:45:08+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2031,15 +2142,15 @@
       "squadra": "Como"
     },
     {
-      "id": "fff4a5c4a9",
-      "titolo": "Gomez: Mourinho ha creato la narrazione secondo cui \"il mondo è contro\" il Real Madrid",
-      "url": "https://www.espn.com/video/clip/_/id/50226129/mourinho-created-narrative-world-real-madrid",
-      "estratto": "Gomez: Mourinho ha creato la narrazione secondo cui \"il mondo è contro\" il Real Madrid",
+      "id": "01aa435fe3",
+      "titolo": "Il Real Madrid sembra più forte senza Vinícius Júnior?",
+      "url": "https://www.espn.com/video/clip/_/id/50226362/do-real-madrid-look-better-vinicius-junior",
+      "estratto": "Il Real Madrid sembra più forte senza Vinícius Júnior?",
       "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -1880,
-      "pubblicato": "2026-10-20T09:04:09+00:00",
+      "pubblicato": "2026-10-20T09:49:24+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -2055,15 +2166,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "763da702e0",
-      "titolo": "Juventus ancora a singhiozzo, in campo Milan e Atalanta: le top news delle 22",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-singhiozzo-campo-milan-atalanta-top-news-22-2286204",
-      "estratto": "La Juventus continua a fare tremendamente fatica.",
-      "fonte": "TMW",
+      "id": "320c846e94",
+      "titolo": "Eurorivali Juventus, show di Real Sociedad e Az Alkmaar. Serata da incubo per Omonia e Hapoel",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/10/22-152074738/eurorivali_juventus_show_di_az_alkmaar_e_ferencvaros_travolto_lhapoel_beer_sheva/",
+      "estratto": "Terza giornata della fase campionato di Europa League: colpo Sturm Graz contro il Marsiglia, vince il Bayer Leverkusen",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2050,
-      "pubblicato": "2026-10-22T20:00:05+00:00",
+      "pubblicato": "2026-10-22T18:54:42+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2079,15 +2190,27 @@
       "squadra": "Man United"
     },
     {
-      "id": "320c846e94",
-      "titolo": "Eurorivali Juventus, show di Az Alkmaar e Ferencvaros. Travolto l’Hapoel Be’er Sheva",
-      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/10/22-152074738/eurorivali_juventus_show_di_az_alkmaar_e_ferencvaros_travolto_lhapoel_beer_sheva/",
-      "estratto": "Terza giornata della fase campionato di Europa League: colpo Sturm Graz contro il Marsiglia, vince il Bayer Leverkusen",
-      "fonte": "Tuttosport",
+      "id": "fff4a5c4a9",
+      "titolo": "Gomez: Mourinho ha creato la narrazione secondo cui \"il mondo è contro\" il Real Madrid",
+      "url": "https://www.espn.com/video/clip/_/id/50226129/mourinho-created-narrative-world-real-madrid",
+      "estratto": "Gomez: Mourinho ha creato la narrazione secondo cui \"il mondo è contro\" il Real Madrid",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -2080,
+      "pubblicato": "2026-10-20T09:04:09+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "ed0776f588",
+      "titolo": "Juve, solo un pari con il Rennes: il Var beffa Lucumì nel finale",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152067197/juventus-rennes_diretta_europa_league_segui_il_match_dei_bianconeri_di_spalletti_partita_e_risultato_live/",
+      "estratto": "I bianconeri vanno avanti con Celik ma vengono raggiunti e superati da un gol di Tamari e dal rigore trasformato da Dia. Nella ripresa un penalty del tedesco riporta il equilibrio il match e nel finale viene annullato il gol della vittoria al difenso",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2250,
-      "pubblicato": "2026-10-22T18:54:42+00:00",
+      "pubblicato": "2026-10-22T15:31:01+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2103,15 +2226,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "ed0776f588",
-      "titolo": "Juve, solo un pari con il Rennes: il Var beffa Lucumì nel finale",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152067197/juventus-rennes_diretta_europa_league_segui_il_match_dei_bianconeri_di_spalletti_partita_e_risultato_live/",
-      "estratto": "I bianconeri vanno avanti con Celik ma vengono raggiunti e superati da un gol di Tamari e dal rigore trasformato da Dia. Nella ripresa un penalty del tedesco riporta il equilibrio il match e nel finale viene annullato il gol della vittoria al difenso",
-      "fonte": "Corriere dello Sport",
+      "id": "374631ec4e",
+      "titolo": "Juve-Rennes: Celik e Woltemade non bastano, annullato il 3-2 di Lucumì. Tutte le dichiarazioni",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152062704/juve-rennes_diretta_europa_league_formazioni_e_risultato_in_tempo_reale_le_scelte_di_spalletti/",
+      "estratto": "I bianconeri pareggiano contro i francesi all'Allianz Stadium nella terza giornata di Europa League: Samba miracoloso, McKennie prende un palo. Le parole dei protagonisti",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2450,
-      "pubblicato": "2026-10-22T15:31:01+00:00",
+      "pubblicato": "2026-10-22T13:45:31+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2123,31 +2246,7 @@
       "serie": "Estero",
       "citazione": true,
       "punteggio": -2480,
-      "pubblicato": "2026-10-22T20:33:15+00:00",
-      "squadra": "Man United"
-    },
-    {
-      "id": "374631ec4e",
-      "titolo": "Juve-Rennes: Celik e Woltemade non bastano, annullato il 3-2 di Lucumì. Tutte le dichiarazioni",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152062704/juve-rennes_diretta_europa_league_formazioni_e_risultato_in_tempo_reale_le_scelte_di_spalletti/",
-      "estratto": "I bianconeri pareggiano contro i francesi all'Allianz Stadium nella terza giornata di Europa League: Samba miracoloso, McKennie prende un palo. Le parole dei protagonisti",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -2650,
-      "pubblicato": "2026-10-22T13:45:31+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "52e1b80245",
-      "titolo": "Il delirante Bruno Fernandes è un insulto alla fascia da capitano del Manchester United. Umiliazioni come quella di Como servono a scoprire chi sono i veri uomini, e lui non ha fatto altro che mettere in mostra il suo immenso ego. È mai colpa sua?",
-      "url": "https://www.dailymail.com/sport/football/article-16229269/Bruno-Fernandes-Manchester-United-captain-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il problema di un club in uno stato di disperazione cieca come il Manchester United è che il centro non tiene più e gli individui si credono intoccabili e non devono rendere conto a nessuno.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -2680,
-      "pubblicato": "2026-10-22T20:26:53+00:00",
+      "pubblicato": "2026-10-22T23:19:32+00:00",
       "squadra": "Man United"
     },
     {
@@ -2158,20 +2257,20 @@
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -2850,
+      "punteggio": -2650,
       "pubblicato": "2026-10-22T11:05:10+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "7135b1a706",
-      "titolo": "Voci di mercato, news: il Manchester United valuta una rivoluzione difensiva in estate",
-      "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-      "estratto": "Il Manchester United sta valutando di rinnovare il proprio reparto arretrato, con i contratti di tre difensori esperti in scadenza a fine stagione. Transfer Talk riporta le ultime novità.",
-      "fonte": "ESPN",
+      "id": "29dc23e155",
+      "titolo": "Carrick sulla graticola: ai vertici del Manchester United cresce la preoccupazione",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/united-carrick-panchina-bournemouth-preoccupazione-manchester-cresce-2286123",
+      "estratto": "Michael Carrick sarà alla guida del Manchester United contro il Bournemouth questa domenica.",
+      "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2880,
-      "pubblicato": "2026-10-22T20:14:17+00:00",
+      "punteggio": -2680,
+      "pubblicato": "2026-10-22T22:26:00+00:00",
       "squadra": "Man United"
     },
     {
@@ -2182,20 +2281,20 @@
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -3050,
+      "punteggio": -2850,
       "pubblicato": "2026-10-22T10:41:33+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "797b930e00",
-      "titolo": "Wayne Rooney: Bruno Fernandes e i giocatori del Manchester United si comportano come \"bambini\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
-      "estratto": "Wayne Rooney ha duramente criticato la rosa del Manchester United per essersi comportata come \"bambini\" e ha esortato Bruno Fernandes e Lisandro Martínez a farsi un esame di coscienza.",
-      "fonte": "ESPN",
+      "id": "52e1b80245",
+      "titolo": "Il delirante Bruno Fernandes è un insulto alla fascia da capitano del Manchester United. Umiliazioni come quella di Como servono a scoprire chi sono i veri uomini, e lui non ha fatto altro che mettere in mostra il suo immenso ego. È mai colpa sua?",
+      "url": "https://www.dailymail.com/sport/football/article-16229269/Bruno-Fernandes-Manchester-United-captain-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il problema di un club in uno stato di disperazione cieca come il Manchester United è che il centro non tiene più e gli individui si credono intoccabili e non devono rendere conto a nessuno.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "citazione": true,
-      "punteggio": -3080,
-      "pubblicato": "2026-10-22T19:32:16+00:00",
+      "citazione": false,
+      "punteggio": -2880,
+      "pubblicato": "2026-10-22T20:26:53+00:00",
       "squadra": "Man United"
     },
     {
@@ -2206,20 +2305,20 @@
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -3250,
+      "punteggio": -3050,
       "pubblicato": "2026-10-22T07:39:00+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "22996a9319",
-      "titolo": "Di chi è la colpa del disastro Manchester United: Carrick, i giocatori... Ratcliffe?",
-      "url": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
-      "estratto": "L'amara verità sullo United è che il suo declino prolungato e radicato può essere attribuito a molto più che al semplice allenatore. Chi merita la colpa principale e perché?",
+      "id": "7135b1a706",
+      "titolo": "Voci di mercato, news: il Manchester United valuta una rivoluzione difensiva in estate",
+      "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
+      "estratto": "Il Manchester United sta valutando di rinnovare il proprio reparto arretrato, con i contratti di tre difensori esperti in scadenza a fine stagione. Transfer Talk riporta le ultime novità.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3280,
-      "pubblicato": "2026-10-22T18:41:53+00:00",
+      "punteggio": -3080,
+      "pubblicato": "2026-10-22T20:14:17+00:00",
       "squadra": "Man United"
     },
     {
@@ -2230,9 +2329,33 @@
       "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -3450,
+      "punteggio": -3250,
       "pubblicato": "2026-10-21T16:23:46+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "797b930e00",
+      "titolo": "Wayne Rooney: Bruno Fernandes e i giocatori del Manchester United si comportano come \"bambini\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
+      "estratto": "Wayne Rooney ha duramente criticato la rosa del Manchester United per essersi comportata come \"bambini\" e ha esortato Bruno Fernandes e Lisandro Martínez a farsi un esame di coscienza.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -3280,
+      "pubblicato": "2026-10-22T19:32:16+00:00",
+      "squadra": "Man United"
+    },
+    {
+      "id": "22996a9319",
+      "titolo": "Di chi è la colpa del disastro Manchester United: Carrick, i giocatori... Ratcliffe?",
+      "url": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
+      "estratto": "L'amara verità sullo United è che il suo declino prolungato e radicato può essere attribuito a molto più che al semplice allenatore. Chi merita la colpa principale e perché?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -3480,
+      "pubblicato": "2026-10-22T18:41:53+00:00",
+      "squadra": "Man United"
     },
     {
       "id": "f36e313bf5",
@@ -2242,7 +2365,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3480,
+      "punteggio": -3680,
       "pubblicato": "2026-10-22T18:10:37+00:00",
       "squadra": "Man United"
     },
@@ -2254,7 +2377,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3680,
+      "punteggio": -3880,
       "pubblicato": "2026-10-22T16:01:23+00:00",
       "squadra": "Man United"
     },
@@ -2266,7 +2389,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3880,
+      "punteggio": -4080,
       "pubblicato": "2026-10-22T15:57:29+00:00",
       "squadra": "Man United"
     },
@@ -2278,7 +2401,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4080,
+      "punteggio": -4280,
       "pubblicato": "2026-10-22T15:46:12+00:00",
       "squadra": "Man United"
     },
@@ -2290,7 +2413,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4280,
+      "punteggio": -4480,
       "pubblicato": "2026-10-22T14:24:55+00:00",
       "squadra": "Man United"
     },
@@ -2302,7 +2425,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4480,
+      "punteggio": -4680,
       "pubblicato": "2026-10-22T14:24:48+00:00",
       "squadra": "Man United"
     },
@@ -2314,7 +2437,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4680,
+      "punteggio": -4880,
       "pubblicato": "2026-10-22T14:24:32+00:00",
       "squadra": "Man United"
     },
@@ -2326,7 +2449,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4880,
+      "punteggio": -5080,
       "pubblicato": "2026-10-22T14:24:12+00:00",
       "squadra": "Man United"
     },
@@ -2338,7 +2461,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5080,
+      "punteggio": -5280,
       "pubblicato": "2026-10-22T14:23:20+00:00",
       "squadra": "Man United"
     },
@@ -2350,7 +2473,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5280,
+      "punteggio": -5480,
       "pubblicato": "2026-10-22T14:23:11+00:00",
       "squadra": "Man United"
     },
@@ -2362,7 +2485,7 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5480,
+      "punteggio": -5680,
       "pubblicato": "2026-10-22T10:43:45+00:00",
       "squadra": "Man United"
     },
@@ -2374,7 +2497,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5680,
+      "punteggio": -5880,
       "pubblicato": "2026-10-22T10:28:31+00:00",
       "squadra": "Man United"
     },
@@ -2386,7 +2509,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5880,
+      "punteggio": -6080,
       "pubblicato": "2026-10-22T09:13:59+00:00",
       "squadra": "Man United"
     },
@@ -2398,7 +2521,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -6080,
+      "punteggio": -6280,
       "pubblicato": "2026-10-22T07:59:15+00:00",
       "squadra": "Man United"
     },
@@ -2410,7 +2533,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6280,
+      "punteggio": -6480,
       "pubblicato": "2026-10-22T05:07:42+00:00",
       "squadra": "Man United"
     },
@@ -2422,7 +2545,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -6480,
+      "punteggio": -6680,
       "pubblicato": "2026-10-21T22:50:24+00:00",
       "squadra": "Man United"
     },
@@ -2434,7 +2557,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6680,
+      "punteggio": -6880,
       "pubblicato": "2026-10-21T21:55:09+00:00",
       "squadra": "Man United"
     },
@@ -2446,7 +2569,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6880,
+      "punteggio": -7080,
       "pubblicato": "2026-10-21T19:00:56+00:00",
       "squadra": "Man United"
     },
@@ -2458,7 +2581,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -7080,
+      "punteggio": -7280,
       "pubblicato": "2026-10-21T10:10:21+00:00",
       "squadra": "Man United"
     },
@@ -2470,7 +2593,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7280,
+      "punteggio": -7480,
       "pubblicato": "2026-10-21T10:09:07+00:00",
       "squadra": "Man United"
     },
@@ -2482,7 +2605,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7480,
+      "punteggio": -7680,
       "pubblicato": "2026-10-20T19:02:29+00:00",
       "squadra": "Man United"
     },
@@ -2494,7 +2617,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -7680,
+      "punteggio": -7880,
       "pubblicato": "2026-10-20T11:26:51+00:00",
       "squadra": "Man United"
     }
