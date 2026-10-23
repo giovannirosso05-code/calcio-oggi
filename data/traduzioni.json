@@ -7,10 +7,6 @@
   "titolo": "Graeme Souness definisce Bukayo Saka un IMBROGLIONE: la leggenda del Liverpool sostiene che la stella dell'Arsenal 'si tuffa dappertutto', lasciando Piers Morgan sotto shock",
   "estratto": "Graeme Souness ha accusato Bukayo Saka di essere un 'imbroglione' che 'si tuffa dappertutto'. E la leggenda del Liverpool ritiene che l'Arsenal abbia una strategia mirata a fare gruppo contro gli arbitri."
  },
- "6ab634c5f9": {
-  "titolo": "James Maddison fa decollare il Tottenham: il primo gol in Premier League dopo 610 giorni aiuta gli uomini di Roberto De Zerbi a lasciare l'ultimo posto in classifica nel 3-1 sul Coventry, mentre Dejan Kulusevski fa il suo tanto atteso ritorno",
-  "estratto": "MATT BARLOW AL TOTTENHAM HOTSPUR STADIUM: Si sono alzati tutti in piedi ad applaudire James Maddison mentre metteva a segno il gol che ha finalmente fatto decollare il Tottenham in questa stagione di Premier League."
- },
  "8a149d3122": {
   "titolo": "Analisi dell'incubo d'inizio stagione del Crystal Palace: gli errori che potrebbero costare la panchina a Pierre Sage, come Steve Parish e Matt Hobbs lo hanno tradito sul mercato e perché i giocatori sono preoccupati e confusi",
   "estratto": "Sage è sotto stretta sorveglianza dopo la disastrosa sconfitta per 5-0 contro i rivali del Brighton. Ma questo non deve distrarre dai fallimenti imperdonabili dei suoi superiori."
@@ -187,18 +183,6 @@
   "titolo": "Mohamed Salah fondamentale per la crescita di Rio Ngumoha al Liverpool - Virgil van Dijk",
   "estratto": "Il capitano del Liverpool Virgil van Dijk ha dato merito a Mohamed Salah di aver contribuito alla crescita di Rio Ngumoha e crede che il giovane debba ancora mostrare \"molto di più\"."
  },
- "a533c49b86": {
-  "titolo": "Erik ten Hag sulle critiche delle leggende del Man United: \"Potrebbero aiutare di più il club e i giocatori\"",
-  "estratto": "L'ex allenatore del Manchester United Erik ten Hag ha parlato a cuore aperto dell'impatto che le critiche delle vecchie glorie del club hanno sulla società e sui calciatori attuali."
- },
- "b0878aeb52": {
-  "titolo": "Lo sfogo di Martinez al Man United apre l'interrogativo: perché i dirigenti di Premier League restano in silenzio?",
-  "estratto": "La scorsa settimana il difensore del Manchester United Lisandro Martinez ha preso pubblicamente di mira la dirigenza del club. Ma perché dai vertici societari delle squadre di Premier League non si sente mai una parola?"
- },
- "51d82d6183": {
-  "titolo": "Alexis Mac Allister: \"Qualcosa non andava\" con Arne Slot al Liverpool",
-  "estratto": "Alexis Mac Allister ha affermato che Andoni Iraola ha risolto i problemi interni al gruppo del Liverpool lasciati dal suo predecessore Arne Slot."
- },
  "ebc8ba6881": {
   "titolo": "Khvicha Kvaratskhelia ha riportato la rottura del legamento crociato anteriore, conferma il Paris Saint-Germain",
   "estratto": "Khvicha Kvaratskhelia ha subito la lesione del legamento crociato anteriore durante la vittoria del Paris Saint-Germain in Champions League contro il Barcellona."
@@ -326,10 +310,6 @@
  "be9f3e9805": {
   "titolo": "Fàbregas e Paz dedicano la storica goleada al Man United ai fedeli tifosi del Como",
   "estratto": "Cesc Fàbregas e Nico Paz del Como hanno dedicato la loro storica vittoria in Champions League contro il Manchester United ai sostenitori rimasti fedeli attraverso anni di difficoltà."
- },
- "12f1048d47": {
-  "titolo": "Dawson: La pressione sul futuro di Carrick aumenta dopo la sconfitta contro il Como",
-  "estratto": "Dawson: La pressione sul futuro di Carrick aumenta dopo la sconfitta contro il Como"
  },
  "5ec18d0ebb": {
   "titolo": "La rinnovata squadra dell'Aston Villa continua a fare passi avanti mentre Unai Emery dimostra di essere uno dei più grandi allenatori del mondo dopo il successo per 3-1 sul Viking, scrive TOM COLLOMOSSE",
@@ -626,5 +606,37 @@
  "744f857aef": {
   "titolo": "Perché il Nottingham Forest conferma Oliver Glasner nonostante il tecnico austriaco abbia messo ai margini giocatori influenti dello spogliatoio, e i numeri che danno ragione a George Syrianos",
   "estratto": "In qualsiasi altro momento degli ultimi quattro anni, cinque punti in sette partite e il diciannovesimo posto in Premier League avrebbero fatto scattare l'allarme al City Ground e probabilmente sarebbero costati la panchina al tecnico."
+ },
+ "06947fc9f2": {
+  "titolo": "Chi vincerà il Pallone d'Oro? Messi, Yamal, Kane o qualcun altro?",
+  "estratto": "Non c'è un nome condiviso per il Pallone d'Oro di quest'anno, ma forse dovrebbe esserci. Ecco chi meriterebbe davvero di vincerlo."
+ },
+ "1ec5e3ec50": {
+  "titolo": "João Pedro: \"Ho detto a Cole Palmer che non volevo rubargli il posto\" al Chelsea",
+  "estratto": "João Pedro ha raccontato che è \"nata un'amicizia\" dopo aver assicurato a Cole Palmer che non era arrivato al Chelsea per soffiargli il posto in squadra."
+ },
+ "1856841e78": {
+  "titolo": "Calciomercato, le voci: il Como di Paz ha steso il Manchester United, ora i Red Devils vogliono acquistarlo",
+  "estratto": "Il Manchester United sta monitorando il trequartista del Como Nico Paz in vista della prossima stagione, mentre anche il Chelsea mostra forte interesse. Tutte le ultime novità in Transfer Talk."
+ },
+ "90227991a3": {
+  "titolo": "Casa di Bruno Fernandes svaligiata durante la sconfitta del Manchester United contro il Como",
+  "estratto": "Tornato dall'Italia nelle prime ore di giovedì mattina dopo la sconfitta del suo Manchester United contro il Como, Bruno Fernandes ha dovuto fare i conti con un furto in casa."
+ },
+ "1d1ef9e4be": {
+  "titolo": "\"Se Mo Salah fa tre gol...\" - Il tecnico degli Hearts sul rebus per marcare la stella del Trabzonspor",
+  "estratto": "Wouter Vrancken ha elogiato il terzino sinistro adattato Rogers Mato per come si è fatto trovare pronto contro Mohamed Salah, in una prestazione orgogliosa dei labili Hearts, sconfitti 2-0 in trasferta dal Trabzonspor in Conference League."
+ },
+ "37e33187a6": {
+  "titolo": "Fotografa di calcio costringe un club a fare un passo indietro dopo aver vietato i suoi abiti succinti",
+  "estratto": "Una fotografa di calcio ha costretto un club a fare marcia indietro dopo aver tentato di metter al bando i suoi abiti succinti."
+ },
+ "7717143538": {
+  "titolo": "La stella dell'Inghilterra Marc Guehi suggerisce che l'inginocchiarsi possa aver \"perso il suo significato\" e ne mette in dubbio l'importanza mentre guida i big della Premier League nel rifiutare il gesto antirazzismo",
+  "estratto": "Il difensore del Manchester City e dell'Inghilterra Marc Guehi ha lasciato intendere che il gesto di inginocchiarsi contro il razzismo possa aver perso di significato, dopo aver scelto di rimanere in piedi al fischio d'inizio."
+ },
+ "94787848d0": {
+  "titolo": "Mentre Anthony Gordon si prepara al debutto nel Clásico, come sono andate le altre stelle britanniche?",
+  "estratto": "Mentre Anthony Gordon si appresta a vivere il suo primo Clásico, ripercorriamo le esperienze degli altri fuoriclasse britannici in questa storica sfida."
  }
 }
