@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-22T23:53:36.646083+00:00",
-  "totale": 221,
+  "aggiornato": "2026-10-23T03:27:30.046696+00:00",
+  "totale": 224,
   "articoli": [
     {
       "id": "d3187a51ec",
@@ -264,30 +264,6 @@
       "pubblicato": "2026-10-22T22:15:07+00:00"
     },
     {
-      "id": "d05fc90d42",
-      "titolo": "Mikolajewski brilla col Lucerna: \"Obiettivo 20 gol e assist. Toro? In estate torno al Parma\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/mikolajewski-brilla-lucerna-obiettivo-20-gol-assist-parma-vediamo-estate-2286137",
-      "estratto": "Daniel Mikolajewski brilla in prestito al Lucerna, dove ha già messo a segno 4 gol e 3 assist in appena 10 partite.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-22T22:07:15+00:00",
-      "squadra": "Parma"
-    },
-    {
-      "id": "8fa965e1d6",
-      "titolo": "Sarri sul finale con l'Ajax: \"Ero incazzato perché qualche errore l'abbiamo concesso noi\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/sarri-finale-ajax-ero-incazzato-errore-concesso-noi-2286259",
-      "estratto": "Mister Maurizio Sarri, intervenuto in conferenza stampa dopo la sconfitta con l'Ajax in Conference League, ha analizzato la prestazione della sua Atalanta.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-22T22:05:17+00:00",
-      "squadra": "Ajax"
-    },
-    {
       "id": "7d8a3abd11",
       "titolo": "Sarri: \"Partita europea, ma ci mancavano 4 centrali. Dispiace per i tifosi\"",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/atalanta/2026/10/22-152082336/sarri_partita_europea_ma_ci_mancavano_4_centrali_dispiace_per_i_tifosi/",
@@ -501,6 +477,18 @@
       "squadra": "Sampdoria"
     },
     {
+      "id": "383bc0ca83",
+      "titolo": "Ajax-Atalanta 2-0: il tabellino della gara",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/ajax-atalanta-2-0-tabellino-gara-2286261",
+      "estratto": "Ecco di seguito il tabellino della gara: Ajax (4-3-3): ter Stegen; Lucas Rosa, Bouwman, Baas, Wijndal; Amrabat, Klaassen (16' st Tsygankov), Mokio; Brandt (45' st Janse), Marcos Leonardo (20' st Arokodare), Gloukh.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-22T22:18:51+00:00",
+      "squadra": "Ajax"
+    },
+    {
       "id": "bf5bf96e5e",
       "titolo": "Speciale Q&A di Liverpool Confidential: Rio Ngumoha a un passo dal rinnovo nonostante l'interesse dell'Arsenal, aggiornamento sull'infortunio di Conor Bradley, perché i Reds fanno bene a temporeggiare sul contratto di Alexis Mac Allister e Will Wright vicinissimo al debutto in prima squadra",
       "url": "https://www.dailymail.com/sport/football/article-16226367/liverpool-confidential-rio-ngumoha-mac-allister-bradley.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -569,6 +557,17 @@
       "punteggio": 10,
       "pubblicato": "2026-10-20T17:33:32+00:00",
       "squadra": "Inter Milan"
+    },
+    {
+      "id": "8b81210f9e",
+      "titolo": "Le partite di oggi: il programma di venerdì 23 ottobre",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-venerdi-23-ottobre-2286147",
+      "estratto": "Archiviate le coppe europee, i top campionati tornano protagonisti questo venerdì 23 ottobre con un programma ricco di sfide.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-23T02:30:05+00:00"
     },
     {
       "id": "2a14d4e05e",
@@ -954,18 +953,6 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "383bc0ca83",
-      "titolo": "Ajax-Atalanta 2-0: il tabellino della gara",
-      "url": "https://www.tuttomercatoweb.com/altre-notizie/ajax-atalanta-2-0-tabellino-gara-2286261",
-      "estratto": "Ecco di seguito il tabellino della gara: Ajax (4-3-3): ter Stegen; Lucas Rosa, Bouwman, Baas, Wijndal; Amrabat, Klaassen (16' st Tsygankov), Mokio; Brandt (45' st Janse), Marcos Leonardo (20' st Arokodare), Gloukh.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-10-22T22:18:51+00:00",
-      "squadra": "Ajax"
-    },
-    {
       "id": "4e790cfeaf",
       "titolo": "Il Barcellona si schianta sul muro Psg: è partita la scalata verso la terza Champions consecutiva",
       "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152035795/il_barcellona_si_schianta_sul_muro_psg_partita_la_scalata_verso_la_terza_champions_consecutiva/",
@@ -1122,15 +1109,15 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "834fe068d8",
-      "titolo": "\"Non sembra bello\": Mikel Arteta alimenta i timori sull'infortunio di Bukayo Saka dopo che l'esterno dell'Arsenal è uscito zoppicando nel pareggio per 2-2 contro il Bayern Monaco",
-      "url": "https://www.dailymail.com/sport/football/article-16228305/Mikel-Arteta-sparks-fears-Bukayo-Saka-injury-Bayern-Munich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "IAN LADYMAN ALL'ALLIANZ ARENA: Saka è uscito a causa di un infortunio alla coscia a soli dieci minuti dall'inizio della partita di Champions League della sua squadra contro i campioni di Germania all'Allianz Arena.",
-      "fonte": "Daily Mail",
+      "id": "a83cb85af8",
+      "titolo": "Bruno Guimarães: ho passato notti in bianco per il trasferimento all'Arsenal",
+      "url": "https://www.espn.com/soccer/story/_/id/50247830/bruno-guimaraes-sleepless-nights-arsenal-move",
+      "estratto": "Bruno Guimarães ha ammesso di aver passato notti in bianco a causa della sua decisione di lasciare il Newcastle United per l'Arsenal.",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -280,
-      "pubblicato": "2026-10-21T22:42:25+00:00",
+      "pubblicato": "2026-10-22T14:01:23+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1170,6 +1157,18 @@
       "squadra": "AS Roma"
     },
     {
+      "id": "0180d9fe12",
+      "titolo": "La rinascita al Chelsea di Jordan Henderson: come continua a dominare i centrocampisti della Premier League a 36 anni, perché Xabi Alonso è così affascinato dal suo ruolo di mentore dello spogliatoio e \"sussurratore\" degli arbitri, e perché non ha rinunciato al sogno dell'Inghilterra",
+      "url": "https://www.dailymail.com/sport/football/article-16229161/Jordan-Henderson-Chelsea-Alonso-England.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "RIATH AL-SAMARRAI: Secondo fonti dello staff del Chelsea, se volete vedere gli occhi di Xabi Alonso illuminarsi, fate il nome di 'Hendo'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -400,
+      "pubblicato": "2026-10-23T01:00:49+00:00",
+      "squadra": "Chelsea "
+    },
+    {
       "id": "eb5f3a9eb2",
       "titolo": "Prima di \"the special one\", José Mourinho è stato \"the Barca one\"",
       "url": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
@@ -1180,18 +1179,6 @@
       "punteggio": -400,
       "pubblicato": "2026-10-22T22:17:50+00:00",
       "squadra": "Barcelona"
-    },
-    {
-      "id": "969956deed",
-      "titolo": "Chelsea Confidential: Le storie inedite che hanno plasmato il \"Magico\" Mike Penders, mentre gli addetti ai lavori di Cobham indicano il portiere di 2,01 metri, dotato di una mentalità incrollabile e di un segnale segreto, come destinato a diventare \"assolutamente d'élite\" in vista del severo test contro il Tottenham",
-      "url": "https://www.dailymail.com/sport/football/article-16224023/chelsea-confidential-mike-penders-goalkeeper.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "KIERAN GILL: Chiedete a chi sta dentro il Chelsea e, dopo aver invocato pazienza, esalterà come \"enorme\" il potenziale del ventunenne Penders. Non si tratta di una riserva qualunque.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -400,
-      "pubblicato": "2026-10-22T17:51:49+00:00",
-      "squadra": "Chelsea "
     },
     {
       "id": "f4f24950a5",
@@ -1314,15 +1301,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "e39e6b4d3c",
-      "titolo": "Moreno loda la prestazione 'straordinaria' di Kane contro l'Arsenal",
-      "url": "https://www.espn.com/video/clip/_/id/50242200/moreno-praises-kane-outstanding-performance-vs-arsenal",
-      "estratto": "Moreno loda la prestazione 'straordinaria' di Kane contro l'Arsenal",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
+      "id": "834fe068d8",
+      "titolo": "\"Non sembra bello\": Mikel Arteta alimenta i timori sull'infortunio di Bukayo Saka dopo che l'esterno dell'Arsenal è uscito zoppicando nel pareggio per 2-2 contro il Bayern Monaco",
+      "url": "https://www.dailymail.com/sport/football/article-16228305/Mikel-Arteta-sparks-fears-Bukayo-Saka-injury-Bayern-Munich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "IAN LADYMAN ALL'ALLIANZ ARENA: Saka è uscito a causa di un infortunio alla coscia a soli dieci minuti dall'inizio della partita di Champions League della sua squadra contro i campioni di Germania all'Allianz Arena.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
       "punteggio": -480,
-      "pubblicato": "2026-10-21T22:31:42+00:00",
+      "pubblicato": "2026-10-21T22:42:25+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1360,6 +1347,18 @@
       "punteggio": -570,
       "pubblicato": "2026-10-20T20:38:05+00:00",
       "squadra": "AS Roma"
+    },
+    {
+      "id": "969956deed",
+      "titolo": "Chelsea Confidential: Le storie inedite che hanno plasmato il \"Magico\" Mike Penders, mentre gli addetti ai lavori di Cobham indicano il portiere di 2,01 metri, dotato di una mentalità incrollabile e di un segnale segreto, come destinato a diventare \"assolutamente d'élite\" in vista del severo test contro il Tottenham",
+      "url": "https://www.dailymail.com/sport/football/article-16224023/chelsea-confidential-mike-penders-goalkeeper.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "KIERAN GILL: Chiedete a chi sta dentro il Chelsea e, dopo aver invocato pazienza, esalterà come \"enorme\" il potenziale del ventunenne Penders. Non si tratta di una riserva qualunque.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -600,
+      "pubblicato": "2026-10-22T17:51:49+00:00",
+      "squadra": "Chelsea "
     },
     {
       "id": "cfa4e02d96",
@@ -1458,6 +1457,18 @@
       "squadra": "Real Madrid"
     },
     {
+      "id": "e39e6b4d3c",
+      "titolo": "Moreno loda la prestazione 'straordinaria' di Kane contro l'Arsenal",
+      "url": "https://www.espn.com/video/clip/_/id/50242200/moreno-praises-kane-outstanding-performance-vs-arsenal",
+      "estratto": "Moreno loda la prestazione 'straordinaria' di Kane contro l'Arsenal",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -680,
+      "pubblicato": "2026-10-21T22:31:42+00:00",
+      "squadra": "Arsenal"
+    },
+    {
       "id": "72e33bc0b7",
       "titolo": "Bayern Monaco-Arsenal 2-2: i Gunners fanno un enorme passo nella giusta direzione, mentre Declan Rice conquista un punto che vale molto di più nel tentativo di Mikel Arteta di costruire una dinastia",
       "url": "https://www.dailymail.com/sport/football/article-16226017/Bayern-Munich-2-2-Arsenal-Gunners-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1468,18 +1479,6 @@
       "punteggio": -680,
       "pubblicato": "2026-10-21T22:06:41+00:00",
       "squadra": "Bayern"
-    },
-    {
-      "id": "fd19156c8f",
-      "titolo": "Come Ezri Konsa è diventato la 'maledizione' della difesa dell'Arsenal: la sfida lanciata da Mikel Arteta per tenere William Saliba fuori squadra, l'impatto nello spogliatoio e il suo eccellente rendimento contro i migliori attaccanti del mondo in vista della nuova sfida con Harry Kane",
-      "url": "https://www.dailymail.com/sport/football/article-16223423/Ezri-Konsa-Arsenal-Arteta-Saliba-Kane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "ISAAN KHAN: I Gunners non potevano sperare di meglio nella ricerca di un giocatore capace di colmare il vuoto lasciato da William Saliba nel loro reparto difensivo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -680,
-      "pubblicato": "2026-10-21T13:03:50+00:00",
-      "squadra": "Arsenal"
     },
     {
       "id": "b104509a84",
@@ -1506,15 +1505,15 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "1a2848cf9d",
-      "titolo": "Erling Haaland pronto al rientro, con il Manchester City \"affamato\" di continuare il suo avvio perfetto",
-      "url": "https://www.espn.com/soccer/story/_/id/50250570/erling-haaland-man-city-aston-villa-injuries-premier-league",
-      "estratto": "Il tecnico del Manchester City Enzo Maresca ha dichiarato che Erling Haaland è a disposizione per la trasferta di sabato in casa dell'Aston Villa, mentre altri tre giocatori rimangono in dubbio.",
-      "fonte": "ESPN",
+      "id": "9a4f754cfe",
+      "titolo": "Come Enzo Maresca è uscito dall'ombra di Pep Guardiola al Man City: il \"fuoco\" nei discorsi alla squadra, i faccia a faccia con Phil Foden, il rifiuto dell'ufficio del vecchio mister e una nuova filosofia offensiva",
+      "url": "https://www.dailymail.com/sport/football/article-16230149/Enzo-Maresca-Manchester-City-Pep-Guardiola-Foden-office-tactics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Sostituire Pep Guardiola richiedeva di trovare un equilibrio tra continuità e cambiamento. Enzo Maresca ha spostato l'ago della bilancia senza far percepire i nuovi concetti come totalmente estranei. Questo è il trucco: un aggiornamento, non un reset",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -800,
-      "pubblicato": "2026-10-22T17:48:50+00:00",
+      "pubblicato": "2026-10-23T01:00:56+00:00",
       "squadra": "Man City"
     },
     {
@@ -1626,15 +1625,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "92cef536b4",
-      "titolo": "La sfida dell'Arsenal contro il Bayern Monaco e Harry Kane è una prova del nove europea per una squadra che gioca un calcio brutto, scrive IAN LADYMAN – mentre David Raya replica alle critiche: \"Noiosi\"",
-      "url": "https://www.dailymail.com/sport/football/article-16223429/Arsenal-Bayern-Munich-Harry-Kane-litmus-test-Europe-ugly-IAN-LADYMAN-David-Raya-boring-critics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "DA MONACO, IAN LADYMAN: Sono passati 144 giorni da quando l'Arsenal è arrivato a un paio di brutti rigori dal vincere la finale di Champions League a Budapest. Mikel Arteta non l'ha ancora superata.",
+      "id": "fd19156c8f",
+      "titolo": "Come Ezri Konsa è diventato la 'maledizione' della difesa dell'Arsenal: la sfida lanciata da Mikel Arteta per tenere William Saliba fuori squadra, l'impatto nello spogliatoio e il suo eccellente rendimento contro i migliori attaccanti del mondo in vista della nuova sfida con Harry Kane",
+      "url": "https://www.dailymail.com/sport/football/article-16223423/Ezri-Konsa-Arsenal-Arteta-Saliba-Kane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ISAAN KHAN: I Gunners non potevano sperare di meglio nella ricerca di un giocatore capace di colmare il vuoto lasciato da William Saliba nel loro reparto difensivo.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -880,
-      "pubblicato": "2026-10-21T11:18:42+00:00",
+      "pubblicato": "2026-10-21T13:03:50+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1662,15 +1661,15 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "d5929ce6f9",
-      "titolo": "Kyle Walker: \"Nessuna intenzione\" di rimuovere i tatuaggi del Manchester City dopo le dichiarazioni alla radio",
-      "url": "https://www.espn.com/soccer/story/_/id/50246236/kyle-walker-man-city-guilty-charges-premier-league-breaches-verdict",
-      "estratto": "Kyle Walker ha dichiarato di non aver \"mai avuto alcuna intenzione\" di rimuovere i suoi tatuaggi del Manchester City, a seguito dei commenti fatti dal terzino mercoledì.",
+      "id": "1a2848cf9d",
+      "titolo": "Erling Haaland pronto al rientro, con il Manchester City \"affamato\" di continuare il suo avvio perfetto",
+      "url": "https://www.espn.com/soccer/story/_/id/50250570/erling-haaland-man-city-aston-villa-injuries-premier-league",
+      "estratto": "Il tecnico del Manchester City Enzo Maresca ha dichiarato che Erling Haaland è a disposizione per la trasferta di sabato in casa dell'Aston Villa, mentre altri tre giocatori rimangono in dubbio.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -1000,
-      "pubblicato": "2026-10-22T16:07:10+00:00",
+      "pubblicato": "2026-10-22T17:48:50+00:00",
       "squadra": "Man City"
     },
     {
@@ -1770,15 +1769,15 @@
       "squadra": "Bournemouth"
     },
     {
-      "id": "9aa04d4046",
-      "titolo": "Mentre Harry Kane si appresta a colpire ancora l'Arsenal e con il Pallone d'Oro all'orizzonte, questa è la storia della sua straordinaria ascesa e di ciò che il calcio inglese deve fare per scovare la sua prossima superstar",
-      "url": "https://www.dailymail.com/sport/football/article-16215959/Harry-Kane-Arsenal-Bayern-Munich-Ballon-DOr-Tottenham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Mentre Harry Kane si avvicina ad alcuni dei riconoscimenti più prestigiosi del calcio, l'uomo che gli diede la grande occasione in Premier League teme che il Tottenham abbia fallito con la sua prossima generazione.",
+      "id": "92cef536b4",
+      "titolo": "La sfida dell'Arsenal contro il Bayern Monaco e Harry Kane è una prova del nove europea per una squadra che gioca un calcio brutto, scrive IAN LADYMAN – mentre David Raya replica alle critiche: \"Noiosi\"",
+      "url": "https://www.dailymail.com/sport/football/article-16223429/Arsenal-Bayern-Munich-Harry-Kane-litmus-test-Europe-ugly-IAN-LADYMAN-David-Raya-boring-critics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "DA MONACO, IAN LADYMAN: Sono passati 144 giorni da quando l'Arsenal è arrivato a un paio di brutti rigori dal vincere la finale di Champions League a Budapest. Mikel Arteta non l'ha ancora superata.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "citazione": false,
+      "citazione": true,
       "punteggio": -1080,
-      "pubblicato": "2026-10-21T10:51:57+00:00",
+      "pubblicato": "2026-10-21T11:18:42+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1806,15 +1805,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "44f72511a9",
-      "titolo": "Enzo Maresca: \"È mio dovere\" aiutare Phil Foden a ritrovare la sua migliore forma nel Manchester City",
-      "url": "https://www.espn.com/soccer/story/_/id/50248040/enzo-maresca-phil-foden-rediscover-best-man-city-form",
-      "estratto": "Il tecnico del Manchester City Enzo Maresca sente il dovere di aiutare Phil Foden a tornare ai suoi livelli migliori.",
+      "id": "d5929ce6f9",
+      "titolo": "Kyle Walker: \"Nessuna intenzione\" di rimuovere i tatuaggi del Manchester City dopo le dichiarazioni alla radio",
+      "url": "https://www.espn.com/soccer/story/_/id/50246236/kyle-walker-man-city-guilty-charges-premier-league-breaches-verdict",
+      "estratto": "Kyle Walker ha dichiarato di non aver \"mai avuto alcuna intenzione\" di rimuovere i suoi tatuaggi del Manchester City, a seguito dei commenti fatti dal terzino mercoledì.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -1200,
-      "pubblicato": "2026-10-22T12:43:16+00:00",
+      "pubblicato": "2026-10-22T16:07:10+00:00",
       "squadra": "Man City"
     },
     {
@@ -1902,15 +1901,15 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "9795c8b262",
-      "titolo": "Piers Morgan non era d'accordo con me ma Martin Keown ha sbagliato a mettere in discussione le mie motivazioni nel definire l'Arsenal 'gli inguardabili'... ho il dovere di dire le cose come stanno, scrive TOM COLLOMOSSE",
-      "url": "https://www.dailymail.com/sport/football/article-16223191/martin-keown-arsenal-criticism-unwatchables.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "TOM COLLOMOSSE: Era circa la svedese delle 14:00 di lunedì quando ho scoperto di essere un tifoso del Tottenham da una vita e disperato per trasferirmi a Londra. La cosa è stata decisamente scioccante.",
+      "id": "9aa04d4046",
+      "titolo": "Mentre Harry Kane si appresta a colpire ancora l'Arsenal e con il Pallone d'Oro all'orizzonte, questa è la storia della sua straordinaria ascesa e di ciò che il calcio inglese deve fare per scovare la sua prossima superstar",
+      "url": "https://www.dailymail.com/sport/football/article-16215959/Harry-Kane-Arsenal-Bayern-Munich-Ballon-DOr-Tottenham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Mentre Harry Kane si avvicina ad alcuni dei riconoscimenti più prestigiosi del calcio, l'uomo che gli diede la grande occasione in Premier League teme che il Tottenham abbia fallito con la sua prossima generazione.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1280,
-      "pubblicato": "2026-10-20T17:35:52+00:00",
+      "pubblicato": "2026-10-21T10:51:57+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1926,15 +1925,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "4d7e56777e",
-      "titolo": "Erling Haaland, Pep Guardiola e il curioso caso del complesso residenziale da 3 miliardi di sterline ad Abu Dhabi: perché il Man City trarrà profitto dalle nuove case del bomber e di suo padre Alf-Inge",
-      "url": "https://www.dailymail.com/sport/football/article-16223487/Erling-Haaland-Manchester-City-Guardiola-Abu-Dhabi-Alf-Inge-houses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La notizia sembrava un fiore all'occhiello per i proprietari emiratini del Manchester City quando è emersa, due settimane dopo essere stati giudicati colpevoli di aver generato 900 milioni di sterline di ricavi attraverso accordi di sponsorizzazione ",
-      "fonte": "Daily Mail",
+      "id": "44f72511a9",
+      "titolo": "Enzo Maresca: \"È mio dovere\" aiutare Phil Foden a ritrovare la sua migliore forma nel Manchester City",
+      "url": "https://www.espn.com/soccer/story/_/id/50248040/enzo-maresca-phil-foden-rediscover-best-man-city-form",
+      "estratto": "Il tecnico del Manchester City Enzo Maresca sente il dovere di aiutare Phil Foden a tornare ai suoi livelli migliori.",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": false,
+      "citazione": true,
       "punteggio": -1400,
-      "pubblicato": "2026-10-21T11:33:50+00:00",
+      "pubblicato": "2026-10-22T12:43:16+00:00",
       "squadra": "Man City"
     },
     {
@@ -2010,6 +2009,18 @@
       "squadra": "Real Madrid"
     },
     {
+      "id": "9795c8b262",
+      "titolo": "Piers Morgan non era d'accordo con me ma Martin Keown ha sbagliato a mettere in discussione le mie motivazioni nel definire l'Arsenal 'gli inguardabili'... ho il dovere di dire le cose come stanno, scrive TOM COLLOMOSSE",
+      "url": "https://www.dailymail.com/sport/football/article-16223191/martin-keown-arsenal-criticism-unwatchables.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "TOM COLLOMOSSE: Era circa la svedese delle 14:00 di lunedì quando ho scoperto di essere un tifoso del Tottenham da una vita e disperato per trasferirmi a Londra. La cosa è stata decisamente scioccante.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1480,
+      "pubblicato": "2026-10-20T17:35:52+00:00",
+      "squadra": "Arsenal"
+    },
+    {
       "id": "e3aba571af",
       "titolo": "Dazn: Napoli-Roma sarà trasmessa gratis in app",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/10/22-152062804/dazn_napoli-roma_sar_trasmessa_gratis_in_app/",
@@ -2022,27 +2033,27 @@
       "squadra": "Napoli"
     },
     {
-      "id": "b1fe9586c9",
-      "titolo": "Perché i tifosi irriducibili del Manchester City stanno impazzendo: l'ex attaccante Imre Varadi sul suo gigantesco frutto gonfiabile registrato e basato sul suo celebre soprannome da curva... con il club pronto a ordinarne altri 30.000!",
-      "url": "https://www.dailymail.com/sport/football/article-16223667/Why-defiant-Man-City-fans-going-bananas-former-forward-Imre-Varadi-trademarked-giant-inflatable-fruit-based-famous-terrace-nickname-club-set-order-30-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Le banane sono tornate di moda e Imre Varadi è un uomo molto richiesto. \"Il telefono continua a squillare\", spiega, e puntuale il suo apparecchio vibra e si illumina con un altro messaggio.",
+      "id": "4d7e56777e",
+      "titolo": "Erling Haaland, Pep Guardiola e il curioso caso del complesso residenziale da 3 miliardi di sterline ad Abu Dhabi: perché il Man City trarrà profitto dalle nuove case del bomber e di suo padre Alf-Inge",
+      "url": "https://www.dailymail.com/sport/football/article-16223487/Erling-Haaland-Manchester-City-Guardiola-Abu-Dhabi-Alf-Inge-houses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La notizia sembrava un fiore all'occhiello per i proprietari emiratini del Manchester City quando è emersa, due settimane dopo essere stati giudicati colpevoli di aver generato 900 milioni di sterline di ricavi attraverso accordi di sponsorizzazione ",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1600,
-      "pubblicato": "2026-10-20T22:40:00+00:00",
+      "pubblicato": "2026-10-21T11:33:50+00:00",
       "squadra": "Man City"
     },
     {
-      "id": "3694897799",
-      "titolo": "Dalla dirigenza allo spogliatoio: la Juventus è con Spalletti. La vittoria non è arrivata (per l'ennesimo errore arbitrale) ma la reazione sì. A gennaio però servirà almeno un centravanti. Milan e Atalanta, giovedì nero: Sarri, serve una svolta",
-      "url": "https://www.tuttomercatoweb.com/editoriale/dirigenza-spogliatoio-juventus-spalletti-vittoria-arrivata-per-ennesimo-errore-arbitrale-reazione-si-2286205",
-      "estratto": "Servivano risposte, in casa Juventus, e la più importante è arrivata.",
+      "id": "8cd6511852",
+      "titolo": "Alvaro Morata, 19 abitazioni nel corso della sua carriera. Due volte alla Juve, poi Milan e Como",
+      "url": "https://www.tuttomercatoweb.com/nato-oggi/alvaro-morata-19-abitazioni-corso-carriera-juve-milan-como-2285361",
+      "estratto": "Alvaro Morata ha cambiato tantissimi club nel corso della sua carriera.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1650,
-      "pubblicato": "2026-10-22T23:10:00+00:00",
+      "pubblicato": "2026-10-23T03:00:41+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2094,27 +2105,27 @@
       "squadra": "Napoli"
     },
     {
-      "id": "e7fd98b200",
-      "titolo": "Lo show di Phil Foden davanti a 20.000 seggiolini vuoti all'Etihad: l'eroe della tripletta del Man City ritrova lo smalto e la determinazione che gli erano mancati la scorsa stagione, candidandosi con stile, scrive JACK GAUGHAN",
-      "url": "https://www.dailymail.com/sport/football/article-16223069/Man-City-5-1-AEK-Athens-Phil-Foden-JACK-GAUGHAN-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN ALL'ETIHAD: Mentre tutti gli occhi sono puntati su come il Man City sostituirà Erling Haaland, Phil Foden ha detto la sua su chi debba rimpiazzare Antoine Semenyo sulla fascia destra.",
+      "id": "b1fe9586c9",
+      "titolo": "Perché i tifosi irriducibili del Manchester City stanno impazzendo: l'ex attaccante Imre Varadi sul suo gigantesco frutto gonfiabile registrato e basato sul suo celebre soprannome da curva... con il club pronto a ordinarne altri 30.000!",
+      "url": "https://www.dailymail.com/sport/football/article-16223667/Why-defiant-Man-City-fans-going-bananas-former-forward-Imre-Varadi-trademarked-giant-inflatable-fruit-based-famous-terrace-nickname-club-set-order-30-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Le banane sono tornate di moda e Imre Varadi è un uomo molto richiesto. \"Il telefono continua a squillare\", spiega, e puntuale il suo apparecchio vibra e si illumina con un altro messaggio.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1800,
-      "pubblicato": "2026-10-20T22:20:06+00:00",
+      "pubblicato": "2026-10-20T22:40:00+00:00",
       "squadra": "Man City"
     },
     {
-      "id": "2f18520d0a",
-      "titolo": "La dirigenza conferma Spalletti, la Juventus continua a faticare: col Rennes finisce 2-2",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/dirigenza-conferma-spalletti-juventus-continua-faticare-rennes-finisce-2-2-2286211",
-      "estratto": "Si interrompe la striscia perfetta della Juventus in Europa League: dopo aver cominciato al meglio il proprio cammino nella Fase Campionato, vincendo le prime due partite contro NEC e Celta Vigo, i bianconeri si inceppano contro il Rennes e si vedono",
+      "id": "3694897799",
+      "titolo": "Dalla dirigenza allo spogliatoio: la Juventus è con Spalletti. La vittoria non è arrivata (per l'ennesimo errore arbitrale) ma la reazione sì. A gennaio però servirà almeno un centravanti. Milan e Atalanta, giovedì nero: Sarri, serve una svolta",
+      "url": "https://www.tuttomercatoweb.com/editoriale/dirigenza-spogliatoio-juventus-spalletti-vittoria-arrivata-per-ennesimo-errore-arbitrale-reazione-si-2286205",
+      "estratto": "Servivano risposte, in casa Juventus, e la più importante è arrivata.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1850,
-      "pubblicato": "2026-10-22T22:45:08+00:00",
+      "pubblicato": "2026-10-22T23:10:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2166,15 +2177,27 @@
       "squadra": "Napoli"
     },
     {
-      "id": "320c846e94",
-      "titolo": "Eurorivali Juventus, show di Real Sociedad e Az Alkmaar. Serata da incubo per Omonia e Hapoel",
-      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/10/22-152074738/eurorivali_juventus_show_di_az_alkmaar_e_ferencvaros_travolto_lhapoel_beer_sheva/",
-      "estratto": "Terza giornata della fase campionato di Europa League: colpo Sturm Graz contro il Marsiglia, vince il Bayer Leverkusen",
-      "fonte": "Tuttosport",
+      "id": "e7fd98b200",
+      "titolo": "Lo show di Phil Foden davanti a 20.000 seggiolini vuoti all'Etihad: l'eroe della tripletta del Man City ritrova lo smalto e la determinazione che gli erano mancati la scorsa stagione, candidandosi con stile, scrive JACK GAUGHAN",
+      "url": "https://www.dailymail.com/sport/football/article-16223069/Man-City-5-1-AEK-Athens-Phil-Foden-JACK-GAUGHAN-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JACK GAUGHAN ALL'ETIHAD: Mentre tutti gli occhi sono puntati su come il Man City sostituirà Erling Haaland, Phil Foden ha detto la sua su chi debba rimpiazzare Antoine Semenyo sulla fascia destra.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2000,
+      "pubblicato": "2026-10-20T22:20:06+00:00",
+      "squadra": "Man City"
+    },
+    {
+      "id": "2f18520d0a",
+      "titolo": "La dirigenza conferma Spalletti, la Juventus continua a faticare: col Rennes finisce 2-2",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/dirigenza-conferma-spalletti-juventus-continua-faticare-rennes-finisce-2-2-2286211",
+      "estratto": "Si interrompe la striscia perfetta della Juventus in Europa League: dopo aver cominciato al meglio il proprio cammino nella Fase Campionato, vincendo le prime due partite contro NEC e Celta Vigo, i bianconeri si inceppano contro il Rennes e si vedono",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2050,
-      "pubblicato": "2026-10-22T18:54:42+00:00",
+      "pubblicato": "2026-10-22T22:45:08+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2202,15 +2225,15 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "ed0776f588",
-      "titolo": "Juve, solo un pari con il Rennes: il Var beffa Lucumì nel finale",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152067197/juventus-rennes_diretta_europa_league_segui_il_match_dei_bianconeri_di_spalletti_partita_e_risultato_live/",
-      "estratto": "I bianconeri vanno avanti con Celik ma vengono raggiunti e superati da un gol di Tamari e dal rigore trasformato da Dia. Nella ripresa un penalty del tedesco riporta il equilibrio il match e nel finale viene annullato il gol della vittoria al difenso",
-      "fonte": "Corriere dello Sport",
+      "id": "320c846e94",
+      "titolo": "Eurorivali Juventus, show di Real Sociedad e Az Alkmaar. Serata da incubo per Omonia e Hapoel",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/10/22-152074738/eurorivali_juventus_show_di_az_alkmaar_e_ferencvaros_travolto_lhapoel_beer_sheva/",
+      "estratto": "Terza giornata della fase campionato di Europa League: colpo Sturm Graz contro il Marsiglia, vince il Bayer Leverkusen",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2250,
-      "pubblicato": "2026-10-22T15:31:01+00:00",
+      "pubblicato": "2026-10-22T18:54:42+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2226,15 +2249,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "374631ec4e",
-      "titolo": "Juve-Rennes: Celik e Woltemade non bastano, annullato il 3-2 di Lucumì. Tutte le dichiarazioni",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152062704/juve-rennes_diretta_europa_league_formazioni_e_risultato_in_tempo_reale_le_scelte_di_spalletti/",
-      "estratto": "I bianconeri pareggiano contro i francesi all'Allianz Stadium nella terza giornata di Europa League: Samba miracoloso, McKennie prende un palo. Le parole dei protagonisti",
-      "fonte": "Tuttosport",
+      "id": "ed0776f588",
+      "titolo": "Juve, solo un pari con il Rennes: il Var beffa Lucumì nel finale",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152067197/juventus-rennes_diretta_europa_league_segui_il_match_dei_bianconeri_di_spalletti_partita_e_risultato_live/",
+      "estratto": "I bianconeri vanno avanti con Celik ma vengono raggiunti e superati da un gol di Tamari e dal rigore trasformato da Dia. Nella ripresa un penalty del tedesco riporta il equilibrio il match e nel finale viene annullato il gol della vittoria al difenso",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2450,
-      "pubblicato": "2026-10-22T13:45:31+00:00",
+      "pubblicato": "2026-10-22T15:31:01+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2250,15 +2273,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "e565253cce",
-      "titolo": "Juve-Rennes, i convocati di Spalletti per la sfida di Europa League: quattro assenti, un rientro",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152064015/juve-rennes_i_convocati_di_spalletti_per_la_sfida_di_europa_league_quattro_assenti_un_rientro/",
-      "estratto": "L'elenco dei calciatori a disposizione del tecnico bianconero per il terzo impegno europeo della stagione dopo la pesante sconfitta in campionato contro la Lazio",
-      "fonte": "Corriere dello Sport",
+      "id": "374631ec4e",
+      "titolo": "Juve-Rennes: Celik e Woltemade non bastano, annullato il 3-2 di Lucumì. Tutte le dichiarazioni",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152062704/juve-rennes_diretta_europa_league_formazioni_e_risultato_in_tempo_reale_le_scelte_di_spalletti/",
+      "estratto": "I bianconeri pareggiano contro i francesi all'Allianz Stadium nella terza giornata di Europa League: Samba miracoloso, McKennie prende un palo. Le parole dei protagonisti",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2650,
-      "pubblicato": "2026-10-22T11:05:10+00:00",
+      "pubblicato": "2026-10-22T13:45:31+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2274,15 +2297,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "0a01c801a5",
-      "titolo": "Convocati Juve, c'è una prima volta assoluta: su chi punta Spalletti contro il Rennes",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152062716/convocati_juve_c_una_prima_volta_assoluta_su_chi_punta_spalletti_contro_il_rennes/",
-      "estratto": "Bianconeri impegnati in Europa League, 21 i calciatori a disposizione del tecnico con... una novità",
-      "fonte": "Tuttosport",
+      "id": "e565253cce",
+      "titolo": "Juve-Rennes, i convocati di Spalletti per la sfida di Europa League: quattro assenti, un rientro",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/10/22-152064015/juve-rennes_i_convocati_di_spalletti_per_la_sfida_di_europa_league_quattro_assenti_un_rientro/",
+      "estratto": "L'elenco dei calciatori a disposizione del tecnico bianconero per il terzo impegno europeo della stagione dopo la pesante sconfitta in campionato contro la Lazio",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -2850,
-      "pubblicato": "2026-10-22T10:41:33+00:00",
+      "pubblicato": "2026-10-22T11:05:10+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2298,15 +2321,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "efbf46bb6c",
-      "titolo": "Un dato chiave per capire la crisi Juve: perché il primo schiaffo è quasi sempre fatale",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152055943/un_dato_chiave_per_capire_la_crisi_juve_perch_il_primo_schiaffo_quasi_sempre_fatale/",
-      "estratto": "I bianconeri sembrano preparati a comandare quando tutto gira nella direzione giusta, ma se salta il piano iniziale vanno in cortocircuito",
+      "id": "0a01c801a5",
+      "titolo": "Convocati Juve, c'è una prima volta assoluta: su chi punta Spalletti contro il Rennes",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152062716/convocati_juve_c_una_prima_volta_assoluta_su_chi_punta_spalletti_contro_il_rennes/",
+      "estratto": "Bianconeri impegnati in Europa League, 21 i calciatori a disposizione del tecnico con... una novità",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -3050,
-      "pubblicato": "2026-10-22T07:39:00+00:00",
+      "pubblicato": "2026-10-22T10:41:33+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2322,15 +2345,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "55fb28e4ad",
-      "titolo": "De Ligt torna finalmente in campo: l'ex Juve titolare contro il Como quasi un anno dopo l'ultima volta",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152045216/de_ligt_torna_finalmente_in_campo_l_ex_juve_titolare_contro_il_como_quasi_un_anno_dopo_l_ultima_volta/",
-      "estratto": "Il difensore olandese debutta in Champions League: ecco da quando non scendeva sul terreno di gioco",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
+      "id": "efbf46bb6c",
+      "titolo": "Un dato chiave per capire la crisi Juve: perché il primo schiaffo è quasi sempre fatale",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152055943/un_dato_chiave_per_capire_la_crisi_juve_perch_il_primo_schiaffo_quasi_sempre_fatale/",
+      "estratto": "I bianconeri sembrano preparati a comandare quando tutto gira nella direzione giusta, ma se salta il piano iniziale vanno in cortocircuito",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": -3250,
-      "pubblicato": "2026-10-21T16:23:46+00:00",
+      "pubblicato": "2026-10-22T07:39:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2344,6 +2367,18 @@
       "punteggio": -3280,
       "pubblicato": "2026-10-22T19:32:16+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "55fb28e4ad",
+      "titolo": "De Ligt torna finalmente in campo: l'ex Juve titolare contro il Como quasi un anno dopo l'ultima volta",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152045216/de_ligt_torna_finalmente_in_campo_l_ex_juve_titolare_contro_il_como_quasi_un_anno_dopo_l_ultima_volta/",
+      "estratto": "Il difensore olandese debutta in Champions League: ecco da quando non scendeva sul terreno di gioco",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -3450,
+      "pubblicato": "2026-10-21T16:23:46+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "22996a9319",
