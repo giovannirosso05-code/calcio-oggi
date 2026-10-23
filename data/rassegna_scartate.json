@@ -1,7 +1,52 @@
 {
-  "aggiornato": "2026-10-23T14:05:59.058588+00:00",
-  "totale": 47,
+  "aggiornato": "2026-10-23T18:21:15.882431+00:00",
+  "totale": 49,
   "articoli": [
+    {
+      "id": "7684e3cc89",
+      "titolo": "Nico Raskin insiste di essere \"davvero felice\" a caccia di trofei ai Rangers e di non spingere per una cessione a gennaio",
+      "url": "https://www.dailymail.com/sport/football/article-16233929/Rangers-Raskin-McInnes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nel luglio di quest'anno, Nico Raskin se la è giocata alla pari con la squadra migliore del pianeta ed è uscito di misura sconfitto in un quarto di finale di Coppa del Mondo a Los Angeles.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T17:14:11+00:00"
+    },
+    {
+      "id": "2872c025d0",
+      "titolo": "Martin O'Neill insiste sul fatto che il Celtic non è una squadra alla Jekyll e Hyde dopo l'ennesima figuraccia europea",
+      "url": "https://www.dailymail.com/sport/football/article-16233033/Martin-ONeill-Celtic-Jekyll-Hyde-team-European-no-show.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martin O'Neill ha risposto alle crescenti insinuazioni secondo cui il Celtic sarebbe ora una squadra Jekyll e Hyde sotto la sua gestione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T17:00:46+00:00"
+    },
+    {
+      "id": "286a16edd3",
+      "titolo": "Perché l'implacabile attaccante del St Johnstone Josh Fowler è la risposta del calcio scozzese a Jamie Vardy",
+      "url": "https://www.dailymail.com/sport/football/article-16233321/Why-red-hot-St-Johnstone-striker-Josh-Fowler-Scottish-footballs-answer-Jamie-Vardy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Se le cose fossero andate diversamente qualche anno fa, Derek McInnes avrebbe potuto essere l'allenatore a dare a Josh Fowler la sua prima grande occasione nel calcio professionistico.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T16:26:28+00:00"
+    },
+    {
+      "id": "eedd7c9367",
+      "titolo": "C'è stato un tempo in cui il Celtic poteva assestare un colpo ai pesi massimi del calcio europeo. Oggi sono un sacco da boxe per squadre di seconda e terza fascia",
+      "url": "https://www.dailymail.com/sport/football/article-16233167/There-time-Celtic-land-blow-heavyweights-European-game-days-theyre-punchbag-second-rate-sides.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nei momenti successivi al pallone insaccato da Mika Baur nella porta del Celta Vigo all'inizio del secondo tempo, c'è stata gioia intorno a Celtic Park. Ma si avvertiva che mancava qualcosa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T15:44:21+00:00"
+    },
+    {
+      "id": "70643f1521",
+      "titolo": "I club della Premier League con i maggiori ricavi pagheranno fino a 1,8 milioni di sterline per i costi del regolatore indipendente",
+      "url": "https://www.espn.com/soccer/story/_/id/50258251/highest-earning-premier-league-clubs-pay-18m-towards-independent-regulator-cost",
+      "estratto": "I club della Premier League con i maggiori guadagni pagheranno fino a 1,8 milioni di sterline per coprire il costo del regolatore indipendente del calcio (IFR) a partire dalla prossima estate, ma potrebbero trovarsi a pagare cifre molto più alte negl",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T15:14:52+00:00"
+    },
     {
       "id": "2523b0b126",
       "titolo": "Come John Murtough rilancerà la missione in Premier League del Birmingham City: taglio degli errori costosi, rubrica di contatti d'élite e rivoluzione del settore giovanile",
@@ -327,15 +372,6 @@
       "pubblicato": "2026-10-21T15:26:32+00:00"
     },
     {
-      "id": "1846a6c9b5",
-      "titolo": "Morgan Gibbs-White pronto a recuperare per la sfida del Nottingham Forest contro l'Ipswich",
-      "url": "https://www.espn.com/soccer/story/_/id/50238163/morgan-gibbs-white-fitness-injury-update-nottingham-forest-ipswich-premier-league",
-      "estratto": "Morgan Gibbs-White tornerà a disposizione per la partita del Nottingham Forest in casa dell'Ipswich in programma venerdì sera.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T15:05:17+00:00"
-    },
-    {
       "id": "c53dbb73ae",
       "titolo": "Cosa serve per vincere il Pallone d'Oro: trofei, gol e giochi di pubbliche relazioni",
       "url": "https://www.espn.com/soccer/story/_/id/50229304/ballon-dor-industry-harry-kane-lamine-yamal-kylian-mbappe",
@@ -406,24 +442,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-20T18:28:01+00:00"
-    },
-    {
-      "id": "dae5d282e0",
-      "titolo": "Doncaster merita lodi per aver cercato di massimizzare il prossimo accordo televisivo della SPFL... ma possiamo fidarci di lui per la trattativa?",
-      "url": "https://www.dailymail.com/sport/football/article-16224279/SPFL-praise-TV-deal-Doncaster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Quando la SPFL ha rinnovato il suo contratto televisivo con Sky Sports l'ultima volta, ha ricevuto moltissime critiche. E giustamente.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-20T17:12:46+00:00"
-    },
-    {
-      "id": "15aa1664aa",
-      "titolo": "Il comportamento di alcuni tifosi degli Hearts al Celtic Park è stato mortificante... Perché alcuni sostenitori di calcio sono incapaci di mostrare un minimum di decenza umana?",
-      "url": "https://www.dailymail.com/sport/football/article-16224129/Hearts-fans-behaviour-Celtic-Park-mortifying.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Come qualcuno che passa una buona quantità di tempo negli stadi di calcio in tutto il paese, posso testimoniare in prima persona che ci sono momenti così imbarazzanti da farti accapponare la pelle.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-20T16:15:19+00:00"
     }
   ]
 }
