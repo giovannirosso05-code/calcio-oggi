@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-10-24T09:09:08.330219+00:00",
-  "totale": 56,
+  "aggiornato": "2026-10-24T13:20:46.663735+00:00",
+  "totale": 53,
   "articoli": [
+    {
+      "id": "bdf84378f8",
+      "titolo": "Reedijk era imbattibile in Belgio... ma perdere sta diventando una brutta abitudine all'Hibernian e una settimana difficile potrebbe trascinare il nuovo tecnico in una situazione simile a quella di Wilfried Nancy",
+      "url": "https://www.dailymail.com/sport/football/article-16235349/Reedijk-Hibs-losing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Marink Reedijk sta scoprendo che nel calcio scozzese la vita non solo scorre velocemente, ma è capace di travolgerti come un treno in corsa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T12:53:39+00:00"
+    },
+    {
+      "id": "94787848d0",
+      "titolo": "Mentre Anthony Gordon si prepara al debutto nel Clásico, come sono andate le altre stelle britanniche?",
+      "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
+      "estratto": "Mentre Anthony Gordon si appresta a vivere il suo primo Clásico, ripercorriamo le esperienze degli altri fuoriclasse britannici in questa storica sfida.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T12:20:52+00:00"
+    },
     {
       "id": "4e327a9a4f",
       "titolo": "La storia di 30 anni del Brighton, sull'orlo dell'estinzione e ora nelle zone alte, raccontata da chi ha salvato il club: da un proprietario spericolato, un'inchiesta giornalistica e cause legali fino al gol salva-vita, alla gloria dei playoff e ai maghi della matematica di Tony Bloom",
@@ -9,7 +27,7 @@
       "estratto": "Passeggiando nello spazio espositivo del Royal Pavilion di Brighton si percepisce vividamente la straordinaria energia creativa dietro la battaglia per la sopravvivenza della squadra di calcio locale, trent'anni fa.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-24T01:01:05+00:00"
+      "pubblicato": "2026-10-24T11:56:14+00:00"
     },
     {
       "id": "ad96381426",
@@ -100,15 +118,6 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "pubblicato": "2026-10-23T21:06:00+00:00"
-    },
-    {
-      "id": "5692cdbe4d",
-      "titolo": "Il Nizza batte il Brest in rimonta 2-1: rigore fallito da Lala nel recupero",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/10/23-152095266/il_nizza_batte_il_brest_in_rimonta_2-1_rigore_fallito_da_lala_nel_recupero/",
-      "estratto": "Nell'anticipo dell'8ª giornata di Ligue 1, i rossoneri di Pantaloni si impongono in trasferta",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T20:59:13+00:00"
     },
     {
       "id": "0762459ee5",
@@ -210,15 +219,6 @@
       "pubblicato": "2026-10-23T11:00:49+00:00"
     },
     {
-      "id": "94787848d0",
-      "titolo": "Mentre Anthony Gordon si prepara al debutto nel Clásico, come sono andate le altre stelle britanniche?",
-      "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
-      "estratto": "Mentre Anthony Gordon si appresta a vivere il suo primo Clásico, ripercorriamo le esperienze degli altri fuoriclasse britannici in questa storica sfida.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T09:08:25+00:00"
-    },
-    {
       "id": "58b5fcb95c",
       "titolo": "Un esperimento globale: ESPN riesce a pronosticare i vincitori del Pallone d'Oro?",
       "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
@@ -316,15 +316,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-22T16:11:36+00:00"
-    },
-    {
-      "id": "08a34ba06a",
-      "titolo": "Come l'ultima trasformazione di Raphinha lo ha reso il centravanti di punta del Barcellona",
-      "url": "https://www.espn.com/soccer/story/_/id/50196710/raphinha-latest-transformation-barcelona-star-striker-premier-league-leeds-united",
-      "estratto": "Prima che Raphinha diventasse il capitano del Barcellona e si trasformasse nel suo attaccante principale, lottava per non retrocedere in Premier League con il Leeds United. È stata la sua consacrazione.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-22T14:14:04+00:00"
     },
     {
       "id": "36ba5c663a",
@@ -487,24 +478,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-21T14:07:53+00:00"
-    },
-    {
-      "id": "8a149d3122",
-      "titolo": "Analisi dell'incubo d'inizio stagione del Crystal Palace: gli errori che potrebbero costare la panchina a Pierre Sage, come Steve Parish e Matt Hobbs lo hanno tradito sul mercato e perché i giocatori sono preoccupati e confusi",
-      "url": "https://www.dailymail.com/sport/football/article-16219915/crystal-palace-pierre-sage-steve-parish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Sage è sotto stretta sorveglianza dopo la disastrosa sconfitta per 5-0 contro i rivali del Brighton. Ma questo non deve distrarre dai fallimenti imperdonabili dei suoi superiori.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T12:12:45+00:00"
-    },
-    {
-      "id": "b5b058fb07",
-      "titolo": "Furia Jack Wilshere: scontro con la panchina del Barnsley e scintille nel finale dopo la vittoria in League One",
-      "url": "https://www.dailymail.com/sport/football/article-16226169/jack-wilshere-luton-barnsley-melee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'allenatore del Luton Jack Wilshere è rimasto coinvolto in una furiosa mischia dopo il fischio finale della sfida della sua squadra contro il Barnsley a Kenilworth Road. Il Luton di Wilshere ha battuto il Barnsley 2-1 martedì sera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T11:13:47+00:00"
     }
   ]
 }
