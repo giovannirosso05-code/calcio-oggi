@@ -1,7 +1,43 @@
 {
-  "aggiornato": "2026-10-24T13:20:46.663735+00:00",
-  "totale": 53,
+  "aggiornato": "2026-10-24T16:49:37.439878+00:00",
+  "totale": 51,
   "articoli": [
+    {
+      "id": "5dca4a738b",
+      "titolo": "Espanyol rimontato e terz'ultimo in Liga: il Racing Santander di Prati passa 2-1",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/espanyol-2286792",
+      "estratto": "Il Racing Santander - con Matteo Prati in prestito dal Cagliari - rimonta l'Espanyol e lo sorpassa in classifica, lasciando i rivali in piena zona retrocessione: la squadra di Jose Alberto vince 2-1 grazie ai gol di Belocian e Zabiri, che hanno rispo",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T16:41:00+00:00"
+    },
+    {
+      "id": "950aabeccc",
+      "titolo": "Il Fulham esce dalla zona retrocessione battendo il Coventry",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879255",
+      "estratto": "Il primo gol in Premier League con la maglia del Fulham di Oscar Bobb vale l'1-0 sul Coventry, che solleva i Cottagers fuori dalla zona retrocessione.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T16:22:02+00:00"
+    },
+    {
+      "id": "6e16697040",
+      "titolo": "Rangers 4 St Johnstone 0: Kelsy realizza una doppietta, ma Min-su ruba la scena",
+      "url": "https://www.dailymail.com/sport/football/article-16235697/Rangers-Min-su-Kelsy-St-Johnstone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Alla nona partita della sua carriera con i Rangers, Kim Min-su non ha ancora messo a referto un gol o un assist. Le statistiche, tuttavia, raccontano solo una parte della storia.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T16:19:08+00:00"
+    },
+    {
+      "id": "c96d01dfe0",
+      "titolo": "Il Lipsia travolge l'Elversberg. Vittoria pirotecnica del Werder Brema contro il Mainz",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/bundesliga/2026/10/24-152119673/il_lipsia_travolge_l_elversberg_vittoria_pirotecnica_del_werder_brema_contro_il_mainz/",
+      "estratto": "Risultato largo del club della Red Bull in Bundesliga. Vittoria di misura per il Paderborn, pari per Schalke e Union Berlino",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T15:54:03+00:00"
+    },
     {
       "id": "bdf84378f8",
       "titolo": "Reedijk era imbattibile in Belgio... ma perdere sta diventando una brutta abitudine all'Hibernian e una settimana difficile potrebbe trascinare il nuovo tecnico in una situazione simile a quella di Wilfried Nancy",
@@ -75,15 +111,6 @@
       "pubblicato": "2026-10-23T22:18:26+00:00"
     },
     {
-      "id": "5f099874d3",
-      "titolo": "L'Alaves si salva in extremis: sfuma la prima vittoria del Malaga",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/23-152093624/l_alaves_si_salva_in_extremis_sfuma_la_prima_vittoria_del_malaga/",
-      "estratto": "L'anticipo della decima giornata di Liga finisce in parità: Aitor Manas risponde a Nino",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T21:27:29+00:00"
-    },
-    {
       "id": "e25887b8d1",
       "titolo": "L'Ipswich strappa un pareggio al Forest mentre Delap spara a salve al suo ritorno",
       "url": "http://www.espn.com/soccer/report/_/gameId/401879253",
@@ -93,15 +120,6 @@
       "pubblicato": "2026-10-23T21:19:10+00:00"
     },
     {
-      "id": "ed3e493302",
-      "titolo": "Ipswich e Nottingham si dividono la posta: Enciso risponde a Williams",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/10/23-152094649/ipswich_e_nottingham_si_dividono_la_posta_enciso_risponde_a_williams_brutto_errore_di_milenkovic/",
-      "estratto": "La sfida, valida come anticipo dell'8ª giornata di Premier League, si è chiusa sull'1-1. Decisiva una disattenzione dell'ex viola Milenkovic",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T21:11:24+00:00"
-    },
-    {
       "id": "eedd7c9367",
       "titolo": "C'è stato un tempo in cui il Celtic poteva assestare un colpo ai pesi massimi del calcio europeo. Oggi sono un sacco da boxe per squadre di seconda e terza fascia",
       "url": "https://www.dailymail.com/sport/football/article-16233167/There-time-Celtic-land-blow-heavyweights-European-game-days-theyre-punchbag-second-rate-sides.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -109,15 +127,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-23T21:06:09+00:00"
-    },
-    {
-      "id": "236f44ec41",
-      "titolo": "Il Gladbach scaccia l'incubo e passa a Stoccarda. Colpo Nizza, pari Forest",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/10/23-152100894/il_gladbach_scaccia_l_incubo_e_passa_a_stoccarda_colpo_nizza_pari_forest/",
-      "estratto": "Vittoria in trasferta fondamentale per il Borussia che allontana la crisi. Les Aiglons ribaltano il Brest",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T21:06:00+00:00"
     },
     {
       "id": "0762459ee5",
@@ -291,15 +300,6 @@
       "pubblicato": "2026-10-22T21:34:00+00:00"
     },
     {
-      "id": "ed5a850e6f",
-      "titolo": "Burley: Carrick dovrebbe prendere una posizione e lasciare fuori Fernandes",
-      "url": "https://www.espn.com/video/clip/_/id/50252435/carrick-take-stand-drop-fernandes",
-      "estratto": "Burley: Carrick dovrebbe prendere una posizione e lasciare fuori Fernandes",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-22T21:32:25+00:00"
-    },
-    {
       "id": "531880f262",
       "titolo": "Il Sunderland resta imbattuto in Europa League grazie al pareggio in trasferta contro il Lech Poznan",
       "url": "http://www.espn.com/soccer/report/_/gameId/401915546",
@@ -460,24 +460,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-21T17:54:22+00:00"
-    },
-    {
-      "id": "f5ad65e3c8",
-      "titolo": "\"Perché proprio a me?\", la terribile confessione di Kvaratskhelia dopo il brutto infortunio in Champions",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152044244/perch_proprio_a_me_la_terribile_confessione_di_kvaratskhelia_dopo_il_brutto_infortunio_in_champions/",
-      "estratto": "Il georgiano del Psg si è rotto il crociato contro il Barcellona e salterà il resto della stagione. Sui social il sostegno di Cristiano Ronaldo: \"Il tuo meglio deve ancora venire\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-10-21T15:26:32+00:00"
-    },
-    {
-      "id": "c53dbb73ae",
-      "titolo": "Cosa serve per vincere il Pallone d'Oro: trofei, gol e giochi di pubbliche relazioni",
-      "url": "https://www.espn.com/soccer/story/_/id/50229304/ballon-dor-industry-harry-kane-lamine-yamal-kylian-mbappe",
-      "estratto": "Non basta più essere il miglior giocatore in campo per avere una chance di vincere il Pallone d'Oro, il massimo riconoscimento individuale del calcio. Bisogna far valere la propria posizione anche sui media, e richiede molto lavoro.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T14:07:53+00:00"
     }
   ]
 }
