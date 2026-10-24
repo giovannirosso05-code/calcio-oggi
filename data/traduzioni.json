@@ -19,21 +19,9 @@
   "titolo": "CHRIS WHEELER: Il Manchester United è stato insipido, senza vita e decisamente orribile nella dimissione inerme di Como. Per quanto tempo ancora Michael Carrick e la sua squadra potranno sonnecchiare in questa stagione disgraziata?",
   "estratto": "CHRIS WHEELER A COMO: Per quanto tempo ancora potrà andare avanti? Per quanto tempo ancora lo United potrà sonnecchiare in questa stagione disgraziata mentre Carrick continua ad aggrapparsi disperatamente a degli aspetti positivi?"
  },
- "d3187a51ec": {
-  "titolo": "Kyle Walker ammette che si farà rimuovere il tatuaggio 'quattro di fila' se al Manchester City verranno revocati i titoli di Premier League",
-  "estratto": "Daily Mail Sport ha riferito che il City si prepara a una maxi-penalizzazione di punti che lo retrocederebbe in Championship dopo essere stato ritenuto colpevole di aver violato le norme finanziarie."
- },
- "a50b7c1ed6": {
-  "titolo": "Vinicius Junior ha DAVVERO valutato seriamente l'addio al Real Madrid per l'Arsenal in estate, svelato il loro approccio 'aggressivo'",
-  "estratto": "L'Arsenal si è informato su Vinicius Jr e alcune indiscrezioni suggeriscono che fosse disposto ad offrirgli la cifra monstre di 18,5 milioni di sterline a stagione, più di qualsiasi giocatore del club."
- },
  "ded583f30c": {
   "titolo": "Q&A di Newcastle Confidential con CRAIG HOPE: Svelato il misterioso infortunio di Tino Livramento, cosa mi dicono le fonti sul futuro di Matthias Jaissle, il recupero lampo di Anthony Elanga e i piani di mercato di gennaio",
   "estratto": "Dal futuro e dalle tattiche di Jaissle fino agli infortuni e ai piani di mercato di gennaio, CRAIG HOPE affronta le vostre domande più importanti con approfondimenti e informazioni dall'interno di St James' Park…"
- },
- "10a98329fc": {
-  "titolo": "Il Dundee rende omaggio al 'fulgido' genio georgiano Nemsadze",
-  "estratto": "Il Dundee ha reso omaggio a Giorgi Nemsadze dopo la notizia della morte del loro 'fulgido' ex centrocampista all'età di 54 anni."
  },
  "834fe068d8": {
   "titolo": "\"Non sembra bello\": Mikel Arteta alimenta i timori sull'infortunio di Bukayo Saka dopo che l'esterno dell'Arsenal è uscito zoppicando nel pareggio per 2-2 contro il Bayern Monaco",
@@ -343,10 +331,6 @@
   "titolo": "Chi vincerà il Pallone d'Oro? Messi, Yamal, Kane o qualcun altro?",
   "estratto": "Non c'è un nome condiviso per il Pallone d'Oro di quest'anno, ma forse dovrebbe esserci. Ecco chi meriterebbe davvero di vincerlo."
  },
- "1ec5e3ec50": {
-  "titolo": "João Pedro: \"Ho detto a Cole Palmer che non volevo rubargli il posto\" al Chelsea",
-  "estratto": "João Pedro ha raccontato che è \"nata un'amicizia\" dopo aver assicurato a Cole Palmer che non era arrivato al Chelsea per soffiargli il posto in squadra."
- },
  "1856841e78": {
   "titolo": "Calciomercato, le voci: il Como di Paz ha steso il Manchester United, ora i Red Devils vogliono acquistarlo",
   "estratto": "Il Manchester United sta monitorando il trequartista del Como Nico Paz in vista della prossima stagione, mentre anche il Chelsea mostra forte interesse. Tutte le ultime novità in Transfer Talk."
@@ -402,18 +386,6 @@
  "ce784d1d7b": {
   "titolo": "Michael Carrick: il tecnico del Manchester United sotto pressione si fida \"al 100%\" nonostante la tensione",
   "estratto": "L'allenatore del Manchester United Michael Carrick ha iniziato la sua conferenza stampa con un discorso durato più di cinque minuti, nel tentativo di compattare i suoi giocatori in vista della cruciale sfida di Premier League contro il Bournemouth."
- },
- "15cb2576cd": {
-  "titolo": "Antonio Conte e Fabian Hürzeler prendono le distanze dalla panchina del Manchester United",
-  "estratto": "Antonio Conte ha smentito di essere in trattative avanzate per un nuovo incarico, in seguito alle speculazioni secondo cui potrebbe sostituire Michael Carrick al Manchester United."
- },
- "41c8cf706e": {
-  "titolo": "Il Manchester United invita i tifosi a compilare un sondaggio sul nuovo stadio",
-  "estratto": "Il Manchester United sta invitando i tifosi a fornire nuovi pareri sul design del loro ipotetico nuovo stadio da 100.000 posti."
- },
- "45a5cd5825": {
-  "titolo": "Il Manchester United sarà \"arrabbiato e intenso\", avverte Marco Rose in vista del Bournemouth",
-  "estratto": "Marco Rose ha avvisato la sua squadra del Bournemouth di guardarsi da un Manchester United arrabbiato, che giocherà come se non avesse nulla da perdere nella sfida in programma a Old Trafford."
  },
  "2523b0b126": {
   "titolo": "Come John Murtough rilancerà la missione in Premier League del Birmingham City: taglio degli errori costosi, rubrica di contatti d'élite e rivoluzione del settore giovanile",
@@ -670,5 +642,41 @@
  "950aabeccc": {
   "titolo": "Il Fulham esce dalla zona retrocessione battendo il Coventry",
   "estratto": "Il primo gol in Premier League con la maglia del Fulham di Oscar Bobb vale l'1-0 sul Coventry, che solleva i Cottagers fuori dalla zona retrocessione."
+ },
+ "3be665298b": {
+  "titolo": "Il Tottenham resiste e conquista una rara vittoria nel derby a Stamford Bridge: il Chelsea perde la testa e Cole Palmer viene espulso",
+  "estratto": "Il tempo pessimo nella Londra occidentale ha dato vita a una sfida scivolosa all'altezza delle aspettative, e raramente in simili circostanze il Tottenham ha la meglio."
+ },
+ "cb9b6fbcbc": {
+  "titolo": "Ce n'è per tutti i Mik! Il tecnico dell'Arsenal rivela di raccogliere un dossier sugli altri allenatori che oltrepassano l'area tecnica in un bizzarro sfogo, nonostante le critiche sul fatto che LUI sia il peggior fautore",
+  "estratto": "ISAAN KHAN ALL'EMIRATES STADIUM: Arteta ha stranamente sostenuto di aver raccolto filmati di altri allenatori che oltrepassano la propria area tecnica dopo aver ricevuto il suo secondo cartellino giallo della stagione."
+ },
+ "6166b0c38e": {
+  "titolo": "Nicol: Alonso ha sbagliato tutto contro il Tottenham",
+  "estratto": "Nicol: Alonso ha sbagliato tutto contro il Tottenham"
+ },
+ "74be6ed2c5": {
+  "titolo": "Cole Palmer espulso per la prima volta, il Chelsea raggiunge un record negativo di cartellini rossi",
+  "estratto": "Cole Palmer è stato espulso per la prima volta nella sua carriera professionistica, mentre il Chelsea è diventato la terza squadra nella storia a subire 100 cartellini rossi in Premier League."
+ },
+ "30ae80f32f": {
+  "titolo": "Palmer espulso, il Tottenham ottiene la seconda vittoria di sempre in Premier League in casa del Chelsea",
+  "estratto": "Cole Palmer è stato espulso mentre il Chelsea ha subito una sconfitta per 2-0 contro il Tottenham a Stamford Bridge sabato."
+ },
+ "5bf4a03ef3": {
+  "titolo": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
+  "estratto": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?"
+ },
+ "f9177b936a": {
+  "titolo": "Avanti Arsenal, i campioni della Premier League cari alla gente",
+  "estratto": "Lo spettacolo del Manchester City in fuga in vetta alla classifica della Premier League non era un bel vedere per il campionato più importante del mondo. Ma la vittoria dell'Arsenal contro l'Everton ha dimostrato che sono pronti a lottare fino alla f"
+ },
+ "2828d4c806": {
+  "titolo": "Stephen Robinson orgoglioso dei Dons decimati nonostante la sconfitta di misura a Tannadice",
+  "estratto": "Il tecnico dell'Aberdeen Stephen Robinson si è rifiutato di affossare i suoi giocatori nonostante li abbia visti non riuscire a trasformare in punti una prestazione dominante contro il Dundee United."
+ },
+ "46b6604d44": {
+  "titolo": "Il momento di magia di Oscar Bobb ridà vita al ritorno dall'aldilà di Alvaro Arbeloa... ma al Coventry manca il cinismo necessario per i grandi palcoscenici, scrive JAMES SHARPE",
+  "estratto": "JAMES SHARPE AL CBS ARENA: Per un uomo recentemente descritto come un 'uomo morto che cammina', Alvaro Arbeloa ha ora una marcia in più. persino per il tecnico del Fulham, questa rianimazione è qualcosa di notevole."
  }
 }

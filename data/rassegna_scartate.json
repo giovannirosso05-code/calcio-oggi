@@ -1,15 +1,69 @@
 {
-  "aggiornato": "2026-10-24T16:49:37.439878+00:00",
-  "totale": 51,
+  "aggiornato": "2026-10-24T19:17:02.447625+00:00",
+  "totale": 54,
   "articoli": [
     {
-      "id": "5dca4a738b",
-      "titolo": "Espanyol rimontato e terz'ultimo in Liga: il Racing Santander di Prati passa 2-1",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/espanyol-2286792",
-      "estratto": "Il Racing Santander - con Matteo Prati in prestito dal Cagliari - rimonta l'Espanyol e lo sorpassa in classifica, lasciando i rivali in piena zona retrocessione: la squadra di Jose Alberto vince 2-1 grazie ai gol di Belocian e Zabiri, che hanno rispo",
+      "id": "033ba679f5",
+      "titolo": "Mikautadze ancora decisivo: il Villarreal rimonta 2-1, Valencia penultimo in Liga",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/mikautadze-decisivo-villarreal-rimonta-2-1-valencia-penultimo-liga-2286870",
+      "estratto": "Il Villarreal vince ancora: Valencia rimontato 2-1, decisivo Mikautadze al 96', giocatore che ha già messo a segno 5 gol in questo inizio di stagione fra campionato e Champions.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-10-24T16:41:00+00:00"
+      "pubblicato": "2026-10-24T19:12:00+00:00"
+    },
+    {
+      "id": "6166b0c38e",
+      "titolo": "Nicol: Alonso ha sbagliato tutto contro il Tottenham",
+      "url": "https://www.espn.com/video/clip/_/id/50268228/alonso-got-everything-wrong-vs-tottenham",
+      "estratto": "Nicol: Alonso ha sbagliato tutto contro il Tottenham",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T19:09:55+00:00"
+    },
+    {
+      "id": "6e16697040",
+      "titolo": "Rangers 4 St Johnstone 0: Kelsy realizza una doppietta, ma Min-su ruba la scena",
+      "url": "https://www.dailymail.com/sport/football/article-16235697/Rangers-Min-su-Kelsy-St-Johnstone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Alla nona partita della sua carriera con i Rangers, Kim Min-su non ha ancora messo a referto un gol o un assist. Le statistiche, tuttavia, raccontano solo una parte della storia.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T19:08:34+00:00"
+    },
+    {
+      "id": "cb9b6fbcbc",
+      "titolo": "Ce n'è per tutti i Mik! Il tecnico dell'Arsenal rivela di raccogliere un dossier sugli altri allenatori che oltrepassano l'area tecnica in un bizzarro sfogo, nonostante le critiche sul fatto che LUI sia il peggior fautore",
+      "url": "https://www.dailymail.com/sport/football/article-16235957/mikel-arteta-yellow-card-technical-area-dossier.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ISAAN KHAN ALL'EMIRATES STADIUM: Arteta ha stranamente sostenuto di aver raccolto filmati di altri allenatori che oltrepassano la propria area tecnica dopo aver ricevuto il suo secondo cartellino giallo della stagione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T18:03:35+00:00"
+    },
+    {
+      "id": "2828d4c806",
+      "titolo": "Stephen Robinson orgoglioso dei Dons decimati nonostante la sconfitta di misura a Tannadice",
+      "url": "https://www.dailymail.com/sport/football/article-16235907/Stephen-Robinson-proud-decimated-Dons-despite-narrow-defeat-Tannadice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico dell'Aberdeen Stephen Robinson si è rifiutato di affossare i suoi giocatori nonostante li abbia visti non riuscire a trasformare in punti una prestazione dominante contro il Dundee United.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T17:59:11+00:00"
+    },
+    {
+      "id": "46b6604d44",
+      "titolo": "Il momento di magia di Oscar Bobb ridà vita al ritorno dall'aldilà di Alvaro Arbeloa... ma al Coventry manca il cinismo necessario per i grandi palcoscenici, scrive JAMES SHARPE",
+      "url": "https://www.dailymail.com/sport/football/article-16229477/oscar-bobb-alvaro-arbeloa-fulham-coventry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JAMES SHARPE AL CBS ARENA: Per un uomo recentemente descritto come un 'uomo morto che cammina', Alvaro Arbeloa ha ora una marcia in più. persino per il tecnico del Fulham, questa rianimazione è qualcosa di notevole.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T17:42:57+00:00"
+    },
+    {
+      "id": "5bf4a03ef3",
+      "titolo": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
+      "url": "https://www.espn.com/video/clip/_/id/50267261/did-arsenal-prioritise-result-performance-vs-everton",
+      "estratto": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T17:38:30+00:00"
     },
     {
       "id": "950aabeccc",
@@ -19,24 +73,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-24T16:22:02+00:00"
-    },
-    {
-      "id": "6e16697040",
-      "titolo": "Rangers 4 St Johnstone 0: Kelsy realizza una doppietta, ma Min-su ruba la scena",
-      "url": "https://www.dailymail.com/sport/football/article-16235697/Rangers-Min-su-Kelsy-St-Johnstone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Alla nona partita della sua carriera con i Rangers, Kim Min-su non ha ancora messo a referto un gol o un assist. Le statistiche, tuttavia, raccontano solo una parte della storia.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T16:19:08+00:00"
-    },
-    {
-      "id": "c96d01dfe0",
-      "titolo": "Il Lipsia travolge l'Elversberg. Vittoria pirotecnica del Werder Brema contro il Mainz",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/bundesliga/2026/10/24-152119673/il_lipsia_travolge_l_elversberg_vittoria_pirotecnica_del_werder_brema_contro_il_mainz/",
-      "estratto": "Risultato largo del club della Red Bull in Bundesliga. Vittoria di misura per il Paderborn, pari per Schalke e Union Berlino",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T15:54:03+00:00"
     },
     {
       "id": "bdf84378f8",
@@ -451,15 +487,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-21T20:13:50+00:00"
-    },
-    {
-      "id": "10a98329fc",
-      "titolo": "Il Dundee rende omaggio al 'fulgido' genio georgiano Nemsadze",
-      "url": "https://www.dailymail.com/sport/football/article-16227673/Dundee-Nemsadze-tribute.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Dundee ha reso omaggio a Giorgi Nemsadze dopo la notizia della morte del loro 'fulgido' ex centrocampista all'età di 54 anni.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T17:54:22+00:00"
     }
   ]
 }
