@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-23T21:36:22.260508+00:00",
-  "totale": 199,
+  "aggiornato": "2026-10-24T00:02:55.669657+00:00",
+  "totale": 196,
   "articoli": [
     {
       "id": "d3187a51ec",
@@ -25,6 +25,18 @@
       "punteggio": 190,
       "pubblicato": "2026-10-23T13:26:54+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "a6088ac43e",
+      "titolo": "Torino, Fitz-Jim: \"Felice per il mio primo gol, ripagata la fiducia di Abate\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-fitz-jim-felice-gol-ripagata-fiducia-abate-2286567",
+      "estratto": "Il Torino piega il Monza 3-2 e infila il terzo successo consecutivo in Serie A.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-10-23T22:19:14+00:00",
+      "squadra": "Torino"
     },
     {
       "id": "7ff789e60e",
@@ -75,6 +87,42 @@
       "squadra": "Bournemouth"
     },
     {
+      "id": "0abdee2827",
+      "titolo": "Il Toro di Abate cala il tris, ma secondo Juric agli enfants terribles del Monza manca un rigore",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/toro-abate-cala-tris-juric-i-enfants-terribles-i-monza-manca-rigore-2286580",
+      "estratto": "Il Torino supera il Monza per 3-2 e conquista la terza vittoria consecutiva in campionato, confermando il proprio momento positivo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 140,
+      "pubblicato": "2026-10-23T22:38:20+00:00",
+      "squadra": "Monza"
+    },
+    {
+      "id": "25358f7841",
+      "titolo": "Da Empoli-Vicenza a Hellas Verona-Pisa, i convocati per l'8ª giornata di Serie B",
+      "url": "https://www.tuttomercatoweb.com/serie-b/empoli-vicenza-hellas-verona-pisa-convocati-8a-giornata-serie-b-2286064",
+      "estratto": "Per l'8ª giornata del campionato di Serie B la redazione di TuttoMercatoWeb.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-10-23T22:04:00+00:00",
+      "squadra": "Empoli"
+    },
+    {
+      "id": "ceeb270381",
+      "titolo": "Il Vicenza ritrova il successo al Castellani: Rauti e Pellizzari stendono l'Empoli, Gallo respira",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/23-152099838/il_vicenza_ritrova_il_successo_al_castellani_rauti_e_pellizzari_stendono_l_empoli_gallo_respira/",
+      "estratto": "Colpo esterno dei veneti, che salgono a 9 punti in classifica, 2 in più dei rivali odierni",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-10-23T20:33:22+00:00",
+      "squadra": "Vicenza"
+    },
+    {
       "id": "1d1ef9e4be",
       "titolo": "\"Se Mo Salah fa tre gol...\" - Il tecnico degli Hearts sul rebus per marcare la stella del Trabzonspor",
       "url": "https://www.espn.com/soccer/story/_/id/50255952/if-salah-scores-three-hearts-boss-key-conundrum",
@@ -123,15 +171,27 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "483a5993a4",
-      "titolo": "Vanoli: \"Fiorentina, contro l'Inter serve la partita perfetta. Mastantuono talento\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/10/23-152091911/vanoli_fiorentina_contro_l_inter_serve_la_partita_perfetta_mastantuono_talento/",
-      "estratto": "Il tecnico viola ha parlato in conferenza in vista della gara di Serie A sul campo dei nerazzurri: \"Nulla è impossibile\"",
-      "fonte": "Tuttosport",
+      "id": "cf99531d7f",
+      "titolo": "Mauro Meluso: “Toro, bravo Abate. Lazio, Gattuso ti ha ridato dignità. Samp, che tristezza”",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/mauro-meluso-toro-abate-lazio-gattuso-ridato-dignita-samp-tristezza-2286585",
+      "estratto": "“Il Torino ha trovato un nuovo entusiasmo che aveva perso un po tutto l’ambiente.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-23T15:32:53+00:00",
+      "pubblicato": "2026-10-23T22:44:06+00:00",
+      "squadra": "Lazio"
+    },
+    {
+      "id": "add9841271",
+      "titolo": "La Fiorentina si mette a tre? Vanoli: \"Se faccio un passo indietro per farne tre in avanti...\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/fiorentina-mette-tre-vanoli-se-passo-farne-avanti-2286445",
+      "estratto": "A due gironi dalla trasferta contro l'Inter, il tecnico della Fiorentina Paolo Vanoli è intervenuto in conferenza stampa e ha aperto alla possibilità di un passaggio alla difesa a tre: \"Sono nato con maestri della difesa a tre.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-23T22:30:13+00:00",
       "squadra": "Fiorentina"
     },
     {
@@ -183,18 +243,6 @@
       "squadra": "Parma"
     },
     {
-      "id": "57230d0ee0",
-      "titolo": "Monza, Juric: \"Il Toro ha fatto gol di qualità. Rigore? Per me c'era, ma non recrimino\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/monza-juric-sfida-torino-2286515",
-      "estratto": "23.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 60,
-      "pubblicato": "2026-10-23T21:20:00+00:00",
-      "squadra": "Monza"
-    },
-    {
       "id": "272b332d55",
       "titolo": "Bufera Manchester United: \"Umiliati\", \"Vergognosi\". La stampa inglese si ribella e chiede l'esonero di Carrick",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152051601/bufera_manchester_united_umiliati_vergognosi_la_stampa_inglese_si_ribella_e_chiede_l_esonero_di_carrick/",
@@ -231,51 +279,27 @@
       "squadra": "Como"
     },
     {
-      "id": "7047f5b8dc",
-      "titolo": "Empoli, Andreoletti: \"Sarebbe stato fondamentale vincere, errori pagati a caro prezzo\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/empoli-andreoletti-sarebbe-fondamentale-vincere-errori-pagati-caro-prezzo-2286572",
-      "estratto": "Matteo Andreoletti, allenatore dell’Empoli, è intervenuto ai microfoni di Empoli Channel e Radio Lady dopo la sconfitta per 0-2 contro il Vicenza.",
-      "fonte": "TMW",
-      "serie": "Serie A",
+      "id": "c79042b25f",
+      "titolo": "Andoni Iraola si sente \"fortunato\" ad allenare il talento del Liverpool Rio Ngumoha, ma avverte: \"Evitategli pressioni impossibili a 18 anni\"",
+      "url": "https://www.dailymail.com/sport/football/article-16233957/Andoni-Iraola-Rio-Ngumoha-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Andoni Iraola ha dichiarato di sentirsi fortunato ad allenare il giovane del Liverpool Rio Ngumoha, esortando però a non pretendere troppo e troppo presto dal diciottenne.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-23T21:34:12+00:00",
-      "squadra": "Empoli"
+      "pubblicato": "2026-10-23T22:08:19+00:00",
+      "squadra": "Liverpool"
     },
     {
-      "id": "5c69c54d57",
-      "titolo": "Torino, Abate: \"Tante cose positive, ma troppi gol subiti: questo mi fa arrabbiare\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-abate-commenta-partita-monza-2286514",
-      "estratto": "23.",
+      "id": "e71b644a51",
+      "titolo": "L'ex tecnico di Lulli: \"L'ho spostato io nel ruolo che gli fa fare Gasp. Ha qualità morali incredibili\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/tecnico-lulli-l-spostato-ruolo-gasp-qualita-morali-incredibili-2286527",
+      "estratto": "Lunga intervista quella realizzata da Gianluca Falsini, allenatore del Como Primavera, ai microfoni di Sky Calcio Unplugged, il quale ha raccontato la filosofia alla base del lavoro del settore giovanile del club lariano e il suo rapporto con Cesc Fa",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-23T21:33:00+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "4d55dd4719",
-      "titolo": "Abate: \"Dobbiamo continuare a pedalare\". Poi parla dell'abbraccio dei compagni a Comuzzo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/abate-dobbiamo-continuare-pedale-parla-abbraccio-compagni-comuzzo-2286575",
-      "estratto": "Mister Ignazio Abate, intervenuto a Sky Sport dopo la vittoria contro il Monza, ha analizzato così la prestazione del suo Torino: \"Ridare entusiasmo ai tifosi era uno dei nostri obiettivi, ora va alimentato giorno dopo giorno.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-23T21:32:32+00:00"
-    },
-    {
-      "id": "aaf6810936",
-      "titolo": "Vicenza, Gallo: \"Ottimo atteggiamento, Valoti è il giocatore più bravo che ho\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/vicenza-gallo-ottimo-atteggiamento-valoti-il-giocatore-pi-bravo-che-ho-2286573",
-      "estratto": "“Abbiamo toccato le corde che dovevamo toccare per non accontentarci: deve essere un monito su cosa bisogna fare.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-23T21:30:26+00:00",
-      "squadra": "Vicenza"
+      "pubblicato": "2026-10-23T22:08:02+00:00"
     },
     {
       "id": "20c26d5b50",
@@ -413,16 +437,15 @@
       "pubblicato": "2026-10-21T08:59:01+00:00"
     },
     {
-      "id": "bf5bf96e5e",
-      "titolo": "Speciale Q&A di Liverpool Confidential: Rio Ngumoha a un passo dal rinnovo nonostante l'interesse dell'Arsenal, aggiornamento sull'infortunio di Conor Bradley, perché i Reds fanno bene a temporeggiare sul contratto di Alexis Mac Allister e Will Wright vicinissimo al debutto in prima squadra",
-      "url": "https://www.dailymail.com/sport/football/article-16226367/liverpool-confidential-rio-ngumoha-mac-allister-bradley.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "È tempo di una sessione di domande e risposte nella rubrica Confidential di questa settimana. Tra piani di mercato, dispute contrattuali e questioni tattiche, vi teniamo informati.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
+      "id": "3598ca28fe",
+      "titolo": "PSG, ora tocca a Godts: l'infortunio di Kvaratskhelia gli apre le porte da titolare",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/psg-tocca-godts-infortunio-kvaratskhelia-apre-porte-titolare-2286574",
+      "estratto": "L'infortunio di Kvaratskhelia cambia inevitabilmente le gerarchie offensive del PSG e può rappresentare la grande occasione per Mika Godts.",
+      "fonte": "TMW",
+      "serie": "Serie A",
       "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-21T16:00:49+00:00",
-      "squadra": "Liverpool"
+      "punteggio": 20,
+      "pubblicato": "2026-10-23T22:26:36+00:00"
     },
     {
       "id": "69f562de6b",
@@ -461,15 +484,37 @@
       "squadra": "Aston Villa"
     },
     {
-      "id": "e8f8daaa0b",
-      "titolo": "Il nuovo capocannoniere della Serie A è costato appena 3,5 milioni di euro",
-      "url": "https://www.tuttomercatoweb.com/serie-a/gustavo-varela-capocannoniere-serie-con-raimondo-pagato-monza-2286545",
-      "estratto": "Il Monza si aggrappa ancora a Gustavo Varela, ormai protagonista assoluto dell'avvio di stagione biancorossa.",
+      "id": "e94e39ca52",
+      "titolo": "Calciomercato No Stop - Indiscrezioni, trattative e retroscena del 23 ottobre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-23-ottobre-2286584",
+      "estratto": "ROMA, ACCORDO PER IL RINNOVO DI LULLI.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-23T21:30:38+00:00"
+      "pubblicato": "2026-10-23T23:00:36+00:00"
+    },
+    {
+      "id": "eab1a2e6f8",
+      "titolo": "Elezioni Figc, il rebus: non tutti in A convinti da Malagò, torna l’idea Galliani",
+      "url": "https://www.tuttomercatoweb.com/serie-a/elezioni-figc-rebus-convinti-malago-torna-l-idea-galliani-2286586",
+      "estratto": "Il futuro della Federcalcio è un rebus ancora senza soluzione.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-23T22:54:40+00:00"
+    },
+    {
+      "id": "e1bf417cf3",
+      "titolo": "Viaggio in Spagna per Messi: vince un premio a Oviedo e lo dedica a papà Jorge",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/viaggio-spagna-messi-vince-premio-oviedo-dedica-papa-jorge-2286554",
+      "estratto": "Oviedo si è fermata per Lionel Messi.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-23T22:11:48+00:00"
     },
     {
       "id": "a0f9567a3b",
@@ -699,6 +744,18 @@
       "squadra": "Juventus"
     },
     {
+      "id": "606c2c41c0",
+      "titolo": "Torino più forte di errori e autogol, tris al Monza e Juve scavalcata: come cambia la classifica",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/23-152095837/torino_pi_forte_di_errori_e_autogol_tris_al_monza_e_juve_scavalcata_come_cambia_la_classifica/",
+      "estratto": "Terza vittoria consecutiva per la squadra di Abate, che si impone 3-2 contro l'ex Juric e sale nelle zone nobili del campionato",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -50,
+      "pubblicato": "2026-10-23T20:47:13+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "ac21584c82",
       "titolo": "Ramos, sospiro di sollievo per Amorim: novità chiave dall'allenamento del Milan",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/23-152089203/ramos_sospiro_di_sollievo_per_amorim_novit_chiave_dall_allenamento_del_milan/",
@@ -721,6 +778,18 @@
       "punteggio": -50,
       "pubblicato": "2026-10-22T22:37:05+00:00",
       "squadra": "Bournemouth"
+    },
+    {
+      "id": "b51ce50817",
+      "titolo": "Colpaccio del Vicenza a Empoli: Rauti e Pellizzari firmano il primo successo in trasferta",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/23-152093622/colpaccio_del_vicenza_a_empoli_rauti_e_pellizzari_firmano_il_primo_successo_in_trasferta/",
+      "estratto": "Nell'anticipo dell'8 giornata del campionato cadetto gli uomini di Gallo sbancano il Castellani: terzo ko interno consecutivo per i toscani di Andreoletti",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-10-23T20:21:44+00:00",
+      "squadra": "Vicenza"
     },
     {
       "id": "5d338ece89",
@@ -747,52 +816,52 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "8cbd71c7c6",
-      "titolo": "Pisilli capitano della Roma, Max Tonetto si emoziona: \"Io sono un romantico, queste cose...\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/23-152087624/pisilli_capitano_della_roma_max_tonetto_si_emoziona_io_sono_un_romantico_queste_cose_/",
-      "estratto": "L'ex esterno giallorosso ha presentato il big match dell'ottava giornata di Serie A, in programma domani alle ore 18 allo stadio Maradona",
-      "fonte": "Corriere dello Sport",
+      "id": "483a5993a4",
+      "titolo": "Vanoli: \"Fiorentina, contro l'Inter serve la partita perfetta. Mastantuono talento\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/10/23-152091911/vanoli_fiorentina_contro_l_inter_serve_la_partita_perfetta_mastantuono_talento/",
+      "estratto": "Il tecnico viola ha parlato in conferenza in vista della gara di Serie A sul campo dei nerazzurri: \"Nulla è impossibile\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-10-23T10:46:15+00:00",
+      "pubblicato": "2026-10-23T15:32:53+00:00",
+      "squadra": "Fiorentina"
+    },
+    {
+      "id": "3f04b8fa3a",
+      "titolo": "La Roma surclassa lo Slovan, ma il portiere slovacco non la prende bene e svela un retroscena: \"Prima del gol erano nervosi...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152036823/la_roma_surclassa_lo_slovan_ma_il_portiere_dello_slovan_non_la_prende_bene_e_svela_un_retroscena_prima_del_gol_erano_nervo/",
+      "estratto": "Partita senza storia all'Olimpico, Takac: \"Partita molto difficile per noi, è un peccato\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": true,
+      "punteggio": -130,
+      "pubblicato": "2026-10-21T07:43:26+00:00",
       "squadra": "AS Roma"
     },
     {
-      "id": "a861180498",
-      "titolo": "Champions, finalmente il vero Napoli. Con McTominay è tutta un'altra cosa",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/20-152034104/champions_finalmente_il_vero_napoli_con_mctominay_tutta_un_altra_cosa/",
-      "estratto": "Prima della partita con il Bodo, lo scozzese aveva detto: \"Dobbiamo stare zitti e lavorare. Sempre\". È stato il migliore in campo. La sua doppietta decisiva per il 4-3 ai norvegesi, prima vittoria partenopea nel torneo, aperta da Politano e chiusa da",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -150,
-      "pubblicato": "2026-10-20T21:45:56+00:00",
-      "squadra": "Napoli"
-    },
-    {
-      "id": "2aa19539e6",
-      "titolo": "Monza, Kouadio: \"Loro hanno meritato, gran partita. Varela? Veramente forte\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/monza-kouadio-loro-meritato-gran-partita-varela-veramente-forte-2286576",
-      "estratto": "Il Torino piega il Monza 3-2 e infila il terzo successo consecutivo in Serie A.",
+      "id": "3e4c04b719",
+      "titolo": "Quando la prima da titolare di Ricci col Como? Fabregas: \"Arriverà la sua possibilità\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/titolare-ricci-como-fabregas-arrivera-possibilita-2286453",
+      "estratto": "Cesc Fabregas, allenatore del Como, ha presentato in conferenza stampa la partita di domani contro il Sassuolo, che vale per l'8^ giornata di Serie A.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -160,
-      "pubblicato": "2026-10-23T21:33:24+00:00",
-      "squadra": "Monza"
+      "pubblicato": "2026-10-23T22:23:29+00:00",
+      "squadra": "Como"
     },
     {
-      "id": "c44676da8c",
-      "titolo": "Torino, Abate: \"L'unione con la gente mi riempie il cuore. Belghali più forte di me...\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-abate-mi-riempie-cuore-connessione-gente-belghali-forte-me-2286571",
-      "estratto": "Il Torino piega il Monza 3-2 e infila il terzo successo consecutivo in Serie A.",
+      "id": "2848f9ad4f",
+      "titolo": "L'ex Bertotto: \"Mi aspettavo un upgrade di Runjaic, con il Lecce ho visto un Udinese in balia\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bertotto-mi-aspettavo-upgrade-runjaic-lecce-udinese-balia-2286482",
+      "estratto": "Nell'Udinese dal 1993 al 2006, Valerio Bertotto è stato intervistato da TuttoUdinese per parlare dell'attualità del club friulano.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -160,
-      "pubblicato": "2026-10-23T21:24:26+00:00",
-      "squadra": "Torino"
+      "pubblicato": "2026-10-23T22:15:12+00:00",
+      "squadra": "Lecce"
     },
     {
       "id": "e2dea92411",
@@ -807,18 +876,6 @@
       "squadra": "Man United"
     },
     {
-      "id": "c055bf9f75",
-      "titolo": "Fabregas: \"Lasciare il Como sarebbe la mia fine. Aquilani? Quando ci siamo conosciuti in Serie B...\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/10/23-152091733/fabregas_lasciare_il_como_sarebbe_la_mia_fine_aquilani_quando_ci_siamo_conosciuti_in_serie_b_/",
-      "estratto": "Il tecnico dei lariani elogia l'allenatore del Sassuolo: \"Suwarso parla bene di lui? Non significa niente\". Liberali e Kean ai box",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -160,
-      "pubblicato": "2026-10-23T15:30:24+00:00",
-      "squadra": "Como"
-    },
-    {
       "id": "19730b15cb",
       "titolo": "Enzo Maresca rivela i tre colloqui a cuore aperto con Phil Foden per ridare vita alla sua carriera al Manchester City",
       "url": "https://www.dailymail.com/sport/football/article-16229647/Enzo-Maresca-reveals-three-heart-heart-chats-Phil-Foden-spark-Man-City-career-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -829,6 +886,30 @@
       "punteggio": -160,
       "pubblicato": "2026-10-22T10:53:19+00:00",
       "squadra": "Man City"
+    },
+    {
+      "id": "85a1bacfac",
+      "titolo": "Napoli, a gennaio arriva un centrocampista. Inserimento su Romano, che piace anche a Juve e Inter. Ecco gli altri nomi. Lucca di nuovo in uscita?. Sale il pressing su Varela. Per Lang ipotesi Ajax e Psv",
+      "url": "https://www.tuttomercatoweb.com/editoriale/napoli-gennaio-arriva-centrocampista-inserimento-romano-piace-juve-inter-nomi-lucca-uscita-sale-pres-2286583",
+      "estratto": "Poco più di due mesi al mercato invernale e prime riflessioni importanti in casa Napoli in vista della riapertura delle trattative.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-10-23T22:00:45+00:00",
+      "squadra": "Napoli"
+    },
+    {
+      "id": "bf5bf96e5e",
+      "titolo": "Speciale Q&A di Liverpool Confidential: Rio Ngumoha a un passo dal rinnovo nonostante l'interesse dell'Arsenal, aggiornamento sull'infortunio di Conor Bradley, perché i Reds fanno bene a temporeggiare sul contratto di Alexis Mac Allister e Will Wright vicinissimo al debutto in prima squadra",
+      "url": "https://www.dailymail.com/sport/football/article-16226367/liverpool-confidential-rio-ngumoha-mac-allister-bradley.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "È tempo di una sessione di domande e risposte nella rubrica Confidential di questa settimana. Tra piani di mercato, dispute contrattuali e questioni tattiche, vi teniamo informati.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-10-21T16:00:49+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "ca453a514f",
@@ -877,30 +958,6 @@
       "punteggio": -200,
       "pubblicato": "2026-10-23T21:31:03+00:00",
       "squadra": "Chelsea"
-    },
-    {
-      "id": "ceeb270381",
-      "titolo": "Il Vicenza ritrova il successo al Castellani: Rauti e Pellizzari stendono l'Empoli, Gallo respira",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/23-152099838/il_vicenza_ritrova_il_successo_al_castellani_rauti_e_pellizzari_stendono_l_empoli_gallo_respira/",
-      "estratto": "Colpo esterno dei veneti, che salgono a 9 punti in classifica, 2 in più dei rivali odierni",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-10-23T20:33:22+00:00",
-      "squadra": "Vicenza"
-    },
-    {
-      "id": "59ec42f94d",
-      "titolo": "Andoni Iraola del Liverpool esorta Rio Ngumoha a non farsi distrarre dal \"rumore esterno\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50257971/liverpool-andoni-iraola-urges-rio-ngumoha-not-distracted-noise",
-      "estratto": "Il tecnico del Liverpool Andoni Iraola ha esortato Rio Ngumoha a non farsi distrarre dal rumore esterno in seguito alla sua impressionante prestazione contro il Villarreal.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -200,
-      "pubblicato": "2026-10-23T18:27:41+00:00",
-      "squadra": "Liverpool"
     },
     {
       "id": "c1c13be3bc",
@@ -963,6 +1020,18 @@
       "squadra": "Bournemouth"
     },
     {
+      "id": "d26c961362",
+      "titolo": "Il Torino cala il tris: Fitz-Jim, Belghali e Vlasic lanciano Abate. Al Monza non basta Varela",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/23-152092764/il_torino_cala_il_tris_fitz-jim_belghali_e_vlasic_lanciano_abate_al_monza_non_basta_varela/",
+      "estratto": "Nell'anticipo dell'8ª giornata di Serie A, i granata si impongono con il punteggio di 3-2 ed ottengono il terzo successo consecutivo in campionato",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-10-23T20:41:59+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "1de32327ca",
       "titolo": "Inter, Jones esce allo scoperto: \"Se sei la squadra più forte è normale che...\"",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/23-152086286/inter_jones_esce_allo_scoperto_se_sei_la_squadra_pi_forte_normale_che_/",
@@ -973,42 +1042,6 @@
       "punteggio": -330,
       "pubblicato": "2026-10-23T09:06:20+00:00",
       "squadra": "Inter Milan"
-    },
-    {
-      "id": "3f04b8fa3a",
-      "titolo": "La Roma surclassa lo Slovan, ma il portiere slovacco non la prende bene e svela un retroscena: \"Prima del gol erano nervosi...\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152036823/la_roma_surclassa_lo_slovan_ma_il_portiere_dello_slovan_non_la_prende_bene_e_svela_un_retroscena_prima_del_gol_erano_nervo/",
-      "estratto": "Partita senza storia all'Olimpico, Takac: \"Partita molto difficile per noi, è un peccato\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": -330,
-      "pubblicato": "2026-10-21T07:43:26+00:00",
-      "squadra": "AS Roma"
-    },
-    {
-      "id": "684e724f8a",
-      "titolo": "Torino, Belghali: \"Gol da numero 10? Segreto di Abate e dell'aiuto di Vlasic\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-belghali-gol-numero-10-segreto-abate-aiuto-vlasic-2286559",
-      "estratto": "Il Torino piega il Monza 3-2 e infila il terzo successo consecutivo in Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -360,
-      "pubblicato": "2026-10-23T21:23:38+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "054f8a6e9e",
-      "titolo": "Juric non cerca alibi dopo il ko del Monza: \"Il Toro ha meritato, ha fatto meglio di noi\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juric-cerca-alibi-ko-monza-il-toro-meritato-noi-2286557",
-      "estratto": "Mister Ivan Juric, intervenuto a Sky Sport dopo la sconfitta col Torino per 3-2, ha commentato la prova del suo Monza.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -360,
-      "pubblicato": "2026-10-23T21:07:54+00:00",
-      "squadra": "Monza"
     },
     {
       "id": "45a5cd5825",
@@ -1023,6 +1056,18 @@
       "squadra": "Man United"
     },
     {
+      "id": "c055bf9f75",
+      "titolo": "Fabregas: \"Lasciare il Como sarebbe la mia fine. Aquilani? Quando ci siamo conosciuti in Serie B...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/10/23-152091733/fabregas_lasciare_il_como_sarebbe_la_mia_fine_aquilani_quando_ci_siamo_conosciuti_in_serie_b_/",
+      "estratto": "Il tecnico dei lariani elogia l'allenatore del Sassuolo: \"Suwarso parla bene di lui? Non significa niente\". Liberali e Kean ai box",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -360,
+      "pubblicato": "2026-10-23T15:30:24+00:00",
+      "squadra": "Como"
+    },
+    {
       "id": "dc3be26a2c",
       "titolo": "Il regolatore del calcio insiste: avrà il \"potere assoluto\" di costringere i proprietari del Man City a vendere se verrà dimostrato che hanno gestito il club \"in modo non idoneo né equo\"",
       "url": "https://www.dailymail.com/sport/football/article-16226029/Football-regulator-insists-absolute-power-force-Man-City-owners-sell-proven-run-club-way-neither-fit-nor-fair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1035,6 +1080,18 @@
       "squadra": "Man City"
     },
     {
+      "id": "6d467f5a81",
+      "titolo": "Allegri predica calma ma rischia di andare a -10 dalla Roma: Napoli a caccia di una svolta",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/allegri-predica-calma-rischia-andare-10-roma-napoli-caccia-svolta-2286531",
+      "estratto": "Si accendono le luci sul Maradona per il big match della 8^ giornata di campionato tra il Napoli e la Roma, in programma oggi, sabato 24 ottobre, alle ore 18:00.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -370,
+      "pubblicato": "2026-10-23T22:45:08+00:00",
+      "squadra": "AS Roma"
+    },
+    {
       "id": "3caf589112",
       "titolo": "Cristante torna a disposizione di Gasperini: la lista dei convocati per il Napoli",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/23-152093250/cristante_torna_a_disposizione_di_gasperini_la_lista_dei_convocati_per_il_napoli/",
@@ -1045,18 +1102,6 @@
       "punteggio": -370,
       "pubblicato": "2026-10-23T16:43:28+00:00",
       "squadra": "Napoli"
-    },
-    {
-      "id": "ed01550e37",
-      "titolo": "Diretta Champions League: il Como ospita il Manchester United nel match pomeridiano",
-      "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
-      "estratto": "Segui gli aggiornamenti in tempo reale, i risultati e gli highlights delle gare di Champions League di mercoledì, tra cui Bayern Monaco-Arsenal, Real Madrid-RB Leipzig e molte altre.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -380,
-      "pubblicato": "2026-10-21T21:48:32+00:00",
-      "squadra": "Como"
     },
     {
       "id": "3c7d1ca656",
@@ -1079,20 +1124,8 @@
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-10-23T21:21:45+00:00",
+      "pubblicato": "2026-10-23T21:47:04+00:00",
       "squadra": "Bayern"
-    },
-    {
-      "id": "b51ce50817",
-      "titolo": "Colpaccio del Vicenza a Empoli: Rauti e Pellizzari firmano il primo successo in trasferta",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/23-152093622/colpaccio_del_vicenza_a_empoli_rauti_e_pellizzari_firmano_il_primo_successo_in_trasferta/",
-      "estratto": "Nell'anticipo dell'8 giornata del campionato cadetto gli uomini di Gallo sbancano il Castellani: terzo ko interno consecutivo per i toscani di Andreoletti",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-10-23T20:21:44+00:00",
-      "squadra": "Vicenza"
     },
     {
       "id": "71427d0cfa",
@@ -1107,6 +1140,18 @@
       "squadra": "Barcelona"
     },
     {
+      "id": "59ec42f94d",
+      "titolo": "Andoni Iraola del Liverpool esorta Rio Ngumoha a non farsi distrarre dal \"rumore esterno\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50257971/liverpool-andoni-iraola-urges-rio-ngumoha-not-distracted-noise",
+      "estratto": "Il tecnico del Liverpool Andoni Iraola ha esortato Rio Ngumoha a non farsi distrarre dal rumore esterno in seguito alla sua impressionante prestazione contro il Villarreal.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -400,
+      "pubblicato": "2026-10-23T18:27:41+00:00",
+      "squadra": "Liverpool"
+    },
+    {
       "id": "f8c9824426",
       "titolo": "Roberto De Zerbi del Tottenham nega che i saccheggi del Chelsea ai danni della sua ex squadra, il Brighton, rappresentino una motivazione extra per il derby",
       "url": "https://www.espn.com/soccer/story/_/id/50258030/roberto-de-zerbi-tottenham-chelsea-derby-brighton-team-news-injury-news",
@@ -1117,18 +1162,6 @@
       "punteggio": -400,
       "pubblicato": "2026-10-23T18:26:20+00:00",
       "squadra": "Chelsea"
-    },
-    {
-      "id": "37788587d8",
-      "titolo": "'Tieni gli occhi sulla strada': il messaggio della nuova moglie di Diogo Jota al marito svelato nel suo straziante racconto di come si è consumata la tragica morte della stella del Liverpool in un incidente con la sua Lamborghini",
-      "url": "https://www.dailymail.com/sport/football/article-16229313/Diogo-Jota-wife-text-message-husband-heartbreaking-account-tragic-Liverpool-stars-death-unfolded.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "In una nuova biografia sul compianto attaccante del Liverpool, Cardoso ha spiegato di essersi scambiata messaggi con Jota poco dopo la sua partenza per la città spagnola di Santander insieme al fratello Andre Silva.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-10-22T17:25:29+00:00",
-      "squadra": "Liverpool"
     },
     {
       "id": "393c5b4a2a",
@@ -1143,15 +1176,15 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "8b5e48fbcf",
-      "titolo": "Allarme Juve, lesioni per Celik e Nico Gonzalez: il bollettino medico dopo il Rennes",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/23-152090090/allarme_juve_lesioni_per_celik_e_nico_gonzalez_il_bollettino_medico_dopo_il_rennes/",
-      "estratto": "Infermeria sempre più affollata in casa bianconera dopo la sfida di Europa League all'Allianz Stadium: come stanno e quando dovrebbero rientrare il terzino turco e l'attaccante argentino",
-      "fonte": "Corriere dello Sport",
+      "id": "50fd7effd8",
+      "titolo": "Antonio Conte rompe il silenzio sul suo futuro. Spoiler: né Juve né United, per adesso",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juve-man-united-attendono-antonio-conte-rompe-silenzio-2286529",
+      "estratto": "Antonio Conte rompe il silenzio e interviene per fare chiarezza sulle indiscrezioni che negli ultimi giorni lo hanno accostato a diverse panchine europee, in particolare alla Juventus e al Manchester United.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-10-23T13:47:55+00:00",
+      "pubblicato": "2026-10-23T22:52:34+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1179,18 +1212,6 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "a083fa4db8",
-      "titolo": "Torino, Vlasic euforico dopo il ritorno al gol: \"Abbiamo un grande futuro se continuiamo così\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-vlasic-euforico-ritorno-gol-abbiamo-continuiamo-cosi-2286563",
-      "estratto": "Tornato al gol dopo undici partite di astinenza, Nikola Vlasic ha parlato ai microfoni di Sky Sport al termine del successo del Torino contro il Monza per 3-1: \"Mi mancava il gol.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -560,
-      "pubblicato": "2026-10-23T21:15:29+00:00",
-      "squadra": "Torino"
-    },
-    {
       "id": "c7d011648a",
       "titolo": "Michael Carrick e Bruno Fernandes rientrano a casa all'1:30 di notte mentre il capitano del Manchester United è definito una 'vergogna assoluta', ma il tecnico rischia l'esonero, dice Jamie Carragher",
       "url": "https://www.dailymail.com/sport/football/article-16228935/Michael-Carrick-Bruno-Fernandes-drive-home-12-30am-Man-Uniteds-captain-called-absolute-disgrace-boss-faces-sack-says-Jamie-Carragher.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1201,6 +1222,18 @@
       "punteggio": -560,
       "pubblicato": "2026-10-22T14:23:31+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "2423ed431f",
+      "titolo": "Como a caccia di conferme all'interno del tour de force. Aquilani vuol fare lo sgambetto a Cesc",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/como-caccia-conferme-interno-tour-de-force-aquilani-vuol-sgambetto-cesc-2286480",
+      "estratto": "Per il Como sarà la quinta sfida in pochissimi giorni, quella che si giocherà quest'oggi contro il Sassuolo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -570,
+      "pubblicato": "2026-10-23T22:41:05+00:00",
+      "squadra": "Como"
     },
     {
       "id": "dc99ca9800",
@@ -1215,16 +1248,16 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "a9586c4751",
-      "titolo": "Clamoroso poker del Como, Fabregas porta a spasso il Manchester United. Tutte le reazioni Champions",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152043378/como-manchester_united_diretta_champions_league_le_ultime_sulle_formazioni_fabregas_pu_sognare/",
-      "estratto": "I lariani dominano con i Red Devils nell'incontro valido per la terza giornata del super girone: termina 4-1, doppietta di Nico Paz",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -580,
-      "pubblicato": "2026-10-21T15:00:00+00:00",
-      "squadra": "Como"
+      "id": "9a4f754cfe",
+      "titolo": "Come Enzo Maresca è uscito dall'ombra di Pep Guardiola al Man City: il \"fuoco\" nei discorsi alla squadra, i faccia a faccia con Phil Foden, il rifiuto dell'ufficio del vecchio mister e una nuova filosofia offensiva",
+      "url": "https://www.dailymail.com/sport/football/article-16230149/Enzo-Maresca-Manchester-City-Pep-Guardiola-Foden-office-tactics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Sostituire Pep Guardiola richiedeva di trovare un equilibrio tra continuità e cambiamento. Enzo Maresca ha spostato l'ago della bilancia senza far percepire i nuovi concetti come totalmente estranei. Questo è il trucco: un aggiornamento, non un reset",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -600,
+      "pubblicato": "2026-10-23T22:27:06+00:00",
+      "squadra": "Man City"
     },
     {
       "id": "7f57347f0b",
@@ -1275,16 +1308,16 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "9a4f754cfe",
-      "titolo": "Come Enzo Maresca è uscito dall'ombra di Pep Guardiola al Man City: il \"fuoco\" nei discorsi alla squadra, i faccia a faccia con Phil Foden, il rifiuto dell'ufficio del vecchio mister e una nuova filosofia offensiva",
-      "url": "https://www.dailymail.com/sport/football/article-16230149/Enzo-Maresca-Manchester-City-Pep-Guardiola-Foden-office-tactics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Sostituire Pep Guardiola richiedeva di trovare un equilibrio tra continuità e cambiamento. Enzo Maresca ha spostato l'ago della bilancia senza far percepire i nuovi concetti come totalmente estranei. Questo è il trucco: un aggiornamento, non un reset",
+      "id": "37788587d8",
+      "titolo": "'Tieni gli occhi sulla strada': il messaggio della nuova moglie di Diogo Jota al marito svelato nel suo straziante racconto di come si è consumata la tragica morte della stella del Liverpool in un incidente con la sua Lamborghini",
+      "url": "https://www.dailymail.com/sport/football/article-16229313/Diogo-Jota-wife-text-message-husband-heartbreaking-account-tragic-Liverpool-stars-death-unfolded.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "In una nuova biografia sul compianto attaccante del Liverpool, Cardoso ha spiegato di essersi scambiata messaggi con Jota poco dopo la sua partenza per la città spagnola di Santander insieme al fratello Andre Silva.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-10-23T09:32:45+00:00",
-      "squadra": "Man City"
+      "pubblicato": "2026-10-22T17:25:29+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "4f3024b3be",
@@ -1299,27 +1332,15 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "3fb5fc06aa",
-      "titolo": "La notte in cui Rio Ngumoha ha confermato il suo status di futuro fuoriclasse mondiale: il Liverpool aveva a disposizione un attacco da 400 milioni di sterline, ma è stato il diciottenne a brillare più di tutti nella caotica rimonta vincente, scrive LEWIS STEELE",
-      "url": "https://www.dailymail.com/sport/football/article-16223067/Rio-Ngumoha-shines-brightest-Liverpools-400m-attack-Teenager-stands-potential-world-beater-chaotic-comeback-win-writes-LEWIS-STEELE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "LEWIS STEELE AD ANFIELD: Al Man City la chiamavano la \"roulette di Pep\", quando Pep Guardiola riservava una sorpresa ogni fine settimana rivoluzionando la linea d'attacco con effetti devastanti.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -600,
-      "pubblicato": "2026-10-20T22:57:19+00:00",
-      "squadra": "Liverpool"
-    },
-    {
-      "id": "4b7fc596e6",
-      "titolo": "Infortuni Juve, Celik e Nico Gonzalez ko: per quanto li perde Spalletti. Esito esami e comunicato",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/23-152090349/infortuni_juve_celik_e_nico_gonzalez_ko_per_quanto_li_perde_spalletti_esito_esami_e_comunicato/",
-      "estratto": "Il tecnico bianconero dovrà fare a meno dei due giocatori per le prossime partite: quali match salteranno e quando torneranno",
-      "fonte": "Tuttosport",
+      "id": "a12f645e13",
+      "titolo": "Ecatombe Juventus, Spalletti perde anche Celik e Nico Gonzalez: salgono a 9 gli infortunati",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/ecatombe-juventus-spalletti-perde-celik-nico-gonzalez-salgono-9-infortunati-2286570",
+      "estratto": "Non è certo un momento fortunato per Luciano Spalletti, chiamato da un lato a risollevare una Juventus attardata in classifica e a recuperare terreno sulle dirette concorrenti, dall'altro a fare i conti con un'emergenza infortuni che si fa sempre più",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -650,
-      "pubblicato": "2026-10-23T13:47:11+00:00",
+      "pubblicato": "2026-10-23T22:49:21+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1335,18 +1356,6 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "d50007cd90",
-      "titolo": "Torino, Kulenovic: \"Da tanto non facevamo tre vittorie di fila, possiamo crescere ancora\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-kulenovic-tre-punti-importanti-vittorie-fila-2286558",
-      "estratto": "23.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -760,
-      "pubblicato": "2026-10-23T21:07:00+00:00",
-      "squadra": "Torino"
-    },
-    {
       "id": "5ad5555c2d",
       "titolo": "Ruben Amorim disinteressato a contribuire al dibattito sul Man United: \"Nulla da dire\"",
       "url": "https://www.espn.com/soccer/story/_/id/50241962/ruben-amorim-uninterested-contributing-man-united-discourse-say-ac-milan",
@@ -1359,15 +1368,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "1856841e78",
-      "titolo": "Calciomercato, le voci: il Como di Paz ha steso il Manchester United, ora i Red Devils vogliono acquistarlo",
-      "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
-      "estratto": "Il Manchester United sta monitorando il trequartista del Como Nico Paz in vista della prossima stagione, mentre anche il Chelsea mostra forte interesse. Tutte le ultime novità in Transfer Talk.",
+      "id": "ed01550e37",
+      "titolo": "Diretta Champions League: il Como ospita il Manchester United nel match pomeridiano",
+      "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
+      "estratto": "Segui gli aggiornamenti in tempo reale, i risultati e gli highlights delle gare di Champions League di mercoledì, tra cui Bayern Monaco-Arsenal, Real Madrid-RB Leipzig e molte altre.",
       "fonte": "ESPN",
-      "serie": "Estero",
+      "serie": "Champions",
       "citazione": false,
-      "punteggio": -800,
-      "pubblicato": "2026-10-23T18:39:43+00:00",
+      "punteggio": -780,
+      "pubblicato": "2026-10-21T21:48:32+00:00",
       "squadra": "Como"
     },
     {
@@ -1443,15 +1452,15 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "55fb28e4ad",
-      "titolo": "De Ligt torna finalmente in campo: l'ex Juve titolare contro il Como quasi un anno dopo l'ultima volta",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152045216/de_ligt_torna_finalmente_in_campo_l_ex_juve_titolare_contro_il_como_quasi_un_anno_dopo_l_ultima_volta/",
-      "estratto": "Il difensore olandese debutta in Champions League: ecco da quando non scendeva sul terreno di gioco",
+      "id": "8b5e48fbcf",
+      "titolo": "Allarme Juve, lesioni per Celik e Nico Gonzalez: il bollettino medico dopo il Rennes",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/23-152090090/allarme_juve_lesioni_per_celik_e_nico_gonzalez_il_bollettino_medico_dopo_il_rennes/",
+      "estratto": "Infermeria sempre più affollata in casa bianconera dopo la sfida di Europa League all'Allianz Stadium: come stanno e quando dovrebbero rientrare il terzino turco e l'attaccante argentino",
       "fonte": "Corriere dello Sport",
-      "serie": "Champions",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": -850,
-      "pubblicato": "2026-10-21T16:23:46+00:00",
+      "pubblicato": "2026-10-23T13:47:55+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1479,16 +1488,16 @@
       "squadra": "Man United"
     },
     {
-      "id": "27a69a8dc9",
-      "titolo": "Serie A, la classifica aggiornata: il Torino supera la Juventus e entra in zona Europa",
-      "url": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-torino-supera-juventus-entra-zona-europa-2286552",
-      "estratto": "Il Torino non si ferma più e piega 3-1 anche il Monza nell'anticipo della ottava giornata del campionato italiano di Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
+      "id": "a9586c4751",
+      "titolo": "Clamoroso poker del Como, Fabregas porta a spasso il Manchester United. Tutte le reazioni Champions",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152043378/como-manchester_united_diretta_champions_league_le_ultime_sulle_formazioni_fabregas_pu_sognare/",
+      "estratto": "I lariani dominano con i Red Devils nell'incontro valido per la terza giornata del super girone: termina 4-1, doppietta di Nico Paz",
+      "fonte": "Tuttosport",
+      "serie": "Champions",
       "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-10-23T20:53:13+00:00",
-      "squadra": "Torino"
+      "punteggio": -980,
+      "pubblicato": "2026-10-21T15:00:00+00:00",
+      "squadra": "Como"
     },
     {
       "id": "c802939669",
@@ -1501,18 +1510,6 @@
       "punteggio": -1000,
       "pubblicato": "2026-10-23T16:06:22+00:00",
       "squadra": "Bayern"
-    },
-    {
-      "id": "f25819d45f",
-      "titolo": "Douvikas è l'oro del Como: va a segno quasi in ogni partita",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/10/23-152084658/douvikas_l_oro_del_como_va_a_segno_quasi_in_ogni_partita/",
-      "estratto": "Nonostante la concorrenza di Kean, realizza un gol ogni 166’",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-10-23T07:20:17+00:00",
-      "squadra": "Como"
     },
     {
       "id": "969956deed",
@@ -1575,6 +1572,18 @@
       "squadra": "Barcelona"
     },
     {
+      "id": "4b7fc596e6",
+      "titolo": "Infortuni Juve, Celik e Nico Gonzalez ko: per quanto li perde Spalletti. Esito esami e comunicato",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/23-152090349/infortuni_juve_celik_e_nico_gonzalez_ko_per_quanto_li_perde_spalletti_esito_esami_e_comunicato/",
+      "estratto": "Il tecnico bianconero dovrà fare a meno dei due giocatori per le prossime partite: quali match salteranno e quando torneranno",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1050,
+      "pubblicato": "2026-10-23T13:47:11+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "59a9c9abf5",
       "titolo": "Erik ten Hag attacca gli opinionisti: l'ex tecnico del Man United insiste che le leggende del club \"non sanno cosa succede\" a Old Trafford e cercano solo di \"proteggere la propria reputazione\"",
       "url": "https://www.dailymail.com/sport/football/article-16225837/Erik-ten-Hag-pundits-Man-United-dont-know-whats-going-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1585,18 +1594,6 @@
       "punteggio": -1160,
       "pubblicato": "2026-10-21T09:11:03+00:00",
       "squadra": "Man United"
-    },
-    {
-      "id": "606c2c41c0",
-      "titolo": "Torino più forte di errori e autogol, tris al Monza e Juve scavalcata: come cambia la classifica",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/23-152095837/torino_pi_forte_di_errori_e_autogol_tris_al_monza_e_juve_scavalcata_come_cambia_la_classifica/",
-      "estratto": "Terza vittoria consecutiva per la squadra di Abate, che si impone 3-2 contro l'ex Juric e sale nelle zone nobili del campionato",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1170,
-      "pubblicato": "2026-10-23T20:47:13+00:00",
-      "squadra": "Torino"
     },
     {
       "id": "0a32b458e0",
@@ -1611,15 +1608,15 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "c7b4b2aad9",
-      "titolo": "Rivelato: Cesc Fàbregas ha detto ai giocatori del Como di avere PIETÀ di un Manchester United malconcio, lasciando il punteggio sul 4-1 invece di infierire",
-      "url": "https://www.dailymail.com/sport/football/article-16228995/cesc-fabregas-como-manchester-united-mercy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Cesc Fàbregas ha rivelato di aver detto ai suoi giocatori di rallentare contro il Manchester United durante la loro umiliazione in Champions League per mano del Como in Italia mercoledì notte.",
-      "fonte": "Daily Mail",
+      "id": "1856841e78",
+      "titolo": "Calciomercato, le voci: il Como di Paz ha steso il Manchester United, ora i Red Devils vogliono acquistarlo",
+      "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
+      "estratto": "Il Manchester United sta monitorando il trequartista del Como Nico Paz in vista della prossima stagione, mentre anche il Chelsea mostra forte interesse. Tutte le ultime novità in Transfer Talk.",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1200,
-      "pubblicato": "2026-10-22T14:24:40+00:00",
+      "pubblicato": "2026-10-23T18:39:43+00:00",
       "squadra": "Como"
     },
     {
@@ -1683,15 +1680,27 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "edeb694aac",
-      "titolo": "Gasperini: “United e Psg in trasferta? Ogni volta rischiamo di perdere qualcuno…”",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/20-152033927/gasperini_united_e_psg_in_trasferta_ogni_volta_rischiamo_di_perdere_qualcuno/",
-      "estratto": "Il tecnico della Roma ha parlato al termine della rotonda vittoria contro lo Slovan Bratislava, la prima in questa edizione della Champions League. E sui prossimi impegni...",
-      "fonte": "Tuttosport",
+      "id": "55fb28e4ad",
+      "titolo": "De Ligt torna finalmente in campo: l'ex Juve titolare contro il Como quasi un anno dopo l'ultima volta",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152045216/de_ligt_torna_finalmente_in_campo_l_ex_juve_titolare_contro_il_como_quasi_un_anno_dopo_l_ultima_volta/",
+      "estratto": "Il difensore olandese debutta in Champions League: ecco da quando non scendeva sul terreno di gioco",
+      "fonte": "Corriere dello Sport",
       "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1250,
+      "pubblicato": "2026-10-21T16:23:46+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "2eb4c3cd43",
+      "titolo": "\"È una combinazione di tutto!\": Youri Tielemans accusa lo spogliatoio del Manchester United di mancanza di impegno, mentre emerge UN'ALTRA intervista schiacciante di Bruno Fernandes sul vivere \"nel passato\" dopo l'umiliazione di Como",
+      "url": "https://www.dailymail.com/sport/football/article-16229003/Its-combination-Youri-Tielemans-accuses-Man-United-dressing-room-lacking-effort-admits-technical-tactical-areas-need-improve-Como-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Youri Tielemans ha fatto la clamorosa ammissione che c'è una mancanza di impegno all'interno dello spogliatoio del Manchester United, tra gli altri problemi, mentre continua la scia polemica per la disfatta di Como.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": true,
-      "punteggio": -1360,
-      "pubblicato": "2026-10-20T21:39:00+00:00",
+      "punteggio": -1370,
+      "pubblicato": "2026-10-22T15:00:06+00:00",
       "squadra": "Man United"
     },
     {
@@ -1707,27 +1716,15 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "7b4f984de9",
-      "titolo": "Torino-Monza 3-2: il tabellino della gara",
-      "url": "https://www.tuttomercatoweb.com/altre-notizie/torino-monza-3-2-tabellino-gara-2286560",
-      "estratto": "Ecco di seguito il tabellino della gara: Torino (3-5-2): Perri; Coco, Ismajli, Comuzzo; Belghali (39’ st Aboukhlal), Vlasic, Mandragora (6’ st Gineitis), Fitz-Jim (26’ st Bragança), Cacciamani (26’ st Patterson); Simeone (26’ st Kulenovic), Adams....",
-      "fonte": "TMW",
+      "id": "f25819d45f",
+      "titolo": "Douvikas è l'oro del Como: va a segno quasi in ogni partita",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/10/23-152084658/douvikas_l_oro_del_como_va_a_segno_quasi_in_ogni_partita/",
+      "estratto": "Nonostante la concorrenza di Kean, realizza un gol ogni 166’",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1400,
-      "pubblicato": "2026-10-23T21:22:18+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "61bc2f0ba0",
-      "titolo": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
-      "url": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
-      "estratto": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": -1400,
-      "pubblicato": "2026-10-22T13:55:57+00:00",
+      "pubblicato": "2026-10-23T07:20:17+00:00",
       "squadra": "Como"
     },
     {
@@ -1767,51 +1764,27 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "b1fe9586c9",
-      "titolo": "Perché i tifosi irriducibili del Manchester City stanno impazzendo: l'ex attaccante Imre Varadi sul suo gigantesco frutto gonfiabile registrato e basato sul suo celebre soprannome da curva... con il club pronto a ordinarne altri 30.000!",
-      "url": "https://www.dailymail.com/sport/football/article-16223667/Why-defiant-Man-City-fans-going-bananas-former-forward-Imre-Varadi-trademarked-giant-inflatable-fruit-based-famous-terrace-nickname-club-set-order-30-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Le banane sono tornate di moda e Imre Varadi è un uomo molto richiesto. \"Il telefono continua a squillare\", spiega, e puntuale il suo apparecchio vibra e si illumina con un altro messaggio.",
+      "id": "37a3bf4f8d",
+      "titolo": "Il capitano del Manchester United Bruno Fernandes mette in discussione le tattiche del tecnico Michael Carrick dopo l'umiliazione in Champions League a Como",
+      "url": "https://www.dailymail.com/sport/football/article-16227947/Man-United-captain-Bruno-Fernandes-questions-manager-Michael-Carricks-tactics-wake-Champions-League-humiliation-Como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il capitano del Manchester United Bruno Fernandes ha messo in discussione le tattiche di Michael Carrick sulla scia dell'umiliazione subita dal club in Champions League a Como.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1400,
-      "pubblicato": "2026-10-20T22:40:00+00:00",
-      "squadra": "Man City"
-    },
-    {
-      "id": "2eb4c3cd43",
-      "titolo": "\"È una combinazione di tutto!\": Youri Tielemans accusa lo spogliatoio del Manchester United di mancanza di impegno, mentre emerge UN'ALTRA intervista schiacciante di Bruno Fernandes sul vivere \"nel passato\" dopo l'umiliazione di Como",
-      "url": "https://www.dailymail.com/sport/football/article-16229003/Its-combination-Youri-Tielemans-accuses-Man-United-dressing-room-lacking-effort-admits-technical-tactical-areas-need-improve-Como-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Youri Tielemans ha fatto la clamorosa ammissione che c'è una mancanza di impegno all'interno dello spogliatoio del Manchester United, tra gli altri problemi, mentre continua la scia polemica per la disfatta di Como.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -1570,
-      "pubblicato": "2026-10-22T15:00:06+00:00",
+      "punteggio": -1580,
+      "pubblicato": "2026-10-22T07:20:40+00:00",
       "squadra": "Man United"
     },
     {
-      "id": "09b20d982e",
-      "titolo": "Abate fa tre di fila in Serie A: l'ultimo col Torino era stato Mazzarri nel 2019. E alla fine fu Europa",
-      "url": "https://www.tuttomercatoweb.com/serie-a/abate-fila-serie-a-torino-mazzarri-2019-europa-2286540",
-      "estratto": "Abate lo aveva promesso nel prepartita: \"Voglio una squadra leggera e aggressiva\".",
-      "fonte": "TMW",
-      "serie": "Serie A",
+      "id": "c7b4b2aad9",
+      "titolo": "Rivelato: Cesc Fàbregas ha detto ai giocatori del Como di avere PIETÀ di un Manchester United malconcio, lasciando il punteggio sul 4-1 invece di infierire",
+      "url": "https://www.dailymail.com/sport/football/article-16228995/cesc-fabregas-como-manchester-united-mercy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Cesc Fàbregas ha rivelato di aver detto ai suoi giocatori di rallentare contro il Manchester United durante la loro umiliazione in Champions League per mano del Como in Italia mercoledì notte.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -1600,
-      "pubblicato": "2026-10-23T21:00:02+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "11c3f01b9a",
-      "titolo": "Cesc Fàbregas: Ho detto ai giocatori del Como di 'rallentare' nelle fasi finali della vittoria contro il Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
-      "estratto": "L'allenatore del Como Cesc Fàbregas ha dichiarato di essersi pentito di aver detto ai suoi giocatori di tirare il remare in barca verso la fine della loro celebre vittoria per 4-1 contro un Manchester United in crisi.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1600,
-      "pubblicato": "2026-10-22T11:25:59+00:00",
+      "pubblicato": "2026-10-22T14:24:40+00:00",
       "squadra": "Como"
     },
     {
@@ -1851,51 +1824,27 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "e7fd98b200",
-      "titolo": "Lo show di Phil Foden davanti a 20.000 seggiolini vuoti all'Etihad: l'eroe della tripletta del Man City ritrova lo smalto e la determinazione che gli erano mancati la scorsa stagione, candidandosi con stile, scrive JACK GAUGHAN",
-      "url": "https://www.dailymail.com/sport/football/article-16223069/Man-City-5-1-AEK-Athens-Phil-Foden-JACK-GAUGHAN-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN ALL'ETIHAD: Mentre tutti gli occhi sono puntati su come il Man City sostituirà Erling Haaland, Phil Foden ha detto la sua su chi debba rimpiazzare Antoine Semenyo sulla fascia destra.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1600,
-      "pubblicato": "2026-10-20T22:20:06+00:00",
-      "squadra": "Man City"
-    },
-    {
-      "id": "37a3bf4f8d",
-      "titolo": "Il capitano del Manchester United Bruno Fernandes mette in discussione le tattiche del tecnico Michael Carrick dopo l'umiliazione in Champions League a Como",
-      "url": "https://www.dailymail.com/sport/football/article-16227947/Man-United-captain-Bruno-Fernandes-questions-manager-Michael-Carricks-tactics-wake-Champions-League-humiliation-Como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il capitano del Manchester United Bruno Fernandes ha messo in discussione le tattiche di Michael Carrick sulla scia dell'umiliazione subita dal club in Champions League a Como.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1780,
-      "pubblicato": "2026-10-22T07:20:40+00:00",
-      "squadra": "Man United"
-    },
-    {
-      "id": "d26c961362",
-      "titolo": "Il Torino cala il tris: Fitz-Jim, Belghali e Vlasic lanciano Abate. Al Monza non basta Varela",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/23-152092764/il_torino_cala_il_tris_fitz-jim_belghali_e_vlasic_lanciano_abate_al_monza_non_basta_varela/",
-      "estratto": "Nell'anticipo dell'8ª giornata di Serie A, i granata si impongono con il punteggio di 3-2 ed ottengono il terzo successo consecutivo in campionato",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1800,
-      "pubblicato": "2026-10-23T20:41:59+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "c5338f2878",
-      "titolo": "Chi è il Como? Il club della meta di vacanze che ha appena steso il Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
-      "estratto": "Sette anni fa il Como era una squadra di dilettanti. Ora sono un club di Champions League con un marchio nato dalla reputazione della città come meta di vacanza.",
+      "id": "567fc82aaf",
+      "titolo": "Temi caldi di Champions League: Che cosa pensare del caos al Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50239980/champions-league-talking-points-make-man-utd-mess",
+      "estratto": "Gab Marcotti, Sam Tighe, Beth Lindop e Mark Ogden analizzano una notte estremamente imbarazzante per il Manchester United, oltre a tutti gli altri momenti chiave della terza giornata.",
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
+      "punteggio": -1780,
+      "pubblicato": "2026-10-22T00:44:12+00:00",
+      "squadra": "Man United"
+    },
+    {
+      "id": "61bc2f0ba0",
+      "titolo": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
+      "url": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
+      "estratto": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": true,
       "punteggio": -1800,
-      "pubblicato": "2026-10-22T07:47:14+00:00",
+      "pubblicato": "2026-10-22T13:55:57+00:00",
       "squadra": "Como"
     },
     {
@@ -1911,27 +1860,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "567fc82aaf",
-      "titolo": "Temi caldi di Champions League: Che cosa pensare del caos al Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50239980/champions-league-talking-points-make-man-utd-mess",
-      "estratto": "Gab Marcotti, Sam Tighe, Beth Lindop e Mark Ogden analizzano una notte estremamente imbarazzante per il Manchester United, oltre a tutti gli altri momenti chiave della terza giornata.",
-      "fonte": "ESPN",
-      "serie": "Champions",
+      "id": "7b87df7362",
+      "titolo": "Il portiere del Manchester United André Onana illeso dopo un terribile maxitamponamento in Turchia con la sua auto da 100mila sterline",
+      "url": "https://www.dailymail.com/sport/football/article-16234553/Andre-Onana-car-crash-Turkey-Man-United-loan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il portiere del Manchester United in prestito André Onana è miracolosamente sfuggito a gravi conseguenze in seguito a un terribile incidente stradale in Turchia.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": false,
-      "punteggio": -1980,
-      "pubblicato": "2026-10-22T00:44:12+00:00",
+      "punteggio": -2000,
+      "pubblicato": "2026-10-23T23:14:24+00:00",
       "squadra": "Man United"
     },
     {
-      "id": "a0c8d6a996",
-      "titolo": "Dominio Como, poker clamoroso contro il Manchester United: Nico Paz show, in gol Douvikas e Ramon",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152044716/dominio_como_poker_clamoroso_contro_il_manchester_united_nico_paz_show_in_gol_douvikas_e_ramon/",
-      "estratto": "Al Sinigaglia i lariani travolgono i Red Devils: serata da ricordare per la squadra di Fabregas, crisi nera per Carrick",
-      "fonte": "Corriere dello Sport",
+      "id": "11c3f01b9a",
+      "titolo": "Cesc Fàbregas: Ho detto ai giocatori del Como di 'rallentare' nelle fasi finali della vittoria contro il Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
+      "estratto": "L'allenatore del Como Cesc Fàbregas ha dichiarato di essersi pentito di aver detto ai suoi giocatori di tirare il remare in barca verso la fine della loro celebre vittoria per 4-1 contro un Manchester United in crisi.",
+      "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -2000,
-      "pubblicato": "2026-10-21T18:40:58+00:00",
+      "pubblicato": "2026-10-22T11:25:59+00:00",
       "squadra": "Como"
     },
     {
@@ -1959,15 +1908,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "080f274c05",
-      "titolo": "Come due magnati del tabacco, il legame unico di Cesc Fabregas, un ex duro del calcio inglese e il \"modello Disney\" hanno ispirato la straordinaria ascesa del Como prima del big match col Manchester United",
-      "url": "https://www.dailymail.com/sport/football/article-16208313/How-two-tobacco-tycoons-Cesc-Fabregas-unique-link-former-England-hardman-Disney-model-inspired-Comos-remarkable-rise-ahead-Manchester-United-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Appena sette anni fa militava in Serie D, il quarto livello del calcio italiano, dopo aver subito tre fallimenti tra il 2004 e il 2017.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
+      "id": "c5338f2878",
+      "titolo": "Chi è il Como? Il club della meta di vacanze che ha appena steso il Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
+      "estratto": "Sette anni fa il Como era una squadra di dilettanti. Ora sono un club di Champions League con un marchio nato dalla reputazione della città come meta di vacanza.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
       "punteggio": -2200,
-      "pubblicato": "2026-10-21T15:57:51+00:00",
+      "pubblicato": "2026-10-22T07:47:14+00:00",
       "squadra": "Como"
     },
     {
@@ -1983,6 +1932,18 @@
       "squadra": "Man United"
     },
     {
+      "id": "a0c8d6a996",
+      "titolo": "Dominio Como, poker clamoroso contro il Manchester United: Nico Paz show, in gol Douvikas e Ramon",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/21-152044716/dominio_como_poker_clamoroso_contro_il_manchester_united_nico_paz_show_in_gol_douvikas_e_ramon/",
+      "estratto": "Al Sinigaglia i lariani travolgono i Red Devils: serata da ricordare per la squadra di Fabregas, crisi nera per Carrick",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -2400,
+      "pubblicato": "2026-10-21T18:40:58+00:00",
+      "squadra": "Como"
+    },
+    {
       "id": "73d3aa2430",
       "titolo": "L'ex stella del Manchester United Brandon Williams passa a una squadra di League Two, nel tentativo di rilanciare la sua carriera dopo la condanna per guida pericolosa",
       "url": "https://www.dailymail.com/sport/football/article-16233933/Former-Man-United-star-Brandon-Williams-joins-League-Two-attempts-rebuild-career-dangerous-driving-charge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1993,6 +1954,18 @@
       "punteggio": -2600,
       "pubblicato": "2026-10-23T18:36:11+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "080f274c05",
+      "titolo": "Come due magnati del tabacco, il legame unico di Cesc Fabregas, un ex duro del calcio inglese e il \"modello Disney\" hanno ispirato la straordinaria ascesa del Como prima del big match col Manchester United",
+      "url": "https://www.dailymail.com/sport/football/article-16208313/How-two-tobacco-tycoons-Cesc-Fabregas-unique-link-former-England-hardman-Disney-model-inspired-Comos-remarkable-rise-ahead-Manchester-United-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Appena sette anni fa militava in Serie D, il quarto livello del calcio italiano, dopo aver subito tre fallimenti tra il 2004 e il 2017.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -2600,
+      "pubblicato": "2026-10-21T15:57:51+00:00",
+      "squadra": "Como"
     },
     {
       "id": "41c8cf706e",
@@ -2199,18 +2172,6 @@
       "squadra": "Man United"
     },
     {
-      "id": "2f9df1a685",
-      "titolo": "I giocatori del Manchester United ottengono il giorno libero giovedì nonostante la disfatta contro il Como - fonti",
-      "url": "https://www.espn.com/soccer/story/_/id/50247083/man-united-players-day-como-thrashing",
-      "estratto": "La rosa della prima squadra del Manchester United tornerà ad allenarsi venerdì dopo aver ricevuto un giorno di riposo oggi in seguito all'umiliante sconfitta per 4-1 in Champions League contro il Como, hanno riferito alcune fonti a ESPN.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -6200,
-      "pubblicato": "2026-10-22T16:01:23+00:00",
-      "squadra": "Man United"
-    },
-    {
       "id": "2a4070a361",
       "titolo": "Michael Carrick guiderà il Manchester United contro il Bournemouth tra le pressioni: le fonti",
       "url": "https://www.espn.com/soccer/story/_/id/50246991/michael-carrick-man-united-future-bournemouth",
@@ -2218,7 +2179,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6400,
+      "punteggio": -6200,
       "pubblicato": "2026-10-22T15:57:29+00:00",
       "squadra": "Man United"
     },
@@ -2230,7 +2191,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -6600,
+      "punteggio": -6400,
       "pubblicato": "2026-10-22T15:46:12+00:00",
       "squadra": "Man United"
     },
@@ -2242,7 +2203,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6800,
+      "punteggio": -6600,
       "pubblicato": "2026-10-22T14:24:55+00:00",
       "squadra": "Man United"
     },
@@ -2254,7 +2215,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7000,
+      "punteggio": -6800,
       "pubblicato": "2026-10-22T14:24:48+00:00",
       "squadra": "Man United"
     },
@@ -2266,7 +2227,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7200,
+      "punteggio": -7000,
       "pubblicato": "2026-10-22T14:24:32+00:00",
       "squadra": "Man United"
     },
@@ -2278,7 +2239,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7400,
+      "punteggio": -7200,
       "pubblicato": "2026-10-22T14:24:12+00:00",
       "squadra": "Man United"
     },
@@ -2290,7 +2251,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7600,
+      "punteggio": -7400,
       "pubblicato": "2026-10-22T14:23:20+00:00",
       "squadra": "Man United"
     },
@@ -2302,7 +2263,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7800,
+      "punteggio": -7600,
       "pubblicato": "2026-10-22T14:23:11+00:00",
       "squadra": "Man United"
     },
@@ -2312,9 +2273,9 @@
       "url": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
       "estratto": "Di chi è la colpa al Manchester United?",
       "fonte": "ESPN",
-      "serie": "Estero",
+      "serie": "Champions",
       "citazione": false,
-      "punteggio": -8000,
+      "punteggio": -7800,
       "pubblicato": "2026-10-22T10:28:31+00:00",
       "squadra": "Man United"
     },
@@ -2326,7 +2287,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8200,
+      "punteggio": -8000,
       "pubblicato": "2026-10-22T09:13:59+00:00",
       "squadra": "Man United"
     },
@@ -2338,7 +2299,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -8400,
+      "punteggio": -8200,
       "pubblicato": "2026-10-22T07:59:15+00:00",
       "squadra": "Man United"
     },
@@ -2350,7 +2311,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -8600,
+      "punteggio": -8400,
       "pubblicato": "2026-10-21T22:50:24+00:00",
       "squadra": "Man United"
     },
@@ -2362,7 +2323,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8800,
+      "punteggio": -8600,
       "pubblicato": "2026-10-21T10:09:07+00:00",
       "squadra": "Man United"
     }

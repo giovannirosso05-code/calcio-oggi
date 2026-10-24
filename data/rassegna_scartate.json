@@ -1,15 +1,60 @@
 {
-  "aggiornato": "2026-10-23T21:36:22.175763+00:00",
-  "totale": 55,
+  "aggiornato": "2026-10-24T00:02:55.543367+00:00",
+  "totale": 57,
   "articoli": [
     {
-      "id": "9656061bb0",
-      "titolo": "Premier League, Milenkovic condanna il Nottingham Forest al pari: Enciso-gol per l'Ipswich",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/premier-league-milenkovic-condanna-nottingham-forest-pari-enciso-gol-ipswich-2286568",
-      "estratto": "Non basta creare tanto al Nottingham Forest, fermato sull'1-1 in trasferta dall'Ipswich al termine di una partita largamente dominata.",
+      "id": "d6d2abf22f",
+      "titolo": "Il Nottingham Forest recrimina per il cartellino rosso \"errato\" e le occasioni sprecate nel pareggio con l'Ipswich",
+      "url": "https://www.espn.com/soccer/story/_/id/50261284/nottingham-forest-ipswich-town-red-card-issa-diop",
+      "estratto": "Il Nottingham Forest ha contestato la decisione dell'arbitro di non lasciare l'Ipswich Town in dieci uomini nel secondo tempo, oltre a diverse occasioni fallite sotto porta, dopo l'1-1 a Portman Road.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T23:13:21+00:00"
+    },
+    {
+      "id": "d0e8fa019c",
+      "titolo": "Roberto De Zerbi difende lo staff medico \"di alto livello\" del Tottenham nel pieno dell'emergenza infortuni",
+      "url": "https://www.espn.com/soccer/story/_/id/50261206/roberto-de-zerbi-spurs-medical-staff-injury-crisis",
+      "estratto": "Roberto De Zerbi ha difeso lo staff medico del Tottenham nonostante la persistente emergenza infortuni.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T22:50:36+00:00"
+    },
+    {
+      "id": "8882752d2e",
+      "titolo": "Scally segna e aiuta il Borussia Mönchengladbach a evitare il peggior avvio di sempre in Bundesliga",
+      "url": "https://www.espn.com/soccer/story/_/id/50261060/borussia-monchengladbach-joe-scally-bundesliga-usa",
+      "estratto": "Il Borussia Mönchengladbach ha evitato di diventare la prima squadra nella storia della Bundesliga a perdere le prime sette partite consecutive della stagione, grazie alla vittoria per 3-2 in casa dello Stoccarda venerdì.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T22:47:13+00:00"
+    },
+    {
+      "id": "8352b62b74",
+      "titolo": "Ravenna, ufficiale il ritorno in campo di Ronaldinho: giocherà il derby contro il Forlì",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/ravenna-ufficiale-ritorno-campo-ronaldinho-giochera-derby-forli-2286464",
+      "estratto": "È iniziato il countdown per il ritorno in campo di Ronaldinho, a oltre dieci anni dall'ultima partita ufficiale disputata.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-10-23T21:19:34+00:00"
+      "pubblicato": "2026-10-23T22:34:44+00:00"
+    },
+    {
+      "id": "2523b0b126",
+      "titolo": "Come John Murtough rilancerà la missione in Premier League del Birmingham City: taglio degli errori costosi, rubrica di contatti d'élite e rivoluzione del settore giovanile",
+      "url": "https://www.dailymail.com/sport/football/article-16232663/birmingham-city-john-murtough-director-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "John Murtough sarà il nuovo direttore sportivo del Birmingham: per lui si tratta del primo incarico nel calcio inglese dopo l'addio al Manchester United.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T22:18:26+00:00"
+    },
+    {
+      "id": "5f099874d3",
+      "titolo": "L'Alaves si salva in extremis: sfuma la prima vittoria del Malaga",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/23-152093624/l_alaves_si_salva_in_extremis_sfuma_la_prima_vittoria_del_malaga/",
+      "estratto": "L'anticipo della decima giornata di Liga finisce in parità: Aitor Manas risponde a Nino",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-23T21:27:29+00:00"
     },
     {
       "id": "e25887b8d1",
@@ -19,15 +64,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-23T21:19:10+00:00"
-    },
-    {
-      "id": "8774bb99ff",
-      "titolo": "Il Malaga interrompe la serie di sconfitte in Liga. Ma l'Alaves lo riprende nel finale: è 1-1",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/malaga-interrompe-serie-sconfitte-liga-alaves-riprende-finale-1-1-2286562",
-      "estratto": "Dopo una lunga serie di sconfitte, il Malaga torna finalmente a conquistare punti nella Liga, pareggiando 1-1 sul campo dell'Alaves.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T21:11:27+00:00"
     },
     {
       "id": "ed3e493302",
@@ -64,15 +100,6 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "pubblicato": "2026-10-23T20:59:13+00:00"
-    },
-    {
-      "id": "2fd1f1af3a",
-      "titolo": "Ligue 1, rimonta del Nizza a Brest: Diop firma il 2-1, Diouf para un rigore nel recupero",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/ligue-1-rimonta-nizza-brest-diop-firma-2-1-diouf-para-rigore-recupero-2286555",
-      "estratto": "Vittoria in rimonta per il Nizza, che espugna 2-1 il campo del Brest nell'anticipo dell'ottava giornata di Ligue 1.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T20:56:00+00:00"
     },
     {
       "id": "0762459ee5",
@@ -145,15 +172,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-23T15:14:52+00:00"
-    },
-    {
-      "id": "2523b0b126",
-      "titolo": "Come John Murtough rilancerà la missione in Premier League del Birmingham City: taglio degli errori costosi, rubrica di contatti d'élite e rivoluzione del settore giovanile",
-      "url": "https://www.dailymail.com/sport/football/article-16232663/birmingham-city-john-murtough-director-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "John Murtough sarà il nuovo direttore sportivo del Birmingham: per lui si tratta del primo incarico nel calcio inglese dopo l'addio al Manchester United.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T13:53:57+00:00"
     },
     {
       "id": "d1fe72640e",
