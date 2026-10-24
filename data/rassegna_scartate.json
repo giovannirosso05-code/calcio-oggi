@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-10-24T21:40:39.137107+00:00",
-  "totale": 57,
+  "aggiornato": "2026-10-24T23:44:38.095607+00:00",
+  "totale": 51,
   "articoli": [
+    {
+      "id": "de0c38a7df",
+      "titolo": "25 ottobre 1998, il primo derby d'Italia dopo il mancato rigore di Ceccarini: sempre 1-0",
+      "url": "https://www.tuttomercatoweb.com/accadde-oggi/25-ottobre-1998-derby-italia-mancato-rigore-ceccarini-1-0-2285967",
+      "estratto": "Il 25 ottobre del 1998, al Delle Alpi di Torino, si gioca Juventus-Inter.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T22:00:02+00:00"
+    },
+    {
+      "id": "8d79d9f9d7",
+      "titolo": "Koleosho in gol, ma il Paris Fc cade a Lens: rimonta firmata da Thauvin e Hazard",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/10/24-152121834/koleosho_in_gol_ma_il_paris_fc_cade_a_lens_rimonta_firmata_da_thauvin_e_hazard/",
+      "estratto": "Vana la rete dell'azzurro nell'anticipo dell'8ª giornata di Ligue 1, vinto 2-1 dai giallorossi con gli acuti dell'ex Udinese e del belga: i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T21:40:22+00:00"
+    },
     {
       "id": "874c64795a",
       "titolo": "Baur ammette che il rendimento europeo del Celtic è innegabile, ma è fiducioso che il club ritroverà la rotta",
@@ -10,15 +28,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-24T21:30:46+00:00"
-    },
-    {
-      "id": "6109c96f37",
-      "titolo": "Koleosho si sblocca, ma Thauvin ferma il volo del Paris FC: il Lens passa 2-1",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/koleosho-sblocca-thauvin-ferma-volo-paris-fc-lens-passa-2-1-2286889",
-      "estratto": "Il Paris FC degli italiani frena il suo volo: contro il Lens, in trasferta, si sblocca Koleosho che segna nel recupero del primo tempo con un destro dal limite, ma nella ripresa l'ex Udinese Thauvin fa 1-1 e Thorgan Hazard completa la rimonta sigland",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T21:04:00+00:00"
     },
     {
       "id": "3aa348df1c",
@@ -100,15 +109,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-24T17:42:57+00:00"
-    },
-    {
-      "id": "5bf4a03ef3",
-      "titolo": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
-      "url": "https://www.espn.com/video/clip/_/id/50267261/did-arsenal-prioritise-result-performance-vs-everton",
-      "estratto": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T17:38:30+00:00"
     },
     {
       "id": "950aabeccc",
@@ -460,60 +460,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-10-21T23:48:19+00:00"
-    },
-    {
-      "id": "50df028da8",
-      "titolo": "Lennon avverte che gli allenatori hanno bisogno di supporto per la salute mentale tra critiche e abusi 'esagerati'",
-      "url": "https://www.dailymail.com/sport/football/article-16227933/Lennon-Celtic-mental-health-support.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Neil Lennon ha sollevato preoccupazioni sul benessere psicologico dei moderni allenatori di calcio a causa del controllo 'istantaneo' ed 'esagerato' sul loro ruolo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T23:09:38+00:00"
-    },
-    {
-      "id": "5ec18d0ebb",
-      "titolo": "La rinnovata squadra dell'Aston Villa continua a fare passi avanti mentre Unai Emery dimostra di essere uno dei più grandi allenatori del mondo dopo il successo per 3-1 sul Viking, scrive TOM COLLOMOSSE",
-      "url": "https://www.dailymail.com/sport/football/article-16226015/Aston-Villas-new-look-team-continue-make-strides-Unai-Emery-shows-one-worlds-great-managers-3-1-win-Viking-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "TOM COLLOMOSSE A VILLA PARK: Due domande sono sorte spontanee in una notte di fortune alterne per i club di Premier League in Champions League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T22:38:53+00:00"
-    },
-    {
-      "id": "671ae1cc2d",
-      "titolo": "Ha fatto male Bruno Fernandes a 'criticare' Michael Carrick?",
-      "url": "https://www.espn.com/video/clip/_/id/50242207/was-bruno-fernandes-wrong-criticize-michael-carrick",
-      "estratto": "Ha fatto male Bruno Fernandes a 'criticare' Michael Carrick?",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-21T22:30:49+00:00"
-    },
-    {
-      "id": "eb7d159cd9",
-      "titolo": "Robson: La qualità del Real Madrid in avanti è stata troppo per il RB Leipzig",
-      "url": "https://www.espn.com/video/clip/_/id/50242191/real-madrid-quality-top-was-too-much-rb-leipzig",
-      "estratto": "Robson: La qualità del Real Madrid in avanti è stata troppo per il RB Leipzig",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-21T22:28:54+00:00"
-    },
-    {
-      "id": "a882c59688",
-      "titolo": "Osmand spera di brillare come Daizen mentre i Bhoys tentano di riaccendere la loro campagna di Europa League",
-      "url": "https://www.dailymail.com/sport/football/article-16227953/Osmand-Maeda-Celtic-Europa-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Riprodurre ciò che Daizen Maeda ha ottenuto con la maglia del Celtic può sembrare quasi impossibile per chi lo segue, ma Callum Osmand non vede alcun male nel porsi obiettivi il più alti possibile.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T21:50:56+00:00"
-    },
-    {
-      "id": "5c7c36274e",
-      "titolo": "Maloney esorta i giocatori del Celtic a mostrare grinta e a proteggere la reputazione del club in Europa dopo il pessimo inizio di stagione",
-      "url": "https://www.dailymail.com/sport/football/article-16227599/Maloney-urges-Celtic-players-fight-protect-clubs-reputation-Europe-poor-start-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "SHAUN MALONEY vuole vedere il Celtic lottare per preservare la duramente conquistata reputazione europea del club.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-21T21:43:11+00:00"
     }
   ]
 }
