@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-10-24T00:02:55.543367+00:00",
-  "totale": 57,
+  "aggiornato": "2026-10-24T04:37:25.632117+00:00",
+  "totale": 59,
   "articoli": [
+    {
+      "id": "4e327a9a4f",
+      "titolo": "La storia di 30 anni del Brighton, sull'orlo dell'estinzione e ora nelle zone alte, raccontata da chi ha salvato il club: da un proprietario spericolato, un'inchiesta giornalistica e cause legali fino al gol salva-vita, alla gloria dei playoff e ai maghi della matematica di Tony Bloom",
+      "url": "https://www.dailymail.com/sport/football/article-16229593/Brighton-Tony-Bloom-30-year-ris.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Passeggiando nello spazio espositivo del Royal Pavilion di Brighton si percepisce vividamente la straordinaria energia creativa dietro la battaglia per la sopravvivenza della squadra di calcio locale, trent'anni fa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T01:01:05+00:00"
+    },
+    {
+      "id": "ad96381426",
+      "titolo": "Il Clásico è servito! Assapora la sfida di LaLiga",
+      "url": "https://www.espn.com/video/clip/_/id/50261693/el-clasico-served-get-taste-laliga-showdown",
+      "estratto": "Il Clásico è servito! Assapora la sfida di LaLiga",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-24T00:19:46+00:00"
+    },
     {
       "id": "d6d2abf22f",
       "titolo": "Il Nottingham Forest recrimina per il cartellino rosso \"errato\" e le occasioni sprecate nel pareggio con l'Ipswich",

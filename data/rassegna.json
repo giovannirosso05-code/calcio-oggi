@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-24T00:02:55.669657+00:00",
-  "totale": 196,
+  "aggiornato": "2026-10-24T04:37:25.764668+00:00",
+  "totale": 198,
   "articoli": [
     {
       "id": "d3187a51ec",
@@ -27,18 +27,6 @@
       "squadra": "Juventus"
     },
     {
-      "id": "a6088ac43e",
-      "titolo": "Torino, Fitz-Jim: \"Felice per il mio primo gol, ripagata la fiducia di Abate\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/torino-fitz-jim-felice-gol-ripagata-fiducia-abate-2286567",
-      "estratto": "Il Torino piega il Monza 3-2 e infila il terzo successo consecutivo in Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-10-23T22:19:14+00:00",
-      "squadra": "Torino"
-    },
-    {
       "id": "7ff789e60e",
       "titolo": "Erik ten Hag rivela il piano fallito per ricongiungersi con Alejandro Garnacho al Leverkusen, mentre l'ex tecnico del Man United ammette che la stella sottotono è \"un po' egoista\" e \"ha bisogno di affetto\" durante l'esilio all'Aston Villa",
       "url": "https://www.dailymail.com/sport/football/article-16226031/Erik-ten-Hag-reveals-failed-plot-reunite-Alejandro-Garnacho-Leverkusen-ex-Man-United-boss-admits-sorts-star-little-bit-selfish-needs-love-amid-Aston-Villa-exile.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -61,6 +49,18 @@
       "punteggio": 160,
       "pubblicato": "2026-10-21T21:39:25+00:00",
       "squadra": "Trabzonspor"
+    },
+    {
+      "id": "606c2c41c0",
+      "titolo": "Torino più forte di errori e autogol, tris al Monza e Juve scavalcata: come cambia la classifica",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/23-152095837/torino_pi_forte_di_errori_e_autogol_tris_al_monza_e_juve_scavalcata_come_cambia_la_classifica/",
+      "estratto": "Terza vittoria consecutiva per la squadra di Abate, che si impone 3-2 contro l'ex Juric e sale nelle zone nobili del campionato",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 150,
+      "pubblicato": "2026-10-23T20:47:13+00:00",
+      "squadra": "Torino"
     },
     {
       "id": "3a0e67b359",
@@ -97,18 +97,6 @@
       "punteggio": 140,
       "pubblicato": "2026-10-23T22:38:20+00:00",
       "squadra": "Monza"
-    },
-    {
-      "id": "25358f7841",
-      "titolo": "Da Empoli-Vicenza a Hellas Verona-Pisa, i convocati per l'8ª giornata di Serie B",
-      "url": "https://www.tuttomercatoweb.com/serie-b/empoli-vicenza-hellas-verona-pisa-convocati-8a-giornata-serie-b-2286064",
-      "estratto": "Per l'8ª giornata del campionato di Serie B la redazione di TuttoMercatoWeb.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-10-23T22:04:00+00:00",
-      "squadra": "Empoli"
     },
     {
       "id": "ceeb270381",
@@ -171,15 +159,15 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "cf99531d7f",
-      "titolo": "Mauro Meluso: “Toro, bravo Abate. Lazio, Gattuso ti ha ridato dignità. Samp, che tristezza”",
-      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/mauro-meluso-toro-abate-lazio-gattuso-ridato-dignita-samp-tristezza-2286585",
-      "estratto": "“Il Torino ha trovato un nuovo entusiasmo che aveva perso un po tutto l’ambiente.",
+      "id": "7dcc35b8c3",
+      "titolo": "Lazio, stasera la prova di maturità: per Gattuso c'è il rischio \"bastonata sui denti\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-stasera-prova-maturita-gattuso-rischio-bastonata-denti-2286588",
+      "estratto": "A chi si chiedeva quale atteggiamento avrà in campo questa sera la Lazio contro il Parma ha prontamente risposto Gennaro Gattuso dopo la prima domanda nella conferenza stampa di ieri a Formello.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-23T22:44:06+00:00",
+      "pubblicato": "2026-10-24T04:30:16+00:00",
       "squadra": "Lazio"
     },
     {
@@ -289,17 +277,6 @@
       "punteggio": 40,
       "pubblicato": "2026-10-23T22:08:19+00:00",
       "squadra": "Liverpool"
-    },
-    {
-      "id": "e71b644a51",
-      "titolo": "L'ex tecnico di Lulli: \"L'ho spostato io nel ruolo che gli fa fare Gasp. Ha qualità morali incredibili\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/tecnico-lulli-l-spostato-ruolo-gasp-qualita-morali-incredibili-2286527",
-      "estratto": "Lunga intervista quella realizzata da Gianluca Falsini, allenatore del Como Primavera, ai microfoni di Sky Calcio Unplugged, il quale ha raccontato la filosofia alla base del lavoro del settore giovanile del club lariano e il suo rapporto con Cesc Fa",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-23T22:08:02+00:00"
     },
     {
       "id": "20c26d5b50",
@@ -437,15 +414,27 @@
       "pubblicato": "2026-10-21T08:59:01+00:00"
     },
     {
-      "id": "3598ca28fe",
-      "titolo": "PSG, ora tocca a Godts: l'infortunio di Kvaratskhelia gli apre le porte da titolare",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/psg-tocca-godts-infortunio-kvaratskhelia-apre-porte-titolare-2286574",
-      "estratto": "L'infortunio di Kvaratskhelia cambia inevitabilmente le gerarchie offensive del PSG e può rappresentare la grande occasione per Mika Godts.",
+      "id": "ac38feef66",
+      "titolo": "Serie B, Cremonese-Juve Stabia: gara per risalire la classifica allo Zini",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-cremonese-juve-stabia-gara-risalire-classifica-zini-2286303",
+      "estratto": "La Serie B è pronta a tornare in campo con l'ottava giornata in cui, tra le altre, sono pronte a darsi sfida Cremonese e Juve Stabia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-24T04:12:00+00:00",
+      "squadra": "Cremonese"
+    },
+    {
+      "id": "a208b5cea8",
+      "titolo": "Wayne Rooney, campionissimo sin da adolescente. Peccato per l'infortunio nel 2010",
+      "url": "https://www.tuttomercatoweb.com/nato-oggi/wayne-rooney-campionissimo-sin-adolescente-infortunio-2010-2285720",
+      "estratto": "Il regalo di Natale dei tifosi dell'Everton del 2002 era stato estremamente importante.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 20,
-      "pubblicato": "2026-10-23T22:26:36+00:00"
+      "pubblicato": "2026-10-24T03:00:28+00:00"
     },
     {
       "id": "69f562de6b",
@@ -484,6 +473,65 @@
       "squadra": "Aston Villa"
     },
     {
+      "id": "f352229138",
+      "titolo": "Serie B, Sudtirol-Sampdoria: D'Angelo, all'esordio è già vietato sbagliare",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-sudtirol-sampdoria-angelo-esordio-vietato-sbagliare-2286579",
+      "estratto": "Toccherà al signor Crezzini di Siena dirigere la partita in programma questo pomeriggio allo stadio Druso di Bolzano tra Sudtirol e Sampdoria.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-24T04:29:00+00:00",
+      "squadra": "Sudtirol"
+    },
+    {
+      "id": "3c41d402c4",
+      "titolo": "Serie B, Modena-Cesena, la sfida generazionale fra i bomber Belotti e Shpendi",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-modena-cesena-sfida-generazionale-bomber-belotti-shpendi-2286587",
+      "estratto": "Si affrontano per la 28^ volta Modena e Cesena nel sentito derby fra gli emiliani e romagnoli, di fronte questo pomeriggio al “Braglia” nella gara valida per l’8^ giornata di serie BKT, che inaugurerà il tour de force che vedrà protagoniste le squadr",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-24T04:24:00+00:00",
+      "squadra": "Modena"
+    },
+    {
+      "id": "01361a0b17",
+      "titolo": "Serie B, Virtus Entella-Mantova: scontro di ambizioni a Chiavari",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-virtus-entella-mantova-scontro-ambizioni-chiavari-2286488",
+      "estratto": "L’ottava giornata del campionato di Serie B propone un incrocio ad alta tensione tra Virtus Entella e Mantova, in programma sabato 24 ottobre alle ore 15:00.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-24T04:18:11+00:00",
+      "squadra": "Virtus Entella"
+    },
+    {
+      "id": "86fcfb6ff6",
+      "titolo": "Serie B, Avellino-Padova: Calabro cerca la svolta contro Nesta",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-avellino-padova-calabro-cerca-svolta-nesta-2286589",
+      "estratto": "Riflettori puntati sullo stadio “Partenio-Adriano Lombardi” per la sfida di questo pomeriggio alle ore 15.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-24T04:06:00+00:00",
+      "squadra": "Avellino"
+    },
+    {
+      "id": "f4eba87243",
+      "titolo": "Le partite di oggi: il programma di sabato 24 ottobre",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-sabato-24-ottobre-2286578",
+      "estratto": "Sabato di calcio in Italia e in Europa, con tanti appuntamenti da seguire nei principali campionati.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-24T02:30:47+00:00"
+    },
+    {
       "id": "e94e39ca52",
       "titolo": "Calciomercato No Stop - Indiscrezioni, trattative e retroscena del 23 ottobre",
       "url": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-23-ottobre-2286584",
@@ -504,17 +552,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-23T22:54:40+00:00"
-    },
-    {
-      "id": "e1bf417cf3",
-      "titolo": "Viaggio in Spagna per Messi: vince un premio a Oviedo e lo dedica a papà Jorge",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/viaggio-spagna-messi-vince-premio-oviedo-dedica-papa-jorge-2286554",
-      "estratto": "Oviedo si è fermata per Lionel Messi.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-23T22:11:48+00:00"
     },
     {
       "id": "a0f9567a3b",
@@ -744,18 +781,6 @@
       "squadra": "Juventus"
     },
     {
-      "id": "606c2c41c0",
-      "titolo": "Torino più forte di errori e autogol, tris al Monza e Juve scavalcata: come cambia la classifica",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/23-152095837/torino_pi_forte_di_errori_e_autogol_tris_al_monza_e_juve_scavalcata_come_cambia_la_classifica/",
-      "estratto": "Terza vittoria consecutiva per la squadra di Abate, che si impone 3-2 contro l'ex Juric e sale nelle zone nobili del campionato",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -50,
-      "pubblicato": "2026-10-23T20:47:13+00:00",
-      "squadra": "Torino"
-    },
-    {
       "id": "ac21584c82",
       "titolo": "Ramos, sospiro di sollievo per Amorim: novità chiave dall'allenamento del Milan",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/23-152089203/ramos_sospiro_di_sollievo_per_amorim_novit_chiave_dall_allenamento_del_milan/",
@@ -780,6 +805,18 @@
       "squadra": "Bournemouth"
     },
     {
+      "id": "d26c961362",
+      "titolo": "Il Torino cala il tris: Fitz-Jim, Belghali e Vlasic lanciano Abate. Al Monza non basta Varela",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/23-152092764/il_torino_cala_il_tris_fitz-jim_belghali_e_vlasic_lanciano_abate_al_monza_non_basta_varela/",
+      "estratto": "Nell'anticipo dell'8ª giornata di Serie A, i granata si impongono con il punteggio di 3-2 ed ottengono il terzo successo consecutivo in campionato",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-10-23T20:41:59+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "b51ce50817",
       "titolo": "Colpaccio del Vicenza a Empoli: Rauti e Pellizzari firmano il primo successo in trasferta",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/23-152093622/colpaccio_del_vicenza_a_empoli_rauti_e_pellizzari_firmano_il_primo_successo_in_trasferta/",
@@ -802,6 +839,18 @@
       "punteggio": -80,
       "pubblicato": "2026-10-23T12:36:20+00:00",
       "squadra": "Trabzonspor"
+    },
+    {
+      "id": "cf99531d7f",
+      "titolo": "Mauro Meluso: “Toro, bravo Abate. Lazio, Gattuso ti ha ridato dignità. Samp, che tristezza”",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/mauro-meluso-toro-abate-lazio-gattuso-ridato-dignita-samp-tristezza-2286585",
+      "estratto": "“Il Torino ha trovato un nuovo entusiasmo che aveva perso un po tutto l’ambiente.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -130,
+      "pubblicato": "2026-10-23T22:44:06+00:00",
+      "squadra": "Lazio"
     },
     {
       "id": "596ebaf236",
@@ -840,30 +889,6 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "3e4c04b719",
-      "titolo": "Quando la prima da titolare di Ricci col Como? Fabregas: \"Arriverà la sua possibilità\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/titolare-ricci-como-fabregas-arrivera-possibilita-2286453",
-      "estratto": "Cesc Fabregas, allenatore del Como, ha presentato in conferenza stampa la partita di domani contro il Sassuolo, che vale per l'8^ giornata di Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -160,
-      "pubblicato": "2026-10-23T22:23:29+00:00",
-      "squadra": "Como"
-    },
-    {
-      "id": "2848f9ad4f",
-      "titolo": "L'ex Bertotto: \"Mi aspettavo un upgrade di Runjaic, con il Lecce ho visto un Udinese in balia\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/bertotto-mi-aspettavo-upgrade-runjaic-lecce-udinese-balia-2286482",
-      "estratto": "Nell'Udinese dal 1993 al 2006, Valerio Bertotto è stato intervistato da TuttoUdinese per parlare dell'attualità del club friulano.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -160,
-      "pubblicato": "2026-10-23T22:15:12+00:00",
-      "squadra": "Lecce"
-    },
-    {
       "id": "e2dea92411",
       "titolo": "Il monologo di cinque minuti di Michael Carrick: il tecnico in bilico ammette che il Manchester United ha \"perso la rotta\", chiede \"umiltà\" a Bruno Fernandes e compagni e si rifiuta di confermare la fascia di capitano",
       "url": "https://www.dailymail.com/sport/football/article-16233117/Michael-Carricks-five-minute-monologue-Manchester-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -874,6 +899,18 @@
       "punteggio": -160,
       "pubblicato": "2026-10-23T19:03:08+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "c055bf9f75",
+      "titolo": "Fabregas: \"Lasciare il Como sarebbe la mia fine. Aquilani? Quando ci siamo conosciuti in Serie B...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/10/23-152091733/fabregas_lasciare_il_como_sarebbe_la_mia_fine_aquilani_quando_ci_siamo_conosciuti_in_serie_b_/",
+      "estratto": "Il tecnico dei lariani elogia l'allenatore del Sassuolo: \"Suwarso parla bene di lui? Non significa niente\". Liberali e Kean ai box",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -160,
+      "pubblicato": "2026-10-23T15:30:24+00:00",
+      "squadra": "Como"
     },
     {
       "id": "19730b15cb",
@@ -888,15 +925,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "85a1bacfac",
-      "titolo": "Napoli, a gennaio arriva un centrocampista. Inserimento su Romano, che piace anche a Juve e Inter. Ecco gli altri nomi. Lucca di nuovo in uscita?. Sale il pressing su Varela. Per Lang ipotesi Ajax e Psv",
-      "url": "https://www.tuttomercatoweb.com/editoriale/napoli-gennaio-arriva-centrocampista-inserimento-romano-piace-juve-inter-nomi-lucca-uscita-sale-pres-2286583",
-      "estratto": "Poco più di due mesi al mercato invernale e prime riflessioni importanti in casa Napoli in vista della riapertura delle trattative.",
-      "fonte": "TMW",
+      "id": "3caf589112",
+      "titolo": "Cristante torna a disposizione di Gasperini: la lista dei convocati per il Napoli",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/23-152093250/cristante_torna_a_disposizione_di_gasperini_la_lista_dei_convocati_per_il_napoli/",
+      "estratto": "Gasperini potrà di nuovo utilizzare il centrocampista in campionato, dopo il rientro per la sfida contro lo Slovan",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-10-23T22:00:45+00:00",
+      "pubblicato": "2026-10-23T16:43:28+00:00",
       "squadra": "Napoli"
     },
     {
@@ -1020,18 +1057,6 @@
       "squadra": "Bournemouth"
     },
     {
-      "id": "d26c961362",
-      "titolo": "Il Torino cala il tris: Fitz-Jim, Belghali e Vlasic lanciano Abate. Al Monza non basta Varela",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/23-152092764/il_torino_cala_il_tris_fitz-jim_belghali_e_vlasic_lanciano_abate_al_monza_non_basta_varela/",
-      "estratto": "Nell'anticipo dell'8ª giornata di Serie A, i granata si impongono con il punteggio di 3-2 ed ottengono il terzo successo consecutivo in campionato",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -280,
-      "pubblicato": "2026-10-23T20:41:59+00:00",
-      "squadra": "Torino"
-    },
-    {
       "id": "1de32327ca",
       "titolo": "Inter, Jones esce allo scoperto: \"Se sei la squadra più forte è normale che...\"",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/23-152086286/inter_jones_esce_allo_scoperto_se_sei_la_squadra_pi_forte_normale_che_/",
@@ -1054,18 +1079,6 @@
       "punteggio": -360,
       "pubblicato": "2026-10-23T18:31:25+00:00",
       "squadra": "Man United"
-    },
-    {
-      "id": "c055bf9f75",
-      "titolo": "Fabregas: \"Lasciare il Como sarebbe la mia fine. Aquilani? Quando ci siamo conosciuti in Serie B...\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/10/23-152091733/fabregas_lasciare_il_como_sarebbe_la_mia_fine_aquilani_quando_ci_siamo_conosciuti_in_serie_b_/",
-      "estratto": "Il tecnico dei lariani elogia l'allenatore del Sassuolo: \"Suwarso parla bene di lui? Non significa niente\". Liberali e Kean ai box",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -360,
-      "pubblicato": "2026-10-23T15:30:24+00:00",
-      "squadra": "Como"
     },
     {
       "id": "dc3be26a2c",
@@ -1092,16 +1105,16 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "3caf589112",
-      "titolo": "Cristante torna a disposizione di Gasperini: la lista dei convocati per il Napoli",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/23-152093250/cristante_torna_a_disposizione_di_gasperini_la_lista_dei_convocati_per_il_napoli/",
-      "estratto": "Gasperini potrà di nuovo utilizzare il centrocampista in campionato, dopo il rientro per la sfida contro lo Slovan",
-      "fonte": "Corriere dello Sport",
+      "id": "2423ed431f",
+      "titolo": "Como a caccia di conferme all'interno del tour de force. Aquilani vuol fare lo sgambetto a Cesc",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/como-caccia-conferme-interno-tour-de-force-aquilani-vuol-sgambetto-cesc-2286480",
+      "estratto": "Per il Como sarà la quinta sfida in pochissimi giorni, quella che si giocherà quest'oggi contro il Sassuolo.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-10-23T16:43:28+00:00",
-      "squadra": "Napoli"
+      "pubblicato": "2026-10-23T22:41:05+00:00",
+      "squadra": "Como"
     },
     {
       "id": "3c7d1ca656",
@@ -1114,6 +1127,18 @@
       "punteggio": -380,
       "pubblicato": "2026-10-21T12:33:13+00:00",
       "squadra": "Arsenal"
+    },
+    {
+      "id": "09ac015dcc",
+      "titolo": "Il ritorno del Mac: come Andoni Iraola ha sbloccato il vero Alexis Mac Allister, perché l'argentino è un giocatore rigenerato in questa stagione e le ultime sul suo futuro al Liverpool dopo l'amarezza per il mancato rinnovo",
+      "url": "https://www.dailymail.com/sport/football/article-16233239/alexis-mac-allister-liverpool-future.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dopo aver segnato il terzo e il quarto gol stagionali contro il Villarreal, Mac Allister è a una sola rete dall'eguagliare il bottino della scorsa stagione, con sette mesi d'anticipo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -400,
+      "pubblicato": "2026-10-24T01:00:52+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "3e84aaf522",
@@ -1138,18 +1163,6 @@
       "punteggio": -400,
       "pubblicato": "2026-10-23T19:53:33+00:00",
       "squadra": "Barcelona"
-    },
-    {
-      "id": "59ec42f94d",
-      "titolo": "Andoni Iraola del Liverpool esorta Rio Ngumoha a non farsi distrarre dal \"rumore esterno\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50257971/liverpool-andoni-iraola-urges-rio-ngumoha-not-distracted-noise",
-      "estratto": "Il tecnico del Liverpool Andoni Iraola ha esortato Rio Ngumoha a non farsi distrarre dal rumore esterno in seguito alla sua impressionante prestazione contro il Villarreal.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -400,
-      "pubblicato": "2026-10-23T18:27:41+00:00",
-      "squadra": "Liverpool"
     },
     {
       "id": "f8c9824426",
@@ -1224,18 +1237,6 @@
       "squadra": "Man United"
     },
     {
-      "id": "2423ed431f",
-      "titolo": "Como a caccia di conferme all'interno del tour de force. Aquilani vuol fare lo sgambetto a Cesc",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/como-caccia-conferme-interno-tour-de-force-aquilani-vuol-sgambetto-cesc-2286480",
-      "estratto": "Per il Como sarà la quinta sfida in pochissimi giorni, quella che si giocherà quest'oggi contro il Sassuolo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-10-23T22:41:05+00:00",
-      "squadra": "Como"
-    },
-    {
       "id": "dc99ca9800",
       "titolo": "Lulli rinnova con la Roma, accordo raggiunto: firmerà fino al 2031",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/23-152089105/lulli_rinnova_con_la_roma_accordo_raggiunto_firmer_fino_al_2031/",
@@ -1246,6 +1247,18 @@
       "punteggio": -570,
       "pubblicato": "2026-10-23T12:50:53+00:00",
       "squadra": "AS Roma"
+    },
+    {
+      "id": "ed01550e37",
+      "titolo": "Diretta Champions League: il Como ospita il Manchester United nel match pomeridiano",
+      "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
+      "estratto": "Segui gli aggiornamenti in tempo reale, i risultati e gli highlights delle gare di Champions League di mercoledì, tra cui Bayern Monaco-Arsenal, Real Madrid-RB Leipzig e molte altre.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -580,
+      "pubblicato": "2026-10-21T21:48:32+00:00",
+      "squadra": "Como"
     },
     {
       "id": "9a4f754cfe",
@@ -1296,6 +1309,18 @@
       "squadra": "Barcelona"
     },
     {
+      "id": "59ec42f94d",
+      "titolo": "Andoni Iraola del Liverpool esorta Rio Ngumoha a non farsi distrarre dal \"rumore esterno\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50257971/liverpool-andoni-iraola-urges-rio-ngumoha-not-distracted-noise",
+      "estratto": "Il tecnico del Liverpool Andoni Iraola ha esortato Rio Ngumoha a non farsi distrarre dal rumore esterno in seguito alla sua impressionante prestazione contro il Villarreal.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -600,
+      "pubblicato": "2026-10-23T18:27:41+00:00",
+      "squadra": "Liverpool"
+    },
+    {
       "id": "1d42125f28",
       "titolo": "Xabi Alonso del Chelsea: Thibaut Courtois rivede se stesso in Mike Penders",
       "url": "https://www.espn.com/soccer/story/_/id/50258511/chelsea-xabi-alonso-thibaut-courtois-mike-penders",
@@ -1306,18 +1331,6 @@
       "punteggio": -600,
       "pubblicato": "2026-10-23T16:02:13+00:00",
       "squadra": "Chelsea"
-    },
-    {
-      "id": "37788587d8",
-      "titolo": "'Tieni gli occhi sulla strada': il messaggio della nuova moglie di Diogo Jota al marito svelato nel suo straziante racconto di come si è consumata la tragica morte della stella del Liverpool in un incidente con la sua Lamborghini",
-      "url": "https://www.dailymail.com/sport/football/article-16229313/Diogo-Jota-wife-text-message-husband-heartbreaking-account-tragic-Liverpool-stars-death-unfolded.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "In una nuova biografia sul compianto attaccante del Liverpool, Cardoso ha spiegato di essersi scambiata messaggi con Jota poco dopo la sua partenza per la città spagnola di Santander insieme al fratello Andre Silva.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -600,
-      "pubblicato": "2026-10-22T17:25:29+00:00",
-      "squadra": "Liverpool"
     },
     {
       "id": "4f3024b3be",
@@ -1368,15 +1381,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "ed01550e37",
-      "titolo": "Diretta Champions League: il Como ospita il Manchester United nel match pomeridiano",
-      "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
-      "estratto": "Segui gli aggiornamenti in tempo reale, i risultati e gli highlights delle gare di Champions League di mercoledì, tra cui Bayern Monaco-Arsenal, Real Madrid-RB Leipzig e molte altre.",
-      "fonte": "ESPN",
+      "id": "a9586c4751",
+      "titolo": "Clamoroso poker del Como, Fabregas porta a spasso il Manchester United. Tutte le reazioni Champions",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152043378/como-manchester_united_diretta_champions_league_le_ultime_sulle_formazioni_fabregas_pu_sognare/",
+      "estratto": "I lariani dominano con i Red Devils nell'incontro valido per la terza giornata del super girone: termina 4-1, doppietta di Nico Paz",
+      "fonte": "Tuttosport",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -780,
-      "pubblicato": "2026-10-21T21:48:32+00:00",
+      "pubblicato": "2026-10-21T15:00:00+00:00",
       "squadra": "Como"
     },
     {
@@ -1440,6 +1453,18 @@
       "squadra": "Man City"
     },
     {
+      "id": "37788587d8",
+      "titolo": "'Tieni gli occhi sulla strada': il messaggio della nuova moglie di Diogo Jota al marito svelato nel suo straziante racconto di come si è consumata la tragica morte della stella del Liverpool in un incidente con la sua Lamborghini",
+      "url": "https://www.dailymail.com/sport/football/article-16229313/Diogo-Jota-wife-text-message-husband-heartbreaking-account-tragic-Liverpool-stars-death-unfolded.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "In una nuova biografia sul compianto attaccante del Liverpool, Cardoso ha spiegato di essersi scambiata messaggi con Jota poco dopo la sua partenza per la città spagnola di Santander insieme al fratello Andre Silva.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -800,
+      "pubblicato": "2026-10-22T17:25:29+00:00",
+      "squadra": "Liverpool"
+    },
+    {
       "id": "790f77f537",
       "titolo": "José Mourinho e Kylian Mbappé difendono Vinícius Júnior dopo i fischi dei tifosi del Real Madrid",
       "url": "https://www.espn.com/soccer/story/_/id/50246766/jose-mourinho-kylian-mbappe-defend-vinicius-junior-whistles-real-madrid-fans",
@@ -1488,15 +1513,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "a9586c4751",
-      "titolo": "Clamoroso poker del Como, Fabregas porta a spasso il Manchester United. Tutte le reazioni Champions",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/10/21-152043378/como-manchester_united_diretta_champions_league_le_ultime_sulle_formazioni_fabregas_pu_sognare/",
-      "estratto": "I lariani dominano con i Red Devils nell'incontro valido per la terza giornata del super girone: termina 4-1, doppietta di Nico Paz",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
+      "id": "1856841e78",
+      "titolo": "Calciomercato, le voci: il Como di Paz ha steso il Manchester United, ora i Red Devils vogliono acquistarlo",
+      "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
+      "estratto": "Il Manchester United sta monitorando il trequartista del Como Nico Paz in vista della prossima stagione, mentre anche il Chelsea mostra forte interesse. Tutte le ultime novità in Transfer Talk.",
+      "fonte": "ESPN",
+      "serie": "Estero",
       "citazione": false,
-      "punteggio": -980,
-      "pubblicato": "2026-10-21T15:00:00+00:00",
+      "punteggio": -1000,
+      "pubblicato": "2026-10-23T18:39:43+00:00",
       "squadra": "Como"
     },
     {
@@ -1608,15 +1633,15 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "1856841e78",
-      "titolo": "Calciomercato, le voci: il Como di Paz ha steso il Manchester United, ora i Red Devils vogliono acquistarlo",
-      "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
-      "estratto": "Il Manchester United sta monitorando il trequartista del Como Nico Paz in vista della prossima stagione, mentre anche il Chelsea mostra forte interesse. Tutte le ultime novità in Transfer Talk.",
-      "fonte": "ESPN",
-      "serie": "Estero",
+      "id": "f25819d45f",
+      "titolo": "Douvikas è l'oro del Como: va a segno quasi in ogni partita",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/10/23-152084658/douvikas_l_oro_del_como_va_a_segno_quasi_in_ogni_partita/",
+      "estratto": "Nonostante la concorrenza di Kean, realizza un gol ogni 166’",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": -1200,
-      "pubblicato": "2026-10-23T18:39:43+00:00",
+      "pubblicato": "2026-10-23T07:20:17+00:00",
       "squadra": "Como"
     },
     {
@@ -1716,15 +1741,15 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "f25819d45f",
-      "titolo": "Douvikas è l'oro del Como: va a segno quasi in ogni partita",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/10/23-152084658/douvikas_l_oro_del_como_va_a_segno_quasi_in_ogni_partita/",
-      "estratto": "Nonostante la concorrenza di Kean, realizza un gol ogni 166’",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
+      "id": "c7b4b2aad9",
+      "titolo": "Rivelato: Cesc Fàbregas ha detto ai giocatori del Como di avere PIETÀ di un Manchester United malconcio, lasciando il punteggio sul 4-1 invece di infierire",
+      "url": "https://www.dailymail.com/sport/football/article-16228995/cesc-fabregas-como-manchester-united-mercy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Cesc Fàbregas ha rivelato di aver detto ai suoi giocatori di rallentare contro il Manchester United durante la loro umiliazione in Champions League per mano del Como in Italia mercoledì notte.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -1400,
-      "pubblicato": "2026-10-23T07:20:17+00:00",
+      "pubblicato": "2026-10-22T14:24:40+00:00",
       "squadra": "Como"
     },
     {
@@ -1776,15 +1801,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "c7b4b2aad9",
-      "titolo": "Rivelato: Cesc Fàbregas ha detto ai giocatori del Como di avere PIETÀ di un Manchester United malconcio, lasciando il punteggio sul 4-1 invece di infierire",
-      "url": "https://www.dailymail.com/sport/football/article-16228995/cesc-fabregas-como-manchester-united-mercy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Cesc Fàbregas ha rivelato di aver detto ai suoi giocatori di rallentare contro il Manchester United durante la loro umiliazione in Champions League per mano del Como in Italia mercoledì notte.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
+      "id": "61bc2f0ba0",
+      "titolo": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
+      "url": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
+      "estratto": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": true,
       "punteggio": -1600,
-      "pubblicato": "2026-10-22T14:24:40+00:00",
+      "pubblicato": "2026-10-22T13:55:57+00:00",
       "squadra": "Como"
     },
     {
@@ -1836,15 +1861,15 @@
       "squadra": "Man United"
     },
     {
-      "id": "61bc2f0ba0",
-      "titolo": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
-      "url": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
-      "estratto": "Fabregas ha detto al Como di \"non correre\" contro il Manchester United",
+      "id": "11c3f01b9a",
+      "titolo": "Cesc Fàbregas: Ho detto ai giocatori del Como di 'rallentare' nelle fasi finali della vittoria contro il Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
+      "estratto": "L'allenatore del Como Cesc Fàbregas ha dichiarato di essersi pentito di aver detto ai suoi giocatori di tirare il remare in barca verso la fine della loro celebre vittoria per 4-1 contro un Manchester United in crisi.",
       "fonte": "ESPN",
       "serie": "Champions",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -1800,
-      "pubblicato": "2026-10-22T13:55:57+00:00",
+      "pubblicato": "2026-10-22T11:25:59+00:00",
       "squadra": "Como"
     },
     {
@@ -1860,27 +1885,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "7b87df7362",
-      "titolo": "Il portiere del Manchester United André Onana illeso dopo un terribile maxitamponamento in Turchia con la sua auto da 100mila sterline",
-      "url": "https://www.dailymail.com/sport/football/article-16234553/Andre-Onana-car-crash-Turkey-Man-United-loan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il portiere del Manchester United in prestito André Onana è miracolosamente sfuggito a gravi conseguenze in seguito a un terribile incidente stradale in Turchia.",
+      "id": "e76a644f55",
+      "titolo": "Perché un grande allenatore NON dovrebbe volere la panchina del Manchester United? Il club è così disfunzionale che non avrà colpe se le cose vanno male. E se fa centro, è un genio, scrive RIATH AL-SAMARRAI",
+      "url": "https://www.dailymail.com/sport/football/article-16233703/Man-United-managers-conte-howe-ten-hag.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "RIATH AL-SAMARRAI: Erik ten Hag è apparso in buona luce questa settimana perché chiunque sembrerebbe più saggio quando non viene stritolato dalle ingranature di una bestia gonfia e rumorosa.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -2000,
-      "pubblicato": "2026-10-23T23:14:24+00:00",
+      "pubblicato": "2026-10-24T01:10:09+00:00",
       "squadra": "Man United"
     },
     {
-      "id": "11c3f01b9a",
-      "titolo": "Cesc Fàbregas: Ho detto ai giocatori del Como di 'rallentare' nelle fasi finali della vittoria contro il Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
-      "estratto": "L'allenatore del Como Cesc Fàbregas ha dichiarato di essersi pentito di aver detto ai suoi giocatori di tirare il remare in barca verso la fine della loro celebre vittoria per 4-1 contro un Manchester United in crisi.",
+      "id": "c5338f2878",
+      "titolo": "Chi è il Como? Il club della meta di vacanze che ha appena steso il Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
+      "estratto": "Sette anni fa il Como era una squadra di dilettanti. Ora sono un club di Champions League con un marchio nato dalla reputazione della città come meta di vacanza.",
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -2000,
-      "pubblicato": "2026-10-22T11:25:59+00:00",
+      "pubblicato": "2026-10-22T07:47:14+00:00",
       "squadra": "Como"
     },
     {
@@ -1896,39 +1921,15 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "5e8402fa3f",
-      "titolo": "Il monologo polemico di Michael Carrick è uscito dritto dal manuale di Sir Alex Ferguson, ma le sue parole forti rischiano di essere vuote se non riuscirà a risollevare il Manchester United dal baratro della disperazione, scrive CHRIS WHEELER",
-      "url": "https://www.dailymail.com/sport/football/article-16234073/Defiant-Michael-Carricks-monologue-straight-Sir-Alex-Ferguson-playbook-powerful-words-unless-drag-Man-United-depths-despair-writes-CHRIS-WHEELER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "CHRIS WHEELER: Non dai tempi dei monologhi iniziali di Sir Alex Ferguson un allenatore del Manchester United iniziava la sua conferenza stampa settimanale a Carrington senza accettare domande.",
+      "id": "7b87df7362",
+      "titolo": "Il portiere del Manchester United André Onana illeso dopo un terribile maxitamponamento in Turchia con la sua auto da 100mila sterline",
+      "url": "https://www.dailymail.com/sport/football/article-16234553/Andre-Onana-car-crash-Turkey-Man-United-loan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il portiere del Manchester United in prestito André Onana è miracolosamente sfuggito a gravi conseguenze in seguito a un terribile incidente stradale in Turchia.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -2200,
-      "pubblicato": "2026-10-23T20:57:01+00:00",
-      "squadra": "Man United"
-    },
-    {
-      "id": "c5338f2878",
-      "titolo": "Chi è il Como? Il club della meta di vacanze che ha appena steso il Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
-      "estratto": "Sette anni fa il Como era una squadra di dilettanti. Ora sono un club di Champions League con un marchio nato dalla reputazione della città come meta di vacanza.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -2200,
-      "pubblicato": "2026-10-22T07:47:14+00:00",
-      "squadra": "Como"
-    },
-    {
-      "id": "502011365c",
-      "titolo": "Carrick sopravviverà al fine settimana come allenatore del Manchester United?",
-      "url": "https://www.espn.com/video/clip/_/id/50260129/will-carrick-survive-weekend-man-united-head-coach",
-      "estratto": "Carrick sopravviverà al fine settimana come allenatore del Manchester United?",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -2400,
-      "pubblicato": "2026-10-23T19:54:06+00:00",
+      "pubblicato": "2026-10-23T23:14:24+00:00",
       "squadra": "Man United"
     },
     {
@@ -1939,20 +1940,20 @@
       "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -2400,
+      "punteggio": -2200,
       "pubblicato": "2026-10-21T18:40:58+00:00",
       "squadra": "Como"
     },
     {
-      "id": "73d3aa2430",
-      "titolo": "L'ex stella del Manchester United Brandon Williams passa a una squadra di League Two, nel tentativo di rilanciare la sua carriera dopo la condanna per guida pericolosa",
-      "url": "https://www.dailymail.com/sport/football/article-16233933/Former-Man-United-star-Brandon-Williams-joins-League-Two-attempts-rebuild-career-dangerous-driving-charge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Williams ha collezionato 51 presenze con lo United dopo essere cresciuto nel loro settore giovanile, ma ha vissuto un periodo difficile negli ultimi anni.",
+      "id": "5e8402fa3f",
+      "titolo": "Il monologo polemico di Michael Carrick è uscito dritto dal manuale di Sir Alex Ferguson, ma le sue parole forti rischiano di essere vuote se non riuscirà a risollevare il Manchester United dal baratro della disperazione, scrive CHRIS WHEELER",
+      "url": "https://www.dailymail.com/sport/football/article-16234073/Defiant-Michael-Carricks-monologue-straight-Sir-Alex-Ferguson-playbook-powerful-words-unless-drag-Man-United-depths-despair-writes-CHRIS-WHEELER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "CHRIS WHEELER: Non dai tempi dei monologhi iniziali di Sir Alex Ferguson un allenatore del Manchester United iniziava la sua conferenza stampa settimanale a Carrington senza accettare domande.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2600,
-      "pubblicato": "2026-10-23T18:36:11+00:00",
+      "punteggio": -2400,
+      "pubblicato": "2026-10-23T20:57:01+00:00",
       "squadra": "Man United"
     },
     {
@@ -1963,9 +1964,33 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -2600,
+      "punteggio": -2400,
       "pubblicato": "2026-10-21T15:57:51+00:00",
       "squadra": "Como"
+    },
+    {
+      "id": "502011365c",
+      "titolo": "Carrick sopravviverà al fine settimana come allenatore del Manchester United?",
+      "url": "https://www.espn.com/video/clip/_/id/50260129/will-carrick-survive-weekend-man-united-head-coach",
+      "estratto": "Carrick sopravviverà al fine settimana come allenatore del Manchester United?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2600,
+      "pubblicato": "2026-10-23T19:54:06+00:00",
+      "squadra": "Man United"
+    },
+    {
+      "id": "73d3aa2430",
+      "titolo": "L'ex stella del Manchester United Brandon Williams passa a una squadra di League Two, nel tentativo di rilanciare la sua carriera dopo la condanna per guida pericolosa",
+      "url": "https://www.dailymail.com/sport/football/article-16233933/Former-Man-United-star-Brandon-Williams-joins-League-Two-attempts-rebuild-career-dangerous-driving-charge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Williams ha collezionato 51 presenze con lo United dopo essere cresciuto nel loro settore giovanile, ma ha vissuto un periodo difficile negli ultimi anni.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2800,
+      "pubblicato": "2026-10-23T18:36:11+00:00",
+      "squadra": "Man United"
     },
     {
       "id": "41c8cf706e",
@@ -1975,7 +2000,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2800,
+      "punteggio": -3000,
       "pubblicato": "2026-10-23T18:30:59+00:00",
       "squadra": "Man United"
     },
@@ -1987,7 +2012,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3000,
+      "punteggio": -3200,
       "pubblicato": "2026-10-23T18:28:40+00:00",
       "squadra": "Man United"
     },
@@ -1999,7 +2024,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3200,
+      "punteggio": -3400,
       "pubblicato": "2026-10-23T15:12:26+00:00",
       "squadra": "Man United"
     },
@@ -2011,7 +2036,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3400,
+      "punteggio": -3600,
       "pubblicato": "2026-10-23T15:07:36+00:00",
       "squadra": "Man United"
     },
@@ -2023,7 +2048,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3600,
+      "punteggio": -3800,
       "pubblicato": "2026-10-23T14:29:36+00:00",
       "squadra": "Man United"
     },
@@ -2035,7 +2060,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3800,
+      "punteggio": -4000,
       "pubblicato": "2026-10-23T13:35:55+00:00",
       "squadra": "Man United"
     },
@@ -2047,7 +2072,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4000,
+      "punteggio": -4200,
       "pubblicato": "2026-10-23T13:33:26+00:00",
       "squadra": "Man United"
     },
@@ -2059,7 +2084,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4200,
+      "punteggio": -4400,
       "pubblicato": "2026-10-23T13:33:21+00:00",
       "squadra": "Man United"
     },
@@ -2071,7 +2096,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4400,
+      "punteggio": -4600,
       "pubblicato": "2026-10-23T11:33:53+00:00",
       "squadra": "Man United"
     },
@@ -2083,7 +2108,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4600,
+      "punteggio": -4800,
       "pubblicato": "2026-10-23T09:39:37+00:00",
       "squadra": "Man United"
     },
@@ -2095,7 +2120,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4800,
+      "punteggio": -5000,
       "pubblicato": "2026-10-23T09:35:44+00:00",
       "squadra": "Man United"
     },
@@ -2107,7 +2132,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5000,
+      "punteggio": -5200,
       "pubblicato": "2026-10-23T09:08:25+00:00",
       "squadra": "Man United"
     },
@@ -2119,7 +2144,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -5200,
+      "punteggio": -5400,
       "pubblicato": "2026-10-23T07:41:57+00:00",
       "squadra": "Man United"
     },
@@ -2131,7 +2156,7 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5400,
+      "punteggio": -5600,
       "pubblicato": "2026-10-23T07:19:02+00:00",
       "squadra": "Man United"
     },
@@ -2143,7 +2168,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5600,
+      "punteggio": -5800,
       "pubblicato": "2026-10-22T20:14:17+00:00",
       "squadra": "Man United"
     },
@@ -2155,7 +2180,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -5800,
+      "punteggio": -6000,
       "pubblicato": "2026-10-22T19:32:16+00:00",
       "squadra": "Man United"
     },
@@ -2167,7 +2192,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -6000,
+      "punteggio": -6200,
       "pubblicato": "2026-10-22T18:10:37+00:00",
       "squadra": "Man United"
     },
@@ -2179,7 +2204,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6200,
+      "punteggio": -6400,
       "pubblicato": "2026-10-22T15:57:29+00:00",
       "squadra": "Man United"
     },
@@ -2191,7 +2216,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -6400,
+      "punteggio": -6600,
       "pubblicato": "2026-10-22T15:46:12+00:00",
       "squadra": "Man United"
     },
@@ -2203,7 +2228,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6600,
+      "punteggio": -6800,
       "pubblicato": "2026-10-22T14:24:55+00:00",
       "squadra": "Man United"
     },
@@ -2215,7 +2240,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6800,
+      "punteggio": -7000,
       "pubblicato": "2026-10-22T14:24:48+00:00",
       "squadra": "Man United"
     },
@@ -2227,7 +2252,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7000,
+      "punteggio": -7200,
       "pubblicato": "2026-10-22T14:24:32+00:00",
       "squadra": "Man United"
     },
@@ -2239,7 +2264,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7200,
+      "punteggio": -7400,
       "pubblicato": "2026-10-22T14:24:12+00:00",
       "squadra": "Man United"
     },
@@ -2251,7 +2276,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7400,
+      "punteggio": -7600,
       "pubblicato": "2026-10-22T14:23:20+00:00",
       "squadra": "Man United"
     },
@@ -2263,7 +2288,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7600,
+      "punteggio": -7800,
       "pubblicato": "2026-10-22T14:23:11+00:00",
       "squadra": "Man United"
     },
@@ -2275,7 +2300,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -7800,
+      "punteggio": -8000,
       "pubblicato": "2026-10-22T10:28:31+00:00",
       "squadra": "Man United"
     },
@@ -2287,7 +2312,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8000,
+      "punteggio": -8200,
       "pubblicato": "2026-10-22T09:13:59+00:00",
       "squadra": "Man United"
     },
@@ -2299,7 +2324,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -8200,
+      "punteggio": -8400,
       "pubblicato": "2026-10-22T07:59:15+00:00",
       "squadra": "Man United"
     },
@@ -2311,7 +2336,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -8400,
+      "punteggio": -8600,
       "pubblicato": "2026-10-21T22:50:24+00:00",
       "squadra": "Man United"
     },
@@ -2323,7 +2348,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8600,
+      "punteggio": -8800,
       "pubblicato": "2026-10-21T10:09:07+00:00",
       "squadra": "Man United"
     }
