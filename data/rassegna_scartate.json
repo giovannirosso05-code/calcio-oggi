@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-10-25T12:22:30.110326+00:00",
-  "totale": 42,
+  "aggiornato": "2026-10-25T16:41:25.937430+00:00",
+  "totale": 40,
   "articoli": [
+    {
+      "id": "a7a8c5b832",
+      "titolo": "HIBERNIAN 1 CELTIC 2: Gli uomini di O'Neill resistono alla tempesta ma troppi suoi giocatori continuano ad avere rendimenti altalenanti",
+      "url": "https://www.dailymail.com/sport/football/article-16237367/HIBERNIAN-1-CELTIC-2-martin-oneill-marink-reedijk-kasper-hogh-camilo-duran-storm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nonostante Martin O'Neill possa ribellarsi all'idea che il Celtic sia diventato una squadra alla Jekyll e Hyde, i fatti continuano a raccontare una storia ben diversa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-25T16:37:02+00:00"
+    },
+    {
+      "id": "c901b0e7c5",
+      "titolo": "Continua la striscia positiva dell'Hull, il Brentford strappa un pareggio",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878766",
+      "estratto": "L'imbattibilità casalinga dell'Hull rimane intatta, ma i Tigers non assaporano la vittoria da sette partite dopo l'1-1 contro il Brentford al MKM Stadium.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-25T16:01:48+00:00"
+    },
+    {
+      "id": "9b8bd3505e",
+      "titolo": "Athletic Bilbao senza storia, che poker al Getafe! Tre punti e ora a -2 dalla zona Europa",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/liga/2026/10/25-152149867/athletic_bilbao_senza_storia_che_poker_al_getafe_tre_punti_e_ora_a_-2_dalla_zona_europa/",
+      "estratto": "La formazione basca vince una gara dominata si porta a ridosso dell'area Conference: in gol sono andati Berenguer, Iñaki, Paredes e Yuri",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-25T15:37:24+00:00"
+    },
     {
       "id": "94787848d0",
       "titolo": "Mentre Anthony Gordon si prepara al debutto nel Clásico, come sono andate le altre stelle britanniche?",
@@ -30,15 +57,6 @@
       "pubblicato": "2026-10-25T01:54:18+00:00"
     },
     {
-      "id": "8d79d9f9d7",
-      "titolo": "Koleosho in gol, ma il Paris Fc cade a Lens: rimonta firmata da Thauvin e Hazard",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/10/24-152121834/koleosho_in_gol_ma_il_paris_fc_cade_a_lens_rimonta_firmata_da_thauvin_e_hazard/",
-      "estratto": "Vana la rete dell'azzurro nell'anticipo dell'8ª giornata di Ligue 1, vinto 2-1 dai giallorossi con gli acuti dell'ex Udinese e del belga: i dettagli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T21:40:22+00:00"
-    },
-    {
       "id": "874c64795a",
       "titolo": "Baur ammette che il rendimento europeo del Celtic è innegabile, ma è fiducioso che il club ritroverà la rotta",
       "url": "https://www.dailymail.com/sport/football/article-16235379/Baur-no-hiding-Celtics-European-form-confident.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -46,15 +64,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-24T21:30:46+00:00"
-    },
-    {
-      "id": "3aa348df1c",
-      "titolo": "Dietro cori e fischi, il Man City potrebbe avere più alleati di quanti si voglia ammettere... e il silenzio di Unai Emery la dice lunga, scrive JACK GAUGHAN",
-      "url": "https://www.dailymail.com/sport/football/article-16229471/man-city-allies-aston-villa-ambitious-owners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN A VILLA PARK: La sfilata dei condannati richiede a coloro che si sentono danneggiati dal Man City più creatività rispetto al semplice lancio di pomodori verbali contro i giocatori.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T20:36:48+00:00"
     },
     {
       "id": "2e0ab70c4b",
@@ -127,15 +136,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-24T17:42:57+00:00"
-    },
-    {
-      "id": "950aabeccc",
-      "titolo": "Il Fulham esce dalla zona retrocessione battendo il Coventry",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879255",
-      "estratto": "Il primo gol in Premier League con la maglia del Fulham di Oscar Bobb vale l'1-0 sul Coventry, che solleva i Cottagers fuori dalla zona retrocessione.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T16:22:02+00:00"
     },
     {
       "id": "bdf84378f8",
@@ -361,24 +361,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-10-22T19:13:30+00:00"
-    },
-    {
-      "id": "c301405444",
-      "titolo": "Il genio abbagliante e dribblatore di Dens Park: i CINQUE momenti migliori di Giorgi Nemsadze nel calcio scozzese",
-      "url": "https://www.dailymail.com/sport/football/article-16229387/Nemsadze-Dundee-Georgia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Tributi commossi sono stati tributati alla leggenda del Dundee Giorgi Nemsadze in seguito alla sua scomparsa all'età di 54 anni. Qui ripercorriamo i momenti più memorabili del georgiano in maglia blu scuro.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-22T16:11:36+00:00"
-    },
-    {
-      "id": "36ba5c663a",
-      "titolo": "Valverde e Güler dimostrano perché saranno fondamentali per il Real Madrid nel Clásico di domenica",
-      "url": "https://www.espn.com/soccer/story/_/id/50242608/valverde-guler-show-why-theyll-key-madrid-sundays-clasico",
-      "estratto": "Kylian Mbappé ha avvertito che non bisogna dare \"troppo peso\" alla vittoria travolgente del Real Madrid contro il RB Leipzig in vista del Clásico di domenica, ma José Mourinho sta sicuramente iniziando a capire quale sia il suo undici migliore.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-22T14:11:49+00:00"
     }
   ]
 }
