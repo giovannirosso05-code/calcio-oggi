@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-10-25T06:57:01.979750+00:00",
-  "totale": 47,
+  "aggiornato": "2026-10-25T12:22:30.110326+00:00",
+  "totale": 42,
   "articoli": [
+    {
+      "id": "94787848d0",
+      "titolo": "Mentre Anthony Gordon si prepara al debutto nel Clásico, come sono andate le altre stelle britanniche?",
+      "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
+      "estratto": "Mentre Anthony Gordon si appresta a vivere il suo primo Clásico, ripercorriamo le esperienze degli altri fuoriclasse britannici in questa storica sfida.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-25T12:07:32+00:00"
+    },
+    {
+      "id": "18e205ab4b",
+      "titolo": "I tifosi esprimono preoccupazione per Mark Chapman dopo la prestazione 'sottotono' del conduttore a Match of the Day",
+      "url": "https://www.dailymail.com/sport/football/article-16236993/Fans-concern-Mark-Chapman-presenters-subdued-display-Match-Day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Chapman, 53 anni, è un conduttore estremamente popolare in TV e radio, e lavora per emittenti del calibro di BBC Radio 5 Live, Sky Sports e Match of the Day.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-25T11:22:53+00:00"
+    },
     {
       "id": "9ac8d0d44f",
       "titolo": "Alex Freeman arricchisce il suo straordinario 2026 con un gol",
@@ -129,15 +147,6 @@
       "pubblicato": "2026-10-24T12:53:39+00:00"
     },
     {
-      "id": "94787848d0",
-      "titolo": "Mentre Anthony Gordon si prepara al debutto nel Clásico, come sono andate le altre stelle britanniche?",
-      "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
-      "estratto": "Mentre Anthony Gordon si appresta a vivere il suo primo Clásico, ripercorriamo le esperienze degli altri fuoriclasse britannici in questa storica sfida.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T12:20:52+00:00"
-    },
-    {
       "id": "4e327a9a4f",
       "titolo": "La storia di 30 anni del Brighton, sull'orlo dell'estinzione e ora nelle zone alte, raccontata da chi ha salvato il club: da un proprietario spericolato, un'inchiesta giornalistica e cause legali fino al gol salva-vita, alla gloria dei playoff e ai maghi della matematica di Tony Bloom",
       "url": "https://www.dailymail.com/sport/football/article-16229593/Brighton-Tony-Bloom-30-year-ris.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -154,15 +163,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-24T00:19:46+00:00"
-    },
-    {
-      "id": "d6d2abf22f",
-      "titolo": "Il Nottingham Forest recrimina per il cartellino rosso \"errato\" e le occasioni sprecate nel pareggio con l'Ipswich",
-      "url": "https://www.espn.com/soccer/story/_/id/50261284/nottingham-forest-ipswich-town-red-card-issa-diop",
-      "estratto": "Il Nottingham Forest ha contestato la decisione dell'arbitro di non lasciare l'Ipswich Town in dieci uomini nel secondo tempo, oltre a diverse occasioni fallite sotto porta, dopo l'1-1 a Portman Road.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T23:13:21+00:00"
     },
     {
       "id": "8882752d2e",
@@ -379,51 +379,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-10-22T14:11:49+00:00"
-    },
-    {
-      "id": "f34084eb10",
-      "titolo": "Riesci a risolvere il super quiz sulla Premier League di Ian Ladyman? Iscriviti alla newsletter Football Unfiltered di Daily Mail Sport e ricevi la nostra sfida esclusiva direttamente nella tua casella di posta",
-      "url": "https://www.dailymail.com/sport/football/article-16190717/Can-you-tackle-Ian-Ladymans-ultimate-Premier-League-quiz-Sign-Daily-Mail-Sports-Football-Unfiltered-newsletter-receive-exclusive-challenge-straight-inbox.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ogni lunedì vi offriremo approfondimenti esclusivi dai nostri inviati sui campi, le ultime notizie dal mondo del calcio e le opinioni del redattore calcistico Ian Ladyman.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-22T11:35:41+00:00"
-    },
-    {
-      "id": "5bf41c50bf",
-      "titolo": "Sei UN esperto di Premier League? Affronta il super quiz di IAN LADYMAN con Football Unfiltered",
-      "url": "https://www.dailymail.com/sport/football/article-16190729/Are-YOU-Premier-League-expert-IAN-LADYMANS-ultimate-quiz-Football-Unfiltered.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Salve! Se state leggendo questo, vi siete iscritti alla newsletter Football Unfiltered di Daily Mail Sport. Una saggia scelta, benvenuti a bordo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-22T11:00:49+00:00"
-    },
-    {
-      "id": "4f044d977b",
-      "titolo": "Frank Leboeuf attacca Bruno Fernandes per 'tradimento': 'Inizia a correre e smettila di parlare'",
-      "url": "https://www.espn.com/soccer/story/_/id/50246739/bruno-fernandes-frank-lebouef",
-      "estratto": "La leggenda della Francia Frank Leboeuf ha duramente criticato il centrocampista del Manchester United Bruno Fernandes per le sue critiche nei confronti di Michael Carrick in seguito all'umiliante sconfitta del club per 4-1 contro il Como in Champion",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-22T09:54:03+00:00"
-    },
-    {
-      "id": "483e6bf255",
-      "titolo": "Jamie Carragher attacca Bruno Fernandes per le critiche a Michael Carrick: \"Uno scandalo assoluto\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50242382/jamie-carragher-slams-bruno-fernandes-michael-carrick-criticism-absolute-disgrace-man-united",
-      "estratto": "Carragher è stato feroce nelle sue critiche nei confronti di Fernandes dopo che il centrocampista è sembrato criticare le tattiche di Carrick nella sconfitta del Manchester United contro il Como.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-10-22T09:33:18+00:00"
-    },
-    {
-      "id": "33815638ce",
-      "titolo": "Poker d’Italia in Champions",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/10/22-152057396/poker_ditalia_in_champions/",
-      "estratto": "Leggi il commento sulle vittorie delle formazioni italiane impegnate in Champions: si sbloccano Inter e Napoli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-10-22T07:06:30+00:00"
     }
   ]
 }
