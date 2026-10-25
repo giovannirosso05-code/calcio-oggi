@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-24T23:44:38.186365+00:00",
-  "totale": 178,
+  "aggiornato": "2026-10-25T01:42:58.224269+00:00",
+  "totale": 174,
   "articoli": [
     {
       "id": "228866bf41",
@@ -135,6 +135,18 @@
       "squadra": "Como"
     },
     {
+      "id": "3be665298b",
+      "titolo": "Il Tottenham resiste e conquista una rara vittoria nel derby a Stamford Bridge: il Chelsea perde la testa e Cole Palmer viene espulso",
+      "url": "https://www.dailymail.com/sport/football/article-16229483/Tottenham-stand-strong-claim-rare-derby-victory-Stamford-Bridge-Chelsea-lose-cool-Cole-Palmer-sees-red.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tempo pessimo nella Londra occidentale ha dato vita a una sfida scivolosa all'altezza delle aspettative, e raramente in simili circostanze il Tottenham ha la meglio.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-10-25T01:04:51+00:00",
+      "squadra": "Derby"
+    },
+    {
       "id": "efa4f27f31",
       "titolo": "Julián Álvarez si scusa con i tifosi dell'Atlético Madrid per il tentativo di trasferirsi al Barcellona",
       "url": "https://www.espn.com/soccer/story/_/id/50270296/julian-alvarez-atletico-madrid-sorry-barcelona-transfer",
@@ -181,18 +193,6 @@
       "punteggio": 120,
       "pubblicato": "2026-10-24T21:29:17+00:00",
       "squadra": "Catanzaro"
-    },
-    {
-      "id": "3be665298b",
-      "titolo": "Il Tottenham resiste e conquista una rara vittoria nel derby a Stamford Bridge: il Chelsea perde la testa e Cole Palmer viene espulso",
-      "url": "https://www.dailymail.com/sport/football/article-16229483/Tottenham-stand-strong-claim-rare-derby-victory-Stamford-Bridge-Chelsea-lose-cool-Cole-Palmer-sees-red.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tempo pessimo nella Londra occidentale ha dato vita a una sfida scivolosa all'altezza delle aspettative, e raramente in simili circostanze il Tottenham ha la meglio.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-10-24T21:11:40+00:00",
-      "squadra": "Derby"
     },
     {
       "id": "bc5b8127bf",
@@ -484,6 +484,18 @@
       "squadra": "AS Roma"
     },
     {
+      "id": "5f313cf6ae",
+      "titolo": "Il Barcellona svolge gli ultimi preparativi per il Real Madrid",
+      "url": "https://www.espn.com/video/clip/_/id/50271519/barcelona-making-final-preparations-real-madrid",
+      "estratto": "Scopri cosa sta facendo il Barcellona nelle ultime ore prima della sfida contro il Real Madrid nel Clásico.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-25T00:08:44+00:00",
+      "squadra": "Barcelona"
+    },
+    {
       "id": "4e56b83db0",
       "titolo": "Calciomercato No Stop - Indiscrezioni, trattative e retroscena del 24 ottobre",
       "url": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-24-ottobre-2286938",
@@ -504,18 +516,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-24T22:38:34+00:00"
-    },
-    {
-      "id": "15d3e3c42a",
-      "titolo": "McManaman: il Barcellona avrà troppo potenziale offensivo per il Real Madrid",
-      "url": "https://www.espn.com/video/clip/_/id/50270579/barcelona-too-much-firepower-real-madrid",
-      "estratto": "McManaman: il Barcellona avrà troppo potenziale offensivo per il Real Madrid",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-24T22:25:56+00:00",
-      "squadra": "Barcelona"
     },
     {
       "id": "1f23f11989",
@@ -735,18 +735,6 @@
       "squadra": "Sassuolo"
     },
     {
-      "id": "ca453a514f",
-      "titolo": "Potrebbero non servire attaccanti stellari affinché l'Arsenal vinca la Champions League",
-      "url": "https://www.espn.com/soccer/story/_/id/50241594/star-attackers-not-needed-arsenal-win-champions-league",
-      "estratto": "La resilienza di Declan Rice e dell'Arsenal si è vista a Monaco, smentendo l'idea che un innesto d'élite nel reparto offensivo sia una necessità.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -60,
-      "pubblicato": "2026-10-22T00:35:51+00:00",
-      "squadra": "Arsenal"
-    },
-    {
       "id": "f4077c9eff",
       "titolo": "Bologna sentenza in trasferta. Cagliari, è già finita la magia? Alla Unipol Domus finisce 0-2",
       "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/bologna-sentenza-trasferta-cagliari-finita-magia-unipol-domus-finisce-0-2-2286766",
@@ -781,6 +769,18 @@
       "punteggio": -80,
       "pubblicato": "2026-10-24T22:07:19+00:00",
       "squadra": "Chelsea"
+    },
+    {
+      "id": "aa5d852568",
+      "titolo": "Mikel Arteta dell'Arsenal raccoglie prove sui tecnici avversari dopo il cartellino giallo",
+      "url": "https://www.espn.com/soccer/story/_/id/50269350/arsenal-mikel-arteta-managers-yellow-card-touchline-everton",
+      "estratto": "L'allenatore dell'Arsenal Mikel Arteta ha dichiarato di avere un «enorme archivio di immagini» che ritraggono i tecnici rivali di Premier League infrangere le regole a bordocampo, dopo aver ricevuto il suo secondo cartellino giallo stagionale.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-10-24T20:32:44+00:00",
+      "squadra": "Arsenal"
     },
     {
       "id": "ee8ad949f3",
@@ -891,15 +891,15 @@
       "squadra": "Bournemouth"
     },
     {
-      "id": "0e8734e4cf",
-      "titolo": "Anthony Gordon dà un voto da 1 a 10 al suo inizio al Barcellona",
-      "url": "https://www.espn.com/soccer/story/_/id/50265160/anthony-gordon-barcelona-real-madrid-clasico",
-      "estratto": "L'attaccante del Barcellona e dell'Inghilterra Anthony Gordon ha dichiarato a ESPN di essere ancora lontano da dove vorrebbe trovarsi, mentre si prepara per il Clásico di domenica contro il Real Madrid.",
+      "id": "15d3e3c42a",
+      "titolo": "McManaman: il Barcellona avrà troppo potenziale offensivo per il Real Madrid",
+      "url": "https://www.espn.com/video/clip/_/id/50270579/barcelona-too-much-firepower-real-madrid",
+      "estratto": "McManaman: il Barcellona avrà troppo potenziale offensivo per il Real Madrid",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -200,
-      "pubblicato": "2026-10-24T15:17:36+00:00",
+      "pubblicato": "2026-10-24T22:25:56+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -999,18 +999,6 @@
       "squadra": "Atlético"
     },
     {
-      "id": "aa5d852568",
-      "titolo": "Mikel Arteta dell'Arsenal raccoglie prove sui tecnici avversari dopo il cartellino giallo",
-      "url": "https://www.espn.com/soccer/story/_/id/50269350/arsenal-mikel-arteta-managers-yellow-card-touchline-everton",
-      "estratto": "L'allenatore dell'Arsenal Mikel Arteta ha dichiarato di avere un «enorme archivio di immagini» che ritraggono i tecnici rivali di Premier League infrangere le regole a bordocampo, dopo aver ricevuto il suo secondo cartellino giallo stagionale.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -280,
-      "pubblicato": "2026-10-24T20:32:44+00:00",
-      "squadra": "Arsenal"
-    },
-    {
       "id": "256c3545d6",
       "titolo": "La rara vittoria del Tottenham in casa del Chelsea è il segnale della crescita con De Zerbi",
       "url": "https://www.espn.com/soccer/story/_/id/50268567/tottenham-hotspurs-rare-win-chelsea-signals-progress-roberto-de-zerbi",
@@ -1021,6 +1009,18 @@
       "punteggio": -280,
       "pubblicato": "2026-10-24T20:08:47+00:00",
       "squadra": "Chelsea"
+    },
+    {
+      "id": "6e32140416",
+      "titolo": "L'Arsenal ritrova il tocco magico sui calci d'angolo: Ezri Konsa e Gabriel puniscono un Everton sprecone e agganciano i Gunners in vetta con il Manchester City",
+      "url": "https://www.dailymail.com/sport/football/article-16229473/Arsenal-rediscover-magic-touch-corners-Ezri-Konsa-Gabriel-punish-wasteful-Everton-Gunners-level-Man-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I difensori centrali Ezri Konsa e Gabriel festeggiano traguardi personali mentre l'Arsenal batte l'Everton 2-0, agganciando in testa alla classifica il Manchester City, capolista della Premier League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-10-24T17:56:00+00:00",
+      "squadra": "Arsenal"
     },
     {
       "id": "9069cb4ca7",
@@ -1119,15 +1119,15 @@
       "squadra": "Bournemouth"
     },
     {
-      "id": "302c7340db",
-      "titolo": "Il Barcellona illustra il piano per fermare Kylian Mbappé del Real Madrid nel Clásico",
-      "url": "https://www.espn.com/soccer/story/_/id/50265100/barcelona-real-madrid-kylian-mbappe-el-clasico",
-      "estratto": "L'allenatore del Barcellona Hansi Flick sostiene che il posizionamento della squadra e il lavoro senza palla siano la chiave per fermare l'attaccante del Real Madrid Kylian Mbappé nel Clásico di domenica.",
+      "id": "0e8734e4cf",
+      "titolo": "Anthony Gordon dà un voto da 1 a 10 al suo inizio al Barcellona",
+      "url": "https://www.espn.com/soccer/story/_/id/50265160/anthony-gordon-barcelona-real-madrid-clasico",
+      "estratto": "L'attaccante del Barcellona e dell'Inghilterra Anthony Gordon ha dichiarato a ESPN di essere ancora lontano da dove vorrebbe trovarsi, mentre si prepara per il Clásico di domenica contro il Real Madrid.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-10-24T12:10:04+00:00",
+      "pubblicato": "2026-10-24T15:17:36+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1215,15 +1215,15 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "6e32140416",
-      "titolo": "L'Arsenal ritrova il tocco magico sui calci d'angolo: Ezri Konsa e Gabriel puniscono un Everton sprecone e agganciano i Gunners in vetta con il Manchester City",
-      "url": "https://www.dailymail.com/sport/football/article-16229473/Arsenal-rediscover-magic-touch-corners-Ezri-Konsa-Gabriel-punish-wasteful-Everton-Gunners-level-Man-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I difensori centrali Ezri Konsa e Gabriel festeggiano traguardi personali mentre l'Arsenal batte l'Everton 2-0, agganciando in testa alla classifica il Manchester City, capolista della Premier League.",
-      "fonte": "Daily Mail",
+      "id": "5bf4a03ef3",
+      "titolo": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
+      "url": "https://www.espn.com/video/clip/_/id/50267261/did-arsenal-prioritise-result-performance-vs-everton",
+      "estratto": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -480,
-      "pubblicato": "2026-10-24T17:56:00+00:00",
+      "pubblicato": "2026-10-24T17:38:30+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1299,15 +1299,15 @@
       "squadra": "Bournemouth"
     },
     {
-      "id": "65ac8cc98a",
-      "titolo": "José Mourinho sicuro di sé prima del Clásico contro il Barcellona: \"Il Madrid con Mourinho vince trofei\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50264660/jose-mourinho-backs-ahead-el-clasico-vs-barcelona-madrid-mourinho-wins-trophies",
-      "estratto": "José Mourinho si è detto fiducioso di poter fare bene al Real Madrid prima dell'attesissimo Clásico di domenica contro la capolista de LaLiga, il Barcellona, insistendo sul fatto che \"il Madrid con Mourinho vince trofei\".",
+      "id": "302c7340db",
+      "titolo": "Il Barcellona illustra il piano per fermare Kylian Mbappé del Real Madrid nel Clásico",
+      "url": "https://www.espn.com/soccer/story/_/id/50265100/barcelona-real-madrid-kylian-mbappe-el-clasico",
+      "estratto": "L'allenatore del Barcellona Hansi Flick sostiene che il posizionamento della squadra e il lavoro senza palla siano la chiave per fermare l'attaccante del Real Madrid Kylian Mbappé nel Clásico di domenica.",
       "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-10-24T12:09:52+00:00",
+      "pubblicato": "2026-10-24T12:10:04+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1323,15 +1323,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "c1c13be3bc",
-      "titolo": "Il Real Madrid dovrebbe innervosire il Barcellona con i falli in El Clásico?",
-      "url": "https://www.espn.com/video/clip/_/id/50252567/should-real-madrid-frustrate-barcelona-fouls-el-clasico",
-      "estratto": "Il Real Madrid dovrebbe innervosire il Barcellona con i falli in El Clásico?",
+      "id": "4f3024b3be",
+      "titolo": "Mbappé e Diomande fanno esultare, mentre Vinícius Jr. viene fischiato nella vittoria del Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50242047/real-madrid-rb-leipzig-yan-diomande-kylian-mbappe-vinicius-jr",
+      "estratto": "José Mourinho ha dichiarato che i tifosi del Real Madrid \"sono tornati a casa felici\" grazie agli splendidi gol di Yan Diomande e Kylian Mbappé nella vittoria per 4-1 della squadra contro il RB Leipzig mercoledì.",
       "fonte": "ESPN",
-      "serie": "Estero",
+      "serie": "Champions",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-10-22T21:48:39+00:00",
+      "pubblicato": "2026-10-22T14:06:18+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1371,15 +1371,15 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "5bf4a03ef3",
-      "titolo": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
-      "url": "https://www.espn.com/video/clip/_/id/50267261/did-arsenal-prioritise-result-performance-vs-everton",
-      "estratto": "L'Arsenal ha dato priorità al risultato rispetto alla prestazione contro l'Everton?",
+      "id": "94a568f065",
+      "titolo": "Konsa e Gabriel firmano i gol dell'Arsenal che frenano l'Everton",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878768",
+      "estratto": "I difensori centrali Ezri Konsa e Gabriel festeggiano traguardi personali mentre l'Arsenal batte l'Everton 2-0, agganciando in testa alla classifica il Manchester City, capolista della Premier League.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -680,
-      "pubblicato": "2026-10-24T17:38:30+00:00",
+      "pubblicato": "2026-10-24T16:07:36+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1407,18 +1407,6 @@
       "squadra": "Como"
     },
     {
-      "id": "5ad5555c2d",
-      "titolo": "Ruben Amorim disinteressato a contribuire al dibattito sul Man United: \"Nulla da dire\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50241962/ruben-amorim-uninterested-contributing-man-united-discourse-say-ac-milan",
-      "estratto": "Ruben Amorim ha insistito sul fatto di non avere \"nulla da dire\" sul Manchester United in vista della sfida di Europa League del Milan a Bournemouth giovedì sera.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": -760,
-      "pubblicato": "2026-10-21T23:50:30+00:00",
-      "squadra": "Man United"
-    },
-    {
       "id": "e7627c7f16",
       "titolo": "Juve, la Primavera vince col brivido: da 2-0 a 2-2 poi Gielen firma il successo bianconero nel recupero",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/24-152107864/juve_la_primavera_vince_col_brivido_da_2-0_a_2-2_poi_gielen_firma_il_successo_bianconero_nel_recupero/",
@@ -1443,6 +1431,18 @@
       "squadra": "Milan"
     },
     {
+      "id": "2eb4c3cd43",
+      "titolo": "\"È una combinazione di tutto!\": Youri Tielemans accusa lo spogliatoio del Manchester United di mancanza di impegno, mentre emerge UN'ALTRA intervista schiacciante di Bruno Fernandes sul vivere \"nel passato\" dopo l'umiliazione di Como",
+      "url": "https://www.dailymail.com/sport/football/article-16229003/Its-combination-Youri-Tielemans-accuses-Man-United-dressing-room-lacking-effort-admits-technical-tactical-areas-need-improve-Como-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Youri Tielemans ha fatto la clamorosa ammissione che c'è una mancanza di impegno all'interno dello spogliatoio del Manchester United, tra gli altri problemi, mentre continua la scia polemica per la disfatta di Como.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -770,
+      "pubblicato": "2026-10-22T15:00:06+00:00",
+      "squadra": "Man United"
+    },
+    {
       "id": "cafa5652ee",
       "titolo": "Michael Carrick promette che contro il Bournemouth si vedrà un Man United «diverso»",
       "url": "https://www.espn.com/soccer/story/_/id/50267263/michael-carrick-man-united-different-team-bournemouth",
@@ -1455,40 +1455,28 @@
       "squadra": "Bournemouth"
     },
     {
-      "id": "71427d0cfa",
-      "titolo": "Il Clásico è più importante per il Barcellona o per il Real Madrid?",
-      "url": "https://www.espn.com/video/clip/_/id/50260126/is-el-clasico-more-important-barcelona-real-madrid",
-      "estratto": "Il Clásico è più importante per il Barcellona o per il Real Madrid?",
+      "id": "65ac8cc98a",
+      "titolo": "José Mourinho sicuro di sé prima del Clásico contro il Barcellona: \"Il Madrid con Mourinho vince trofei\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50264660/jose-mourinho-backs-ahead-el-clasico-vs-barcelona-madrid-mourinho-wins-trophies",
+      "estratto": "José Mourinho si è detto fiducioso di poter fare bene al Real Madrid prima dell'attesissimo Clásico di domenica contro la capolista de LaLiga, il Barcellona, insistendo sul fatto che \"il Madrid con Mourinho vince trofei\".",
       "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": false,
+      "citazione": true,
       "punteggio": -800,
-      "pubblicato": "2026-10-23T19:53:33+00:00",
+      "pubblicato": "2026-10-24T12:09:52+00:00",
       "squadra": "Barcelona"
     },
     {
-      "id": "4f3024b3be",
-      "titolo": "Mbappé e Diomande fanno esultare, mentre Vinícius Jr. viene fischiato nella vittoria del Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50242047/real-madrid-rb-leipzig-yan-diomande-kylian-mbappe-vinicius-jr",
-      "estratto": "José Mourinho ha dichiarato che i tifosi del Real Madrid \"sono tornati a casa felici\" grazie agli splendidi gol di Yan Diomande e Kylian Mbappé nella vittoria per 4-1 della squadra contro il RB Leipzig mercoledì.",
+      "id": "790f77f537",
+      "titolo": "José Mourinho e Kylian Mbappé difendono Vinícius Júnior dopo i fischi dei tifosi del Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50246766/jose-mourinho-kylian-mbappe-defend-vinicius-junior-whistles-real-madrid-fans",
+      "estratto": "L'allenatore del Real Madrid José Mourinho e Kylian Mbappé hanno difeso Vinícius Júnior dopo che l'attaccante brasiliano ha attirato i fischi dei tifosi di casa durante la vittoria di mercoledì contro l'RB Lipsia.",
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -800,
-      "pubblicato": "2026-10-22T14:06:18+00:00",
+      "pubblicato": "2026-10-22T14:05:09+00:00",
       "squadra": "Real Madrid"
-    },
-    {
-      "id": "0b07a1b115",
-      "titolo": "Klinsmann: Il pareggio danneggia il Bayern Monaco più dell'Arsenal",
-      "url": "https://www.espn.com/video/clip/_/id/50242197/draw-damages-bayern-munich-more-arsenal",
-      "estratto": "Klinsmann: Il pareggio danneggia il Bayern Monaco più dell'Arsenal",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -800,
-      "pubblicato": "2026-10-22T00:35:41+00:00",
-      "squadra": "Bayern"
     },
     {
       "id": "849a081d4c",
@@ -1527,18 +1515,6 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "94a568f065",
-      "titolo": "Konsa e Gabriel firmano i gol dell'Arsenal che frenano l'Everton",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401878768",
-      "estratto": "I difensori centrali Ezri Konsa e Gabriel festeggiano traguardi personali mentre l'Arsenal batte l'Everton 2-0, agganciando in testa alla classifica il Manchester City, capolista della Premier League.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -880,
-      "pubblicato": "2026-10-24T16:07:36+00:00",
-      "squadra": "Arsenal"
-    },
-    {
       "id": "22075ca6e4",
       "titolo": "Haaland non basta: primo ko per il Manchester City e aggancio Arsenal in vetta. De Zerbi vince anche con il Chelsea",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/10/24-152115691/haaland_non_basta_al_manchester_city_primo_ko_in_premier_league_jackson_fa_volare_l_aston_villa/",
@@ -1549,6 +1525,18 @@
       "punteggio": -880,
       "pubblicato": "2026-10-24T13:59:11+00:00",
       "squadra": "Man City"
+    },
+    {
+      "id": "b10c34aba2",
+      "titolo": "Bukayo Saka ko fino a otto settimane: tegola pesantissima per l'Arsenal, ma Mikel Arteta respinge i timori di un esaurimento da sovraccarico per la stella falcidiata dagli infortuni",
+      "url": "https://www.dailymail.com/sport/football/article-16234117/Bukayo-Saka-injury-eight-weeks-Arsenal-Mikel-Arteta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Bukayo Saka ha rimediato il problema fisico appena 10 minuti dopo l'inizio della sfida di Champions League tra Arsenal e Bayern Monaco mercoledì sera.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -880,
+      "pubblicato": "2026-10-23T18:46:55+00:00",
+      "squadra": "Arsenal"
     },
     {
       "id": "11c3f01b9a",
@@ -1587,40 +1575,28 @@
       "squadra": "Milan"
     },
     {
-      "id": "2eb4c3cd43",
-      "titolo": "\"È una combinazione di tutto!\": Youri Tielemans accusa lo spogliatoio del Manchester United di mancanza di impegno, mentre emerge UN'ALTRA intervista schiacciante di Bruno Fernandes sul vivere \"nel passato\" dopo l'umiliazione di Como",
-      "url": "https://www.dailymail.com/sport/football/article-16229003/Its-combination-Youri-Tielemans-accuses-Man-United-dressing-room-lacking-effort-admits-technical-tactical-areas-need-improve-Como-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Youri Tielemans ha fatto la clamorosa ammissione che c'è una mancanza di impegno all'interno dello spogliatoio del Manchester United, tra gli altri problemi, mentre continua la scia polemica per la disfatta di Como.",
+      "id": "37a3bf4f8d",
+      "titolo": "Il capitano del Manchester United Bruno Fernandes mette in discussione le tattiche del tecnico Michael Carrick dopo l'umiliazione in Champions League a Como",
+      "url": "https://www.dailymail.com/sport/football/article-16227947/Man-United-captain-Bruno-Fernandes-questions-manager-Michael-Carricks-tactics-wake-Champions-League-humiliation-Como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il capitano del Manchester United Bruno Fernandes ha messo in discussione le tattiche di Michael Carrick sulla scia dell'umiliazione subita dal club in Champions League a Como.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "citazione": true,
-      "punteggio": -970,
-      "pubblicato": "2026-10-22T15:00:06+00:00",
+      "citazione": false,
+      "punteggio": -980,
+      "pubblicato": "2026-10-22T07:20:40+00:00",
       "squadra": "Man United"
     },
     {
-      "id": "0f917b3d4a",
-      "titolo": "Gavi e Cubarsí del Barcellona presentano il decisivo Clásico di domenica",
-      "url": "https://www.espn.com/video/clip/_/id/50259618/barcelona-gavi-cubarsi-preview-sunday-crunch-el-clasico",
-      "estratto": "Gavi e Cubarsí del Barcellona presentano il decisivo Clásico di domenica",
+      "id": "71427d0cfa",
+      "titolo": "Il Clásico è più importante per il Barcellona o per il Real Madrid?",
+      "url": "https://www.espn.com/video/clip/_/id/50260126/is-el-clasico-more-important-barcelona-real-madrid",
+      "estratto": "Il Clásico è più importante per il Barcellona o per il Real Madrid?",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1000,
-      "pubblicato": "2026-10-23T18:31:43+00:00",
+      "pubblicato": "2026-10-23T19:53:33+00:00",
       "squadra": "Barcelona"
-    },
-    {
-      "id": "790f77f537",
-      "titolo": "José Mourinho e Kylian Mbappé difendono Vinícius Júnior dopo i fischi dei tifosi del Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50246766/jose-mourinho-kylian-mbappe-defend-vinicius-junior-whistles-real-madrid-fans",
-      "estratto": "L'allenatore del Real Madrid José Mourinho e Kylian Mbappé hanno difeso Vinícius Júnior dopo che l'attaccante brasiliano ha attirato i fischi dei tifosi di casa durante la vittoria di mercoledì contro l'RB Lipsia.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-10-22T14:05:09+00:00",
-      "squadra": "Real Madrid"
     },
     {
       "id": "74be6ed2c5",
@@ -1647,18 +1623,6 @@
       "squadra": "Man City"
     },
     {
-      "id": "b10c34aba2",
-      "titolo": "Bukayo Saka ko fino a otto settimane: tegola pesantissima per l'Arsenal, ma Mikel Arteta respinge i timori di un esaurimento da sovraccarico per la stella falcidiata dagli infortuni",
-      "url": "https://www.dailymail.com/sport/football/article-16234117/Bukayo-Saka-injury-eight-weeks-Arsenal-Mikel-Arteta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Bukayo Saka ha rimediato il problema fisico appena 10 minuti dopo l'inizio della sfida di Champions League tra Arsenal e Bayern Monaco mercoledì sera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1080,
-      "pubblicato": "2026-10-23T18:46:55+00:00",
-      "squadra": "Arsenal"
-    },
-    {
       "id": "c5338f2878",
       "titolo": "Chi è il Como? Il club della meta di vacanze che ha appena steso il Manchester United",
       "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
@@ -1683,27 +1647,27 @@
       "squadra": "Juventus"
     },
     {
-      "id": "37a3bf4f8d",
-      "titolo": "Il capitano del Manchester United Bruno Fernandes mette in discussione le tattiche del tecnico Michael Carrick dopo l'umiliazione in Champions League a Como",
-      "url": "https://www.dailymail.com/sport/football/article-16227947/Man-United-captain-Bruno-Fernandes-questions-manager-Michael-Carricks-tactics-wake-Champions-League-humiliation-Como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il capitano del Manchester United Bruno Fernandes ha messo in discussione le tattiche di Michael Carrick sulla scia dell'umiliazione subita dal club in Champions League a Como.",
+      "id": "6bc7abd9d7",
+      "titolo": "Tre tifosi del Manchester United ricoverati in ospedale dopo una sanguinosa rissa 'con i propri tifosi' in un bar vicino al lago di Como, prima che la loro squadra fosse travolta per 4-1",
+      "url": "https://www.dailymail.com/sport/football/article-16228979/man-united-fans-fight-como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Tre tifosi del Manchester United sono stati trasportati in ospedale in seguito a una rissa in un bar prima della sconfitta del club in Champions League contro il Como.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1180,
-      "pubblicato": "2026-10-22T07:20:40+00:00",
+      "punteggio": -1200,
+      "pubblicato": "2026-10-24T17:15:40+00:00",
       "squadra": "Man United"
     },
     {
-      "id": "eb5f3a9eb2",
-      "titolo": "Prima di \"the special one\", José Mourinho è stato \"the Barca one\"",
-      "url": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
-      "estratto": "Prima di \"the special one\", José Mourinho è stato \"the Barca one\"",
+      "id": "0f917b3d4a",
+      "titolo": "Gavi e Cubarsí del Barcellona presentano il decisivo Clásico di domenica",
+      "url": "https://www.espn.com/video/clip/_/id/50259618/barcelona-gavi-cubarsi-preview-sunday-crunch-el-clasico",
+      "estratto": "Gavi e Cubarsí del Barcellona presentano il decisivo Clásico di domenica",
       "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -1200,
-      "pubblicato": "2026-10-22T22:17:50+00:00",
+      "pubblicato": "2026-10-23T18:31:43+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -1731,16 +1695,28 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "567fc82aaf",
-      "titolo": "Temi caldi di Champions League: Che cosa pensare del caos al Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50239980/champions-league-talking-points-make-man-utd-mess",
-      "estratto": "Gab Marcotti, Sam Tighe, Beth Lindop e Mark Ogden analizzano una notte estremamente imbarazzante per il Manchester United, oltre a tutti gli altri momenti chiave della terza giornata.",
+      "id": "99f13560d6",
+      "titolo": "Michael Carrick fa il punto sugli infortuni del Man United e chiede preparazione mentale",
+      "url": "https://www.espn.com/soccer/story/_/id/50265207/michael-carrick-man-united-injury-updates-rashford-mainoo-martinez",
+      "estratto": "Il contestato Michael Carrick ha affermato che i suoi giocatori devono essere pronti mentalmente a voltare pagina se un Manchester United in crisi vorrà porre fine al suo digiuno di vittorie contro il Bournemouth.",
       "fonte": "ESPN",
-      "serie": "Champions",
+      "serie": "Estero",
       "citazione": false,
-      "punteggio": -1380,
-      "pubblicato": "2026-10-22T00:44:12+00:00",
+      "punteggio": -1400,
+      "pubblicato": "2026-10-24T12:47:17+00:00",
       "squadra": "Man United"
+    },
+    {
+      "id": "eb5f3a9eb2",
+      "titolo": "Prima di \"the special one\", José Mourinho è stato \"the Barca one\"",
+      "url": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
+      "estratto": "Prima di \"the special one\", José Mourinho è stato \"the Barca one\"",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -1400,
+      "pubblicato": "2026-10-22T22:17:50+00:00",
+      "squadra": "Barcelona"
     },
     {
       "id": "8bcfd271f7",
@@ -1767,15 +1743,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "6bc7abd9d7",
-      "titolo": "Tre tifosi del Manchester United ricoverati in ospedale dopo una sanguinosa rissa 'con i propri tifosi' in un bar vicino al lago di Como, prima che la loro squadra fosse travolta per 4-1",
-      "url": "https://www.dailymail.com/sport/football/article-16228979/man-united-fans-fight-como.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Tre tifosi del Manchester United sono stati trasportati in ospedale in seguito a una rissa in un bar prima della sconfitta del club in Champions League contro il Como.",
+      "id": "5e8402fa3f",
+      "titolo": "Il monologo polemico di Michael Carrick è uscito dritto dal manuale di Sir Alex Ferguson, ma le sue parole forti rischiano di essere vuote se non riuscirà a risollevare il Manchester United dal baratro della disperazione, scrive CHRIS WHEELER",
+      "url": "https://www.dailymail.com/sport/football/article-16234073/Defiant-Michael-Carricks-monologue-straight-Sir-Alex-Ferguson-playbook-powerful-words-unless-drag-Man-United-depths-despair-writes-CHRIS-WHEELER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "CHRIS WHEELER: Non dai tempi dei monologhi iniziali di Sir Alex Ferguson un allenatore del Manchester United iniziava la sua conferenza stampa settimanale a Carrington senza accettare domande.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1600,
-      "pubblicato": "2026-10-24T17:15:40+00:00",
+      "pubblicato": "2026-10-24T08:05:34+00:00",
       "squadra": "Man United"
     },
     {
@@ -1803,15 +1779,15 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "99f13560d6",
-      "titolo": "Michael Carrick fa il punto sugli infortuni del Man United e chiede preparazione mentale",
-      "url": "https://www.espn.com/soccer/story/_/id/50265207/michael-carrick-man-united-injury-updates-rashford-mainoo-martinez",
-      "estratto": "Il contestato Michael Carrick ha affermato che i suoi giocatori devono essere pronti mentalmente a voltare pagina se un Manchester United in crisi vorrà porre fine al suo digiuno di vittorie contro il Bournemouth.",
-      "fonte": "ESPN",
+      "id": "e76a644f55",
+      "titolo": "Perché un grande allenatore NON dovrebbe volere la panchina del Manchester United? Il club è così disfunzionale che non avrà colpe se le cose vanno male. E se fa centro, è un genio, scrive RIATH AL-SAMARRAI",
+      "url": "https://www.dailymail.com/sport/football/article-16233703/Man-United-managers-conte-howe-ten-hag.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "RIATH AL-SAMARRAI: Erik ten Hag è apparso in buona luce questa settimana perché chiunque sembrerebbe più saggio quando non viene stritolato dalle ingranature di una bestia gonfia e rumorosa.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1800,
-      "pubblicato": "2026-10-24T12:47:17+00:00",
+      "pubblicato": "2026-10-24T01:10:09+00:00",
       "squadra": "Man United"
     },
     {
@@ -1827,15 +1803,15 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "5e8402fa3f",
-      "titolo": "Il monologo polemico di Michael Carrick è uscito dritto dal manuale di Sir Alex Ferguson, ma le sue parole forti rischiano di essere vuote se non riuscirà a risollevare il Manchester United dal baratro della disperazione, scrive CHRIS WHEELER",
-      "url": "https://www.dailymail.com/sport/football/article-16234073/Defiant-Michael-Carricks-monologue-straight-Sir-Alex-Ferguson-playbook-powerful-words-unless-drag-Man-United-depths-despair-writes-CHRIS-WHEELER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "CHRIS WHEELER: Non dai tempi dei monologhi iniziali di Sir Alex Ferguson un allenatore del Manchester United iniziava la sua conferenza stampa settimanale a Carrington senza accettare domande.",
+      "id": "7b87df7362",
+      "titolo": "Il portiere del Manchester United André Onana illeso dopo un terribile maxitamponamento in Turchia con la sua auto da 100mila sterline",
+      "url": "https://www.dailymail.com/sport/football/article-16234553/Andre-Onana-car-crash-Turkey-Man-United-loan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il portiere del Manchester United in prestito André Onana è miracolosamente sfuggito a gravi conseguenze in seguito a un terribile incidente stradale in Turchia.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -2000,
-      "pubblicato": "2026-10-24T08:05:34+00:00",
+      "pubblicato": "2026-10-23T23:14:24+00:00",
       "squadra": "Man United"
     },
     {
@@ -1851,30 +1827,6 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "e76a644f55",
-      "titolo": "Perché un grande allenatore NON dovrebbe volere la panchina del Manchester United? Il club è così disfunzionale che non avrà colpe se le cose vanno male. E se fa centro, è un genio, scrive RIATH AL-SAMARRAI",
-      "url": "https://www.dailymail.com/sport/football/article-16233703/Man-United-managers-conte-howe-ten-hag.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "RIATH AL-SAMARRAI: Erik ten Hag è apparso in buona luce questa settimana perché chiunque sembrerebbe più saggio quando non viene stritolato dalle ingranature di una bestia gonfia e rumorosa.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -2200,
-      "pubblicato": "2026-10-24T01:10:09+00:00",
-      "squadra": "Man United"
-    },
-    {
-      "id": "7b87df7362",
-      "titolo": "Il portiere del Manchester United André Onana illeso dopo un terribile maxitamponamento in Turchia con la sua auto da 100mila sterline",
-      "url": "https://www.dailymail.com/sport/football/article-16234553/Andre-Onana-car-crash-Turkey-Man-United-loan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il portiere del Manchester United in prestito André Onana è miracolosamente sfuggito a gravi conseguenze in seguito a un terribile incidente stradale in Turchia.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -2400,
-      "pubblicato": "2026-10-23T23:14:24+00:00",
-      "squadra": "Man United"
-    },
-    {
       "id": "502011365c",
       "titolo": "Carrick sopravviverà al fine settimana come allenatore del Manchester United?",
       "url": "https://www.espn.com/video/clip/_/id/50260129/will-carrick-survive-weekend-man-united-head-coach",
@@ -1882,7 +1834,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2600,
+      "punteggio": -2200,
       "pubblicato": "2026-10-23T19:54:06+00:00",
       "squadra": "Man United"
     },
@@ -1894,7 +1846,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2800,
+      "punteggio": -2400,
       "pubblicato": "2026-10-23T18:36:11+00:00",
       "squadra": "Man United"
     },
@@ -1906,7 +1858,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3000,
+      "punteggio": -2600,
       "pubblicato": "2026-10-23T15:07:36+00:00",
       "squadra": "Man United"
     },
@@ -1918,7 +1870,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3200,
+      "punteggio": -2800,
       "pubblicato": "2026-10-23T13:33:26+00:00",
       "squadra": "Man United"
     },
@@ -1930,7 +1882,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3400,
+      "punteggio": -3000,
       "pubblicato": "2026-10-23T13:33:21+00:00",
       "squadra": "Man United"
     },
@@ -1942,7 +1894,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3600,
+      "punteggio": -3200,
       "pubblicato": "2026-10-23T11:33:53+00:00",
       "squadra": "Man United"
     },
@@ -1954,7 +1906,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3800,
+      "punteggio": -3400,
       "pubblicato": "2026-10-23T09:39:37+00:00",
       "squadra": "Man United"
     },
@@ -1966,7 +1918,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4000,
+      "punteggio": -3600,
       "pubblicato": "2026-10-23T09:35:44+00:00",
       "squadra": "Man United"
     },
@@ -1978,7 +1930,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -4200,
+      "punteggio": -3800,
       "pubblicato": "2026-10-23T07:41:57+00:00",
       "squadra": "Man United"
     },
@@ -1990,7 +1942,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": true,
-      "punteggio": -4400,
+      "punteggio": -4000,
       "pubblicato": "2026-10-22T19:32:16+00:00",
       "squadra": "Man United"
     },
@@ -2002,7 +1954,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4600,
+      "punteggio": -4200,
       "pubblicato": "2026-10-22T18:10:37+00:00",
       "squadra": "Man United"
     },
@@ -2014,7 +1966,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4800,
+      "punteggio": -4400,
       "pubblicato": "2026-10-22T15:46:12+00:00",
       "squadra": "Man United"
     },
@@ -2026,7 +1978,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5000,
+      "punteggio": -4600,
       "pubblicato": "2026-10-22T14:24:55+00:00",
       "squadra": "Man United"
     },
@@ -2038,7 +1990,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5200,
+      "punteggio": -4800,
       "pubblicato": "2026-10-22T14:24:48+00:00",
       "squadra": "Man United"
     },
@@ -2050,7 +2002,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5400,
+      "punteggio": -5000,
       "pubblicato": "2026-10-22T14:24:32+00:00",
       "squadra": "Man United"
     },
@@ -2062,7 +2014,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5600,
+      "punteggio": -5200,
       "pubblicato": "2026-10-22T14:24:12+00:00",
       "squadra": "Man United"
     },
@@ -2074,7 +2026,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5800,
+      "punteggio": -5400,
       "pubblicato": "2026-10-22T14:23:20+00:00",
       "squadra": "Man United"
     },
@@ -2086,7 +2038,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -6000,
+      "punteggio": -5600,
       "pubblicato": "2026-10-22T10:28:31+00:00",
       "squadra": "Man United"
     },
@@ -2098,7 +2050,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6200,
+      "punteggio": -5800,
       "pubblicato": "2026-10-22T09:13:59+00:00",
       "squadra": "Man United"
     },
@@ -2110,7 +2062,7 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -6400,
+      "punteggio": -6000,
       "pubblicato": "2026-10-22T07:59:15+00:00",
       "squadra": "Man United"
     }
