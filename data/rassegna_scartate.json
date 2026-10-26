@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-10-26T00:03:49.954055+00:00",
+  "aggiornato": "2026-10-26T04:47:37.714957+00:00",
   "totale": 45,
   "articoli": [
+    {
+      "id": "674f1caf71",
+      "titolo": "L'ex giocatore della Premier League Jermaine Pennant ha bisogno di 50 punti di sutura dopo essere stato azzannato da un cane mentre portava a spasso il proprio animale",
+      "url": "https://www.dailymail.com/sport/football/article-16237863/Ex-Premier-League-player-Jermaine-Pennant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il quarantatreenne ex centrocampista del Liverpool stava portando a spasso il suo cane - un Akita americano di nome King - quando è stato assalito da un pastore tedesco.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T03:02:23+00:00"
+    },
     {
       "id": "83dad34d27",
       "titolo": "I Rangers hanno trovato un fantastico quartetto per guidare l'attacco di Ibrox... e sono destinati a migliorare",
@@ -397,15 +406,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-23T08:00:02+00:00"
-    },
-    {
-      "id": "744f857aef",
-      "titolo": "Perché il Nottingham Forest conferma Oliver Glasner nonostante il tecnico austriaco abbia messo ai margini giocatori influenti dello spogliatoio, e i numeri che danno ragione a George Syrianos",
-      "url": "https://www.dailymail.com/sport/football/article-16230445/nottingham-forest-oliver-glasner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "In qualsiasi altro momento degli ultimi quattro anni, cinque punti in sette partite e il diciannovesimo posto in Premier League avrebbero fatto scattare l'allarme al City Ground e probabilmente sarebbero costati la panchina al tecnico.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T01:00:46+00:00"
     }
   ]
 }
