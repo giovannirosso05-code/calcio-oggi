@@ -1,15 +1,69 @@
 {
-  "aggiornato": "2026-10-26T10:47:40.161102+00:00",
-  "totale": 47,
+  "aggiornato": "2026-10-26T17:09:58.888130+00:00",
+  "totale": 44,
   "articoli": [
     {
-      "id": "daf4a14f78",
-      "titolo": "Nuovo numero uno dell'Inghilterra? James Trafford candidato dal tecnico del Leeds",
-      "url": "https://www.espn.com/soccer/story/_/id/50286089/new-england-no-1-james-trafford-tipped-leeds-boss",
-      "estratto": "Daniel Farke ha elogiato il potenziale di James Trafford dopo la solida prestazione nel pareggio per 0-0 del Leeds contro il Sunderland.",
+      "id": "7b541e65a6",
+      "titolo": "L'Inghilterra Under 15 LASCIA IL CAMPO durante la sfida Mondiale con l'Irlanda dopo che un giovane ha accusato un avversario di averlo chiamato 'scimmia' in un presunto insulto razzista",
+      "url": "https://www.dailymail.com/sport/football/article-16239485/england-ireland-world-cup-racism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il CT dei Young Lions Matt Thorpe ha richiamato i suoi giocatori al 40° minuto dopo che uno di loro aveva sostenuto che un avversario lo aveva chiamato 'scimmia' pochi istanti dopo un alterco.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T16:53:25+00:00"
+    },
+    {
+      "id": "39a18acdf0",
+      "titolo": "Chiamata la polizia per un prodigio del calcio di tre anni dopo che genitori woke della Florida si sono lamentati perché era 'troppo bravo'",
+      "url": "https://www.dailymail.com/sport/football/article-16239443/nevada-cops-called-soccer-winter-park-florida.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "In un video recente, la famiglia del bambino ha sostenuto che i genitori della squadra avversaria erano furiosi perché il bambino di tre anni - che giocava contro bambini di circa cinque anni - era troppo talentuoso.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T16:47:34+00:00"
+    },
+    {
+      "id": "4e327a9a4f",
+      "titolo": "La storia di 30 anni del Brighton, sull'orlo dell'estinzione e ora nelle zone alte, raccontata da chi ha salvato il club: da un proprietario spericolato, un'inchiesta giornalistica e cause legali fino al gol salva-vita, alla gloria dei playoff e ai maghi della matematica di Tony Bloom",
+      "url": "https://www.dailymail.com/sport/football/article-16229593/Brighton-Tony-Bloom-30-year-ris.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Passeggiando nello spazio espositivo del Royal Pavilion di Brighton si percepisce vividamente la straordinaria energia creativa dietro la battaglia per la sopravvivenza della squadra di calcio locale, trent'anni fa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T15:53:31+00:00"
+    },
+    {
+      "id": "1951f0d8f4",
+      "titolo": "La marmaglia woke del calcio mi ha attaccato prima che fossi espulsa a forza da una partita femminile... tutto a causa della mia maglietta. Questa è la mia storia sulla sconvolgente odissea virale",
+      "url": "https://www.dailymail.com/sport/football/article-16235763/brandi-kruse-portland-thorns-ejection.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Una podcaster conservatrice si è sfogata dopo essere stata presumibilmente aggredita e trascinata via a forza da una partita di calcio femminile professionistico per aver indossato indumenti a sostegno dello sport diviso per sessi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T15:50:52+00:00"
+    },
+    {
+      "id": "433ecd0e5c",
+      "titolo": "Il Burnley nomina il responsabile delle operazioni calcistiche mentre intensifica la ricerca di un nuovo allenatore - con Rob Edwards tra i favoriti per sostituire Nicky Hayen",
+      "url": "https://www.dailymail.com/sport/football/article-16239815/burnley-diego-lopez-rob-edwards-nicky-hayden.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Diego Lopez, in precedenza al Genoa, ha assunto la responsabilità delle operazioni calcistiche, del reclutamento, della struttura sportiva e della ricerca immediata di un nuovo allenatore.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T15:07:14+00:00"
+    },
+    {
+      "id": "1b70aa6ca3",
+      "titolo": "Jean-Philippe Mateta regala speranza al Crystal Palace, il Sunderland spreca il vantaggio contro la PEGGIOR squadra dell'Europa League e il Brighton, prolifico di solito, sbaglia la mira in un noioso pareggio contro la cenerentola ceca",
+      "url": "https://www.dailymail.com/sport/football/article-16229415/sunderland-brighton-crystal-palace-europe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il portiere Robin Roefs ha guardato il cielo e ha gridato f***! Regis Le Bris è rimasto a rimuginare a bordocampo. Il Sunderland aveva subito un gol, e nell'aria c'era già da un po'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T13:56:26+00:00"
+    },
+    {
+      "id": "58b5fcb95c",
+      "titolo": "Un esperimento globale: può ESPN pronosticare i vincitori del Pallone d'Oro?",
+      "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+      "estratto": "I premi del Pallone d'Oro sono in genere difficili da pronosticare, ma ESPN e le nostre risorse globali possono riuscire proprio in questo?",
       "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-26T10:34:00+00:00"
+      "pubblicato": "2026-10-26T13:29:44+00:00"
     },
     {
       "id": "4f1ca83143",
@@ -18,7 +72,16 @@
       "estratto": "C'è chi vive una bella giornata all'ippodromo e poi c'è questo. Uno scommettitore di Portsmouth ha realizzato la scommessa della vita nel fine settimana, vincendo quasi 1 milione di sterline a fronte di una puntata di 4 sterline.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-26T10:23:16+00:00"
+      "pubblicato": "2026-10-26T12:45:48+00:00"
+    },
+    {
+      "id": "daf4a14f78",
+      "titolo": "Nuovo numero uno dell'Inghilterra? James Trafford candidato dal tecnico del Leeds",
+      "url": "https://www.espn.com/soccer/story/_/id/50286089/new-england-no-1-james-trafford-tipped-leeds-boss",
+      "estratto": "Daniel Farke ha elogiato il potenziale di James Trafford dopo la solida prestazione nel pareggio per 0-0 del Leeds contro il Sunderland.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T10:34:00+00:00"
     },
     {
       "id": "f7c10763ed",
@@ -102,15 +165,6 @@
       "pubblicato": "2026-10-25T19:26:54+00:00"
     },
     {
-      "id": "cbd3c6d2ba",
-      "titolo": "Poker da applausi dell'Athletic Bilbao e dedica a Guruzeta: Betis fermato dal Celta Vigo",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/25-152137440/poker_da_applausi_dell_athletic_bilbao_e_dedica_a_guruzeta_betis_fermato_dal_celta_vigo/",
-      "estratto": "Nella decima giornata mette da parte tre punti anche la Real Sociedad, che supera in casa il Levante di misura: i dettagli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T19:22:48+00:00"
-    },
-    {
       "id": "472cc3f4a8",
       "titolo": "I tifosi che hanno sfidato la tempesta sono i veri eroi del calcio scozzese... quindi perché vengono dati per scontati?",
       "url": "https://www.dailymail.com/sport/football/article-16237597/Supporters-braved-storm-Scottish-footballs-real-heroes-taken-granted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -174,15 +228,6 @@
       "pubblicato": "2026-10-25T17:50:41+00:00"
     },
     {
-      "id": "f558bd81c7",
-      "titolo": "Adrián Niño, dalla spiaggia di Rota ai tre gol con il neopromosso Malaga",
-      "url": "https://www.corrieredellosport.it/news/calcio/talent-scout/2026/10/25-152153718/adrin_nio_dalla_spiaggia_di_rota_ai_tre_gol_con_il_neopromosso_malaga/",
-      "estratto": "Ventidue anni, centravanti, una favola cominciata nell'Atlético Sanluqueño. Ha Fernando Torres come maestro e due tifosi speciali: il padre Antonio, tassista, e la madre Maria Dolores",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T17:18:05+00:00"
-    },
-    {
       "id": "fd9fa4f903",
       "titolo": "Ha fatto bene Carrick a escludere Fernandes contro il Bournemouth?",
       "url": "https://www.espn.com/video/clip/_/id/50277919/was-carrick-wrong-drop-fernandes-vs-bournemouth",
@@ -190,15 +235,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-25T16:53:07+00:00"
-    },
-    {
-      "id": "c901b0e7c5",
-      "titolo": "Continua la striscia positiva dell'Hull, il Brentford strappa un pareggio",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401878766",
-      "estratto": "L'imbattibilità casalinga dell'Hull rimane intatta, ma i Tigers non assaporano la vittoria da sette partite dopo l'1-1 contro il Brentford al MKM Stadium.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T16:41:28+00:00"
     },
     {
       "id": "a7a8c5b832",
@@ -300,15 +336,6 @@
       "pubblicato": "2026-10-24T12:53:39+00:00"
     },
     {
-      "id": "4e327a9a4f",
-      "titolo": "La storia di 30 anni del Brighton, sull'orlo dell'estinzione e ora nelle zone alte, raccontata da chi ha salvato il club: da un proprietario spericolato, un'inchiesta giornalistica e cause legali fino al gol salva-vita, alla gloria dei playoff e ai maghi della matematica di Tony Bloom",
-      "url": "https://www.dailymail.com/sport/football/article-16229593/Brighton-Tony-Bloom-30-year-ris.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Passeggiando nello spazio espositivo del Royal Pavilion di Brighton si percepisce vividamente la straordinaria energia creativa dietro la battaglia per la sopravvivenza della squadra di calcio locale, trent'anni fa.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-24T11:56:14+00:00"
-    },
-    {
       "id": "8882752d2e",
       "titolo": "Scally segna e aiuta il Borussia Mönchengladbach a evitare il peggior avvio di sempre in Bundesliga",
       "url": "https://www.espn.com/soccer/story/_/id/50261060/borussia-monchengladbach-joe-scally-bundesliga-usa",
@@ -370,60 +397,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-23T17:14:11+00:00"
-    },
-    {
-      "id": "2872c025d0",
-      "titolo": "Martin O'Neill insiste sul fatto che il Celtic non è una squadra alla Jekyll e Hyde dopo l'ennesima figuraccia europea",
-      "url": "https://www.dailymail.com/sport/football/article-16233033/Martin-ONeill-Celtic-Jekyll-Hyde-team-European-no-show.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Martin O'Neill ha risposto alle crescenti insinuazioni secondo cui il Celtic sarebbe ora una squadra Jekyll e Hyde sotto la sua gestione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T17:00:46+00:00"
-    },
-    {
-      "id": "286a16edd3",
-      "titolo": "Perché l'implacabile attaccante del St Johnstone Josh Fowler è la risposta del calcio scozzese a Jamie Vardy",
-      "url": "https://www.dailymail.com/sport/football/article-16233321/Why-red-hot-St-Johnstone-striker-Josh-Fowler-Scottish-footballs-answer-Jamie-Vardy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Se le cose fossero andate diversamente qualche anno fa, Derek McInnes avrebbe potuto essere l'allenatore a dare a Josh Fowler la sua prima grande occasione nel calcio professionistico.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T16:26:28+00:00"
-    },
-    {
-      "id": "d1fe72640e",
-      "titolo": "Wouter Vrancken orgoglioso dell'impegno della sua squadra degli Hearts decimata dagli infortuni in Turchia",
-      "url": "https://www.dailymail.com/sport/football/article-16231381/Wouter-Vrancken-proud-efforts-injury-hit-Hearts-Turkey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico degli Hearts Wouter Vrancken ha insistito nel dire di essere orgoglioso dell'impegno dei suoi giocatori nonostante la sconfitta per 2-0 contro il Trabzonspor di Mo Salah in UEFA Conference League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T12:36:07+00:00"
-    },
-    {
-      "id": "73098420de",
-      "titolo": "CELTIC 1 CELTA VIGO 2: I fragili Bhoys buttano via tutto e lasciano le speranze di Europa League a un filo",
-      "url": "https://www.dailymail.com/sport/football/article-16231471/celtic-celta-vigo-europa-league-mika-baur-javi-rodriguez.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "A tre giorni dal ritorno dell'ora solare, il Celtic si è ritrovato a corto di tempo per soddisfare le minime aspettative in questa stagione di Europa League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T12:33:41+00:00"
-    },
-    {
-      "id": "3920290e54",
-      "titolo": "La vedova dell'icona del Middlesbrough Willie Maddren chiede maggiore protezione per i calciatori a causa del legame tra colpi di testa e SLA letale, che ha causato la morte prematura di Rob Burrow",
-      "url": "https://www.dailymail.com/sport/football/article-16228981/Widow-Middlesbrough-icon-Willie-Maddren-calls-greater-protection-footballers-link-headers-fatal-MND-caused-Rob-Burrows-premature-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "MATT BARLOW: Per i tifosi del Tees di una certa età, Willie Maddren non ha bisogno di presentazioni.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T11:08:14+00:00"
-    },
-    {
-      "id": "168c800edf",
-      "titolo": "Dentro la crisi del Norwich City sotto la gestione di Philippe Clement: come l'intensità h24 del belga stia lasciando i giocatori a corto di energie e lo staff mentalmente esausto, con la figura del proprietario assente Mark Attanasio che alimenta la tossicità",
-      "url": "https://www.dailymail.com/sport/football/article-16226875/norwich-city-philippe-clement-slump-attanasio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Norwich è tornato in piena crisi. La sconfitta per 1-0 contro il Portsmouth dello scorso fine settimana è stata l'ottava in 11 partite di campionato in questa stagione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T11:00:49+00:00"
     }
   ]
 }
