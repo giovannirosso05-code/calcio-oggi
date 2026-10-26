@@ -1,7 +1,61 @@
 {
-  "aggiornato": "2026-10-26T04:47:37.714957+00:00",
-  "totale": 45,
+  "aggiornato": "2026-10-26T10:47:40.161102+00:00",
+  "totale": 47,
   "articoli": [
+    {
+      "id": "daf4a14f78",
+      "titolo": "Nuovo numero uno dell'Inghilterra? James Trafford candidato dal tecnico del Leeds",
+      "url": "https://www.espn.com/soccer/story/_/id/50286089/new-england-no-1-james-trafford-tipped-leeds-boss",
+      "estratto": "Daniel Farke ha elogiato il potenziale di James Trafford dopo la solida prestazione nel pareggio per 0-0 del Leeds contro il Sunderland.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T10:34:00+00:00"
+    },
+    {
+      "id": "4f1ca83143",
+      "titolo": "Scommettitore fortunato di 45 anni vince quasi 1 MILIONE di sterline con una scommessa combinata sui calci d'angolo da 4 sterline",
+      "url": "https://www.dailymail.com/sport/football/article-16238787/Lucky-football-punter-45-wins-nearly-1MILLION-4-corners-accumulator.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "C'è chi vive una bella giornata all'ippodromo e poi c'è questo. Uno scommettitore di Portsmouth ha realizzato la scommessa della vita nel fine settimana, vincendo quasi 1 milione di sterline a fronte di una puntata di 4 sterline.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T10:23:16+00:00"
+    },
+    {
+      "id": "f7c10763ed",
+      "titolo": "Il derby privato di Jimenez: uno contro 74.000",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/26-152167726/il_derby_privato_di_jimenez_uno_contro_74_000/",
+      "estratto": "L'ex Milan crea screzi con San Siro, poi il gol. Finale rovente con Vanoli che lo porta via",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T08:46:52+00:00"
+    },
+    {
+      "id": "e6ed2f18c3",
+      "titolo": "Pierre Sage: 'Nessun rumore all'interno' del Crystal Palace nonostante la pressione sulla panchina",
+      "url": "https://www.espn.com/soccer/story/_/id/50285656/pierre-sage-no-noise-crystal-palace-job-pressure",
+      "estratto": "Il tecnico del Crystal Palace Pierre Sage ha insistito sul fatto che non ci sia \"alcun rumore all'interno\" del club dopo che la frustrante sconfitta per 2-0 contro il Newcastle ha sollevato ulteriori interrogativi sulla stabilità del suo incarico.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T08:45:22+00:00"
+    },
+    {
+      "id": "12c8d2b2d7",
+      "titolo": "Jermaine Pennant salvato dal proprio animale domestico dopo l'attacco di un cane: 'Mi ha salvato la vita'",
+      "url": "https://www.espn.com/soccer/story/_/id/50285669/jermaine-pennant-attacked-dog-needs-50-stitches",
+      "estratto": "Jermaine Pennant racconta di aver avuto bisogno di più di 50 punti di sutura alla gamba dopo essere stato vittima dell'attacco di un cane.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T08:25:32+00:00"
+    },
+    {
+      "id": "0b6aa4948a",
+      "titolo": "Il mancato invito di Walter Smith a una finale di coppa si trasformò in una lezione fondamentale per il furioso Derek McInnes... e il tecnico dei Rangers trae ancora oggi ispirazione dal leggendario allenatore",
+      "url": "https://www.dailymail.com/sport/football/article-16237279/Walter-Smiths-cup-final-snub-turned-vital-lesson-furious-Derek-McInnes-Rangers-boss-draws-influence-legendary-manager-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nel quinto anniversario della morte di Walter Smith, Derek McInnes è tra i tanti che si fermeranno a riflettere sull'influenza che il leggendario allenatore dei Rangers ha avuto sia sulla sua vita che sulla sua carriera.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T08:08:08+00:00"
+    },
     {
       "id": "674f1caf71",
       "titolo": "L'ex giocatore della Premier League Jermaine Pennant ha bisogno di 50 punti di sutura dopo essere stato azzannato da un cane mentre portava a spasso il proprio animale",
@@ -127,15 +181,6 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "pubblicato": "2026-10-25T17:18:05+00:00"
-    },
-    {
-      "id": "b87e476225",
-      "titolo": "Kristian Strømland Lien, lo sceriffo che sogna il titolo con il Djurgården",
-      "url": "https://www.corrieredellosport.it/news/calcio/talent-scout/2026/10/25-152152901/kristian_strmland_lien_lo_sceriffo_norvegese_che_sogna_il_titolo_con_il_djurgrden/",
-      "estratto": "Centravanti, 25 anni, norvegese, è il capocannoniere del campionato svedese con 17 gol: è costato 700.000 euro e ora piace al Borussia Mönchengladbach",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T16:56:19+00:00"
     },
     {
       "id": "fd9fa4f903",
@@ -379,33 +424,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-23T11:00:49+00:00"
-    },
-    {
-      "id": "58b5fcb95c",
-      "titolo": "Un esperimento globale: ESPN riesce a pronosticare i vincitori del Pallone d'Oro?",
-      "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-      "estratto": "I premi del Pallone d'Oro sono notoriamente difficili da pronosticare, ma ESPN e le sue risorse globali possono riuscirci?",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T08:57:06+00:00"
-    },
-    {
-      "id": "37e33187a6",
-      "titolo": "Fotografa di calcio costringe un club a fare un passo indietro dopo aver vietato i suoi abiti succinti",
-      "url": "https://www.dailymail.com/sport/football/article-16232337/Female-football-photographer-revealing-outfits.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Una fotografa di calcio ha costretto un club a fare marcia indietro dopo aver tentato di metter al bando i suoi abiti succinti.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T08:34:33+00:00"
-    },
-    {
-      "id": "7717143538",
-      "titolo": "La stella dell'Inghilterra Marc Guehi suggerisce che l'inginocchiarsi possa aver \"perso il suo significato\" e ne mette in dubbio l'importanza mentre guida i big della Premier League nel rifiutare il gesto antirazzismo",
-      "url": "https://www.dailymail.com/sport/football/article-16220539/Marc-Guehi-suggests-taking-knee-lost-meaning-questions-significance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il difensore del Manchester City e dell'Inghilterra Marc Guehi ha lasciato intendere che il gesto di inginocchiarsi contro il razzismo possa aver perso di significato, dopo aver scelto di rimanere in piedi al fischio d'inizio.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T08:00:02+00:00"
     }
   ]
 }
