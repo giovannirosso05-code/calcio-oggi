@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-10-26T21:38:50.502774+00:00",
+  "aggiornato": "2026-10-27T00:51:25.184511+00:00",
   "totale": 40,
   "articoli": [
+    {
+      "id": "1a000adc8c",
+      "titolo": "L'organizzatore di una lega calcistica dice alla polizia di aver cacciato un prodigio di tre anni perché 'spingeva' gli altri bambini... ma i genitori 'indciplinati' insistono sul fatto che sia perché è 'troppo bravo', nelle immagini riprese da una bodycam",
+      "url": "https://www.dailymail.com/sport/football/article-16240835/police-911-soccer-prodigy-nevada-winter-park-florida.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il responsabile di una lega calcistica ha sostenuto che un prodigio di tre anni sia stato 'aggressivo' contro i suoi rivali, dopo aver esortato la polizia ad allontanare i genitori 'indciplinati' e 'disturbarori' del bambino.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-27T00:42:13+00:00"
+    },
+    {
+      "id": "828d02e497",
+      "titolo": "La stella degli Hearts Claudio Braga si aspetta un'accoglienza infuocata per il tecnico dei Rangers Derek McInnes al suo ritorno a Tynecastle",
+      "url": "https://www.dailymail.com/sport/football/article-16240453/Hearts-star-Claudio-Braga-expects-fiery-welcome-Rangers-boss-Derek-McInnes-return-Tynecastle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Claudio Braga si aspetta che Derek McInnes affronti un'accoglienza ostica al suo ritorno a Tynecastle mercoledì sera, una 'conseguenza' dell'aver lasciato gli Hearts per i Rangers quattro mesi fa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T22:30:46+00:00"
+    },
+    {
+      "id": "9b74dacc2c",
+      "titolo": "Il Siviglia consolida il sesto posto nella Liga: Romero e Correia affondano l'Osasuna",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/26-152178389/il_siviglia_consolida_il_sesto_posto_nella_liga_romero_e_correia_affondano_l_osasuna/",
+      "estratto": "Nel posticipo della decima giornata del campionato spagnolo viene rispettato il fattore casa: i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-26T21:56:35+00:00"
+    },
     {
       "id": "82e227dd01",
       "titolo": "Donovan entusiasta mentre il giovane terzino si guadagna un nuovo contratto quinquennale con il Celtic",
@@ -100,15 +127,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-26T10:34:00+00:00"
-    },
-    {
-      "id": "f7c10763ed",
-      "titolo": "Il derby privato di Jimenez: uno contro 74.000",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/26-152167726/il_derby_privato_di_jimenez_uno_contro_74_000/",
-      "estratto": "L'ex Milan crea screzi con San Siro, poi il gol. Finale rovente con Vanoli che lo porta via",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-26T08:46:52+00:00"
     },
     {
       "id": "e6ed2f18c3",
@@ -343,24 +361,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-24T12:53:39+00:00"
-    },
-    {
-      "id": "8882752d2e",
-      "titolo": "Scally segna e aiuta il Borussia Mönchengladbach a evitare il peggior avvio di sempre in Bundesliga",
-      "url": "https://www.espn.com/soccer/story/_/id/50261060/borussia-monchengladbach-joe-scally-bundesliga-usa",
-      "estratto": "Il Borussia Mönchengladbach ha evitato di diventare la prima squadra nella storia della Bundesliga a perdere le prime sette partite consecutive della stagione, grazie alla vittoria per 3-2 in casa dello Stoccarda venerdì.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T22:47:13+00:00"
-    },
-    {
-      "id": "2523b0b126",
-      "titolo": "Come John Murtough rilancerà la missione in Premier League del Birmingham City: taglio degli errori costosi, rubrica di contatti d'élite e rivoluzione del settore giovanile",
-      "url": "https://www.dailymail.com/sport/football/article-16232663/birmingham-city-john-murtough-director-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "John Murtough sarà il nuovo direttore sportivo del Birmingham: per lui si tratta del primo incarico nel calcio inglese dopo l'addio al Manchester United.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-23T22:18:26+00:00"
     }
   ]
 }
