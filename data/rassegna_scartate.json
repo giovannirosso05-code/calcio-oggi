@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-10-27T00:51:25.184511+00:00",
-  "totale": 40,
+  "aggiornato": "2026-10-27T05:59:28.148031+00:00",
+  "totale": 41,
   "articoli": [
+    {
+      "id": "97b2e25d44",
+      "titolo": "Un talento al giorno, Wael Mohya: l'eroe della prima vittoria Gladbach",
+      "url": "https://www.tuttomercatoweb.com/il-talento-del-giorno/i-un-talento-giorno-i-wael-mohya-eroe-vittoria-gladbach-2287441",
+      "estratto": "Che giornata per Wael Mohya! Venerdì il fantasista ha firmato gol e assist nella prima vittoria dell’anno del Gladbach, il 3-2 in trasferta contro lo Stoccarda, contribuendo in modo decisivo a interrompere la serie negativa della squadra.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-27T05:00:00+00:00"
+    },
     {
       "id": "1a000adc8c",
       "titolo": "L'organizzatore di una lega calcistica dice alla polizia di aver cacciato un prodigio di tre anni perché 'spingeva' gli altri bambini... ma i genitori 'indciplinati' insistono sul fatto che sia perché è 'troppo bravo', nelle immagini riprese da una bodycam",
@@ -9,7 +18,16 @@
       "estratto": "Il responsabile di una lega calcistica ha sostenuto che un prodigio di tre anni sia stato 'aggressivo' contro i suoi rivali, dopo aver esortato la polizia ad allontanare i genitori 'indciplinati' e 'disturbarori' del bambino.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-27T00:42:13+00:00"
+      "pubblicato": "2026-10-27T02:02:59+00:00"
+    },
+    {
+      "id": "13272aaafd",
+      "titolo": "Perché Mikel Arteta è così impressionato da Ceadach O'Neill, il prolifico diciottenne dell'Arsenal in lizza per il debutto in prima squadra contro il Fleetwood e come sta giustificando la nuova campagna di rafforzamento dei Gunners",
+      "url": "https://www.dailymail.com/sport/football/article-16240027/Arsenal-Ceadach-ONeill-Mikel-Arteta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ISAAN KHAN: C'è un buon motivo per cui l'Arsenal tiene particolarmente a fare in modo che il giovane talento dell'Academy Ceadach O'Neill diventi una storia di successo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-27T02:00:46+00:00"
     },
     {
       "id": "828d02e497",
@@ -253,15 +271,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-25T17:51:25+00:00"
-    },
-    {
-      "id": "3c1571359b",
-      "titolo": "L'era Iraola al Liverpool finalmente decolla grazie agli attaccanti costosi",
-      "url": "https://www.espn.com/soccer/story/_/id/50277814/iraola-era-liverpool-lift-thanks-big-money-forwards",
-      "estratto": "Due anni fa, il progetto Arne Slot è decollato con una vittoria sul Brighton. È appena successa la stessa cosa per Andoni Iraola?",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T17:50:41+00:00"
     },
     {
       "id": "a7a8c5b832",
