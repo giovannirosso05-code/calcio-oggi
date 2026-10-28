@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-10-28T13:52:17.046707+00:00",
-  "totale": 40,
+  "aggiornato": "2026-10-28T19:20:52.043564+00:00",
+  "totale": 38,
   "articoli": [
+    {
+      "id": "5a8ed4c561",
+      "titolo": "DFB Pokal: lo Schalke cade contro la Dynamo Dresda, avanti Friburgo, Hertha e Stoccarda",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/dfb-pokal-schalke-cade-dynamo-dresda-friburgo-hertha-stoccarda-2288265",
+      "estratto": "Continuano le gare valide per i sedicesimi di finale di DFB Pokal, quattro le gare appena terminate.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-28T19:02:58+00:00"
+    },
+    {
+      "id": "af07ba0687",
+      "titolo": "Q&A sull'Everton: l'interesse per l'acquisizione di Michael Dell, i piani di mercato di gennaio e il futuro di Jarrad Branthwaite e David Moyes - svelato da LEWIS STEELE",
+      "url": "https://www.dailymail.com/sport/football/article-16246325/Everton-takeover-Michael-Dell-transfers-Branthwaite-Moyes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "A che punto si trova l'Everton tra un'acquisizione societaria e l'inizio di un periodo fitto di impegni su più fronti? Il nostro esperto di Merseyside LEWIS STEELE risponde alle grandi domande...",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-28T19:02:52+00:00"
+    },
+    {
+      "id": "4a6bb800e0",
+      "titolo": "Il Derry City RISOLVE il contratto di James McClean: finisce il ritorno da incubo del calciatore della protesta dei papaveri nel club della sua infanzia tra le accuse di \"inabilità permanente\"",
+      "url": "https://www.dailymail.com/sport/football/article-16246115/Derry-City-James-McCleans-contract-terminated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La brutta disputa tra James McClean e il Derry City è finalmente giunta al termine dopo la risoluzione del suo contratto. È una triste fine per quello che doveva essere il ritorno a casa da favola.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-28T18:56:11+00:00"
+    },
     {
       "id": "6dd453d2b5",
       "titolo": "La UEFA sposta la data di una partita di Europa League a Rennes a causa delle proteste",
@@ -316,51 +343,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-25T19:26:54+00:00"
-    },
-    {
-      "id": "472cc3f4a8",
-      "titolo": "I tifosi che hanno sfidato la tempesta sono i veri eroi del calcio scozzese... quindi perché vengono dati per scontati?",
-      "url": "https://www.dailymail.com/sport/football/article-16237597/Supporters-braved-storm-Scottish-footballs-real-heroes-taken-granted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Se c'è un allenatore più di ogni altro che meritava credito nel fine settimana, quello era John McGlynn, che nella sua intervista post-partita ha tenuto a riconoscere i veri eroi del gioco.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T19:02:28+00:00"
-    },
-    {
-      "id": "e4f63c703a",
-      "titolo": "Il tecnico degli Hearts Vrancken saluta i suoi giocatori per aver sudato una vittoria disperatamente necessaria dopo una settimana difficile in trasferta",
-      "url": "https://www.dailymail.com/sport/football/article-16237657/Hearts-boss-Vrancken-salutes-players-motherwell-alfred-johansson-fir-park.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Wouter Vrancken ha elogiato i suoi giocatori degli Hearts per essersi rifiutati di accettare qualsiasi scusa a loro disposizione a Fir Park.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T18:57:00+00:00"
-    },
-    {
-      "id": "458e60b516",
-      "titolo": "Il difensore dei Rangers recuperato dall'infortunio Rommens insiste: gli uomini di Ibrox devono ancora dimostrare tutto",
-      "url": "https://www.dailymail.com/sport/football/article-16237575/Fit-Rangers-defender-Rommens-insists-Ibrox-men-prove.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Tuur Rommens non vuole sentire parlare del fatto che i Rangers dimostrino di aver sviluppato una mentalità da grandi partite fino a quando i trofei non saranno assegnati alla fine della stagione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T18:55:23+00:00"
-    },
-    {
-      "id": "be3176f1d5",
-      "titolo": "Il tecnico del Celtic Martin O'Neill pieno di elogi per la resilienza dei suoi giocatori nella 'miglior vittoria della stagione finora'",
-      "url": "https://www.dailymail.com/sport/football/article-16237573/Celtic-boss-Martin-ONeill-praise-players-resilience-best-win-season-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Martin O'Neill ha lodato la resilienza dei suoi giocatori del Celtic dopo una vittoria per 2-1 contro l'Hibs che, a suo dire, è stata la migliore della stagione finora.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T18:20:06+00:00"
-    },
-    {
-      "id": "a7a8c5b832",
-      "titolo": "HIBERNIAN 1 CELTIC 2: Gli uomini di O'Neill resistono alla tempesta ma troppi suoi giocatori continuano ad avere rendimenti altalenanti",
-      "url": "https://www.dailymail.com/sport/football/article-16237367/HIBERNIAN-1-CELTIC-2-martin-oneill-marink-reedijk-kasper-hogh-camilo-duran-storm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Nonostante Martin O'Neill possa ribellarsi all'idea che il Celtic sia diventato una squadra alla Jekyll e Hyde, i fatti continuano a raccontare una storia ben diversa.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T16:37:02+00:00"
     }
   ]
 }
