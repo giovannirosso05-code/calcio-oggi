@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-10-27T21:50:34.650829+00:00",
-  "totale": 36,
+  "aggiornato": "2026-10-28T00:58:50.276894+00:00",
+  "totale": 37,
   "articoli": [
+    {
+      "id": "93dfe2061c",
+      "titolo": "L'Espanyol, che ha Watt tra i proprietari, esonera González dopo la sconfitta contro una squadra di quarta divisione",
+      "url": "https://www.espn.com/soccer/story/_/id/50301676/espanyol-watt-owners-sack-gonzalez-loss-4th-tier-side",
+      "estratto": "L'Espanyol, club di LaLiga il cui gruppo di proprietà comprende l'ex stella della NFL J.J. Watt, ha esonerato l'allenatore Manolo González in seguito all'eliminazione di martedì in Copa del Rey contro la squadra di quarta divisione del Sestao River.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-27T22:59:30+00:00"
+    },
+    {
+      "id": "fb3c8f894b",
+      "titolo": "McInnes ammette di essersi sentito in colpa per aver lasciato l'Hearts in estate, mentre il tecnico dei Rangers si prepara a un'accoglienza ostile al suo ritorno a Tynecastle",
+      "url": "https://www.dailymail.com/sport/football/article-16243587/McInnes-admits-felt-guilty-leaving-Hearts-summer-Rangers-boss-braces-hostile-reception-return-Tynecastle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "DEREK McInnes insiste di essersi sentito in colpa per aver lasciato l'Hearts in estate, con il tecnico dei Rangers che si aspetta una calda e ostile accoglienza al suo ritorno a Tynecastle domani sera.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-27T22:14:04+00:00"
+    },
     {
       "id": "4f4c4f8426",
       "titolo": "Il nuovo infortunio al bicipite femorale di Johnston è 'a breve termine', ma il terzino destro salterà le partite fino a dopo la sosta per le nazionali",
@@ -19,15 +37,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-27T19:00:34+00:00"
-    },
-    {
-      "id": "fb3c8f894b",
-      "titolo": "McInnes ammette di essersi sentito in colpa per aver lasciato l'Hearts in estate, mentre il tecnico dei Rangers si prepara a un'accoglienza ostile al suo ritorno a Tynecastle",
-      "url": "https://www.dailymail.com/sport/football/article-16243587/McInnes-admits-felt-guilty-leaving-Hearts-summer-Rangers-boss-braces-hostile-reception-return-Tynecastle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "DEREK McInnes insiste di essersi sentito in colpa per aver lasciato l'Hearts in estate, con il tecnico dei Rangers che si aspetta una calda e ostile accoglienza al suo ritorno a Tynecastle domani sera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T18:56:36+00:00"
     },
     {
       "id": "7b84fe33cf",
