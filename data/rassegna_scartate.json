@@ -1,15 +1,42 @@
 {
-  "aggiornato": "2026-10-28T19:20:52.043564+00:00",
-  "totale": 38,
+  "aggiornato": "2026-10-28T23:24:08.970430+00:00",
+  "totale": 36,
   "articoli": [
     {
-      "id": "5a8ed4c561",
-      "titolo": "DFB Pokal: lo Schalke cade contro la Dynamo Dresda, avanti Friburgo, Hertha e Stoccarda",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/dfb-pokal-schalke-cade-dynamo-dresda-friburgo-hertha-stoccarda-2288265",
-      "estratto": "Continuano le gare valide per i sedicesimi di finale di DFB Pokal, quattro le gare appena terminate.",
-      "fonte": "TMW",
+      "id": "e14b4a4d59",
+      "titolo": "La salvezza in extremis del Rangers a Tynecastle non cancella i soliti difetti della squadra di McInnes",
+      "url": "https://www.dailymail.com/sport/football/article-16247411/Rangers-Tynecastle-Hearts-McInnes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Meno di una settimana fa, dopo un'altra sconfitta in Europa, l'allenatore del Celtic Martin O'Neill si è ritrovato a respingere le critiche secondo cui la sua squadra sarebbe un'autentica formazione da Dottor Jekyll e Mr Hyde.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-28T19:02:58+00:00"
+      "pubblicato": "2026-10-28T23:15:09+00:00"
+    },
+    {
+      "id": "6c4b4f44d4",
+      "titolo": "Il Crystal Palace conquista una clamorosa vittoria di misura in casa del Fulham - il gol a sorpresa di Eddie Nketiah allevia la pressione su Pierre Sage",
+      "url": "https://www.dailymail.com/sport/football/article-16245101/crystal-palace-fulham-pierre-sage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Per un allenatore la cui panchina è stata recentemente in bilico, Pierre Sage è apparso straordinariamente calmo mentre la sua squadra arginava gli attacchi continui del Fulham.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-28T22:58:25+00:00"
+    },
+    {
+      "id": "796571a7c5",
+      "titolo": "Club scozzese costretto a giocare DUE partite di coppa nello stesso giorno, a trenta minuti di distanza... e non è il primo a trovarsi di fronte a questa bizzarria del calendario!",
+      "url": "https://www.dailymail.com/sport/football/article-16247181/johnstone-burgh-dunipace-tayport-scottish-communities-cup-junior-cup-lowland-league-celtic-orkney-armadale.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Johnstone Burgh, club di quinta serie scozzese, dovrà disputare DUE partite di coppa nello stesso giorno, a distanza di mezz'ora l'una dall'altra, dopo che gli avversari si sono rifiutati di trovare una soluzione alternativa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-28T21:38:31+00:00"
+    },
+    {
+      "id": "44382d70e1",
+      "titolo": "La FIFA ha incassato la cifra sbalorditiva di 5 miliardi di dollari dai prezzi esorbitanti dei biglietti per i Mondiali negli Stati Uniti",
+      "url": "https://www.dailymail.com/sport/football/article-16246821/fifa-world-cup-ticket-revenue-usa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La FIFA ha guadagnato miliardi di dollari dalla vendita di biglietti e ospitalità durante i Mondiali del 2026 negli Stati Uniti, in Canada e in Messico.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-28T20:03:54+00:00"
     },
     {
       "id": "af07ba0687",
@@ -73,15 +100,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-28T08:45:20+00:00"
-    },
-    {
-      "id": "c45523a5a1",
-      "titolo": "Thuram a riposo, Chivu punta su Pio Esposito e Bonny: l’Inter fa le prove prima del derby",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/28-152217339/thuram_a_riposo_chivu_punta_su_pio_esposito_e_bonny_linter_fa_le_prove_prima_del_derby/",
-      "estratto": "Pronta la coppia alternativa: dalla prova in casa del Venezia dipende anche la possibilità di partire dal 1’ contro il Milan",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-28T07:59:02+00:00"
     },
     {
       "id": "c75d1c6227",
@@ -307,42 +325,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-26T03:02:23+00:00"
-    },
-    {
-      "id": "83dad34d27",
-      "titolo": "I Rangers hanno trovato un fantastico quartetto per guidare l'attacco di Ibrox... e sono destinati a migliorare",
-      "url": "https://www.dailymail.com/sport/football/article-16237273/Rangers-fantastic-four-lead-Ibrox-attack-theyre-going-better.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "All'inizio della sessione estiva di calciomercato, gran parte dell'attenzione nel calcistico scozzese si è concentrata sulle mosse del Celtic per rinforzare il proprio reparto offensivo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T21:27:25+00:00"
-    },
-    {
-      "id": "c4773a07ec",
-      "titolo": "Il Sunderland frena la crisi tra le pessime condizioni della tempesta Boelo, ma il tecnico del Leeds Daniel Farke deve ringraziare il 35 milioni di James Trafford",
-      "url": "https://www.dailymail.com/sport/football/article-16229529/Sunderland-stop-rot-atrocious-Storm-Boelo-conditions-Leeds-boss-Daniel-Farke-left-grateful-45m-James-Trafford.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "ROSS HEPPENSTALL ALLO STADIUM OF LIGHT: È stata una partita difficile da guardare in una giornata cupa in cui nessuna delle due squadre è riuscita a superarsi – né a vincere contro gli elementi – trovando la qualità necessaria per sbloccare il risult",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T21:05:23+00:00"
-    },
-    {
-      "id": "1fcec1c1a6",
-      "titolo": "Con eroi come Jim Baxter e Scott Brown tra il fiero patrimonio calcistico del loro villaggio, non c'è da stupirsi che l'Hill of Beath celebri 50 gloriosi anni di vita",
-      "url": "https://www.dailymail.com/sport/football/article-16237505/With-heroes-like-Jim-Baxter-Scott-Brown-villages-proud-football-heritage-no-wonder-Hill-Beath-marking-50-glorious-years-existence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I piedi dei calciatori dell'era vittoriana un tempo danzavano sul prato del Keir's Park. Gli abitanti del villaggio di Hill of Beath un tempo lo usavano come scorciatoia per andare nei negozi, creando una striscia diagonale di terreno permanentemente",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T20:30:33+00:00"
-    },
-    {
-      "id": "7be865d3d2",
-      "titolo": "Motherwell 0-2 Hearts: suonano campanelli d'allarme per Alfred Johansson dopo la sesta sconfitta consecutiva in campionato",
-      "url": "https://www.dailymail.com/sport/football/article-16237569/Motherwell-0-2-Hearts-Alarm-bells-ringing-Alfred-Johansson-sixth-straight-league-defeat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Si può parlare della necessità di avere pazienza, evidenziare le assenze e cercare di accentuare gli aspetti positivi quanto si vuole.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-25T19:26:54+00:00"
     }
   ]
 }
