@@ -1,66 +1,54 @@
 {
-  "aggiornato": "2026-10-28T00:58:50.400059+00:00",
-  "totale": 190,
+  "aggiornato": "2026-10-28T06:46:18.057254+00:00",
+  "totale": 184,
   "articoli": [
     {
-      "id": "086d3ff11e",
-      "titolo": "Carmine Gautieri: \"Grande Roma, ma il Cagliari c'è. Lazio, bravo Gattuso. Salernitana, i calciatori non rendono\"",
-      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/carmine-gautieri-grande-roma-cagliari-e-lazio-gattuso-salernitana-calciatori-rendono-2288015",
-      "estratto": "\"Ho visto una grande Roma contro un buon Cagliari, s'è vista una squadra importante che ha sofferto ma ha saputo portare a casa la partita\".",
+      "id": "3498e96692",
+      "titolo": "Lazio, Floriani: \"Che emozione il gol. Lo dedico alla mia famiglia, al gruppo e ai tifosi\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-floriani-che-emozione-gol-dedico-famiglia-tifosi-2288020",
+      "estratto": "Al termine del match del Mapei Stadium, l'esterno della Lazio Romano Floriani ha parlato ai microfoni del canale ufficiale del club: \"Non ho ancora chiamato nessuno ma sono felicissimo perché è stato un primo gol davanti ai tifosi - riporta Lalaziosi",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 190,
-      "pubblicato": "2026-10-27T23:30:00+00:00",
-      "squadra": "AS Roma"
-    },
-    {
-      "id": "7da382ca1b",
-      "titolo": "Lazio, Floriani Mussolini: \"Il mister ci trasmette serenità, c'è un clima quasi magico\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-floriani-mussolini-il-mister-trasmette-serenita-clima-magico-2287918",
-      "estratto": "Romano Floriani Mussolini, terzino della Lazio, ha parlato ai microfoni di Sky dopo la rotonda vittoria con il Sassuolo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 190,
-      "pubblicato": "2026-10-27T23:08:28+00:00",
+      "pubblicato": "2026-10-28T06:26:00+00:00",
       "squadra": "Lazio"
     },
     {
-      "id": "6daf7a2345",
-      "titolo": "Torino osso duro, ma il Como vince da grande. Fabregas: \"Grandi no, ma più maturi\"",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/torino-osso-duro-como-vince-grande-fabregas-grandi-no-maturi-2288013",
-      "estratto": "Un Torino mai domo rende vita difficile al Como, che però alla fine la vince con i cambi e con il talento: 3-1 per la squadra di Fabregas.",
+      "id": "5761fbd928",
+      "titolo": "\"Il Real in estate aveva già deciso il futuro di Nico Paz\": la rivelazione da Madrid gela il Como",
+      "url": "https://www.tuttomercatoweb.com/serie-a/il-real-deciso-riprendersi-nico-paz-voce-madrid-spaventa-tifosi-como-aggiornare-2287564",
+      "estratto": "Undici presenze, cinque gol e sei assist.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-10-27T23:45:00+00:00",
-      "squadra": "Torino"
+      "punteggio": 190,
+      "pubblicato": "2026-10-28T06:12:00+00:00",
+      "squadra": "Como"
     },
     {
-      "id": "fe76e0d6a8",
-      "titolo": "Fabregas, il sogno Como continua: “Meritiamoci la gioia. Se ci rilassiamo…”",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/10/27-152214739/fabregas_il_sogno_como_continua_meritiamoci_la_gioia_se_ci_rilassiamo/",
-      "estratto": "Una gara mozzafiato tra Como e Torino decisa nel finale: al termine del match ha parlato della gara dei suoi Cesc Fabregas",
+      "id": "e46f413fdb",
+      "titolo": "\"Mora mina vagante, Lulli straordinario\": Gasp si coccola i baby Roma, poi su Dybala a Udine...",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/27-152214387/mora_mina_vagante_lulli_straordinario_gasp_si_coccola_i_baby_roma_poi_su_dybala_a_udine_/",
+      "estratto": "Il tecnico della Roma ha parlato al termine della gara vinta contro il Cagliari all'Olimpico, elogiando i gioielli giallorossi. E Pisacane...",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-10-27T23:02:02+00:00",
+      "squadra": "AS Roma"
+    },
+    {
+      "id": "752186d646",
+      "titolo": "Torino, Abate non ci sta: \"Il terzo gol mi fa arrabbiare, 3-1 Como troppo pesante\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/27-152213723/torino_abate_non_ci_sta_il_terzo_gol_mi_fa_arrabbiare_3-1_como_troppo_pesante/",
+      "estratto": "Il tecnico granata commenta il ko contro i lariani: ecco le sue parole al termine del match",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 160,
-      "pubblicato": "2026-10-27T23:24:00+00:00",
-      "squadra": "Como"
-    },
-    {
-      "id": "7c3d453e90",
-      "titolo": "Sassuolo-Lazio, succede di tutto: otto gol, due rigori parati e un'espulsione",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/sassuolo-lazio-succede-tutto-gol-rigori-parati-espulsione-2287986",
-      "estratto": "La Lazio travolge il Sassuolo 6-2 al Mapei Stadium al termine di una partita spettacolare, caratterizzata da otto gol, due rigori sbagliati e l'espulsione di Thorstvedt al 30'.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 150,
-      "pubblicato": "2026-10-27T23:37:39+00:00",
-      "squadra": "Sassuolo"
+      "pubblicato": "2026-10-27T22:35:46+00:00",
+      "squadra": "Torino"
     },
     {
       "id": "b2a34e98b2",
@@ -75,27 +63,39 @@
       "squadra": "Fleetwood Town"
     },
     {
-      "id": "a96a46740d",
-      "titolo": "Da Benevento-Catanzaro a Juve Stabia-Hellas, i convocati per la 9ª giornata di Serie B",
-      "url": "https://www.tuttomercatoweb.com/serie-b/benevento-catanzaro-juve-stabia-hellas-convocati-9a-giornata-serie-b-2287461",
-      "estratto": "Per la 9ª giornata del campionato di Serie B la redazione di TuttoMercatoWeb.",
-      "fonte": "TMW",
+      "id": "0485417714",
+      "titolo": "Sassuolo-Lazio, i convocati di Gattuso: sciolti i dubbi su Pinamonti",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/27-152189059/sassuolo-lazio_i_convocati_di_gattuso_sciolti_i_dubbi_su_pinamonti/",
+      "estratto": "Il tecnico biancoceleste ha diramato l'elenco dei calciatori a disposizione per la sfida del Mapei Stadium. Torna il centravanti",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 150,
-      "pubblicato": "2026-10-27T23:04:00+00:00",
-      "squadra": "Benevento"
+      "pubblicato": "2026-10-27T11:23:31+00:00",
+      "squadra": "Sassuolo"
     },
     {
-      "id": "d5cca11d2a",
-      "titolo": "Serie B, 9ª giornata: Modena e Ascoli vincono e volano. Sprofondo Samp",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-b-9a-giornata-modena-ascoli-vincono-volano-sprofondo-samp-2287952",
-      "estratto": "La nona giornata di Serie B ha regalato una serata ricca di gol ed emozioni.",
+      "id": "bcfd5594bc",
+      "titolo": "Sampdoria, ad Ascoli un altro tonfo: la classifica fa sempre più paura. E ora il derby ligure",
+      "url": "https://www.tuttomercatoweb.com/serie-b/sampdoria-ascoli-tonfo-classifica-paura-derby-ligure-2288021",
+      "estratto": "Un passo avanti a Bolzano.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 120,
-      "pubblicato": "2026-10-27T23:34:00+00:00",
+      "pubblicato": "2026-10-28T06:43:00+00:00",
+      "squadra": "Sampdoria"
+    },
+    {
+      "id": "45d979acd8",
+      "titolo": "Modena, il canto del Gallo Belotti vale altri tre punti. Samp sprofondo rosso: ko anche con l'Ascoli",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/27-152209605/modena_il_canto_del_gallo_belotti_vale_altri_tre_punti_samp_sprofondo_rosso_ko_anche_con_l_ascoli/",
+      "estratto": "L'ex attaccante di Torino e Roma conquista il primato nella classifica marcatori. La Cremonese stende il Mantova in casa, pari Benevento",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-10-27T21:19:13+00:00",
       "squadra": "Modena"
     },
     {
@@ -111,15 +111,15 @@
       "squadra": "Catanzaro"
     },
     {
-      "id": "a0c872b8d3",
-      "titolo": "Juve \"sul pezzo\" ma Spalletti a Genova prepara cambi in vista Napoli dove non ci sarà Allegri",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juve-sul-pezzo-spalletti-genova-prepara-cambi-vista-napoli-allegri-2287968",
-      "estratto": "\"La classifica si può guardare o meno, ma noi dobbiamo vincere le partite e fare prestazioni convincenti come a Lecce.",
-      "fonte": "TMW",
+      "id": "32582cfa84",
+      "titolo": "“Juve, prendi Calhanoglu e un attaccante top! Spalletti va tenuto. Kolo Muani? Persino Platini…”",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/28-152214028/juve_prendi_calhanoglu_e_un_attaccante_top_spalletti_va_tenuto_kolo_muani_persino_platini/",
+      "estratto": "Antonio Cabrini si schiera: “Fiducia intatta a Luciano, anche se il tecnico conta solo il 20%. Col Genoa serve un successo ma si sottovaluta l’assenza di Yildiz\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-27T23:49:14+00:00",
+      "pubblicato": "2026-10-28T06:41:19+00:00",
       "squadra": "Juventus"
     },
     {
@@ -206,17 +206,6 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "e751f39b85",
-      "titolo": "Rivera duro: \"Il Presidente della FIGC dovrei farlo io, Malagò e Galliani non sono in grado\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/rivera-duro-il-presidente-figc-dovrei-farlo-io-malago-galliani-grado-2287932",
-      "estratto": "Cresce l'attesa per capire chi sarà il prossimo Presidente della FIGC.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-27T23:15:30+00:00"
-    },
-    {
       "id": "ff5e700b3b",
       "titolo": "Xabi Alonso insiste: festeggerà SE il Chelsea segnerà contro la sua ex squadra, il Liverpool, mentre i Blues cercano il riscatto dopo la disastrosa sconfitta contro il Tottenham SENZA il loro attaccante di punta Joao Pedro",
       "url": "https://www.dailymail.com/sport/football/article-16242945/Xabi-Alonso-celebrate-Liverpool-Chelsea-Joao-Pedro.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -227,17 +216,6 @@
       "punteggio": 40,
       "pubblicato": "2026-10-27T23:00:00+00:00",
       "squadra": "Chelsea"
-    },
-    {
-      "id": "92161ab756",
-      "titolo": "Spalletti sulla scelta di dare a Kane il Pallone d'Oro: \"Ha numeri spaventosi, era il nome logico\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/spalletti-scelta-dare-kane-pallone-oro-ha-numeri-spaventosi-logico-2287816",
-      "estratto": "Dopo venticinque anni un inglese è tornato sul gradino più alto del podio nella classifica del Pallone d'Oro.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-27T22:59:02+00:00"
     },
     {
       "id": "29b164082a",
@@ -320,18 +298,6 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "9b5889fc33",
-      "titolo": "Joao Mario ai margini della Fiorentina: può tornare al Bologna in caso di interruzione del prestito",
-      "url": "https://www.tuttomercatoweb.com/serie-a/joao-mario-margini-fiorentina-tornare-bologna-interruzione-prestito-2287830",
-      "estratto": "L’avventura di Joao Mario alla Fiorentina non sta andando come previsto.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-27T23:23:40+00:00",
-      "squadra": "Fiorentina"
-    },
-    {
       "id": "73b9c0913c",
       "titolo": "Un drone ferma il gioco durante la sfida tra Arsenal e Fleetwood: la polizia costretta ad intervenire e match di Carabao Cup sospeso per quasi 10 minuti in scene surreali",
       "url": "https://www.dailymail.com/sport/football/article-16243875/Drone-stops-play-Arsenal-Fleetwood-Police-intervene-Carabao-Cup-tie-suspended.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -342,6 +308,18 @@
       "punteggio": 30,
       "pubblicato": "2026-10-27T20:42:55+00:00",
       "squadra": "Arsenal"
+    },
+    {
+      "id": "9e5938a900",
+      "titolo": "La Fiorentina perde Pongracic: c'è la lesione al bicipite femorale. Quando torna",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/27-152192516/la_fiorentina_perde_pongracic_c_la_lesione_al_bicipite_femorale_quando_torna/",
+      "estratto": "Il difensore non sarà a disposizione di Vanoli a partire dalla prossima sfida contro l'Atalanta: i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-27T14:59:22+00:00",
+      "squadra": "Fiorentina"
     },
     {
       "id": "51b7cd7572",
@@ -356,18 +334,6 @@
       "squadra": "Derby"
     },
     {
-      "id": "07603ca2e0",
-      "titolo": "Riecco Cabal: dal Lecce al tour de force Juve prima della sosta, Juan avrà altre possibilità",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152182159/riecco_cabal_dal_lecce_al_tour_de_force_juve_prima_della_sosta_juan_avr_altre_possibilit/",
-      "estratto": "Il ritorno del colombiano: non giocava dal rosso contro il Galatasaray in Champions: era il 17 febbraio. Tanti \"no\" in estate ma il terzino in cuor suo ha sempre sperato di giocarsela di nuovo con la maglia della Vecchia Signora",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-10-27T07:26:57+00:00",
-      "squadra": "Lecce"
-    },
-    {
       "id": "ff96ee9d85",
       "titolo": "Questa era la fine per Michael Carrick dopo che la sua banda di dannati è stata implacabilmente smantellata per 3-0 dal Bournemouth... sarà il prossimo a entrare nell'infinita sosta invernale del Manchester United, scrive OLIVER HOLT",
       "url": "https://www.dailymail.com/sport/football/article-16229521/This-end-Michael-Carrick-gang-damned-relentlessly-dismantled-3-0-Bournemouth-walk-Man-Uniteds-endless-winter-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -380,50 +346,48 @@
       "squadra": "Bournemouth"
     },
     {
-      "id": "be4be4f539",
-      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 27 ottobre",
-      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-27-ottobre-2288002",
-      "estratto": "ROMA, A VOLTE RITORNANO.",
+      "id": "8d50f288a1",
+      "titolo": "Gollini non fa rimpiangere Svilar: non andare sul mercato per cercare un altro vice è stato giusto",
+      "url": "https://www.tuttomercatoweb.com/serie-a/gollini-rimpiangere-svilar-andare-mercato-cercare-vice-giusto-2288007",
+      "estratto": "Il vero protagonista che nessuno si aspettava di vedere nella gara dell'Olimpico tra Roma e Cagliari è stato Pierluigi Gollini.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-28T00:00:00+00:00"
+      "pubblicato": "2026-10-28T06:35:00+00:00"
     },
     {
-      "id": "3c56081c13",
-      "titolo": "Serie A, la classifica aggiornata e il programma completo della 9^ giornata",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-a-classifica-aggiornata-programma-completo-9-giornata-2287993",
-      "estratto": "Una Serie A avvincente come quest'anno non si vedeva da tempo.",
+      "id": "d4eef72cd7",
+      "titolo": "Nove giornate e per Maldini è già record di gol: non era mai arrivato a quota 5 in Serie A",
+      "url": "https://www.tuttomercatoweb.com/serie-a/giornate-maldini-record-gol-arrivato-quota-5-serie-2288008",
+      "estratto": "Sono bastate soltanto nove partite con la maglia del Cagliari a Daniel Maldini per scrivere il suo primo record personale in questa stagione.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-27T23:56:03+00:00"
+      "pubblicato": "2026-10-28T06:33:00+00:00"
     },
     {
-      "id": "00a6ca64e9",
-      "titolo": "Newcastle, nuovo innesto in dirigenza: Amaral è il responsabile del reclutamento",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/newcastle-innesto-dirigenza-amaral-responsabile-reclutamento-2287942",
-      "estratto": "\"Il Newcastle United è lieto di annunciare la nomina di Tomás Amaral a nuovo responsabile del reclutamento per la prima squadra\".",
+      "id": "beefb0c779",
+      "titolo": "Non solo gli otto infortunati: Amorim potrebbe fare a meno di altri due titolarissimi",
+      "url": "https://www.tuttomercatoweb.com/serie-a/infortunati-2287859",
+      "estratto": "La lista infortunati del Milan è davvero molto lunga.",
       "fonte": "TMW",
-      "serie": "Estero",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-27T23:27:57+00:00",
-      "squadra": "Newcastle"
+      "pubblicato": "2026-10-28T06:30:03+00:00"
     },
     {
-      "id": "a22cb3acf9",
-      "titolo": "Liverpool, caccia all'erede di Van Dijk: piace Vuskovic, ma il Brighton spara alto",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/liverpool-caccia-erede-van-dijk-piace-vuskovic-brighton-spara-alto-2287919",
-      "estratto": "Il Liverpool è al lavoro per trovare l’erede del capitano Virgil van Dijk, classe ‘91 in scadenza al termine di questa stagione, e la sfida di domenica scorsa contro il Brighton è stata l’occasione per visionare da vicino uno dei possibili innesti. I",
+      "id": "40f1ebc34a",
+      "titolo": "Quando il Livorno disse no a Kane per prendere Innocent Emeghara",
+      "url": "https://www.tuttomercatoweb.com/podcast-tmw/livorno-disse-kane-prendere-innocent-emeghara-2287663",
+      "estratto": "Sliding doors.",
       "fonte": "TMW",
-      "serie": "Estero",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-27T23:11:13+00:00",
-      "squadra": "Liverpool"
+      "pubblicato": "2026-10-28T06:20:00+00:00"
     },
     {
       "id": "c538d6b9f1",
@@ -457,6 +421,18 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-27T19:37:58+00:00"
+    },
+    {
+      "id": "cf73e6631f",
+      "titolo": "Xabi Alonso è tornato ad Anfield: ecco quanto è andato vicino per davvero a prendere la panchina del Liverpool (due volte) e perché ha scelto invece il Chelsea",
+      "url": "https://www.dailymail.com/sport/football/article-16241831/Xabi-Alonso-Liverpool-Chelsea-Klopp-Slot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Quando Jurgen Klopp ha annunciato il suo addio nel 2024, in molti si aspettavano che Alonso fosse il successore designato. Era il favorito dei bookmaker e la scelta popolare tra i tifosi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-27T18:11:44+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "bfe9671352",
@@ -850,6 +826,18 @@
       "squadra": "Dundee Utd"
     },
     {
+      "id": "1bb7bac3a5",
+      "titolo": "Una vittoria cinica del Newcastle sul Crystal Palace allevia la pressione su Matthias Jaissle, mentre i giorni di Pierre Sage sono contati",
+      "url": "https://www.dailymail.com/sport/football/article-16229515/Clinical-Newcastle-victory-Crystal-Palace-relieves-pressure-Matthias-Jaissle-Pierre-Sages-days-numbered.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "BOBBY MANZI A SELHURST PARK: Dov'era finito questo Newcastle? La squadra di Matthias Jaissle ha offerto una prestazione cinica e disciplinata in casa del Crystal Palace per allentare la pressione sulla sua panchina.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-25T20:20:18+00:00",
+      "squadra": "Newcastle"
+    },
+    {
       "id": "0859095b2b",
       "titolo": "Luis Enrique: Khvicha Kvaratskhelia tornerà più forte al PSG dopo l'infortunio al crociato",
       "url": "https://www.espn.com/soccer/story/_/id/50279147/luis-enrique-khvicha-kvaratskhelia-back-stronger-psg-acl",
@@ -885,18 +873,6 @@
       "squadra": "Spurs"
     },
     {
-      "id": "e46f413fdb",
-      "titolo": "\"Mora mina vagante, Lulli straordinario\": Gasp si coccola i baby Roma, poi su Dybala a Udine...",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/27-152214387/mora_mina_vagante_lulli_straordinario_gasp_si_coccola_i_baby_roma_poi_su_dybala_a_udine_/",
-      "estratto": "Il tecnico della Roma ha parlato al termine della gara vinta contro il Cagliari all'Olimpico, elogiando i gioielli giallorossi. E Pisacane...",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -10,
-      "pubblicato": "2026-10-27T23:02:02+00:00",
-      "squadra": "AS Roma"
-    },
-    {
       "id": "22bf51679e",
       "titolo": "\"Facciamo cose incredibili\", Gattuso esalta la Lazio ma avverte, \"la legnata sui denti...\"",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/lazio/2026/10/27-152208100/facciamo_cose_incredibili_gattuso_esalta_la_lazio_ma_avverte_la_legnata_sui_denti_/",
@@ -909,28 +885,28 @@
       "squadra": "Lazio"
     },
     {
-      "id": "752186d646",
-      "titolo": "Torino, Abate non ci sta: \"Il terzo gol mi fa arrabbiare, 3-1 Como troppo pesante\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/27-152213723/torino_abate_non_ci_sta_il_terzo_gol_mi_fa_arrabbiare_3-1_como_troppo_pesante/",
-      "estratto": "Il tecnico granata commenta il ko contro i lariani: ecco le sue parole al termine del match",
+      "id": "ce63ea9b0e",
+      "titolo": "Allegri: \"Ho rinunciato al ricorso sennò ne prendo 4 di giornate\". E su Gasperini e le frasi sulla Roma...",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/27-152190265/allegri_ho_rinunciato_al_ricorso_senn_ne_prendo_4_di_giornate_e_su_gasperini_e_le_frasi_sulla_roma_/",
+      "estratto": "Le dichiarazioni dell'allenatore alla vigilia della partita con il Monza",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -10,
+      "pubblicato": "2026-10-27T13:05:26+00:00",
+      "squadra": "AS Roma"
+    },
+    {
+      "id": "fe76e0d6a8",
+      "titolo": "Fabregas, il sogno Como continua: “Meritiamoci la gioia. Se ci rilassiamo…”",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/10/27-152214739/fabregas_il_sogno_como_continua_meritiamoci_la_gioia_se_ci_rilassiamo/",
+      "estratto": "Una gara mozzafiato tra Como e Torino decisa nel finale: al termine del match ha parlato della gara dei suoi Cesc Fabregas",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -40,
-      "pubblicato": "2026-10-27T22:35:46+00:00",
-      "squadra": "Torino"
-    },
-    {
-      "id": "0485417714",
-      "titolo": "Sassuolo-Lazio, i convocati di Gattuso: sciolti i dubbi su Pinamonti",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/27-152189059/sassuolo-lazio_i_convocati_di_gattuso_sciolti_i_dubbi_su_pinamonti/",
-      "estratto": "Il tecnico biancoceleste ha diramato l'elenco dei calciatori a disposizione per la sfida del Mapei Stadium. Torna il centravanti",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -50,
-      "pubblicato": "2026-10-27T11:23:31+00:00",
-      "squadra": "Sassuolo"
+      "pubblicato": "2026-10-27T23:24:00+00:00",
+      "squadra": "Como"
     },
     {
       "id": "c1f51e53b8",
@@ -945,27 +921,27 @@
       "squadra": "Fleetwood Town"
     },
     {
-      "id": "45d979acd8",
-      "titolo": "Modena, il canto del Gallo Belotti vale altri tre punti. Samp sprofondo rosso: ko anche con l'Ascoli",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/27-152209605/modena_il_canto_del_gallo_belotti_vale_altri_tre_punti_samp_sprofondo_rosso_ko_anche_con_l_ascoli/",
-      "estratto": "L'ex attaccante di Torino e Roma conquista il primato nella classifica marcatori. La Cremonese stende il Mantova in casa, pari Benevento",
-      "fonte": "Tuttosport",
+      "id": "daa6cddc9b",
+      "titolo": "Torino-Como 1-3, rimonta incredibile dei lombardi: tre gol in 10 minuti, Fabregas ribalta i granata",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/27-152208188/torino-como_1-3_rimonta_incredibile_dei_lombardi_tre_gol_in_8_fabregas_ribalta_i_granata/",
+      "estratto": "La squadra di Abate accarezza la quarta vittoria consecutiva grazie alla rete di Che Adams, ma nel finale crolla sotto i colpi di Ramon, Nico Paz e Baturina",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-10-27T21:19:13+00:00",
-      "squadra": "Modena"
+      "pubblicato": "2026-10-27T21:49:26+00:00",
+      "squadra": "Torino"
     },
     {
-      "id": "154fe76476",
-      "titolo": "“Juve insoddisfatta”, “Il più grande equivoco dell’estate”, “Paragone imbarazzante”: cosa non torna",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152197828/juve_insoddisfatta_il_pi_grande_equivoco_dellestate_paragone_imbarazzante_cosa_non_torna/",
-      "estratto": "Il direttore di Tuttosport, Guido Vaciago, analizza su YouTube il momento bianconero: dalla reazione dopo Lecce ai dubbi sul mercato, fino al peso dell'assenza di Yildiz",
-      "fonte": "Tuttosport",
+      "id": "6adfb17900",
+      "titolo": "Al \"Ferraris\" arriva la Juve: con Gila l'ultimo risultato utile ma il Genoa sa come batterla",
+      "url": "https://www.tuttomercatoweb.com/serie-a/ferraris-arriva-juve-gila-risultato-utile-genoa-sa-batterla-2287802",
+      "estratto": "A cena con la Signora.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-10-27T19:13:00+00:00",
+      "pubblicato": "2026-10-28T06:19:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -981,40 +957,40 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "352a096e0c",
-      "titolo": "Napoli, ecco cosa ha detto Allegri a Colombo (e Sacchi) per farsi squalificare due giornate",
-      "url": "https://www.tuttomercatoweb.com/serie-a/napoli-allegri-colombo-e-sacchi-farsi-squalificare-giornate-2287999",
-      "estratto": "Massimiliano Allegri non ci sarà né contro il Monza né contro la Juventus.",
+      "id": "2bdee5fcd5",
+      "titolo": "Il Napoli osserva Vinicius Tobias: tanti i club in Europa sul terzino dello Shakhtar",
+      "url": "https://www.tuttomercatoweb.com/serie-a/napoli-osserva-vinicius-tobias-tanti-club-europa-terzino-shakhtar-2287645",
+      "estratto": "La prestazione in Champions League contro l'Inter ha evidenziato ancora una volta tutte le qualità di Vinicius Tobias.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-10-27T23:30:03+00:00",
+      "pubblicato": "2026-10-28T06:15:00+00:00",
       "squadra": "Napoli"
     },
     {
-      "id": "144323989a",
-      "titolo": "28 ottobre 1984, Hateley sovrasta Collovati e firma il 2-1. Il Milan vince il derby dopo 6 anni",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/28-ottobre-1984-hateley-sovrasta-collovati-firma-2-1-milan-vince-derby-6-2287713",
-      "estratto": "Il 28 ottobre del 1984, a San Siro, si gioca il derby.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-10-27T23:00:22+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "9e5938a900",
-      "titolo": "La Fiorentina perde Pongracic: c'è la lesione al bicipite femorale. Quando torna",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/27-152192516/la_fiorentina_perde_pongracic_c_la_lesione_al_bicipite_femorale_quando_torna/",
-      "estratto": "Il difensore non sarà a disposizione di Vanoli a partire dalla prossima sfida contro l'Atalanta: i dettagli",
+      "id": "e5b38338f0",
+      "titolo": "Numeri da peggior Fiorentina: mai aveva perso 6 delle prime 8 in campionato",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/27-152187471/numeri_da_peggior_fiorentina_mai_aveva_perso_6_delle_prime_8_in_campionato/",
+      "estratto": "Rispetto all'avvio da incubo della scorsa stagione, i punti sono gli stessi la difesa persino più perforabile",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-10-27T14:59:22+00:00",
+      "pubblicato": "2026-10-27T10:26:50+00:00",
       "squadra": "Fiorentina"
+    },
+    {
+      "id": "9249b6bf48",
+      "titolo": "Tra Milan e Monza spazio al turnover: il piano di Palladino",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/bologna/2026/10/27-152186436/tra_milan_e_monza_spazio_al_turnover_il_piano_di_palladino/",
+      "estratto": "Domani Skorupski più di Pessina. Riposa Darmian, pronto Heggem. In attacco ballottaggio tra Dovbyk e Odgaard",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-10-27T09:53:33+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "2897bb5699",
@@ -1037,8 +1013,20 @@
       "serie": "Estero",
       "citazione": false,
       "punteggio": -180,
-      "pubblicato": "2026-10-28T00:09:41+00:00",
+      "pubblicato": "2026-10-28T02:26:55+00:00",
       "squadra": "Arsenal"
+    },
+    {
+      "id": "7c064f1629",
+      "titolo": "Kouadio come Kayode? Sul talento del Monza c'è (anche) il Brentford",
+      "url": "https://www.tuttomercatoweb.com/serie-a/kouadio-kayode-talento-monza-anche-brentford-2287746",
+      "estratto": "La convocazione con l'Italia di Roberto Mancini a confermarne la bontà del talento e delle prospettive di Eddy Kouadio.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -200,
+      "pubblicato": "2026-10-28T06:45:00+00:00",
+      "squadra": "Monza"
     },
     {
       "id": "e508e762fc",
@@ -1077,18 +1065,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "cf73e6631f",
-      "titolo": "Xabi Alonso è tornato ad Anfield: ecco quanto è andato vicino per davvero a prendere la panchina del Liverpool (due volte) e perché ha scelto invece il Chelsea",
-      "url": "https://www.dailymail.com/sport/football/article-16241831/Xabi-Alonso-Liverpool-Chelsea-Klopp-Slot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Quando Jurgen Klopp ha annunciato il suo addio nel 2024, in molti si aspettavano che Alonso fosse il successore designato. Era il favorito dei bookmaker e la scelta popolare tra i tifosi.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-10-27T18:11:44+00:00",
-      "squadra": "Liverpool"
-    },
-    {
       "id": "ea6a6379b9",
       "titolo": "Xabi Alonso sull'assenza di João Pedro nel Chelsea: cerchiamo soluzioni, non scuse",
       "url": "https://www.espn.com/soccer/story/_/id/50298418/xabi-alonso-joao-pedro-chelsea-absence-looking-solutions-not-excuses",
@@ -1101,6 +1077,18 @@
       "squadra": "Chelsea"
     },
     {
+      "id": "21d0ab3774",
+      "titolo": "Il Liverpool è «ottimista» sul recupero di Florian Wirtz in vista della sfida con il Chelsea",
+      "url": "https://www.espn.com/soccer/story/_/id/50296960/liverpool-florian-wirtz-fit-face-chelsea-carabao-cup",
+      "estratto": "Il tecnico del Liverpool Andoni Iraola ha dichiarato di essere \"ottimista\" riguardo al recupero di Florian Wirtz, che sarà a disposizione per la sfida di Carabao Cup di mercoledì contro il Chelsea.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -200,
+      "pubblicato": "2026-10-27T15:39:40+00:00",
+      "squadra": "Liverpool"
+    },
+    {
       "id": "32d2955721",
       "titolo": "Al portiere del Manchester City Gianluigi Donnarumma, finito nel mirino delle critiche, e ad altri quattro big concessi tre giorni di vacanza da Enzo Maresca dopo la sconfitta contro l'Aston Villa",
       "url": "https://www.dailymail.com/sport/football/article-16242317/Under-fire-Man-City-goalkeeper-Gianluigi-Donnarumma-four-stars-given-three-day-holiday-Enzo-Maresca-following-defeat-Aston-Villa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1111,18 +1099,6 @@
       "punteggio": -200,
       "pubblicato": "2026-10-27T14:37:41+00:00",
       "squadra": "Man City"
-    },
-    {
-      "id": "1bb7bac3a5",
-      "titolo": "Una vittoria cinica del Newcastle sul Crystal Palace allevia la pressione su Matthias Jaissle, mentre i giorni di Pierre Sage sono contati",
-      "url": "https://www.dailymail.com/sport/football/article-16229515/Clinical-Newcastle-victory-Crystal-Palace-relieves-pressure-Matthias-Jaissle-Pierre-Sages-days-numbered.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "BOBBY MANZI A SELHURST PARK: Dov'era finito questo Newcastle? La squadra di Matthias Jaissle ha offerto una prestazione cinica e disciplinata in casa del Crystal Palace per allentare la pressione sulla sua panchina.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-10-25T20:20:18+00:00",
-      "squadra": "Newcastle"
     },
     {
       "id": "3be665298b",
@@ -1149,39 +1125,51 @@
       "squadra": "Lazio"
     },
     {
-      "id": "ce63ea9b0e",
-      "titolo": "Allegri: \"Ho rinunciato al ricorso sennò ne prendo 4 di giornate\". E su Gasperini e le frasi sulla Roma...",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/27-152190265/allegri_ho_rinunciato_al_ricorso_senn_ne_prendo_4_di_giornate_e_su_gasperini_e_le_frasi_sulla_roma_/",
-      "estratto": "Le dichiarazioni dell'allenatore alla vigilia della partita con il Monza",
-      "fonte": "Corriere dello Sport",
+      "id": "c3f26364bb",
+      "titolo": "La Roma non fa scappare la Lazio: poker al Cagliari e fiato sul collo dell'Inter",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/27-152212692/la_roma_non_fa_scappare_la_lazio_poker_al_cagliari_e_fiato_sul_collo_dell_inter/",
+      "estratto": "I giallorossi soffrono contro i sardi in un match ricco di gol: nel finale il ritorno al gol di Malen e la rete di Mora valgono i tre punti",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -210,
-      "pubblicato": "2026-10-27T13:05:26+00:00",
+      "citazione": false,
+      "punteggio": -250,
+      "pubblicato": "2026-10-27T21:47:15+00:00",
       "squadra": "AS Roma"
     },
     {
-      "id": "daa6cddc9b",
-      "titolo": "Torino-Como 1-3, rimonta incredibile dei lombardi: tre gol in 10 minuti, Fabregas ribalta i granata",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/27-152208188/torino-como_1-3_rimonta_incredibile_dei_lombardi_tre_gol_in_8_fabregas_ribalta_i_granata/",
-      "estratto": "La squadra di Abate accarezza la quarta vittoria consecutiva grazie alla rete di Che Adams, ma nel finale crolla sotto i colpi di Ramon, Nico Paz e Baturina",
-      "fonte": "Corriere dello Sport",
+      "id": "f3771f6580",
+      "titolo": "Il Mago di Como: Nico Paz segna in tutti i modi, così diventa il più forte in Serie A",
+      "url": "https://www.tuttomercatoweb.com/serie-a/mago-como-nico-paz-segna-modi-forte-serie-2288006",
+      "estratto": "Per 80 minuti Nico Paz è stato maltrattato da una fase difensiva del Torino attenta e anche aggressiva.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -280,
-      "pubblicato": "2026-10-27T21:49:26+00:00",
+      "pubblicato": "2026-10-28T06:40:00+00:00",
+      "squadra": "Como"
+    },
+    {
+      "id": "56e4deef36",
+      "titolo": "Torino-Como, diretta Serie A: Nico Paz ribalta i granata, poi il tris. Le dichiarazioni",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/27-152190984/torino-como_diretta_serie_a_formazioni_e_risultato_in_tempo_reale_abate_all_esame_fabregas/",
+      "estratto": "Padroni di casa avanti con Adams, poi nel finale la reazione degli ospiti che colpiscono con Jacobo Ramon, l'argentino e Baturina. Fabregas beffa Abate",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-10-27T18:15:00+00:00",
       "squadra": "Torino"
     },
     {
-      "id": "854a8bd2f9",
-      "titolo": "“Dybala il più forte, Vidal lasciava tutto. Allegri? Sei mesi…”: Douglas Costa e la Juve dei fenomeni",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152191686/dybala_il_pi_forte_vidal_lasciava_tutto_allegri_sei_mesi_douglas_costa_e_la_juve_dei_fenomeni/",
-      "estratto": "\"Chiellini quello che mi picchiava di più in allenamento\", le parole dell'attaccante brasiliano sulla sua esperienza in bianconero e non solo",
+      "id": "154fe76476",
+      "titolo": "“Juve insoddisfatta”, “Il più grande equivoco dell’estate”, “Paragone imbarazzante”: cosa non torna",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152197828/juve_insoddisfatta_il_pi_grande_equivoco_dellestate_paragone_imbarazzante_cosa_non_torna/",
+      "estratto": "Il direttore di Tuttosport, Guido Vaciago, analizza su YouTube il momento bianconero: dalla reazione dopo Lecce ai dubbi sul mercato, fino al peso dell'assenza di Yildiz",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-10-27T17:39:57+00:00",
+      "pubblicato": "2026-10-27T19:13:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1197,28 +1185,16 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "e5b38338f0",
-      "titolo": "Numeri da peggior Fiorentina: mai aveva perso 6 delle prime 8 in campionato",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/27-152187471/numeri_da_peggior_fiorentina_mai_aveva_perso_6_delle_prime_8_in_campionato/",
-      "estratto": "Rispetto all'avvio da incubo della scorsa stagione, i punti sono gli stessi la difesa persino più perforabile",
+      "id": "d2aa5bcba1",
+      "titolo": "Atta e Oulai, due casi da decifrare per la Fiorentina: 70 milioni in ombra",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/27-152186439/atta_e_oulai_due_casi_da_decifrare_per_la_fiorentina_70_milioni_in_ombra/",
+      "estratto": "Due casi da decifrare presto: uno non sta bene, l’altro è senza identità tattica. Spariti entrambi, in attesa delle prossime scelte di Vanoli",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-10-27T10:26:50+00:00",
+      "pubblicato": "2026-10-27T10:05:31+00:00",
       "squadra": "Fiorentina"
-    },
-    {
-      "id": "9249b6bf48",
-      "titolo": "Tra Milan e Monza spazio al turnover: il piano di Palladino",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/bologna/2026/10/27-152186436/tra_milan_e_monza_spazio_al_turnover_il_piano_di_palladino/",
-      "estratto": "Domani Skorupski più di Pessina. Riposa Darmian, pronto Heggem. In attacco ballottaggio tra Dovbyk e Odgaard",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-10-27T09:53:33+00:00",
-      "squadra": "Milan"
     },
     {
       "id": "4dc1b456f1",
@@ -1257,18 +1233,6 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "21d0ab3774",
-      "titolo": "Il Liverpool è «ottimista» sul recupero di Florian Wirtz in vista della sfida con il Chelsea",
-      "url": "https://www.espn.com/soccer/story/_/id/50296960/liverpool-florian-wirtz-fit-face-chelsea-carabao-cup",
-      "estratto": "Il tecnico del Liverpool Andoni Iraola ha dichiarato di essere \"ottimista\" riguardo al recupero di Florian Wirtz, che sarà a disposizione per la sfida di Carabao Cup di mercoledì contro il Chelsea.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -400,
-      "pubblicato": "2026-10-27T15:39:40+00:00",
-      "squadra": "Liverpool"
-    },
-    {
       "id": "c6db1b7cde",
       "titolo": "Perché Mbappé del Real Madrid e Yamal del Barcellona hanno perso il Pallone d'Oro",
       "url": "https://www.espn.com/soccer/story/_/id/50295834/why-real-madrid-kylian-mbappe-barcelona-lamine-yamal-lost-ballon-dor-harry-kane",
@@ -1291,6 +1255,18 @@
       "punteggio": -400,
       "pubblicato": "2026-10-27T12:50:58+00:00",
       "squadra": "Man City"
+    },
+    {
+      "id": "505a33f3f6",
+      "titolo": "Virgil van Dijk: nessuno può replicare Mohamed Salah, ma il nuovo attacco del Liverpool deve fare di più",
+      "url": "https://www.espn.com/soccer/story/_/id/50288415/virgil-van-dijk-mohamed-salah-liverpool-step-up",
+      "estratto": "Il reparto offensivo rinnovato del Liverpool ha fatto abbastanza da fare in modo che il nome di Mohamed Salah non sia mai stato menzionato ad Anfield in questa stagione, ma il capitano Virgil van Dijk sa che la nuova generazione ha ancora del lavoro ",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -400,
+      "pubblicato": "2026-10-26T17:05:30+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "6daa6a8bb8",
@@ -1317,64 +1293,52 @@
       "squadra": "Bournemouth"
     },
     {
-      "id": "8df9ad1666",
-      "titolo": "La Lazio può essere il Leicester d'Italia? Basta con 'Ringhio': Gattuso e la stagione che merita da una vita. Occhio a tre elementi: la rottura Lotito-tifosi, la rosa corta e un calendario finora non impossibile...",
-      "url": "https://www.tuttomercatoweb.com/editoriale/lazio-leicester-italia-ringhio-gattuso-stagione-merita-vita-occhio-elementi-rottura-lotito-tifosi-ro-2287909",
-      "estratto": "L'interrogativo si propone e ripropone a ogni capolavoro della Lazio di Gennaro Gattuso.",
+      "id": "da466908ff",
+      "titolo": "Primo gol in Serie A per Floriani Mussolini: cresce alla Lazio e il mercato si accende",
+      "url": "https://www.tuttomercatoweb.com/serie-a/gol-serie-floriani-mussolini-cresce-lazio-mercato-accende-2287963",
+      "estratto": "Ieri sera, nel pirotecnico successo della Lazio contro il Sassuolo, Romano Floriani Mussolini ha trovato il suo primo gol in Serie A.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-10-28T00:15:00+00:00",
+      "pubblicato": "2026-10-28T06:23:18+00:00",
       "squadra": "Lazio"
     },
     {
-      "id": "c16b5f878c",
-      "titolo": "La Roma si prende i tre punti con la forza. Cagliari mai domo e Pisacane dispiaciuto per i suoi",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/roma-prende-punti-forza-cagliari-domo-pisacane-dispiaciuto-2288012",
-      "estratto": "Vittoria importantissima per la Roma nella gara contro il Cagliari.",
-      "fonte": "TMW",
+      "id": "c7a34bb584",
+      "titolo": "La Roma soffre col Cagliari, poi entrano Mora e Malen e tutto cambia: Gasperini batte Pisacane 4-2",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/27-152199826/roma-cagliari_diretta_serie_a_segui_la_partita_live/",
+      "estratto": "Vantaggio sardo con Nzola, Lulli e Pisilli ribaltano tutto, poi Maldini pareggia. Ma nel finale il tecnico della Roma azzecca i cambi e può sorridere",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-10-27T23:41:00+00:00",
+      "pubblicato": "2026-10-27T18:29:14+00:00",
       "squadra": "AS Roma"
     },
     {
-      "id": "56e4deef36",
-      "titolo": "Torino-Como, diretta Serie A: Nico Paz ribalta i granata, poi il tris. Le dichiarazioni",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/27-152190984/torino-como_diretta_serie_a_formazioni_e_risultato_in_tempo_reale_abate_all_esame_fabregas/",
-      "estratto": "Padroni di casa avanti con Adams, poi nel finale la reazione degli ospiti che colpiscono con Jacobo Ramon, l'argentino e Baturina. Fabregas beffa Abate",
-      "fonte": "Tuttosport",
+      "id": "303db7dfd7",
+      "titolo": "Como, Torino rovesciato ma Addai si fa male: Fabregas trema. Dove sono Kean e Liberali?",
+      "url": "https://www.tuttomercatoweb.com/serie-a/como-rimonta-epica-torino-addai-male-fabregas-lancia-allarme-infortuni-2288011",
+      "estratto": "\"Due pali, un rigore non dato e tante occasioni.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -480,
-      "pubblicato": "2026-10-27T18:15:00+00:00",
-      "squadra": "Torino"
+      "pubblicato": "2026-10-28T06:38:07+00:00",
+      "squadra": "Como"
     },
     {
-      "id": "665c12742d",
-      "titolo": "Spalletti, il timore Kolo Muani e il tema Alajbegovic: “Juve molto più seria di quelle domande…”",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152189293/spalletti_il_timore_kolo_muani_e_il_tema_alajbegovic_juve_molto_pi_seria_di_quelle_domande/",
-      "estratto": "L'allenatore bianconero tocca diversi temi in vista della sfida contro il Genoa del turno infrasettimanale: \"La squadra è in salute\"",
+      "id": "854a8bd2f9",
+      "titolo": "“Dybala il più forte, Vidal lasciava tutto. Allegri? Sei mesi…”: Douglas Costa e la Juve dei fenomeni",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152191686/dybala_il_pi_forte_vidal_lasciava_tutto_allegri_sei_mesi_douglas_costa_e_la_juve_dei_fenomeni/",
+      "estratto": "\"Chiellini quello che mi picchiava di più in allenamento\", le parole dell'attaccante brasiliano sulla sua esperienza in bianconero e non solo",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -530,
-      "pubblicato": "2026-10-27T15:45:00+00:00",
+      "pubblicato": "2026-10-27T17:39:57+00:00",
       "squadra": "Juventus"
-    },
-    {
-      "id": "d2aa5bcba1",
-      "titolo": "Atta e Oulai, due casi da decifrare per la Fiorentina: 70 milioni in ombra",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/27-152186439/atta_e_oulai_due_casi_da_decifrare_per_la_fiorentina_70_milioni_in_ombra/",
-      "estratto": "Due casi da decifrare presto: uno non sta bene, l’altro è senza identità tattica. Spariti entrambi, in attesa delle prossime scelte di Vanoli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-10-27T10:05:31+00:00",
-      "squadra": "Fiorentina"
     },
     {
       "id": "688ea36dd4",
@@ -1449,18 +1413,6 @@
       "squadra": "Man City"
     },
     {
-      "id": "505a33f3f6",
-      "titolo": "Virgil van Dijk: nessuno può replicare Mohamed Salah, ma il nuovo attacco del Liverpool deve fare di più",
-      "url": "https://www.espn.com/soccer/story/_/id/50288415/virgil-van-dijk-mohamed-salah-liverpool-step-up",
-      "estratto": "Il reparto offensivo rinnovato del Liverpool ha fatto abbastanza da fare in modo che il nome di Mohamed Salah non sia mai stato menzionato ad Anfield in questa stagione, ma il capitano Virgil van Dijk sa che la nuova generazione ha ancora del lavoro ",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -600,
-      "pubblicato": "2026-10-26T17:05:30+00:00",
-      "squadra": "Liverpool"
-    },
-    {
       "id": "8096b1ce1f",
       "titolo": "Flick 'non accetta scuse' dopo la sconfitta del Barcellona nel Clásico",
       "url": "https://www.espn.com/video/clip/_/id/50285690/flick-not-accepting-excuses-barcelona-el-clasico-defeat",
@@ -1473,16 +1425,16 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "c3f26364bb",
-      "titolo": "La Roma non fa scappare la Lazio: poker al Cagliari e fiato sul collo dell'Inter",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/27-152212692/la_roma_non_fa_scappare_la_lazio_poker_al_cagliari_e_fiato_sul_collo_dell_inter/",
-      "estratto": "I giallorossi soffrono contro i sardi in un match ricco di gol: nel finale il ritorno al gol di Malen e la rete di Mora valgono i tre punti",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
+      "id": "42e58394b1",
+      "titolo": "Il Liverpool travolge il Brighton! Andoni Iraola conquista la prima vittoria ad Anfield in Premier League mentre le stelle da 100 milioni brillano e il buon momento iniziale dei Seagulls subisce un arresto",
+      "url": "https://www.dailymail.com/sport/football/article-16229517/liverpool-brighton-andoni-iraola-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "LEWIS STEELE AD ANFIELD: Due gol in quattro minuti nel primo tempo hanno chiuso la partita per l'ammirevole ed entusiasmante squadra di Hurzeler, mentre i Reds hanno infilato la quarta vittoria consecutiva per Andoni Iraola.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": false,
-      "punteggio": -650,
-      "pubblicato": "2026-10-27T21:47:15+00:00",
-      "squadra": "AS Roma"
+      "punteggio": -600,
+      "pubblicato": "2026-10-25T16:23:52+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "59b6852521",
@@ -1497,15 +1449,27 @@
       "squadra": "Lazio"
     },
     {
-      "id": "4ce01e6647",
-      "titolo": "La Juve di Spalletti contro la vena di De Rossi: \"Il Genoa è tosto, ha il suo spirito combattivo\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/27-152192509/la_juve_di_spalletti_contro_la_vena_di_de_rossi_il_genoa_tosto_ha_il_suo_spirito_combattivo/",
-      "estratto": "Le parole dell'allenatore bianconero in conferenza stampa alla vigilia della sfida di campionato",
-      "fonte": "Corriere dello Sport",
+      "id": "afacc9c292",
+      "titolo": "Dybala ancora out, non convocato per Roma-Cagliari: ecco quando può tornare in campo",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/27-152191861/dybala_ancora_out_non_convocato_per_roma-cagliari_ecco_quando_pu_tornare_in_campo/",
+      "estratto": "Nonostante l’ottimismo della vigilia l’argentino ex Juventus non recupera e salta la sfida contro i sardi",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -650,
+      "pubblicato": "2026-10-27T13:46:24+00:00",
+      "squadra": "AS Roma"
+    },
+    {
+      "id": "665c12742d",
+      "titolo": "Spalletti, il timore Kolo Muani e il tema Alajbegovic: “Juve molto più seria di quelle domande…”",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152189293/spalletti_il_timore_kolo_muani_e_il_tema_alajbegovic_juve_molto_pi_seria_di_quelle_domande/",
+      "estratto": "L'allenatore bianconero tocca diversi temi in vista della sfida contro il Genoa del turno infrasettimanale: \"La squadra è in salute\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -730,
-      "pubblicato": "2026-10-27T15:16:42+00:00",
+      "pubblicato": "2026-10-27T15:45:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1581,28 +1545,16 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "42e58394b1",
-      "titolo": "Il Liverpool travolge il Brighton! Andoni Iraola conquista la prima vittoria ad Anfield in Premier League mentre le stelle da 100 milioni brillano e il buon momento iniziale dei Seagulls subisce un arresto",
-      "url": "https://www.dailymail.com/sport/football/article-16229517/liverpool-brighton-andoni-iraola-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "LEWIS STEELE AD ANFIELD: Due gol in quattro minuti nel primo tempo hanno chiuso la partita per l'ammirevole ed entusiasmante squadra di Hurzeler, mentre i Reds hanno infilato la quarta vittoria consecutiva per Andoni Iraola.",
+      "id": "b894d94074",
+      "titolo": "Liverpool-Brighton SI GIOCA, con il club che consiglia ai tifosi prudenza negli spostamenti... dopo che la riunione ippica di Aintree di domenica è stata annullata a causa della tempesta Boelo",
+      "url": "https://www.dailymail.com/sport/football/article-16237019/Liverpools-vs-Brighton-club-advising-fans-care-travelling-Sundays-Aintree-race-meeting-abandoned-Storm-Boelo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La sfida di Premier League tra Liverpool e Brighton si disputerà nonostante l'annullamento della riunione di corse di domenica ad Aintree a causa delle condizioni meteorologiche estreme.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -800,
-      "pubblicato": "2026-10-25T16:23:52+00:00",
+      "pubblicato": "2026-10-25T10:14:34+00:00",
       "squadra": "Liverpool"
-    },
-    {
-      "id": "c7a34bb584",
-      "titolo": "La Roma soffre col Cagliari, poi entrano Mora e Malen e tutto cambia: Gasperini batte Pisacane 4-2",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/27-152199826/roma-cagliari_diretta_serie_a_segui_la_partita_live/",
-      "estratto": "Vantaggio sardo con Nzola, Lulli e Pisilli ribaltano tutto, poi Maldini pareggia. Ma nel finale il tecnico della Roma azzecca i cambi e può sorridere",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -850,
-      "pubblicato": "2026-10-27T18:29:14+00:00",
-      "squadra": "AS Roma"
     },
     {
       "id": "5f9eb74342",
@@ -1617,15 +1569,27 @@
       "squadra": "Lazio"
     },
     {
-      "id": "11f7143c5b",
-      "titolo": "Licina, Premier e Bundesliga lo vogliono subito! Palla alla Juve: tutti gli scenari",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152185247/licina_premier_e_bundesliga_lo_vogliono_subito_palla_alla_juve_tutti_gli_scenari/",
-      "estratto": "È già calciomercato: dopo l'ottimo avvio di stagione in Serie B con la Cremonese, gli occhi dall'estero sul talento bianconero",
-      "fonte": "Tuttosport",
+      "id": "1ea59821f0",
+      "titolo": "Niente da fare per Dybala: non è tra i convocati per Roma - Cagliari",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/27-152190177/niente_da_fare_per_dybala_non_tra_i_convocati_per_roma_-_cagliari/",
+      "estratto": "L'attaccante, se tutto andrà bene, rientrerà a Udine: tutti i dettagli",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-10-27T09:56:43+00:00",
+      "punteggio": -850,
+      "pubblicato": "2026-10-27T11:58:50+00:00",
+      "squadra": "AS Roma"
+    },
+    {
+      "id": "4ce01e6647",
+      "titolo": "La Juve di Spalletti contro la vena di De Rossi: \"Il Genoa è tosto, ha il suo spirito combattivo\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/27-152192509/la_juve_di_spalletti_contro_la_vena_di_de_rossi_il_genoa_tosto_ha_il_suo_spirito_combattivo/",
+      "estratto": "Le parole dell'allenatore bianconero in conferenza stampa alla vigilia della sfida di campionato",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -930,
+      "pubblicato": "2026-10-27T15:16:42+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1701,39 +1665,15 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "b894d94074",
-      "titolo": "Liverpool-Brighton SI GIOCA, con il club che consiglia ai tifosi prudenza negli spostamenti... dopo che la riunione ippica di Aintree di domenica è stata annullata a causa della tempesta Boelo",
-      "url": "https://www.dailymail.com/sport/football/article-16237019/Liverpools-vs-Brighton-club-advising-fans-care-travelling-Sundays-Aintree-race-meeting-abandoned-Storm-Boelo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La sfida di Premier League tra Liverpool e Brighton si disputerà nonostante l'annullamento della riunione di corse di domenica ad Aintree a causa delle condizioni meteorologiche estreme.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-10-25T10:14:34+00:00",
-      "squadra": "Liverpool"
-    },
-    {
-      "id": "afacc9c292",
-      "titolo": "Dybala ancora out, non convocato per Roma-Cagliari: ecco quando può tornare in campo",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/27-152191861/dybala_ancora_out_non_convocato_per_roma-cagliari_ecco_quando_pu_tornare_in_campo/",
-      "estratto": "Nonostante l’ottimismo della vigilia l’argentino ex Juventus non recupera e salta la sfida contro i sardi",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1050,
-      "pubblicato": "2026-10-27T13:46:24+00:00",
-      "squadra": "AS Roma"
-    },
-    {
-      "id": "c70b4bc565",
-      "titolo": "Douglas Luiz, assist da... Sarr: così può migliorare ancora il centrocampo Juve",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152182269/douglas_luiz_assist_da_sarr_cos_pu_migliorare_ancora_il_centrocampo_juve/",
-      "estratto": "Il senegalese è pronto a tornare dal primo minuto dopo l'ingresso a partita in corso contro il Lecce: perché è l'ultimo spicchio decisivo per il reparto",
+      "id": "11f7143c5b",
+      "titolo": "Licina, Premier e Bundesliga lo vogliono subito! Palla alla Juve: tutti gli scenari",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152185247/licina_premier_e_bundesliga_lo_vogliono_subito_palla_alla_juve_tutti_gli_scenari/",
+      "estratto": "È già calciomercato: dopo l'ottimo avvio di stagione in Serie B con la Cremonese, gli occhi dall'estero sul talento bianconero",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1170,
-      "pubblicato": "2026-10-27T07:56:00+00:00",
+      "pubblicato": "2026-10-27T09:56:43+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1785,27 +1725,15 @@
       "squadra": "Chelsea"
     },
     {
-      "id": "1ea59821f0",
-      "titolo": "Niente da fare per Dybala: non è tra i convocati per Roma - Cagliari",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/27-152190177/niente_da_fare_per_dybala_non_tra_i_convocati_per_roma_-_cagliari/",
-      "estratto": "L'attaccante, se tutto andrà bene, rientrerà a Udine: tutti i dettagli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1250,
-      "pubblicato": "2026-10-27T11:58:50+00:00",
-      "squadra": "AS Roma"
-    },
-    {
-      "id": "ef1a854a10",
-      "titolo": "Il 352 antibiotico Juve, fino a quando serve: Spalletti rinuncia al piano A per respirare",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152182162/il_352_antibiotico_juve_fino_a_quando_serve_spalletti_rinuncia_al_piano_a_per_respirare/",
-      "estratto": "Il tecnico bianconero ha spiegato la scelta e non rimescolerà le carte: per il momento si andrà avanti con lo stesso assetto delle ultime gare",
+      "id": "c70b4bc565",
+      "titolo": "Douglas Luiz, assist da... Sarr: così può migliorare ancora il centrocampo Juve",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/27-152182269/douglas_luiz_assist_da_sarr_cos_pu_migliorare_ancora_il_centrocampo_juve/",
+      "estratto": "Il senegalese è pronto a tornare dal primo minuto dopo l'ingresso a partita in corso contro il Lecce: perché è l'ultimo spicchio decisivo per il reparto",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1370,
-      "pubblicato": "2026-10-27T07:34:00+00:00",
+      "pubblicato": "2026-10-27T07:56:00+00:00",
       "squadra": "Juventus"
     },
     {

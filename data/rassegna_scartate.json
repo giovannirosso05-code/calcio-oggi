@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-10-28T00:58:50.276894+00:00",
+  "aggiornato": "2026-10-28T06:46:17.933944+00:00",
   "totale": 37,
   "articoli": [
+    {
+      "id": "c75d1c6227",
+      "titolo": "Tifoso volgare della MLS immortalato in un video mentre sputa sulla testa di una tifosa rivale durante un'accesa discussione sugli spalti",
+      "url": "https://www.dailymail.com/sport/football/article-16241079/lafc-galaxy-fan-spitting-los-angeles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il fine settimana l'LAFC ha affrontato i rivali cittadini dei LA Galaxy in una sfida di MLS, con le due squadre che hanno pareggiato 2-2 al termine di una partita tesa. E la tensione era chiaramente alle stelle anche sugli spalti.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-28T05:32:55+00:00"
+    },
     {
       "id": "93dfe2061c",
       "titolo": "L'Espanyol, che ha Watt tra i proprietari, esonera González dopo la sconfitta contro una squadra di quarta divisione",
@@ -100,15 +109,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-27T12:56:07+00:00"
-    },
-    {
-      "id": "c75d1c6227",
-      "titolo": "Tifoso volgare della MLS immortalato in un video mentre sputa sulla testa di una tifosa rivale durante un'accesa discussione sugli spalti",
-      "url": "https://www.dailymail.com/sport/football/article-16241079/lafc-galaxy-fan-spitting-los-angeles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il fine settimana l'LAFC ha affrontato i rivali cittadini dei LA Galaxy in una sfida di MLS, con le due squadre che hanno pareggiato 2-2 al termine di una partita tesa. E la tensione era chiaramente alle stelle anche sugli spalti.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T12:20:44+00:00"
     },
     {
       "id": "39a18acdf0",
