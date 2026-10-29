@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-10-29T02:39:58.463710+00:00",
-  "totale": 39,
+  "aggiornato": "2026-10-29T08:57:44.702580+00:00",
+  "totale": 38,
   "articoli": [
+    {
+      "id": "3ab0b9f6aa",
+      "titolo": "Rulli come Donnarumma: para 2 rigori e trascina il City ai quarti di Coppa di Lega",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/rulli-donnarumma-para-2-rigori-trascina-city-quarti-coppa-lega-2288459",
+      "estratto": "Il protagonista della serata del Manchester City ha un nome preciso: Geronimo Rulli.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-29T08:42:55+00:00"
+    },
     {
       "id": "84aedc7713",
       "titolo": "Arbitro di calcio delle superiori riporta il collasso di un polmone e costole fratturate dopo una brutale aggressione da parte di un giocatore",
@@ -334,24 +343,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-26T12:45:48+00:00"
-    },
-    {
-      "id": "0b6aa4948a",
-      "titolo": "Il mancato invito di Walter Smith a una finale di coppa si trasformò in una lezione fondamentale per il furioso Derek McInnes... e il tecnico dei Rangers trae ancora oggi ispirazione dal leggendario allenatore",
-      "url": "https://www.dailymail.com/sport/football/article-16237279/Walter-Smiths-cup-final-snub-turned-vital-lesson-furious-Derek-McInnes-Rangers-boss-draws-influence-legendary-manager-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Nel quinto anniversario della morte di Walter Smith, Derek McInnes è tra i tanti che si fermeranno a riflettere sull'influenza che il leggendario allenatore dei Rangers ha avuto sia sulla sua vita che sulla sua carriera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-26T08:08:08+00:00"
-    },
-    {
-      "id": "674f1caf71",
-      "titolo": "L'ex giocatore della Premier League Jermaine Pennant ha bisogno di 50 punti di sutura dopo essere stato azzannato da un cane mentre portava a spasso il proprio animale",
-      "url": "https://www.dailymail.com/sport/football/article-16237863/Ex-Premier-League-player-Jermaine-Pennant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il quarantatreenne ex centrocampista del Liverpool stava portando a spasso il suo cane - un Akita americano di nome King - quando è stato assalito da un pastore tedesco.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-26T03:02:23+00:00"
     }
   ]
 }
