@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-10-30T18:44:06.437308+00:00",
-  "totale": 44,
+  "aggiornato": "2026-10-30T22:40:21.368222+00:00",
+  "totale": 45,
   "articoli": [
+    {
+      "id": "ff4ab7e5f0",
+      "titolo": "Galliani a cena con Cardinale e le glorie milaniste: \"Il derby? Di solito vince la sfavorita...\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/galliani-cena-cardinale-glorie-milaniste-il-derby-vince-sfavorita-2289081",
+      "estratto": "Adriano Galliani è stato intercettato da Sky all'ingresso di un noto ristorante milanese dove si svolgerà una cena tra vecchie glorie milaniste organizzata da Gerry Cardinale.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T22:30:31+00:00"
+    },
+    {
+      "id": "11e09f2248",
+      "titolo": "LaLiga, l'Espanyol vince in casa del Villarreal nell'anticipo: decide un ex Crotone",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/laliga-espanyol-vince-casa-villarreal-anticipo-decide-crotone-2289076",
+      "estratto": "Successo sorprendente e pesantissimo dell'Espanyol, che espugna l'Estadio de la Ceramica e batte 1-0 il Villarreal.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T22:05:24+00:00"
+    },
+    {
+      "id": "4da6c22fef",
+      "titolo": "Nicol: l'intesa offensiva del Liverpool potrebbe mettere in difficoltà l'Arsenal",
+      "url": "https://www.espn.com/video/clip/_/id/50331058/liverpool-attacking-chemistry-trouble-arsenal",
+      "estratto": "Nicol: l'intesa offensiva del Liverpool potrebbe mettere in difficoltà l'Arsenal",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T21:47:07+00:00"
+    },
     {
       "id": "d5d7aa1fc3",
       "titolo": "Con McGregor che ora mette in discussione l'approccio del Celtic, non è chiaro che lì qualcosa stia andando decisamente storto?",
@@ -9,7 +36,16 @@
       "estratto": "Le dichiarazioni del capitano del Celtic Callum McGregor sugli attaccanti schierati come esterni e sulla squadra priva della giusta quadratura hanno sollevato svariate problematiche.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-30T18:35:52+00:00"
+      "pubblicato": "2026-10-30T20:19:21+00:00"
+    },
+    {
+      "id": "72a0e010b1",
+      "titolo": "O'Neill attacca i critici mentre il tecnico del Celtic offre una risposta sorprendente alle dichiarazioni di McGregor a metà settimana",
+      "url": "https://www.dailymail.com/sport/football/article-16253409/celtic-martin-oneill-callum-mcgregor-kasper-hogh-camilo-duran-callum-osmand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico del Celtic Martin O'Neill ha affermato che alcuni critici del club mirano solo a creare divisioni all'interno dell'ambiente.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T19:30:35+00:00"
     },
     {
       "id": "f7b0a55b45",
@@ -18,7 +54,7 @@
       "estratto": "Olwethu Makhanya si sta rivelando esattamente tutto ciò di cui i Rangers avevano bisogno nella ricerca di rinforzi difensivi durante l'estate.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-30T18:15:52+00:00"
+      "pubblicato": "2026-10-30T19:19:12+00:00"
     },
     {
       "id": "fd32a6b9dd",
@@ -370,33 +406,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-27T22:59:30+00:00"
-    },
-    {
-      "id": "fb3c8f894b",
-      "titolo": "McInnes ammette di essersi sentito in colpa per aver lasciato l'Hearts in estate, mentre il tecnico dei Rangers si prepara a un'accoglienza ostile al suo ritorno a Tynecastle",
-      "url": "https://www.dailymail.com/sport/football/article-16243587/McInnes-admits-felt-guilty-leaving-Hearts-summer-Rangers-boss-braces-hostile-reception-return-Tynecastle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "DEREK McInnes insiste di essersi sentito in colpa per aver lasciato l'Hearts in estate, con il tecnico dei Rangers che si aspetta una calda e ostile accoglienza al suo ritorno a Tynecastle domani sera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T22:14:04+00:00"
-    },
-    {
-      "id": "4f4c4f8426",
-      "titolo": "Il nuovo infortunio al bicipite femorale di Johnston è 'a breve termine', ma il terzino destro salterà le partite fino a dopo la sosta per le nazionali",
-      "url": "https://www.dailymail.com/sport/football/article-16243717/Johnstons-latest-hamstring-injury-shorter-term-right-ruled-international-break.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il terzino destro del Celtic Alistair Johnston dovrà stare fermo per qualche settimana piuttosto che per mesi in seguito al suo ultimo infortunio al bicipite femorale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T20:00:53+00:00"
-    },
-    {
-      "id": "05c889f490",
-      "titolo": "L'ex stella della Premier League Jermaine Pennant 'ha temuto per la sua gamba' durante un feroce attacco di cane che lo ha costretto a 50 PUNTI di sutura e ammette di poter aver bisogno di chirurgia plastica per riparare la ferita",
-      "url": "https://www.dailymail.com/sport/football/article-16243413/Former-Premier-League-Jermaine-Pennant-brutal-dog-attack-50-stitches.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Lunedì Pennant ha pubblicato delle immagini che mostrano la sua tibia destra sanguinante e sfregiata in seguito all'incidente.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T19:00:34+00:00"
     }
   ]
 }
