@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-10-29T20:54:38.737537+00:00",
-  "totale": 41,
+  "aggiornato": "2026-10-30T00:37:27.814987+00:00",
+  "totale": 42,
   "articoli": [
+    {
+      "id": "8278cfd890",
+      "titolo": "Jack Grealish ha deluso ANCORA i suoi compagni: quest'ultimo episodio autolesionista dimostra che gli mancano lo spirito di sacrificio e l'umiltà tanto desiderati da David Moyes, e la squadra sta meglio senza di lui, scrive LEWIS STEELE",
+      "url": "https://www.dailymail.com/sport/football/article-16248539/Axed-Jack-Grealish-Everton-Newcastle-Carabao-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "LEWIS STEELE ALL'HILL DICKINSON STADIUM: La notizia del suo ennesimo atto di indisciplina ha dominato ogni conversazione sul lungomare del Merseyside, ma l'assenza di Grealish non si è fatta sentire.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-29T23:28:43+00:00"
+    },
+    {
+      "id": "e2b671452b",
+      "titolo": "Superclasico contro il Boca, la LPF si scaglia sul River: \"Si è sfilato dalla conferenza\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/superclasico-lpf-scaglia-river-si-sfilato-conferenza-impegni-commerciali-2288758",
+      "estratto": "La Liga Profesional de Futbol (LPF), organizzatrice del Torneo Clausura in Argentina, è stata la prima ad annunciare l'annullamento della conferenza stampa del River Plate in vista del Superclasico con il Boca Juniors con un comunicato dal titolo elo",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-29T23:26:12+00:00"
+    },
+    {
+      "id": "61ef22b3b4",
+      "titolo": "Dopo un'altra prestazione costellata di errori e con il recupero di Godfrey, è arrivato il momento per McInnes di togliere dalla linea di fuoco l'inaffidabile Fernandez?",
+      "url": "https://www.dailymail.com/sport/football/article-16250121/After-error-strewn-display-Godfrey-available-time-McInnes-took-flaky-Fernandez-firing-line.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Al termine di una serata caotica a Tynecastle, è stato emblematico che sia stato Olwethu Makhanya a togliersi dai guai i Rangers.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-29T21:10:25+00:00"
+    },
     {
       "id": "ffbd23f0f9",
       "titolo": "I veri motivi per cui le cose sono andate storte per Kasper Hogh al Celtic... e perché l'attaccante danese sembra un pesce fuor d'acqua lontano dal Bodo/Glimt",
@@ -19,15 +46,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-29T19:14:13+00:00"
-    },
-    {
-      "id": "61ef22b3b4",
-      "titolo": "Dopo un'altra prestazione costellata di errori e con il recupero di Godfrey, è arrivato il momento per McInnes di togliere dalla linea di fuoco l'inaffidabile Fernandez?",
-      "url": "https://www.dailymail.com/sport/football/article-16250121/After-error-strewn-display-Godfrey-available-time-McInnes-took-flaky-Fernandez-firing-line.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Al termine di una serata caotica a Tynecastle, è stato emblematico che sia stato Olwethu Makhanya a togliersi dai guai i Rangers.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T19:11:03+00:00"
     },
     {
       "id": "17987fc11e",
@@ -361,15 +379,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-27T02:02:59+00:00"
-    },
-    {
-      "id": "828d02e497",
-      "titolo": "La stella degli Hearts Claudio Braga si aspetta un'accoglienza infuocata per il tecnico dei Rangers Derek McInnes al suo ritorno a Tynecastle",
-      "url": "https://www.dailymail.com/sport/football/article-16240453/Hearts-star-Claudio-Braga-expects-fiery-welcome-Rangers-boss-Derek-McInnes-return-Tynecastle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Claudio Braga si aspetta che Derek McInnes affronti un'accoglienza ostica al suo ritorno a Tynecastle mercoledì sera, una 'conseguenza' dell'aver lasciato gli Hearts per i Rangers quattro mesi fa.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-26T22:30:46+00:00"
     }
   ]
 }
