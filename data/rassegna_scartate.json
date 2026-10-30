@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-10-30T06:30:25.528715+00:00",
+  "aggiornato": "2026-10-30T13:27:13.117671+00:00",
   "totale": 42,
   "articoli": [
+    {
+      "id": "91653d9c0f",
+      "titolo": "Inghilterra Under 15 nel caos ai Mondiali: gli avversari SI RIFIUTANO di affrontare un rigore all'ultimo minuto, lasciando la porta sguarnita, prima che i Young Lions debbano intervenire per difendere l'arbitro",
+      "url": "https://www.dailymail.com/sport/football/article-16251893/england-15-world-cup-penalty-chaos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La campagna della Nazionale inglese Under-15 alla Coppa del Mondo è nuovamente precipitata nel caos dopo la vittoria contro la Bolivia grazie a un rigore calciato all'ultimo secondo senza opposizione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T13:07:27+00:00"
+    },
+    {
+      "id": "6ba7c11b5b",
+      "titolo": "Global Power Ranking: la classifica delle prime 20 squadre di calcio al mondo!",
+      "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+      "estratto": "Se guardiamo oltre la Premier League e oltre le squadre qualificate per la Champions League, quali sono le migliori squadre al mondo?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T12:06:05+00:00"
+    },
+    {
+      "id": "07f7fcf67b",
+      "titolo": "La stella della Premier League Thierno Barry e la compagna subiscono un furto \"devastante e violendo\" in casa mentre lui gioca con l'Everton, un mese dopo aver pubblicato un video con la collezione di borse firmate nella cabina armadio",
+      "url": "https://www.dailymail.com/sport/football/article-16251739/Thierno-Barry-burglary-girlfriend-Everton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Thierno Barry e la sua compagna sono le ultime vittime di furti in appartamento mirati ai calciatori, avvenuti giovedì notte mentre lui era impegnato con l'Everton nella vittoria di Carabao Cup contro il Newcastle.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T10:38:42+00:00"
+    },
     {
       "id": "3df364ff72",
       "titolo": "Dietro le difficoltà di Jack Grealish: perché l'Everton aveva dei dubbi già LA scorsa stagione, come alcuni seguaci ne stanno approfittando, i problemi con il suo atteggiamento verso il calcio e cosa dovrebbe fare adesso, scrive IAN HERBERT",
@@ -9,7 +36,52 @@
       "estratto": "Grealish ha dato forfait per malattia in vista della partita dello scorso fine settimana in casa dell'Arsenal, poco dopo i Pride of Britain Awards, e ha violato il codice disciplinare dell'Everton a causa di un'assenza non autorizzata.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-30T02:38:10+00:00"
+      "pubblicato": "2026-10-30T10:26:42+00:00"
+    },
+    {
+      "id": "08b0ff93c4",
+      "titolo": "Michael Owen: Non mi è stato dato abbastanza credito per la vittoria del Pallone d'Oro",
+      "url": "https://www.espn.com/soccer/story/_/id/50326763/michael-owen-ballon-dor-liverpool-2001",
+      "estratto": "Michael Owen ha dichiarato di non ritenersi destinatario dello stesso credito che \"altri avrebbero ricevuto\" per la vittoria del Pallone d'Oro ottenuta nel 2001.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T10:24:43+00:00"
+    },
+    {
+      "id": "8278cfd890",
+      "titolo": "Jack Grealish ha deluso ANCORA i suoi compagni: quest'ultimo episodio autolesionista dimostra che gli mancano lo spirito di sacrificio e l'umiltà tanto desiderati da David Moyes, e la squadra sta meglio senza di lui, scrive LEWIS STEELE",
+      "url": "https://www.dailymail.com/sport/football/article-16248539/Axed-Jack-Grealish-Everton-Newcastle-Carabao-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "LEWIS STEELE ALL'HILL DICKINSON STADIUM: La notizia del suo ennesimo atto di indisciplina ha dominato ogni conversazione sul lungomare del Merseyside, ma l'assenza di Grealish non si è fatta sentire.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T10:08:56+00:00"
+    },
+    {
+      "id": "7b541e65a6",
+      "titolo": "L'Inghilterra Under 15 LASCIA IL CAMPO durante la sfida Mondiale con l'Irlanda dopo che un giovane ha accusato un avversario di averlo chiamato 'scimmia' in un presunto insulto razzista",
+      "url": "https://www.dailymail.com/sport/football/article-16239485/england-ireland-world-cup-racism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il CT dei Young Lions Matt Thorpe ha richiamato i suoi giocatori al 40° minuto dopo che uno di loro aveva sostenuto che un avversario lo aveva chiamato 'scimmia' pochi istanti dopo un alterco.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T09:51:13+00:00"
+    },
+    {
+      "id": "3b6888ed24",
+      "titolo": "Le scelte di Chivu per il derby: Akanji in difesa, e in porta ci va…",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/30-152253234/le_scelte_di_chivu_per_il_derby_akanji_in_difesa_e_in_porta_ci_va/",
+      "estratto": "Ancora cinque indisponibili per l'Inter. Lo Schiavo vicino all'ingresso in società",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T08:52:49+00:00"
+    },
+    {
+      "id": "c1e694c7c7",
+      "titolo": "Le scelte di Amorim per il derby: Moreira scalpita, Rabiot e Gila pronti",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/10/30-152253225/le_scelte_di_amorim_per_il_derby_moreira_scalpita_rabiot_e_gila_pronti/",
+      "estratto": "Modric vuole essere presente e può partire titolare. Ballottaggio tra Estupinan e Bartesaghi",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-10-30T08:43:41+00:00"
     },
     {
       "id": "eba0240948",
@@ -19,15 +91,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-30T02:00:46+00:00"
-    },
-    {
-      "id": "8278cfd890",
-      "titolo": "Jack Grealish ha deluso ANCORA i suoi compagni: quest'ultimo episodio autolesionista dimostra che gli mancano lo spirito di sacrificio e l'umiltà tanto desiderati da David Moyes, e la squadra sta meglio senza di lui, scrive LEWIS STEELE",
-      "url": "https://www.dailymail.com/sport/football/article-16248539/Axed-Jack-Grealish-Everton-Newcastle-Carabao-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "LEWIS STEELE ALL'HILL DICKINSON STADIUM: La notizia del suo ennesimo atto di indisciplina ha dominato ogni conversazione sul lungomare del Merseyside, ma l'assenza di Grealish non si è fatta sentire.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T23:28:43+00:00"
     },
     {
       "id": "61ef22b3b4",
@@ -46,15 +109,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-29T19:22:50+00:00"
-    },
-    {
-      "id": "d1d7aac369",
-      "titolo": "Il padre di Jude Bellingham, Mark, convocato per giocare con l'Inghilterra OVER-50 nella sfida con l'Irlanda - dopo aver segnato più di 700 gol in una carriera da giramondo nei campionati dilettantistici",
-      "url": "https://www.dailymail.com/sport/football/article-16249979/jude-bellingham-father-mark-england-veterans-ireland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Mark, il padre di Jude Bellingham, ha ricevuto la convocazione per entrare a far parte della selezione Veterani Over 50 dell'Inghilterra che affronterà la Repubblica d'Irlanda questo fine settimana. Ai suoi tempi Bellingham è stato un talentuoso atta",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T19:14:13+00:00"
     },
     {
       "id": "17987fc11e",
@@ -93,15 +147,6 @@
       "pubblicato": "2026-10-29T16:26:42+00:00"
     },
     {
-      "id": "d4681a58a9",
-      "titolo": "Il derby Sampdoria-Entella visibile su Dazn anche in modalità gratuita",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/29-152241940/il_derby_sampdoria-entella_visibile_su_dazn_anche_in_modalit_gratuita/",
-      "estratto": "Sabato 31 ottobre alle 19:30 i riflettori sulla sfida in programma allo Stadio Luigi Ferraris e valido per la 10ª giornata di campionato",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T15:50:00+00:00"
-    },
-    {
       "id": "4a6bb800e0",
       "titolo": "Il Derry City RISOLVE il contratto di James McClean: finisce il ritorno da incubo del calciatore della protesta dei papaveri nel club della sua infanzia tra le accuse di \"inabilità permanente\"",
       "url": "https://www.dailymail.com/sport/football/article-16246115/Derry-City-James-McCleans-contract-terminated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -138,15 +183,6 @@
       "pubblicato": "2026-10-29T10:32:00+00:00"
     },
     {
-      "id": "69ee20b055",
-      "titolo": "Danilo, ufficiale il rinnovo con il Flamengo: \"Voglio continuare ad aiutare il club\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/29-152237724/danilo_ufficiale_il_rinnovo_con_il_flamengo_voglio_continuare_ad_aiutare_il_club/",
-      "estratto": "L'ex capitano della Juve non si ferma: sottoscritto un nuovo contratto con il club brasiliano",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T09:31:44+00:00"
-    },
-    {
       "id": "84aedc7713",
       "titolo": "Arbitro di calcio delle superiori riporta il collasso di un polmone e costole fratturate dopo una brutale aggressione da parte di un giocatore",
       "url": "https://www.dailymail.com/sport/football/article-16247271/high-school-soccer-referee-attack-ohio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -172,15 +208,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-29T00:24:11+00:00"
-    },
-    {
-      "id": "4bf2b73f13",
-      "titolo": "HEARTS 2 RANGERS 2: McInnes scampa una serata da incubo a Tynecastle: Makhanya strappa un punto in extremis",
-      "url": "https://www.dailymail.com/sport/football/article-16247259/HEARTS-2-RANGERS-2-McInnes-avoids-night-trauma-Tynecastle-Makhanya-steals-share-spoils-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "A metà del secondo tempo, mentre Tynecastle esplodeva in una festa scatenata, Derek McInnes è rimasto a braccia conserte sulla linea laterale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T00:19:14+00:00"
     },
     {
       "id": "e14b4a4d59",
@@ -352,33 +379,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-27T13:55:21+00:00"
-    },
-    {
-      "id": "2cd20ae2fc",
-      "titolo": "Michael Owen protagonista di un imbarazzante siparietto al Pallone d'Oro... costretto a dire a un giornalista di essere un ex vincitore del premio!",
-      "url": "https://www.dailymail.com/sport/football/article-16241683/Michael-Owen-involved-awkward-Ballon-dOr-exchange-forced-tell-reporter-previous-winner-award.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Michael Owen è stato protagonista di un siparietto alquanto imbarazzante con un giornalista apparentemente ignaro alla cerimonia del Pallone d'Oro tenutasi ieri sera a Londra.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T12:56:07+00:00"
-    },
-    {
-      "id": "39a18acdf0",
-      "titolo": "Chiamata la polizia per un prodigio del calcio di tre anni dopo che genitori woke della Florida si sono lamentati perché era 'troppo bravo'",
-      "url": "https://www.dailymail.com/sport/football/article-16239443/nevada-cops-called-soccer-winter-park-florida.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "In un video recente, la famiglia del bambino ha sostenuto che i genitori della squadra avversaria erano furiosi perché il bambino di tre anni - che giocava contro bambini di circa cinque anni - era troppo talentuoso.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T12:01:34+00:00"
-    },
-    {
-      "id": "7b541e65a6",
-      "titolo": "L'Inghilterra Under 15 LASCIA IL CAMPO durante la sfida Mondiale con l'Irlanda dopo che un giovane ha accusato un avversario di averlo chiamato 'scimmia' in un presunto insulto razzista",
-      "url": "https://www.dailymail.com/sport/football/article-16239485/england-ireland-world-cup-racism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il CT dei Young Lions Matt Thorpe ha richiamato i suoi giocatori al 40° minuto dopo che uno di loro aveva sostenuto che un avversario lo aveva chiamato 'scimmia' pochi istanti dopo un alterco.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T09:43:12+00:00"
     }
   ]
 }
