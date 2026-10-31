@@ -1,15 +1,105 @@
 {
-  "aggiornato": "2026-10-31T14:28:38.140589+00:00",
-  "totale": 40,
+  "aggiornato": "2026-10-31T18:42:21.159837+00:00",
+  "totale": 48,
   "articoli": [
     {
-      "id": "9feb55da27",
-      "titolo": "In Inghilterra sono pazzi di Suzuki: portiere, libero e idolo dei tifosi dell'Aston Villa",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/inghilterra-pazzi-suzuki-portiere-libero-idolo-tifosi-aston-villa-2289188",
-      "estratto": "Da Emiliano Martinez a Zion Suzuki, il coro dei tifosi dell'Aston Villa non è cambiato: tra i pali hanno ancora \"il numero uno al mondo\".",
+      "id": "4b3443848f",
+      "titolo": "Chelsea-Manchester United, Premier League: Cole Palmer raddoppia per i Blues su calcio di rigore, espulso Lisandro Martinez - per i Red Devils il pomeriggio si complica",
+      "url": "https://www.dailymail.com/sport/football/article-16249173/Chelsea-vs-Manchester-United-Premier-League-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Segui la diretta di Daily Mail Sport per gli ultimi aggiornamenti sulla sfida di Premier League tra Chelsea e Manchester United a Stamford Bridge.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T18:34:54+00:00"
+    },
+    {
+      "id": "cecc39b13a",
+      "titolo": "Il vecchio fantasma di James Trafford torna a perseguitarlo: il Bournemouth di Marco Rose miete un'altra illustre vittima e centra la sesta vittoria di fila",
+      "url": "https://www.dailymail.com/sport/football/article-16249183/james-trafford-ghost-leeds-bournemouth-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JAMES SHARPE AL VITALITY STADIUM: Quanto è stato emblematico, in questo periodo di spettri e zombi, che sia stato proprio uno dei vecchi fantasmi di James Trafford a tornare per tormentarlo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T18:22:05+00:00"
+    },
+    {
+      "id": "9a10990df2",
+      "titolo": "Il Coventry getta ulteriore sconforto sul Sunderland: i Black Cats toccano il fondo e lasciano Régis Le Bris col volto segnato dall'incubo retrocessione dopo il ko per 3-1",
+      "url": "https://www.dailymail.com/sport/football/article-16249189/Coventry-3-1-Sunderland-Premier-League-2026-27-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ROSS HEPPENSTALL ALLA CBS ARENA: Prestazione da censura per un Sunderland privo di idee in quello che era stato definito uno scontro salvezza anticipato, un'etichetta che si è rivelata solo una leggera esagerazione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T18:17:47+00:00"
+    },
+    {
+      "id": "3e9d517f59",
+      "titolo": "Villarreal, Pau Navarro attacca i tifosi: \"Stadio vuoto al 75' è inaccettabile. Altrove non è così\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/villarreal-pau-navarro-attacca-tifosi-stadio-vuoto-75-inaccettabile-cosi-2289258",
+      "estratto": "La sconfitta casalinga contro l'Espanyol lascia strascichi pesanti in casa Villarreal.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-10-31T14:26:05+00:00"
+      "pubblicato": "2026-10-31T18:04:00+00:00"
+    },
+    {
+      "id": "7ea5a673f7",
+      "titolo": "Super Lig, Guendouzi non basta al Fenerbahce: ko a sorpresa in casa col Goztepe",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/super-lig-guendouzi-fenerbahce-ko-sorpresa-casa-goztepe-2289300",
+      "estratto": "Se da una parte la marca del Galatasaray non conosce ostacoli, sul fronte dell'altra big turca ovvero il Fenerbahce c'è da registrare un brusco stop.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T17:56:16+00:00"
+    },
+    {
+      "id": "911ea162c8",
+      "titolo": "Il Brighton è la squadra più 'completa' della Premier League?",
+      "url": "https://www.espn.com/video/clip/_/id/50337378/are-brighton-most-complete-team-premier-league",
+      "estratto": "Il Brighton è la squadra più 'completa' della Premier League?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T17:27:32+00:00"
+    },
+    {
+      "id": "09b298e11d",
+      "titolo": "Continua la marcia del Bournemouth: un errore di James Trafford costa caro al Leeds",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879251",
+      "estratto": "Una clamorosa ingenuità dell'estremo difensore del Leeds James Trafford spiana la strada a un brillante AFC Bournemouth verso la vittoria per 2-0 in Premier League al Vitality Stadium.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T17:12:31+00:00"
+    },
+    {
+      "id": "e11be18e4a",
+      "titolo": "Julio Enciso salva l'Ipswich Town in casa dell'Hull City",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878763",
+      "estratto": "L'Hull City difende l'imbattibilità interna ma non riesce a ritrovare il successo al termine di un pirotecnico 2-2 con l'Ipswich al MKM Stadium.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T17:10:59+00:00"
+    },
+    {
+      "id": "1c4770255c",
+      "titolo": "Il Coventry esce dalla zona retrocessione dopo la splendida vittoria sul Sunderland",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879247",
+      "estratto": "Il Coventry City si allontana dalle ultime posizioni grazie al successo per 3-1 sul Sunderland, un risultato che lascia i Black Cats ancorati all'ultimo posto della Premier League.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T17:09:34+00:00"
+    },
+    {
+      "id": "b952ce7422",
+      "titolo": "Il Brentford aumenta la pressione su Oliver Glasner con una vittoria per 2-0 sul Nottingham Forest",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879249",
+      "estratto": "Igor Thiago torna a esultare mentre il Nottingham Forest resta ancora a secco di gol nella sconfitta per 2-0 sul campo del Brentford.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T16:59:17+00:00"
+    },
+    {
+      "id": "4ba7b549c0",
+      "titolo": "Ogden: Il Man Utd è nella lotta per non retrocedere",
+      "url": "https://www.espn.com/video/clip/_/id/50336815/man-utd-relegation-battle",
+      "estratto": "Ogden: Il Man Utd è nella lotta per non retrocedere",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T16:23:47+00:00"
     },
     {
       "id": "ef22dc05c8",
@@ -18,16 +108,25 @@
       "estratto": "Jamie Carragher si è scusato per le sue dichiarazioni sull'Aston Villa dopo che il club ha annunciato l'intenzione di intraprendere azioni legali nei suoi confronti.",
       "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-31T13:41:15+00:00"
+      "pubblicato": "2026-10-31T15:21:33+00:00"
     },
     {
-      "id": "6b8803522d",
-      "titolo": "Crystal Palace, Sage sfida De Zerbi: \"Un modello. Andai due volte in Italia per studiarlo\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/crystal-palace-sage-sfida-de-zerbi-un-modello-andai-italia-studiarlo-2289184",
-      "estratto": "Prima avversario da studiare, ora avversario da battere.",
-      "fonte": "TMW",
+      "id": "4d72302752",
+      "titolo": "Analisi VAR in Premier League: perché è stato annullato il gol di Matheus Cunha contro il Chelsea?",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "estratto": "Il VAR suspegta spesso polemiche, ma come vengono prese le decisioni? Il nostro arbitro residente, Andy Davies, spiega tutto.",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-10-31T13:26:29+00:00"
+      "pubblicato": "2026-10-31T15:13:06+00:00"
+    },
+    {
+      "id": "a08562c888",
+      "titolo": "Nicol attribuisce il cartellino rosso di Martínez a una 'scelta orribile' del difensore",
+      "url": "https://www.espn.com/video/clip/_/id/50336290/nicol-blames-martinez-red-card-defender-horrible-decision-making",
+      "estratto": "Nicol attribuisce il cartellino rosso di Martínez a una 'scelta orribile' del difensore",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-10-31T15:07:39+00:00"
     },
     {
       "id": "516e6f64dd",
@@ -129,24 +228,6 @@
       "pubblicato": "2026-10-30T17:51:38+00:00"
     },
     {
-      "id": "889ee14d41",
-      "titolo": "Junior Kroupi non è ancora pronto per partire titolare, secondo l'allenatore del Bournemouth Marco Rose",
-      "url": "https://www.espn.com/soccer/story/_/id/50328857/junior-kroupi-not-yet-ready-start-according-bournemouth-boss-marco-rose",
-      "estratto": "Marco Rose gestirà ancora per un po' l'attaccante del Bournemouth Junior Kroupi nonostante i minuti concessi in settimana.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T16:23:36+00:00"
-    },
-    {
-      "id": "1804382dad",
-      "titolo": "Enzo Maresca: Gianluigi Donnarumma non è \"intoccabile\" ma sarà il primo nome sulla lista",
-      "url": "https://www.espn.com/soccer/story/_/id/50328774/enzo-maresca-gianluigi-donnarumma-man-city-not-undroppable-brighton-premier-league",
-      "estratto": "Enzo Maresca insiste sul fatto che Gianluigi Donnarumma non sia intoccabile, ma sarà il primo nome sulla distinta del Manchester City per questo fine settimana.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T16:22:22+00:00"
-    },
-    {
       "id": "cfb73971a5",
       "titolo": "Lo spogliatoio in stile giungla! Un club di calcio \"woke\" costringerà i giocatori a cambiarsi in mezzo a 60 PIANTE DA APPARTAMENTO \"per ridurre lo stress\" - dopo aver bandito i pasticci di carne e reso vegano il kit di gioco",
       "url": "https://www.dailymail.com/sport/football/article-16252677/football-club-houseplants-vegan-pitch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -199,15 +280,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-30T10:26:42+00:00"
-    },
-    {
-      "id": "08b0ff93c4",
-      "titolo": "Michael Owen: Non mi è stato dato abbastanza credito per la vittoria del Pallone d'Oro",
-      "url": "https://www.espn.com/soccer/story/_/id/50326763/michael-owen-ballon-dor-liverpool-2001",
-      "estratto": "Michael Owen ha dichiarato di non ritenersi destinatario dello stesso credito che \"altri avrebbero ricevuto\" per la vittoria del Pallone d'Oro ottenuta nel 2001.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T10:24:43+00:00"
     },
     {
       "id": "7b541e65a6",
