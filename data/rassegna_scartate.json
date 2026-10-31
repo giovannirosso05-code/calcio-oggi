@@ -1,24 +1,15 @@
 {
-  "aggiornato": "2026-10-30T22:40:21.368222+00:00",
-  "totale": 45,
+  "aggiornato": "2026-10-31T01:51:16.141791+00:00",
+  "totale": 43,
   "articoli": [
     {
-      "id": "ff4ab7e5f0",
-      "titolo": "Galliani a cena con Cardinale e le glorie milaniste: \"Il derby? Di solito vince la sfavorita...\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/galliani-cena-cardinale-glorie-milaniste-il-derby-vince-sfavorita-2289081",
-      "estratto": "Adriano Galliani è stato intercettato da Sky all'ingresso di un noto ristorante milanese dove si svolgerà una cena tra vecchie glorie milaniste organizzata da Gerry Cardinale.",
-      "fonte": "TMW",
+      "id": "16fa0b8e00",
+      "titolo": "Emiliano Martínez rivela che il suo dito \"non tornerà mai più\" normale dopo l'infortunio che lo ha costretto a giocare come uno \"zombie\" durante il Mondiale: \"Piangevo tutti i giorni\"",
+      "url": "https://www.dailymail.com/sport/football/article-16253773/Emiliano-Martinez-reveals-finger-wont-return-normal-Chelsea-goalkeeper-played-injury-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il trentaquattrenne ha raccontato sul canale YouTube del giornalista argentino Gastón Edul di aver pianto dopo aver visto le radiografie, temendo di dover saltare la difesa del titolo mondiale con l'Argentina.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-10-30T22:30:31+00:00"
-    },
-    {
-      "id": "11e09f2248",
-      "titolo": "LaLiga, l'Espanyol vince in casa del Villarreal nell'anticipo: decide un ex Crotone",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/laliga-espanyol-vince-casa-villarreal-anticipo-decide-crotone-2289076",
-      "estratto": "Successo sorprendente e pesantissimo dell'Espanyol, che espugna l'Estadio de la Ceramica e batte 1-0 il Villarreal.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T22:05:24+00:00"
+      "pubblicato": "2026-10-30T23:33:53+00:00"
     },
     {
       "id": "4da6c22fef",
@@ -397,15 +388,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-28T05:32:55+00:00"
-    },
-    {
-      "id": "93dfe2061c",
-      "titolo": "L'Espanyol, che ha Watt tra i proprietari, esonera González dopo la sconfitta contro una squadra di quarta divisione",
-      "url": "https://www.espn.com/soccer/story/_/id/50301676/espanyol-watt-owners-sack-gonzalez-loss-4th-tier-side",
-      "estratto": "L'Espanyol, club di LaLiga il cui gruppo di proprietà comprende l'ex stella della NFL J.J. Watt, ha esonerato l'allenatore Manolo González in seguito all'eliminazione di martedì in Copa del Rey contro la squadra di quarta divisione del Sestao River.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-27T22:59:30+00:00"
     }
   ]
 }
