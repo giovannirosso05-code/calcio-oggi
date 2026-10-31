@@ -23,7 +23,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css?v=21">
+<link rel="stylesheet" href="css/style.css?v=22">
 <script>try{var t=localStorage.getItem("tema");if(t!=="chiaro"&&t!=="scuro")t=matchMedia("(prefers-color-scheme: dark)").matches?"scuro":"chiaro";document.documentElement.dataset.tema=t}catch(e){document.documentElement.dataset.tema="chiaro"}</script>
 </head>
 <body>
@@ -32,12 +32,14 @@
 <main id="contenuto">
 <div class="container">
   <section class="hero"><h1>Ultime <span class="accent">notizie</span></h1>
-    <p>I titoli delle ultime 72 ore dalle principali testate sportive. Cliccando si apre l'articolo sul sito originale.</p><div class="agg" id="agg"></div></section>
+    <p>I titoli delle ultime 72 ore dalle principali testate sportive, dai più recenti. Cliccando si apre l'articolo sul sito originale.</p><div class="agg" id="agg"></div></section>
+  <div class="cerca-notizie"><label class="sr-only" for="cerca">Cerca nelle notizie</label><input id="cerca" type="search" placeholder="Cerca una squadra, un giocatore, un allenatore…" autocomplete="off"></div>
   <div id="filtri" class="filtri"></div>
+  <div id="fonti" class="filtri filtri-fonti"></div>
   <div class="lista-notizie" id="lista"><div class="vuoto">Caricamento…</div></div>
 </div>
 </main>
 <footer id="site-footer" class="site-footer"></footer>
-<script type="module" src="js/notizie.js?v=21"></script>
+<script type="module" src="js/notizie.js?v=22"></script>
 </body>
 </html>

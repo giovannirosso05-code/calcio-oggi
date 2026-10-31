@@ -398,3 +398,17 @@ table.classifica { width: 100%; border-collapse: collapse; font-variant-numeric:
 .anno-campo input:focus { outline: none; border-color: var(--accento); box-shadow: 0 0 0 4px rgba(46,160,67,.18); }
 
 .schede { display: flex; gap: 8px; margin: 6px 0 14px; flex-wrap: wrap; }
+
+/* Notizie: ricerca, fonti, giorni, in evidenza */
+.cerca-notizie { margin: 14px 0 0; }
+.cerca-notizie input { width: 100%; background: var(--card); color: inherit; border: 1px solid var(--linea); border-radius: var(--raggio); padding: 12px 14px; font: inherit; font-size: 15px; }
+.cerca-notizie input:focus { outline: 3px solid var(--accento); outline-offset: 1px; }
+.pill .n { opacity: .6; font-size: 12px; margin-left: 4px; }
+.filtri-fonti { margin-top: -4px; }
+.filtri-fonti .pill { font-size: 13px; padding: 4px 12px; }
+.giorno-notizie { font: 700 15px Oswald, sans-serif; letter-spacing: .06em; text-transform: uppercase; color: var(--tenue); margin: 18px 0 2px; }
+.notizia.in-evidenza { border-left: 5px solid var(--accento); padding: 16px 18px; }
+.notizia.in-evidenza b { font-size: 20px; line-height: 1.25; }
+.tag-evid { display: inline-block; font: 700 12px Oswald, sans-serif; letter-spacing: .08em; text-transform: uppercase; background: var(--accento); color: var(--scuro); padding: 2px 10px; border-radius: 999px; margin-bottom: 8px; }
+.altre-notizie { justify-self: center; margin: 12px 0 4px; padding: 10px 22px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
