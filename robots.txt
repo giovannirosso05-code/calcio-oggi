@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giovannirosso05-code.github.io/calcio-oggi/sitemap.xml
