@@ -1,19 +1,7 @@
 {
-  "aggiornato": "2026-10-31T01:51:16.235539+00:00",
-  "totale": 155,
+  "aggiornato": "2026-10-31T07:59:27.993920+00:00",
+  "totale": 159,
   "articoli": [
-    {
-      "id": "15bae2edd6",
-      "titolo": "Lecce, sirene di mercato per Tiago Gabriel: Roma in prima fila. Il prezzo è di 25 milioni",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-sirene-mercato-tiago-gabriel-roma-fila-prezzo-25-2289072",
-      "estratto": "I rumors di mercato sul futuro Tiago Gabriel si preparano ad essere uno dei temi da seguire nei prossimi mesi.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 150,
-      "pubblicato": "2026-10-30T22:59:00+00:00",
-      "squadra": "Lecce"
-    },
     {
       "id": "3033d0ff3f",
       "titolo": "Tra padel e gite in barca tra i delfini a Sharm El Sheikh: Conte in vacanza con gli ex Juve in attesa di una nuova panchina",
@@ -27,18 +15,6 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "244b996f54",
-      "titolo": "Fiorentina, non c'è ancora un'identità",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/30-152255634/fiorentina_non_c_ancora_un_identit/",
-      "estratto": "Instabile: questa è la squadra viola oggi, verso un punto che ancora non si conosce: il commento",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 150,
-      "pubblicato": "2026-10-30T09:47:46+00:00",
-      "squadra": "Fiorentina"
-    },
-    {
       "id": "fa5bf87f22",
       "titolo": "Villarreal ko in casa prima della sfida di Champions contro il Psg e in ansia per Moreno, risorge l'Espanyol",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/10/30-152260941/villarreal_ko_in_casa_prima_della_sfida_di_champions_contro_il_psg_risorge_l_espanyol/",
@@ -49,18 +25,6 @@
       "punteggio": 140,
       "pubblicato": "2026-10-30T22:16:23+00:00",
       "squadra": "Villarreal"
-    },
-    {
-      "id": "8561e7dea4",
-      "titolo": "Moviola Frosinone-Lecce, disastro Abisso: nel dubbio dà il rigore errato",
-      "url": "https://www.corrieredellosport.it/news/calcio/moviola/2026/10/30-152252650/moviola_frosinone-lecce_disastro_abisso_nel_dubbio_d_il_rigore_errato/",
-      "estratto": "Tutti gli episodi arbitrali della partita vinta 5-1 dalla squadra di Alvini",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 140,
-      "pubblicato": "2026-10-30T08:16:30+00:00",
-      "squadra": "Frosinone"
     },
     {
       "id": "5454b2b64f",
@@ -99,87 +63,52 @@
       "squadra": "Elversberg"
     },
     {
-      "id": "c70ad6d18e",
-      "titolo": "Jack Grealish ESCLUSO dall'Everton per 'violazione della disciplina di club': il centrocampista salta la sfida di Carabao Cup con il Newcastle",
-      "url": "https://www.dailymail.com/sport/football/article-16250391/Jack-Grealish-DROPPED-Everton-club-discipline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'esterno dei Toffees, 31 anni, è stato escluso dalla rosa di David Moyes per la sfida contro il Newcastle in Carabao Cup dopo la sanzione inflitta dal club. Grealish era stato dato per 'malato' quando aveva saltato la trasferta in casa dell'Arsenal.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-10-30T08:19:19+00:00",
-      "squadra": "Everton"
-    },
-    {
-      "id": "23cf491bec",
-      "titolo": "Cristiano Ronaldo firma una TRIPLETTA nella vittoria dell'Al-Nassr: e il fuoriclasse portoghese, 41 anni, poteva farne CINQUE dopo due reti annullate, avvicinandosi al traguardo dei 1.000 gol",
-      "url": "https://www.dailymail.com/sport/football/article-16250649/cristiano-ronaldo-al-nassr-hat-trick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Cristiano Ronaldo si è avvicinato al traguardo dei 1.000 gol dopo aver segnato una tripletta nel 5-3 dell'Al-Nassr sull'Al-Kholood. Il 41enne fuoriclasse portoghese ha realizzato tutte e tre le reti nell'arco di 15 minuti del secondo tempo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-10-29T22:17:59+00:00",
-      "squadra": "Al Nassr"
-    },
-    {
-      "id": "497a181153",
-      "titolo": "Il messaggio è unanime: \"Vincere il derby\". Chivu, Akanji e Diouf presentano la sfida col Milan",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/messaggio-unanime-vincere-derby-chivu-akanji-diouf-presentano-sfida-milan-2289066",
-      "estratto": "Vigilia di derby in casa Inter.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-30T23:53:00+00:00",
-      "squadra": "Derby"
-    },
-    {
-      "id": "078be2cadd",
-      "titolo": "Icardi e l’Inter, un legame che non si è mai spezzato: \"Mi piacerebbe un finale diverso\"",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/icardi-l-inter-legame-spezzato-mi-piacerebbe-finale-diverso-2289083",
-      "estratto": "Mauro Icardi ha ancora qualche sogno nel cassetto.",
+      "id": "2abc39e587",
+      "titolo": "Llorente sincero: \"Via Spalletti dalla Juve? Cambiammo Ancelotti a Napoli e non servì a niente\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/llorente-sincero-via-spalletti-juve-cambiammo-ancelotti-napoli-servi-niente-2289101",
+      "estratto": "Alla vigilia di Juventus-Napoli i nervi sono a fior di pelle, in casa bianconera è scattato il ritiro per il momento di difficoltà estrema dei ragazzi di Luciano Spalletti, lontani sei punti dalla zona Champions e reduci dal terribile ko di Genova.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-30T23:38:37+00:00"
+      "pubblicato": "2026-10-31T07:44:57+00:00",
+      "squadra": "Juventus"
     },
     {
-      "id": "504898b2e4",
-      "titolo": "Ernesto Paolillo: \"Inter, è il momento di vincere il derby. FIGC, sto con Galliani: ne sa più di Malagò\"",
-      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/ernesto-paolillo-inter-vincere-derby-figc-galliani-sa-malago-2289087",
-      "estratto": "\"Il derby? Non partirei dalla premessa che l'Inter sta facendo bene e il Milan no, perché sappiamo come sono finiti gli ultimi derby.",
+      "id": "d208e8318d",
+      "titolo": "Balbo: \"Gasperini quest'anno può vincere lo scudetto, ma la Roma del 2001 era un'altra roba\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/balbo-gasperini-vincere-scudetto-roma-entra-mia-2289105",
+      "estratto": "Ancora prima del derby di Milano, il sabato di Serie A offre un'altra sfida emozionante: Udinese-Roma.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-30T23:16:34+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
-      "id": "cd6cc1f36c",
-      "titolo": "Mora brilla con la Roma. Il ct del Portogallo U21: \"Si vede che il club crede molto in lui\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/mora-brilla-roma-ct-portogallo-u21-si-vede-club-crede-lui-2289070",
-      "estratto": "Luís Freire, commissario tecnico del Portogallo Under 21, ha parlato in un'intervista all'agenzia Lusa del percorso di Rodrigo Mora, arrivato alla Roma in estate e ancora alla ricerca di continuità con la maglia giallorossa.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-30T23:15:24+00:00",
+      "pubblicato": "2026-10-31T07:40:17+00:00",
       "squadra": "AS Roma"
     },
     {
-      "id": "16ccbe9025",
-      "titolo": "Dibu Martinez, gli scatti shock: la mano non si chiude, \"Ho perso la Juve per questo\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152264141/dibu_martinez_gli_scatti_shock_la_mano_non_si_chiude_ho_perso_la_juve_per_questo/",
-      "estratto": "Dal rischio di saltare il Mondiale al mancato trasferimento in bianconero: il portiere argentino racconta i retroscena sul dito rotto",
+      "id": "8b4578243d",
+      "titolo": "Rizzetta sul Napoli: \"Aspetto fino a inizio 2027\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/31-152265663/rizzetta_sul_napoli_aspetto_fino_a_inizio_2027/",
+      "estratto": "Il manager italo-napoletano non molla la presa e continua a fare la corte a De Larentiis: ora c’è una scadenza",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-31T07:04:21+00:00",
+      "squadra": "Napoli"
+    },
+    {
+      "id": "f984df95df",
+      "titolo": "\"Riciclava denaro per un trafficante di droga\", l'ex Inter Nainggolan nei guai: chiesto il carcere!",
+      "url": "https://www.tuttosport.com/news/calcio/2026/10/30-152261448/riciclava_denaro_per_un_trafficante_di_droga_l_ex_inter_nainggolan_nei_guai_chiesto_il_carcere_/",
+      "estratto": "Le accuse durissime al calciatore dal Belgio: ecco cosa è successo",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-30T21:30:38+00:00",
-      "squadra": "Juventus"
+      "pubblicato": "2026-10-30T16:56:59+00:00",
+      "squadra": "Inter Milan"
     },
     {
       "id": "56002d28cb",
@@ -194,6 +123,18 @@
       "squadra": "Lazio"
     },
     {
+      "id": "82737a52b5",
+      "titolo": "\"Muoio per il derby\", Moreira carica il Milan e Pulisic ribadisce: \"L'Inter si può battere\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/30-152260835/muoio_per_il_derby_moreira_carica_il_milan_e_pulisic_ribadisce_l_inter_si_pu_battere/",
+      "estratto": "In casa rossonera concentrazione al massimo in vista della stracittadina, ma Amorim perde un altro pezzo: Tomori va ko...",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-30T15:25:12+00:00",
+      "squadra": "Derby"
+    },
+    {
       "id": "026f0788ae",
       "titolo": "Su Dazn inizia il conto alla rovescia verso Milan-Inter: nella “notte delle streghe” si accende la sfida più attesa di Milano",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/30-152259508/su_dazn_inizia_il_conto_alla_rovescia_verso_milan-inter_nella_notte_delle_streghe_si_accende_la_sfida_pi_attesa_di_milano/",
@@ -204,18 +145,6 @@
       "punteggio": 70,
       "pubblicato": "2026-10-30T14:15:23+00:00",
       "squadra": "Milan"
-    },
-    {
-      "id": "e9f28394f3",
-      "titolo": "Il \"lungo muso\" di Allegri al Napoli: la statistica sui gol segnati",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/30-152253039/il_lungo_muso_di_allegri_al_napoli_la_statistica_sui_gol_segnati/",
-      "estratto": "In nove giorni sono state segnate lo stesso numero di reti delle prime nove giornate",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-10-30T08:33:03+00:00",
-      "squadra": "Napoli"
     },
     {
       "id": "3d94028cb2",
@@ -230,39 +159,27 @@
       "squadra": "Fenerbahce"
     },
     {
-      "id": "0487a6a739",
-      "titolo": "Cardinale conferma Amorim, promette rinforzi e rinnova il contratto a Pulisic",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cardinale-conferma-amorim-promette-rinforzi-rinnova-contratto-pulisic-2289085",
-      "estratto": "Giornata piena di eventi in casa Milan alla vigilia del derby: il numero uno del club, Gerry Cardinale, ha rilasciato un'intervista parlando delle ambizioni del club e confermando la possibilità di investire nell'Al Nassr.",
+      "id": "d087c852ed",
+      "titolo": "Kakà: \"Gattuso vuole vincere sempre e io tifo per lui. Maldini? Meravigliato per le dimissioni\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/kaka-gattuso-vuole-vincere-tifo-lui-maldini-meravigliato-dimissioni-2289098",
+      "estratto": "Ricardo Kakà, storico campione ex Milan, ha parlato anche di due suoi ex compagni in rossonero nell'intervista concessa oggi a La Gazzetta dello Sport: Gennaro Gattuso, primo in classifica a sorpresa con la sua Lazio, e Paolo Maldini, che ha detto ad",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-30T23:49:03+00:00"
+      "pubblicato": "2026-10-31T07:35:32+00:00"
     },
     {
-      "id": "9ccb70dea4",
-      "titolo": "Udinese, Davis: \"Ambientato bene\". Ma poi rivela: \"Preferisco la cucina inglese\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/udinese-davis-mi-ambientato-potessi-pensare-2289053",
-      "estratto": "Kenan Davis racconta il suo ambientamento all'Udinese.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-30T23:23:00+00:00",
-      "squadra": "Udinese"
-    },
-    {
-      "id": "7ae64331fa",
-      "titolo": "Araujo rinato a Liverpool, l'agente: \"Presto per parlare di futuro ma si trova bene\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/araujo-rinato-liverpool-agente-presto-parlare-trova-bene-2289014",
-      "estratto": "Ronald Araujo potrebbe restare in Premier League.",
-      "fonte": "TMW",
+      "id": "91016a2a26",
+      "titolo": "Il cocco della maestra 'divisivo' che fa alzare gli occhi al cielo ai compagni? O un ossessione di chi ci tiene davvero? Fonti interne al Manchester United rivelano cosa pensano realmente i compagni di squadra di Bruno Fernandes - mentre sveliamo che Michael Carrick aveva deciso di escludere il capitano PRIMA del suo sfogo contro il Como",
+      "url": "https://www.dailymail.com/sport/football/article-16249625/bruno-fernandes-manchester-united-captain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Considerando il suo scontro verbale pubblico con Carrick, la sua forma altalenante e le difficoltà del club in campo, è lecito dire che queste siano state le due settimane più difficili della carriera di Fernandes allo United.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-30T23:12:33+00:00",
-      "squadra": "Liverpool"
+      "pubblicato": "2026-10-31T02:00:56+00:00",
+      "squadra": "Man Utd"
     },
     {
       "id": "588906c5de",
@@ -274,18 +191,6 @@
       "citazione": true,
       "punteggio": 40,
       "pubblicato": "2026-10-30T21:40:26+00:00"
-    },
-    {
-      "id": "da71018714",
-      "titolo": "Bruno Fernandes ha \"MACCHIATO\" la sua eredità al Manchester United dopo le critiche pubbliche a Michael Carrick, e i tentativi di pace potrebbero servire solo a \"mettere una pezza\", avverte Alan Shearer",
-      "url": "https://www.dailymail.com/sport/football/article-16253455/Bruno-Fernandes-Man-United-legacy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il capitano dei Red Devils ha fatto discutere quando ha messo in dubbio le tattiche del suo allenatore dopo la sconfitta per 4-1 contro il Como in Champions League, venendo successivamente escluso dalla squadra.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-10-30T19:47:53+00:00",
-      "squadra": "Man Utd"
     },
     {
       "id": "882cd3f156",
@@ -392,16 +297,28 @@
       "squadra": "Celtic"
     },
     {
-      "id": "39da26d743",
-      "titolo": "Serie B, classifiche a confronto. Mantova da record: è +12! Male Cesena e Juve Stabia",
-      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-classifiche-confronto-mantova-record-12-cesena-juve-stabia-2289051",
-      "estratto": "La classifica della Serie B 2026/2027, dopo nove giornate di campionato, racconta di un Palermo in testa e di un Mantova protagonista di una crescita decisamente significativa rispetto alla passata stagione.",
+      "id": "76ec19e2b0",
+      "titolo": "De Ketelaere è tornato! Odissea finita per l'attaccante: ora serve trascinare l'Atalanta",
+      "url": "https://www.tuttomercatoweb.com/serie-a/de-ketelaere-atalanta-ritorno-gol-trascinatore-sarri-serie-a-2288832",
+      "estratto": "Stava attraversando un viaggio difficile in puro stile omerico, ma dall’altra nell’Atalanta si può finalmente dirlo: l'Ulisse nerazzurro, alias Charles De Ketelaere, è ritornato a Itaca con lo smalto che lo ha reso il più imprevedibile, furbo e trasc",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-10-30T23:04:00+00:00",
-      "squadra": "Mantova"
+      "pubblicato": "2026-10-31T07:15:00+00:00",
+      "squadra": "Atalanta"
+    },
+    {
+      "id": "244b996f54",
+      "titolo": "Fiorentina, non c'è ancora un'identità",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/10/30-152255634/fiorentina_non_c_ancora_un_identit/",
+      "estratto": "Instabile: questa è la squadra viola oggi, verso un punto che ancora non si conosce: il commento",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-10-30T09:47:46+00:00",
+      "squadra": "Fiorentina"
     },
     {
       "id": "4995378233",
@@ -440,15 +357,118 @@
       "squadra": "Boro"
     },
     {
-      "id": "40b5fa6b1e",
-      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 30 ottobre",
-      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-30-ottobre-2289048",
-      "estratto": "MILAN, PULISIC RINNOVA FINO AL 2031.",
+      "id": "29518b1a74",
+      "titolo": "Serie B, 10ª giornata: torna Arezzo-Ascoli, e anche Pagliuca in panchina. La guida completa",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-10a-giornata-torna-arezzo-ascoli-pagliuca-panchina-guida-completa-2288878",
+      "estratto": "Smaltite la fatiche del turno infrasettimanale, si alza questo pomeriggio il sipario sulla 10ª giornata del campionato di Serie B 2026/2027, che si concluderà poi come di consueto nel pomeriggio di domani.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-31T00:00:00+00:00"
+      "pubblicato": "2026-10-31T07:55:12+00:00",
+      "squadra": "Arezzo"
+    },
+    {
+      "id": "51e0f17edd",
+      "titolo": "Il Modena dei miracoli, nel mito con l'Albania: la storia di Gianni De Biasi",
+      "url": "https://www.tuttomercatoweb.com/storie-di-calcio/modena-miracoli-mito-albania-storia-gianni-de-biasi-2288793",
+      "estratto": "Ci sono allenatori che costruiscono la propria carriera con i club, su panchine prestigiose o in altre dove ottengono promozioni importanti, ma ci sono anche quelli, e sono pochi, che riescono a cambiare il destino di una nazionale e diventare parte ",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T07:55:00+00:00",
+      "squadra": "Modena"
+    },
+    {
+      "id": "eeba00c9e7",
+      "titolo": "Retroscena Bologna: cosa è successo in un confronto tra Palladino e Dovbyk prima del Monza",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/bologna/2026/10/31-152265950/retroscena_bologna_cosa_successo_in_un_confronto_tra_palladino_e_dovbyk_prima_del_monza/",
+      "estratto": "Dopo la vittoria in casa del Milan il tecnico vuole tenere alta la tensione contro i brianzoli: colloquio con l'ex romanista",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T07:13:07+00:00",
+      "squadra": "Bologna"
+    },
+    {
+      "id": "993f8a4e74",
+      "titolo": "Elezioni Figc, cosa succede tra calciatori e dilettanti nella sfida Malagò-Galliani",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/31-152265948/elezioni_figc_cosa_succede_tra_calciatori_e_dilettanti_nella_sfida_malag-galliani/",
+      "estratto": "Appuntamento al 14 dicembre, con un 52% dei voti ancora in palio: i vertici di Serie B (6%), Lega Pro (12%) e Dilettanti (34%),",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T07:10:10+00:00"
+    },
+    {
+      "id": "47df4d566d",
+      "titolo": "Taylor, cinque gol segnati da gennaio: di più solo Isaksen e Noslin",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/31-152265664/taylor_cinque_gol_segnati_da_gennaio_di_pi_solo_isaksen_e_noslin/",
+      "estratto": "La Lazio si gode il suo nuovo exploit: mediano e mezzala pressing e colpi. Si tiene pronto per i rigori dopo gli errori del Mapei",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T07:06:22+00:00"
+    },
+    {
+      "id": "233abe8246",
+      "titolo": "Spalletti, un confronto silenzioso: serve lo scatto dei leader",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/31-152265486/spalletti_un_confronto_silenzioso_serve_lo_scatto_dei_leader/",
+      "estratto": "Un nuovo scivolone metterebbe il tecnico in una posizione estremamente delicata. Torino non gli ha mai dimostrato pieno appoggio",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T06:58:15+00:00"
+    },
+    {
+      "id": "a3d7ba1c7a",
+      "titolo": "Chi sono gli allenatori di Serie A che rischiano di più in questo turno di campionato",
+      "url": "https://www.tuttomercatoweb.com/serie-a/allenatori-serie-rischiano-turno-campionato-2289102",
+      "estratto": "Senza sosta.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T06:57:00+00:00"
+    },
+    {
+      "id": "faf3e0ead3",
+      "titolo": "Bomber Malen, a Udine è pronta una gabbia difensiva",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/31-152265481/bomber_malen_a_udine_pronta_una_gabbia_difensiva/",
+      "estratto": "L’attaccante non perdona sotto porta: su 12 tiri e 7 gol, un cecchino. E Gasperini punta tutto su lui",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T06:56:39+00:00"
+    },
+    {
+      "id": "9f24246bec",
+      "titolo": "Il Mantova a Modena cerca il controsorpasso",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/10/31-152263365/il_mantova_a_modena_cerca_il_controsorpasso/",
+      "estratto": "Nell'ultimo turno gli emiliano hanno superato i lombardi al secondo posto",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T05:30:00+00:00",
+      "squadra": "Mantova"
+    },
+    {
+      "id": "ad208c254c",
+      "titolo": "RIATH AL-SAMARRAI: Ecco cosa ho saputo in privato su Max Dowman che dimostra come uscirà più forte dalla ramanzina di Mikel Arteta - e perché avrà già affrontato situazioni ben peggiori",
+      "url": "https://www.dailymail.com/sport/football/article-16249471/Max-Dowman-Mikel-Arteta-Arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "RIATH AL-SAMARRAI: A Mikel Arteta non serviva l'isteria dell'ultima settimana per sapere una cosa o due sulle reazioni dubbie. Rivediamo qualcosa che gli è accaduto nel novembre 2010.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-10-31T02:00:46+00:00"
     },
     {
       "id": "a2d0d2c3a3",
@@ -461,40 +481,6 @@
       "punteggio": 0,
       "pubblicato": "2026-10-30T23:57:04+00:00",
       "squadra": "Aston Villa"
-    },
-    {
-      "id": "d9960db97b",
-      "titolo": "Salernitana, Vito Di Bari riparte dopo 12 giorni: è lui il dopo Cosmi",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/salernitana-vito-bari-riparte-12-giorni-cosmi-2289042",
-      "estratto": "La Salernitana riparte da Vito Di Bari.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-30T23:34:00+00:00"
-    },
-    {
-      "id": "ca2dc0e1a8",
-      "titolo": "Dopo la tegola Sulc, Lione in ansia anche per Morton: possibile lungo stop per l'inglese",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/tegola-sulc-lione-ansia-morton-possibile-stop-centrocampista-2289002",
-      "estratto": "Dopo Pavel Sulc, che si fermerà per circa quattro mesi a causa di un infortunio al menisco, il Lione rischia di perdere per un lungo periodo anche Tyler Morton.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-30T23:26:32+00:00",
-      "squadra": "Morton"
-    },
-    {
-      "id": "af81a6133b",
-      "titolo": "Ladri svaligiano la casa di Barry. L'aveva mostrata su un video Youtube poche settimane fa",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/ladri-svaligiano-casa-barry-mostrata-video-youtube-poche-settimane-2289027",
-      "estratto": "Una serata dai due volti per Thierno Barry.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-30T22:56:58+00:00"
     },
     {
       "id": "feadbb676d",
@@ -528,6 +514,18 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-10-30T17:48:38+00:00"
+    },
+    {
+      "id": "3002b358bd",
+      "titolo": "Virgil van Dijk: Il Liverpool deve \"correre questo rischio\" con lo stile di gioco di Andoni Iraola",
+      "url": "https://www.espn.com/soccer/story/_/id/50329062/virgil-van-dijk-liverpool-take-risk-andoni-iraola-playstyle",
+      "estratto": "Il calcio basato sul rapporto rischio-rendimento di Andoni Iraola sta iniziando a prendere piede al Liverpool e il capitano Virgil van Dijk ha affermato che i giocatori stanno acquisendo sempre più fiducia nell'aderire al piano tattico.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 0,
+      "pubblicato": "2026-10-30T17:30:15+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "1eb276dbf0",
@@ -712,48 +710,28 @@
       "squadra": "Palermo"
     },
     {
-      "id": "3c241b8539",
-      "titolo": "Ora Malagò ha le firme ma Galliani è candidato: rischio caos",
-      "url": "https://www.tuttosport.com/news/calcio/italia/2026/10/30-152253254/ora_malag_ha_le_firme_ma_galliani_candidato_rischio_caos/",
-      "estratto": "Il Parma si aggiunge alle 10 società schierate con il commissario. Ma qualcuna potrebbe aver appoggiato entrambi",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
+      "id": "c70ad6d18e",
+      "titolo": "Jack Grealish ESCLUSO dall'Everton per 'violazione della disciplina di club': il centrocampista salta la sfida di Carabao Cup con il Newcastle",
+      "url": "https://www.dailymail.com/sport/football/article-16250391/Jack-Grealish-DROPPED-Everton-club-discipline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'esterno dei Toffees, 31 anni, è stato escluso dalla rosa di David Moyes per la sfida contro il Newcastle in Carabao Cup dopo la sanzione inflitta dal club. Grealish era stato dato per 'malato' quando aveva saltato la trasferta in casa dell'Arsenal.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-30T09:11:31+00:00"
+      "pubblicato": "2026-10-30T08:19:19+00:00",
+      "squadra": "Everton"
     },
     {
-      "id": "2126e6a2e9",
-      "titolo": "Mastantuono show, ma non basta alla Viola: De Ketelaere in forma mondiale trascina la Dea",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/30-152252754/mastantuono_show_ma_non_basta_alla_viola_de_ketelaere_in_forma_mondiale_trascina_la_dea/",
-      "estratto": "Nonostante i 10 indisponibili e il ko di Christensen dopo 4', l'Atalanta pareggia con la Fiorentina che rimane in zona retrocessione. L'argentino e il belga mattatori di un incontro che ha visto sugli scudi De Gea e Carnesecchi",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
+      "id": "23cf491bec",
+      "titolo": "Cristiano Ronaldo firma una TRIPLETTA nella vittoria dell'Al-Nassr: e il fuoriclasse portoghese, 41 anni, poteva farne CINQUE dopo due reti annullate, avvicinandosi al traguardo dei 1.000 gol",
+      "url": "https://www.dailymail.com/sport/football/article-16250649/cristiano-ronaldo-al-nassr-hat-trick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Cristiano Ronaldo si è avvicinato al traguardo dei 1.000 gol dopo aver segnato una tripletta nel 5-3 dell'Al-Nassr sull'Al-Kholood. Il 41enne fuoriclasse portoghese ha realizzato tutte e tre le reti nell'arco di 15 minuti del secondo tempo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-10-30T08:18:02+00:00"
-    },
-    {
-      "id": "bf8da0dadc",
-      "titolo": "Il progetto dagli architetti di Wembley, posti coperti e ogni curva da 12mila posti: tutto sul Generali Stadium",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/30-152252455/il_progetto_dagli_architetti_di_wembley_posti_coperti_e_ogni_curva_da_12mila_posti_tutto_sul_generali_stadium/",
-      "estratto": "Lo show sarà assicurato nel nuovo San Siro: lavori al via nel 2028, nel 2031-32 l’inaugurazione",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-30T08:02:05+00:00"
-    },
-    {
-      "id": "d9e48178d7",
-      "titolo": "Nella Figc lacerata c'è quel 52% in gioco: la strategia AIC su Galliani, i voti di Malagò e il peso di Abete",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/30-152252359/nella_figc_lacerata_c_quel_52_in_gioco_la_strategia_aic_su_galliani_i_voti_di_malag_e_il_peso_di_abete/",
-      "estratto": "Elezioni, la A divisa: il ruolo di Serie B, C e Lega dilettanti. Tutti gli scenari",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-10-30T08:00:20+00:00"
+      "pubblicato": "2026-10-29T22:17:59+00:00",
+      "squadra": "Al Nassr"
     },
     {
       "id": "d1d7aac369",
@@ -880,52 +858,28 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "f312f07eaa",
-      "titolo": "Calciomercato, le news: l'Everton punta Rashford in prestito dal Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
-      "estratto": "L'Everton sta valutando un prestito a gennaio per l'attaccante del Manchester United Marcus Rashford. Transfer Talk ha le ultime novità.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -80,
-      "pubblicato": "2026-10-29T20:20:34+00:00",
-      "squadra": "Everton"
-    },
-    {
-      "id": "f984df95df",
-      "titolo": "\"Riciclava denaro per un trafficante di droga\", l'ex Inter Nainggolan nei guai: chiesto il carcere!",
-      "url": "https://www.tuttosport.com/news/calcio/2026/10/30-152261448/riciclava_denaro_per_un_trafficante_di_droga_l_ex_inter_nainggolan_nei_guai_chiesto_il_carcere_/",
-      "estratto": "Le accuse durissime al calciatore dal Belgio: ecco cosa è successo",
-      "fonte": "Tuttosport",
+      "id": "61f682c2c6",
+      "titolo": "Juventus, Balzarini svela: \"Alla Continassa si parla troppo e ci si allena poco\"",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/juventus-balzarini-svela-alla-continassa-parla-allena-poco-2289108",
+      "estratto": "Il giornalista Gianni Balzarini, sul proprio canale YouTube, ricostruisce alcuni passaggi del confronto alla Continassa e riporta presunte lamentele di parte dello spogliatoio.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-10-30T16:56:59+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
-      "id": "82737a52b5",
-      "titolo": "\"Muoio per il derby\", Moreira carica il Milan e Pulisic ribadisce: \"L'Inter si può battere\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/30-152260835/muoio_per_il_derby_moreira_carica_il_milan_e_pulisic_ribadisce_l_inter_si_pu_battere/",
-      "estratto": "In casa rossonera concentrazione al massimo in vista della stracittadina, ma Amorim perde un altro pezzo: Tomori va ko...",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-10-30T15:25:12+00:00",
-      "squadra": "Derby"
-    },
-    {
-      "id": "596b65b160",
-      "titolo": "Ekhator, ritorno Juve! Le ultime sull'allenamento e quando parla Spalletti",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152260652/ekhator_ritorno_juve_le_ultime_sull_allenamento_e_quando_parla_spalletti/",
-      "estratto": "Bianconeri al lavoro per preparare la delicatissima sfida con gli azzurri. Ecco cosa trapela dal campo",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-10-30T15:17:17+00:00",
+      "pubblicato": "2026-10-31T07:39:18+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "d7aa8b2545",
+      "titolo": "Chivu e i sette derby senza vittorie: \"Episodi a favore del Milan. Thuram ok, Carlos Augusto...\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/30-152259685/chivu_e_i_sette_derby_senza_vittorie_episodi_a_favore_del_milan_thuram_ok_carlos_augusto_/",
+      "estratto": "Il tecnico dell'Inter: \"Col Venezia l'abbiamo portata a casa con la fortuna, ora servirà qualcosa in più\"",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -130,
+      "pubblicato": "2026-10-30T15:02:07+00:00",
+      "squadra": "Derby"
     },
     {
       "id": "364a1d4559",
@@ -952,27 +906,39 @@
       "squadra": "Milan"
     },
     {
-      "id": "b95633a219",
-      "titolo": "Il Man United è la peggior società sul mercato in EUROPA: un nuovo studio rivela che i Red Devils hanno accumulato una perdita di 334 MILIONI di sterline sui trasferimenti - con un altro club di Premier League a far compagnia nella peggiore triade",
-      "url": "https://www.dailymail.com/sport/football/article-16249267/Man-United-transfers-signings-loss-rankings-CIES.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il club in grande difficoltà, tra un incubo in panchina, tensioni nello spogliatoio e una rabbia senza precedenti dei tifosi contro la dirigenza e i proprietari, è stato ora definito il peggior operatore di mercato d'Europa.",
+      "id": "da71018714",
+      "titolo": "Bruno Fernandes ha \"MACCHIATO\" la sua eredità al Manchester United dopo le critiche pubbliche a Michael Carrick, e i tentativi di pace potrebbero servire solo a \"mettere una pezza\", avverte Alan Shearer",
+      "url": "https://www.dailymail.com/sport/football/article-16253455/Bruno-Fernandes-Man-United-legacy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il capitano dei Red Devils ha fatto discutere quando ha messo in dubbio le tattiche del suo allenatore dopo la sconfitta per 4-1 contro il Como in Champions League, venendo successivamente escluso dalla squadra.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -160,
-      "pubblicato": "2026-10-29T18:11:48+00:00",
+      "pubblicato": "2026-10-30T19:47:53+00:00",
       "squadra": "Man Utd"
     },
     {
-      "id": "30def03e74",
-      "titolo": "Roma, idea Lisandro Martinez: il centrale dello United può lasciare l'Inghilterra",
-      "url": "https://www.tuttomercatoweb.com/serie-a/roma-idea-lisandro-martinez-centrale-united-lasciare-inghilterra-2289074",
-      "estratto": "La Roma comincia a guardarsi intorno in vista delle prossime sessioni di mercato.",
+      "id": "e4008ac006",
+      "titolo": "Gerry Cardinale spera che l'Inter pareggi. Ma ha un dirigente in più rispetto al suo Milan",
+      "url": "https://www.tuttomercatoweb.com/serie-a/gerry-cardinale-spera-inter-pareggi-dirigente-milan-2288949",
+      "estratto": "\"Quello che posso dire è che continuiamo a essere padroni della nostra salute finanziaria.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-10-30T23:30:00+00:00",
+      "pubblicato": "2026-10-31T07:04:02+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "e300f74343",
+      "titolo": "Roma a Udine con Manchester sullo sfondo: le ultimissime di formazione",
+      "url": "https://www.tuttomercatoweb.com/serie-a/roma-udine-manchester-sfondo-ultimissime-formazione-2289073",
+      "estratto": "La Roma torna in campo oggi al Bluenergy Stadium per affrontare l’Udinese, dopo il successo per 4-2 contro il Cagliari nel turno infrasettimanale.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-10-31T07:00:00+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1000,6 +966,18 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "ee10b99ec8",
+      "titolo": "Torino, Perri e la rinascita in 60 giorni",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/10/31-152262611/torino_perri_e_la_rinascita_in_60_giorni/",
+      "estratto": "Gli errori iniziali in granata, la bella reazione, le parate decisive nelle ultime vittorie. E ora la nazionale",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -200,
+      "pubblicato": "2026-10-31T05:15:00+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "ebe5e41c9a",
       "titolo": "Kompany salterà Bayern-Dortmund dopo le dimissioni dall'ospedale",
       "url": "https://www.espn.com/soccer/story/_/id/50328630/vincent-kompany-sit-bayern-dortmund-leaving-hospital",
@@ -1012,15 +990,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "3002b358bd",
-      "titolo": "Virgil van Dijk: Il Liverpool deve \"correre questo rischio\" con lo stile di gioco di Andoni Iraola",
-      "url": "https://www.espn.com/soccer/story/_/id/50329062/virgil-van-dijk-liverpool-take-risk-andoni-iraola-playstyle",
-      "estratto": "Il calcio basato sul rapporto rischio-rendimento di Andoni Iraola sta iniziando a prendere piede al Liverpool e il capitano Virgil van Dijk ha affermato che i giocatori stanno acquisendo sempre più fiducia nell'aderire al piano tattico.",
+      "id": "50b415af38",
+      "titolo": "Andoni Iraola: \"Troppo presto\" per definire il Liverpool un contendente per il titolo di Premier League",
+      "url": "https://www.espn.com/soccer/story/_/id/50327948/andoni-iraola-too-early-call-liverpool-premier-league-title-challengers",
+      "estratto": "Andoni Iraola ha ammesso che è \"troppo presto\" per dire se il Liverpool sarà in corsa per il titolo questa stagione.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -200,
-      "pubblicato": "2026-10-30T17:30:15+00:00",
+      "pubblicato": "2026-10-30T14:21:07+00:00",
       "squadra": "Liverpool"
     },
     {
@@ -1046,6 +1024,18 @@
       "punteggio": -200,
       "pubblicato": "2026-10-29T22:06:50+00:00",
       "squadra": "Chelsea "
+    },
+    {
+      "id": "f312f07eaa",
+      "titolo": "Calciomercato, le news: l'Everton punta Rashford in prestito dal Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
+      "estratto": "L'Everton sta valutando un prestito a gennaio per l'attaccante del Manchester United Marcus Rashford. Transfer Talk ha le ultime novità.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -200,
+      "pubblicato": "2026-10-29T20:20:34+00:00",
+      "squadra": "Everton"
     },
     {
       "id": "681396ba43",
@@ -1096,52 +1086,52 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "d7aa8b2545",
-      "titolo": "Chivu e i sette derby senza vittorie: \"Episodi a favore del Milan. Thuram ok, Carlos Augusto...\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/30-152259685/chivu_e_i_sette_derby_senza_vittorie_episodi_a_favore_del_milan_thuram_ok_carlos_augusto_/",
-      "estratto": "Il tecnico dell'Inter: \"Col Venezia l'abbiamo portata a casa con la fortuna, ora servirà qualcosa in più\"",
+      "id": "db0a1c72c2",
+      "titolo": "Rampulla: \"Juve, no al traghettatore. Serve dare continuità ai risultati\"",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/rampulla-juve-traghettatore-serve-dare-continuita-risultati-2288922",
+      "estratto": "Ospite della radio di Tuttomercatoweb.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -330,
+      "pubblicato": "2026-10-31T07:15:10+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "019e9bec5f",
+      "titolo": "Amorim al primo derby: \"Il Milan non cerca scorciatoie e lotta per lo Scudetto. Che penso dell'Inter e di Chivu\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/30-152259202/amorim_al_primo_derby_il_milan_non_cerca_scorciatoie_e_lotta_per_lo_scudetto_che_penso_dell_inter_e_di_chivu/",
+      "estratto": "Le parole dell'allenatore dei rossoneri alla vigilia della sfida ai nerazzurri: \"Ho un piano partita e gestirò così Rabiot, Gila e Moreira\"",
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-10-30T15:02:07+00:00",
+      "pubblicato": "2026-10-30T14:51:21+00:00",
       "squadra": "Derby"
     },
     {
-      "id": "ac75c42cb9",
-      "titolo": "Carlos Tevez svela come una promessa non mantenuta da Sir Alex Ferguson portò al suo clamoroso passaggio dal Manchester United al Manchester City",
-      "url": "https://www.dailymail.com/sport/football/article-16246499/Carlos-Tevez-promise-Sir-Alex-Ferguson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Nel 2009 Tevez compì il famigerato passaggio dallo United, dove era in prestito, al City. Avrebbe poi vinto la sua terza Premier League e mostrato uno striscione con la scritta 'RIP Fergie'.",
+      "id": "b95633a219",
+      "titolo": "Il Man United è la peggior società sul mercato in EUROPA: un nuovo studio rivela che i Red Devils hanno accumulato una perdita di 334 MILIONI di sterline sui trasferimenti - con un altro club di Premier League a far compagnia nella peggiore triade",
+      "url": "https://www.dailymail.com/sport/football/article-16249267/Man-United-transfers-signings-loss-rankings-CIES.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il club in grande difficoltà, tra un incubo in panchina, tensioni nello spogliatoio e una rabbia senza precedenti dei tifosi contro la dirigenza e i proprietari, è stato ora definito il peggior operatore di mercato d'Europa.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -360,
-      "pubblicato": "2026-10-29T08:29:00+00:00",
+      "pubblicato": "2026-10-29T18:11:48+00:00",
       "squadra": "Man Utd"
     },
     {
-      "id": "5790ca444b",
-      "titolo": "La Juventus va in ritiro in vista del Napoli: Spalletti recupera Ekhator e tifosi invocano Conte",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juventus-ritiro-vista-napoli-spalletti-recupera-ekhator-tifosi-invocano-conte-2289064",
-      "estratto": "Luciano Spalletti opta per il ritiro in vista della gara contro il Napoli.",
+      "id": "a6bc12b7e9",
+      "titolo": "Da Acerbi a Zaccheroni, l'alfabeto dei doppi ex di Milan-Inter. Alcuni vi sorprenderanno",
+      "url": "https://www.tuttomercatoweb.com/serie-a/acerbi-zaccheroni-alfabeto-doppi-milan-inter-sorprenderanno-2288958",
+      "estratto": "Nessun altro derby in Italia può vantare una serie più lunga di doppi ex di Milan-Inter.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-10-30T23:45:00+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "67b0a494b8",
-      "titolo": "Lazio, Taylor si sta facendo notare anche in Premier. Occhio al Bournemouth",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-taylor-notare-premier-occhio-bournemouth-2289069",
-      "estratto": "Kenneth Taylor è uno dei grandi protagonisti della Lazio di questo inizio stagione.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-10-30T23:08:14+00:00",
-      "squadra": "Lazio"
+      "pubblicato": "2026-10-31T07:50:00+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "871f576e6c",
@@ -1156,28 +1146,16 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "732100e0b9",
-      "titolo": "Mbangula da sogno: dopo la tripletta al Milan corre anche verso la Nazionale",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/bologna/2026/10/30-152253037/mbangula_da_sogno_dopo_la_tripletta_al_milan_corre_anche_verso_la_nazionale/",
-      "estratto": "Van Bommel, ct del Belgio, lo sta seguendo con grande attenzione",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-10-30T09:16:11+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "c732389700",
-      "titolo": "Allegri sfida la sua storia, massima tensione allo Stadium: il Napoli tenta il sorpasso",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/30-152252452/allegri_sfida_la_sua_storia_massima_tensione_allo_stadium_il_napoli_tenta_il_sorpasso/",
-      "estratto": "L’allenatore è squalificato. In panchina ci sarà Landucci: a Torino otto stagioni complessive ricche di trionfi",
+      "id": "7ae0b2e6fa",
+      "titolo": "Nella Lazio segnano tutti: nessun'altra squadra in campionato ha portato in rete così tanti calciatori",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/30-152253251/nella_lazio_segnano_tutti_nessun_altra_squadra_in_campionato_ha_portato_in_rete_cos_tanti_calciatori/",
+      "estratto": "Floriani l'ultimo a fare festa. Il giocattolo di Rino riesce a creare pericoli da qualsiasi parte del campo",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-10-30T08:02:45+00:00",
-      "squadra": "Napoli"
+      "pubblicato": "2026-10-30T09:19:30+00:00",
+      "squadra": "Lazio"
     },
     {
       "id": "a5f256f07b",
@@ -1192,16 +1170,28 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "50b415af38",
-      "titolo": "Andoni Iraola: \"Troppo presto\" per definire il Liverpool un contendente per il titolo di Premier League",
-      "url": "https://www.espn.com/soccer/story/_/id/50327948/andoni-iraola-too-early-call-liverpool-premier-league-title-challengers",
-      "estratto": "Andoni Iraola ha ammesso che è \"troppo presto\" per dire se il Liverpool sarà in corsa per il titolo questa stagione.",
+      "id": "b07f144656",
+      "titolo": "Liverpool Confidential: Dietro le quinte del difficile impatto di Harvey Elliott al Valencia, perché gli esperti considerano il trasferimento fallimentare nonostante gli sforzi fuori dal campo, il prestito che invece STA brillando in Spagna e la posizione del club sul riscatto di Ronald Araujo",
+      "url": "https://www.dailymail.com/sport/football/article-16248617/Liverpool-Confidential-Harvey-Elliott-Valencia-Ronald-Araujo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Harvey Elliott sta lavorando duramente per rimediare agli errori dei suoi primi mesi a Valencia, mentre un altro prestito rischia di trasformarsi in una 'delusione' a causa di dubbi sulla sua forma fisica, sul rendimento e su un cartellino rosso.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -400,
+      "pubblicato": "2026-10-29T17:05:44+00:00",
+      "squadra": "Liverpool"
+    },
+    {
+      "id": "e8bc3f7a42",
+      "titolo": "Man City e Bayern tra promosse, bocciate e fortunate nei principali campionati europei",
+      "url": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
+      "estratto": "Siamo a un quarto della stagione europea 2026-27: un lasso di tempo sufficiente per separare i fatti dalla finzione in termini di rendimento. Chi è stato fortunato? Chi ha fatto bene? Chi entrambe le cose, o nessuna delle due?",
       "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": true,
+      "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-10-30T14:21:07+00:00",
-      "squadra": "Liverpool"
+      "pubblicato": "2026-10-29T16:26:42+00:00",
+      "squadra": "Man City"
     },
     {
       "id": "a94835c0f9",
@@ -1228,18 +1218,6 @@
       "squadra": "Bayern"
     },
     {
-      "id": "55bb6f8832",
-      "titolo": "Il Manchester City resta in corsa per difendere la Carabao Cup grazie ai calci di rigore parati da Geronimo Rulli contro il Brighton in una sfida al cardiopalma - ma per Enzo Maresca arriva la prova più dura quando i Seagulls torneranno, scrive JACK GAUGHAN",
-      "url": "https://www.dailymail.com/sport/football/article-16245099/Man-City-Carabao-Cup-penalty-shootout-Brighton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN: Una partita mozzafiato, squadre mozzafiato. Entrambi gli allenatori si sono agitati sulla linea laterale, in perfetto equilibrio tra gloria e disastro.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-10-28T23:00:08+00:00",
-      "squadra": "Man City"
-    },
-    {
       "id": "e02c64b86f",
       "titolo": "Esplode il caso Kylian Mbappé in Cina: l'emittente di Stato conferma il blackout delle partite del Real Madrid e RESPINGE le scuse dopo la battuta sul \"dittatore\" Mao",
       "url": "https://www.dailymail.com/sport/football/article-16245009/kylian-mbappe-real-madrid-chairman-mao-china.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1264,52 +1242,52 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "019e9bec5f",
-      "titolo": "Amorim al primo derby: \"Il Milan non cerca scorciatoie e lotta per lo Scudetto. Che penso dell'Inter e di Chivu\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/30-152259202/amorim_al_primo_derby_il_milan_non_cerca_scorciatoie_e_lotta_per_lo_scudetto_che_penso_dell_inter_e_di_chivu/",
-      "estratto": "Le parole dell'allenatore dei rossoneri alla vigilia della sfida ai nerazzurri: \"Ho un piano partita e gestirò così Rabiot, Gila e Moreira\"",
+      "id": "52d879e4a4",
+      "titolo": "Llorente a tutta Juve: \"Chi vive male il ritiro e cosa manca a Spalletti. Conte è un grande ma...\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152263668/llorente_a_tutta_juve_chi_vive_male_il_ritiro_e_cosa_manca_a_spalletti_conte_un_grande_ma_/",
+      "estratto": "Intervista al doppio ex dei bianconeri e del Napoli: \"Con Ancelotti capitò una situazione simile\"",
       "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -530,
+      "pubblicato": "2026-10-31T06:34:40+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "0c13085f82",
+      "titolo": "Amorim prima del derby contro l'Inter: \"Zero invidia per Chivu. Milan, vinciamo e tutto si tranquillizza\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/10/30-152258435/amorim_prima_del_derby_contro_l_inter_zero_invidia_per_chivu_milan_vinciamo_e_tutto_si_tranquillizza/",
+      "estratto": "L'allenatore: \"Sono nel posto giusto. L'obiettivo è lo scudetto, ma oggi bisogna capire che rispetto alle capolista c'è un gap\"",
+      "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -530,
-      "pubblicato": "2026-10-30T14:51:21+00:00",
+      "pubblicato": "2026-10-30T13:40:26+00:00",
       "squadra": "Derby"
     },
     {
-      "id": "33e497f1eb",
-      "titolo": "Michael Carrick PUÒ ancora salvare la sua panchina al Man United: ecco le tre cose che deve fare nell'ultima mossa della disperazione a Stamford Bridge, scrive NATHAN SALT",
-      "url": "https://www.dailymail.com/sport/football/article-16245175/Michael-Carrick-Man-United-fix-Chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "NATHAN SALT: Dunque, si continua a lavorare come al solito per il Man United e Michael Carrick. Servono diversi cambiamenti affinché questa sospensione della condanna si trasformi in qualcosa di più duraturo.",
+      "id": "ac75c42cb9",
+      "titolo": "Carlos Tevez svela come una promessa non mantenuta da Sir Alex Ferguson portò al suo clamoroso passaggio dal Manchester United al Manchester City",
+      "url": "https://www.dailymail.com/sport/football/article-16246499/Carlos-Tevez-promise-Sir-Alex-Ferguson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nel 2009 Tevez compì il famigerato passaggio dallo United, dove era in prestito, al City. Avrebbe poi vinto la sua terza Premier League e mostrato uno striscione con la scritta 'RIP Fergie'.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -560,
-      "pubblicato": "2026-10-28T15:07:58+00:00",
+      "pubblicato": "2026-10-29T08:29:00+00:00",
       "squadra": "Man Utd"
     },
     {
-      "id": "8f5a298405",
-      "titolo": "Thiago Motta è libero e torna su piazza, la Juve risparmia: tutti contenti",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/thiago-motta-libero-torna-piazza-juve-risparmia-contenti-2289084",
-      "estratto": "Thiago Motta è libero da vincoli.",
+      "id": "1c7275cc2b",
+      "titolo": "Cardinale sfida Oaktree: stessa provenienza, ma quante differenze tra le proprietà di Milan e Inter",
+      "url": "https://www.tuttomercatoweb.com/serie-a/cardinale-sfida-oaktree-provenienza-differenze-proprieta-milan-inter-2288818",
+      "estratto": "Il derby di Milano è anche una sfida tra due proprietà che hanno diversi punti di contatto, ma un modo molto differente di gestire e raccontare i rispettivi club.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -570,
-      "pubblicato": "2026-10-30T23:42:58+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "7ae0b2e6fa",
-      "titolo": "Nella Lazio segnano tutti: nessun'altra squadra in campionato ha portato in rete così tanti calciatori",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/10/30-152253251/nella_lazio_segnano_tutti_nessun_altra_squadra_in_campionato_ha_portato_in_rete_cos_tanti_calciatori/",
-      "estratto": "Floriani l'ultimo a fare festa. Il giocattolo di Rino riesce a creare pericoli da qualsiasi parte del campo",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-10-30T09:19:30+00:00",
-      "squadra": "Lazio"
+      "pubblicato": "2026-10-31T07:24:01+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "45296f111f",
@@ -1324,18 +1302,6 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "b07f144656",
-      "titolo": "Liverpool Confidential: Dietro le quinte del difficile impatto di Harvey Elliott al Valencia, perché gli esperti considerano il trasferimento fallimentare nonostante gli sforzi fuori dal campo, il prestito che invece STA brillando in Spagna e la posizione del club sul riscatto di Ronald Araujo",
-      "url": "https://www.dailymail.com/sport/football/article-16248617/Liverpool-Confidential-Harvey-Elliott-Valencia-Ronald-Araujo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Harvey Elliott sta lavorando duramente per rimediare agli errori dei suoi primi mesi a Valencia, mentre un altro prestito rischia di trasformarsi in una 'delusione' a causa di dubbi sulla sua forma fisica, sul rendimento e su un cartellino rosso.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -600,
-      "pubblicato": "2026-10-29T17:05:44+00:00",
-      "squadra": "Liverpool"
-    },
-    {
       "id": "a6005efbed",
       "titolo": "Alonso è sotto pressione dopo la sconfitta del Chelsea contro il Liverpool?",
       "url": "https://www.espn.com/video/clip/_/id/50317804/is-alonso-pressure-chelsea-defeat-vs-liverpool",
@@ -1346,6 +1312,30 @@
       "punteggio": -600,
       "pubblicato": "2026-10-29T13:24:10+00:00",
       "squadra": "Chelsea "
+    },
+    {
+      "id": "f45f26685b",
+      "titolo": "Il Liverpool gira a mille con Andoni Iraola e sarà pienamente in corsa per la Premier League se batte l'Arsenal, mentre Jordan Henderson e Xabi Alonso lasciano Anfield beffati, scrive LEWIS STEELE",
+      "url": "https://www.dailymail.com/sport/football/article-16245109/Xabi-Alonso-endures-unhappy-Anfield-homecoming-Liverpool-defeat-Chelsea-penalties-reach-Carabao-Cup-quarter-finals-helter-skelter-tie-writes-LEWIS-STEELE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "LEWIS STEELE AD ANFIELD: Joe Gomez ha trasformato il rigore decisivo per i Reds, con Iraola che ha avuto la meglio sul vecchio amico Alonso, volando ai quarti di finale di Carabao Cup.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -600,
+      "pubblicato": "2026-10-28T23:50:24+00:00",
+      "squadra": "Liverpool"
+    },
+    {
+      "id": "55bb6f8832",
+      "titolo": "Il Manchester City resta in corsa per difendere la Carabao Cup grazie ai calci di rigore parati da Geronimo Rulli contro il Brighton in una sfida al cardiopalma - ma per Enzo Maresca arriva la prova più dura quando i Seagulls torneranno, scrive JACK GAUGHAN",
+      "url": "https://www.dailymail.com/sport/football/article-16245099/Man-City-Carabao-Cup-penalty-shootout-Brighton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JACK GAUGHAN: Una partita mozzafiato, squadre mozzafiato. Entrambi gli allenatori si sono agitati sulla linea laterale, in perfetto equilibrio tra gloria e disastro.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -600,
+      "pubblicato": "2026-10-28T23:00:08+00:00",
+      "squadra": "Man City"
     },
     {
       "id": "7daf09bb41",
@@ -1360,40 +1350,40 @@
       "squadra": "Bayern"
     },
     {
-      "id": "0c13085f82",
-      "titolo": "Amorim prima del derby contro l'Inter: \"Zero invidia per Chivu. Milan, vinciamo e tutto si tranquillizza\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/10/30-152258435/amorim_prima_del_derby_contro_l_inter_zero_invidia_per_chivu_milan_vinciamo_e_tutto_si_tranquillizza/",
-      "estratto": "L'allenatore: \"Sono nel posto giusto. L'obiettivo è lo scudetto, ma oggi bisogna capire che rispetto alle capolista c'è un gap\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
+      "id": "16ccbe9025",
+      "titolo": "Dibu Martinez, gli scatti shock: la mano non si chiude, \"Ho perso la Juve per questo\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152264141/dibu_martinez_gli_scatti_shock_la_mano_non_si_chiude_ho_perso_la_juve_per_questo/",
+      "estratto": "Dal rischio di saltare il Mondiale al mancato trasferimento in bianconero: il portiere argentino racconta i retroscena sul dito rotto",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
       "citazione": true,
       "punteggio": -730,
-      "pubblicato": "2026-10-30T13:40:26+00:00",
-      "squadra": "Derby"
+      "pubblicato": "2026-10-30T21:30:38+00:00",
+      "squadra": "Juventus"
     },
     {
-      "id": "0d646ee4bd",
-      "titolo": "Peter Schmeichel accusa Erik ten Hag di 'gettare benzina sul fuoco' con le sue critiche ai proprietari del Manchester United e invita l'ex tecnico dei Red Devils a farsi un esame di coscienza: 'Come OSI dire una cosa del genere!'",
-      "url": "https://www.dailymail.com/sport/football/article-16243533/peter-schmeichel-erik-ten-hag-man-united-criticism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Peter Schmeichel ha pesantemente criticato l'ex allenatore del Manchester United Erik ten Hag per aver 'gettato benzina sul fuoco' nel bel mezzo di un altro periodo turbolento per il club.",
+      "id": "33e497f1eb",
+      "titolo": "Michael Carrick PUÒ ancora salvare la sua panchina al Man United: ecco le tre cose che deve fare nell'ultima mossa della disperazione a Stamford Bridge, scrive NATHAN SALT",
+      "url": "https://www.dailymail.com/sport/football/article-16245175/Michael-Carrick-Man-United-fix-Chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "NATHAN SALT: Dunque, si continua a lavorare come al solito per il Man United e Michael Carrick. Servono diversi cambiamenti affinché questa sospensione della condanna si trasformi in qualcosa di più duraturo.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -760,
-      "pubblicato": "2026-10-28T09:42:17+00:00",
+      "pubblicato": "2026-10-28T15:07:58+00:00",
       "squadra": "Man Utd"
     },
     {
-      "id": "17fa42f98d",
-      "titolo": "L'altro Marchisio continua a segnare: gol e assist con la Juve U18 per il figlio d'arte",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152261881/l_altro_marchisio_continua_a_segnare_gol_e_assist_con_la_juve_u18_per_il_figlio_d_arte/",
-      "estratto": "Davide continua a lasciare il segno con le giovanili bianconere: super partita contro il Como",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
+      "id": "0a708f926d",
+      "titolo": "Arbitri decima giornata di Serie A: il derby Milan-Inter a Guida, Juve-Napoli affidata a Sozza",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/30-152258326/arbitri_decima_giornata_di_serie_a_il_derby_milan-inter_a_guida_juve-napoli_affidata_a_sozza/",
+      "estratto": "Sono state rese note le designazioni per i match in programma tra sabato e lunedì prossimi: a Maresca Udinese-Roma",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -770,
-      "pubblicato": "2026-10-30T17:45:04+00:00",
-      "squadra": "Juventus"
+      "pubblicato": "2026-10-30T12:49:07+00:00",
+      "squadra": "Derby"
     },
     {
       "id": "d145d0f3a7",
@@ -1420,18 +1410,6 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "f45f26685b",
-      "titolo": "Il Liverpool gira a mille con Andoni Iraola e sarà pienamente in corsa per la Premier League se batte l'Arsenal, mentre Jordan Henderson e Xabi Alonso lasciano Anfield beffati, scrive LEWIS STEELE",
-      "url": "https://www.dailymail.com/sport/football/article-16245109/Xabi-Alonso-endures-unhappy-Anfield-homecoming-Liverpool-defeat-Chelsea-penalties-reach-Carabao-Cup-quarter-finals-helter-skelter-tie-writes-LEWIS-STEELE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "LEWIS STEELE AD ANFIELD: Joe Gomez ha trasformato il rigore decisivo per i Reds, con Iraola che ha avuto la meglio sul vecchio amico Alonso, volando ai quarti di finale di Carabao Cup.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -800,
-      "pubblicato": "2026-10-28T23:50:24+00:00",
-      "squadra": "Liverpool"
-    },
-    {
       "id": "16284eed02",
       "titolo": "Il vincitore del Pallone d'Oro Harry Kane riceve un'accoglienza da eroe al suo ritorno al Bayern Monaco",
       "url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
@@ -1444,40 +1422,28 @@
       "squadra": "Bayern"
     },
     {
-      "id": "254c22cd68",
-      "titolo": "31 ottobre 2004, il Messina vince il derby dello stretto. Gol decisivo di Di Napoli",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/31-ottobre-2004-messina-vince-derby-stretto-gol-decisivo-napoli-2288913",
-      "estratto": "Il 31 ottobre del 2004, allo stadio San Filippo di Messina, è in programma il derby dello stretto.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-10-30T23:00:38+00:00",
-      "squadra": "Derby"
-    },
-    {
-      "id": "08e1610bbf",
-      "titolo": "Il Manchester United punta il gioiello del Barcellona Fermin Lopez per rinforzare l'attacco dopo l'infortunio di Benjamin Sesko",
-      "url": "https://www.dailymail.com/sport/football/article-16253817/Barcelona-star-Fermin-Lopez-Man-Uniteds-radar-Dominic-Calvert-Lewin-discusses-new-Leeds-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Manchester United ha mostrato interesse per il trequartista del Barcellona Fermin Lopez mentre cerca di ampliare le proprie opzioni offensive in vista della prossima sessione di calciomercato.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-10-30T22:21:27+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "650ce29e97",
-      "titolo": "La maglia Juve diventa un maglione: l'iniziativa in arrivo",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152261774/la_maglia_juve_diventa_un_maglione_l_iniziativa_in_arrivo/",
-      "estratto": "Le immagini della nuova creazione per le festività natalizie",
+      "id": "596b65b160",
+      "titolo": "Ekhator, ritorno Juve! Le ultime sull'allenamento e quando parla Spalletti",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152260652/ekhator_ritorno_juve_le_ultime_sull_allenamento_e_quando_parla_spalletti/",
+      "estratto": "Bianconeri al lavoro per preparare la delicatissima sfida con gli azzurri. Ecco cosa trapela dal campo",
       "fonte": "Tuttosport",
       "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-10-30T17:33:51+00:00",
+      "citazione": true,
+      "punteggio": -930,
+      "pubblicato": "2026-10-30T15:17:17+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "0d646ee4bd",
+      "titolo": "Peter Schmeichel accusa Erik ten Hag di 'gettare benzina sul fuoco' con le sue critiche ai proprietari del Manchester United e invita l'ex tecnico dei Red Devils a farsi un esame di coscienza: 'Come OSI dire una cosa del genere!'",
+      "url": "https://www.dailymail.com/sport/football/article-16243533/peter-schmeichel-erik-ten-hag-man-united-criticism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Peter Schmeichel ha pesantemente criticato l'ex allenatore del Manchester United Erik ten Hag per aver 'gettato benzina sul fuoco' nel bel mezzo di un altro periodo turbolento per il club.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -960,
+      "pubblicato": "2026-10-28T09:42:17+00:00",
+      "squadra": "Man Utd"
     },
     {
       "id": "c40696fa77",
@@ -1492,39 +1458,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "0a708f926d",
-      "titolo": "Arbitri decima giornata di Serie A: il derby Milan-Inter a Guida, Juve-Napoli affidata a Sozza",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/30-152258326/arbitri_decima_giornata_di_serie_a_il_derby_milan-inter_a_guida_juve-napoli_affidata_a_sozza/",
-      "estratto": "Sono state rese note le designazioni per i match in programma tra sabato e lunedì prossimi: a Maresca Udinese-Roma",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1170,
-      "pubblicato": "2026-10-30T12:49:07+00:00",
-      "squadra": "Derby"
-    },
-    {
-      "id": "50cabc512d",
-      "titolo": "Sozza arbitra Juve-Napoli: l’incredibile coincidenza… al contrario. Var, che Meraviglia",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152257668/sozza_arbitra_juve-napoli_lincredibile_coincidenza_al_contrario_var_che_meraviglia/",
-      "estratto": "Ufficiali le designazioni arbitrali per il 10° turno di Serie A: Guida per il derby tra Milan e Inter",
-      "fonte": "Tuttosport",
+      "id": "a7a103026f",
+      "titolo": "Un anno fa la prima conferenza stampa di Spalletti alla Juve: ricordate cosa diceva?",
+      "url": "https://www.tuttomercatoweb.com/serie-a/conferenza-stampa-spalletti-juve-ricordate-diceva-2289107",
+      "estratto": "Primo novembre 2025.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1170,
-      "pubblicato": "2026-10-30T12:46:59+00:00",
+      "pubblicato": "2026-10-31T07:42:00+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "e72d701cd0",
-      "titolo": "Bruno torna dal freddo - dopo il chiarimento: Fernandes MANTIENE la fascia di capitano del Manchester United, conferma Michael Carrick, e rientrerà in squadra dopo essere stato escluso a causa di un'intervista",
-      "url": "https://www.dailymail.com/sport/football/article-16249225/Bruno-Fernandes-STAYS-Man-United-captain-clear-air-talks-return-clash-Chelsea-manager-Michael-Carrick-insists-not-surprised-job-despite-woeful-start-season.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Michael Carrick insiste nel dire di non essere sorpreso di essere ancora l'allenatore del Manchester United nonostante le intense speculazioni sul suo futuro a Old Trafford.",
+      "id": "08e1610bbf",
+      "titolo": "Il Manchester United punta il gioiello del Barcellona Fermin Lopez per rinforzare l'attacco dopo l'infortunio di Benjamin Sesko",
+      "url": "https://www.dailymail.com/sport/football/article-16253817/Barcelona-star-Fermin-Lopez-Man-Uniteds-radar-Dominic-Calvert-Lewin-discusses-new-Leeds-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Manchester United ha mostrato interesse per il trequartista del Barcellona Fermin Lopez mentre cerca di ampliare le proprie opzioni offensive in vista della prossima sessione di calciomercato.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1170,
-      "pubblicato": "2026-10-29T18:09:30+00:00",
+      "pubblicato": "2026-10-30T22:21:27+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1540,27 +1494,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "dba875f4ee",
-      "titolo": "Spalletti, la Juve non cerca alternative ma i nomi circolano: cosa si nasconde dietro le voci",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152252457/spalletti_la_juve_non_cerca_alternative_ma_i_nomi_circolano_cosa_si_nasconde_dietro_le_voci/",
-      "estratto": "Il tecnico resiste a un anno esatto dal suo arrivo a Torino: tra suggestioni e autopromozioni, ecco tutti i possibili nomi",
-      "fonte": "Tuttosport",
+      "id": "0a38f74fb8",
+      "titolo": "Juventus, in ritiro al J Hotel anche Yildiz e Locatelli prima del Napoli: Spalletti le prova tutte",
+      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-ritiro-j-hotel-yildiz-locatelli-napoli-spalletti-prova-2289099",
+      "estratto": "Luciano Spalletti deve prendere di petto una crisi che va ben oltre l'emergenza infortuni, i risultati che lasciano a desiderare e la prestazione orrenda di Marassi.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1370,
-      "pubblicato": "2026-10-30T10:02:25+00:00",
+      "pubblicato": "2026-10-31T07:30:00+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "4696ccdd42",
-      "titolo": "Dai trionfi in A-League alla svendita per liquidazione: dietro le quinte dell'asta dei beni rimasti del Western United",
-      "url": "https://www.dailymail.com/sport/football/article-16251411/western-united-auction-liquidation-aleague-assets-sale-melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il collasso del Western United ha lasciato una lista della spesa non indifferente, con maxi TV, elettrodomestici e container pronti per essere battuti all'asta.",
+      "id": "e72d701cd0",
+      "titolo": "Bruno torna dal freddo - dopo il chiarimento: Fernandes MANTIENE la fascia di capitano del Manchester United, conferma Michael Carrick, e rientrerà in squadra dopo essere stato escluso a causa di un'intervista",
+      "url": "https://www.dailymail.com/sport/football/article-16249225/Bruno-Fernandes-STAYS-Man-United-captain-clear-air-talks-return-clash-Chelsea-manager-Michael-Carrick-insists-not-surprised-job-despite-woeful-start-season.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Michael Carrick insiste nel dire di non essere sorpreso di essere ancora l'allenatore del Manchester United nonostante le intense speculazioni sul suo futuro a Old Trafford.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1380,
-      "pubblicato": "2026-10-30T05:37:02+00:00",
+      "punteggio": -1370,
+      "pubblicato": "2026-10-29T18:09:30+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1576,15 +1530,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "ff77a3371f",
-      "titolo": "Michael Carrick: \"Verità scomode\" dette nello spogliatoio durante la crisi del Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50329748/man-united-michael-carrick-coach-players-talks",
-      "estratto": "Il tecnico del Manchester United Michael Carrick ha dichiarato che sono state affrontate \"verità scomode\" tra lui, i giocatori e la dirigenza del club nel bel mezzo di una striscia di otto partite senza vittorie.",
-      "fonte": "ESPN",
+      "id": "7dc0ac03c1",
+      "titolo": "McTominay, manca la Juve: 31 gol con il Napoli ma mai ai bianconeri",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/31-152265660/mctominay_manca_la_juve_31_gol_con_il_napoli_ma_mai_ai_bianconeri/",
+      "estratto": "L’Allianz è lo stadio in cui ha esordito da titolare con la maglia azzurra. Per lo scozzese sarà la quinta sfida alla Signora",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1570,
+      "pubblicato": "2026-10-31T07:01:30+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "4696ccdd42",
+      "titolo": "Dai trionfi in A-League alla svendita per liquidazione: dietro le quinte dell'asta dei beni rimasti del Western United",
+      "url": "https://www.dailymail.com/sport/football/article-16251411/western-united-auction-liquidation-aleague-assets-sale-melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il collasso del Western United ha lasciato una lista della spesa non indifferente, con maxi TV, elettrodomestici e container pronti per essere battuti all'asta.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "citazione": true,
-      "punteggio": -1600,
-      "pubblicato": "2026-10-30T22:31:03+00:00",
+      "citazione": false,
+      "punteggio": -1580,
+      "pubblicato": "2026-10-30T05:37:02+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1600,15 +1566,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "0367dc8c66",
-      "titolo": "Michael Carrick risponde a Gary Neville dopo che l'ex compagno del Manchester United ha accusato i giocatori di essere unprofessionali, e parla dell'incontro decisivo con i big in difficoltà",
-      "url": "https://www.dailymail.com/sport/football/article-16252479/Gary-Neville-Michael-Carrick-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "CHRIS WHEELER: Michael Carrick ha respinto le accuse secondo cui le sue stelle del Manchester United sarebbero poco professionali, promettendo di difenderle di fronte a critiche feroci.",
+      "id": "41180239b5",
+      "titolo": "Juventus, a gennaio serve anche un esterno sinistro: ecco tutti i nomi. Inter c’è un’idea Chiesa, che può diventare un’opzione anche per la Roma. Milan, punto rinnovi: dopo Pulisic ora Rabiot. Tresoldi il sogno per il futuro",
+      "url": "https://www.tuttomercatoweb.com/editoriale/juventus-gennaio-serve-esterno-sinistro-nomi-inter-c-e-un-idea-chiesa-un-opzione-roma-milan-punto-ri-2289080",
+      "estratto": "Il momento non è certo dei migliori per la Juventus.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1770,
+      "pubblicato": "2026-10-31T07:00:00+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "f4614d20b5",
+      "titolo": "Svelato: SEI giocatori del Manchester United inseriti nella formazione combinata con il Chelsea nonostante l'avvio da incubo della squadra di Michael Carrick - mentre gli statisti scelgono Kobbie Mainoo e Youri Tielemans al posto di Moises Caicedo",
+      "url": "https://www.dailymail.com/sport/football/article-16248543/manchester-united-chelsea-combined-xi-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Sofascore ha stilato una formazione combinata dei giocatori con le migliori prestazioni di entrambe le rose, basata sulle medie dei voti di tutte le competizioni in questa stagione. Quindi, chi è riuscito a entrare?",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1800,
-      "pubblicato": "2026-10-30T22:30:46+00:00",
+      "pubblicato": "2026-10-31T07:01:06+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1624,15 +1602,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "0a44cb5db0",
-      "titolo": "Burley: Alonso e Carrick entrambi sotto pressione in vista della sfida tra Manchester United e Chelsea",
-      "url": "https://www.espn.com/video/clip/_/id/50331086/alonso-carrick-pressure-ahead-man-united-chelsea-clash",
-      "estratto": "Burley: Alonso e Carrick entrambi sotto pressione in vista della sfida tra Manchester United e Chelsea",
+      "id": "10a6f6c1bc",
+      "titolo": "Juve, c’è uno Stadium da riconquistare",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/31-152265487/juve_c_uno_stadium_da_riconquistare/",
+      "estratto": "I fischi ormai sono una colonna sonora durante le partite. Numeri impietosi: due sole vittorie nelle ultime sei",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1970,
+      "pubblicato": "2026-10-31T06:58:44+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "ff77a3371f",
+      "titolo": "Michael Carrick: \"Verità scomode\" dette nello spogliatoio durante la crisi del Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50329748/man-united-michael-carrick-coach-players-talks",
+      "estratto": "Il tecnico del Manchester United Michael Carrick ha dichiarato che sono state affrontate \"verità scomode\" tra lui, i giocatori e la dirigenza del club nel bel mezzo di una striscia di otto partite senza vittorie.",
       "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": false,
+      "citazione": true,
       "punteggio": -2000,
-      "pubblicato": "2026-10-30T22:00:40+00:00",
+      "pubblicato": "2026-10-30T22:31:03+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1648,6 +1638,66 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "17fa42f98d",
+      "titolo": "L'altro Marchisio continua a segnare: gol e assist con la Juve U18 per il figlio d'arte",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152261881/l_altro_marchisio_continua_a_segnare_gol_e_assist_con_la_juve_u18_per_il_figlio_d_arte/",
+      "estratto": "Davide continua a lasciare il segno con le giovanili bianconere: super partita contro il Como",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -2170,
+      "pubblicato": "2026-10-30T17:45:04+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "0367dc8c66",
+      "titolo": "Michael Carrick risponde a Gary Neville dopo che l'ex compagno del Manchester United ha accusato i giocatori di essere unprofessionali, e parla dell'incontro decisivo con i big in difficoltà",
+      "url": "https://www.dailymail.com/sport/football/article-16252479/Gary-Neville-Michael-Carrick-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "CHRIS WHEELER: Michael Carrick ha respinto le accuse secondo cui le sue stelle del Manchester United sarebbero poco professionali, promettendo di difenderle di fronte a critiche feroci.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2200,
+      "pubblicato": "2026-10-30T22:30:46+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "650ce29e97",
+      "titolo": "La maglia Juve diventa un maglione: l'iniziativa in arrivo",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152261774/la_maglia_juve_diventa_un_maglione_l_iniziativa_in_arrivo/",
+      "estratto": "Le immagini della nuova creazione per le festività natalizie",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -2370,
+      "pubblicato": "2026-10-30T17:33:51+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "0a44cb5db0",
+      "titolo": "Burley: Alonso e Carrick entrambi sotto pressione in vista della sfida tra Manchester United e Chelsea",
+      "url": "https://www.espn.com/video/clip/_/id/50331086/alonso-carrick-pressure-ahead-man-united-chelsea-clash",
+      "estratto": "Burley: Alonso e Carrick entrambi sotto pressione in vista della sfida tra Manchester United e Chelsea",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2400,
+      "pubblicato": "2026-10-30T22:00:40+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "50cabc512d",
+      "titolo": "Sozza arbitra Juve-Napoli: l’incredibile coincidenza… al contrario. Var, che Meraviglia",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/30-152257668/sozza_arbitra_juve-napoli_lincredibile_coincidenza_al_contrario_var_che_meraviglia/",
+      "estratto": "Ufficiali le designazioni arbitrali per il 10° turno di Serie A: Guida per il derby tra Milan e Inter",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -2570,
+      "pubblicato": "2026-10-30T12:46:59+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "cf11bed36d",
       "titolo": "Calciomercato, le news: il Manchester United punta Calvert-Lewin per gennaio",
       "url": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
@@ -1655,7 +1705,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2200,
+      "punteggio": -2600,
       "pubblicato": "2026-10-30T20:42:56+00:00",
       "squadra": "Man Utd"
     },
@@ -1667,7 +1717,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -2400,
+      "punteggio": -2800,
       "pubblicato": "2026-10-30T14:51:45+00:00",
       "squadra": "Man Utd"
     },
@@ -1679,7 +1729,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -2600,
+      "punteggio": -3000,
       "pubblicato": "2026-10-30T12:01:19+00:00",
       "squadra": "Man Utd"
     },
@@ -1691,7 +1741,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -2800,
+      "punteggio": -3200,
       "pubblicato": "2026-10-30T12:00:49+00:00",
       "squadra": "Man Utd"
     },
@@ -1703,7 +1753,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3000,
+      "punteggio": -3400,
       "pubblicato": "2026-10-30T08:56:03+00:00",
       "squadra": "Man Utd"
     },
@@ -1715,7 +1765,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3200,
+      "punteggio": -3600,
       "pubblicato": "2026-10-30T00:15:43+00:00",
       "squadra": "Man Utd"
     },
@@ -1727,7 +1777,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3400,
+      "punteggio": -3800,
       "pubblicato": "2026-10-29T23:22:48+00:00",
       "squadra": "Man Utd"
     },
@@ -1739,7 +1789,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3600,
+      "punteggio": -4000,
       "pubblicato": "2026-10-29T17:04:51+00:00",
       "squadra": "Man Utd"
     },
@@ -1751,7 +1801,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3800,
+      "punteggio": -4200,
       "pubblicato": "2026-10-29T16:10:40+00:00",
       "squadra": "Man Utd"
     },
@@ -1763,7 +1813,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4000,
+      "punteggio": -4400,
       "pubblicato": "2026-10-29T16:09:48+00:00",
       "squadra": "Man Utd"
     },
@@ -1775,7 +1825,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4200,
+      "punteggio": -4600,
       "pubblicato": "2026-10-29T12:10:52+00:00",
       "squadra": "Man Utd"
     },
@@ -1787,7 +1837,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4400,
+      "punteggio": -4800,
       "pubblicato": "2026-10-28T23:21:46+00:00",
       "squadra": "Man Utd"
     },
@@ -1799,7 +1849,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4600,
+      "punteggio": -5000,
       "pubblicato": "2026-10-28T19:41:48+00:00",
       "squadra": "Man Utd"
     },
@@ -1811,7 +1861,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4800,
+      "punteggio": -5200,
       "pubblicato": "2026-10-28T11:29:46+00:00",
       "squadra": "Man Utd"
     },
@@ -1823,7 +1873,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5000,
+      "punteggio": -5400,
       "pubblicato": "2026-10-28T09:44:20+00:00",
       "squadra": "Man Utd"
     }
