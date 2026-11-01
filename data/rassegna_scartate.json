@@ -1,15 +1,15 @@
 {
-  "aggiornato": "2026-11-01T06:54:28.692875+00:00",
-  "totale": 52,
+  "aggiornato": "2026-11-01T14:04:10.523144+00:00",
+  "totale": 50,
   "articoli": [
     {
-      "id": "8e65bb107e",
-      "titolo": "La prima volta di Mezzotero: il 2008 della Samp a segno nel derby contro l'Entella",
-      "url": "https://www.tuttomercatoweb.com/serie-b/mezzotero-2008-sampdoria-segnato-derby-entella-2289446",
-      "estratto": "Assist dalla destra di Begic.",
-      "fonte": "TMW",
+      "id": "93ed0ebd32",
+      "titolo": "Dopo le affermazioni di Robbie Fowler sull'allunaggio definito 'una stronzata' e i dubbi di Joe Cole che dice di avere 'domande' per Neil Armstrong... chi c'è nella nostra top 11 dei complottisti del calcio?",
+      "url": "https://www.dailymail.com/sport/football/article-16249957/Robbie-Fowler-moon-landing-Joe-Cole-questions-Neil-Armstrong-ultimate-XI-football-conspiracy-theorists.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Daily Mail Sport stila qui l'undici definitivo dei complottisti del calcio dopo che Robbie Fowler ha ammesso di ritenere che l'allunaggio sia 'una stronzata'.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-01T06:49:00+00:00"
+      "pubblicato": "2026-11-01T13:58:30+00:00"
     },
     {
       "id": "dc364719bf",
@@ -18,7 +18,25 @@
       "estratto": "Il Liverpool è in corsa per il titolo? La domanda è stata molto dibattuta questa settimana, e le discussioni non faranno che intensificarsi se domani batteranno l'Arsenal ad Anfield.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-01T02:00:50+00:00"
+      "pubblicato": "2026-11-01T13:57:53+00:00"
+    },
+    {
+      "id": "9a10990df2",
+      "titolo": "Il Coventry getta ulteriore sconforto sul Sunderland: i Black Cats toccano il fondo e lasciano Régis Le Bris col volto segnato dall'incubo retrocessione dopo il ko per 3-1",
+      "url": "https://www.dailymail.com/sport/football/article-16249189/Coventry-3-1-Sunderland-Premier-League-2026-27-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ROSS HEPPENSTALL ALLA CBS ARENA: Prestazione da censura per un Sunderland privo di idee in quello che era stato definito uno scontro salvezza anticipato, un'etichetta che si è rivelata solo una leggera esagerazione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T13:38:07+00:00"
+    },
+    {
+      "id": "f94126cde2",
+      "titolo": "Boom d'ascolti per il derby della Madonnina su Sky: oltre 2 milioni di spettatori unici",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/01-152296641/boom_d_ascolti_per_il_derby_della_madonnina_su_sky_oltre_2_milioni_di_spettatori_unici/",
+      "estratto": "Riscontro positivo nella stessa serata anche per la Formula Uno, con le qualifiche del GP del Messico a quota 615 mila in total audience",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T12:49:33+00:00"
     },
     {
       "id": "c72cb44604",
@@ -156,15 +174,6 @@
       "pubblicato": "2026-10-31T19:14:20+00:00"
     },
     {
-      "id": "9a10990df2",
-      "titolo": "Il Coventry getta ulteriore sconforto sul Sunderland: i Black Cats toccano il fondo e lasciano Régis Le Bris col volto segnato dall'incubo retrocessione dopo il ko per 3-1",
-      "url": "https://www.dailymail.com/sport/football/article-16249189/Coventry-3-1-Sunderland-Premier-League-2026-27-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "ROSS HEPPENSTALL ALLA CBS ARENA: Prestazione da censura per un Sunderland privo di idee in quello che era stato definito uno scontro salvezza anticipato, un'etichetta che si è rivelata solo una leggera esagerazione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T18:17:47+00:00"
-    },
-    {
       "id": "911ea162c8",
       "titolo": "Il Brighton è la squadra più 'completa' della Premier League?",
       "url": "https://www.espn.com/video/clip/_/id/50337378/are-brighton-most-complete-team-premier-league",
@@ -217,15 +226,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-31T16:23:47+00:00"
-    },
-    {
-      "id": "4d72302752",
-      "titolo": "Analisi VAR in Premier League: perché è stato annullato il gol di Matheus Cunha contro il Chelsea?",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "estratto": "Il VAR suspegta spesso polemiche, ma come vengono prese le decisioni? Il nostro arbitro residente, Andy Davies, spiega tutto.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T15:13:06+00:00"
     },
     {
       "id": "a08562c888",
@@ -451,24 +451,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-29T14:05:13+00:00"
-    },
-    {
-      "id": "2c3d1d4230",
-      "titolo": "Il processo a Ivan Toney per l'aggressione in un esclusivo locale notturno di Londra inizierà tra 20 MESI, mettendo a rischio le prospettive dell'attaccante della nazionale inglese per Euro 2028",
-      "url": "https://www.dailymail.com/sport/football/article-16248713/Ivan-Toneys-trial-nightclub-assault-start-three-days-Euro-2028-potentially-ruling-England-striker-tournament.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Toney è comparso giovedì mattina alla Southwark Crown Court per un'udienza preliminare e si è dichiarato non colpevole di lesioni personali aggravate.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T11:06:34+00:00"
-    },
-    {
-      "id": "b4446d561c",
-      "titolo": "Le prime due divisioni del calcio spagnolo osserveranno un minuto di silenzio per le vittime dell'incidente ferroviario",
-      "url": "https://www.espn.com/soccer/story/_/id/50316339/spain-top-two-football-divisions-observe-minutes-silence-train-crash-victims",
-      "estratto": "LaLiga ha annunciato che questo fine settimana si terrà un minuto di silenzio in tutte le partite delle prime due divisioni spagnole in memoria delle vittime del disastro ferroviario nella provincia di Toledo.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T10:32:00+00:00"
     }
   ]
 }
