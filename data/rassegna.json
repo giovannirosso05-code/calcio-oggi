@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-01T00:42:50.815120+00:00",
-  "totale": 140,
+  "aggiornato": "2026-11-01T06:54:28.742654+00:00",
+  "totale": 134,
   "articoli": [
     {
       "id": "64b28a0d2d",
@@ -27,27 +27,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "12a3f1d1c7",
-      "titolo": "Giocondo Martorelli: \"Bravo Milan. Inter, per Chivu serata storta. Udinese, serve cambiare\"",
-      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/giocondo-martorelli-bravo-milan-inter-chivu-serata-storta-udinese-serve-cambiare-2289440",
-      "estratto": "\"Il Milan ha meritato di vincere il derby.",
-      "fonte": "TMW",
+      "id": "d8230636f1",
+      "titolo": "Chivu amareggiato: \"Inter, ci specchiamo troppo sul nostro passato\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/31-152290760/chivu_amareggiato_inter_ci_specchiamo_troppo_sul_nostro_passato/",
+      "estratto": "Il tecnico nerazzurro deluso dopo la sconfitta nel derby: \"Le aspettative erano altre\"",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 190,
-      "pubblicato": "2026-10-31T23:40:00+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "cc48953b67",
-      "titolo": "Inter, Chivu: \"Approccio sbagliato, ma non è tutto da buttare. La reazione c'è stata\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/inter-chivu-approccio-sbagliato-tutto-buttare-reazione-2289313",
-      "estratto": "Cristian Chivu, tecnico dell’Inter, ha parlato ai microfoni di DAZN al termine del derby perso per 3-1 contro il Milan: “L'approccio è stato sbagliato, bisogna ammetterlo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 190,
-      "pubblicato": "2026-10-31T23:10:31+00:00",
+      "pubblicato": "2026-10-31T22:49:51+00:00",
       "squadra": "Inter Milan"
     },
     {
@@ -63,16 +51,16 @@
       "squadra": "Derby"
     },
     {
-      "id": "2de4159e5a",
-      "titolo": "\"In gol con tutti\", Gasperini si gode la Roma e non teme quel dettaglio: \"Anche le altre...\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/31-152285084/in_gol_con_tutti_gasperini_si_gode_la_roma_e_non_teme_quel_dettaglio_anche_le_altre_/",
-      "estratto": "L'allenatore giallorosso dopo la vittoria contro l'Udinese: \"Era l'ottava partita in 20 giorni, può mancare la concentrazione\"",
+      "id": "2a60b2955f",
+      "titolo": "Estasi Milan, Amorim: “Dopo una partita così capisci tutto”. Cardinale: \"Mi viene da piangere\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/31-152290388/estasi_milan_amorim_dopo_una_partita_cos_capisci_tutto_cardinale_mi_viene_da_piangere/",
+      "estratto": "Grande entusiasmo in casa rossonera dopo il successo nel derby contro l'Inter. Il tecnico: \"Orgoglioso dei miei giocatori\"",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 190,
-      "pubblicato": "2026-10-31T19:31:49+00:00",
-      "squadra": "AS Roma"
+      "pubblicato": "2026-10-31T22:33:28+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "0557712fcc",
@@ -85,18 +73,6 @@
       "punteggio": 190,
       "pubblicato": "2026-10-31T16:56:20+00:00",
       "squadra": "Udinese"
-    },
-    {
-      "id": "5fb487ad5c",
-      "titolo": "Monza, Colombo: \"Il pareggio sarebbe stato più giusto, dobbiamo seguire il mister\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/monza-colombo-pareggio-giusto-dobbiamo-seguire-mister-2289263",
-      "estratto": "Leonardo Colombo, centrocampista del Monza, ha parlato ai microfoni di DAZN dopo il ko per 2-1 sul campo del Bologna.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-10-31T23:15:11+00:00",
-      "squadra": "Monza"
     },
     {
       "id": "97616f59cb",
@@ -135,16 +111,16 @@
       "squadra": "Bologna"
     },
     {
-      "id": "4995378233",
-      "titolo": "\"Bournemouth è incredibile: d'estate sembra di essere tornato in Brasile!\": EVANILSON parla dei successi contro Man United e Milan, delle \"grandi aspettative\" di Marco Rose, dell'addio a casa a 13 anni e del disegno quotidiano per la defunta madre",
-      "url": "https://www.dailymail.com/sport/football/article-16242639/Evanilson-interview-Bournemouth-Brazil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Evanilson traccia linee perfette fin da bambino a Fortaleza, in Brasile, quando metteva in pausa i cartoni animati per ricopiarli su carta. Domenica scorsa ne ha disegnata un'altra: una traiettoria violenta e arcuata che si è insaccata nella rete del",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
+      "id": "ccceab173a",
+      "titolo": "Skorupski da eroe, stavolta al Monza non basta Varela: il Bologna aggancia la Juve",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/31-152278308/skorupski_da_eroe_stavolta_al_monza_non_basta_varela_il_bologna_aggancia_la_juve/",
+      "estratto": "Ospiti avanti col capocannoniere della Serie A, poi Cutrone fallisce il rigore del pari: in mezzo l'uno-due felsineo firmato Pobega e Bernardeschi",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
       "punteggio": 150,
-      "pubblicato": "2026-10-29T02:00:46+00:00",
-      "squadra": "Bournemouth"
+      "pubblicato": "2026-10-31T16:02:26+00:00",
+      "squadra": "Monza"
     },
     {
       "id": "16911d31bf",
@@ -157,18 +133,6 @@
       "punteggio": 140,
       "pubblicato": "2026-10-30T12:53:19+00:00",
       "squadra": "Boro"
-    },
-    {
-      "id": "a6ebf97f96",
-      "titolo": "Serie B, le gare del sabato: vittorie per Cremonese e Sampdoria, frena il Modena",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-b-gare-sabato-vittorie-cremonese-sampdoria-frena-modena-2289381",
-      "estratto": "Si chiude il sabato della decima giornata di Serie B, caratterizzato da due vittorie casalinghe e tre pareggi.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-10-31T23:34:01+00:00",
-      "squadra": "Cremonese"
     },
     {
       "id": "d7467290df",
@@ -255,16 +219,28 @@
       "squadra": "Dortmund"
     },
     {
-      "id": "6513025810",
-      "titolo": "È uno Juve-Napoli da destini forti. Allegri non si fida, Spalletti: \"Non devo essere ovattato\"",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juve-napoli-destini-forti-allegri-fida-spalletti-non-ovattato-2289387",
-      "estratto": "Juventus-Napoli è probabilmente il match più delicato della 10^ giornata di Serie A perché entrambi gli allenatori non possono dirsi soddisfatti del rendimento che stanno avendo con le rispettive squadre.",
+      "id": "24e347c08e",
+      "titolo": "Allegri (non) torna allo Stadium: come sono andate le partite contro la \"sua\" Juventus",
+      "url": "https://www.tuttomercatoweb.com/serie-a/allegri-non-torna-stadium-andate-partite-sua-juventus-2288559",
+      "estratto": "Sarebbe stato un altro ritorno, stavolta con un completo diverso.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-10-31T23:49:49+00:00",
+      "pubblicato": "2026-11-01T06:08:01+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "2de4159e5a",
+      "titolo": "\"In gol con tutti\", Gasperini si gode la Roma e non teme quel dettaglio: \"Anche le altre...\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/10/31-152285084/in_gol_con_tutti_gasperini_si_gode_la_roma_e_non_teme_quel_dettaglio_anche_le_altre_/",
+      "estratto": "L'allenatore giallorosso dopo la vittoria contro l'Udinese: \"Era l'ottava partita in 20 giorni, può mancare la concentrazione\"",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-10-31T19:31:49+00:00",
+      "squadra": "Roma"
     },
     {
       "id": "eceddb9df8",
@@ -315,15 +291,27 @@
       "squadra": "Genoa"
     },
     {
-      "id": "ec34b5a477",
-      "titolo": "Como, Fabregas: \"L'ansia di tornare di Addai va gestita\". Poi parla dell'impiego di Douvikas",
-      "url": "https://www.tuttomercatoweb.com/serie-a/como-fabregas-l-ansia-tornare-addai-gestita-parla-impiego-douvikas-2289329",
-      "estratto": "Cesc Fabregas, allenatore del Como, è intervenuto in conferenza stampa per parlare delle condizioni di Anastasios Douvikas, rispondendo così a chi gli chiedeva quando riposerà il greco: \"Può essere domani, può essere mercoledì, può essere domenica. A",
+      "id": "b243282bc1",
+      "titolo": "Torino, una retroguardia da Nazionale con un solo clean-sheet. Abate: “Ma senza quei regali…”",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-retroguardia-nazionale-clean-sheet-abate-ma-quegli-errori-banali-2289408",
+      "estratto": "All’appello mancava soltanto il portiere, adesso pure Perri è stato richiamato dal suo commissario tecnico.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-10-31T23:23:01+00:00",
+      "pubblicato": "2026-11-01T06:45:00+00:00",
+      "squadra": "Torino"
+    },
+    {
+      "id": "41a195bc83",
+      "titolo": "Torna Liberali, il Como ritrova una pedina. Fabregas esulta, poi chiarisce il caso Kean",
+      "url": "https://www.tuttomercatoweb.com/serie-a/fabregas-esulta-torna-liberali-como-ritrova-pedina-chiarisce-kean-2289426",
+      "estratto": "Dove eravamo rimasti? Il Como brama la quinta vittoria di fila dopo aver matato Fiorentina, Manchester United, Sassuolo e Torino, oggi di ritorno al Sinigaglia per ospitare il Venezia, alla disperata ricerca di punti e a -4 dalla zona salvezza.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-01T06:15:00+00:00",
       "squadra": "Como"
     },
     {
@@ -440,15 +428,59 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "026295ccb8",
-      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 31 ottobre",
-      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-31-ottobre-2289366",
-      "estratto": "ZACCAGNI SI È RIPRESO LA LAZIO MA FORSE ANCORA NON L'ITALIA: MANCINI PUÒ LASCIARLO DI NUOVO FUORI.",
+      "id": "59fe858664",
+      "titolo": "Io Allegri la giocherei così. Ispirazione De Rossi, uno in più in mezzo e Hojlund con un assistente",
+      "url": "https://www.tuttomercatoweb.com/serie-a/allegri-giocherei-cosi-ispirazione-de-rossi-hojlund-assistente-2289358",
+      "estratto": "Nessuno dice di ribaltare un’altra volta il modulo.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-01T00:00:01+00:00"
+      "pubblicato": "2026-11-01T06:25:04+00:00"
+    },
+    {
+      "id": "47cc82e198",
+      "titolo": "Io Spalletti la giocherei così. Cross dal fondo banditi e un’idea controintuitiva: giocarla alla Allegri",
+      "url": "https://www.tuttomercatoweb.com/serie-a/spalletti-giocherei-cosi-cross-fondo-banditi-un-idea-controintuitiva-giocarla-allegri-2289356",
+      "estratto": "La stragrande maggioranza degli allenatori ripete un concetto chiaro: non ci snaturiamo, a prescindere dall’avversario facciamo il nostro gioco.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-01T06:20:54+00:00"
+    },
+    {
+      "id": "287e156461",
+      "titolo": "Cambiare allenatore è la scelta giusta? Palladino dimostra di sì. Vanoli, Nicola e Gilardino no",
+      "url": "https://www.tuttomercatoweb.com/serie-a/cambiare-allenatore-scelta-giusta-palladino-dimostra-si-vanoli-nicola-gilardino-2289267",
+      "estratto": "Il Bologna ha cambiato marcia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-01T06:12:00+00:00"
+    },
+    {
+      "id": "7a9b8ed2e2",
+      "titolo": "Abate prepara il Toro all’esame Raimondo",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/01-152289424/abate_prepara_il_toro_allesame_raimondo/",
+      "estratto": "Alvini ha uno dei migliori attacchi della Serie A (22 gol): l’allenatore granata chiede concentrazione",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-01T05:15:00+00:00"
+    },
+    {
+      "id": "fddcb01986",
+      "titolo": "Lo scherzo del destino: proprio Allegri è il giudice di Spalletti",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/11/01-152280807/lo_scherzo_del_destino_proprio_allegri_il_giudice_di_spalletti/",
+      "estratto": "Entrambi lo sanno: comunque andrà a finire Juve-Napoli, ne resterà solo uno in lizza per ciò che conta",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-01T05:00:00+00:00"
     },
     {
       "id": "d0d9d0b49f",
@@ -644,28 +676,28 @@
       "pubblicato": "2026-10-29T09:33:03+00:00"
     },
     {
-      "id": "c293d8ffd8",
-      "titolo": "Cardinale: \"Abbiamo visto di che pasta è fatto questo Milan. Ha tutte le carte per vincere\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/cardinale-abbiamo-pasta-milan-carte-vincere-2289438",
-      "estratto": "\"Questa sera abbiamo visto di che pasta è fatta questa squadra\".",
-      "fonte": "TMW",
+      "id": "ed95b09979",
+      "titolo": "Chivu surreale: “Inter, non butterei tutto. Bonny vomitava, Provedel a casa. E Pio Esposito…”",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/31-152290580/chivu_surreale_inter_non_butterei_tutto_bonny_vomitava_provedel_a_casa_e_pio_esposito/",
+      "estratto": "L'allenatore nerazzurro analizza la sconfitta nel derby: \"Le aspettative erano altre, ma ci siamo presentati in emergenza\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -10,
-      "pubblicato": "2026-10-31T23:25:47+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-10-31T22:47:11+00:00",
+      "squadra": "Inter Milan"
     },
     {
-      "id": "d8230636f1",
-      "titolo": "Chivu amareggiato: \"Inter, ci specchiamo troppo sul nostro passato\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/10/31-152290760/chivu_amareggiato_inter_ci_specchiamo_troppo_sul_nostro_passato/",
-      "estratto": "Il tecnico nerazzurro deluso dopo la sconfitta nel derby: \"Le aspettative erano altre\"",
-      "fonte": "Corriere dello Sport",
+      "id": "3a5d6770fd",
+      "titolo": "A tutto Bonucci: \"Conte o Spalletti, scelsi bene. Il Milan una cazzata. Juve, bastava...\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152224384/a_tutto_bonucci_conte_o_spalletti_scelsi_bene_il_milan_una_cazzata_juve_bastava_/",
+      "estratto": "L'ex difensore bianconero ha ripercorso diverse tappe della sua carriera: \"Antonio me l'ha cambiata. Del Piero, Ronaldo, Buffon...\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -10,
-      "pubblicato": "2026-10-31T22:49:51+00:00",
-      "squadra": "Inter Milan"
+      "pubblicato": "2026-10-31T11:54:00+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "8b51c94f72",
@@ -680,51 +712,15 @@
       "squadra": "Udinese"
     },
     {
-      "id": "2ecafe102f",
-      "titolo": "L'ennesimo derby vinto dal Milan: Moreira condanna l'Inter alla prima sconfitta in Serie A",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/ennesimo-derby-vinto-milan-moreira-condanna-inter-sconfitta-serie-2289439",
-      "estratto": "Si conferma la tradizione: il derby della Madonnina è del Milan, comunque debba andare a finire poi la stagione.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -50,
-      "pubblicato": "2026-10-31T23:53:08+00:00",
-      "squadra": "Derby"
-    },
-    {
-      "id": "e65e9d636e",
-      "titolo": "La Roma passeggia sull'Udinese: finisce 5-2 per i giallorossi e la panchina di Runjaic scotta",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/roma-passeggia-udinese-finisce-5-2-giallorossi-panchina-runjaic-scotta-2289407",
-      "estratto": "La Roma domina.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -50,
-      "pubblicato": "2026-10-31T23:45:00+00:00",
-      "squadra": "AS Roma"
-    },
-    {
-      "id": "ccceab173a",
-      "titolo": "Skorupski da eroe, stavolta al Monza non basta Varela: il Bologna aggancia la Juve",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/31-152278308/skorupski_da_eroe_stavolta_al_monza_non_basta_varela_il_bologna_aggancia_la_juve/",
-      "estratto": "Ospiti avanti col capocannoniere della Serie A, poi Cutrone fallisce il rigore del pari: in mezzo l'uno-due felsineo firmato Pobega e Bernardeschi",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -50,
-      "pubblicato": "2026-10-31T16:02:26+00:00",
-      "squadra": "Monza"
-    },
-    {
-      "id": "7aa054603e",
-      "titolo": "Il Bologna mette la terza (di fila). Varela non basta al Monza, che sbatte su Skorupski",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/bologna-mette-terza-di-fila-varela-monza-sbatte-skorupski-2289274",
-      "estratto": "Terza vittoria consecutiva per il Bologna e la cura Palladino continua a dare i suoi frutti.",
+      "id": "01d5d4fcdc",
+      "titolo": "Una parata per voltare pagina: Skorupski si riprende il Bologna",
+      "url": "https://www.tuttomercatoweb.com/serie-a/parata-voltare-pagina-skorupski-riprende-bologna-2289449",
+      "estratto": "Ci sono partite che possono cambiare il peso di un'intera stagione, almeno sul piano personale.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-10-31T23:41:00+00:00",
+      "pubblicato": "2026-11-01T06:41:00+00:00",
       "squadra": "Bologna"
     },
     {
@@ -764,15 +760,15 @@
       "squadra": "Man City"
     },
     {
-      "id": "7feb3ea07d",
-      "titolo": "Juventus, Spalletti: \"Questo ritiro è utile, ma quando non sono felice ho voglia di famiglia\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-spalletti-ritiro-quando-felice-voglio-famiglia-cani-amici-stretti-2289288",
-      "estratto": "La decisione di mandare la Juventus in ritiro è stata presa dal club, ma è chiaro che coinvolge anche Luciano Spalletti.",
-      "fonte": "TMW",
+      "id": "2be6325ca9",
+      "titolo": "Spalletti, il rispetto perduto e la fiducia Juve: \"Carnevali perfetto. Chi pensa che io arretri…\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152271178/spalletti_il_rispetto_perduto_e_la_fiducia_juve_carnevali_perfetto_chi_pensa_che_io_arretri/",
+      "estratto": "L'allenatore bianconero ha analizzato il momento alla vigilia della sfida contro il Napoli dell'ex Allegri",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-10-31T23:30:32+00:00",
+      "pubblicato": "2026-10-31T16:48:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -788,16 +784,28 @@
       "squadra": "Lazio"
     },
     {
-      "id": "f14312bb18",
-      "titolo": "Il Napoli contro la Juve senza Allegri, dagli infortuni allo score di Landucci: le ultime",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/10/31-152267269/il_napoli_contro_la_juve_senza_allegri_dagli_infortuni_allo_score_di_landucci_le_ultime/",
-      "estratto": "In attacco spazio alla punta danese con Politano e Lang sugli esterni. Anguissa insieme a McTominay. Regia affidata ancora a De Bruyne",
-      "fonte": "Tuttosport",
+      "id": "b9809440ca",
+      "titolo": "Napoli, Allegri torna a Torino con un solo risultato e una certezza sulla Juventus",
+      "url": "https://www.tuttomercatoweb.com/serie-a/napoli-allegri-torino-risultato-certezza-juventus-2289459",
+      "estratto": "Altro giro, altra partita senza margine d'errore.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-10-31T09:35:00+00:00",
+      "pubblicato": "2026-11-01T06:50:57+00:00",
       "squadra": "Napoli"
+    },
+    {
+      "id": "2f412d0213",
+      "titolo": "Cristante apre, Ghilardi chiude: la Roma ne fa 5 all'Udinese. Runjaic affonda, panchina a rischio",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/31-152280808/cristante_apre_ghilardi_chiude_la_roma_ne_fa_5_all_udinese_runjaic_affonda_panchina_a_rischio/",
+      "estratto": "La squadra di Gasperini archivia la pratica con 4 gol nel primo tempo. Crisi nera per i friulani, settima sconfitta nelle ultime 8",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-10-31T19:01:00+00:00",
+      "squadra": "Roma"
     },
     {
       "id": "9712e4c315",
@@ -884,27 +892,27 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "4fd8afdeb8",
-      "titolo": "Milan, Moreira: \"Notte speciale, sono andato convinto su quel calcio di punizione\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/milan-moreira-notte-speciale-andato-convinto-calcio-punizione-2289399",
-      "estratto": "Diego Moreira, centrocampista del Milan, ha parlato così ai microfoni di DAZN al termine del derby vinto per 3-1 sull'Inter: \"Notte speciale, sono molto contento per questa vittoria.",
-      "fonte": "TMW",
-      "serie": "Serie A",
+      "id": "864e95f1d1",
+      "titolo": "Milan e Inter svelano le prime immagini del nuovo stadio: presentato l'erede di San Siro dopo l'accordo sui diritti di denominazione da 543 milioni di sterline",
+      "url": "https://www.dailymail.com/sport/football/article-16250727/AC-Milan-Inter-pictures-new-stadium-San-Siro.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Le due big italiane cercano da tempo di lasciare la loro storica casa, con i piani di demolizione inizialmente messi in pausa prima di tornare recentemente sui binari giusti, e ora la macchina è in moto.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
       "citazione": true,
       "punteggio": -210,
-      "pubblicato": "2026-10-31T23:07:33+00:00",
+      "pubblicato": "2026-10-29T23:34:01+00:00",
       "squadra": "Milan"
     },
     {
-      "id": "ed95b09979",
-      "titolo": "Chivu surreale: “Inter, non butterei tutto. Bonny vomitava, Provedel a casa. E Pio Esposito…”",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/10/31-152290580/chivu_surreale_inter_non_butterei_tutto_bonny_vomitava_provedel_a_casa_e_pio_esposito/",
-      "estratto": "L'allenatore nerazzurro analizza la sconfitta nel derby: \"Le aspettative erano altre, ma ci siamo presentati in emergenza\"",
+      "id": "a2f467b167",
+      "titolo": "Rigore Inter, anzi stavolta no! La clamorosa svista di Guida sul petto di Gila",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/31-152288700/rigore_inter_anzi_stavolta_no_la_clamorosa_svista_di_guida_sul_petto_di_gila/",
+      "estratto": "Episodio particolare nel secondo tempo del derby di Milano: penalty revocato dopo on field review. Cosa è successo",
       "fonte": "Tuttosport",
       "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -210,
-      "pubblicato": "2026-10-31T22:47:11+00:00",
+      "citazione": false,
+      "punteggio": -230,
+      "pubblicato": "2026-10-31T21:39:10+00:00",
       "squadra": "Inter Milan"
     },
     {
@@ -918,18 +926,6 @@
       "punteggio": -240,
       "pubblicato": "2026-10-31T19:33:16+00:00",
       "squadra": "Udinese"
-    },
-    {
-      "id": "2f412d0213",
-      "titolo": "Cristante apre, Ghilardi chiude: la Roma ne fa 5 all'Udinese. Runjaic affonda, panchina a rischio",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/31-152280808/cristante_apre_ghilardi_chiude_la_roma_ne_fa_5_all_udinese_runjaic_affonda_panchina_a_rischio/",
-      "estratto": "La squadra di Gasperini archivia la pratica con 4 gol nel primo tempo. Crisi nera per i friulani, settima sconfitta nelle ultime 8",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -250,
-      "pubblicato": "2026-10-31T19:01:00+00:00",
-      "squadra": "AS Roma"
     },
     {
       "id": "bc6943bc38",
@@ -956,16 +952,40 @@
       "squadra": "Man City"
     },
     {
-      "id": "2be6325ca9",
-      "titolo": "Spalletti, il rispetto perduto e la fiducia Juve: \"Carnevali perfetto. Chi pensa che io arretri…\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152271178/spalletti_il_rispetto_perduto_e_la_fiducia_juve_carnevali_perfetto_chi_pensa_che_io_arretri/",
-      "estratto": "L'allenatore bianconero ha analizzato il momento alla vigilia della sfida contro il Napoli dell'ex Allegri",
-      "fonte": "Tuttosport",
+      "id": "2e1424d8cd",
+      "titolo": "Di Lorenzo si prepara a Juve-Napoli: \"Con Spalletti rapporto speciale ma saremo rivali\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/31-152273460/di_lorenzo_si_prepara_a_juve-napoli_con_spalletti_rapporto_speciale_ma_saremo_rivali/",
+      "estratto": "Il capitano azzurro ammette le difficoltà in campionato: \"La nostra classifica non ci piace e ne siamo consapevoli\", ecco cosa ha detto",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-10-31T16:48:00+00:00",
+      "pubblicato": "2026-10-31T14:34:45+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "1bf787cc51",
+      "titolo": "Roma e Udine, un gemellaggio sempre più forte al Bluenergy",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/31-152280433/roma_e_udine_un_gemellaggio_sempre_pi_forte_al_bluenergy/",
+      "estratto": "Urlato a squarciagola il nome delle squadre “sorelle”: ecco cosa è successo prima del fischio d'inizio",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -370,
+      "pubblicato": "2026-10-31T17:09:07+00:00",
+      "squadra": "Roma"
+    },
+    {
+      "id": "f14312bb18",
+      "titolo": "Il Napoli contro la Juve senza Allegri, dagli infortuni allo score di Landucci: le ultime",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/10/31-152267269/il_napoli_contro_la_juve_senza_allegri_dagli_infortuni_allo_score_di_landucci_le_ultime/",
+      "estratto": "In attacco spazio alla punta danese con Politano e Lang sugli esterni. Anguissa insieme a McTominay. Regia affidata ancora a De Bruyne",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -370,
+      "pubblicato": "2026-10-31T09:35:00+00:00",
+      "squadra": "Napoli"
     },
     {
       "id": "42f324fc83",
@@ -1004,52 +1024,52 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "2a60b2955f",
-      "titolo": "Estasi Milan, Amorim: “Dopo una partita così capisci tutto”. Cardinale: \"Mi viene da piangere\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/31-152290388/estasi_milan_amorim_dopo_una_partita_cos_capisci_tutto_cardinale_mi_viene_da_piangere/",
-      "estratto": "Grande entusiasmo in casa rossonera dopo il successo nel derby contro l'Inter. Il tecnico: \"Orgoglioso dei miei giocatori\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -410,
-      "pubblicato": "2026-10-31T22:33:28+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "a2f467b167",
-      "titolo": "Rigore Inter, anzi stavolta no! La clamorosa svista di Guida sul petto di Gila",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/31-152288700/rigore_inter_anzi_stavolta_no_la_clamorosa_svista_di_guida_sul_petto_di_gila/",
-      "estratto": "Episodio particolare nel secondo tempo del derby di Milano: penalty revocato dopo on field review. Cosa è successo",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -430,
-      "pubblicato": "2026-10-31T21:39:10+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
-      "id": "1bf787cc51",
-      "titolo": "Roma e Udine, un gemellaggio sempre più forte al Bluenergy",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/31-152280433/roma_e_udine_un_gemellaggio_sempre_pi_forte_al_bluenergy/",
-      "estratto": "Urlato a squarciagola il nome delle squadre “sorelle”: ecco cosa è successo prima del fischio d'inizio",
-      "fonte": "Corriere dello Sport",
+      "id": "0a758c1fe0",
+      "titolo": "L'Udinese sprofonda di nuovo: la Roma si diverte e cala un pokerissimo",
+      "url": "https://www.tuttomercatoweb.com/serie-a/udinese-sprofonda-nuovo-roma-diverte-cala-pokerissimo-2289419",
+      "estratto": "L'Udinese cade ancora e stavolta lo fa contro la Roma, che esce dal Bluenergy Stadium con un roboante 2-5 che fa capire come il pareggio maturato a Parma abbia allontanato ben poco i problemi in casa bianconera.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-10-31T17:09:07+00:00",
-      "squadra": "AS Roma"
+      "pubblicato": "2026-11-01T06:38:00+00:00",
+      "squadra": "Udinese"
     },
     {
-      "id": "2e1424d8cd",
-      "titolo": "Di Lorenzo si prepara a Juve-Napoli: \"Con Spalletti rapporto speciale ma saremo rivali\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/31-152273460/di_lorenzo_si_prepara_a_juve-napoli_con_spalletti_rapporto_speciale_ma_saremo_rivali/",
-      "estratto": "Il capitano azzurro ammette le difficoltà in campionato: \"La nostra classifica non ci piace e ne siamo consapevoli\", ecco cosa ha detto",
-      "fonte": "Corriere dello Sport",
+      "id": "64f95bcbde",
+      "titolo": "Milan-Inter non è stato un derby sulle punte: per Thuram è una novità, per Ramos no",
+      "url": "https://www.tuttomercatoweb.com/serie-a/milan-inter-derby-punte-thuram-novita-ramos-2289437",
+      "estratto": "Il Milan ha confermato la regola recente: non importa quanto forte sia l'Inter, negli ultimi anni nel derby non c'è trippa per gatti per i nerazzurri.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -450,
+      "pubblicato": "2026-11-01T06:34:00+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "332db61054",
+      "titolo": "Allegri, riecco la Juve: \"Dicono che è morta ma... Napoli, chi può giocare allo Stadium\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/10/31-152269976/allegri_riecco_la_juve_dicono_che_morta_ma_napoli_chi_pu_giocare_allo_stadium/",
+      "estratto": "L'allenatore livornese parla in conferenza alla vigilia della sfida contro i bianconeri: \"Una gara speciale, ho passato 10 anni lì\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -530,
-      "pubblicato": "2026-10-31T14:34:45+00:00",
+      "pubblicato": "2026-10-31T12:13:43+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "3a6cadb0c0",
+      "titolo": "Roma show, Udinese travolta: cinquina per Gasperini, Malen ancora in gol",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/31-152276222/udinese-roma_diretta_gasperini_punta_su_malen_soul_e_mora_live/",
+      "estratto": "I giallorossi non si fermano infilando la terza vittoria nelle ultime quattro giornate. Oltre all'olandese, in rete Cristante, Mora, Ndicka e Ghilardi",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -570,
+      "pubblicato": "2026-10-31T16:01:00+00:00",
+      "squadra": "Roma"
     },
     {
       "id": "f29983210d",
@@ -1088,18 +1108,6 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "3a5d6770fd",
-      "titolo": "A tutto Bonucci: \"Conte o Spalletti, scelsi bene. Il Milan una cazzata. Juve, bastava...\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152224384/a_tutto_bonucci_conte_o_spalletti_scelsi_bene_il_milan_una_cazzata_juve_bastava_/",
-      "estratto": "L'ex difensore bianconero ha ripercorso diverse tappe della sua carriera: \"Antonio me l'ha cambiata. Del Piero, Ronaldo, Buffon...\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -610,
-      "pubblicato": "2026-10-31T11:54:00+00:00",
-      "squadra": "Milan"
-    },
-    {
       "id": "648fa18082",
       "titolo": "\"Chiudete quella ca... di bocca, non sarete mai lo United\": Carragher shock, parte la querela",
       "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/10/31-152269975/chiudete_quella_ca_di_bocca_non_sarete_mai_lo_united_carragher_shock_parte_la_querela/",
@@ -1112,40 +1120,40 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "0163ac1a85",
-      "titolo": "L'Inter fa acqua in difesa: 19 gol subiti in 13 partite. Come Inzaghi e meglio di Conte",
-      "url": "https://www.tuttomercatoweb.com/serie-a/inter-acqua-difesa-19-gol-subiti-13-partite-inzaghi-conte-2289433",
-      "estratto": "Nel mirino della critica c'è per forza di cose la fase difensiva dell'Inter, che ha incassato 19 gol nelle prime 13 partite stagionali.",
+      "id": "fa68bf3682",
+      "titolo": "Il cimitero di Amorim e Cardinale che piange. Eppure il Milan ha vinto il derby",
+      "url": "https://www.tuttomercatoweb.com/serie-a/cimitero-amorim-cardinale-piange-milan-vinto-derby-2289444",
+      "estratto": "La notte più bella del Milan di Ruben Amorim coincide con la serata più importante: i rossoneri vincono per 3-1 il derby contro l’Inter, infliggendo ai nerazzurri la prima sconfitta stagionale e, soprattutto, dandosi tanta autostima in vista del pros",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -650,
-      "pubblicato": "2026-10-31T23:17:19+00:00",
-      "squadra": "Inter Milan"
+      "pubblicato": "2026-11-01T06:30:06+00:00",
+      "squadra": "Milan"
     },
     {
-      "id": "3a6cadb0c0",
-      "titolo": "Roma show, Udinese travolta: cinquina per Gasperini, Malen ancora in gol",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/31-152276222/udinese-roma_diretta_gasperini_punta_su_malen_soul_e_mora_live/",
-      "estratto": "I giallorossi non si fermano infilando la terza vittoria nelle ultime quattro giornate. Oltre all'olandese, in rete Cristante, Mora, Ndicka e Ghilardi",
+      "id": "ea008c86ef",
+      "titolo": "Allegri chiarissimo prima della Juve: \"Non è una squadra morta, anzi... E noi dobbiamo stare zitti e lavorare\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/31-152269985/allegri_chiarissimo_prima_della_juve_non_una_squadra_morta_anzi_e_noi_dobbiamo_stare_zitti_e_lavorare/",
+      "estratto": "Il tecnico alla vigilia della sfida ai bianconeri: \"Si segna di più? Vediamo a marzo quando i punti peseranno...\"",
       "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -650,
-      "pubblicato": "2026-10-31T16:01:00+00:00",
-      "squadra": "AS Roma"
-    },
-    {
-      "id": "332db61054",
-      "titolo": "Allegri, riecco la Juve: \"Dicono che è morta ma... Napoli, chi può giocare allo Stadium\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/10/31-152269976/allegri_riecco_la_juve_dicono_che_morta_ma_napoli_chi_pu_giocare_allo_stadium/",
-      "estratto": "L'allenatore livornese parla in conferenza alla vigilia della sfida contro i bianconeri: \"Una gara speciale, ho passato 10 anni lì\"",
-      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -730,
-      "pubblicato": "2026-10-31T12:13:43+00:00",
+      "pubblicato": "2026-10-31T11:52:42+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "494e6a6bf3",
+      "titolo": "Retroscena Roma, gol e trasferta: l’obiettivo vittoria e il record a Udine",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/31-152270080/retroscena_roma_gol_e_trasferta_lobiettivo_vittoria_e_il_record_a_udine/",
+      "estratto": "Sono 23 le reti in 10 giornate e la squadra di Gasperini non vuole fermarsi. Al Bluenergy si cercano solo i tre punti",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -770,
+      "pubblicato": "2026-10-31T11:29:46+00:00",
+      "squadra": "Roma"
     },
     {
       "id": "a2bff77119",
@@ -1184,18 +1192,6 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "864e95f1d1",
-      "titolo": "Milan e Inter svelano le prime immagini del nuovo stadio: presentato l'erede di San Siro dopo l'accordo sui diritti di denominazione da 543 milioni di sterline",
-      "url": "https://www.dailymail.com/sport/football/article-16250727/AC-Milan-Inter-pictures-new-stadium-San-Siro.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Le due big italiane cercano da tempo di lasciare la loro storica casa, con i piani di demolizione inizialmente messi in pausa prima di tornare recentemente sui binari giusti, e ora la macchina è in moto.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -810,
-      "pubblicato": "2026-10-29T23:34:01+00:00",
-      "squadra": "Milan"
-    },
-    {
       "id": "91016a2a26",
       "titolo": "Il cocco della maestra 'divisivo' che fa alzare gli occhi al cielo ai compagni? O un ossessione di chi ci tiene davvero? Fonti interne al Manchester United rivelano cosa pensano realmente i compagni di squadra di Bruno Fernandes - mentre sveliamo che Michael Carrick aveva deciso di escludere il capitano PRIMA del suo sfogo contro il Como",
       "url": "https://www.dailymail.com/sport/football/article-16249625/bruno-fernandes-manchester-united-captain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1208,27 +1204,27 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "494e6a6bf3",
-      "titolo": "Retroscena Roma, gol e trasferta: l’obiettivo vittoria e il record a Udine",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/31-152270080/retroscena_roma_gol_e_trasferta_lobiettivo_vittoria_e_il_record_a_udine/",
-      "estratto": "Sono 23 le reti in 10 giornate e la squadra di Gasperini non vuole fermarsi. Al Bluenergy si cercano solo i tre punti",
-      "fonte": "Corriere dello Sport",
+      "id": "0ba0988feb",
+      "titolo": "Milan, derby trionfale: Inter schiacciata, Chivu cambia schema e ne prende tre! Tutte le reazioni",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/31-152280805/milan-inter_diretta_serie_a_formazioni_e_risultato_del_derby_in_tempo_reale_amorim_contro_chivu/",
+      "estratto": "Amorim si prende il suo primo derby con un super Diego Moreira e le firme di Pulisic e Rabiot. Bastoni illude i nerazzurri, sono 8 stracittadine senza vittorie",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -850,
-      "pubblicato": "2026-10-31T11:29:46+00:00",
-      "squadra": "AS Roma"
+      "pubblicato": "2026-10-31T18:15:11+00:00",
+      "squadra": "Milan"
     },
     {
-      "id": "ea008c86ef",
-      "titolo": "Allegri chiarissimo prima della Juve: \"Non è una squadra morta, anzi... E noi dobbiamo stare zitti e lavorare\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/31-152269985/allegri_chiarissimo_prima_della_juve_non_una_squadra_morta_anzi_e_noi_dobbiamo_stare_zitti_e_lavorare/",
-      "estratto": "Il tecnico alla vigilia della sfida ai bianconeri: \"Si segna di più? Vediamo a marzo quando i punti peseranno...\"",
-      "fonte": "Corriere dello Sport",
+      "id": "f1587e7f0f",
+      "titolo": "Crisi feroce Juve, non solo Spalletti: la linea per uscirne dalla Primavera alle Women",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152267266/crisi_feroce_juve_non_solo_spalletti_la_linea_per_uscirne_dalla_primavera_alle_women/",
+      "estratto": "Risultati a singhiozzo in ogni squadra ma la filosofia societaria ora è tornata quella della Vecchia Signora di una volta",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -930,
-      "pubblicato": "2026-10-31T11:52:42+00:00",
+      "citazione": false,
+      "punteggio": -970,
+      "pubblicato": "2026-10-31T09:20:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1256,18 +1252,6 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "be126c2ca6",
-      "titolo": "Jordan Henderson sorride beffardo mentre sbeffeggia i fischietti di Anfield al suo ritorno con il Chelsea, poi discute con l'ex compagno di squadra del Liverpool Virgil van Dijk",
-      "url": "https://www.dailymail.com/sport/football/article-16247517/Jordan-Henderson-smirks-trolls-Anfield-boo-boys-return-Chelsea-argues-ex-Liverpool-team-mate-Virgil-van-Dijk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La leggenda del Liverpool Henderson, 36 anni, ha giocato tutti i 90 minuti degli ottavi di finale di Carabao Cup che hanno visto il Chelsea sconfitto 6-5 ai calci di rigore, anche se il veterano ha trasformato il proprio penalty.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-10-29T00:51:05+00:00",
-      "squadra": "Chelsea "
-    },
-    {
       "id": "da71018714",
       "titolo": "Bruno Fernandes ha \"MACCHIATO\" la sua eredità al Manchester United dopo le critiche pubbliche a Michael Carrick, e i tentativi di pace potrebbero servire solo a \"mettere una pezza\", avverte Alan Shearer",
       "url": "https://www.dailymail.com/sport/football/article-16253455/Bruno-Fernandes-Man-United-legacy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1280,40 +1264,28 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "0ba0988feb",
-      "titolo": "Milan, derby trionfale: Inter schiacciata, Chivu cambia schema e ne prende tre! Tutte le reazioni",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/10/31-152280805/milan-inter_diretta_serie_a_formazioni_e_risultato_del_derby_in_tempo_reale_amorim_contro_chivu/",
-      "estratto": "Amorim si prende il suo primo derby con un super Diego Moreira e le firme di Pulisic e Rabiot. Bastoni illude i nerazzurri, sono 8 stracittadine senza vittorie",
-      "fonte": "Tuttosport",
+      "id": "2856c6bb30",
+      "titolo": "Milan da urlo, il derby è suo! L'Inter si arrende alle magie di Pulisic, Rabiot e Diego Moreira: a San Siro finisce 3-1",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/31-152278213/milan-inter_diretta_serie_a_segui_il_derby_tra_amorim_e_chivu_il_risultato_live/",
+      "estratto": "A San Siro i rossoneri si aggiudicano la stracittadina grazie ai gol di Pulisic, Rabiot e Moreira, che rendono vana la rete di Bastoni",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1050,
-      "pubblicato": "2026-10-31T18:15:11+00:00",
+      "pubblicato": "2026-10-31T18:15:02+00:00",
       "squadra": "Milan"
     },
     {
-      "id": "db426327bf",
-      "titolo": "Cannavaro sicuro: \"Juve, lui è straordinario ma con un problema. Spalletti e Allegri sanno tutto\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152267265/cannavaro_sicuro_juve_lui_straordinario_ma_con_un_problema_spalletti_e_allegri_sanno_tutto/",
-      "estratto": "Il difensore, campione del mondo nel 2006, è stato un doppio ex di questa sfida: le sue parole sul big match dell'Allianz Stadium",
+      "id": "995ab240d6",
+      "titolo": "Carnevali, messaggio chiaro: il futuro di Spalletti alla Juve tra voci e spifferi",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152267168/carnevali_messaggio_chiaro_il_futuro_di_spalletti_alla_juve_tra_voci_e_spifferi/",
+      "estratto": "Tutta la squadra è sotto esame mentre la linea su Luciano è sempre ben definita: contro il Napoli...",
       "fonte": "Tuttosport",
       "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -1130,
-      "pubblicato": "2026-10-31T08:26:00+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "95a52b6e24",
-      "titolo": "Vincent Kompany del Bayern Monaco dimesso dall'ospedale dopo il malore",
-      "url": "https://www.espn.com/soccer/story/_/id/50312241/bayern-munich-vincent-kompany-hospital-discharged",
-      "estratto": "L'allenatore del Bayern Monaco Vincent Kompany è stato dimesso dall'ospedale a seguito del malore accusato la scorsa settimana.",
-      "fonte": "ESPN",
-      "serie": "Estero",
       "citazione": false,
-      "punteggio": -1200,
-      "pubblicato": "2026-10-29T01:01:52+00:00",
-      "squadra": "Bayern"
+      "punteggio": -1170,
+      "pubblicato": "2026-10-31T08:58:00+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "b95633a219",
@@ -1328,28 +1300,16 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "2856c6bb30",
-      "titolo": "Milan da urlo, il derby è suo! L'Inter si arrende alle magie di Pulisic, Rabiot e Diego Moreira: a San Siro finisce 3-1",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/31-152278213/milan-inter_diretta_serie_a_segui_il_derby_tra_amorim_e_chivu_il_risultato_live/",
-      "estratto": "A San Siro i rossoneri si aggiudicano la stracittadina grazie ai gol di Pulisic, Rabiot e Moreira, che rendono vana la rete di Bastoni",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1250,
-      "pubblicato": "2026-10-31T18:15:02+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "f1587e7f0f",
-      "titolo": "Crisi feroce Juve, non solo Spalletti: la linea per uscirne dalla Primavera alle Women",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152267266/crisi_feroce_juve_non_solo_spalletti_la_linea_per_uscirne_dalla_primavera_alle_women/",
-      "estratto": "Risultati a singhiozzo in ogni squadra ma la filosofia societaria ora è tornata quella della Vecchia Signora di una volta",
+      "id": "cd34df89b8",
+      "titolo": "Kaká al Meazza: entrerà nella Hall of Fame Milan",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/31-152267279/kak_al_meazza_entrer_nella_hall_of_fame_milan/",
+      "estratto": "Ultimo pallone d’oro della Serie A, nel 2007: con il brasiliano farà la passerella pure Desailly. Derby in diretta sulla Bbc in chiaro. E Dazn porta allo stadio Gabry Ponte",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -1370,
-      "pubblicato": "2026-10-31T09:20:00+00:00",
-      "squadra": "Juventus"
+      "punteggio": -1250,
+      "pubblicato": "2026-10-31T09:47:07+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "ac75c42cb9",
@@ -1364,30 +1324,6 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "cd34df89b8",
-      "titolo": "Kaká al Meazza: entrerà nella Hall of Fame Milan",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/10/31-152267279/kak_al_meazza_entrer_nella_hall_of_fame_milan/",
-      "estratto": "Ultimo pallone d’oro della Serie A, nel 2007: con il brasiliano farà la passerella pure Desailly. Derby in diretta sulla Bbc in chiaro. E Dazn porta allo stadio Gabry Ponte",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1450,
-      "pubblicato": "2026-10-31T09:47:07+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "995ab240d6",
-      "titolo": "Carnevali, messaggio chiaro: il futuro di Spalletti alla Juve tra voci e spifferi",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152267168/carnevali_messaggio_chiaro_il_futuro_di_spalletti_alla_juve_tra_voci_e_spifferi/",
-      "estratto": "Tutta la squadra è sotto esame mentre la linea su Luciano è sempre ben definita: contro il Napoli...",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1570,
-      "pubblicato": "2026-10-31T08:58:00+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "abf2a605ac",
       "titolo": "Il Manchester United perde ancora: cosa può succedere prima della Roma, la situazione sul nuovo allenatore",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/10/31-152273274/il_manchester_united_perde_ancora_cosa_pu_succedere_prima_della_roma_la_situazione_sul_nuovo_allenatore/",
@@ -1398,18 +1334,6 @@
       "punteggio": -1650,
       "pubblicato": "2026-10-31T14:30:43+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "8285a9b4be",
-      "titolo": "Novità Juve, l'altro modulo di Spalletti: uno tra Kolo Muani e Woltemade fuori, ecco perché",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/31-152267079/novit_juve_l_altro_modulo_di_spalletti_uno_tra_kolo_muani_e_woltemade_fuori_ecco_perch/",
-      "estratto": "Il tecnico bianconero valuta un altro cambio di sistema con il ritorno di due esterni offensivi al fianco del francese e pensa a chi affidare la fascia sinistra",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1770,
-      "pubblicato": "2026-10-31T08:39:00+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "08e1610bbf",
@@ -1448,6 +1372,18 @@
       "squadra": "Man Utd"
     },
     {
+      "id": "1bef8ddd4d",
+      "titolo": "Lisandro Martínez è stato stupido, egoista e ha deluso il club: i tifosi del Manchester United avranno anche amato \"Il Macellaio\", ma perdere la testa è l'ennesimo passo verso un amaro addio a Old Trafford, scrive CHRIS WHEELER",
+      "url": "https://www.dailymail.com/sport/football/article-16249181/Lisandro-Martinez-stupid-selfish-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "CHRIS WHEELER: Ci aspettiamo di più da un difensore esperto e campione del mondo. Ci aspettiamo di più da un ventottenne i cui compagni di squadra nel corso della sua carriera hanno incluso Lionel Messi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -2480,
+      "pubblicato": "2026-11-01T02:00:56+00:00",
+      "squadra": "Man Utd"
+    },
+    {
       "id": "5fac0e454c",
       "titolo": "Bruno Fernandes trattiene le LACRIME dopo il ko del Manchester United contro il Chelsea: il capitano appare commosso, il rientro in squadra dopo le critiche pubbliche a Michael Carrick finisce con una sconfitta",
       "url": "https://www.dailymail.com/sport/football/article-16255259/Bruno-Fernandes-TEARS-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1455,20 +1391,8 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2480,
-      "pubblicato": "2026-10-31T23:55:29+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "2d5fdc141b",
-      "titolo": "Incubo Man United, riscatto Barça e spettacolo Klassiker: il punto sui campionati esteri",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/incubo-man-united-riscatto-barca-spettacolo-klassiker-punto-campionati-esteri-2289423",
-      "estratto": "Il sabato di calcio ha regalato tante partite degne di nota in giro per l'Europa.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
       "punteggio": -2680,
-      "pubblicato": "2026-10-31T23:37:02+00:00",
+      "pubblicato": "2026-10-31T23:55:29+00:00",
       "squadra": "Man Utd"
     },
     {

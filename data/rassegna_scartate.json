@@ -1,15 +1,33 @@
 {
-  "aggiornato": "2026-11-01T00:42:50.730058+00:00",
-  "totale": 53,
+  "aggiornato": "2026-11-01T06:54:28.692875+00:00",
+  "totale": 52,
   "articoli": [
     {
-      "id": "0943d9b12f",
-      "titolo": "Crystal Palace, Sage a rischio: \"Non mi arrenderò mai, dobbiamo lavorare sodo\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/crystal-palace-sage-rischio-non-arrendero-mai-dobbiamo-lavorare-sodo-2289367",
-      "estratto": "L'allenatore del Crystal Palace Pierre Sage, ai microfoni di Sky Sport, ha parlato così dopo il ko contro il Tottenham: \"Il cartellino rosso era normale, non c'è niente da dire.",
+      "id": "8e65bb107e",
+      "titolo": "La prima volta di Mezzotero: il 2008 della Samp a segno nel derby contro l'Entella",
+      "url": "https://www.tuttomercatoweb.com/serie-b/mezzotero-2008-sampdoria-segnato-derby-entella-2289446",
+      "estratto": "Assist dalla destra di Begic.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-10-31T23:26:46+00:00"
+      "pubblicato": "2026-11-01T06:49:00+00:00"
+    },
+    {
+      "id": "dc364719bf",
+      "titolo": "Andoni Iraola sta facendo rendere al massimo il temibile reparto offensivo del Liverpool, ha riportato Alexis Mac Allister ai suoi livelli migliori e sta valorizzando al meglio Florian Wirtz... è decisamente troppo presto per tagliarli fuori dalla lotta per il titolo, scrive LEWIS STEELE",
+      "url": "https://www.dailymail.com/sport/football/article-16249475/Andoni-Iraola-Liverpool-fearsome-frontline-Mac-Allister-Wirtz-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Liverpool è in corsa per il titolo? La domanda è stata molto dibattuta questa settimana, e le discussioni non faranno che intensificarsi se domani batteranno l'Arsenal ad Anfield.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T02:00:50+00:00"
+    },
+    {
+      "id": "c72cb44604",
+      "titolo": "Perché il 6-1 del Barcellona è sembrato \"vuoto\"",
+      "url": "https://www.espn.com/video/clip/_/id/50343157/why-barcelona-6-1-win-felt-hollow",
+      "estratto": "Samuel Marsden analizza la vittoria per 6-1 del Barcellona contro l'Alavés.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T01:58:19+00:00"
     },
     {
       "id": "2f956f584f",
@@ -21,15 +39,6 @@
       "pubblicato": "2026-10-31T23:14:35+00:00"
     },
     {
-      "id": "f46e852386",
-      "titolo": "Il Brighton batte il City e sogna il titolo? Verbruggen: \"Siamo alla nona, andiamo avanti\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/brighton-batte-city-sogna-titolo-verbruggen-siamo-nona-andiamo-avanti-2289278",
-      "estratto": "Il portiere del Brighton, Bart Verbruggen, ha parlato a Sky Sport dopo il successo per 0-1 ai danni del Manchester City: \"Sensazione incredibile.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T23:12:50+00:00"
-    },
-    {
       "id": "f97a4f72d1",
       "titolo": "Leboeuf: mi piace lo stile di gioco del Tottenham con De Zerbi",
       "url": "https://www.espn.com/video/clip/_/id/50341145/enjoy-tottenham-style-play-de-zerbi",
@@ -37,15 +46,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-31T23:05:10+00:00"
-    },
-    {
-      "id": "d8c2472630",
-      "titolo": "Un derby senza polemiche arbitrali: sull’unica svista di Guida interviene il VAR",
-      "url": "https://www.tuttomercatoweb.com/serie-a/derby-polemiche-arbitrali-sull-unica-svista-guida-interviene-var-2289435",
-      "estratto": "Il derby di Milano, vinto 3-1 dal Milan sull'Inter, è andato in archivio senza polemiche arbitrali e di questi tempi è una notizia.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T23:05:08+00:00"
     },
     {
       "id": "87dcb169e6",
@@ -469,15 +469,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-29T10:32:00+00:00"
-    },
-    {
-      "id": "84aedc7713",
-      "titolo": "Arbitro di calcio delle superiori riporta il collasso di un polmone e costole fratturate dopo una brutale aggressione da parte di un giocatore",
-      "url": "https://www.dailymail.com/sport/football/article-16247271/high-school-soccer-referee-attack-ohio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Un arbitro di calcio di un liceo è rimasto gravemente ferito dopo essere stato inspiegabilmente placcato da un giocatore durante una partita di playoff distrettuale maschile a Steubenville, in Ohio, martedì sera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T00:45:56+00:00"
     }
   ]
 }
