@@ -1,7 +1,88 @@
 {
-  "aggiornato": "2026-11-01T18:57:48.763578+00:00",
-  "totale": 51,
+  "aggiornato": "2026-11-01T22:36:29.205137+00:00",
+  "totale": 50,
   "articoli": [
+    {
+      "id": "31de801d61",
+      "titolo": "\"Il mio bellissimo ragazzo merita di essere ricordato con amore, non con odio\": l'appassionante appello della madre di Bradley Lowery contro il tifoso \"crudele\" del Coventry che ha usato la foto del defunto figlio per sfottere i sostenitori del Sunderland",
+      "url": "https://www.dailymail.com/sport/football/article-16256525/My-beautiful-boy-deserves-remembered-love-not-hate-Bradley-Lowerys-mum-issues-heartbreaking-statement-condemn-cruel-Coventry-fan-used-late-sons-photo-taunt-Sunderland-fans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il deprecabile comportamento si è verificato sabato durante la sfida di Premier League tra le due squadre, vinta dagli Sky Blues per 3-1.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T22:33:49+00:00"
+    },
+    {
+      "id": "3b3ea96ee7",
+      "titolo": "LaLiga, l'Athletic si prende il derby: gol dell'altro Williams e 2-1 alla Real Sociedad",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/laliga-athletic-prende-derby-gol-i-altro-i-williams-2-1-real-sociedad-2289759",
+      "estratto": "L'Athletic Bilbao ha sciorinato una prestazione di grande spessore nel derby basco contro la Real Sociedad.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T22:12:00+00:00"
+    },
+    {
+      "id": "181fe3170b",
+      "titolo": "Il derby basco è dell'Athletic. Siviglia ko, Valencia prima gioia",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/11/01-152296436/il_derby_basco_dell_athletic_siviglia_ko_valencia_prima_gioia/",
+      "estratto": "Undicesima giornata di Liga che si chiude con il successo del Bilbao sulla Real Sociedad. Si fermano gli andalusi, ossigeno per i levantini",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T22:04:41+00:00"
+    },
+    {
+      "id": "f7250c7de0",
+      "titolo": "On The Road: Da Hagi e Popescu a Danny Armstrong... il calcio a Bucarest ha storia e speranza",
+      "url": "https://www.dailymail.com/sport/football/article-16256579/On-Road-Hagi-Popescu-Danny-Armstrong-football-Bucharest-history-hope.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Lo Starbucks all'ingresso della Città Vecchia dimostra un punto familiare con la sua stessa presenza. L'Half-Time Bar urla incessantemente una verità moderna.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T21:37:29+00:00"
+    },
+    {
+      "id": "5ada4b93a6",
+      "titolo": "Il tecnico degli Hearts Wouter Vrancken afferma che la perdita di altri due giocatori per infortunio è costata cara nella sconfitta in semifinale",
+      "url": "https://www.dailymail.com/sport/football/article-16257007/Hearts-boss-Wouter-Vrancken-says-loss-two-players-injury-costly-semi-final-defeat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Wouter Vrancken ha sostenuto che gli Hearts non siano riusciti a fare i conti con il doppio infortunio di Tomas Magnusson e Calvin Miller, mentre svanivano le loro speranze di sollevare la Premier Sports Cup.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T20:31:53+00:00"
+    },
+    {
+      "id": "93ed0ebd32",
+      "titolo": "Dopo le affermazioni di Robbie Fowler sull'allunaggio definito 'una stronzata' e i dubbi di Joe Cole che dice di avere 'domande' per Neil Armstrong... chi c'è nella nostra top 11 dei complottisti del calcio?",
+      "url": "https://www.dailymail.com/sport/football/article-16249957/Robbie-Fowler-moon-landing-Joe-Cole-questions-Neil-Armstrong-ultimate-XI-football-conspiracy-theorists.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Daily Mail Sport stila qui l'undici definitivo dei complottisti del calcio dopo che Robbie Fowler ha ammesso di ritenere che l'allunaggio sia 'una stronzata'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T20:15:50+00:00"
+    },
+    {
+      "id": "6b0f578826",
+      "titolo": "Il tecnico del Falkirk John McGlynn promuove Scott Bain come titolare della Scozia dopo la \"partita della vita\" contro il Celtic",
+      "url": "https://www.dailymail.com/sport/football/article-16256835/Falkirk-boss-John-McGlynn-backs-Scott-Bain-Scotlands-No-1-game-life-against-Celtic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il manager del Falkirk John McGlynn ha speso parole di elogio per il portiere Scott Bain, sostenendo che possa imporsi come il numero uno della Scozia.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T19:59:12+00:00"
+    },
+    {
+      "id": "1333af21cb",
+      "titolo": "Derek McInnes dovrà fare di più che \"vincere giocando male\" se vorrà avere successo come allenatore dei Rangers",
+      "url": "https://www.dailymail.com/sport/football/article-16256633/Derek-McInnes-need-win-ugly-thrive-Rangers-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Negli ultimi dieci anni circa, diversi allenatori dei Rangers non sono mai riusciti a cogliere appieno i parametri più basilari e fondamentali di questo incarico.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T19:39:30+00:00"
+    },
+    {
+      "id": "d68f50f96d",
+      "titolo": "Nicol: L'Arsenal ha dimostrato cosa serve per essere campioni",
+      "url": "https://www.espn.com/video/clip/_/id/50349936/arsenal-showed-takes-champions",
+      "estratto": "Nicol: L'Arsenal ha dimostrato cosa serve per essere campioni",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T19:38:11+00:00"
+    },
     {
       "id": "43b58ea0d1",
       "titolo": "Hearts-Hibs 1-2: La prima vittoria di Reedijk è da ricordare, con un fiero Leith che rimonta per superare i rivali e volare in finale di Premier Sports Cup",
@@ -9,7 +90,16 @@
       "estratto": "Se devi far attendere i tuoi tifosi fino alla quinta partita sulla panchina per centrare il primo successo, tanto vale che sia memorabile.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-01T18:36:40+00:00"
+      "pubblicato": "2026-11-01T19:33:28+00:00"
+    },
+    {
+      "id": "9ef3d136eb",
+      "titolo": "Il centrocampista dei Rangers Nico Raskin è determinato a interrompere il suo digiuno di trofei vincendo la Premier Sports Cup",
+      "url": "https://www.dailymail.com/sport/football/article-16256571/Rangers-midfielder-Nico-Raskin-desperate-end-trophy-drought-lifting-Premier-Sports-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il centrocampista dei Rangers Nico Raskin insiste nel dire di essere affamato e desideroso di porre fine al suo digiuno di trofei personali dopo aver raggiunto la finale della Premier Sports Cup.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T19:23:32+00:00"
     },
     {
       "id": "39ee6602c0",
@@ -21,15 +111,6 @@
       "pubblicato": "2026-11-01T18:13:08+00:00"
     },
     {
-      "id": "fe5788ef1e",
-      "titolo": "Vlahovic illude, il Besiktas si fa rimontare: 2-2 con il Kasimpasa. Rammarico per Italiano",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/vlahovic-illude-besiktas-rimontare-2-2-kasimpasa-rammarico-italiano-2289668",
-      "estratto": "Alla 10ª giornata della Super Lig, il Besiktas di Vincenzo Italiano rallenta la rincorsa sul Galatasaray.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T18:04:00+00:00"
-    },
-    {
       "id": "0c522d4164",
       "titolo": "O'Neill ammette che i nuovi acquisti stanno faticando con le pressioni di essere un giocatore del Celtic dopo la deludente sconfitta di Falkirk",
       "url": "https://www.dailymail.com/sport/football/article-16256757/ONeill-Celtic-new-signings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -37,15 +118,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-01T16:21:11+00:00"
-    },
-    {
-      "id": "31de801d61",
-      "titolo": "\"Il mio bellissimo ragazzo merita di essere ricordato con amore, non con odio\": l'appassionante appello della madre di Bradley Lowery contro il tifoso \"crudele\" del Coventry che ha usato la foto del defunto figlio per sfottere i sostenitori del Sunderland",
-      "url": "https://www.dailymail.com/sport/football/article-16256525/My-beautiful-boy-deserves-remembered-love-not-hate-Bradley-Lowerys-mum-issues-heartbreaking-statement-condemn-cruel-Coventry-fan-used-late-sons-photo-taunt-Sunderland-fans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il deprecabile comportamento si è verificato sabato durante la sfida di Premier League tra le due squadre, vinta dagli Sky Blues per 3-1.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T16:16:48+00:00"
     },
     {
       "id": "a3c14e90af",
@@ -82,24 +154,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-01T14:34:39+00:00"
-    },
-    {
-      "id": "93ed0ebd32",
-      "titolo": "Dopo le affermazioni di Robbie Fowler sull'allunaggio definito 'una stronzata' e i dubbi di Joe Cole che dice di avere 'domande' per Neil Armstrong... chi c'è nella nostra top 11 dei complottisti del calcio?",
-      "url": "https://www.dailymail.com/sport/football/article-16249957/Robbie-Fowler-moon-landing-Joe-Cole-questions-Neil-Armstrong-ultimate-XI-football-conspiracy-theorists.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Daily Mail Sport stila qui l'undici definitivo dei complottisti del calcio dopo che Robbie Fowler ha ammesso di ritenere che l'allunaggio sia 'una stronzata'.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T13:58:30+00:00"
-    },
-    {
-      "id": "dc364719bf",
-      "titolo": "Andoni Iraola sta facendo rendere al massimo il temibile reparto offensivo del Liverpool, ha riportato Alexis Mac Allister ai suoi livelli migliori e sta valorizzando al meglio Florian Wirtz... è decisamente troppo presto per tagliarli fuori dalla lotta per il titolo, scrive LEWIS STEELE",
-      "url": "https://www.dailymail.com/sport/football/article-16249475/Andoni-Iraola-Liverpool-fearsome-frontline-Mac-Allister-Wirtz-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Liverpool è in corsa per il titolo? La domanda è stata molto dibattuta questa settimana, e le discussioni non faranno che intensificarsi se domani batteranno l'Arsenal ad Anfield.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T13:57:53+00:00"
     },
     {
       "id": "9a10990df2",
@@ -235,51 +289,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-31T17:27:32+00:00"
-    },
-    {
-      "id": "09b298e11d",
-      "titolo": "Continua la marcia del Bournemouth: un errore di James Trafford costa caro al Leeds",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879251",
-      "estratto": "Una clamorosa ingenuità dell'estremo difensore del Leeds James Trafford spiana la strada a un brillante AFC Bournemouth verso la vittoria per 2-0 in Premier League al Vitality Stadium.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T17:12:31+00:00"
-    },
-    {
-      "id": "e11be18e4a",
-      "titolo": "Julio Enciso salva l'Ipswich Town in casa dell'Hull City",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401878763",
-      "estratto": "L'Hull City difende l'imbattibilità interna ma non riesce a ritrovare il successo al termine di un pirotecnico 2-2 con l'Ipswich al MKM Stadium.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T17:10:59+00:00"
-    },
-    {
-      "id": "1c4770255c",
-      "titolo": "Il Coventry esce dalla zona retrocessione dopo la splendida vittoria sul Sunderland",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879247",
-      "estratto": "Il Coventry City si allontana dalle ultime posizioni grazie al successo per 3-1 sul Sunderland, un risultato che lascia i Black Cats ancorati all'ultimo posto della Premier League.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T17:09:34+00:00"
-    },
-    {
-      "id": "b952ce7422",
-      "titolo": "Il Brentford aumenta la pressione su Oliver Glasner con una vittoria per 2-0 sul Nottingham Forest",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879249",
-      "estratto": "Igor Thiago torna a esultare mentre il Nottingham Forest resta ancora a secco di gol nella sconfitta per 2-0 sul campo del Brentford.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T16:59:17+00:00"
-    },
-    {
-      "id": "4ba7b549c0",
-      "titolo": "Ogden: Il Man Utd è nella lotta per non retrocedere",
-      "url": "https://www.espn.com/video/clip/_/id/50336815/man-utd-relegation-battle",
-      "estratto": "Ogden: Il Man Utd è nella lotta per non retrocedere",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T16:23:47+00:00"
     },
     {
       "id": "516e6f64dd",
@@ -442,24 +451,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-30T02:00:46+00:00"
-    },
-    {
-      "id": "61ef22b3b4",
-      "titolo": "Dopo un'altra prestazione costellata di errori e con il recupero di Godfrey, è arrivato il momento per McInnes di togliere dalla linea di fuoco l'inaffidabile Fernandez?",
-      "url": "https://www.dailymail.com/sport/football/article-16250121/After-error-strewn-display-Godfrey-available-time-McInnes-took-flaky-Fernandez-firing-line.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Al termine di una serata caotica a Tynecastle, è stato emblematico che sia stato Olwethu Makhanya a togliersi dai guai i Rangers.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T21:10:25+00:00"
-    },
-    {
-      "id": "ffbd23f0f9",
-      "titolo": "I veri motivi per cui le cose sono andate storte per Kasper Hogh al Celtic... e perché l'attaccante danese sembra un pesce fuor d'acqua lontano dal Bodo/Glimt",
-      "url": "https://www.dailymail.com/sport/football/article-16250205/The-real-reasons-gone-wrong-Kasper-Hogh-Celtic-Danish-striker-looks-like-fish-water-away-Bodo-Glimt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Anche per uno che traspare positività ogni giorno come sembra fare lui, la seconda metà della partita tra Celtic e Dundee United deve essere stata difficile da digerire per Kasper Hogh.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T19:22:50+00:00"
     }
   ]
 }
