@@ -1,7 +1,88 @@
 {
-  "aggiornato": "2026-11-01T14:04:10.523144+00:00",
-  "totale": 50,
+  "aggiornato": "2026-11-01T18:57:48.763578+00:00",
+  "totale": 51,
   "articoli": [
+    {
+      "id": "43b58ea0d1",
+      "titolo": "Hearts-Hibs 1-2: La prima vittoria di Reedijk è da ricordare, con un fiero Leith che rimonta per superare i rivali e volare in finale di Premier Sports Cup",
+      "url": "https://www.dailymail.com/sport/football/article-16256923/Hearts-1-Hibs-2-Reedijks-victory-one-remember-spirited-Leith-men-battle-rivals-reach-Premier-Sports-Cup-final.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Se devi far attendere i tuoi tifosi fino alla quinta partita sulla panchina per centrare il primo successo, tanto vale che sia memorabile.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T18:36:40+00:00"
+    },
+    {
+      "id": "39ee6602c0",
+      "titolo": "Burley: Il Real Madrid è stato migliore senza Vinícius Jr.",
+      "url": "https://www.espn.com/video/clip/_/id/50349337/real-madrid-better-vinicius-jr",
+      "estratto": "Burley: Il Real Madrid è stato migliore senza Vinícius Jr.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T18:13:08+00:00"
+    },
+    {
+      "id": "fe5788ef1e",
+      "titolo": "Vlahovic illude, il Besiktas si fa rimontare: 2-2 con il Kasimpasa. Rammarico per Italiano",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/vlahovic-illude-besiktas-rimontare-2-2-kasimpasa-rammarico-italiano-2289668",
+      "estratto": "Alla 10ª giornata della Super Lig, il Besiktas di Vincenzo Italiano rallenta la rincorsa sul Galatasaray.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T18:04:00+00:00"
+    },
+    {
+      "id": "0c522d4164",
+      "titolo": "O'Neill ammette che i nuovi acquisti stanno faticando con le pressioni di essere un giocatore del Celtic dopo la deludente sconfitta di Falkirk",
+      "url": "https://www.dailymail.com/sport/football/article-16256757/ONeill-Celtic-new-signings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico del Celtic Martin O'Neill ha ammesso che i suoi rinforzi estivi devono dimostrare di avere il carattere e la qualità per reggere la pressione di giocare per il club.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T16:21:11+00:00"
+    },
+    {
+      "id": "31de801d61",
+      "titolo": "\"Il mio bellissimo ragazzo merita di essere ricordato con amore, non con odio\": l'appassionante appello della madre di Bradley Lowery contro il tifoso \"crudele\" del Coventry che ha usato la foto del defunto figlio per sfottere i sostenitori del Sunderland",
+      "url": "https://www.dailymail.com/sport/football/article-16256525/My-beautiful-boy-deserves-remembered-love-not-hate-Bradley-Lowerys-mum-issues-heartbreaking-statement-condemn-cruel-Coventry-fan-used-late-sons-photo-taunt-Sunderland-fans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il deprecabile comportamento si è verificato sabato durante la sfida di Premier League tra le due squadre, vinta dagli Sky Blues per 3-1.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T16:16:48+00:00"
+    },
+    {
+      "id": "a3c14e90af",
+      "titolo": "Caotici fuori dal campo, disastrosi in campo: la pesante sconfitta di Falkirk lascia O'Neill su un filo del rasoio",
+      "url": "https://www.dailymail.com/sport/football/article-16256721/Shambolic-Celtic-Falkirk-ONeill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ci è voluto buona mezz'ora ai tifosi del Celtic domenica pomeriggio per intonare il loro ormai tradizionale coro \"Sack the Board, Sack the Board\".",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T15:58:16+00:00"
+    },
+    {
+      "id": "d3c4b64e62",
+      "titolo": "Falkirk-Celtic 2-0: La pressione aumenta su Martin O'Neill mentre i giganti scozzesi subiscono la sesta sconfitta in 10 partite, con i padroni di casa che festeggiano il primo successo contro i Bhoys dal 2007",
+      "url": "https://www.dailymail.com/sport/football/article-16256689/ONeill-Celtic-Falkirk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Celtic ha pagato caro un avvio pigro e la superba prestazione dell'ex portiere Scott Bain, uscendo sconfitto per 2-0 dal campo del Falkirk.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T15:55:15+00:00"
+    },
+    {
+      "id": "12ab6511b2",
+      "titolo": "I dubbi su Roberto De Zerbi si erano addensati ma ora non più, scrive RIATH AL-SAMARRAI, mentre i folli atti di autolesionismo del Crystal Palace si rivelano fatali nella sconfitta per 2-0",
+      "url": "https://www.dailymail.com/sport/football/article-16249195/Doubts-gathering-Roberto-Zerbi-not-writes-RIATH-AL-SAMARRAI-Tottenham-brushed-aside-Crystal-Palace-2-0.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Per la prima volta in 616 giorni, il Tottenham ha vinto tre partite di fila. Se ciò dimostra il valore di Roberto De Zerbi rispetto ad almeno due dei suoi predecessori, allora vorrà probabilmente riservare un ringraziamento all'aiuto del Crystal Pala",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T15:07:37+00:00"
+    },
+    {
+      "id": "2f956f584f",
+      "titolo": "Perché non si possono biasimare i dirigenti dell'Aston Villa per aver risposto a Jamie Carragher, mentre il Fulham non fa sconti all'opinionista e strappa un punto meritato, scrive TOM COLLOMOSSE",
+      "url": "https://www.dailymail.com/sport/football/article-16249197/Aston-Villa-Fulham-harder-opponents-Jamie-Carragher-London-fought-earn-1-1-draw-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'Aston Villa avrà anche ricevuto le scuse di Jamie Carragher, ma gli uomini di Unai Emery hanno trovato nel Fulham un avversario ben più ostico in una serata difficile al Villa Park.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-01T14:34:39+00:00"
+    },
     {
       "id": "93ed0ebd32",
       "titolo": "Dopo le affermazioni di Robbie Fowler sull'allunaggio definito 'una stronzata' e i dubbi di Joe Cole che dice di avere 'domande' per Neil Armstrong... chi c'è nella nostra top 11 dei complottisti del calcio?",
@@ -46,15 +127,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-01T01:58:19+00:00"
-    },
-    {
-      "id": "2f956f584f",
-      "titolo": "Perché non si possono biasimare i dirigenti dell'Aston Villa per aver risposto a Jamie Carragher, mentre il Fulham non fa sconti all'opinionista e strappa un punto meritato, scrive TOM COLLOMOSSE",
-      "url": "https://www.dailymail.com/sport/football/article-16249197/Aston-Villa-Fulham-harder-opponents-Jamie-Carragher-London-fought-earn-1-1-draw-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'Aston Villa avrà anche ricevuto le scuse di Jamie Carragher, ma gli uomini di Unai Emery hanno trovato nel Fulham un avversario ben più ostico in una serata difficile al Villa Park.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T23:14:35+00:00"
     },
     {
       "id": "f97a4f72d1",
@@ -111,15 +183,6 @@
       "pubblicato": "2026-10-31T22:32:33+00:00"
     },
     {
-      "id": "41a079b662",
-      "titolo": "Ligue 1, il Troyes si impone contro Le Mans ed esce dalla zona retrocessione",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/10/31-152289060/ligue_1_il_troyes_si_impone_contro_le_mans_ed_esce_dalla_zona_retrocessione/",
-      "estratto": "Decidono le reti di Mouhamed Diop e Boura",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T21:45:24+00:00"
-    },
-    {
       "id": "b80f58e153",
       "titolo": "Il tecnico del Crystal Palace Pierre Sage nell'occhio del ciclone: \"Non mi arrenderò mai\"",
       "url": "https://www.espn.com/soccer/story/_/id/50340099/under-fire-crystal-palace-boss-pierre-sage-never-give-up",
@@ -145,15 +208,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-31T20:56:55+00:00"
-    },
-    {
-      "id": "12ab6511b2",
-      "titolo": "I dubbi su Roberto De Zerbi si erano addensati ma ora non più, scrive RIATH AL-SAMARRAI, mentre i folli atti di autolesionismo del Crystal Palace si rivelano fatali nella sconfitta per 2-0",
-      "url": "https://www.dailymail.com/sport/football/article-16249195/Doubts-gathering-Roberto-Zerbi-not-writes-RIATH-AL-SAMARRAI-Tottenham-brushed-aside-Crystal-Palace-2-0.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Per la prima volta in 616 giorni, il Tottenham ha vinto tre partite di fila. Se ciò dimostra il valore di Roberto De Zerbi rispetto ad almeno due dei suoi predecessori, allora vorrà probabilmente riservare un ringraziamento all'aiuto del Crystal Pala",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T20:54:26+00:00"
     },
     {
       "id": "4da29b031f",
@@ -226,15 +280,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-10-31T16:23:47+00:00"
-    },
-    {
-      "id": "a08562c888",
-      "titolo": "Nicol attribuisce il cartellino rosso di Martínez a una 'scelta orribile' del difensore",
-      "url": "https://www.espn.com/video/clip/_/id/50336290/nicol-blames-martinez-red-card-defender-horrible-decision-making",
-      "estratto": "Nicol attribuisce il cartellino rosso di Martínez a una 'scelta orribile' del difensore",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T15:07:39+00:00"
     },
     {
       "id": "516e6f64dd",
@@ -415,42 +460,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-29T19:22:50+00:00"
-    },
-    {
-      "id": "17987fc11e",
-      "titolo": "McInnes sostiene che Fernandez sia diventato un bersaglio facile per i critici e difende il difensore nel mirino",
-      "url": "https://www.dailymail.com/sport/football/article-16250129/McInnes-claims-Fernandez-easy-target-critics-backs-fire-defender.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico dei Rangers Derek McInnes ha lanciato una difesa appassionata di Manny Fernandez, sostenendo che il difensore sia diventato un bersaglio facile per le critiche.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T18:47:29+00:00"
-    },
-    {
-      "id": "8a2a9f04b4",
-      "titolo": "I compagni di squadra del Celtic devono fare di più per aiutare Kasper Hogh, dice il capitano Callum McGregor",
-      "url": "https://www.dailymail.com/sport/football/article-16250241/Celtic-team-mates-step-help-Kasper-Hogh-says-skipper-Callum-McGregor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Callum McGregor ritiene che spetti ai compagni di squadra di Kasper Hogh proteggerlo offrendogli le occasioni che possono aiutarlo a porre fine al suo digiuno di gol.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T18:16:41+00:00"
-    },
-    {
-      "id": "4a6bb800e0",
-      "titolo": "Il Derry City RISOLVE il contratto di James McClean: finisce il ritorno da incubo del calciatore della protesta dei papaveri nel club della sua infanzia tra le accuse di \"inabilità permanente\"",
-      "url": "https://www.dailymail.com/sport/football/article-16246115/Derry-City-James-McCleans-contract-terminated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La brutta disputa tra James McClean e il Derry City è finalmente giunta al termine dopo la risoluzione del suo contratto. È una triste fine per quello che doveva essere il ritorno a casa da favola.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T14:26:03+00:00"
-    },
-    {
-      "id": "56a4389a5b",
-      "titolo": "Jack Grealish 'assoluto signore', elogiato dai tifosi dell'Everton dopo una donazione di 10.000 sterline a un padre di tre figli di 35 anni in lotta contro il cancro",
-      "url": "https://www.dailymail.com/sport/football/article-16249279/Absolute-gent-Jack-Grealish-Everton-donating-10K-father-cancer-battle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Jack Grealish è stato elogiato dai tifosi dopo aver donato 10.000 sterline alla campagna di raccolta fondi promossa per un tifoso dell'Everton affetto da un cancro aggressivo ai reni.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-29T14:05:13+00:00"
     }
   ]
 }
