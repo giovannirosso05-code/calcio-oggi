@@ -1,7 +1,142 @@
 {
-  "aggiornato": "2026-11-02T08:54:06.548169+00:00",
-  "totale": 47,
+  "aggiornato": "2026-11-02T19:12:34.170655+00:00",
+  "totale": 48,
   "articoli": [
+    {
+      "id": "9a2dc3e23a",
+      "titolo": "L'ex stella del Tottenham Hotspur e del Newcastle United Sebastien Bassong multato per aver evitato una corsa in metropolitana da 7 sterline usando la travelcard di qualcun altro",
+      "url": "https://www.dailymail.com/sport/football/article-16259537/Ex-Tottenham-Hotspur-Newcastle-United-star-Sebastien-Bassong-fined-dodging-7-Tube-fare-using-expired-travelcard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il francese, 40 anni, è stato fermato da un addetto del Transport for London (TfL) dopo essere stato visto oltrepassare i tornelli di St Paul's station a fianco di un amico nel mese di maggio.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T18:47:20+00:00"
+    },
+    {
+      "id": "b2b10d582a",
+      "titolo": "Noni Madueke: Alexis Mac Allister ha cercato di 'provocarmi' per farmi espellere",
+      "url": "https://www.espn.com/soccer/story/_/id/50358475/noni-madueke-alexis-mac-allister-liverpool-arsenal-red-card-headbutt-vara-premier-league",
+      "estratto": "Noni Madueke ha dichiarato che Alexis Mac Allister ha cercato di \"provocarlo\" per fargli rimediare un cartellino rosso durante la vittoria dell'Arsenal per 1-0 contro il Liverpool ad Anfield.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T18:11:23+00:00"
+    },
+    {
+      "id": "9edebaf6d9",
+      "titolo": "Michael Carrick non ha \"alcuna preoccupazione\" sull'impegno di Lisandro Martínez",
+      "url": "https://www.espn.com/soccer/story/_/id/50358373/michael-carrick-no-concerns-lisandro-martinez-commitment-premier-league",
+      "estratto": "Michael Carrick ha insistito nel dire di non avere \"alcuna preoccupazione\" riguardo all'impegno di Lisandro Martinez nei confronti del Manchester United.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T18:05:50+00:00"
+    },
+    {
+      "id": "12eb15696d",
+      "titolo": "La grande scommessa di Oliver Glasner al Nottingham Forest: la squadra che corre nei campi come punizione, perché pensa che i giocatori non siano abbastanza seri e come l'allontanamento delle stelle potrebbe costargli caro",
+      "url": "https://www.dailymail.com/sport/football/article-16258665/Oliver-Glasner-Nottingham-Forest-gamble-punishment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "TOM COLLOMOSSE: Se la gestione calcistica fosse un gioco d'azzardo, Oliver Glasner ha appena fatto l'equivalente di entrare in uno dei migliori casinò di Nottingham e puntare tutto sul rosso.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T17:55:44+00:00"
+    },
+    {
+      "id": "a23e5588cb",
+      "titolo": "La cittadina di Clydebank sa bene cosa siano trionfi e traumi. Ora un po' di spirito del Blitz sta aiutando la sua fiera squadra di calcio a tornare alla ribalta",
+      "url": "https://www.dailymail.com/sport/football/article-16258737/The-town-Clydebank-knows-triumphs-traumas-little-Blitz-spirit-helping-defiant-football-team-rise-prominence-again.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Cinque foto incorniciate appendono alle pareti della saletta di Holm Park: la gru Titan, la fabbrica di macchine per cucire Singer e Kilbowie Park, oltre alle strade cosparse di macerie del Blitz e il pub Seven Seas.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T17:48:02+00:00"
+    },
+    {
+      "id": "f7250c7de0",
+      "titolo": "On The Road: Da Hagi e Popescu a Danny Armstrong... il calcio a Bucarest ha storia e speranza",
+      "url": "https://www.dailymail.com/sport/football/article-16256579/On-Road-Hagi-Popescu-Danny-Armstrong-football-Bucharest-history-hope.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Lo Starbucks all'ingresso della Città Vecchia dimostra un punto familiare con la sua stessa presenza. L'Half-Time Bar urla incessantemente una verità moderna.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T17:42:08+00:00"
+    },
+    {
+      "id": "b34eb64262",
+      "titolo": "L'Aston Villa ritira la minaccia di azione legale contro Jamie Carragher dopo le scuse dell'opinionista di Sky Sports per aver detto ai tifosi di 'chiudere il cazzo'",
+      "url": "https://www.dailymail.com/sport/football/article-16258733/Aston-Villa-drop-legal-action-threat-Jamie-Carragher.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Venerdì l'Aston Villa ha pubblicato sui canali del club un comunicato a nome del co-proprietario Nassef Sawiris, in cui prometteva di avviare un'azione legale contro Carragher per \"insulti inaccettabili\".",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T17:30:41+00:00"
+    },
+    {
+      "id": "ba0a12e189",
+      "titolo": "Carrick: 'Nessuna preoccupazione' sull'impegno di Lisandro Martinez",
+      "url": "https://www.espn.com/video/clip/_/id/50358531/no-concerns-lisandro-martinez-commitment",
+      "estratto": "Carrick: 'Nessuna preoccupazione' sull'impegno di Lisandro Martinez",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-02T15:00:06+00:00"
+    },
+    {
+      "id": "3df364ff72",
+      "titolo": "Dietro le difficoltà di Jack Grealish: perché l'Everton aveva dei dubbi già LA scorsa stagione, come alcuni seguaci ne stanno approfittando, i problemi con il suo atteggiamento verso il calcio e cosa dovrebbe fare adesso, scrive IAN HERBERT",
+      "url": "https://www.dailymail.com/sport/football/article-16250953/Inside-Jack-Grealishs-struggles-Everton-concerns-season-acolytes-taking-advantage-issues-attitude-football-writes-IAN-HERBERT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Grealish ha dato forfait per malattia in vista della partita dello scorso fine settimana in casa dell'Arsenal, poco dopo i Pride of Britain Awards, e ha violato il codice disciplinare dell'Everton a causa di un'assenza non autorizzata.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T14:57:01+00:00"
+    },
+    {
+      "id": "a80b80dc1b",
+      "titolo": "Karl Bushby: l'Hull City accoglie a casa l'avventuriero dopo un viaggio di 28 anni partito dal Cile",
+      "url": "https://www.espn.com/soccer/story/_/id/50356621/hull-city-premier-league-karl-bushby-adventurer-28-year-walk-chile",
+      "estratto": "L'avventuriero britannico Karl Bushby ha completato lunedì il suo viaggio durato 28 anni dal Sud America a Hull ed è stato sostenuto dal club di Premier League.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T14:10:45+00:00"
+    },
+    {
+      "id": "5454e54faf",
+      "titolo": "Archie Gray: il viaggio a Marbella ha 'aiutato' l'affiatamento nel Tottenham",
+      "url": "https://www.espn.com/soccer/story/_/id/50358038/archie-gray-marbella-trip-helped-tottenham-camaraderie",
+      "estratto": "Archie Gray era distrutto per essere dovuto uscire durante la vittoria del Tottenham contro il Crystal Palace, ma felice di mettere la squadra al primo posto e aiutare i suoi \"fratelli\" a conquistare altri tre punti.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T13:43:06+00:00"
+    },
+    {
+      "id": "447a3df706",
+      "titolo": "Declan Rice in cima alla classifica degli assist in Premier League - senza i calci piazzati",
+      "url": "https://www.espn.com/soccer/story/_/id/50356977/declan-rice-arsenal-most-assists-premier-league-stats-no-set-pieces",
+      "estratto": "Declan Rice è balzato in cima alla classifica degli assist in Premier League dopo aver servito il passaggio vincente per il gol della vittoria dell'Arsenal contro il Liverpool.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T13:00:40+00:00"
+    },
+    {
+      "id": "b2c5782ab7",
+      "titolo": "James Milner corre la Maratona di New York in tre ore e nove minuti - a pochi mesi dal ritiro dal calcio a 40 anni - dopo aver usato un programma di allenamento basato sull'IA",
+      "url": "https://www.dailymail.com/sport/football/article-16258437/James-Milner-runs-New-York-Marathon-three-hours-nine-minutes-just-months-retiring-football-40-using-AI-training-programme.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "James Milner si è ritirato da calciatore professionista da pochi mesi, ma ha dimostrato di essere ancora un atleta d'élite avendo partecipato alla sua prima maratona nel fine settimana.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T12:49:10+00:00"
+    },
+    {
+      "id": "8351e26caf",
+      "titolo": "L'ex allenatore della Premier League Pepe Mel, 63 anni, in via di recupero in terapia intensiva dopo aver avuto un ictus mentre gli ex club offrono supporto",
+      "url": "https://www.dailymail.com/sport/football/article-16258389/Former-Premier-League-manager-63-recovering-intensive-care-suffering-stroke.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'allenatore spagnolo aveva assunto la guida del club nel gennaio 2014 quando si trovavano a quattro punti dalla zona retrocessione della Premier League, con i Baggies che avevano esonerato Steve Clarke il mese successivo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T12:45:38+00:00"
+    },
+    {
+      "id": "197dd25947",
+      "titolo": "Regis Le Bris mantiene la fiducia del Sunderland nonostante il brutto momento - report",
+      "url": "https://www.espn.com/soccer/story/_/id/50357670/regis-le-bris-retains-sunderland-confidence-bad-run-report",
+      "estratto": "Il tecnico del Sunderland Regis Le Bris gode del pieno sostegno del consiglio di amministrazione del club e rimane centrale nei loro piani, a quanto risulta alla Press Association.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T12:38:23+00:00"
+    },
     {
       "id": "b0baecad9a",
       "titolo": "I mezzucci di Gabriel e Mac Allister non sono solo imbarazzanti, sono malevoli e perfidi... i giocatori devono rischiare il cartellino rosso per simili disonestà e, se non basta, sanzioni con la prova tv, scrive IAN LADYMAN",
@@ -9,7 +144,16 @@
       "estratto": "IAN LADYMAN: Ecco un consiglio per i vertici dell'International Football Association Board. Andate a metter becco dove ce n'è davvero bisogno. Fatelo in modo incisivo.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-01T23:42:43+00:00"
+      "pubblicato": "2026-11-02T11:37:15+00:00"
+    },
+    {
+      "id": "b9c49da8bf",
+      "titolo": "Voci e notizie di mercato: il Real Madrid crede che Gabriel del Man Utd firmerà per loro",
+      "url": "https://www.espn.com/soccer/story/_/id/50356555/transfer-rumors-news-real-madrid-manchester-united-jj-gabriel",
+      "estratto": "Il prospetto del Manchester United JJ Gabriel si sta avvicinando al trasferimento al Real Madrid: Transfer Talk ha gli ultimi aggiornamenti.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-02T09:00:16+00:00"
     },
     {
       "id": "31de801d61",
@@ -19,24 +163,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-01T23:17:53+00:00"
-    },
-    {
-      "id": "181fe3170b",
-      "titolo": "Il derby basco è dell'Athletic. Siviglia ko, Valencia prima gioia",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/11/01-152296436/il_derby_basco_dell_athletic_siviglia_ko_valencia_prima_gioia/",
-      "estratto": "Undicesima giornata di Liga che si chiude con il successo del Bilbao sulla Real Sociedad. Si fermano gli andalusi, ossigeno per i levantini",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T22:04:41+00:00"
-    },
-    {
-      "id": "f7250c7de0",
-      "titolo": "On The Road: Da Hagi e Popescu a Danny Armstrong... il calcio a Bucarest ha storia e speranza",
-      "url": "https://www.dailymail.com/sport/football/article-16256579/On-Road-Hagi-Popescu-Danny-Armstrong-football-Bucharest-history-hope.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Lo Starbucks all'ingresso della Città Vecchia dimostra un punto familiare con la sua stessa presenza. L'Half-Time Bar urla incessantemente una verità moderna.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T21:37:29+00:00"
     },
     {
       "id": "5ada4b93a6",
@@ -174,15 +300,6 @@
       "pubblicato": "2026-11-01T01:58:19+00:00"
     },
     {
-      "id": "f97a4f72d1",
-      "titolo": "Leboeuf: mi piace lo stile di gioco del Tottenham con De Zerbi",
-      "url": "https://www.espn.com/video/clip/_/id/50341145/enjoy-tottenham-style-play-de-zerbi",
-      "estratto": "Leboeuf: mi piace lo stile di gioco del Tottenham con De Zerbi",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T23:05:10+00:00"
-    },
-    {
       "id": "87dcb169e6",
       "titolo": "Nicol: Yamal si innervosisce troppo in campo con il Barcellona",
       "url": "https://www.espn.com/video/clip/_/id/50341133/yamal-gets-too-frustrated-pitch-barcelona",
@@ -228,15 +345,6 @@
       "pubblicato": "2026-10-31T22:32:33+00:00"
     },
     {
-      "id": "b80f58e153",
-      "titolo": "Il tecnico del Crystal Palace Pierre Sage nell'occhio del ciclone: \"Non mi arrenderò mai\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50340099/under-fire-crystal-palace-boss-pierre-sage-never-give-up",
-      "estratto": "Il tecnico del Crystal Palace Pierre Sage, sotto pressione, ha giurato di non arrendersi mai e di essere il primo in campo d'allenamento lunedì, nonostante la sconfitta per 2-0 di sabato in casa del Tottenham.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T21:44:00+00:00"
-    },
-    {
       "id": "4530647def",
       "titolo": "Stephen Robinson orgoglioso dei suoi lottatori, ma l'emergenza infortuni si aggrava",
       "url": "https://www.dailymail.com/sport/football/article-16255567/Stephen-Robinson-proud-battling-Dons-injury-crisis-deepens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -253,15 +361,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-31T20:56:55+00:00"
-    },
-    {
-      "id": "4da29b031f",
-      "titolo": "Oliver Glasner: il Nottingham Forest ha bisogno di grandi cambiamenti o \"arriverà il sesto allenatore\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50338790/oliver-glasner-nottingham-forest-need-major-changes-sixth-manager-come-in",
-      "estratto": "Un furioso Oliver Glasner ha dichiarato che potrebbe lasciare il Nottingham Forest a meno che il club non realizzi profondi cambiamenti dopo l'ennesima sconfitta.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T19:55:53+00:00"
     },
     {
       "id": "3a09b9876f",
@@ -334,96 +433,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-10-30T19:19:12+00:00"
-    },
-    {
-      "id": "fd32a6b9dd",
-      "titolo": "Il tecnico dei Dons sotto pressione Stephen Robinson non cerca alcuna rassicurazione sul suo futuro da parte dei vertici del club",
-      "url": "https://www.dailymail.com/sport/football/article-16253271/Aberdeen-Robinson-Rangers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'allenatore dell'Aberdeen Stephen Robinson insiste di non aver cercato alcuna garanzia sulla sua posizione dal presidente Dave Cormack, nonostante una pessima serie di risultati.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T18:02:40+00:00"
-    },
-    {
-      "id": "95f8c2a3f1",
-      "titolo": "Un trionfo in semifinale di coppa contro i rivali dell'Hearts sarebbe il momento ideale per cogliere la prima vittoria da allenatore dell'Hibs, ammette Marink Reedijk",
-      "url": "https://www.dailymail.com/sport/football/article-16253353/Cup-semi-final-triumph-rivals-Hearts-ideal-moment-pick-win-Hibs-boss-admits-Marink-Reedijk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Marink Reedijk pregusta una \"partita speciale\" mentre punta a dare tardivamente una svolta alla sua gestione all'Hibernian con una vittoria contro i cugini dell'Hearts, attualmente nelle zone alte della classifica.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T18:01:48+00:00"
-    },
-    {
-      "id": "982893d859",
-      "titolo": "I Riccarton Three dell'Hearts - 20 anni dopo: La ribellione nello spogliatoio che ha svelato la follia della gestione di Vladimir Romanov a Tynecastle e ha cambiato la traiettoria del club per generazioni",
-      "url": "https://www.dailymail.com/sport/football/article-16252659/hearts-riccarton-three-steven-pressley-paul-hartley-craig-gordon-vladimir-romanov.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Solo chi avesse vissuto in una grotta per un anno o poco più avrebbe potuto credere che tutto andasse per il meglio nel mondo dell'Hearts quando colsero un memorabile successo contro l'Hibs ad Hampden Park 20 anni fa.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T17:51:38+00:00"
-    },
-    {
-      "id": "cfb73971a5",
-      "titolo": "Lo spogliatoio in stile giungla! Un club di calcio \"woke\" costringerà i giocatori a cambiarsi in mezzo a 60 PIANTE DA APPARTAMENTO \"per ridurre lo stress\" - dopo aver bandito i pasticci di carne e reso vegano il kit di gioco",
-      "url": "https://www.dailymail.com/sport/football/article-16252677/football-club-houseplants-vegan-pitch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Lo spogliatoio dei Forest Green Rovers ha subito una trasformazione drastica ed è stato ridotto a sembrare più il set di I'm A Celebrity... Get Me Out of Here!",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T15:44:06+00:00"
-    },
-    {
-      "id": "8278cfd890",
-      "titolo": "Jack Grealish ha deluso ANCORA i suoi compagni: quest'ultimo episodio autolesionista dimostra che gli mancano lo spirito di sacrificio e l'umiltà tanto desiderati da David Moyes, e la squadra sta meglio senza di lui, scrive LEWIS STEELE",
-      "url": "https://www.dailymail.com/sport/football/article-16248539/Axed-Jack-Grealish-Everton-Newcastle-Carabao-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "LEWIS STEELE ALL'HILL DICKINSON STADIUM: La notizia del suo ennesimo atto di indisciplina ha dominato ogni conversazione sul lungomare del Merseyside, ma l'assenza di Grealish non si è fatta sentire.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T13:36:38+00:00"
-    },
-    {
-      "id": "91653d9c0f",
-      "titolo": "Inghilterra Under 15 nel caos ai Mondiali: gli avversari SI RIFIUTANO di affrontare un rigore all'ultimo minuto, lasciando la porta sguarnita, prima che i Young Lions debbano intervenire per difendere l'arbitro",
-      "url": "https://www.dailymail.com/sport/football/article-16251893/england-15-world-cup-penalty-chaos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La campagna della Nazionale inglese Under-15 alla Coppa del Mondo è nuovamente precipitata nel caos dopo la vittoria contro la Bolivia grazie a un rigore calciato all'ultimo secondo senza opposizione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T13:07:27+00:00"
-    },
-    {
-      "id": "6ba7c11b5b",
-      "titolo": "Global Power Ranking: la classifica delle prime 20 squadre di calcio al mondo!",
-      "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
-      "estratto": "Se guardiamo oltre la Premier League e oltre le squadre qualificate per la Champions League, quali sono le migliori squadre al mondo?",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T12:06:05+00:00"
-    },
-    {
-      "id": "07f7fcf67b",
-      "titolo": "La stella della Premier League Thierno Barry e la compagna subiscono un furto \"devastante e violendo\" in casa mentre lui gioca con l'Everton, un mese dopo aver pubblicato un video con la collezione di borse firmate nella cabina armadio",
-      "url": "https://www.dailymail.com/sport/football/article-16251739/Thierno-Barry-burglary-girlfriend-Everton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Thierno Barry e la sua compagna sono le ultime vittime di furti in appartamento mirati ai calciatori, avvenuti giovedì notte mentre lui era impegnato con l'Everton nella vittoria di Carabao Cup contro il Newcastle.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T10:38:42+00:00"
-    },
-    {
-      "id": "3df364ff72",
-      "titolo": "Dietro le difficoltà di Jack Grealish: perché l'Everton aveva dei dubbi già LA scorsa stagione, come alcuni seguaci ne stanno approfittando, i problemi con il suo atteggiamento verso il calcio e cosa dovrebbe fare adesso, scrive IAN HERBERT",
-      "url": "https://www.dailymail.com/sport/football/article-16250953/Inside-Jack-Grealishs-struggles-Everton-concerns-season-acolytes-taking-advantage-issues-attitude-football-writes-IAN-HERBERT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Grealish ha dato forfait per malattia in vista della partita dello scorso fine settimana in casa dell'Arsenal, poco dopo i Pride of Britain Awards, e ha violato il codice disciplinare dell'Everton a causa di un'assenza non autorizzata.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T10:26:42+00:00"
-    },
-    {
-      "id": "7b541e65a6",
-      "titolo": "L'Inghilterra Under 15 LASCIA IL CAMPO durante la sfida Mondiale con l'Irlanda dopo che un giovane ha accusato un avversario di averlo chiamato 'scimmia' in un presunto insulto razzista",
-      "url": "https://www.dailymail.com/sport/football/article-16239485/england-ireland-world-cup-racism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il CT dei Young Lions Matt Thorpe ha richiamato i suoi giocatori al 40° minuto dopo che uno di loro aveva sostenuto che un avversario lo aveva chiamato 'scimmia' pochi istanti dopo un alterco.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-30T09:51:13+00:00"
     }
   ]
 }
