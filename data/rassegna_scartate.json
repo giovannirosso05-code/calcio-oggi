@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-11-03T22:02:34.115962+00:00",
-  "totale": 56,
+  "aggiornato": "2026-11-04T02:21:11.235180+00:00",
+  "totale": 49,
   "articoli": [
+    {
+      "id": "65d054058d",
+      "titolo": "Moreno: il Manchester United merita credito per la reazione nel secondo tempo",
+      "url": "https://www.espn.com/video/clip/_/id/50373450/man-united-deserve-credit-their-second-half-response",
+      "estratto": "Moreno: il Manchester United merita credito per la reazione nel secondo tempo",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-03T23:48:42+00:00"
+    },
+    {
+      "id": "ae0d486a02",
+      "titolo": "Chivu dopo il tris al Feyenoord: \"Abbiamo capito cosa non andava, ora serve una cosa\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/inter/2026/11/03-152358684/chivu_dopo_il_tris_al_feyenoord_abbiamo_capito_cosa_non_andava_ora_serve_una_cosa/",
+      "estratto": "I nerazzurri conquistano una vittoria pesante a Rotterdam grazie alle reti di Bisseck, Pio Esposito e Zielinski. Il tecnico soddisfatto della prestazione",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-03T22:39:48+00:00"
+    },
     {
       "id": "585923ae83",
       "titolo": "Oxlade-Chamberlain non è il primo grande nome a fallire in Scozia... Cinque superstar che non hanno lasciato il segno nella massima serie scozzese",
@@ -57,15 +75,6 @@
       "pubblicato": "2026-11-03T19:51:40+00:00"
     },
     {
-      "id": "2c96862530",
-      "titolo": "Maxime Estève del RB Leipzig e il suo piano per fermare il 'miglior attaccante' Erling Haaland",
-      "url": "https://www.espn.com/soccer/story/_/id/50367841/maxime-esteve-erling-haaland-etihad-best-striker",
-      "estratto": "Maxime Estève del RB Leipzig ha svelato come intende provare a fermare Erling Haaland e a cancellare i ricordi di una dolorosa sconfitta contro il Man City ai tempi del Burnley.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-11-03T18:35:00+00:00"
-    },
-    {
       "id": "9c5f524514",
       "titolo": "'I giocatori darebbero la vita per lui': come Scott Parker rimetterà a posto il West Ham - la mano tesa di Mark Noble, il motivo per cui gli addetti ai lavori credono che possa abbandonare lo stile difensivo... e dove tutto è andato storto per il 'distaccato e cupo' Nuno Espirito Santo",
       "url": "https://www.dailymail.com/sport/football/article-16261611/West-Ham-Scott-Parker-Nuno-Noble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -91,15 +100,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-03T16:47:46+00:00"
-    },
-    {
-      "id": "423ee28794",
-      "titolo": "Il Crystal Palace presenta ricorso contro il rosso a Jean-Philippe Mateta nella sconfitta contro il Tottenham, con la stella francese a rischio squalifica per tre giornate",
-      "url": "https://www.dailymail.com/sport/football/article-16262611/Crystal-Palace-launch-appeal-against-Jean-Philippe-Matetas-red-card-Tottenham-defeat-France-star-facing-three-match-ban.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "BOBBY MANZI: A Mateta è stato mostrato un cartellino rosso diretto per un intervento in ritardo su Micky van de Ven al 13° minuto della sconfitta per 2-0 contro gli Spurs, colpendo il tendine d'achille del difensore centrale con i tacchetti alti.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T16:06:22+00:00"
     },
     {
       "id": "4dd3e5f1da",
@@ -253,15 +253,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-02T17:30:41+00:00"
-    },
-    {
-      "id": "ba0a12e189",
-      "titolo": "Carrick: 'Nessuna preoccupazione' sull'impegno di Lisandro Martinez",
-      "url": "https://www.espn.com/video/clip/_/id/50358531/no-concerns-lisandro-martinez-commitment",
-      "estratto": "Carrick: 'Nessuna preoccupazione' sull'impegno di Lisandro Martinez",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-11-02T15:00:06+00:00"
     },
     {
       "id": "3df364ff72",
@@ -451,60 +442,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-01T13:38:07+00:00"
-    },
-    {
-      "id": "c72cb44604",
-      "titolo": "Perché il 6-1 del Barcellona è sembrato \"vuoto\"",
-      "url": "https://www.espn.com/video/clip/_/id/50343157/why-barcelona-6-1-win-felt-hollow",
-      "estratto": "Samuel Marsden analizza la vittoria per 6-1 del Barcellona contro l'Alavés.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T01:58:19+00:00"
-    },
-    {
-      "id": "87dcb169e6",
-      "titolo": "Nicol: Yamal si innervosisce troppo in campo con il Barcellona",
-      "url": "https://www.espn.com/video/clip/_/id/50341133/yamal-gets-too-frustrated-pitch-barcelona",
-      "estratto": "Nicol: Yamal si innervosisce troppo in campo con il Barcellona",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T23:04:26+00:00"
-    },
-    {
-      "id": "ed97162c60",
-      "titolo": "Il portiere degli Hearts Reus spera di sfruttare la conoscenza diretta del suo ex tecnico Reedijk per prolungare la falsa partenza dell'allenatore degli Hibs nel derby",
-      "url": "https://www.dailymail.com/sport/football/article-16254759/Hearts-keeper-Reus-hopes-use-inside-knowledge-old-boss-Reedijk-prolong-Hibs-managers-false-start-clash-derby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Quando gli Hibs hanno ingaggiato Marink Reedijk poco più di un mese fa, non erano in molti nel calcio scozzese a poter affermare di sapere qualcosa sull'olandese.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T22:49:13+00:00"
-    },
-    {
-      "id": "0bb01011c0",
-      "titolo": "Statistiche non all'altezza! Derek McInnes avverte i suoi giocatori dei Rangers per gli sprechi sotto porta",
-      "url": "https://www.dailymail.com/sport/football/article-16255587/Stats-not-good-Derek-McInnes-issues-warning-Rangers-players-profligacy-goal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il manager dei Rangers Derek McInnes ieri sera ha avvertito la sua squadra della necessità di aumentare il cinismo sotto porta, dopo aver definito \"imbarazzanti\" le statistiche offensive registrate nella semifinale vinta contro l'Aberdeen.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T22:47:34+00:00"
-    },
-    {
-      "id": "3f6e8a1125",
-      "titolo": "RANGERS 1 ABERDEEN 0: Ryan Naderi eroe a Hampden, i Rangers piegano con fatica un ostico Aberdeen e volano in finale",
-      "url": "https://www.dailymail.com/sport/football/article-16255427/RANGERS-1-ABERDEEN-0-Ryan-Naderi-Hampden-hero-Light-Blues-squeeze-past-dogged-Dons-reach-final.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ryan Naderi sta sviluppando la felice abitudine di farsi trovare nel posto giusto al momento giusto per i Rangers.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T22:41:24+00:00"
-    },
-    {
-      "id": "2814390e6e",
-      "titolo": "La mancanza di lucidità di Kevin Nisbet è costata carissima all'Aberdeen a Hampden... e conferma perché non sia un uomo da grandi occasioni",
-      "url": "https://www.dailymail.com/sport/football/article-16255409/Kevin-Nisbets-lack-cool-proved-costly-Aberdeen-Hampden-underlines-hes-not-man-big-occasion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Nella marcia di avvicinamento a questa semifinale di Premier Sports Cup, il capitano dell'Aberdeen Kevin Nisbet aveva dichiarato che i giocatori avrebbero dovuto fare un salto di qualità e dimostrare il loro valore.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-10-31T22:32:33+00:00"
     }
   ]
 }
