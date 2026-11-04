@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-11-04T09:39:22.062825+00:00",
-  "totale": 50,
+  "aggiornato": "2026-11-04T17:33:30.448150+00:00",
+  "totale": 43,
   "articoli": [
+    {
+      "id": "c4823a90f2",
+      "titolo": "Kairat Almaty, Arutyunyan: \"Ho fiducia nei ragazzi. Domani vogliamo giocarcela\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/kairat-almaty-conferenza-arutyunyan-dichiarazioni-conference-league-atalanta-2290429",
+      "estratto": "16:40 – Zhora Arutyunyan allenatore del Kairat Almaty, ha commentato così in conferenza stampa il match contro l' Atalanta nel pre gara di Conference League: valido per la terza giornata della competizione europea 2026/2027.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T16:25:00+00:00"
+    },
+    {
+      "id": "9c5f524514",
+      "titolo": "'I giocatori darebbero la vita per lui': come Scott Parker rimetterà a posto il West Ham - la mano tesa di Mark Noble, il motivo per cui gli addetti ai lavori credono che possa abbandonare lo stile difensivo... e dove tutto è andato storto per il 'distaccato e cupo' Nuno Espirito Santo",
+      "url": "https://www.dailymail.com/sport/football/article-16261611/West-Ham-Scott-Parker-Nuno-Noble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Fonti interne riferiscono che il club sta agendo con maggiore 'normalità' in questo periodo sotto la guida dell'amministratore delegato Karim Virani, e la nomina di Parker sembra un ulteriore passo in quella direzione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T13:44:35+00:00"
+    },
     {
       "id": "ea567c7bbd",
       "titolo": "L’Atalanta scopre la paura: in Conference contro il Kairat Almaty per scacciare i fantasmi",
@@ -84,15 +102,6 @@
       "pubblicato": "2026-11-03T19:51:40+00:00"
     },
     {
-      "id": "9c5f524514",
-      "titolo": "'I giocatori darebbero la vita per lui': come Scott Parker rimetterà a posto il West Ham - la mano tesa di Mark Noble, il motivo per cui gli addetti ai lavori credono che possa abbandonare lo stile difensivo... e dove tutto è andato storto per il 'distaccato e cupo' Nuno Espirito Santo",
-      "url": "https://www.dailymail.com/sport/football/article-16261611/West-Ham-Scott-Parker-Nuno-Noble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Fonti interne riferiscono che il club sta agendo con maggiore 'normalità' in questo periodo sotto la guida dell'amministratore delegato Karim Virani, e la nomina di Parker sembra un ulteriore passo in quella direzione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T18:09:50+00:00"
-    },
-    {
       "id": "05bf4808cc",
       "titolo": "Ellie, moglie della stella dell'Inghilterra Ollie Watkins, fugge dalla loro nuova vita in Arabia Saudita tra attacchi missilistici mortali, a pochi mesi dal trasferimento milionario da 50 milioni di sterline in Medio Oriente",
       "url": "https://www.dailymail.com/sport/football/article-16262363/England-star-Ollie-Watkins-wife-Ellie-flees-new-life-Saudi-Arabia-amid-deadly-missile-attacks-just-months-moving-Middle-East.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -145,15 +154,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-03T10:17:21+00:00"
-    },
-    {
-      "id": "fffb3f4d7b",
-      "titolo": "La storica tripletta di Achraf Hakimi ipoteca l'ennesimo premio di giocatore africano dell'anno",
-      "url": "https://www.espn.com/espn/story/_/id/50366716/achraf-hakimi-historic-hat-trick-all-secures-another-african-player-year-gong",
-      "estratto": "Il capitano del Marocco ha realizzato una tripletta e fornito due assist nella rimonta del Paris Saint-Germain, capace di travolgere il Le Havre per 5-1 dopo essere passato in svantaggio.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T07:44:35+00:00"
     },
     {
       "id": "c1bce5f4aa",
@@ -291,15 +291,6 @@
       "pubblicato": "2026-11-02T13:43:06+00:00"
     },
     {
-      "id": "447a3df706",
-      "titolo": "Declan Rice in cima alla classifica degli assist in Premier League - senza i calci piazzati",
-      "url": "https://www.espn.com/soccer/story/_/id/50356977/declan-rice-arsenal-most-assists-premier-league-stats-no-set-pieces",
-      "estratto": "Declan Rice è balzato in cima alla classifica degli assist in Premier League dopo aver servito il passaggio vincente per il gol della vittoria dell'Arsenal contro il Liverpool.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-02T13:00:40+00:00"
-    },
-    {
       "id": "b2c5782ab7",
       "titolo": "James Milner corre la Maratona di New York in tre ore e nove minuti - a pochi mesi dal ritiro dal calcio a 40 anni - dopo aver usato un programma di allenamento basato sull'IA",
       "url": "https://www.dailymail.com/sport/football/article-16258437/James-Milner-runs-New-York-Marathon-three-hours-nine-minutes-just-months-retiring-football-40-using-AI-training-programme.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -316,15 +307,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-02T12:45:38+00:00"
-    },
-    {
-      "id": "197dd25947",
-      "titolo": "Regis Le Bris mantiene la fiducia del Sunderland nonostante il brutto momento - report",
-      "url": "https://www.espn.com/soccer/story/_/id/50357670/regis-le-bris-retains-sunderland-confidence-bad-run-report",
-      "estratto": "Il tecnico del Sunderland Regis Le Bris gode del pieno sostegno del consiglio di amministrazione del club e rimane centrale nei loro piani, a quanto risulta alla Press Association.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-02T12:38:23+00:00"
     },
     {
       "id": "b0baecad9a",
@@ -406,51 +388,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-01T18:13:08+00:00"
-    },
-    {
-      "id": "0c522d4164",
-      "titolo": "O'Neill ammette che i nuovi acquisti stanno faticando con le pressioni di essere un giocatore del Celtic dopo la deludente sconfitta di Falkirk",
-      "url": "https://www.dailymail.com/sport/football/article-16256757/ONeill-Celtic-new-signings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico del Celtic Martin O'Neill ha ammesso che i suoi rinforzi estivi devono dimostrare di avere il carattere e la qualità per reggere la pressione di giocare per il club.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T16:21:11+00:00"
-    },
-    {
-      "id": "d3c4b64e62",
-      "titolo": "Falkirk-Celtic 2-0: La pressione aumenta su Martin O'Neill mentre i giganti scozzesi subiscono la sesta sconfitta in 10 partite, con i padroni di casa che festeggiano il primo successo contro i Bhoys dal 2007",
-      "url": "https://www.dailymail.com/sport/football/article-16256689/ONeill-Celtic-Falkirk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Celtic ha pagato caro un avvio pigro e la superba prestazione dell'ex portiere Scott Bain, uscendo sconfitto per 2-0 dal campo del Falkirk.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T15:55:15+00:00"
-    },
-    {
-      "id": "12ab6511b2",
-      "titolo": "I dubbi su Roberto De Zerbi si erano addensati ma ora non più, scrive RIATH AL-SAMARRAI, mentre i folli atti di autolesionismo del Crystal Palace si rivelano fatali nella sconfitta per 2-0",
-      "url": "https://www.dailymail.com/sport/football/article-16249195/Doubts-gathering-Roberto-Zerbi-not-writes-RIATH-AL-SAMARRAI-Tottenham-brushed-aside-Crystal-Palace-2-0.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Per la prima volta in 616 giorni, il Tottenham ha vinto tre partite di fila. Se ciò dimostra il valore di Roberto De Zerbi rispetto ad almeno due dei suoi predecessori, allora vorrà probabilmente riservare un ringraziamento all'aiuto del Crystal Pala",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T15:07:37+00:00"
-    },
-    {
-      "id": "2f956f584f",
-      "titolo": "Perché non si possono biasimare i dirigenti dell'Aston Villa per aver risposto a Jamie Carragher, mentre il Fulham non fa sconti all'opinionista e strappa un punto meritato, scrive TOM COLLOMOSSE",
-      "url": "https://www.dailymail.com/sport/football/article-16249197/Aston-Villa-Fulham-harder-opponents-Jamie-Carragher-London-fought-earn-1-1-draw-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'Aston Villa avrà anche ricevuto le scuse di Jamie Carragher, ma gli uomini di Unai Emery hanno trovato nel Fulham un avversario ben più ostico in una serata difficile al Villa Park.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T14:34:39+00:00"
-    },
-    {
-      "id": "9a10990df2",
-      "titolo": "Il Coventry getta ulteriore sconforto sul Sunderland: i Black Cats toccano il fondo e lasciano Régis Le Bris col volto segnato dall'incubo retrocessione dopo il ko per 3-1",
-      "url": "https://www.dailymail.com/sport/football/article-16249189/Coventry-3-1-Sunderland-Premier-League-2026-27-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "ROSS HEPPENSTALL ALLA CBS ARENA: Prestazione da censura per un Sunderland privo di idee in quello che era stato definito uno scontro salvezza anticipato, un'etichetta che si è rivelata solo una leggera esagerazione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T13:38:07+00:00"
     }
   ]
 }
