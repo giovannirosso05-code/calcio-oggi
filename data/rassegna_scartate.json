@@ -1,15 +1,96 @@
 {
-  "aggiornato": "2026-11-04T17:33:30.448150+00:00",
-  "totale": 43,
+  "aggiornato": "2026-11-04T22:55:42.944874+00:00",
+  "totale": 46,
   "articoli": [
     {
-      "id": "c4823a90f2",
-      "titolo": "Kairat Almaty, Arutyunyan: \"Ho fiducia nei ragazzi. Domani vogliamo giocarcela\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/kairat-almaty-conferenza-arutyunyan-dichiarazioni-conference-league-atalanta-2290429",
-      "estratto": "16:40 – Zhora Arutyunyan allenatore del Kairat Almaty, ha commentato così in conferenza stampa il match contro l' Atalanta nel pre gara di Conference League: valido per la terza giornata della competizione europea 2026/2027.",
-      "fonte": "TMW",
+      "id": "72730c2a6d",
+      "titolo": "Moreno: Liverpool costantemente incline agli errori",
+      "url": "https://www.espn.com/video/clip/_/id/50382848/liverpool-constantly-prone-mistakes",
+      "estratto": "Moreno: Liverpool costantemente incline agli errori",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-04T22:49:14+00:00"
+    },
+    {
+      "id": "d4a4f6b097",
+      "titolo": "O'Neill ribadisce il sostegno a Trusty mentre il tecnico del Celtic attacca i commenti di McAvennie sull'assenza del difensore",
+      "url": "https://www.dailymail.com/sport/football/article-16266063/ONeill-reiterates-support-Trusty-Celtic-boss-slams-McAvennies-comments-defenders-absence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martin O'Neill ha sottolineato che Auston Trusty gode del pieno sostegno di tutti al Celtic, dopo aver duramente criticato le dichiarazioni di Frank McAvennie sulla prolungata assenza del difensore.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-04T16:25:00+00:00"
+      "pubblicato": "2026-11-04T22:48:44+00:00"
+    },
+    {
+      "id": "078f0998b9",
+      "titolo": "O'Neill tuona contro la \"vergogna\" dopo che dei manifestanti con il passamontagna hanno insultato i dirigenti del Celtic fuori da una riunione",
+      "url": "https://www.dailymail.com/sport/football/article-16266061/Celtic-ONeill-balaclavas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico del Celtic Martin O'Neill ha usato parole dure contro gli individui con il passamontagna che si sono presentati a un incontro tra dirigenti e tifosi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T22:48:08+00:00"
+    },
+    {
+      "id": "561507a6d5",
+      "titolo": "La dirigenza del Celtic merita credito per essersi presentata all'incontro con i tifosi... ma le domande più difficili attendono ancora l'in anellato tecnico Martin O'Neill",
+      "url": "https://www.dailymail.com/sport/football/article-16266123/celtic-martin-oneill-besiktas-michael-nicholson-board-ultras-balaclavas-greenock.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dice molto sulla situazione attuale del Celtic il fatto che ben poco della conferenza stampa pre-partita di Martin O'Neill si sia effettivamente concentrato sulla partita in questione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T22:45:58+00:00"
+    },
+    {
+      "id": "298db5e2ab",
+      "titolo": "Fabregas dopo il 9-1 al Lens: \"Ora non bisogna fare i fenomeni. Sono arrabbiato per il gol subito\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152380601/fabregas_dopo_il_9-1_al_lens_ora_non_bisogna_fare_i_fenomeni_sono_arrabbiato_per_il_gol_subito/",
+      "estratto": "Le parole dell'allenatore del Como dopo la grande vittoria esterna in Champions League: ecco cosa ha detto",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T22:21:48+00:00"
+    },
+    {
+      "id": "1bf8aa1507",
+      "titolo": "Nuovo duro colpo per gli Hearts: l'esterno Calvin Miller out per due mesi per un infortunio al ginocchio",
+      "url": "https://www.dailymail.com/sport/football/article-16266241/Hearts-dealt-injury-blow-winger-Calvin-Miller-ruled-two-months-knee-injury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico degli Hearts Wouter Vrancken ha rivelato che l'esterno titolare Calvin Miller dovrà sottoporsi a un intervento chirurgico al ginocchio che lo terrà lontano dai campi per due mesi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T21:07:37+00:00"
+    },
+    {
+      "id": "382bcb8e42",
+      "titolo": "Il discusso capo della FIFA Gianni Infantino 'ha usato un consigliere di Trump per ottenere il permesso di soggiorno per la sua colf nicaraguense clandestina'",
+      "url": "https://www.dailymail.com/sport/football/article-16262175/gianni-infantino-trump-adviser-housekeeper-miami.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il presidente della FIFA Gianni Infantino avrebbe fatto pressioni sui consiglieri dell'amministrazione Trump per accelerare il rilascio del permesso di lavoro per la sua domestica clandestina nicaraguense dopo che questa aveva perso lo status legale.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T20:38:09+00:00"
+    },
+    {
+      "id": "98b7c7b44b",
+      "titolo": "L'Aston Villa pianifica il futuro a lungo termine con Unai Emery, un messaggio alle rivali",
+      "url": "https://www.espn.com/soccer/story/_/id/50380736/aston-villa-unai-emery-manager-contract-future",
+      "estratto": "L'Aston Villa ha manifestato l'intenzione di costruire il proprio futuro a lungo termine attorno alla figura del tecnico Unai Emery.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T19:21:37+00:00"
+    },
+    {
+      "id": "67678cab91",
+      "titolo": "Il Rennes frena la corsa dell'Olympiakos in Europa League: finisce 0-0 al 'Roazhon Park'",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/04-152370069/il_rennes_frena_la_corsa_dell_olympiakos_in_europa_league_finisce_0-0_al_roazhon_park/",
+      "estratto": "Dopo tre vittorie rallentano i greci, che non vanno al di là del pari in Francia nell'anticipo della 4ª giornata: tutti i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T17:32:21+00:00"
+    },
+    {
+      "id": "8c2043b1d3",
+      "titolo": "Respinto il ricorso del Crystal Palace per il cartellino rosso a Jean-Philippe Mateta",
+      "url": "https://www.espn.com/soccer/story/_/id/50379740/crystal-palace-jean-philippe-mateta-red-card-tottenham-premier-league-ban",
+      "estratto": "L'attaccante del Crystal Palace Jean-Philippe Mateta dovrà scontare tre giornate di squalifica dopo che è stato respinto il ricorso contro il cartellino rosso rimediato sabato nella sconfitta per 2-0 in Premier League sul campo del Tottenham.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T17:31:54+00:00"
     },
     {
       "id": "9c5f524514",
@@ -21,6 +102,15 @@
       "pubblicato": "2026-11-04T13:44:35+00:00"
     },
     {
+      "id": "4d3dbf5005",
+      "titolo": "Cole Palmer andava espulso per il contatto con Mateus Fernandes - Panel KMI",
+      "url": "https://www.espn.com/soccer/story/_/id/50378108/cole-palmer-sent-mateus-fernandes-clash-kmi-panel",
+      "estratto": "Cole Palmer avrebbe dovuto essere espulso in Chelsea-Tottenham 10 minuti prima del provvedimento effettivo, secondo la commissione che valuta le decisioni degli arbitri di Premier League e del VAR.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T12:33:15+00:00"
+    },
+    {
       "id": "ea567c7bbd",
       "titolo": "L’Atalanta scopre la paura: in Conference contro il Kairat Almaty per scacciare i fantasmi",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/atalanta/2026/11/04-152363039/latalanta_scopre_la_paura_in_conference_contro_il_kairat_almaty_per_scacciare_i_fantasmi/",
@@ -30,13 +120,22 @@
       "pubblicato": "2026-11-04T09:12:45+00:00"
     },
     {
-      "id": "65d054058d",
-      "titolo": "Moreno: il Manchester United merita credito per la reazione nel secondo tempo",
-      "url": "https://www.espn.com/video/clip/_/id/50373450/man-united-deserve-credit-their-second-half-response",
-      "estratto": "Moreno: il Manchester United merita credito per la reazione nel secondo tempo",
-      "fonte": "ESPN",
+      "id": "fe0cc6b172",
+      "titolo": "Chivu: \"Abbiamo capito determinate cose. Il calcio a volte ti porta in strane vie\"",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/03-152359082/chivu_abbiamo_capito_determinate_cose_il_calcio_a_volte_ti_porta_in_strane_vie/",
+      "estratto": "Il tecnico dell'Inter è intervenuto ai microfoni di Sky Sport per commentare la netta vittoria in casa del Feyenoord",
+      "fonte": "Tuttosport",
       "serie": "Champions",
-      "pubblicato": "2026-11-03T23:48:42+00:00"
+      "pubblicato": "2026-11-03T22:45:12+00:00"
+    },
+    {
+      "id": "cff22a0f3c",
+      "titolo": "Gasperini: \"Sconfitta che ci serve per il futuro. Diversa rispetto al Real, ecco perché\"",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/03-152359192/gasperini_sconfitta_che_ci_serve_per_il_futuro_diversa_rispetto_al_real_ecco_perch/",
+      "estratto": "Il commento del tecnico della Roma dopo il ko in casa del Manchester United in Champions League",
+      "fonte": "Tuttosport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-03T22:42:12+00:00"
     },
     {
       "id": "ae0d486a02",
@@ -44,7 +143,7 @@
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/inter/2026/11/03-152358684/chivu_dopo_il_tris_al_feyenoord_abbiamo_capito_cosa_non_andava_ora_serve_una_cosa/",
       "estratto": "I nerazzurri conquistano una vittoria pesante a Rotterdam grazie alle reti di Bisseck, Pio Esposito e Zielinski. Il tecnico soddisfatto della prestazione",
       "fonte": "Corriere dello Sport",
-      "serie": "Estero",
+      "serie": "Champions",
       "pubblicato": "2026-11-03T22:39:48+00:00"
     },
     {
@@ -64,15 +163,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-03T20:55:09+00:00"
-    },
-    {
-      "id": "382bcb8e42",
-      "titolo": "Il discusso capo della FIFA Gianni Infantino 'ha usato un consigliere di Trump per ottenere il permesso di soggiorno per la sua colf nicaraguense clandestina'",
-      "url": "https://www.dailymail.com/sport/football/article-16262175/gianni-infantino-trump-adviser-housekeeper-miami.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il presidente della FIFA Gianni Infantino avrebbe fatto pressioni sui consiglieri dell'amministrazione Trump per accelerare il rilascio del permesso di lavoro per la sua domestica clandestina nicaraguense dopo che questa aveva perso lo status legale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T20:47:26+00:00"
     },
     {
       "id": "da622cc683",
@@ -100,6 +190,15 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-03T19:51:40+00:00"
+    },
+    {
+      "id": "74af93e4ad",
+      "titolo": "Marotta annuncia: \"Con Dimarco abbiamo esercitato la clausola di allungamento\". E su Icardi...",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/03-152352195/marotta_annuncia_con_dimarco_abbiamo_esercitato_la_clausola_di_allungamento_e_su_icardi_/",
+      "estratto": "Direttamente da Rotterdam, il presidente dell'Inter ha toccato diversi temi nell'imminenza del calcio d'inizio della sfida contro il Feyenoord, valida per la quarta giornata della Fase Campionato di Champions League",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-03T19:50:55+00:00"
     },
     {
       "id": "05bf4808cc",
@@ -282,15 +381,6 @@
       "pubblicato": "2026-11-02T14:10:45+00:00"
     },
     {
-      "id": "5454e54faf",
-      "titolo": "Archie Gray: il viaggio a Marbella ha 'aiutato' l'affiatamento nel Tottenham",
-      "url": "https://www.espn.com/soccer/story/_/id/50358038/archie-gray-marbella-trip-helped-tottenham-camaraderie",
-      "estratto": "Archie Gray era distrutto per essere dovuto uscire durante la vittoria del Tottenham contro il Crystal Palace, ma felice di mettere la squadra al primo posto e aiutare i suoi \"fratelli\" a conquistare altri tre punti.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-02T13:43:06+00:00"
-    },
-    {
       "id": "b2c5782ab7",
       "titolo": "James Milner corre la Maratona di New York in tre ore e nove minuti - a pochi mesi dal ritiro dal calcio a 40 anni - dopo aver usato un programma di allenamento basato sull'IA",
       "url": "https://www.dailymail.com/sport/football/article-16258437/James-Milner-runs-New-York-Marathon-three-hours-nine-minutes-just-months-retiring-football-40-using-AI-training-programme.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -325,69 +415,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-01T23:17:53+00:00"
-    },
-    {
-      "id": "5ada4b93a6",
-      "titolo": "Il tecnico degli Hearts Wouter Vrancken afferma che la perdita di altri due giocatori per infortunio è costata cara nella sconfitta in semifinale",
-      "url": "https://www.dailymail.com/sport/football/article-16257007/Hearts-boss-Wouter-Vrancken-says-loss-two-players-injury-costly-semi-final-defeat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Wouter Vrancken ha sostenuto che gli Hearts non siano riusciti a fare i conti con il doppio infortunio di Tomas Magnusson e Calvin Miller, mentre svanivano le loro speranze di sollevare la Premier Sports Cup.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T20:31:53+00:00"
-    },
-    {
-      "id": "93ed0ebd32",
-      "titolo": "Dopo le affermazioni di Robbie Fowler sull'allunaggio definito 'una stronzata' e i dubbi di Joe Cole che dice di avere 'domande' per Neil Armstrong... chi c'è nella nostra top 11 dei complottisti del calcio?",
-      "url": "https://www.dailymail.com/sport/football/article-16249957/Robbie-Fowler-moon-landing-Joe-Cole-questions-Neil-Armstrong-ultimate-XI-football-conspiracy-theorists.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Daily Mail Sport stila qui l'undici definitivo dei complottisti del calcio dopo che Robbie Fowler ha ammesso di ritenere che l'allunaggio sia 'una stronzata'.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T20:15:50+00:00"
-    },
-    {
-      "id": "6b0f578826",
-      "titolo": "Il tecnico del Falkirk John McGlynn promuove Scott Bain come titolare della Scozia dopo la \"partita della vita\" contro il Celtic",
-      "url": "https://www.dailymail.com/sport/football/article-16256835/Falkirk-boss-John-McGlynn-backs-Scott-Bain-Scotlands-No-1-game-life-against-Celtic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il manager del Falkirk John McGlynn ha speso parole di elogio per il portiere Scott Bain, sostenendo che possa imporsi come il numero uno della Scozia.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T19:59:12+00:00"
-    },
-    {
-      "id": "1333af21cb",
-      "titolo": "Derek McInnes dovrà fare di più che \"vincere giocando male\" se vorrà avere successo come allenatore dei Rangers",
-      "url": "https://www.dailymail.com/sport/football/article-16256633/Derek-McInnes-need-win-ugly-thrive-Rangers-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Negli ultimi dieci anni circa, diversi allenatori dei Rangers non sono mai riusciti a cogliere appieno i parametri più basilari e fondamentali di questo incarico.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T19:39:30+00:00"
-    },
-    {
-      "id": "43b58ea0d1",
-      "titolo": "Hearts-Hibs 1-2: La prima vittoria di Reedijk è da ricordare, con un fiero Leith che rimonta per superare i rivali e volare in finale di Premier Sports Cup",
-      "url": "https://www.dailymail.com/sport/football/article-16256923/Hearts-1-Hibs-2-Reedijks-victory-one-remember-spirited-Leith-men-battle-rivals-reach-Premier-Sports-Cup-final.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Se devi far attendere i tuoi tifosi fino alla quinta partita sulla panchina per centrare il primo successo, tanto vale che sia memorabile.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T19:33:28+00:00"
-    },
-    {
-      "id": "9ef3d136eb",
-      "titolo": "Il centrocampista dei Rangers Nico Raskin è determinato a interrompere il suo digiuno di trofei vincendo la Premier Sports Cup",
-      "url": "https://www.dailymail.com/sport/football/article-16256571/Rangers-midfielder-Nico-Raskin-desperate-end-trophy-drought-lifting-Premier-Sports-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il centrocampista dei Rangers Nico Raskin insiste nel dire di essere affamato e desideroso di porre fine al suo digiuno di trofei personali dopo aver raggiunto la finale della Premier Sports Cup.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T19:23:32+00:00"
-    },
-    {
-      "id": "39ee6602c0",
-      "titolo": "Burley: Il Real Madrid è stato migliore senza Vinícius Jr.",
-      "url": "https://www.espn.com/video/clip/_/id/50349337/real-madrid-better-vinicius-jr",
-      "estratto": "Burley: Il Real Madrid è stato migliore senza Vinícius Jr.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T18:13:08+00:00"
     }
   ]
 }
