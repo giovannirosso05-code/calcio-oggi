@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-11-05T03:09:27.934972+00:00",
-  "totale": 45,
+  "aggiornato": "2026-11-05T10:55:25.635033+00:00",
+  "totale": 44,
   "articoli": [
+    {
+      "id": "078f0998b9",
+      "titolo": "O'Neill tuona contro la \"vergogna\" dopo che dei manifestanti con il passamontagna hanno insultato i dirigenti del Celtic fuori da una riunione",
+      "url": "https://www.dailymail.com/sport/football/article-16266061/Celtic-ONeill-balaclavas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico del Celtic Martin O'Neill ha usato parole dure contro gli individui con il passamontagna che si sono presentati a un incontro tra dirigenti e tifosi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-05T09:56:51+00:00"
+    },
     {
       "id": "4dd3e5f1da",
       "titolo": "Partita in Spagna sospesa: calciatore portato d'urgenza in ospedale dopo un tremendo scontro con il portiere che lo ha lasciato privo di sensi - compagni di squadra in lacrime mentre viene rianimato in ambulanza",
@@ -19,15 +28,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-11-04T23:50:03+00:00"
-    },
-    {
-      "id": "078f0998b9",
-      "titolo": "O'Neill tuona contro la \"vergogna\" dopo che dei manifestanti con il passamontagna hanno insultato i dirigenti del Celtic fuori da una riunione",
-      "url": "https://www.dailymail.com/sport/football/article-16266061/Celtic-ONeill-balaclavas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico del Celtic Martin O'Neill ha usato parole dure contro gli individui con il passamontagna che si sono presentati a un incontro tra dirigenti e tifosi.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-04T23:34:44+00:00"
     },
     {
       "id": "561507a6d5",
@@ -370,15 +370,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-02T14:57:01+00:00"
-    },
-    {
-      "id": "a80b80dc1b",
-      "titolo": "Karl Bushby: l'Hull City accoglie a casa l'avventuriero dopo un viaggio di 28 anni partito dal Cile",
-      "url": "https://www.espn.com/soccer/story/_/id/50356621/hull-city-premier-league-karl-bushby-adventurer-28-year-walk-chile",
-      "estratto": "L'avventuriero britannico Karl Bushby ha completato lunedì il suo viaggio durato 28 anni dal Sud America a Hull ed è stato sostenuto dal club di Premier League.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-02T14:10:45+00:00"
     },
     {
       "id": "b2c5782ab7",
