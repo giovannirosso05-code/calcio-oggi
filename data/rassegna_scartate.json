@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-11-04T22:55:42.944874+00:00",
-  "totale": 46,
+  "aggiornato": "2026-11-05T03:09:27.934972+00:00",
+  "totale": 45,
   "articoli": [
+    {
+      "id": "4dd3e5f1da",
+      "titolo": "Partita in Spagna sospesa: calciatore portato d'urgenza in ospedale dopo un tremendo scontro con il portiere che lo ha lasciato privo di sensi - compagni di squadra in lacrime mentre viene rianimato in ambulanza",
+      "url": "https://www.dailymail.com/sport/football/article-16259759/Spanish-clash-abandoned-footballer-rushed-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il trentenne è in condizioni stabili, ha confermato il club, dopo che un orribile scontro con il portiere Jesus Owono ha portato alla sospensione della partita in pieno recupero.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-05T00:08:28+00:00"
+    },
     {
       "id": "72730c2a6d",
       "titolo": "Moreno: Liverpool costantemente incline agli errori",
@@ -9,7 +18,25 @@
       "estratto": "Moreno: Liverpool costantemente incline agli errori",
       "fonte": "ESPN",
       "serie": "Champions",
-      "pubblicato": "2026-11-04T22:49:14+00:00"
+      "pubblicato": "2026-11-04T23:50:03+00:00"
+    },
+    {
+      "id": "078f0998b9",
+      "titolo": "O'Neill tuona contro la \"vergogna\" dopo che dei manifestanti con il passamontagna hanno insultato i dirigenti del Celtic fuori da una riunione",
+      "url": "https://www.dailymail.com/sport/football/article-16266061/Celtic-ONeill-balaclavas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico del Celtic Martin O'Neill ha usato parole dure contro gli individui con il passamontagna che si sono presentati a un incontro tra dirigenti e tifosi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T23:34:44+00:00"
+    },
+    {
+      "id": "561507a6d5",
+      "titolo": "La dirigenza del Celtic merita credito per essersi presentata all'incontro con i tifosi... ma le domande più difficili attendono ancora l'in anellato tecnico Martin O'Neill",
+      "url": "https://www.dailymail.com/sport/football/article-16266123/celtic-martin-oneill-besiktas-michael-nicholson-board-ultras-balaclavas-greenock.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dice molto sulla situazione attuale del Celtic il fatto che ben poco della conferenza stampa pre-partita di Martin O'Neill si sia effettivamente concentrato sulla partita in questione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-04T22:53:50+00:00"
     },
     {
       "id": "d4a4f6b097",
@@ -19,24 +46,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-04T22:48:44+00:00"
-    },
-    {
-      "id": "078f0998b9",
-      "titolo": "O'Neill tuona contro la \"vergogna\" dopo che dei manifestanti con il passamontagna hanno insultato i dirigenti del Celtic fuori da una riunione",
-      "url": "https://www.dailymail.com/sport/football/article-16266061/Celtic-ONeill-balaclavas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico del Celtic Martin O'Neill ha usato parole dure contro gli individui con il passamontagna che si sono presentati a un incontro tra dirigenti e tifosi.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-04T22:48:08+00:00"
-    },
-    {
-      "id": "561507a6d5",
-      "titolo": "La dirigenza del Celtic merita credito per essersi presentata all'incontro con i tifosi... ma le domande più difficili attendono ancora l'in anellato tecnico Martin O'Neill",
-      "url": "https://www.dailymail.com/sport/football/article-16266123/celtic-martin-oneill-besiktas-michael-nicholson-board-ultras-balaclavas-greenock.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dice molto sulla situazione attuale del Celtic il fatto che ben poco della conferenza stampa pre-partita di Martin O'Neill si sia effettivamente concentrato sulla partita in questione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-04T22:45:58+00:00"
     },
     {
       "id": "298db5e2ab",
@@ -219,15 +228,6 @@
       "pubblicato": "2026-11-03T16:47:46+00:00"
     },
     {
-      "id": "4dd3e5f1da",
-      "titolo": "Partita in Spagna sospesa: calciatore portato d'urgenza in ospedale dopo un tremendo scontro con il portiere che lo ha lasciato privo di sensi - compagni di squadra in lacrime mentre viene rianimato in ambulanza",
-      "url": "https://www.dailymail.com/sport/football/article-16259759/Spanish-clash-abandoned-footballer-rushed-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il trentenne è in condizioni stabili, ha confermato il club, dopo che un orribile scontro con il portiere Jesus Owono ha portato alla sospensione della partita in pieno recupero.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T14:28:51+00:00"
-    },
-    {
       "id": "ad62e89d7d",
       "titolo": "La Coppa d'Asia è RINVIATA a soli due mesi dall'inizio per motivi di sicurezza in Arabia Saudita: grande boccata d'ossigeno per i club di Premier League",
       "url": "https://www.dailymail.com/sport/football/article-16261427/Asia-Cup-Postponed-Saudi-Houthi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -406,15 +406,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-02T11:37:15+00:00"
-    },
-    {
-      "id": "31de801d61",
-      "titolo": "\"Il mio bellissimo ragazzo merita di essere ricordato con amore, non con odio\": l'appassionante appello della madre di Bradley Lowery contro il tifoso \"crudele\" del Coventry che ha usato la foto del defunto figlio per sfottere i sostenitori del Sunderland",
-      "url": "https://www.dailymail.com/sport/football/article-16256525/My-beautiful-boy-deserves-remembered-love-not-hate-Bradley-Lowerys-mum-issues-heartbreaking-statement-condemn-cruel-Coventry-fan-used-late-sons-photo-taunt-Sunderland-fans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il deprecabile comportamento si è verificato sabato durante la sfida di Premier League tra le due squadre, vinta dagli Sky Blues per 3-1.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-01T23:17:53+00:00"
     }
   ]
 }
