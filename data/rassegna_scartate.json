@@ -1,7 +1,97 @@
 {
-  "aggiornato": "2026-11-06T12:57:18.261132+00:00",
-  "totale": 58,
+  "aggiornato": "2026-11-06T19:53:29.828319+00:00",
+  "totale": 64,
   "articoli": [
+    {
+      "id": "134129cf14",
+      "titolo": "La vittoria del Celtic in Europa League contro il Besiktas è una boccata d'ossigeno, ma Mika Baur sostiene che la convinzione sia sempre esistita",
+      "url": "https://www.dailymail.com/sport/football/article-16271991/celtic-europa-league-besiktas-mika-baur.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "È giusto dire che il modo in cui Martin O'Neill ha sbloccato il cammino del Celtic in Europa League contro il Besiktas ha diviso l'opinione pubblica.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T19:41:14+00:00"
+    },
+    {
+      "id": "499647cb8b",
+      "titolo": "Il reintegrato Jack Grealish TORNA ad allenarsi con l'Everton dopo essere stato messo fuori rosa in seguito a serate alcoliche tra pub e karaoke: l'ex stella dell'Inghilterra potrebbe tornare in squadra dopo la sosta per le nazionali",
+      "url": "https://www.dailymail.com/sport/football/article-16272509/Jack-Grealish-RETURNS-Everton-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Jack Grealish tornerà ad allenarsi con l'Everton dopo essere stato accantonato ed escluso da David Moyes in seguito a serate a base di alcol e karaoke.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T19:16:06+00:00"
+    },
+    {
+      "id": "9e4e4db529",
+      "titolo": "Uruguay, i convocati di Forlan: fuori Merentiel, torna Valverde, due gli \"italiani\" in lista",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/uruguay-convocati-forlan-merentiel-torna-valverde-sfida-argentina-2291450",
+      "estratto": "Diego Forlan ha ufficializzato la lista dei convocati dell'Uruguay per i prossimi impegni della Celeste.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T18:56:31+00:00"
+    },
+    {
+      "id": "382bcb8e42",
+      "titolo": "Il discusso capo della FIFA Gianni Infantino 'ha usato un consigliere di Trump per ottenere il permesso di soggiorno per la sua colf nicaraguense clandestina'",
+      "url": "https://www.dailymail.com/sport/football/article-16262175/gianni-infantino-trump-adviser-housekeeper-miami.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il presidente della FIFA Gianni Infantino avrebbe fatto pressioni sui consiglieri dell'amministrazione Trump per accelerare il rilascio del permesso di lavoro per la sua domestica clandestina nicaraguense dopo che questa aveva perso lo status legale.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T18:36:09+00:00"
+    },
+    {
+      "id": "cbc8f00590",
+      "titolo": "Una vittoria per riportare Martin O'Neill ai fasti europei del Celtic? No, il Besiktas è stato una lezione sul perché non dovrebbe proprio fare l'allenatore",
+      "url": "https://www.dailymail.com/sport/football/article-16271601/A-win-transport-Martin-ONeill-Celtics-European-glory-days-No-Besiktas-lesson-shouldnt-manager-all.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ci sono chiaramente diversi modi di riflettere sulla rocambolesca vittoria in rimonta del Celtic contro il Besiktas in Europa League giovedì sera.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T17:00:06+00:00"
+    },
+    {
+      "id": "8401c4ff14",
+      "titolo": "Stephen Robinson pagherà per il pessimo momento dell'Aberdeen, ma quando cominceranno a prendersela con Dave Cormack e Lutz Pfannenstiel?",
+      "url": "https://www.dailymail.com/sport/football/article-16271595/Stephen-Robinson-carry-Aberdeens-woeful-run-Dave-Cormack-Lutz-Pfannenstiel-start-getting-neck.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Pochi posti sono incandescenti come Pittodrie quando i tifosi locali passano dal fruscio delle carte delle caramelle all'odore del sangue nelle narici.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T16:14:48+00:00"
+    },
+    {
+      "id": "54cc6fdbaf",
+      "titolo": "Unai Emery conferma i contatti per il rinnovo con l'Aston Villa",
+      "url": "https://www.espn.com/soccer/story/_/id/50400069/unai-emery-confirms-new-contract-talks-aston-villa",
+      "estratto": "Il tecnico dell'Aston Villa Unai Emery ha confermato che ci sono stati colloqui per costruire un progetto \"più forte\" nel club firmando un nuovo contratto a Villa Park.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T16:12:34+00:00"
+    },
+    {
+      "id": "8995987306",
+      "titolo": "Roberto De Zerbi: la stella nascente del Tottenham Luca Williams-Barnett è pronta a partire titolare",
+      "url": "https://www.espn.com/soccer/story/_/id/50399542/luca-williams-barnett-tottenham-roberto-de-zerbi-premier-league",
+      "estratto": "Roberto De Zerbi ritiene che il promettente giovane del Tottenham Luca Williams-Barnett sia pronto per giocare dal primo minuto.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T15:11:45+00:00"
+    },
+    {
+      "id": "fa115a5540",
+      "titolo": "Iraola non si fa prendere dal panico dopo le sconfitte consecutive del Liverpool",
+      "url": "https://www.espn.com/video/clip/_/id/50399528/iraola-not-panicking-consecutive-liverpool-defeats",
+      "estratto": "Iraola non si fa prendere dal panico dopo le sconfitte consecutive del Liverpool",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T14:56:06+00:00"
+    },
+    {
+      "id": "776b5ecef6",
+      "titolo": "Mary Earps è mamma! Il portiere delle Lionesses vincitrici dell'Europeo rivela che la compagna ha partorito in segreto un maschietto, ma non potrà prendere il congedo di maternità a causa del calcio",
+      "url": "https://www.dailymail.com/sport/football/article-16271929/mary-earps-lionesses-baby-announcement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il portiere delle Lionesses e campionessa d'Europa Mary Earps è diventata madre per la prima volta, rivelando oggi che la sua compagna ha dato alla luce un maschietto.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T14:53:56+00:00"
+    },
     {
       "id": "4e5df39a42",
       "titolo": "Il Leeds vanta la striscia casalinga di imbattibilità più lunga della Premier League: tra una nuova strategia di trasferimenti, riposini e la scelta di puntare sulla 'ruvidità' anziché sulla 'comodità', ecco come Elland Road è tornata a essere un fortino",
@@ -9,7 +99,25 @@
       "estratto": "Il fattore Elland Road non è un mito. Il Leeds detiene la striscia di imbattibilità casalinga più lunga tra tutte le squadre della massima serie e, da quando Farke ha assunto la guida, solo Arsenal, Manchester City e Liverpool hanno ottenuto più punt",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-06T12:40:31+00:00"
+      "pubblicato": "2026-11-06T14:23:59+00:00"
+    },
+    {
+      "id": "08c6835790",
+      "titolo": "Tuchel: Palmer spreca troppe occasioni per mettersi in mostra",
+      "url": "https://www.espn.com/video/clip/_/id/50399228/palmer-misses-too-many-opportunities-impress",
+      "estratto": "Tuchel: Palmer spreca troppe occasioni per mettersi in mostra",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T13:53:11+00:00"
+    },
+    {
+      "id": "b4893ce1fd",
+      "titolo": "Il nuovo tecnico del Bromley Karl Robinson tesse le lodi del \"megastella\" Jermain Defoe: la leggenda della Premier League in trattative per un ritorno in panchina dopo l'addio al Woking",
+      "url": "https://www.dailymail.com/sport/football/article-16271587/New-Bromley-boss-Karl-Robinson-heaps-praise-megastar-Jermain-Defoe-Premier-League-legend-talks-dugout-return-walking-Woking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Daily Mail Sport ha rivelato martedì che Defoe è in trattativa per entrare nello staff tecnico di Robinson al Bromley, squadra in difficoltà della League One, dopo l'esonero di Andy Woodman il mese scorso.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T13:39:04+00:00"
     },
     {
       "id": "290612ad17",
@@ -165,15 +273,6 @@
       "pubblicato": "2026-11-05T22:30:42+00:00"
     },
     {
-      "id": "382bcb8e42",
-      "titolo": "Il discusso capo della FIFA Gianni Infantino 'ha usato un consigliere di Trump per ottenere il permesso di soggiorno per la sua colf nicaraguense clandestina'",
-      "url": "https://www.dailymail.com/sport/football/article-16262175/gianni-infantino-trump-adviser-housekeeper-miami.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il presidente della FIFA Gianni Infantino avrebbe fatto pressioni sui consiglieri dell'amministrazione Trump per accelerare il rilascio del permesso di lavoro per la sua domestica clandestina nicaraguense dopo che questa aveva perso lo status legale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-05T22:26:41+00:00"
-    },
-    {
       "id": "ce2abe8adf",
       "titolo": "Continua il momento no del Sunderland: sconfitta interna contro la Dinamo Zagabria",
       "url": "http://www.espn.com/soccer/report/_/gameId/401915523",
@@ -327,15 +426,6 @@
       "pubblicato": "2026-11-04T23:50:03+00:00"
     },
     {
-      "id": "3209d55ce1",
-      "titolo": "Klinsmann: il Real Madrid capisce quando è il momento di alzare il livello",
-      "url": "https://www.espn.com/video/clip/_/id/50383009/real-madrid-understand-important-step-up",
-      "estratto": "Klinsmann: il Real Madrid capisce quando è il momento di alzare il livello",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-11-04T23:49:59+00:00"
-    },
-    {
       "id": "9267d5b725",
       "titolo": "Robson: il Manchester City vince, ma manca di dominio",
       "url": "https://www.espn.com/video/clip/_/id/50383223/manchester-city-win-lack-dominance",
@@ -487,42 +577,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-03T20:06:06+00:00"
-    },
-    {
-      "id": "6c55e3e3f5",
-      "titolo": "Il più grande errore di Martin O'Neill è stato rimanere dopo aver vinto il campionato",
-      "url": "https://www.dailymail.com/sport/football/article-16262687/Martin-ONeill-Celtic-mistake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Avendo vinto il titolo in modo così rocambolesco all'ultima giornata della scorsa stagione, Martin O'Neill avrebbe dovuto cogliere il momento per quello che era.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T19:51:40+00:00"
-    },
-    {
-      "id": "74af93e4ad",
-      "titolo": "Marotta annuncia: \"Con Dimarco abbiamo esercitato la clausola di allungamento\". E su Icardi...",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/03-152352195/marotta_annuncia_con_dimarco_abbiamo_esercitato_la_clausola_di_allungamento_e_su_icardi_/",
-      "estratto": "Direttamente da Rotterdam, il presidente dell'Inter ha toccato diversi temi nell'imminenza del calcio d'inizio della sfida contro il Feyenoord, valida per la quarta giornata della Fase Campionato di Champions League",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-03T19:50:55+00:00"
-    },
-    {
-      "id": "05bf4808cc",
-      "titolo": "Ellie, moglie della stella dell'Inghilterra Ollie Watkins, fugge dalla loro nuova vita in Arabia Saudita tra attacchi missilistici mortali, a pochi mesi dal trasferimento milionario da 50 milioni di sterline in Medio Oriente",
-      "url": "https://www.dailymail.com/sport/football/article-16262363/England-star-Ollie-Watkins-wife-Ellie-flees-new-life-Saudi-Arabia-amid-deadly-missile-attacks-just-months-moving-Middle-East.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ellie, moglie dell'attaccante della nazionale inglese Ollie Watkins, sta fuggendo dall'Arabia Saudita per cercare 'normalità' per i loro figli nel mezzo di attacchi missilistici mortali in Medio Oriente.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T17:23:17+00:00"
-    },
-    {
-      "id": "0a3bd1fef9",
-      "titolo": "Jermain Defoe potrebbe tornare in panchina quattro mesi dopo il brusco addio al Woking - l'ex stella della Premier League viene accostata a un ruolo di potenziale assistente di Karl Robinson al Bromley",
-      "url": "https://www.dailymail.com/sport/football/article-16262625/Jermain-Defoe-dugout-comeback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "BOBBY MANZI: Defoe ha lasciato il Woking dopo meno di quattro mesi a seguito della rottura dei rapporti con il direttore sportivo del club. Il suo addio è avvenuto in circostanze drammatiche.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T16:47:46+00:00"
     }
   ]
 }
