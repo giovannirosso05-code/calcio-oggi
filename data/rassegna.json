@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-05T23:52:13.993842+00:00",
-  "totale": 204,
+  "aggiornato": "2026-11-06T05:10:40.272009+00:00",
+  "totale": 203,
   "articoli": [
     {
       "id": "6fc74180cd",
@@ -63,28 +63,28 @@
       "squadra": "Atalanta"
     },
     {
-      "id": "f8da81a0df",
-      "titolo": "La prima da titolare di Torriani al Milan ci ricorda quanto sia infame il ruolo di portiere",
-      "url": "https://www.tuttomercatoweb.com/serie-a/titolare-torriani-milan-fotografia-infame-ruolo-portiere-2291203",
-      "estratto": "Doveva essere una serata da sogno, per Lorenzo Torriani e così è stato per almeno un tempo.",
+      "id": "7ba6ecd6c5",
+      "titolo": "Emiliano Uria: \"Juve, secondi tempi da migliorare. Bravo Meerdink. Stam vuole allenare, Barreal uomo mercato\"",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/emiliano-uria-juve-secondi-tempi-migliorare-meerdink-stam-vuole-allenare-barreal-mercato-2291239",
+      "estratto": "“La Juventus deve migliorare molto, soprattutto nella gestione dei secondi tempi.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 190,
-      "pubblicato": "2026-11-05T23:08:10+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-11-05T23:30:00+00:00",
+      "squadra": "Juventus"
     },
     {
-      "id": "fe72132c51",
-      "titolo": "Conference League, il tecnico del Kairat Almaty: \"L'1-1 contro l'Atalanta vale una vittoria\"",
-      "url": "https://www.tuttomercatoweb.com/altre-notizie/conference-arutyunyan-1-1-atalanta-vittoria-2291225",
-      "estratto": "(ANSA) - BERGAMO, 05 NOV - \"Sono pieno di emozioni, ringrazio i ragazzi perché è come una vittoria.",
-      "fonte": "TMW",
-      "serie": "Estero",
+      "id": "c2896d5327",
+      "titolo": "Milan ko, Amorim abbattuto: \"Difficile dire qualcosa. Non ti puoi presentare in campo così\"",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/11/05-152402102/milan_ko_amorim_abbattuto_difficile_dire_qualcosa_non_ti_puoi_presentare_in_campo_cos/",
+      "estratto": "Il commento del tecnico rossonero dopo la sconfitta in Europa League: \"Pensare di essere competitivi su due fronti non è possibile\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
       "citazione": true,
       "punteggio": 190,
-      "pubblicato": "2026-11-05T22:54:07+00:00",
-      "squadra": "Kairat Almaty"
+      "pubblicato": "2026-11-05T20:52:54+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "dcd2ddcd7f",
@@ -123,6 +123,18 @@
       "squadra": "Fenerbahce"
     },
     {
+      "id": "cd31a85023",
+      "titolo": "Calabria trascina il Panathinaikos, forza bruta Ajax: Conference League, risultati e classifica",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/calabria-trascina-panathinaikos-bruta-ajax-conference-league-risultati-classifica-2291235",
+      "estratto": "Si chiude anche il terzo turno di League Phase di Conference League, una serata ricca di gol e sorprese.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-05T23:53:43+00:00",
+      "squadra": "Panathinaikos"
+    },
+    {
       "id": "73196fd230",
       "titolo": "Di Gregorio prende gol, tris Bournemouth. Ko il Besiktas di Vlahovic, pari Real Sociedad-Lione",
       "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/11/05-152401006/di_gregorio_prende_gol_tris_bournemouth_ko_il_besiktas_di_vlahovic_pari_real_sociedad-lione/",
@@ -145,6 +157,18 @@
       "punteggio": 120,
       "pubblicato": "2026-11-04T23:01:47+00:00",
       "squadra": "Real Madrid"
+    },
+    {
+      "id": "a83ddf2ec1",
+      "titolo": "La leggenda del Celtic Frank McAvennie costretto a scusarsi dopo aver definito la decisione di un giocatore di saltare le partite in seguito alla morte del padre come 'sciocchezza woke'",
+      "url": "https://www.dailymail.com/sport/football/article-16264827/Frank-McAvennie-apologise-Celtic-players-decision-miss-games-father-death-woke-nonsense.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico del Celtic Martin O'Neill, parlando prima della partita contro il Falkirk di domenica, ha confermato che Trusty non era ancora tornato poiché stava 'celebrando la vita di suo padre'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-04T13:29:45+00:00",
+      "squadra": "Celtic"
     },
     {
       "id": "dddb637a96",
@@ -183,18 +207,6 @@
       "squadra": "Lazio"
     },
     {
-      "id": "cc22ea4a34",
-      "titolo": "\"Mio padre fa lo psicologo, ma sarà finito in macchina\": Juve, sboccia il sorriso Koop",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152407196/mio_padre_fa_lo_psicologo_ma_sar_finito_in_macchina_juve_sboccia_il_sorriso_koop/",
-      "estratto": "Le parole emozionate del centrocampista olandese dopo la serata magica contro il 'suo' AZ. E sul fratello Peer...",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-05T22:59:57+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "81fbd7750b",
       "titolo": "Come il flop dell'Aston Villa Donyell Malen è diventato l'attaccante più caldo d'Europa... mentre la stella della Roma cerca di acuire la crisi di Michael Carrick e del Manchester United nella sfida di Champions League",
       "url": "https://www.dailymail.com/sport/football/article-16258849/How-Aston-Villa-misfit-Donyell-Malen-Europes-hottest-striker-Roma-star-looks-pile-misery-Michael-Carrick-Man-United-Champions-League-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -228,40 +240,6 @@
       "punteggio": 40,
       "pubblicato": "2026-11-05T23:17:55+00:00",
       "squadra": "Chelsea "
-    },
-    {
-      "id": "0054f2f603",
-      "titolo": "\"Fate come Pavlovic\". Lo ha detto Amorim, il serbo è l'esempio che i giocatori devono seguire",
-      "url": "https://www.tuttomercatoweb.com/serie-a/fate-pavlovic-amorim-serbo-giocatori-devono-seguire-2291232",
-      "estratto": "Il Milan ha perso la partita e la faccia contro il Ferencvaros, palesando problemi di approccio alle partite quando mancano le motivazioni giuste.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-05T23:05:00+00:00"
-    },
-    {
-      "id": "5cffdc0bfc",
-      "titolo": "Cesena, la lettera d'addio di Di Taranto: \"Qui il calcio è parte dell'identità della comunità\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/cesena-lettera-addio-taranto-qui-calcio-identita-comunita-2291195",
-      "estratto": "\"Cari tifosi del Cesena, queste poche righe sicuramente non riusciranno a far capire quanto Cesena abbia rappresentato per me.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-05T23:04:32+00:00",
-      "squadra": "Cesena"
-    },
-    {
-      "id": "18e6929be5",
-      "titolo": "Amorim: \"Cristiano Ronaldo? Non è stato il modo migliore per chiudere con la Nazionale\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/amorim-cristiano-ronaldo-migliore-chiudere-nazionale-2291227",
-      "estratto": "Con un video sui suoi profili social, Cristiano Ronaldo ha annunciato nelle ultime ore l'addio alla Nazionale portoghese.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-05T22:57:28+00:00"
     },
     {
       "id": "9da022b202",
@@ -340,7 +318,7 @@
       "serie": "Estero",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-11-05T23:02:00+00:00",
+      "pubblicato": "2026-11-06T00:05:00+00:00",
       "squadra": "Derby"
     },
     {
@@ -445,6 +423,74 @@
       "punteggio": 20,
       "pubblicato": "2026-11-03T19:40:55+00:00",
       "squadra": "Bayern"
+    },
+    {
+      "id": "774a007990",
+      "titolo": "Serie B, Ascoli-Palermo: i marchigiani per il colpaccio, i siciliani per la fuga in vetta",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-ascoli-palermo-marchigiani-colpaccio-siciliani-fuga-vetta-2291078",
+      "estratto": "Si accendono i riflettori sullo stadio “Cino e Lillo Del Duca” di Ascoli, teatro dell’attesissimo anticipo dell’11ª giornata del campionato di Serie B tra Ascoli e Palermo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-06T05:06:05+00:00",
+      "squadra": "Ascoli"
+    },
+    {
+      "id": "65b608956d",
+      "titolo": "Andre Silva, tornato al Porto con il 30% in meno di stipendio. Dopo anni in Italia, Spagna e Germania",
+      "url": "https://www.tuttomercatoweb.com/nato-oggi/andre-silva-tornato-porto-30-stipendio-italia-spagna-germania-2290350",
+      "estratto": "André Silva ha scelto il Porto anche a costo di guadagnare sensibilmente meno rispetto all'esperienza all'Elche.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-06T04:00:26+00:00"
+    },
+    {
+      "id": "0a4ade5ab5",
+      "titolo": "Le partite di oggi: il programma di venerdì 6 novembre",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-venerdi-6-novembre-2290993",
+      "estratto": "Dalla Serie A alla Premier League, passando per Bundesliga, Ligue 1 e Liga, senza dimenticare gli impegni delle altre categorie italiane.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-06T03:30:01+00:00"
+    },
+    {
+      "id": "de8f2c699f",
+      "titolo": "'Vincere all'Emirates è difficilissimo... ma eravamo una squadra di guerrieri': l'eroe dell'Hull City GEOVANNI sul suo gol iconico contro l'Arsenal, sul perché non sia quasi successo e sul perché i Tigers 'saranno sempre nel mio cuore'",
+      "url": "https://www.dailymail.com/sport/football/article-16267913/geovanni-hull-city-arsenal-goal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "INTERVISTA ESCLUSIVA DI JOSUE SEIXAS: Il momento più grande nella storia dell'Hull City in Premier League è iniziato con il loro iconico brasiliano che cercava di tornare a casa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-06T02:00:50+00:00",
+      "squadra": "Hull"
+    },
+    {
+      "id": "978683d383",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 5 novembre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-5-novembre-2291197",
+      "estratto": "INTER, LO SCHIAVO NUOVO DIRECTOR OF FOOTBALL DEVELOPMENT.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-06T00:00:34+00:00"
+    },
+    {
+      "id": "9343a41a08",
+      "titolo": "Italia tra sorprese, esclusi e debuttanti. I 31 convocati di Mancini per la Nations League",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/italia-sorprese-esclusi-debuttanti-31-convocati-mancini-nations-league-2291233",
+      "estratto": "Sono 31 i convocati del ct Roberto Mancini per le prossime sfide dell'Italia in Nations League contro Francia e Belgio, rispettivamente in programma giovedì 12 novembre a Milano e domenica 15 novembre allo stadio Re Baldovino di Bruxelles.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-05T23:56:24+00:00"
     },
     {
       "id": "de341cf780",
@@ -706,18 +752,6 @@
       "pubblicato": "2026-11-04T14:51:21+00:00"
     },
     {
-      "id": "a83ddf2ec1",
-      "titolo": "La leggenda del Celtic Frank McAvennie costretto a scusarsi dopo aver definito la decisione di un giocatore di saltare le partite in seguito alla morte del padre come 'sciocchezza woke'",
-      "url": "https://www.dailymail.com/sport/football/article-16264827/Frank-McAvennie-apologise-Celtic-players-decision-miss-games-father-death-woke-nonsense.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico del Celtic Martin O'Neill, parlando prima della partita contro il Falkirk di domenica, ha confermato che Trusty non era ancora tornato poiché stava 'celebrando la vita di suo padre'.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-04T13:29:45+00:00",
-      "squadra": "Celtic"
-    },
-    {
       "id": "ac591f4a89",
       "titolo": "Nuovi filmati mostrano come il portiere coinvolto nello scontro mortale con il calciatore spagnolo fosse esagitato nei momenti precedenti al tackle 'pericoloso', mentre la polizia indaga sullo staff medico dopo aver aperto un'indagine per omicidio",
       "url": "https://www.dailymail.com/sport/football/article-16264409/New-footage-shows-goalkeeper-Spanish-footballers-killer-collision-moments-reckless-tackle-police-probe-medical-team-opening-homicide-investigation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -788,6 +822,18 @@
       "squadra": "Everton"
     },
     {
+      "id": "cc22ea4a34",
+      "titolo": "\"Mio padre fa lo psicologo, ma sarà finito in macchina\": Juve, sboccia il sorriso Koop",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152407196/mio_padre_fa_lo_psicologo_ma_sar_finito_in_macchina_juve_sboccia_il_sorriso_koop/",
+      "estratto": "Le parole emozionate del centrocampista olandese dopo la serata magica contro il 'suo' AZ. E sul fratello Peer...",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -10,
+      "pubblicato": "2026-11-05T22:59:57+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "c688ec0673",
       "titolo": "Kolo Muani, sul carro gol e assist: \"Sono un attaccante, devo fare gol. Il Napoli ci ha fatto bene\"",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152406254/kolo_muani_sul_carro_gol_e_assist_sono_un_attaccante_devo_fare_gol_il_napoli_ci_ha_fatto_bene/",
@@ -812,15 +858,15 @@
       "squadra": "Atalanta"
     },
     {
-      "id": "c2896d5327",
-      "titolo": "Milan ko, Amorim abbattuto: \"Difficile dire qualcosa. Non ti puoi presentare in campo così\"",
-      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/11/05-152402102/milan_ko_amorim_abbattuto_difficile_dire_qualcosa_non_ti_puoi_presentare_in_campo_cos/",
-      "estratto": "Il commento del tecnico rossonero dopo la sconfitta in Europa League: \"Pensare di essere competitivi su due fronti non è possibile\"",
-      "fonte": "Tuttosport",
+      "id": "dbc77b31a8",
+      "titolo": "Milan, Costacurta attacca: \"Uno dei primi tempi peggiori degli ultimi 4-5 anni\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/05-152403197/costacurta_dopo_milan-ferencvaros_pensavano_di_essere_alla_scala/",
+      "estratto": "La dura critica dell'ex rossonero dopo il ko contro il Ferencvaros: \"Forse pensavano di essere alla Scala\"",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -10,
-      "pubblicato": "2026-11-05T20:52:54+00:00",
+      "pubblicato": "2026-11-05T20:41:31+00:00",
       "squadra": "Milan"
     },
     {
@@ -884,30 +930,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "f01f28c7e9",
-      "titolo": "\"Ci ridevate in faccia, il NEC ha 7 punti\": Alkmaar-Juve, Spalletti non le manda a dire in diretta",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152404699/ci_ridevate_in_faccia_il_nec_ha_7_punti_alkmaar-juve_spalletti_non_le_manda_a_dire_in_diretta/",
-      "estratto": "Il tecnico bianconero dopo la vittoria in Olanda: \"Altri cinque minuti e non vincevamo, ma grandissimo atteggiamento e mentalità\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-11-05T22:59:57+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "f56d7d3b22",
-      "titolo": "Sabatini esalta Gattuso: \"Meriti enormi, sta facendo un lavoro straordinario alla Lazio\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/sabatini-esalta-gattuso-meriti-enormi-lavoro-straordinario-lazio-2291138",
-      "estratto": "La Lazio di Gennaro Gattuso continua a sorprendere e a raccogliere consensi.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-11-05T22:59:10+00:00",
-      "squadra": "Lazio"
-    },
-    {
       "id": "46ce90cc3f",
       "titolo": "Gasperini dopo la rimonta United: \"La Roma deve togliersi di dosso la pressione di vincere a ogni costo\"",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/03-152359588/gasperini_dopo_la_rimonta_united_la_roma_deve_togliersi_di_dosso_la_pressione_di_vincere_a_ogni_costo/",
@@ -956,15 +978,15 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "692fedd241",
-      "titolo": "Foschi non diffamò Balata. Il Tribunale di Roma assolve l'ex direttore sportivo rosanero",
-      "url": "https://www.tuttomercatoweb.com/altre-notizie/foschi-diffamo-balata-tribunale-roma-assolve-direttore-sportivo-rosanero-2291193",
-      "estratto": "Rino Foschi non diffamò Mauro Balata.",
-      "fonte": "TMW",
+      "id": "a752437028",
+      "titolo": "Roma a due facce e prigioniera di un copione: tutte le ragioni dei sorpassi subiti",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/11/05-152386232/roma_a_due_facce_e_prigioniera_di_un_copione_tutte_le_ragioni_dei_sorpassi_subiti/",
+      "estratto": "Cambiano gli avversari e i momenti, non la sostanza: la squadra di Gasperini fatica a restare in piedi",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-11-05T22:56:20+00:00",
+      "pubblicato": "2026-11-05T12:13:16+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1076,16 +1098,16 @@
       "squadra": "Galatasaray"
     },
     {
-      "id": "dbc77b31a8",
-      "titolo": "Milan, Costacurta attacca: \"Uno dei primi tempi peggiori degli ultimi 4-5 anni\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/05-152403197/costacurta_dopo_milan-ferencvaros_pensavano_di_essere_alla_scala/",
-      "estratto": "La dura critica dell'ex rossonero dopo il ko contro il Ferencvaros: \"Forse pensavano di essere alla Scala\"",
-      "fonte": "Corriere dello Sport",
+      "id": "f01f28c7e9",
+      "titolo": "\"Ci ridevate in faccia, il NEC ha 7 punti\": Alkmaar-Juve, Spalletti non le manda a dire in diretta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152404699/ci_ridevate_in_faccia_il_nec_ha_7_punti_alkmaar-juve_spalletti_non_le_manda_a_dire_in_diretta/",
+      "estratto": "Il tecnico bianconero dopo la vittoria in Olanda: \"Altri cinque minuti e non vincevamo, ma grandissimo atteggiamento e mentalità\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -210,
-      "pubblicato": "2026-11-05T20:41:31+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-11-05T22:59:57+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "55d5e9e2f6",
@@ -1100,15 +1122,27 @@
       "squadra": "Napoli"
     },
     {
-      "id": "358b376704",
-      "titolo": "6 novembre 2019, l'Atalanta guadagna il suo primo punto in Champions League. Contro Guardiola",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/6-novembre-2019-atalanta-guadagna-punto-champions-league-guardiola-2290345",
-      "estratto": "Il 6 novembre del 2019, allo stadio San Siro, l'Atalanta ospita il Manchester City per la quarta partita del girone di Champions.",
-      "fonte": "TMW",
+      "id": "ad6833358e",
+      "titolo": "Ruben Amorim si scaglia contro i giocatori del Milan dopo l'imbarazzante sconfitta in Europa League: l'ex tecnico del Man United attacca l'atteggiamento della squadra e critica la prestazione «orribile»",
+      "url": "https://www.dailymail.com/sport/football/article-16269809/Ruben-Amorim-AC-Milan-Europa-League-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ruben Amorim ha duramente criticato il suo Milan per l'atteggiamento e la prestazione «orribile» nella sconfitta contro la modesta formazione ungherese del Ferencvaros.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -250,
+      "pubblicato": "2026-11-06T00:04:48+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "ff0c806739",
+      "titolo": "Uno sciapo brodino kazako per l'Atalanta. E meno male che Krstovic c'è",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/atalanta/2026/11/05-152404298/uno_sciapo_brodino_kazako_per_l_atalanta_e_meno_male_che_krstovic_c/",
+      "estratto": "L'implacabile montenegrino (settimo gol stagionale) ha salvato la Dea, ancora prigioniera della sua crisi. Ritmo troppo lento, gioco orizzontale, Scamacca e Samardzic impresentabili, Ederson irriconoscibile. Così il Qairat ha sfiorato il colpo grosso",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -230,
-      "pubblicato": "2026-11-05T23:00:20+00:00",
+      "punteggio": -250,
+      "pubblicato": "2026-11-05T21:09:49+00:00",
       "squadra": "Atalanta"
     },
     {
@@ -1148,18 +1182,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "9bcfee7312",
-      "titolo": "Gatti super, partita da leader e capitano Juve: \"Più gioco più entro in condizione\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152406466/gatti_super_partita_da_leader_e_capitano_juve_pi_gioco_pi_entro_in_condizione/",
-      "estratto": "Il difensore bianconero mura tutto fino alla sua uscita a 15 minuti dalla fine: \"Ecco come dobbiamo sfruttare Kolo Muani\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -330,
-      "pubblicato": "2026-11-05T22:51:24+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "4145f5782d",
       "titolo": "Il Manchester United “provoca” la Roma ricordando il 7-1. Lo shock tra i tifosi",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/03-152345322/il_manchester_united_provoca_la_roma_ricordando_il_7-1_lo_shock_tra_i_tifosi/",
@@ -1172,15 +1194,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "a752437028",
-      "titolo": "Roma a due facce e prigioniera di un copione: tutte le ragioni dei sorpassi subiti",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/11/05-152386232/roma_a_due_facce_e_prigioniera_di_un_copione_tutte_le_ragioni_dei_sorpassi_subiti/",
-      "estratto": "Cambiano gli avversari e i momenti, non la sostanza: la squadra di Gasperini fatica a restare in piedi",
-      "fonte": "Tuttosport",
+      "id": "bf43c6a5f3",
+      "titolo": "Roma, nel nome della rosa",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/05-152386540/roma_nel_nome_della_rosa/",
+      "estratto": "Leggi il commento sull'ennesima rimonta subita in Champions League dalla squadra di Gasperini in quel di Manchester",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-11-05T12:13:16+00:00",
+      "pubblicato": "2026-11-05T09:26:14+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1204,7 +1226,7 @@
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-11-05T23:37:37+00:00",
+      "pubblicato": "2026-11-06T00:13:02+00:00",
       "squadra": "Chelsea "
     },
     {
@@ -1292,6 +1314,18 @@
       "squadra": "Barcelona"
     },
     {
+      "id": "9bcfee7312",
+      "titolo": "Gatti super, partita da leader e capitano Juve: \"Più gioco più entro in condizione\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152406466/gatti_super_partita_da_leader_e_capitano_juve_pi_gioco_pi_entro_in_condizione/",
+      "estratto": "Il difensore bianconero mura tutto fino alla sua uscita a 15 minuti dalla fine: \"Ecco come dobbiamo sfruttare Kolo Muani\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -410,
+      "pubblicato": "2026-11-05T22:51:24+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "723514b169",
       "titolo": "⁠Manna sul mercato del Napoli: \"Lavoreremo per fare qualcosa\"",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152373771/_manna_sul_mercato_del_napoli_lavoreremo_per_fare_qualcosa/",
@@ -1312,19 +1346,19 @@
       "serie": "Champions",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-11-05T23:42:31+00:00",
+      "pubblicato": "2026-11-05T23:46:09+00:00",
       "squadra": "Milan"
     },
     {
-      "id": "ff0c806739",
-      "titolo": "Uno sciapo brodino kazako per l'Atalanta. E meno male che Krstovic c'è",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/atalanta/2026/11/05-152404298/uno_sciapo_brodino_kazako_per_l_atalanta_e_meno_male_che_krstovic_c/",
-      "estratto": "L'implacabile montenegrino (settimo gol stagionale) ha salvato la Dea, ancora prigioniera della sua crisi. Ritmo troppo lento, gioco orizzontale, Scamacca e Samardzic impresentabili, Ederson irriconoscibile. Così il Qairat ha sfiorato il colpo grosso",
-      "fonte": "Tuttosport",
+      "id": "aed212c3a9",
+      "titolo": "Krstovic evita la sconfitta, ma la crisi dell'Atalanta continua: solo un punto con il Kairat Almaty",
+      "url": "https://www.corrieredellosport.it/news/calcio/conference-league/2026/11/05-152399023/krstovic_evita_la_sconfitta_ma_la_crisi_dell_atalanta_continua_solo_un_punto_con_il_kairat_almaty/",
+      "estratto": "Sesta gara consecutiva senza successo per la squadra di Sarri. Solo quattro i punti conquistati in tre gare di Conference League",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-11-05T21:09:49+00:00",
+      "pubblicato": "2026-11-05T19:51:04+00:00",
       "squadra": "Atalanta"
     },
     {
@@ -1364,18 +1398,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "d7f0b0cb0a",
-      "titolo": "La Juve batte l'Az Alkmaar e Spalletti si toglie qualche sassolino: \"Partita seria, col Nec ci ridevate in faccia e invece ha sette punti\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152406062/la_juve_batte_l_az_alkmaar_e_spalletti_si_toglie_qualche_sassolino_partita_seria_col_nec_ci_ridevate_in_faccia_e_invece_ha/",
-      "estratto": "Le dichiarazioni dell'allenatore della Juve (che si toglie qualche sassolino dalle scarpe) dopo la vittoria in Europa League contro gli olandesi",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -530,
-      "pubblicato": "2026-11-05T22:43:27+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "bb24f6d056",
       "titolo": "Dal disastro del Siviglia con Jose Mourinho alla mesta eliminazione ai gironi di Erik ten Hag: la sfilza di umiliazioni del Manchester United in Champions League dai tempi di Sir Alex Ferguson - mentre Michael Carrick lotta per la panchina in vista della sfida con la Roma",
       "url": "https://www.dailymail.com/sport/football/article-16258931/Man-Uniteds-litany-Champions-League-humiliations-Ferguso.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1388,15 +1410,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "bf43c6a5f3",
-      "titolo": "Roma, nel nome della rosa",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/05-152386540/roma_nel_nome_della_rosa/",
-      "estratto": "Leggi il commento sull'ennesima rimonta subita in Champions League dalla squadra di Gasperini in quel di Manchester",
+      "id": "ed9652a565",
+      "titolo": "Malen e Soulé, il gol è assicurato: hanno cambiato l’attacco della Roma",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/05-152384199/malen_e_soul_il_gol_assicurato_hanno_cambiato_lattacco_della_roma/",
+      "estratto": "Sono 12 le firme stagionali di Donny mentre l’argentino è arrivato a quota 8 tra reti e assist vincenti",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -570,
-      "pubblicato": "2026-11-05T09:26:14+00:00",
+      "pubblicato": "2026-11-05T07:04:17+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1484,6 +1506,18 @@
       "squadra": "Newcastle"
     },
     {
+      "id": "d7f0b0cb0a",
+      "titolo": "La Juve batte l'Az Alkmaar e Spalletti si toglie qualche sassolino: \"Partita seria, col Nec ci ridevate in faccia e invece ha sette punti\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152406062/la_juve_batte_l_az_alkmaar_e_spalletti_si_toglie_qualche_sassolino_partita_seria_col_nec_ci_ridevate_in_faccia_e_invece_ha/",
+      "estratto": "Le dichiarazioni dell'allenatore della Juve (che si toglie qualche sassolino dalle scarpe) dopo la vittoria in Europa League contro gli olandesi",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -610,
+      "pubblicato": "2026-11-05T22:43:27+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "62ea597293",
       "titolo": "Allegri prima di Porto-Napoli: \"Siamo in tredici, non riusciamo nemmeno a fare un torello\". E sul mercato...",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/03-152347206/allegri_prima_di_porto-napoli_siamo_in_tredici_non_riusciamo_nemmeno_a_fare_un_torello_e_sul_mercato_/",
@@ -1508,15 +1542,15 @@
       "squadra": "Milan"
     },
     {
-      "id": "aed212c3a9",
-      "titolo": "Krstovic evita la sconfitta, ma la crisi dell'Atalanta continua: solo un punto con il Kairat Almaty",
-      "url": "https://www.corrieredellosport.it/news/calcio/conference-league/2026/11/05-152399023/krstovic_evita_la_sconfitta_ma_la_crisi_dell_atalanta_continua_solo_un_punto_con_il_kairat_almaty/",
-      "estratto": "Sesta gara consecutiva senza successo per la squadra di Sarri. Solo quattro i punti conquistati in tre gare di Conference League",
-      "fonte": "Corriere dello Sport",
+      "id": "13718bfb52",
+      "titolo": "Crisi Atalanta, Sarri non vince più: solo un pari in Conference contro il Kairat Almaty",
+      "url": "https://www.tuttosport.com/news/calcio/conference-league/2026/11/05-152401001/crisi_atalanta_sarri_non_vince_pi_solo_un_pari_in_conference_contro_il_kairat_almaty/",
+      "estratto": "Krstovic salva i nerazzurri, che non vanno oltre l'1-1 in casa: sesta gara consecutiva senza vittorie tra Europa e campionato",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -650,
-      "pubblicato": "2026-11-05T19:51:04+00:00",
+      "pubblicato": "2026-11-05T19:45:52+00:00",
       "squadra": "Atalanta"
     },
     {
@@ -1544,18 +1578,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "77bccb0c67",
-      "titolo": "Alajbegovic \"shock temporale\" e il mercato Juve \"nucleo italiano\": parlano Massara e Spalletti",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152401009/alajbegovic_shock_temporale_e_il_mercato_juve_nucleo_italiano_parlano_massara_e_spalletti/",
-      "estratto": "L'allenatore e il dirigente analizzano il momento dei bianconeri nel pre partita della sfida di Europa League contro l'Az Alkmaar",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -730,
-      "pubblicato": "2026-11-05T19:55:23+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "2de2916370",
       "titolo": "Il comproprietario del Man United Avram Glazer «dice che non SERVE il successo sul campo per fare soldi» – proprio come i New York Yankees e i Dallas Cowboys",
       "url": "https://www.dailymail.com/sport/football/article-16267741/man-united-avram-glazer-nathan-salt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1568,15 +1590,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "ed9652a565",
-      "titolo": "Malen e Soulé, il gol è assicurato: hanno cambiato l’attacco della Roma",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/05-152384199/malen_e_soul_il_gol_assicurato_hanno_cambiato_lattacco_della_roma/",
-      "estratto": "Sono 12 le firme stagionali di Donny mentre l’argentino è arrivato a quota 8 tra reti e assist vincenti",
+      "id": "1dc9c32531",
+      "titolo": "Non c’è tempo da perdere: la Roma domina e spreca, Gasperini la vuole grande",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/05-152383532/non_c_tempo_da_perdere_la_roma_domina_e_spreca_gasperini_la_vuole_grande/",
+      "estratto": "Torino, Atalanta, Fener, Inter, Real, Cagliari e Udinese prima di Manchester: la tendenza da invertire. Venti tiri in meno, 16,7 xG a 12,4 e 9 gol subiti dal 75’ in poi",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -770,
-      "pubblicato": "2026-11-05T07:04:17+00:00",
+      "pubblicato": "2026-11-05T07:04:03+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1640,16 +1662,16 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "4959bbd62f",
-      "titolo": "Un furioso Matthias Jaissle accusa i suoi giocatori del Newcastle di IGNORARE il suo piano partita contro l'Everton... e di affidarsi ai palloni lunghi contro la sua volontà",
-      "url": "https://www.dailymail.com/sport/football/article-16260423/Matthias-Jaissle-accuses-Newcastle-stars-ignoring-gameplan-against-Everton-relying-long-balls-against-wishes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico sotto pressione, la cui squadra ha perso quattro partite su cinque ed è tredicesima in Premier League dopo la sconfitta per 1-0 di lunedì sera a St James's Park, ha visto l'attaccante Will Osula isolato.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -800,
-      "pubblicato": "2026-11-03T00:25:02+00:00",
-      "squadra": "Newcastle"
+      "id": "77bccb0c67",
+      "titolo": "Alajbegovic \"shock temporale\" e il mercato Juve \"nucleo italiano\": parlano Massara e Spalletti",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152401009/alajbegovic_shock_temporale_e_il_mercato_juve_nucleo_italiano_parlano_massara_e_spalletti/",
+      "estratto": "L'allenatore e il dirigente analizzano il momento dei bianconeri nel pre partita della sfida di Europa League contro l'Az Alkmaar",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -810,
+      "pubblicato": "2026-11-05T19:55:23+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "e3926fb3fd",
@@ -1664,28 +1686,16 @@
       "squadra": "Napoli"
     },
     {
-      "id": "ad6833358e",
-      "titolo": "Ruben Amorim si scaglia contro i giocatori del Milan dopo l'imbarazzante sconfitta in Europa League: l'ex tecnico del Man United attacca l'atteggiamento della squadra e critica la prestazione «orribile»",
-      "url": "https://www.dailymail.com/sport/football/article-16269809/Ruben-Amorim-AC-Milan-Europa-League-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ruben Amorim ha duramente criticato il suo Milan per l'atteggiamento e la prestazione «orribile» nella sconfitta contro la modesta formazione ungherese del Ferencvaros.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -850,
-      "pubblicato": "2026-11-05T22:01:16+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "13718bfb52",
-      "titolo": "Crisi Atalanta, Sarri non vince più: solo un pari in Conference contro il Kairat Almaty",
-      "url": "https://www.tuttosport.com/news/calcio/conference-league/2026/11/05-152401001/crisi_atalanta_sarri_non_vince_pi_solo_un_pari_in_conference_contro_il_kairat_almaty/",
-      "estratto": "Krstovic salva i nerazzurri, che non vanno oltre l'1-1 in casa: sesta gara consecutiva senza vittorie tra Europa e campionato",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
+      "id": "1bc9897b37",
+      "titolo": "Pulisic e il Milan a rischio in Europa League dopo il ko interno con il Ferencvaros",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915534",
+      "estratto": "Il cammino altalenante del Milan in Europa League è continuato dopo la sconfitta casalinga per 2-0 contro gli ungheresi del Ferencvaros giovedì.",
+      "fonte": "ESPN",
+      "serie": "Champions",
       "citazione": false,
       "punteggio": -850,
-      "pubblicato": "2026-11-05T19:45:52+00:00",
-      "squadra": "Atalanta"
+      "pubblicato": "2026-11-05T20:04:18+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "9499b3f8bf",
@@ -1712,30 +1722,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "4ed06b4ff2",
-      "titolo": "Durmisi: \"Sogno di farlo con la Juve. Idolo Messi, identikit Suarez\". E la chiamata di Spalletti…",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152393312/durmisi_sogno_di_farlo_con_la_juve_idolo_messi_identikit_suarez_e_la_chiamata_di_spalletti/",
-      "estratto": "Il primo gol sotto la pioggia, il trasferimento a Torino insieme al fratello e la crescita in Serie C: il classe 2008 si racconta tra sacrifici, ambizioni e retroscena della sua vita in bianconero",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -930,
-      "pubblicato": "2026-11-05T14:53:54+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "1dc9c32531",
-      "titolo": "Non c’è tempo da perdere: la Roma domina e spreca, Gasperini la vuole grande",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/05-152383532/non_c_tempo_da_perdere_la_roma_domina_e_spreca_gasperini_la_vuole_grande/",
-      "estratto": "Torino, Atalanta, Fener, Inter, Real, Cagliari e Udinese prima di Manchester: la tendenza da invertire. Venti tiri in meno, 16,7 xG a 12,4 e 9 gol subiti dal 75’ in poi",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-11-05T07:04:03+00:00",
-      "squadra": "AS Roma"
-    },
-    {
       "id": "f3765cbea4",
       "titolo": "Il Manchester United compie una rimonta miracolosa contro la Roma che esalta, emoziona e fa discutere... finalmente Michael Carrick ha qualcosa a cui aggrapparsi, scrive IAN LADYMAN",
       "url": "https://www.dailymail.com/sport/football/article-16262693/Man-United-conjured-miraculous-comeback-against-Roma-thrilling-visceral-raw-finally-Michael-Carrick-cling-writes-IAN-LADYMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1746,6 +1732,18 @@
       "punteggio": -970,
       "pubblicato": "2026-11-04T16:17:58+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "789dea1c80",
+      "titolo": "Matheus Cunha, autore di una doppietta, spera che la vittoria con la Roma sia la svolta per il Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50378007/hero-matheus-cunha-roma-win-turning-point-manchester-united",
+      "estratto": "Matheus Cunha del Manchester United ha dichiarato di credere che la vittoria in rimonta di martedì in Champions League contro l'AS Roma segnerà una svolta per la sua squadra in difficoltà.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -970,
+      "pubblicato": "2026-11-04T15:17:10+00:00",
+      "squadra": "AS Roma"
     },
     {
       "id": "21299a3c3f",
@@ -1784,6 +1782,18 @@
       "squadra": "Man City"
     },
     {
+      "id": "4ed06b4ff2",
+      "titolo": "Durmisi: \"Sogno di farlo con la Juve. Idolo Messi, identikit Suarez\". E la chiamata di Spalletti…",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152393312/durmisi_sogno_di_farlo_con_la_juve_idolo_messi_identikit_suarez_e_la_chiamata_di_spalletti/",
+      "estratto": "Il primo gol sotto la pioggia, il trasferimento a Torino insieme al fratello e la crescita in Serie C: il classe 2008 si racconta tra sacrifici, ambizioni e retroscena della sua vita in bianconero",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -1010,
+      "pubblicato": "2026-11-05T14:53:54+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "ff2d0da7bc",
       "titolo": "Moviola Porto-Napoli: Oliver, il rigore e il rosso giusto ma…",
       "url": "https://www.corrieredellosport.it/news/calcio/moviola/2026/11/05-152383524/moviola_porto-napoli_oliver_il_rigore_e_il_rosso_giusto_ma/",
@@ -1796,15 +1806,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "1bc9897b37",
-      "titolo": "Pulisic e il Milan a rischio in Europa League dopo il ko interno con il Ferencvaros",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915534",
-      "estratto": "Il cammino altalenante del Milan in Europa League è continuato dopo la sconfitta casalinga per 2-0 contro gli ungheresi del Ferencvaros giovedì.",
-      "fonte": "ESPN",
-      "serie": "Champions",
+      "id": "1ddccb65ca",
+      "titolo": "Disastro Milan, un'altra figuraccia in Europa: festa Ferencvaros, fischi a San Siro",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152397768/disastro_milan_un_altra_figuraccia_in_europa_festa_ferencvaros_fischi_a_san_siro/",
+      "estratto": "Doppietta decisiva di Joseph, con gli ungheresi che rimangono anche in dieci per l'espulsione di Bamidele: in archivio il match valido per la quarta giornata della Fase Campionato",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": -1050,
-      "pubblicato": "2026-11-05T20:04:18+00:00",
+      "pubblicato": "2026-11-05T19:45:56+00:00",
       "squadra": "Milan"
     },
     {
@@ -1832,30 +1842,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "f2d419a559",
-      "titolo": "I fratelli Koopmeiners protagonisti di AZ-Juve e di... un libro per bambini: \"Ci piace mostrare come...\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152385461/i_fratelli_koopmeiners_protagonisti_di_az-juve_e_di_un_libro_per_bambini_ci_piace_mostrare_come_/",
-      "estratto": "Derby casalingo per davvero quello tra Peer e Teun, cresciuti fianco a fianco nelle giovanili del club olandese",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -1130,
-      "pubblicato": "2026-11-05T12:10:35+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "789dea1c80",
-      "titolo": "Matheus Cunha, autore di una doppietta, spera che la vittoria con la Roma sia la svolta per il Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50378007/hero-matheus-cunha-roma-win-turning-point-manchester-united",
-      "estratto": "Matheus Cunha del Manchester United ha dichiarato di credere che la vittoria in rimonta di martedì in Champions League contro l'AS Roma segnerà una svolta per la sua squadra in difficoltà.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1170,
-      "pubblicato": "2026-11-04T15:17:10+00:00",
-      "squadra": "AS Roma"
-    },
-    {
       "id": "74a2e4a5d5",
       "titolo": "Il Manchester United prende in giro la Roma: bufera sui social!",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152365261/il_manchester_united_prende_in_giro_la_roma_bufera_sui_social_/",
@@ -1866,6 +1852,18 @@
       "punteggio": -1170,
       "pubblicato": "2026-11-04T10:54:50+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "7662d6292f",
+      "titolo": "Roma, ripresa di rimpianti",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152365011/roma_ripresa_di_rimpianti/",
+      "estratto": "Leggi il commento sul match perso in rimonta dai giallorossi a Manchester contro lo United in Champions League",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1170,
+      "pubblicato": "2026-11-04T09:54:44+00:00",
+      "squadra": "AS Roma"
     },
     {
       "id": "3d33be03e5",
@@ -1904,6 +1902,18 @@
       "squadra": "Liverpool "
     },
     {
+      "id": "f2d419a559",
+      "titolo": "I fratelli Koopmeiners protagonisti di AZ-Juve e di... un libro per bambini: \"Ci piace mostrare come...\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152385461/i_fratelli_koopmeiners_protagonisti_di_az-juve_e_di_un_libro_per_bambini_ci_piace_mostrare_come_/",
+      "estratto": "Derby casalingo per davvero quello tra Peer e Teun, cresciuti fianco a fianco nelle giovanili del club olandese",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -1210,
+      "pubblicato": "2026-11-05T12:10:35+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "fee2f34b61",
       "titolo": "McTominay non basta, il Napoli crolla contro il Porto: per Allegri terza sconfitta su quattro match in Champions",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152370059/porto-napoli_diretta_champions_league_segui_il_match_degli_azzurri_di_allegri_live/",
@@ -1916,15 +1926,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "1ddccb65ca",
-      "titolo": "Disastro Milan, un'altra figuraccia in Europa: festa Ferencvaros, fischi a San Siro",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152397768/disastro_milan_un_altra_figuraccia_in_europa_festa_ferencvaros_fischi_a_san_siro/",
-      "estratto": "Doppietta decisiva di Joseph, con gli ungheresi che rimangono anche in dieci per l'espulsione di Bamidele: in archivio il match valido per la quarta giornata della Fase Campionato",
-      "fonte": "Corriere dello Sport",
+      "id": "4fc07a242f",
+      "titolo": "Tonfo Milan, 2-0 Ferencvaros e San Siro fischia: la classifica ora fa paura",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/11/05-152393325/milan-ferencvaros_diretta_europa_league_formazioni_e_risultato_in_tempo_reale_amorim_a_caccia_della_vittoria/",
+      "estratto": "La squadra rossonera cade contro gli ungheresi nel match valido per la quarta giornata della prima fase della competizione europea",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1250,
-      "pubblicato": "2026-11-05T19:45:56+00:00",
+      "pubblicato": "2026-11-05T15:30:00+00:00",
       "squadra": "Milan"
     },
     {
@@ -1940,30 +1950,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "12bba6081d",
-      "titolo": "La Juventus è in crescita e in Europa League è sempre bella: ora obiettivo ottavi",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juventus-crescita-europa-league-bella-obiettivo-ottavi-2291231",
-      "estratto": "La Juventus continua a crescere e mette un altro tassello nella costruzione della nuova identità targata Luciano Spalletti.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1370,
-      "pubblicato": "2026-11-05T23:45:00+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "7662d6292f",
-      "titolo": "Roma, ripresa di rimpianti",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152365011/roma_ripresa_di_rimpianti/",
-      "estratto": "Leggi il commento sul match perso in rimonta dai giallorossi a Manchester contro lo United in Champions League",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1370,
-      "pubblicato": "2026-11-04T09:54:44+00:00",
-      "squadra": "AS Roma"
-    },
-    {
       "id": "489cc9f4b5",
       "titolo": "Carrick 'non si monta la testa' dopo la vittoria del Manchester United contro la Roma",
       "url": "https://www.espn.com/video/clip/_/id/50376716/carrick-not-getting-carried-away-man-united-win-vs-roma",
@@ -1974,6 +1960,18 @@
       "punteggio": -1370,
       "pubblicato": "2026-11-04T08:34:09+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "a282820bdb",
+      "titolo": "Tensione a Manchester: tifosi della Roma fermati dalla polizia prima e dopo la partita con lo United",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152363160/tensione_a_manchester_tifosi_della_roma_fermati_dalla_polizia_prima_e_dopo_la_partita/",
+      "estratto": "Il bilancio dell’ordine pubblico della trasferta di Manchester è ancora tutto da chiarire, di sicuro i momenti di tensione hanno accompagnato e seguito la sfida tra i Red Devils e i giallorossi",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1370,
+      "pubblicato": "2026-11-04T07:44:18+00:00",
+      "squadra": "AS Roma"
     },
     {
       "id": "3309b909c5",
@@ -2000,16 +1998,16 @@
       "squadra": "Liverpool "
     },
     {
-      "id": "4fc07a242f",
-      "titolo": "Tonfo Milan, 2-0 Ferencvaros e San Siro fischia: la classifica ora fa paura",
-      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/11/05-152393325/milan-ferencvaros_diretta_europa_league_formazioni_e_risultato_in_tempo_reale_amorim_a_caccia_della_vittoria/",
-      "estratto": "La squadra rossonera cade contro gli ungheresi nel match valido per la quarta giornata della prima fase della competizione europea",
-      "fonte": "Tuttosport",
+      "id": "12bba6081d",
+      "titolo": "La Juventus è in crescita e in Europa League è sempre bella: ora obiettivo ottavi",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juventus-crescita-europa-league-bella-obiettivo-ottavi-2291231",
+      "estratto": "La Juventus continua a crescere e mette un altro tassello nella costruzione della nuova identità targata Luciano Spalletti.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1450,
-      "pubblicato": "2026-11-05T15:30:00+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-11-05T23:45:00+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "80ebd0fe20",
@@ -2024,28 +2022,16 @@
       "squadra": "Napoli"
     },
     {
-      "id": "3f3caca0c3",
-      "titolo": "Koopmeiners non fa sconti al fratello, poi Kolo Muani: la Juve vince 2-1 in casa dell'Az Alkmaar",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152397769/az_alkmaar-juve_diretta_segui_la_sfida_in_europa_league_risultato_classifica_in_tempo_reale/",
-      "estratto": "La squadra di Spalletti nonostante un finale di grande sofferenza conquista tre punti preziosissimi in coppa e vede gli ottavi",
-      "fonte": "Corriere dello Sport",
+      "id": "7a9bc25e48",
+      "titolo": "Cisse, in missione...poker Milan. E intanto Mancini lo osserva",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/05-152385473/cisse_in_missione_poker_milan_e_intanto_mancini_lo_osserva/",
+      "estratto": "È titolare e attende la chiamata del ct per le gare dell’Italia contro Francia e Belgio. L’esterno è uomo di Coppa: tre gol a Salisburgo, sempre titolare in Europa",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -1570,
-      "pubblicato": "2026-11-05T18:46:34+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "a282820bdb",
-      "titolo": "Tensione a Manchester: tifosi della Roma fermati dalla polizia prima e dopo la partita con lo United",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152363160/tensione_a_manchester_tifosi_della_roma_fermati_dalla_polizia_prima_e_dopo_la_partita/",
-      "estratto": "Il bilancio dell’ordine pubblico della trasferta di Manchester è ancora tutto da chiarire, di sicuro i momenti di tensione hanno accompagnato e seguito la sfida tra i Red Devils e i giallorossi",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1570,
-      "pubblicato": "2026-11-04T07:44:18+00:00",
-      "squadra": "AS Roma"
+      "punteggio": -1450,
+      "pubblicato": "2026-11-05T12:11:29+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "bccba1184d",
@@ -2058,6 +2044,18 @@
       "punteggio": -1570,
       "pubblicato": "2026-11-04T03:44:59+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "65edeebc8f",
+      "titolo": "Roma, così no: e stavolta è peggio che con il Real Madrid",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/03-152360138/roma_cos_no_e_stavolta_peggio_che_con_il_real_madrid/",
+      "estratto": "Primo tempo grandioso, ripresa disastrosa. Il tabù Old Trafford è rimasto infrangibile per i giallorossi, travolti dallo United che non vinceva dal 10 settembre. Così la seconda rimonta subita in Champions fa più male della prima",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1570,
+      "pubblicato": "2026-11-03T23:04:49+00:00",
+      "squadra": "AS Roma"
     },
     {
       "id": "357b216405",
@@ -2084,16 +2082,16 @@
       "squadra": "Liverpool "
     },
     {
-      "id": "7a9bc25e48",
-      "titolo": "Cisse, in missione...poker Milan. E intanto Mancini lo osserva",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/05-152385473/cisse_in_missione_poker_milan_e_intanto_mancini_lo_osserva/",
-      "estratto": "È titolare e attende la chiamata del ct per le gare dell’Italia contro Francia e Belgio. L’esterno è uomo di Coppa: tre gol a Salisburgo, sempre titolare in Europa",
-      "fonte": "Tuttosport",
+      "id": "3f3caca0c3",
+      "titolo": "Koopmeiners non fa sconti al fratello, poi Kolo Muani: la Juve vince 2-1 in casa dell'Az Alkmaar",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152397769/az_alkmaar-juve_diretta_segui_la_sfida_in_europa_league_risultato_classifica_in_tempo_reale/",
+      "estratto": "La squadra di Spalletti nonostante un finale di grande sofferenza conquista tre punti preziosissimi in coppa e vede gli ottavi",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1650,
-      "pubblicato": "2026-11-05T12:11:29+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-11-05T18:46:34+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "e5c4e53e0b",
@@ -2108,16 +2106,16 @@
       "squadra": "Napoli"
     },
     {
-      "id": "84abbfdc42",
-      "titolo": "Fuori un titolarissimo Juve contro l'Az Alkmaar: il motivo. E c'è un testa a testa in attacco",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152385468/fuori_un_titolarissimo_juve_contro_l_az_alkmaar_il_motivo_e_c_un_testa_a_testa_in_attacco/",
-      "estratto": "Tutti i cambi verso cui è orientato l'allenatore bianconero tra infortuni, stanchezza e sfida di campionato contro la Fiorentina",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1770,
-      "pubblicato": "2026-11-05T10:27:34+00:00",
-      "squadra": "Juventus"
+      "id": "27d9adc37c",
+      "titolo": "Ruben Amorim non è soddisfatto dell'avvio del Milan: \"Possiamo fare di meglio\"",
+      "url": "https://www.espn.com/soccer/story/_/id/50380347/ruben-amorim-ac-milan-season-start-europa-league-ferencvaros",
+      "estratto": "L'allenatore Ruben Amorim ha dichiarato di non essere soddisfatto dell'inizio di stagione del Milan, né in Serie A né in Europa League.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": true,
+      "punteggio": -1650,
+      "pubblicato": "2026-11-04T18:23:15+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "aefb0627b3",
@@ -2132,15 +2130,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "65edeebc8f",
-      "titolo": "Roma, così no: e stavolta è peggio che con il Real Madrid",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/03-152360138/roma_cos_no_e_stavolta_peggio_che_con_il_real_madrid/",
-      "estratto": "Primo tempo grandioso, ripresa disastrosa. Il tabù Old Trafford è rimasto infrangibile per i giallorossi, travolti dallo United che non vinceva dal 10 settembre. Così la seconda rimonta subita in Champions fa più male della prima",
+      "id": "84f5098a10",
+      "titolo": "Youth League, prezioso pareggio della Roma sul campo del Manchester United: gol di Arena",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/youth-league/2026/11/03-152348973/youth_league_prezioso_pareggio_della_roma_sul_campo_del_manchester_united_gol_di_arena/",
+      "estratto": "La Primavera di Scala rimonta su calcio di rigore lo svantaggio del primo tempo: tutti i dettagli",
       "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -1770,
-      "pubblicato": "2026-11-03T23:04:49+00:00",
+      "pubblicato": "2026-11-03T17:54:10+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -2156,16 +2154,16 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "27d9adc37c",
-      "titolo": "Ruben Amorim non è soddisfatto dell'avvio del Milan: \"Possiamo fare di meglio\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50380347/ruben-amorim-ac-milan-season-start-europa-league-ferencvaros",
-      "estratto": "L'allenatore Ruben Amorim ha dichiarato di non essere soddisfatto dell'inizio di stagione del Milan, né in Serie A né in Europa League.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": true,
+      "id": "84abbfdc42",
+      "titolo": "Fuori un titolarissimo Juve contro l'Az Alkmaar: il motivo. E c'è un testa a testa in attacco",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152385468/fuori_un_titolarissimo_juve_contro_l_az_alkmaar_il_motivo_e_c_un_testa_a_testa_in_attacco/",
+      "estratto": "Tutti i cambi verso cui è orientato l'allenatore bianconero tra infortuni, stanchezza e sfida di campionato contro la Fiorentina",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
       "punteggio": -1850,
-      "pubblicato": "2026-11-04T18:23:15+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-11-05T10:27:34+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "4d2d2f7db7",
@@ -2180,18 +2178,6 @@
       "squadra": "Napoli"
     },
     {
-      "id": "2ea71133a7",
-      "titolo": "Juve senza sonno ad Alkmaar, squadra svegliata 'di botto' nel cuore della notte: cosa è successo",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152387212/juve_senza_sonno_ad_alkmaar_squadra_svegliata_di_botto_nel_cuore_della_notte_cosa_successo/",
-      "estratto": "Nottata complessa per la formazione di Spalletti in vista dell'importante partita di Europa League",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1970,
-      "pubblicato": "2026-11-05T09:48:52+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "f41b60251d",
       "titolo": "La maledizione Manchester United continua per la Roma: Soulé e Malen non bastano e i Red Devils vincono in rimonta",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/03-152348771/manchester_united-roma_diretta_champions_league_segui_il_match_tra_la_squadra_di_gasperini_e_live/",
@@ -2204,27 +2190,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "84f5098a10",
-      "titolo": "Youth League, prezioso pareggio della Roma sul campo del Manchester United: gol di Arena",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/youth-league/2026/11/03-152348973/youth_league_prezioso_pareggio_della_roma_sul_campo_del_manchester_united_gol_di_arena/",
-      "estratto": "La Primavera di Scala rimonta su calcio di rigore lo svantaggio del primo tempo: tutti i dettagli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1970,
-      "pubblicato": "2026-11-03T17:54:10+00:00",
-      "squadra": "AS Roma"
-    },
-    {
-      "id": "5730a5ef6c",
-      "titolo": "Elimoghale, Owusu, Pagnucco e Merola: la meglio Juventus in mostra in Europa",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152373503/elimoghale_owusu_pagnucco_e_merola_la_meglio_juventus_in_mostra_in_europa/",
-      "estratto": "Spalletti chiama i quattro giovani in trasferta ad Alkmaar: chi sono i talenti in evidenza nella Next Gen che sognano la prima squadra",
+      "id": "2ea71133a7",
+      "titolo": "Juve senza sonno ad Alkmaar, squadra svegliata 'di botto' nel cuore della notte: cosa è successo",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152387212/juve_senza_sonno_ad_alkmaar_squadra_svegliata_di_botto_nel_cuore_della_notte_cosa_successo/",
+      "estratto": "Nottata complessa per la formazione di Spalletti in vista dell'importante partita di Europa League",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -2170,
-      "pubblicato": "2026-11-05T08:17:05+00:00",
+      "punteggio": -2050,
+      "pubblicato": "2026-11-05T09:48:52+00:00",
       "squadra": "Juventus"
     },
     {
@@ -2238,6 +2212,18 @@
       "punteggio": -2170,
       "pubblicato": "2026-11-03T17:41:42+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "5730a5ef6c",
+      "titolo": "Elimoghale, Owusu, Pagnucco e Merola: la meglio Juventus in mostra in Europa",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/05-152373503/elimoghale_owusu_pagnucco_e_merola_la_meglio_juventus_in_mostra_in_europa/",
+      "estratto": "Spalletti chiama i quattro giovani in trasferta ad Alkmaar: chi sono i talenti in evidenza nella Next Gen che sognano la prima squadra",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -2250,
+      "pubblicato": "2026-11-05T08:17:05+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "ee0f725db5",
