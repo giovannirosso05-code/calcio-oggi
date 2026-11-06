@@ -1,7 +1,79 @@
 {
-  "aggiornato": "2026-11-06T19:53:29.828319+00:00",
-  "totale": 64,
+  "aggiornato": "2026-11-06T23:57:28.792319+00:00",
+  "totale": 61,
   "articoli": [
+    {
+      "id": "d4eacbd7f0",
+      "titolo": "Il deriso Thierno Barry non è più motivo di frustrazione: la sua prestazione trascina l'Everton alla vittoria sul Coventry in un'altra grande serata per David Moyes tra il caso Jack Grealish",
+      "url": "https://www.dailymail.com/sport/football/article-16268007/Derided-Thierno-Barry-no-longer-source-frustration-star-fires-Everton-victory-Coventry-big-night-David-Moyes-amid-Jack-Grealish-drama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "MICHAEL PLANT ALL'HILL DICKNSON STADIUM: Forse l'Everton dovrebbe chiedere di giocare in notturna ogni settimana. Sembra proprio spingere la squadra di David Moyes verso nuovi traguardi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T23:44:53+00:00"
+    },
+    {
+      "id": "c88e380024",
+      "titolo": "C'è chi lo definisce 'Tuchel 2.0' e la sua ultima lista di convocati dà proprio questa impressione. Ecco perché l'Inghilterra crede che l'assalto agli Europei sia alla portata, scrive IAN LADYMAN",
+      "url": "https://www.dailymail.com/sport/football/article-16272621/Some-calling-Tuchel-2-0-latest-squad-does-feel-like-Heres-England-think-tilt-European-Championship-reach-writes-IAN-LADYMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Una delle metafore preferite di Thomas Tuchel riguardo alla crescita della sua Inghilterra è quella di un treno che lascia la stazione con a bordo solo i pochi prescelti. Con il passare del tempo, i corpi rimasti sui binari aumentano costantemente.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T22:39:32+00:00"
+    },
+    {
+      "id": "0820e7b1c8",
+      "titolo": "Martin O'Neill sereno sul digiuno di gol di Kasper Hogh: il tecnico del Celtic elogia la prestazione del danese contro il Besiktas",
+      "url": "https://www.dailymail.com/sport/football/article-16272851/Martin-ONeill-relaxed-Kasper-Hogh-scoring-drought-Celtic-boss-hails-Danes-display-against-Besiktas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martin O'Neill ribadisce fermamente di non essere eccessivamente preoccupato per il digiuno di gol di Kasper Hogh, nonostante il danese non trovi la rete da 15 partite.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T22:30:46+00:00"
+    },
+    {
+      "id": "e9d081d718",
+      "titolo": "Lowe: l'Atlético deve essere propositivo per mettere in difficoltà il Barcelona",
+      "url": "https://www.espn.com/video/clip/_/id/50402297/atletico-proactive-trouble-barcelona",
+      "estratto": "Lowe: l'Atlético deve essere propositivo per mettere in difficoltà il Barcelona",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T22:29:58+00:00"
+    },
+    {
+      "id": "2e09cd07be",
+      "titolo": "La doppietta di Barry lancia l'Everton al 5° posto con la vittoria sul Coventry",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879242",
+      "estratto": "Il momento d'oro di Thierno Barry ha spinto l'Everton tra le prime cinque, grazie alla vittoria in rimonta per 3-1 contro il Coventry.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T22:10:12+00:00"
+    },
+    {
+      "id": "c6daa7ce97",
+      "titolo": "Rimpianto del Siviglia: Vargas sbaglia un rigore e con l'Alaves finisce 0-0",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/11/06-152420949/rimpianto_del_siviglia_vargas_sbaglia_un_rigore_e_con_l_alaves_finisce_0-0/",
+      "estratto": "La 12ª giornata della Liga si apre con il pareggio senza reti tra gli andalusi e i baschi: Sivera para un penalty nel primo tempo",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T22:07:40+00:00"
+    },
+    {
+      "id": "bf293fd30b",
+      "titolo": "L'Amburgo rialza la testa: battuto il Borussia Mönchengladbach, sempre più ultimo",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/2026/11/06-152420853/amburgo_rialza_la_testa_dopo_tre_ko_battuto_il_borussia_mnchengladbach_sempre_pi_ultimo/",
+      "estratto": "Nell'anticipo della 9ª giornata di Bundesliga la formazione di Polzin si impone 3-1 su quella dell'ex genoano Blessin, in crisi nera",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T22:04:23+00:00"
+    },
+    {
+      "id": "7499df1310",
+      "titolo": "Il bomber dei Rangers Ryan Naderi sta trovando il ritmo nel momento ideale... e potrebbe rivelarsi la chiave per la caccia ai trofei a Ibrox",
+      "url": "https://www.dailymail.com/sport/football/article-16272725/rangers-ryan-naderi-premiership-derek-mcinnes-ibrox.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "A febbraio, la scelta di Danny Rohl di dire ai tifosi dei Rangers che il nuovo acquisto Ryan Naderi gli ricordava un certo Thomas Muller era stata accolta da una derisione generale.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T21:27:23+00:00"
+    },
     {
       "id": "134129cf14",
       "titolo": "La vittoria del Celtic in Europa League contro il Besiktas è una boccata d'ossigeno, ma Mika Baur sostiene che la convinzione sia sempre esistita",
@@ -19,15 +91,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-06T19:16:06+00:00"
-    },
-    {
-      "id": "9e4e4db529",
-      "titolo": "Uruguay, i convocati di Forlan: fuori Merentiel, torna Valverde, due gli \"italiani\" in lista",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/uruguay-convocati-forlan-merentiel-torna-valverde-sfida-argentina-2291450",
-      "estratto": "Diego Forlan ha ufficializzato la lista dei convocati dell'Uruguay per i prossimi impegni della Celeste.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-06T18:56:31+00:00"
     },
     {
       "id": "382bcb8e42",
@@ -127,15 +190,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-06T12:07:02+00:00"
-    },
-    {
-      "id": "f2c0fec396",
-      "titolo": "Anthony Gordon ha lasciato la Premier League per il Barcellona in cerca di 'rispetto' -- ora lo ha ottenuto",
-      "url": "https://www.espn.com/soccer/story/_/id/50377434/anthony-gordon-barcelona-england-premier-league-respect",
-      "estratto": "Il trasferimento di Anthony Gordon al Barcellona è stato una sorpresa per alcuni, ma è diventato rapidamente un idolo dei tifosi al Camp Nou oltre che un giocatore chiave per l'Inghilterra.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-06T11:02:39+00:00"
     },
     {
       "id": "f5c09db963",
@@ -363,15 +417,6 @@
       "pubblicato": "2026-11-05T12:14:52+00:00"
     },
     {
-      "id": "3df364ff72",
-      "titolo": "Dietro le difficoltà di Jack Grealish: perché l'Everton aveva dei dubbi già LA scorsa stagione, come alcuni seguaci ne stanno approfittando, i problemi con il suo atteggiamento verso il calcio e cosa dovrebbe fare adesso, scrive IAN HERBERT",
-      "url": "https://www.dailymail.com/sport/football/article-16250953/Inside-Jack-Grealishs-struggles-Everton-concerns-season-acolytes-taking-advantage-issues-attitude-football-writes-IAN-HERBERT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Grealish ha dato forfait per malattia in vista della partita dello scorso fine settimana in casa dell'Arsenal, poco dopo i Pride of Britain Awards, e ha violato il codice disciplinare dell'Everton a causa di un'assenza non autorizzata.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-05T11:22:44+00:00"
-    },
-    {
       "id": "3efc6076a5",
       "titolo": "Il 'club a misura di famiglia' ora promosso dal gioco d'azzardo non autorizzato e da una 'star internazionale per adulti': i tifosi del Leicester City infuriati per la scelta dello sponsor dopo due retrocessioni",
       "url": "https://www.dailymail.com/sport/football/article-16267513/The-family-football-club-promoted-unlicensed-gambling-international-porn-star-Leicester-City-fans-rage-against-teams-choice-sponsor-two-relegations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -505,78 +550,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-04T13:44:35+00:00"
-    },
-    {
-      "id": "4d3dbf5005",
-      "titolo": "Cole Palmer andava espulso per il contatto con Mateus Fernandes - Panel KMI",
-      "url": "https://www.espn.com/soccer/story/_/id/50378108/cole-palmer-sent-mateus-fernandes-clash-kmi-panel",
-      "estratto": "Cole Palmer avrebbe dovuto essere espulso in Chelsea-Tottenham 10 minuti prima del provvedimento effettivo, secondo la commissione che valuta le decisioni degli arbitri di Premier League e del VAR.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-04T12:33:15+00:00"
-    },
-    {
-      "id": "fe0cc6b172",
-      "titolo": "Chivu: \"Abbiamo capito determinate cose. Il calcio a volte ti porta in strane vie\"",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/03-152359082/chivu_abbiamo_capito_determinate_cose_il_calcio_a_volte_ti_porta_in_strane_vie/",
-      "estratto": "Il tecnico dell'Inter è intervenuto ai microfoni di Sky Sport per commentare la netta vittoria in casa del Feyenoord",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-03T22:45:12+00:00"
-    },
-    {
-      "id": "cff22a0f3c",
-      "titolo": "Gasperini: \"Sconfitta che ci serve per il futuro. Diversa rispetto al Real, ecco perché\"",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/03-152359192/gasperini_sconfitta_che_ci_serve_per_il_futuro_diversa_rispetto_al_real_ecco_perch/",
-      "estratto": "Il commento del tecnico della Roma dopo il ko in casa del Manchester United in Champions League",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-03T22:42:12+00:00"
-    },
-    {
-      "id": "ae0d486a02",
-      "titolo": "Chivu dopo il tris al Feyenoord: \"Abbiamo capito cosa non andava, ora serve una cosa\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/inter/2026/11/03-152358684/chivu_dopo_il_tris_al_feyenoord_abbiamo_capito_cosa_non_andava_ora_serve_una_cosa/",
-      "estratto": "I nerazzurri conquistano una vittoria pesante a Rotterdam grazie alle reti di Bisseck, Pio Esposito e Zielinski. Il tecnico soddisfatto della prestazione",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-03T22:39:48+00:00"
-    },
-    {
-      "id": "585923ae83",
-      "titolo": "Oxlade-Chamberlain non è il primo grande nome a fallire in Scozia... Cinque superstar che non hanno lasciato il segno nella massima serie scozzese",
-      "url": "https://www.dailymail.com/sport/football/article-16263275/Oxlade-Chamberlain-Scotland-Celtic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Le difficoltà di Alex Oxlade-Chamberlain al Celtic hanno rafforzato la teoria secondo cui la Scottish Premiership non sia una meta adatta per gli ex giocatori della Premier League nella fase calante della loro carriera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T21:34:23+00:00"
-    },
-    {
-      "id": "deca372c1a",
-      "titolo": "Pocognoli sostiene il ritorno di McTominay per guidare la Scozia in una nuova era",
-      "url": "https://www.dailymail.com/sport/football/article-16263187/Pocognoli-McTominay-Scotland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il CT della Scozia Sebastien Pocognoli ha accolto nuovamente Scott McTominay in gruppo dopo l'operazione al cuore e ha rivelato di puntare su di lui per contribuire a dare il via a una nuova era per la nazionale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T20:55:09+00:00"
-    },
-    {
-      "id": "da622cc683",
-      "titolo": "Il tecnico del Celtic Martin O'Neill e la dirigenza sottoposti a un 'duro ma equo' fuoco di fila dai tifosi a Greenock",
-      "url": "https://www.dailymail.com/sport/football/article-16263117/Celtic-ONeill-supporters-Greenock.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Lunedì sera Martin O'Neill e i membri anziani del consiglio di amministrazione del Celtic sono stati sottoposti a domande 'dure ma eque' durante un incontro presso il Greenock Celtic Supporters' Club, come rivelato dal club.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T20:36:48+00:00"
-    },
-    {
-      "id": "a3c14e90af",
-      "titolo": "Caotici fuori dal campo, disastrosi in campo: la pesante sconfitta di Falkirk lascia O'Neill su un filo del rasoio",
-      "url": "https://www.dailymail.com/sport/football/article-16256721/Shambolic-Celtic-Falkirk-ONeill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ci è voluto buona mezz'ora ai tifosi del Celtic domenica pomeriggio per intonare il loro ormai tradizionale coro \"Sack the Board, Sack the Board\".",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T20:06:06+00:00"
     }
   ]
 }
