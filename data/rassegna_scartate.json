@@ -1,7 +1,79 @@
 {
-  "aggiornato": "2026-11-06T05:10:40.183755+00:00",
-  "totale": 56,
+  "aggiornato": "2026-11-06T12:57:18.261132+00:00",
+  "totale": 58,
   "articoli": [
+    {
+      "id": "4e5df39a42",
+      "titolo": "Il Leeds vanta la striscia casalinga di imbattibilità più lunga della Premier League: tra una nuova strategia di trasferimenti, riposini e la scelta di puntare sulla 'ruvidità' anziché sulla 'comodità', ecco come Elland Road è tornata a essere un fortino",
+      "url": "https://www.dailymail.com/sport/football/article-16262579/Leeds-unbeaten-home-Premier-League-Elland-Road-fortress.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il fattore Elland Road non è un mito. Il Leeds detiene la striscia di imbattibilità casalinga più lunga tra tutte le squadre della massima serie e, da quando Farke ha assunto la guida, solo Arsenal, Manchester City e Liverpool hanno ottenuto più punt",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T12:40:31+00:00"
+    },
+    {
+      "id": "290612ad17",
+      "titolo": "'Non è motivo di preoccupazione': perché Enzo Maresca continuerà a puntare sullo 'straordinario' Gianluigi Donnarumma nonostante il disastro di Lipsia, i troppi errori e un trend allarmante",
+      "url": "https://www.dailymail.com/sport/football/article-16268851/maresca-donnarumma-manchester-city.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JACK GAUGHAN: Momento difficile per Donnarumma; una serata disastrosa in Champions League ha rafforzato l'impressione che le ultime settimane non siano state affatto favorevoli al portiere.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T12:07:02+00:00"
+    },
+    {
+      "id": "f2c0fec396",
+      "titolo": "Anthony Gordon ha lasciato la Premier League per il Barcellona in cerca di 'rispetto' -- ora lo ha ottenuto",
+      "url": "https://www.espn.com/soccer/story/_/id/50377434/anthony-gordon-barcelona-england-premier-league-respect",
+      "estratto": "Il trasferimento di Anthony Gordon al Barcellona è stato una sorpresa per alcuni, ma è diventato rapidamente un idolo dei tifosi al Camp Nou oltre che un giocatore chiave per l'Inghilterra.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T11:02:39+00:00"
+    },
+    {
+      "id": "f5c09db963",
+      "titolo": "L'Arsenal fa troppo affidamento sulle 'arti oscure' del calcio o si tratta solo di ripicca?",
+      "url": "https://www.espn.com/soccer/story/_/id/50390239/are-arsenal-too-reliant-soccer-dark-arts-just-sour-grapes",
+      "estratto": "L'Arsenal sta esagerando con la sua teatralità, il gioco duro e le furbizie? O la gente ce l'ha con loro semplicemente perché funziona? I nostri giornalisti esprimono le loro opinioni sulle 'arti oscure' utilizzate per inseguire i trofei.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T11:02:06+00:00"
+    },
+    {
+      "id": "e29710cac4",
+      "titolo": "Il calcio australiano sconvolto da accuse di combine e scommesse illecite da parte di giocatori sulle proprie partite",
+      "url": "https://www.dailymail.com/sport/football/article-16270721/Cove-FC-fixed-matches-allegations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Calciatori tesserati per un club calcistico australiano sono finiti sotto inchiesta per presunte combine e scommesse illegali sulle partite delle loro stesse squadre.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T10:28:41+00:00"
+    },
+    {
+      "id": "117cdd0f03",
+      "titolo": "Il Valenciennes perde e i tifosi contestano la squadra così: sugli spalti parte la musica da circo!",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/11/06-152415009/il_valenciennes_perde_e_i_tifosi_contestano_la_squadra_cos_sugli_spalti_parte_la_musica_da_circo_/",
+      "estratto": "Curioso siparietto durante il match di Ligue 3 contro l'Orleans, pareggiato in rimonta dai padroni di casa: cos'è successo",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T09:59:54+00:00"
+    },
+    {
+      "id": "c4183a37f5",
+      "titolo": "I tifosi del Sydney FC promettono di tornare sugli spalti dopo che il duro scontro con la polizia aveva scatenato appelli al boicottaggio",
+      "url": "https://www.dailymail.com/sport/football/article-16270663/Sydney-FC-soccer-police-cove.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I sostenitori del Sydney FC faranno ritorno dopo una aspra disputa con le forze dell'ordine nata dalle accuse di aggressione a un minore e dall'arresto e allontanamento dei leader della tifoseria.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T08:07:05+00:00"
+    },
+    {
+      "id": "d23ab3d34f",
+      "titolo": "Alla scoperta della bizzarra armata di eroi improbabili del Brighton: un centrocampista che prende consigli da Lionel Messi, il figlio agile di una ballerina e l'affare da 3 milioni di sterline che ora domina la Premier League",
+      "url": "https://www.dailymail.com/sport/football/article-16264487/brighton-unlikely-heroes-premier-league-title-charge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Noel Gallagher è arrivato all'Etihad Stadium nel fine settimana sperando di assistere a un bis del trionfo in FA Cup del suo amato Manchester City, per poi essere rispedito a casa a suon di musica dei High Flying Seagulls.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-06T07:00:52+00:00"
+    },
     {
       "id": "e49e706314",
       "titolo": "Come James McAtee è diventato il 'quarterback' tutto grinta del Nottingham Forest: il faccia a faccia con Oliver Glasner, il ritiro estivo e il modello Adam Wharton",
@@ -28,15 +100,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-05T23:56:21+00:00"
-    },
-    {
-      "id": "66e61b217d",
-      "titolo": "Italiano si mangia le mani, remuntada Bournemouth: Europa League, risultati e classifica",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/italiano-mangia-mani-87-i-remuntada-i-bournemouth-europa-league-risultati-classifica-2291229",
-      "estratto": "Al tramonto del quarto turno di League Phase di Europa League, i risultati maturati sui campi continentali offrono verdetti e colpi di scena.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-05T23:49:00+00:00"
     },
     {
       "id": "f27a95d1e0",
@@ -120,15 +183,6 @@
       "pubblicato": "2026-11-05T22:07:39+00:00"
     },
     {
-      "id": "04089e60e1",
-      "titolo": "Torriani, che errore contro il Ferencvaros: sbaglia con i piedi e Joseph lo punisce",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152403917/torriani_che_errore_contro_il_ferencvaros_sbaglia_con_i_piedi_e_joseph_lo_punisce/",
-      "estratto": "Il portiere classe 2005 non gestisce al meglio un retropassaggio di De Winter e viene subito punito",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-05T20:58:41+00:00"
-    },
-    {
       "id": "23f93d49ae",
       "titolo": "Adam Wharton vede il rosso: il Crystal Palace strappa un pareggio in Europa League con l'Hoffenheim",
       "url": "http://www.espn.com/soccer/report/_/gameId/401915526",
@@ -154,15 +208,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-11-05T17:51:39+00:00"
-    },
-    {
-      "id": "290612ad17",
-      "titolo": "'Non è motivo di preoccupazione': perché Enzo Maresca continuerà a puntare sullo 'straordinario' Gianluigi Donnarumma nonostante il disastro di Lipsia, i troppi errori e un trend allarmante",
-      "url": "https://www.dailymail.com/sport/football/article-16268851/maresca-donnarumma-manchester-city.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN: Momento difficile per Donnarumma; una serata disastrosa in Champions League ha rafforzato l'impressione che le ultime settimane non siano state affatto favorevoli al portiere.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-05T17:00:52+00:00"
     },
     {
       "id": "30d28820ac",
@@ -478,33 +523,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-03T16:47:46+00:00"
-    },
-    {
-      "id": "ad62e89d7d",
-      "titolo": "La Coppa d'Asia è RINVIATA a soli due mesi dall'inizio per motivi di sicurezza in Arabia Saudita: grande boccata d'ossigeno per i club di Premier League",
-      "url": "https://www.dailymail.com/sport/football/article-16261427/Asia-Cup-Postponed-Saudi-Houthi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il torneo, che si sarebbe dovuto disputare in Arabia Saudita dal 7 gennaio al 5 febbraio, è stato posticipato a dicembre 2027.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T11:13:03+00:00"
-    },
-    {
-      "id": "0f384e2d69",
-      "titolo": "Quattordicenne arrestato per gli sfottò a sfondo offensivo su Bradley Lowery rivolti ai tifosi del Sunderland",
-      "url": "https://www.espn.com/soccer/story/_/id/50367571/boy-14-arrested-coventry-bradley-lowery-taunt-sunderland-fans",
-      "estratto": "Un ragazzo di 14 anni è stato arrestato dopo che un video sui social media sembrava mostrare un tifoso del Coventry prendere in giro i sostenitori del Sunderland riguardo a Bradley Lowery.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T10:53:06+00:00"
-    },
-    {
-      "id": "12eb15696d",
-      "titolo": "La grande scommessa di Oliver Glasner al Nottingham Forest: la squadra che corre nei campi come punizione, perché pensa che i giocatori non siano abbastanza seri e come l'allontanamento delle stelle potrebbe costargli caro",
-      "url": "https://www.dailymail.com/sport/football/article-16258665/Oliver-Glasner-Nottingham-Forest-gamble-punishment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "TOM COLLOMOSSE: Se la gestione calcistica fosse un gioco d'azzardo, Oliver Glasner ha appena fatto l'equivalente di entrare in uno dei migliori casinò di Nottingham e puntare tutto sul rosso.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-03T10:17:21+00:00"
     }
   ]
 }
