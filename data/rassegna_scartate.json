@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-11-07T11:53:14.682860+00:00",
-  "totale": 61,
+  "aggiornato": "2026-11-07T17:28:05.576564+00:00",
+  "totale": 59,
   "articoli": [
+    {
+      "id": "2b72f2e6fb",
+      "titolo": "Calciatore dilettante sviene durante il riscaldamento e viene trasportato d'urgenza in ospedale mentre la partita viene sospesa",
+      "url": "https://www.dailymail.com/sport/football/article-16274291/Non-league-footballer-collapses-warm-rushed-hospital-match-abandoned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La partita del Truro City contro il Folkestone Invicta è stata sospesa a causa di un'emergenza medica dopo che un calciatore è svenuto durante il riscaldamento.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-07T16:56:56+00:00"
+    },
     {
       "id": "d4eacbd7f0",
       "titolo": "Il deriso Thierno Barry non è più motivo di frustrazione: la sua prestazione trascina l'Everton alla vittoria sul Coventry in un'altra grande serata per David Moyes tra il caso Jack Grealish",
@@ -19,15 +28,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-07T11:26:49+00:00"
-    },
-    {
-      "id": "c4d40bdd5f",
-      "titolo": "Donnarumma al City, zero spazio per Trafford: \"Orrendo. Chiami qualcuno per sfogarti\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/donnarumma-city-zero-spazio-trafford-sensazione-orrenda-chiami-sfogarti-2291619",
-      "estratto": "James Trafford se l'è vissuta male.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T11:12:57+00:00"
     },
     {
       "id": "a1a2cd0ca0",
@@ -408,15 +408,6 @@
       "pubblicato": "2026-11-05T16:00:47+00:00"
     },
     {
-      "id": "c13f5ed454",
-      "titolo": "Jack Grealish non rientrerà per l'Everton questo fine settimana - David Moyes",
-      "url": "https://www.espn.com/soccer/story/_/id/50389209/jack-grealish-unavailable-everton-club-discipline-breach",
-      "estratto": "Jack Grealish resta indisponibile per la sfida di Premier League dell'Everton contro il Coventry di venerdì.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-05T15:36:28+00:00"
-    },
-    {
       "id": "fca3507397",
       "titolo": "Kane: Al Bayern siamo sul punto di fare qualcosa di veramente speciale",
       "url": "https://www.espn.com/video/clip/_/id/50387301/verge-really-special-bayern",
@@ -541,15 +532,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-04T21:07:37+00:00"
-    },
-    {
-      "id": "9c5f524514",
-      "titolo": "'I giocatori darebbero la vita per lui': come Scott Parker rimetterà a posto il West Ham - la mano tesa di Mark Noble, il motivo per cui gli addetti ai lavori credono che possa abbandonare lo stile difensivo... e dove tutto è andato storto per il 'distaccato e cupo' Nuno Espirito Santo",
-      "url": "https://www.dailymail.com/sport/football/article-16261611/West-Ham-Scott-Parker-Nuno-Noble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Fonti interne riferiscono che il club sta agendo con maggiore 'normalità' in questo periodo sotto la guida dell'amministratore delegato Karim Virani, e la nomina di Parker sembra un ulteriore passo in quella direzione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-04T13:44:35+00:00"
     }
   ]
 }
