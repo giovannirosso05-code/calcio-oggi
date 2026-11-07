@@ -15,14 +15,6 @@
   "titolo": "La polizia apre un'inchiesta per omicidio sullo scontro in campo che ha causato la morte di un calciatore spagnolo, ma il portiere insultato dai tifosi come 'assassino' eviterà probabilmente le sanzioni penali",
   "estratto": "La polizia in Spagna ha aperto un'inchiesta per omicidio in merito allo scontro in campo che ha portato alla morte di un calciatore spagnolo."
  },
- "423ee28794": {
-  "titolo": "Il Crystal Palace presenta ricorso contro il rosso a Jean-Philippe Mateta nella sconfitta contro il Tottenham, con la stella francese a rischio squalifica per tre giornate",
-  "estratto": "BOBBY MANZI: A Mateta è stato mostrato un cartellino rosso diretto per un intervento in ritardo su Micky van de Ven al 13° minuto della sconfitta per 2-0 contro gli Spurs, colpendo il tendine d'achille del difensore centrale con i tacchetti alti."
- },
- "f96226cd5e": {
-  "titolo": "Matthias Jaissle è al sicuro per ora, ma scaricare le colpe sui giocatori è un gioco pericoloso. Il Newcastle non ha un'identità, una direzione né uno straccio di gioco, e la responsabilità è del tecnico, scrive CRAIG HOPE",
-  "estratto": "CRAIG HOPE: Arriva spesso un momento nella gestione di un allenatore in cui la colpa della sconfitta si sposta dalla panchina allo spogliatoio, ed è invariabilmente il punto di non ritorno."
- },
  "3309b909c5": {
   "titolo": "Svelato come Mikel Arteta usa la NASA per risolvere i problemi di infortuni dell'Arsenal, e come Google e Apple si uniscono alla lotta",
   "estratto": "ISAAN KHAN: Mikel Arteta ha spesso superato i confini della stravaganza nella sua ricerca dell'eccellenza all'Arsenal. Ma i suoi tentativi di spingere i limiti lo portano letteralmente a toccare le stelle."
@@ -78,10 +70,6 @@
  "ac591f4a89": {
   "titolo": "Nuovi filmati mostrano come il portiere coinvolto nello scontro mortale con il calciatore spagnolo fosse esagitato nei momenti precedenti al tackle 'pericoloso', mentre la polizia indaga sullo staff medico dopo aver aperto un'indagine per omicidio",
   "estratto": "Il portiere dell'FC Andorra Owono si è scontrato con l'attaccante avversario De Miguel nelle fasi finali di un acceso pareggio per 2-2 nella seconda divisione spagnola lunedì, con entrambi i team puniti con cartellini rossi."
- },
- "6446fed39d": {
-  "titolo": "Dietro le quinte della nuova vita di Mason Greenwood in Turchia in vista della sfida contro il Liverpool: come l'ex stella del Manchester United è rimasta sotto i radar, perché i tifosi del Fenerbahce lo hanno accolto e la sua nuova e lussuosa comunità recintata",
-  "estratto": "Ma Mason Greenwood - da quando è stato assalito dai tifosi all'aeroporto di Istanbul insieme alla compagna Harriet Robson e alle due figlie piccole in estate - ha cercato di passare inosservato."
  },
  "d5954c977e": {
   "titolo": "La stella del Como rende un toccante omaggio al calciatore spagnolo ucciso nello scontro fatale con il portiere, mentre la travolgente squadra di Cesc Fàbregas ne segna NOVE nella goleada di Champions League contro il Lens",
@@ -190,14 +178,6 @@
  "1bf8aa1507": {
   "titolo": "Nuovo duro colpo per gli Hearts: l'esterno Calvin Miller out per due mesi per un infortunio al ginocchio",
   "estratto": "Il tecnico degli Hearts Wouter Vrancken ha rivelato che l'esterno titolare Calvin Miller dovrà sottoporsi a un intervento chirurgico al ginocchio che lo terrà lontano dai campi per due mesi."
- },
- "98b7c7b44b": {
-  "titolo": "L'Aston Villa pianifica il futuro a lungo termine con Unai Emery, un messaggio alle rivali",
-  "estratto": "L'Aston Villa ha manifestato l'intenzione di costruire il proprio futuro a lungo termine attorno alla figura del tecnico Unai Emery."
- },
- "8c2043b1d3": {
-  "titolo": "Respinto il ricorso del Crystal Palace per il cartellino rosso a Jean-Philippe Mateta",
-  "estratto": "L'attaccante del Crystal Palace Jean-Philippe Mateta dovrà scontare tre giornate di squalifica dopo che è stato respinto il ricorso contro il cartellino rosso rimediato sabato nella sconfitta per 2-0 in Premier League sul campo del Tottenham."
  },
  "ead7d9940b": {
   "titolo": "Liam Rosenior afferma che l'esonero dal Chelsea non ha avuto «nulla a che fare con il calcio» e solleva dubbi sulla «tolleranza» in Inghilterra nelle sue prime rivelazioni dopo l'addio dopo soli tre mesi",
@@ -626,5 +606,41 @@
  "a64e7c9234": {
   "titolo": "Gio Reyna segna e lascia il campo per un probabile infortunio in vista del ritiro della nazionale statunitense",
   "estratto": "La partecipazione di Gio Reyna con gli Stati Uniti nei quarti di finale della Concacaf Nations League potrebbe essere a rischio dopo che il giocatore è uscito per un probabile infortunio nella sconfitta dello Strasburgo."
+ },
+ "3faae352dc": {
+  "titolo": "\"Tutti continuano a dirmi che è fantastico allenare contro mio figlio... non è così, è orribile\": il tecnico del Peterborough Robbie Savage e la stella del Reading Charlie sulla loro \"imbarazzante\" sfida in FA Cup, il passato al Manchester United e i pericoli per i giovani di oggi",
+  "estratto": "INTERVISTA ESCLUSIVA: La FA Cup ha fatto sentire il suo fascino sui Savage mentre facevano la spesa. Charlie del Reading era da M&S quando il suo telefono ha iniziato a squillare. Robbie era alla Co-op."
+ },
+ "0ddd4c30fd": {
+  "titolo": "Leeds-Tottenham, Premier League: la squadra di Roberto De Zerbi fa visita al fortino di Elland Road, con gli uomini di Daniel Farke imbattuti da OTTO partite in casa",
+  "estratto": "Segui la diretta di Daily Mail Sport di Leeds-Tottenham, prima della sfida tra Arsenal e Hull e della trasferta del Manchester City a Nottingham Forest."
+ },
+ "c835cff779": {
+  "titolo": "\"Voglio vincere il Pallone d'Oro\": JJ Gabriel svela le sue grandi ambizioni. Il sedicenne prodigio del Manchester United si avvicina al Real Madrid dopo aver lasciato i Red Devils",
+  "estratto": "Il giovane talento del Manchester United JJ Gabriel ha rivelato la sua ambizione di vincere il Pallone d'Oro, lasciando intendere chiaramente di essere diretto al Real Madrid in un'intervista ai media spagnoli."
+ },
+ "a1a2cd0ca0": {
+  "titolo": "All'interno della folle sala trofei della leggenda del Chelsea Branislav Ivanovic: foto incorniciate dei suoi 42 gol, un anello di Didier Drogba... e un campo da calcio a LED",
+  "estratto": "La straordinaria sala trofei privata dell'ex difensore del Chelsea Branislav Ivanovic è diventata virale dopo che un tifoso ha pubblicato online il tour del museo."
+ },
+ "a78d8327a8": {
+  "titolo": "I tifosi del Manchester United invitano i sostenitori a NON comprare alcolici a Old Trafford mentre i gruppi intensificano le proteste anti-Glazer e contro Sir Jim Ratcliffe in vista della sfida di domenica con l'Aston Villa",
+  "estratto": "I gruppi di tifosi del Manchester United stanno chiedendo il boicottaggio degli alcolici in occasione della partita di domenica contro l'Aston Villa a Old Trafford, come parte delle proteste contro i proprietari del club."
+ },
+ "a9519f210b": {
+  "titolo": "Aggiornamenti in diretta di Premier League: il Leeds ospita il Tottenham nel match d'anticipo",
+  "estratto": "Un altro fine settimana di calcio europeo è iniziato, con il Leeds United che ospita il Tottenham Hotspur per dare il via al programma del sabato di Premier League."
+ },
+ "f634cd8746": {
+  "titolo": "Manchester United a un bivio: dare fiducia a Carrick o cambiare?",
+  "estratto": "Michael Carrick è in bilico sulla panchina del Manchester United, ma quanto a lungo lui e il club potranno andare avanti così? La partita di domenica contro l'Aston Villa potrebbe dirci tutto."
+ },
+ "4f8c560f55": {
+  "titolo": "Voci di mercato e notizie: Rio Ngumoha del Liverpool resta un obiettivo del Bayern Monaco",
+  "estratto": "Il Bayern Monaco ha ancora nel mirino l'esterno del Liverpool e dell'Inghilterra Rio Ngumoha. Gli ultimi aggiornamenti di calciomercato."
+ },
+ "ce5971479c": {
+  "titolo": "Ellie, moglie dell'attaccante dell'Inghilterra Ollie Watkins, cerca rifugio nel Regno Unito a causa degli attacchi missilistici in Arabia Saudita",
+  "estratto": "Ellie, moglie dell'attaccante dell'Inghilterra Ollie Watkins, ha cercato rifugio nel Regno Unito, cercando un po' di \"normalità\" per i loro figli a seguito degli attacchi missilistici in Arabia Saudita nel contesto del conflitto in Medio Oriente."
  }
 }
