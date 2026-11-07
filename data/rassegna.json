@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-06T23:57:28.899934+00:00",
-  "totale": 188,
+  "aggiornato": "2026-11-07T05:18:38.845159+00:00",
+  "totale": 182,
   "articoli": [
     {
       "id": "8819094b9c",
@@ -27,18 +27,6 @@
       "squadra": "Benfica"
     },
     {
-      "id": "054624f661",
-      "titolo": "Impresa Ferencvaros contro il Milan, l'ex \"italiano\" Nagy: \"La più bella vittoria della mia carriera\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/impresa-ferencvaros-milan-italiano-nagy-la-bella-vittoria-carriera-2291514",
-      "estratto": "Ádám Nagy, centrocampista del Ferencvaros, intervistato da M4 Sport, ha rilasciato queste parole dopo la vittoria in Europa League contro il Milan: \"Il fatto di non aver concesso loro spazio e di averli pressati nei momenti giusti li ha spiazzati....",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 190,
-      "pubblicato": "2026-11-06T22:59:59+00:00",
-      "squadra": "Ferencvaros"
-    },
-    {
       "id": "b488b94e5d",
       "titolo": "\"Contro la Juve per me è come un derby\": l'ex Toro ora alla Fiorentina accende la sfida",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/11/06-152426140/contro_la_juve_per_me_come_un_derby_l_ex_toro_ora_alla_fiorentina_accende_la_sfida/",
@@ -49,6 +37,18 @@
       "punteggio": 190,
       "pubblicato": "2026-11-06T19:30:48+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "1b175c3ad5",
+      "titolo": "Nesta sente aria di derby: \"In quelli di Roma ho fatto i danni...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/avellino/2026/11/06-152418822/nesta_sente_aria_di_derby_in_quelli_di_roma_ho_fatto_i_danni_/",
+      "estratto": "Il tecnico dell'Avellino ha presentato la sfida in trasferta al Vigorito contro il Benevento facendo riferimento ai suoi trascorsi nella Capitale e a Milano da giocatore",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-11-06T13:19:23+00:00",
+      "squadra": "Derby"
     },
     {
       "id": "154bc2de83",
@@ -63,30 +63,6 @@
       "squadra": "Milan"
     },
     {
-      "id": "7f08573bef",
-      "titolo": "Cannavaro torna a parlare dell'Udinese: \"Mi hanno mandato via senza spiegarmi il perché\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/cannavaro-torna-parlare-udinese-mi-mandato-via-spiegarmi-perche-2291443",
-      "estratto": "Ospite dei microfoni di Sky Calcio Unplagged, Fabio Cannavaro, attuale ct dell'Uzbekistan, non ha solo palesato il suo sogno di allenare, un giorno, la Nazionale italiana, ma ha avuto modo anche di tornare a parlare della breve avventura in Serie A s",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-11-06T23:04:00+00:00",
-      "squadra": "Udinese"
-    },
-    {
-      "id": "11399e807e",
-      "titolo": "Venezia, grido Nicola: \"Il Penzo come un fortino? Magari, continuiamo a crescere\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/venezia-grido-nicola-il-penzo-fortino-magari-continuiamo-crescere-2291468",
-      "estratto": "È terminata la sfida fra Venezia e Udinese allo stadio Penzo: passa la squadra di Davide Nicola per 2-1 grazie ai gol di Basic e Kike Perez.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-11-06T22:57:00+00:00",
-      "squadra": "Venezia"
-    },
-    {
       "id": "f9c36ac1d1",
       "titolo": "Ascoli-Palermo finisce con un bel pari: Ranocchia risponde all'ex Brunori",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/11/06-152420016/ascoli-palermo_finisce_con_un_bel_pari_ranocchia_risponde_all_ex_brunori/",
@@ -97,6 +73,30 @@
       "punteggio": 160,
       "pubblicato": "2026-11-06T21:51:47+00:00",
       "squadra": "Ascoli"
+    },
+    {
+      "id": "8ecb03c153",
+      "titolo": "Il Venezia batte l'Udinese e la lascia all'ultimo posto: 2-1 al Penzo, perla di Kike Perez",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/venezia-batte-udinese-lascia-posto-2-1-penzo-perla-kike-perez-2291558",
+      "estratto": "L'effetto del cambio di guida tecnica non scuote l'Udinese: la prima di Paolo Zanetti sulla nuova panchina coincide con un altro ko, che spedisce i friulani all'ultimo posto, superati proprio dal Venezia, che passa 2-1 al Penzo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-06T23:53:00+00:00",
+      "squadra": "Venezia"
+    },
+    {
+      "id": "e6c5d64298",
+      "titolo": "L'Everton strapazza il Coventry in rimonta. Amburgo, si vola con l'ex Genoa Gronbaek",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/11/06-152430204/l_everton_strapazza_il_coventry_in_rimonta_amburgo_si_vola_con_l_ex_genoa_gronbaek/",
+      "estratto": "Tris per i Toffees ed il club tedesco. Pari a reti bianche per il Siviglia, il Tolosa stende lo Strasburgo e balza in classifica",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-06T22:17:55+00:00",
+      "squadra": "Everton"
     },
     {
       "id": "a83ddf2ec1",
@@ -171,18 +171,6 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "1b175c3ad5",
-      "titolo": "Nesta sente aria di derby: \"In quelli di Roma ho fatto i danni...\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/avellino/2026/11/06-152418822/nesta_sente_aria_di_derby_in_quelli_di_roma_ho_fatto_i_danni_/",
-      "estratto": "Il tecnico dell'Avellino ha presentato la sfida in trasferta al Vigorito contro il Benevento facendo riferimento ai suoi trascorsi nella Capitale e a Milano da giocatore",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-06T13:19:23+00:00",
-      "squadra": "Derby"
-    },
-    {
       "id": "291029461d",
       "titolo": "Mentalità Fabregas: “Como 9-1, tutto molto bello. Ma ora pensiamo all’Inter”",
       "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/04-152382162/mentalit_fabregas_como_9-1_tutto_molto_bello_ma_ora_pensiamo_allinter/",
@@ -193,6 +181,17 @@
       "punteggio": 70,
       "pubblicato": "2026-11-04T22:24:05+00:00",
       "squadra": "Como"
+    },
+    {
+      "id": "b466c14c2f",
+      "titolo": "\"Giorgio per noi\", Ferrini per sempre: \"il Capitano dei Capitani\" ricordato da Sala, Pulici, Pecci, Castellini, Cereser e Puja",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/07-152426501/giorgio_per_noi_ferrini_per_sempre_il_capitano_dei_capitani_ricordato_da_sala_pulici_pecci_castellini_cereser_e_puja/",
+      "estratto": "Recordman di presenze in granata: 566 in 16 stagioni. Due Coppe Italia, l’Europeo in nazionale e lo scudetto del 1976 da vice di Radice",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-07T05:00:00+00:00"
     },
     {
       "id": "274e219a24",
@@ -435,6 +434,40 @@
       "pubblicato": "2026-11-04T17:27:00+00:00"
     },
     {
+      "id": "2cb9d87bef",
+      "titolo": "Arijanet Muric, intenzionato a non rimanere a Sassuolo. Per poi essere riscattato poco dopo",
+      "url": "https://www.tuttomercatoweb.com/nato-oggi/arijanet-muric-intenzionato-rimanere-sassuolo-riscattato-2290576",
+      "estratto": "\"Ho informato il club che non voglio rimanere qua dopo questa stagione per motivi personali.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-07T04:00:12+00:00",
+      "squadra": "Sassuolo"
+    },
+    {
+      "id": "805a2af425",
+      "titolo": "Le partite di oggi: il programma di sabato 7 novembre",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-sabato-7-novembre-2291496",
+      "estratto": "Tanti appuntamenti da non perdere nei principali campionati europei, oggi sabato 7 novembre.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-07T03:30:11+00:00"
+    },
+    {
+      "id": "10f5185be9",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 6 novembre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-6-novembre-2291502",
+      "estratto": "MILAN, GONCALO INACIO IL NOME CALDO PER LA DIFESA, NAPOLI, TRE PROFILI PER IL CENTROCAMPO.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-07T00:00:00+00:00"
+    },
+    {
       "id": "3f5d7d808f",
       "titolo": "Amorim non parlerà prima di Genova e spera di recuperare Pavlovic. Krosche si prepara",
       "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/amorim-parlera-genova-spera-recuperare-pavlovic-krosche-prepara-2291551",
@@ -490,18 +523,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-11-06T22:42:10+00:00"
-    },
-    {
-      "id": "e6c5d64298",
-      "titolo": "L'Everton strapazza il Coventry in rimonta. Amburgo, si vola con l'ex Genoa Gronbaek",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/11/06-152430204/l_everton_strapazza_il_coventry_in_rimonta_amburgo_si_vola_con_l_ex_genoa_gronbaek/",
-      "estratto": "Tris per i Toffees ed il club tedesco. Pari a reti bianche per il Siviglia, il Tolosa stende lo Strasburgo e balza in classifica",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-06T22:17:55+00:00",
-      "squadra": "Everton"
     },
     {
       "id": "f118661c75",
@@ -798,18 +819,6 @@
       "squadra": "Milan"
     },
     {
-      "id": "8ecb03c153",
-      "titolo": "Il Venezia batte l'Udinese e la lascia all'ultimo posto: 2-1 al Penzo, perla di Kike Perez",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/venezia-batte-udinese-lascia-posto-2-1-penzo-perla-kike-perez-2291558",
-      "estratto": "L'effetto del cambio di guida tecnica non scuote l'Udinese: la prima di Paolo Zanetti sulla nuova panchina coincide con un altro ko, che spedisce i friulani all'ultimo posto, superati proprio dal Venezia, che passa 2-1 al Penzo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -80,
-      "pubblicato": "2026-11-06T23:53:00+00:00",
-      "squadra": "Venezia"
-    },
-    {
       "id": "62e0f1909e",
       "titolo": "Serie B, Ascoli-Palermo 1-1: l’ex Brunori illude i marchigiani, Ranocchia firma il pari",
       "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-b-ascoli-palermo-1-1-l-ex-brunori-illude-marchigiani-ranocchia-firma-pari-2291533",
@@ -820,6 +829,30 @@
       "punteggio": -80,
       "pubblicato": "2026-11-06T23:34:00+00:00",
       "squadra": "Ascoli"
+    },
+    {
+      "id": "7c5406164c",
+      "titolo": "L'arbitraggio di Sacchi in Venezia-Udinese: personalità nella gestione dei testa a testa",
+      "url": "https://www.tuttomercatoweb.com/serie-a/arbitraggio-sacchi-venezia-udinese-personalita-gestione-testa-testa-2291554",
+      "estratto": "L'11^ giornata di Serie A è cominciata con la vittoria del Venezia contro l'Udinese, un 2-1 che è valso per gli arancioneroverdi l'abbandono dell'ultimo posto in solitaria nella classifica, adesso a pieno appannaggio dei bianconeri del Friuli.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-11-06T23:20:35+00:00",
+      "squadra": "Venezia"
+    },
+    {
+      "id": "847e81d907",
+      "titolo": "L'Everton batte il Coventry e aggancia il Chelsea al quarto posto",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/11/06-152420658/l_everton_batte_il_coventry_e_aggancia_il_chelsea_al_quarto_posto/",
+      "estratto": "La 10ª giornata di Premier League si è aperta con la sfida dell'Hill Dickinson Stadium, che ha visto la squadra di Moyes imporsi per 3-1",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-11-06T22:16:13+00:00",
+      "squadra": "Everton"
     },
     {
       "id": "2a2633de3c",
@@ -930,18 +963,6 @@
       "squadra": "Fenerbahce"
     },
     {
-      "id": "847e81d907",
-      "titolo": "L'Everton batte il Coventry e aggancia il Chelsea al quarto posto",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/11/06-152420658/l_everton_batte_il_coventry_e_aggancia_il_chelsea_al_quarto_posto/",
-      "estratto": "La 10ª giornata di Premier League si è aperta con la sfida dell'Hill Dickinson Stadium, che ha visto la squadra di Moyes imporsi per 3-1",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-11-06T22:16:13+00:00",
-      "squadra": "Everton"
-    },
-    {
       "id": "f9fb7e4e7d",
       "titolo": "Voci di mercato e news: l'Arsenal segue Nusa del RB Leipzig dopo il rifiuto di Vinicius",
       "url": "https://www.espn.com/soccer/story/_/id/50397632/transfer-rumors-news-arsenal-tracking-rb-leipzig-antonio-nusa-vinicius-jr-snub",
@@ -1050,15 +1071,15 @@
       "squadra": "Aston Villa"
     },
     {
-      "id": "c90c2b323a",
-      "titolo": "Botta e risposta tra ex Juve, Palermo ancora imbattuto: contro l'Ascoli finisce in parità",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/palermo/2026/11/06-152429014/botta_e_risposta_tra_ex_juve_palermo_ancora_imbattuto_contro_l_ascoli_finisce_in_parit/",
-      "estratto": "Termina in parità lo scontro al vertice in Serie B. Inzaghi resta al primo posto, ma il Modena del Gallo Belotti può accorciare in classifica",
-      "fonte": "Tuttosport",
+      "id": "8ce27756a5",
+      "titolo": "Serie B, Juve Stabia-Arezzo: match tra due team che vogliono risalire la classifica",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-juve-stabia-arezzo-sfida-squadre-vogliono-risalire-classifica-2291562",
+      "estratto": "Dopo il pareggio per 2-2 rimediato in trasferta contro l’Empoli, la Juve Stabia di De Giorgio torna al Romeo Menti.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -250,
-      "pubblicato": "2026-11-06T21:56:13+00:00",
+      "pubblicato": "2026-11-07T05:12:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1074,15 +1095,15 @@
       "squadra": "Milan"
     },
     {
-      "id": "7c5406164c",
-      "titolo": "L'arbitraggio di Sacchi in Venezia-Udinese: personalità nella gestione dei testa a testa",
-      "url": "https://www.tuttomercatoweb.com/serie-a/arbitraggio-sacchi-venezia-udinese-personalita-gestione-testa-testa-2291554",
-      "estratto": "L'11^ giornata di Serie A è cominciata con la vittoria del Venezia contro l'Udinese, un 2-1 che è valso per gli arancioneroverdi l'abbandono dell'ultimo posto in solitaria nella classifica, adesso a pieno appannaggio dei bianconeri del Friuli.",
-      "fonte": "TMW",
+      "id": "58c21b844f",
+      "titolo": "Capolavoro Perez, è gioia Nicola! Il Venezia stende l'Udinese e lascia l'ultimo posto ai friulani",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/venezia/2026/11/06-152428661/capolavoro_perez_gioia_nicola_il_venezia_stende_l_udinese_e_lascia_l_ultimo_posto_ai_friulani/",
+      "estratto": "Gli arancioneroverdi raccolgono tre punti d'oro contro i friulani e si portano a quota 6: crisi nera per la squadra di Zanetti",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -280,
-      "pubblicato": "2026-11-06T23:20:35+00:00",
+      "pubblicato": "2026-11-06T21:44:05+00:00",
       "squadra": "Venezia"
     },
     {
@@ -1134,15 +1155,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "bb38bd71ad",
-      "titolo": "7 novembre 1990, l'Inter ribalta l'Aston Villa. Tre a zero e passaggio del turno",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/7-novembre-1990-inter-ribalta-aston-villa-zero-passaggio-turno-2290558",
-      "estratto": "Il 7 novembre del 1990, a San Siro, va in scena la Coppa UEFA.",
-      "fonte": "TMW",
+      "id": "1aece7877c",
+      "titolo": "Inter-Como, attacchi da panico: negli scontri diretti oltre 3 centri a partita",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/06-152413511/inter-como_attacchi_da_panico_negli_scontri_diretti_oltre_3_centri_a_partita/",
+      "estratto": "Dopo le vittorie in Champions, domenica a San Siro lo show è assicurato: sono a 71 gol in due",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-11-06T23:00:38+00:00",
+      "pubblicato": "2026-11-06T09:26:48+00:00",
       "squadra": "Inter Milan"
     },
     {
@@ -1254,15 +1275,15 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "de663ef40c",
-      "titolo": "Il tesoretto Juve cresce! I milioni già incassati e quelli che possono arrivare dall'Europa League",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/06-152424788/il_tesoretto_juve_cresce_i_milioni_gi_incassati_e_quelli_che_possono_arrivare_dall_europa_league/",
-      "estratto": "I bianconeri possono sorridere due volte dopo la vittoria arrivata in trasferta contro l'Az Alkmaar: ecco perché",
+      "id": "c90c2b323a",
+      "titolo": "Botta e risposta tra ex Juve, Palermo ancora imbattuto: contro l'Ascoli finisce in parità",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/palermo/2026/11/06-152429014/botta_e_risposta_tra_ex_juve_palermo_ancora_imbattuto_contro_l_ascoli_finisce_in_parit/",
+      "estratto": "Termina in parità lo scontro al vertice in Serie B. Inzaghi resta al primo posto, ma il Modena del Gallo Belotti può accorciare in classifica",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -450,
-      "pubblicato": "2026-11-06T19:36:00+00:00",
+      "pubblicato": "2026-11-06T21:56:13+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1278,15 +1299,15 @@
       "squadra": "Milan"
     },
     {
-      "id": "58c21b844f",
-      "titolo": "Capolavoro Perez, è gioia Nicola! Il Venezia stende l'Udinese e lascia l'ultimo posto ai friulani",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/venezia/2026/11/06-152428661/capolavoro_perez_gioia_nicola_il_venezia_stende_l_udinese_e_lascia_l_ultimo_posto_ai_friulani/",
-      "estratto": "Gli arancioneroverdi raccolgono tre punti d'oro contro i friulani e si portano a quota 6: crisi nera per la squadra di Zanetti",
-      "fonte": "Tuttosport",
+      "id": "bc49667dc5",
+      "titolo": "Venezia-Udinese 2-1: magia di Kike Perez, Zanetti battuto alla prima in bianconero",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/06-152420022/venezia-udinese_2-1_magia_di_kike_perez_zanetti_battuto_alla_prima_in_bianconero/",
+      "estratto": "Nell'anticipo dell'11ª giornata di Serie A i lagunari tornano alla vittoria dopo 3 ko di fila: decisivi Basic e un missile dello spagnolo",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -480,
-      "pubblicato": "2026-11-06T21:44:05+00:00",
+      "pubblicato": "2026-11-06T21:42:56+00:00",
       "squadra": "Venezia"
     },
     {
@@ -1314,18 +1335,6 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "6be1c4daeb",
-      "titolo": "Kompany verso il rientro, l’assistente rassicura: tornerà dopo la sosta internazionale",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/kompany-rientro-l-assistente-rassicura-tornera-sosta-internazionale-2291463",
-      "estratto": "Buone notizie per Vincent Kompany.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-11-06T22:56:55+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
       "id": "1aeeb68cdd",
       "titolo": "Deschamps rifiuta lo United, Carrick resta in bilico nonostante la Roma: cosa sta succedendo",
       "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/11/06-152417625/deschamps_rifiuta_lo_united_carrick_resta_in_bilico_nonostante_la_roma_cosa_sta_succedendo/",
@@ -1336,6 +1345,18 @@
       "punteggio": -570,
       "pubblicato": "2026-11-06T12:04:56+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "16ca92160c",
+      "titolo": "Inter, da squadra completa",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152365023/inter_da_squadra_completa/",
+      "estratto": "Leggi il commento sulla vittoria dei nerazzurri a Rottederdam, contro il Feyenoord, in Champions League dopo la sconfitta nel derby in campionato contro il Milan",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -570,
+      "pubblicato": "2026-11-04T10:15:57+00:00",
+      "squadra": "Inter Milan"
     },
     {
       "id": "d5954c977e",
@@ -1446,15 +1467,15 @@
       "squadra": "Newcastle"
     },
     {
-      "id": "70caf512f2",
-      "titolo": "Se telefonando: ecco chi aspetta la chiamata dei ct e chi invece resta alla Juve",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/06-152408918/se_telefonando_ecco_chi_aspetta_la_chiamata_dei_ct_e_chi_invece_resta_alla_juve/",
-      "estratto": "La lista dei bianconeri certi di ricevere la convocazione dai rispettivi commissari tecnici per gli impegni di Nations League",
+      "id": "de663ef40c",
+      "titolo": "Il tesoretto Juve cresce! I milioni già incassati e quelli che possono arrivare dall'Europa League",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/06-152424788/il_tesoretto_juve_cresce_i_milioni_gi_incassati_e_quelli_che_possono_arrivare_dall_europa_league/",
+      "estratto": "I bianconeri possono sorridere due volte dopo la vittoria arrivata in trasferta contro l'Az Alkmaar: ecco perché",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -650,
-      "pubblicato": "2026-11-06T08:28:27+00:00",
+      "pubblicato": "2026-11-06T19:36:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1468,18 +1489,6 @@
       "punteggio": -650,
       "pubblicato": "2026-11-05T20:04:18+00:00",
       "squadra": "Milan"
-    },
-    {
-      "id": "bc49667dc5",
-      "titolo": "Venezia-Udinese 2-1: magia di Kike Perez, Zanetti battuto alla prima in bianconero",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/06-152420022/venezia-udinese_2-1_magia_di_kike_perez_zanetti_battuto_alla_prima_in_bianconero/",
-      "estratto": "Nell'anticipo dell'11ª giornata di Serie A i lagunari tornano alla vittoria dopo 3 ko di fila: decisivi Basic e un missile dello spagnolo",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -680,
-      "pubblicato": "2026-11-06T21:42:56+00:00",
-      "squadra": "Venezia"
     },
     {
       "id": "fee2f34b61",
@@ -1504,18 +1513,6 @@
       "punteggio": -770,
       "pubblicato": "2026-11-06T12:16:16+00:00",
       "squadra": "AS Roma"
-    },
-    {
-      "id": "1aece7877c",
-      "titolo": "Inter-Como, attacchi da panico: negli scontri diretti oltre 3 centri a partita",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/06-152413511/inter-como_attacchi_da_panico_negli_scontri_diretti_oltre_3_centri_a_partita/",
-      "estratto": "Dopo le vittorie in Champions, domenica a San Siro lo show è assicurato: sono a 71 gol in due",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -770,
-      "pubblicato": "2026-11-06T09:26:48+00:00",
-      "squadra": "Inter Milan"
     },
     {
       "id": "f3765cbea4",
@@ -1650,18 +1647,6 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "16ca92160c",
-      "titolo": "Inter, da squadra completa",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152365023/inter_da_squadra_completa/",
-      "estratto": "Leggi il commento sulla vittoria dei nerazzurri a Rottederdam, contro il Feyenoord, in Champions League dopo la sconfitta nel derby in campionato contro il Milan",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-11-04T10:15:57+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
       "id": "7662d6292f",
       "titolo": "Roma, ripresa di rimpianti",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/04-152365011/roma_ripresa_di_rimpianti/",
@@ -1746,18 +1731,6 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "a23a09a7c7",
-      "titolo": "Romeo Lavia: Incontrare Eden Hazard mi ha dato una motivazione in più per avere successo al Chelsea",
-      "url": "https://www.espn.com/soccer/story/_/id/50379015/romeo-lavia-chelsea-eden-hazard-belgium-xabi-alonso-premier-league",
-      "estratto": "Il centrocampista del Chelsea Romeo Lavia ha dichiarato che un incontro con il collega belga Eden Hazard gli ha fornito una motivazione extra mentre cerca di dare continuità a un inizio di stagione incoraggiante.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-11-04T17:27:50+00:00",
-      "squadra": "Chelsea "
-    },
-    {
       "id": "9e93ddce70",
       "titolo": "Napoli-Lazio, Allegri in emergenza totale: si rompe un altro titolarissimo!",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/11/06-152423007/napoli-lazio_allegri_in_emergenza_totale_si_rompe_un_altro_titolarissimo_/",
@@ -1782,15 +1755,15 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "bccba1184d",
-      "titolo": "Michael Carrick interviene per scortare negli spogliatoi Matheus Cunha, espulso dopo che il match-winner del Manchester United ha cercato di festeggiare la vittoria sulla Roma",
-      "url": "https://www.dailymail.com/sport/football/article-16263721/Michael-Carrick-Matheus-Cunha-tunnel-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "CHRIS WHEELER: Cunha ha assistito alla fine della partita seduto su un tabellone pubblicitario invece di andare negli spogliatoi, e ha cercato di entrare in campo al triplice fischio per festeggiare.",
-      "fonte": "Daily Mail",
+      "id": "70b33f8304",
+      "titolo": "Burley: non si sa mai quale versione del Manchester United scenderà in campo",
+      "url": "https://www.espn.com/video/clip/_/id/50402416/never-know-which-version-manchester-united-turn-up",
+      "estratto": "Burley: non si sa mai quale versione del Manchester United scenderà in campo",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1170,
-      "pubblicato": "2026-11-04T03:44:59+00:00",
+      "punteggio": -1200,
+      "pubblicato": "2026-11-07T00:13:11+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1854,18 +1827,6 @@
       "squadra": "Napoli"
     },
     {
-      "id": "aefb0627b3",
-      "titolo": "Un orgoglioso Bruno Fernandes sostiene di non essere stato escluso per aver criticato pubblicamente Michael Carrick - e si scaglia contro \"un sacco di bugie\" in un'intervista al vetriolo dopo la clamorosa rimonta per 3-2 del Manchester United sulla Roma",
-      "url": "https://www.dailymail.com/sport/football/article-16263527/Bruno-Fernandes-Man-United-Roma-Champions-League-interview.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Bruno Fernandes si è lasciato andare a un duro sfogo sopra le righe dopo la straordinaria vittoria in rimonta del Manchester United contro la Roma martedì sera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -1370,
-      "pubblicato": "2026-11-04T01:12:22+00:00",
-      "squadra": "Man Utd"
-    },
-    {
       "id": "7660076212",
       "titolo": "Il capitano di Cassano nella Primavera del Como è stato convocato dal Perù: chi è Andrealli",
       "url": "https://www.tuttomercatoweb.com/serie-a/capitano-cassano-primavera-convocato-peru-francesco-andrealli-2291527",
@@ -1876,6 +1837,18 @@
       "punteggio": -1400,
       "pubblicato": "2026-11-06T23:30:59+00:00",
       "squadra": "Como"
+    },
+    {
+      "id": "a8cc6c4a56",
+      "titolo": "Carlos Baleba del Manchester United rischia un lungo stop per un infortunio al bicipite femorale",
+      "url": "https://www.espn.com/soccer/story/_/id/50399365/man-united-carlos-baleba-set-long-injury-absence-hamstring-issue",
+      "estratto": "Il tecnico del Manchester United Michael Carrick ha confermato che Carlos Baleba si avvia verso un lungo periodo di stop dopo aver subito un infortunio al bicipite femorale contro la Roma.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1400,
+      "pubblicato": "2026-11-06T18:07:36+00:00",
+      "squadra": "Man Utd"
     },
     {
       "id": "21299a3c3f",
@@ -1926,15 +1899,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "70b33f8304",
-      "titolo": "Burley: non si sa mai quale versione del Manchester United scenderà in campo",
-      "url": "https://www.espn.com/video/clip/_/id/50402416/never-know-which-version-manchester-united-turn-up",
-      "estratto": "Burley: non si sa mai quale versione del Manchester United scenderà in campo",
+      "id": "9df894c3ab",
+      "titolo": "L'allenatore del Manchester United fa la differenza? Potrebbe Jurgen Klopp riportare la gloria della Premier League a Old Trafford?",
+      "url": "https://www.espn.com/soccer/story/_/id/50395131/does-man-united-coach-matter-jurgen-klopp-reach-premier-league-glory-old-trafford",
+      "estratto": "Se il Manchester United avesse ingaggiato un tecnico leggendario come Jurgen Klopp, avrebbe vinto la Premier League? Scopriamolo!",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1600,
-      "pubblicato": "2026-11-06T22:45:12+00:00",
+      "pubblicato": "2026-11-06T13:15:28+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1974,18 +1947,6 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "3f9409c594",
-      "titolo": "Calciomercato, le voci: il Real Madrid segue Calafiori dell'Arsenal",
-      "url": "https://www.espn.com/soccer/story/_/id/50366900/transfer-rumors-news-real-madrid-tracking-arsenal-calafiori",
-      "estratto": "Il Real Madrid sta monitorando il difensore dell'Arsenal Riccardo Calafiori come obiettivo principale per rinforzare la fascia sinistra. Le ultime indiscrezioni di mercato.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1600,
-      "pubblicato": "2026-11-04T04:58:15+00:00",
-      "squadra": "Real Madrid"
-    },
-    {
       "id": "15b242bde0",
       "titolo": "Crisi Napoli, De Laurentiis arriva a Castel Volturno",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/06-152416024/crisi_napoli_de_laurentiis_arriva_a_castel_volturno/",
@@ -1998,15 +1959,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "a8cc6c4a56",
-      "titolo": "Carlos Baleba del Manchester United rischia un lungo stop per un infortunio al bicipite femorale",
-      "url": "https://www.espn.com/soccer/story/_/id/50399365/man-united-carlos-baleba-set-long-injury-absence-hamstring-issue",
-      "estratto": "Il tecnico del Manchester United Michael Carrick ha confermato che Carlos Baleba si avvia verso un lungo periodo di stop dopo aver subito un infortunio al bicipite femorale contro la Roma.",
-      "fonte": "ESPN",
+      "id": "34d08fe65a",
+      "titolo": "Dietro le quinte del piano segreto del Manchester United per strappare Sir Alex Ferguson all'Aberdeen, 40 anni fa: dalle telefonate con finto accento scozzese agli incontri clandestini ai distributori della M74 la notte dei falò",
+      "url": "https://www.dailymail.com/sport/football/article-16271005/man-united-poach-sir-alex-ferguson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ricorrono oggi esattamente 40 anni da quando il Manchester United ingaggiò Sir Alex Ferguson come allenatore, inaugurando l'era di maggior successo nella storia del club.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1800,
-      "pubblicato": "2026-11-06T18:07:36+00:00",
+      "pubblicato": "2026-11-06T13:07:38+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -2034,18 +1995,6 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "fdc83cfc25",
-      "titolo": "Il dilemma Dominik Szoboszlai: uno dei migliori centrocampisti d'Europa attorno a cui il Liverpool deve costruire la squadra? O un pesce fuor d'acqua di cui si fa a meno? Ecco cosa dovrebbe fare Andoni Iraola",
-      "url": "https://www.dailymail.com/sport/football/article-16258587/Dominik-Szoboszlai-Liverpool-dilemma-Iraola.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Szoboszlai è passato dall'essere il primo nome sulla lista dei titolari a dover lottare per un posto nell'undici iniziale. Per alcuni tifosi è diventato il capro espiatorio. Quindi, il Liverpool sta davvero meglio senza di lui?",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1800,
-      "pubblicato": "2026-11-04T02:00:53+00:00",
-      "squadra": "Liverpool"
-    },
-    {
       "id": "fec8293e9d",
       "titolo": "'Perché state parlando? Vaffanculo!': Kevin De Bruyne al centro del caos nello spogliatoio del Napoli mentre una squadra 'divisa' scivola verso il 'disastro'... con una cultura del 'si salvi chi può' che si insedia tra i giganti italiani",
       "url": "https://www.dailymail.com/sport/football/article-16270911/kevin-bruyne-napoli-serie-a.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -2058,15 +2007,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "9df894c3ab",
-      "titolo": "L'allenatore del Manchester United fa la differenza? Potrebbe Jurgen Klopp riportare la gloria della Premier League a Old Trafford?",
-      "url": "https://www.espn.com/soccer/story/_/id/50395131/does-man-united-coach-matter-jurgen-klopp-reach-premier-league-glory-old-trafford",
-      "estratto": "Se il Manchester United avesse ingaggiato un tecnico leggendario come Jurgen Klopp, avrebbe vinto la Premier League? Scopriamolo!",
-      "fonte": "ESPN",
+      "id": "246b2976f8",
+      "titolo": "Didier Deschamps 'non vuole la panchina del Manchester United': tegola per Sir Jim Ratcliffe, con l'ex Ct della Francia attualmente senza squadra che appare titubante nel sostituire il contestato Michael Carrick",
+      "url": "https://www.dailymail.com/sport/football/article-16271001/didier-deschamps-man-united-michael-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Carrick resta in carica ma i suoi superiori parlano privatamente con possibili successori da settimane, dopo un inizio di stagione disastroso che ha fatto sprofondare la squadra al 17esimo posto in Premier League.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -2000,
-      "pubblicato": "2026-11-06T13:15:28+00:00",
+      "pubblicato": "2026-11-06T09:37:39+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -2094,15 +2043,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "34d08fe65a",
-      "titolo": "Dietro le quinte del piano segreto del Manchester United per strappare Sir Alex Ferguson all'Aberdeen, 40 anni fa: dalle telefonate con finto accento scozzese agli incontri clandestini ai distributori della M74 la notte dei falò",
-      "url": "https://www.dailymail.com/sport/football/article-16271005/man-united-poach-sir-alex-ferguson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ricorrono oggi esattamente 40 anni da quando il Manchester United ingaggiò Sir Alex Ferguson come allenatore, inaugurando l'era di maggior successo nella storia del club.",
-      "fonte": "Daily Mail",
+      "id": "b074aca519",
+      "titolo": "Voci di mercato, notizie: Aït-Nouri verso i rivali del Man United?",
+      "url": "https://www.espn.com/soccer/story/_/id/50386327/transfer-rumors-news-premier-league-clubs-line-como-defender",
+      "estratto": "Il Manchester United starebbe valutando un'operazione per il difensore del Manchester City Rayan Aït-Nouri. Gli ultimi aggiornamenti di Transfer Talk.",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -2200,
-      "pubblicato": "2026-11-06T13:07:38+00:00",
+      "pubblicato": "2026-11-05T22:00:28+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -2118,30 +2067,6 @@
       "squadra": "Napoli"
     },
     {
-      "id": "246b2976f8",
-      "titolo": "Didier Deschamps 'non vuole la panchina del Manchester United': tegola per Sir Jim Ratcliffe, con l'ex Ct della Francia attualmente senza squadra che appare titubante nel sostituire il contestato Michael Carrick",
-      "url": "https://www.dailymail.com/sport/football/article-16271001/didier-deschamps-man-united-michael-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Carrick resta in carica ma i suoi superiori parlano privatamente con possibili successori da settimane, dopo un inizio di stagione disastroso che ha fatto sprofondare la squadra al 17esimo posto in Premier League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -2400,
-      "pubblicato": "2026-11-06T09:37:39+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "b074aca519",
-      "titolo": "Voci di mercato, notizie: Aït-Nouri verso i rivali del Man United?",
-      "url": "https://www.espn.com/soccer/story/_/id/50386327/transfer-rumors-news-premier-league-clubs-line-como-defender",
-      "estratto": "Il Manchester United starebbe valutando un'operazione per il difensore del Manchester City Rayan Aït-Nouri. Gli ultimi aggiornamenti di Transfer Talk.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -2600,
-      "pubblicato": "2026-11-05T22:00:28+00:00",
-      "squadra": "Man Utd"
-    },
-    {
       "id": "5872df1d75",
       "titolo": "L'ex stella del Man United Clayton Blackmore costretto a scusarsi per aver incoraggiato Mason Greenwood a «tornare a casa da noi» dopo la vittoria dell'ala contro il Liverpool con il Fenerbahce",
       "url": "https://www.dailymail.com/sport/football/article-16268849/Ex-Man-United-star-Clayton-Blackmore-forced-apologise-encouraging-Mason-Greenwood-come-home-winger-beat-Liverpool-Fenerbahce-three-years-leaving-Old-Trafford-following-dropped-charges-suspected-attempted-rape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -2149,7 +2074,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -2800,
+      "punteggio": -2400,
       "pubblicato": "2026-11-05T18:28:03+00:00",
       "squadra": "Man Utd"
     },
@@ -2161,7 +2086,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3000,
+      "punteggio": -2600,
       "pubblicato": "2026-11-05T16:21:16+00:00",
       "squadra": "Man Utd"
     },
@@ -2173,7 +2098,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3200,
+      "punteggio": -2800,
       "pubblicato": "2026-11-05T11:22:28+00:00",
       "squadra": "Man Utd"
     },
@@ -2185,7 +2110,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3400,
+      "punteggio": -3000,
       "pubblicato": "2026-11-05T09:24:08+00:00",
       "squadra": "Man Utd"
     },
@@ -2197,7 +2122,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3600,
+      "punteggio": -3200,
       "pubblicato": "2026-11-04T16:18:43+00:00",
       "squadra": "Man Utd"
     },
@@ -2209,7 +2134,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3800,
+      "punteggio": -3400,
       "pubblicato": "2026-11-04T15:59:47+00:00",
       "squadra": "Man Utd"
     },
@@ -2221,7 +2146,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4000,
+      "punteggio": -3600,
       "pubblicato": "2026-11-04T13:45:44+00:00",
       "squadra": "Man Utd"
     }

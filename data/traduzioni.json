@@ -11,10 +11,6 @@
   "titolo": "Le condizioni del calciatore spagnolo \"stanno peggiorando\", fa sapere il suo club in un drammatico aggiornamento alle 4 del mattino dopo l'arresto cardiaco seguito a un tremendo scontro con il portiere che ha portato alla sospensione della partita",
   "estratto": "De Miguel, 30 anni, era stato ricoverato in terapia intensiva a seguito di una terrificante collisione con il portiere dell'Andorra Jesus Owono, che ha costretto alla sospensione del match di campionato nei minuti di recupero."
  },
- "3f9409c594": {
-  "titolo": "Calciomercato, le voci: il Real Madrid segue Calafiori dell'Arsenal",
-  "estratto": "Il Real Madrid sta monitorando il difensore dell'Arsenal Riccardo Calafiori come obiettivo principale per rinforzare la fascia sinistra. Le ultime indiscrezioni di mercato."
- },
  "d737aa1efb": {
   "titolo": "La polizia apre un'inchiesta per omicidio sullo scontro in campo che ha causato la morte di un calciatore spagnolo, ma il portiere insultato dai tifosi come 'assassino' eviterà probabilmente le sanzioni penali",
   "estratto": "La polizia in Spagna ha aperto un'inchiesta per omicidio in merito allo scontro in campo che ha portato alla morte di un calciatore spagnolo."
@@ -43,21 +39,9 @@
   "titolo": "Il Manchester United compie una rimonta miracolosa contro la Roma che esalta, emoziona e fa discutere... finalmente Michael Carrick ha qualcosa a cui aggrapparsi, scrive IAN LADYMAN",
   "estratto": "IAN LADYMAN AD OLD TRAFFORD: Ancora una volta hanno intonato il nome di Michael Carrick e questa volta non è stato per solidarietà. Questa volta è diverso."
  },
- "bccba1184d": {
-  "titolo": "Michael Carrick interviene per scortare negli spogliatoi Matheus Cunha, espulso dopo che il match-winner del Manchester United ha cercato di festeggiare la vittoria sulla Roma",
-  "estratto": "CHRIS WHEELER: Cunha ha assistito alla fine della partita seduto su un tabellone pubblicitario invece di andare negli spogliatoi, e ha cercato di entrare in campo al triplice fischio per festeggiare."
- },
- "aefb0627b3": {
-  "titolo": "Un orgoglioso Bruno Fernandes sostiene di non essere stato escluso per aver criticato pubblicamente Michael Carrick - e si scaglia contro \"un sacco di bugie\" in un'intervista al vetriolo dopo la clamorosa rimonta per 3-2 del Manchester United sulla Roma",
-  "estratto": "Bruno Fernandes si è lasciato andare a un duro sfogo sopra le righe dopo la straordinaria vittoria in rimonta del Manchester United contro la Roma martedì sera."
- },
  "2e38d23126": {
   "titolo": "Unai Emery ha ridotto il divario tra l'Aston Villa e l'élite europea - ma uno straripante Barcellona ha dimostrato che c'è ancora strada da fare mentre Lamine Yamal incanta, scrive OLIVER HOLT",
   "estratto": "OLIVER HOLT ALLO SPOTIFY CAMP NOU: Si ha ancora la sensazione che l'Aston Villa sia a un passo da qualcosa di più grande, ma si è giocato male la sua occasione per dimostrarlo martedì sera."
- },
- "fdc83cfc25": {
-  "titolo": "Il dilemma Dominik Szoboszlai: uno dei migliori centrocampisti d'Europa attorno a cui il Liverpool deve costruire la squadra? O un pesce fuor d'acqua di cui si fa a meno? Ecco cosa dovrebbe fare Andoni Iraola",
-  "estratto": "Szoboszlai è passato dall'essere il primo nome sulla lista dei titolari a dover lottare per un posto nell'undici iniziale. Per alcuni tifosi è diventato il capro espiatorio. Quindi, il Liverpool sta davvero meglio senza di lui?"
  },
  "0a557339d3": {
   "titolo": "Michael Carrick potrebbe ESSERE ANCORA a un passo dall'esonero. Una notte di passione senza precedenti è tra le migliori del Manchester United, ma lascia più domande che risposte, scrive CHRIS WHEELER",
@@ -150,10 +134,6 @@
  "52638740d5": {
   "titolo": "JJ Gabriel vicino a unirsi al Real Madrid - fonti",
   "estratto": "Il Real Madrid si sta avvicinando alla vittoria nella corsa per ingaggiare JJ Gabriel del Manchester United, battendo i giganti europei tra cui il Barcellona, hanno riferito alcune fonti a ESPN."
- },
- "a23a09a7c7": {
-  "titolo": "Romeo Lavia: Incontrare Eden Hazard mi ha dato una motivazione in più per avere successo al Chelsea",
-  "estratto": "Il centrocampista del Chelsea Romeo Lavia ha dichiarato che un incontro con il collega belga Eden Hazard gli ha fornito una motivazione extra mentre cerca di dare continuità a un inizio di stagione incoraggiante."
  },
  "72730c2a6d": {
   "titolo": "Moreno: Liverpool costantemente incline agli errori",
@@ -634,5 +614,17 @@
  "2e09cd07be": {
   "titolo": "La doppietta di Barry lancia l'Everton al 5° posto con la vittoria sul Coventry",
   "estratto": "Il momento d'oro di Thierno Barry ha spinto l'Everton tra le prime cinque, grazie alla vittoria in rimonta per 3-1 contro il Coventry."
+ },
+ "9c023354cc": {
+  "titolo": "Perché il Charlton è in crisi: James Sharpe svela i fallimenti estivi, la misteriosa scomparsa di un giocatore e le voci di una nuova cessione mentre la squadra di Nathan Jones barcolla sull'orlo del baratro",
+  "estratto": "La paura è tornata a farsi sentire al Valley. Undici partite senza vittorie e la squadra in bilico sopra la zona retrocessione della Championship. Una tifoseria che ha già percorso questa lunga e infida strada in passato."
+ },
+ "9edcd9479a": {
+  "titolo": "Frank Lampard scontento per tre decisioni arbitrali chiave nella sconfitta del Coventry contro l'Everton",
+  "estratto": "Il tecnico del Coventry City, Frank Lampard, si è detto contrariato per il fatto che tre decisioni cruciali siano state sfavorevoli alla sua squadra nella sconfitta per 3-1 di venerdì contro l'Everton."
+ },
+ "a64e7c9234": {
+  "titolo": "Gio Reyna segna e lascia il campo per un probabile infortunio in vista del ritiro della nazionale statunitense",
+  "estratto": "La partecipazione di Gio Reyna con gli Stati Uniti nei quarti di finale della Concacaf Nations League potrebbe essere a rischio dopo che il giocatore è uscito per un probabile infortunio nella sconfitta dello Strasburgo."
  }
 }
