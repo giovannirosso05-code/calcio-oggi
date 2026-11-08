@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-08T00:35:27.128755+00:00",
-  "totale": 162,
+  "aggiornato": "2026-11-08T06:44:27.252607+00:00",
+  "totale": 161,
   "articoli": [
     {
       "id": "58882fcb03",
@@ -11,68 +11,44 @@
       "serie": "Estero",
       "citazione": true,
       "punteggio": 340,
-      "pubblicato": "2026-11-07T23:56:26+00:00",
+      "pubblicato": "2026-11-08T01:33:22+00:00",
       "squadra": "Man Utd"
     },
     {
-      "id": "b5eab8b11e",
-      "titolo": "Roma, Gasperini vola al 2° posto: \"La gente si riconosce in noi\". Aquilani a rischio esonero",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/roma-gasperini-vola-2-posto-la-riconosce-noi-aquilani-rischio-esonero-2291903",
-      "estratto": "Due stati d'animo opposti al termine di Roma-Sassuolo.",
+      "id": "c91a590894",
+      "titolo": "Roma, una vittoria per chiudere il tour de force: 3-0 al Sassuolo. Gasp: “Siamo forti”",
+      "url": "https://www.tuttomercatoweb.com/serie-a/roma-vittoria-chiudere-tour-de-force-3-0-sassuolo-gasp-siamo-forti-2291907",
+      "estratto": "Terza vittoria consecutiva in campionato per la Roma, ma la notizia più importante per Gian Piero Gasperini arriva forse dal calendario: ora ci saranno due settimane di sosta per recuperare i numerosi giocatori ancora ai box.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
-      "punteggio": 210,
-      "pubblicato": "2026-11-07T23:53:47+00:00",
+      "punteggio": 190,
+      "pubblicato": "2026-11-08T05:38:09+00:00",
       "squadra": "AS Roma"
     },
     {
-      "id": "f05a2295c4",
-      "titolo": "Avellino, Palmiero dopo il pari con il Benevento: \"Serve uno step in più\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/avellino-palmiero-pari-benevento-serve-step-piu-2291881",
-      "estratto": "Luca Palmiero, centrocampista dell'Avellino, ha parlato in conferenza stampa dopo il pareggio contro il Benevento.",
+      "id": "38ced9627b",
+      "titolo": "Verona, Dawidowicz: \"E' mancato solo il gol. E' importante non aver di nuovo preso gol\"",
+      "url": "https://www.tuttomercatoweb.com/serie-b/verona-dawidowicz-e-mancato-gol-importante-preso-gol-2291916",
+      "estratto": "Dopo il pareggio arrivato a Mantova, il difensore del Verona Pawel Dawidowicz ha analizzato il match ai microfoni dei canali ufficiali del club: \"E' mancato solo il gol.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 160,
-      "pubblicato": "2026-11-07T23:19:12+00:00",
-      "squadra": "Avellino"
+      "pubblicato": "2026-11-08T06:35:00+00:00",
+      "squadra": "Verona"
     },
     {
-      "id": "46fdf0dcb7",
-      "titolo": "Cagliari, Caprile superstar: \"La deviazione sulla traversa? Ero fermo, serve anche fortuna\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/cagliari-caprile-superstar-la-deviazione-traversa-fermo-serve-fortuna-2291785",
-      "estratto": "Il portiere del Cagliari Elia Caprile ha parlato ai microfoni di DAZN, dopo il match contro il Frosinone vinto per 1-0 e valido per l’11^ giornata di Serie A.",
+      "id": "f72a800425",
+      "titolo": "Torino stoppato dal Lecce, Simeone trova il problema: “Negli ultimi 30 metri…”",
+      "url": "https://www.tuttomercatoweb.com/serie-a/torino-stoppato-lecce-simeone-trova-problema-negli-ultimi-30-metri-2291906",
+      "estratto": "Il Torino interrompe la striscia negativa, ma non riesce a ritrovare la vittoria.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 160,
-      "pubblicato": "2026-11-07T23:15:36+00:00",
-      "squadra": "Cagliari"
-    },
-    {
-      "id": "5e7f83a011",
-      "titolo": "Lecce, N'Dri: \"Sono molto contento di aver dato una svolta dalla panchina\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/lecce-n-dri-2291802",
-      "estratto": "Konan Ignace Jocelyn N'Dri, attaccante del Lecce, ha commentato ai microfoni di Dazn il pareggio contro il Torino: \"Sono molto contento per il bel gol, avendo dato una svolta alla partita dalla panchina\".",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-11-07T23:08:22+00:00",
-      "squadra": "Lecce"
-    },
-    {
-      "id": "e349ef1ada",
-      "titolo": "Benevento, Siatounis dopo il pari con l'Avellino: \"Peccato, avremmo meritato la vittoria\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/benevento-siatounis-pari-avellino-peccato-meritato-vittoria-2291889",
-      "estratto": "Antonis Siatounis, centrocampista del Benevento, ha parlato in conferenza stampa dopo il derby contro l'Avellino.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 160,
-      "pubblicato": "2026-11-07T23:04:09+00:00",
-      "squadra": "Benevento"
+      "pubblicato": "2026-11-08T05:53:00+00:00",
+      "squadra": "Torino"
     },
     {
       "id": "74634ac6c9",
@@ -87,16 +63,28 @@
       "squadra": "Sassuolo"
     },
     {
-      "id": "0acdb92586",
-      "titolo": "Torino-Lecce 1-1, N'Dri risponde a Simeone: i granata si fermano sul palo, Falcone salva i salentini",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/torino/2026/11/07-152444098/torino-lecce_1-1_n_dri_risponde_a_simeone_i_granata_si_fermano_sul_palo_falcone_salva_i_salentini/",
-      "estratto": "Pareggio all'Olimpico Grande Torino nell'undicesima giornata di Serie A. Gara iniziata con 16 minuti di ritardo per un problema alle linee del campo",
-      "fonte": "Corriere dello Sport",
+      "id": "adaa033d61",
+      "titolo": "Cheddira risponde a Siatounis, l'Avellino strappa il pari a Benevento. Mantova fermato dal Verona",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/11/07-152449848/cheddira_risponde_a_siatounis_l_avellino_strappa_il_pari_a_benevento_mantova_fermato_dal_verona/",
+      "estratto": "Un punto a testa per Floro Flores e Nesta, così come in altre tre partite della giornata. Vincono Cesena e Juve Stabia",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 160,
-      "pubblicato": "2026-11-07T16:18:37+00:00",
-      "squadra": "Torino"
+      "pubblicato": "2026-11-07T20:33:00+00:00",
+      "squadra": "Avellino"
+    },
+    {
+      "id": "2931e80483",
+      "titolo": "Abate e Simeone in coro: \"Ecco cosa deve migliorare il Toro. Rabbia per non aver vinto con il Lecce\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/07-152449943/abate_e_simeone_in_coro_ecco_cosa_deve_migliorare_il_toro_rabbia_per_non_aver_vinto_con_il_lecce/",
+      "estratto": "Il tecnico granata e il Cholito commentano il pari interno contro i salentini di Di Francesco: le reazioni del postpartita",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-11-07T19:04:10+00:00",
+      "squadra": "Lecce"
     },
     {
       "id": "c3be29af3f",
@@ -147,18 +135,6 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "0b0ba77769",
-      "titolo": "Successi per Cesena e Juve Stabia, bene Spezia e Ravenna: i risultati fra Serie B, C e A femminile",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/successi-cesena-juve-stabia-spezia-ravenna-risultati-serie-b-femminile-2291849",
-      "estratto": "Gol e sorprese nel pomeriggio di Serie B, Serie C e Serie A femminile.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 150,
-      "pubblicato": "2026-11-07T23:34:46+00:00",
-      "squadra": "Cesena"
-    },
-    {
       "id": "fc6fda71f2",
       "titolo": "Il Bologna non si ferma più, trionfo nel derby a Parma: Palladino aggancia la Juventus",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/11/07-152449539/il_bologna_non_si_ferma_pi_trionfo_nel_derby_a_parma_palladino_aggancia_la_juventus/",
@@ -195,6 +171,18 @@
       "squadra": "Galatasaray"
     },
     {
+      "id": "4d8bf84692",
+      "titolo": "Mourinho sull'ultima vittoria del Real Madrid: Spogliatoio felice -- con una musica orribile",
+      "url": "https://www.espn.com/soccer/story/_/id/50414787/jose-mourinho-real-madrid-valencia-music-laliga",
+      "estratto": "José Mourinho ha descritto uno spogliatoio del Real Madrid felice dopo l'ottava vittoria consecutiva, prima di scherzare sul fatto che i suoi giocatori avessero festeggiato con una \"musica orribile\".",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-08T01:26:29+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
       "id": "db0eb4ba80",
       "titolo": "La crisi del Manchester City non si spiega con la sentenza: troppi errori, troppi gesti di stizza e problemi di campo dopo il ko per 3-1 contro il Nottingham Forest, scrive JACK GAUGHAN",
       "url": "https://www.dailymail.com/sport/football/article-16268037/Man-Citys-sinking-form-excused-115-charges-errors-arm-waving-epidemic-individual-mistakes-football-problems-writes-JACK-GAUGHAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -205,30 +193,6 @@
       "punteggio": 120,
       "pubblicato": "2026-11-08T00:21:55+00:00",
       "squadra": "Man City"
-    },
-    {
-      "id": "660d576d7e",
-      "titolo": "Il derby della Via Emilia si decide al sesto minuto: e il Bologna vola, quarta vittoria di fila",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/bologna-parma-2291893",
-      "estratto": "Per un Parma che si lecca le ferite, c'è un Bologna che sprinta verso la zona Europa.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-11-07T23:49:08+00:00",
-      "squadra": "Derby"
-    },
-    {
-      "id": "723fee7846",
-      "titolo": "Mourinho merita 'elogi' per il suo inizio come allenatore del Real Madrid?",
-      "url": "https://www.espn.com/video/clip/_/id/50413417/does-mourinho-deserve-praise-start-real-madrid-manager",
-      "estratto": "Does Mourinho deserve 'praise' for his start as Real Madrid manager?",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-11-07T23:11:58+00:00",
-      "squadra": "Real Madrid"
     },
     {
       "id": "5d112560cc",
@@ -255,18 +219,6 @@
       "squadra": "Peterborough"
     },
     {
-      "id": "6ce3abdfe6",
-      "titolo": "Ligue 1, comanda Parigi: vittorie per Psg e Paris Fc",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/11/07-152435450/ligue_1_comanda_parigi_vittorie_per_psg_e_paris_fc/",
-      "estratto": "Capitoline protagoniste nel sabato della 10ª giornata del campionato francese: due successi di misura per i primi due posti in classifica",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-11-07T22:19:17+00:00",
-      "squadra": "Paris FC"
-    },
-    {
       "id": "388d550c72",
       "titolo": "Il Nottingham Forest condanna il Manchester City alla terza sconfitta consecutiva in Premier League",
       "url": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss",
@@ -289,6 +241,18 @@
       "punteggio": 120,
       "pubblicato": "2026-11-07T19:41:01+00:00",
       "squadra": "Leeds"
+    },
+    {
+      "id": "93575f7a2e",
+      "titolo": "Il Cagliari torna a vincere con un gol pazzesco di Adopo: Frosinone ko",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/07-152441191/il_cagliari_torna_a_vincere_con_un_gol_pazzesco_di_adopo_frosinone_ko/",
+      "estratto": "I rossoblù di Pisacane interrompono la serie di quattro sconfitte consecutive. Ai ciociari non basta l’assedio nella ripresa: Caprile para tutto e ferma la corsa di Alvini",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-07T15:57:17+00:00",
+      "squadra": "Cagliari"
     },
     {
       "id": "dd41acecb2",
@@ -315,18 +279,6 @@
       "squadra": "Spurs"
     },
     {
-      "id": "385d928d7d",
-      "titolo": "Bocchetti riparte dalla Turchia: l’ex Verona e Monza è il nuovo allenatore del Karagumruk",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/11/07-152435165/bocchetti_riparte_dalla_turchia_lex_verona_e_monza_il_nuovo_allenatore_del_karagumruk/",
-      "estratto": "Il tecnico italiano inizia una nuova avventura, ripartendo dalla Serie B turca, nel club guidato in passato anche da Pirlo",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-11-07T11:28:13+00:00",
-      "squadra": "Verona"
-    },
-    {
       "id": "de8f2c699f",
       "titolo": "'Vincere all'Emirates è difficilissimo... ma eravamo una squadra di guerrieri': l'eroe dell'Hull City GEOVANNI sul suo gol iconico contro l'Arsenal, sul perché non sia quasi successo e sul perché i Tigers 'saranno sempre nel mio cuore'",
       "url": "https://www.dailymail.com/sport/football/article-16267913/geovanni-hull-city-arsenal-goal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -351,16 +303,40 @@
       "squadra": "Parma"
     },
     {
-      "id": "4b049c644b",
-      "titolo": "Pavan, la Juve le cambia ruolo e lei risponde in Champions: “Mi sono lasciata tutto alle spalle”",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152431526/pavan_la_juve_le_cambia_ruolo_e_lei_risponde_in_champions_mi_sono_lasciata_tutto_alle_spalle/",
-      "estratto": "La calciatrice bianconera difende le idee di Guerrero: “Ha bisogno di tempo. Redondo? Che fortuna imparare da lei”",
-      "fonte": "Tuttosport",
+      "id": "17be577ab0",
+      "titolo": "Jude Bellingham visita l'allenamento degli Atlanta Falcons",
+      "url": "https://www.espn.com/video/clip/_/id/50390519/jude-bellingham-visits-atlanta-falcons-training-session",
+      "estratto": "Jude Bellingham visita l'allenamento degli Atlanta Falcons",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-05T18:01:50+00:00",
+      "squadra": "Atlanta"
+    },
+    {
+      "id": "5d00b72661",
+      "titolo": "Bacconi gioca per noi Inter-Como: \"Una delle due dovrà rinunciare al dominio\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bacconi-gioca-inter-como-una-rinunciare-dominio-2291739",
+      "estratto": "Una partita che regalerà il meglio che il calcio italiano oggi ha da offrire.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
-      "punteggio": 90,
-      "pubblicato": "2026-11-07T08:25:18+00:00",
-      "squadra": "Juventus"
+      "punteggio": 70,
+      "pubblicato": "2026-11-08T06:30:00+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "1a2fd0dc2d",
+      "titolo": "Maurizio De Giovanni: Il \"teorema dello spaghetto\" e gli errori sul mercato del Napoli",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/maurizio-de-giovanni-napoli-spaccato-rosa-sbagliata-allegri-preso-cacciarlo-suicidio-2291915",
+      "estratto": "Una tempesta perfetta, nel momento peggiore degli ultimi dieci anni, Maurizio De Giovanni, scrittore e viscerale tifoso azzurro, non usa giri di parole ai microfoni di Radio Tutto Napoli.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-11-08T06:26:19+00:00",
+      "squadra": "Napoli"
     },
     {
       "id": "2cb0110dfc",
@@ -373,41 +349,6 @@
       "punteggio": 70,
       "pubblicato": "2026-11-07T23:39:28+00:00",
       "squadra": "Milan"
-    },
-    {
-      "id": "4ce40f8970",
-      "titolo": "Addio Fonseca al Lione, l'allenatore ad interim Maciel: \"Sarò il vice di chi sta per arrivare\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/addio-fonseca-lione-allenatore-interim-maciel-saro-vice-arrivare-2291866",
-      "estratto": "Jorge Maciel, promosso allenatore ad interim del Lione dopo l'addio inaspettato da parte di Paulo Fonseca, ha confermato in conferenza stampa che tornerà a ricoprire il ruolo di vice con l'arrivo imminente di un nuovo tecnico, previsto probabilmente ",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-07T23:27:00+00:00"
-    },
-    {
-      "id": "855b8f4566",
-      "titolo": "La battuta di Gasperini che fa ridere tutti: \"Napoli-Lazio e Inter-Como? Siamo tutti sul trespolo come i gufi...\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/07-152457430/la_battuta_di_gasperini_che_fa_ridere_tutti_napoli-lazio_e_inter-como_siamo_tutti_sul_trespolo_come_i_gufi_/",
-      "estratto": "Il tecnico soddisfatto dopo il 3-0 al Sassuolo ride e scherza. Ma si toglie anche un sassolino dalle scarpe: \"Rimonta del Manchester partita da un rigore assurdo\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-07T22:08:47+00:00",
-      "squadra": "Napoli"
-    },
-    {
-      "id": "ffe4b7dad1",
-      "titolo": "Gasperini: \"Inter-Como? Sul trespolo. Soulé straordinario\". Aquilani traballa: \"Sono in discussione\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/11/07-152457933/gasperini_inter-como_sul_trespolo_soul_straordinario_aquilani_traballa_sono_in_discussione/",
-      "estratto": "Il tecnico giallorosso parla dopo il tris dell'Olimpico contro il Sassuolo: ecco le reazione del postpartita",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-07T21:41:42+00:00",
-      "squadra": "Inter Milan"
     },
     {
       "id": "cc27da3c77",
@@ -432,6 +373,18 @@
       "punteggio": 70,
       "pubblicato": "2026-11-07T14:02:20+00:00",
       "squadra": "Fiorentina"
+    },
+    {
+      "id": "7d44afbfe9",
+      "titolo": "Dragusin ricorda la Juve: \"Arrivato a 16 anni, orgoglioso del mio percorso. Ora sono felice qui\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/11/07-152437372/dragusin_ricorda_la_juve_arrivato_a_16_anni_orgoglioso_del_mio_percorso_ora_sono_felice_qui/",
+      "estratto": "Il difensore della Fiorentina è uno dei grandi ex della partita contro i bianconeri: \"Sappiamo quanto significhi per i tifosi\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-11-07T12:57:56+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "cb3bf9a8a7",
@@ -466,40 +419,6 @@
       "citazione": true,
       "punteggio": 60,
       "pubblicato": "2026-11-07T19:50:29+00:00"
-    },
-    {
-      "id": "5b6eff9c57",
-      "titolo": "8 novembre 2000, il Panathinaikos affonda la Juventus. E la elimina dalla Champions",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/8-novembre-2000-panathinaikos-affonda-juventus-elimina-champions-2290963",
-      "estratto": "L'8 novembre del 2000, allo Stadio Olimpico Spyros Louis, il Panathinaikos ospita la Juventus per la sesta gara della fase ai gironi di Champions League.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 50,
-      "pubblicato": "2026-11-07T23:00:33+00:00",
-      "squadra": "Panathinaikos"
-    },
-    {
-      "id": "238c3ff834",
-      "titolo": "Gattuso: \"Allegri sgamato, non mi fido. Spero di fare un quarto della sua carriera\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/gattuso-allegri-sgamato-fido-spero-carriera-2291672",
-      "estratto": "Il tecnico della Lazio Gennaro Gattuso ha parlato in conferenza stampa prima della sfida contro il Napoli, soffermandosi sul suo periodo in azzurro e sull'allenatore Massimiliano Allegri: Che Napoli troverete? \"Servirà grande umiltà e bisognerà veder",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-07T23:30:06+00:00"
-    },
-    {
-      "id": "de1af8c461",
-      "titolo": "Pellegatti: \"Jashari non ha fatto nulla, nessuna prova decente da parte delle alternative\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/pellegatti-jashari-nulla-prova-decente-alternative-2291754",
-      "estratto": "Il Milan arriva alla sfida di campionato contro il Genoa dopo una figuraccia in Europa League, rimediata perdendo per 0-2 a San Siro contro il Ferencvaros.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-07T23:23:29+00:00"
     },
     {
       "id": "8309b1bc9d",
@@ -570,15 +489,61 @@
       "squadra": "Fenerbahce"
     },
     {
-      "id": "1c3cb28c96",
-      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 7 novembre",
-      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-7-novembre-2291897",
-      "estratto": "SASSUOLO, VALUTAZIONI IN CORSO SU AQUILANI DOPO IL KO CON LA ROMA.",
+      "id": "8d0df406f9",
+      "titolo": "Le prime pagine dei quotidiani italiani e stranieri di oggi, domenica 8 novembre",
+      "url": "https://www.tuttomercatoweb.com/rassegna-stampa/prime-pagine-quotidiani-italiani-stranieri-oggi-domenica-8-novembre-2291910",
+      "estratto": "Le prime pagine dei quotidiani nazionali di oggi, domenica 8 novembre, sono dedicati a Inter-Como di oggi pomeriggio (ore 18) che potrebbe confermare lo strapotere dei campioni d'Italia in carica, che in caso di successo potrebbero agganciare la Lazi",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-08T00:00:00+00:00"
+      "pubblicato": "2026-11-08T06:05:30+00:00"
+    },
+    {
+      "id": "be8b58a2ec",
+      "titolo": "Spalletti aspetta Conceicao, ma arrivano buone notizie: recuperati McKennie e Celik",
+      "url": "https://www.tuttomercatoweb.com/serie-a/spalletti-aspetta-conceicao-arrivano-buone-notizie-recuperati-mckennie-celik-2291841",
+      "estratto": "Questa mattina, la Juventus partirà alla volta di Firenze e nell’elenco dei convocati ci potrebbe essere anche Francisco Conceicao.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-08T05:45:49+00:00"
+    },
+    {
+      "id": "5502b62d21",
+      "titolo": "Serie B, Vicenza-Cremonese: biancorossi per il riscatto, i grigiorossi per la risalita",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-vicenza-cremonese-biancorossi-riscatto-grigiorossi-risalita-2291755",
+      "estratto": "Il posticipo domenicale dell'undicesima giornata del campionato di Serie B mette di fronte Vicenza e Cremonese allo stadio \"Romeo Menti\".",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-08T05:22:50+00:00",
+      "squadra": "Vicenza"
+    },
+    {
+      "id": "30966396d7",
+      "titolo": "Fabregas, il Golden Boy Tuttosport e il calcio elettrico dell'EuroComo",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/08-152439304/fabregas_il_golden_boy_tuttosport_e_il_calcio_elettrico_dell_eurocomo/",
+      "estratto": "\"Hai una visione?\", gli chiese Suwarso a fine carriera, quando gli propose di allenare i lariani: Cesc rispose sì...",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-08T05:00:00+00:00"
+    },
+    {
+      "id": "6ce3abdfe6",
+      "titolo": "Ligue 1, comanda Parigi: vittorie per Psg e Paris Fc",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/11/07-152435450/ligue_1_comanda_parigi_vittorie_per_psg_e_paris_fc/",
+      "estratto": "Capitoline protagoniste nel sabato della 10ª giornata del campionato francese: due successi di misura per i primi due posti in classifica",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-07T22:19:17+00:00",
+      "squadra": "Paris FC"
     },
     {
       "id": "3b4d7c9125",
@@ -673,18 +638,6 @@
       "squadra": "Brighton"
     },
     {
-      "id": "17be577ab0",
-      "titolo": "Jude Bellingham visita l'allenamento degli Atlanta Falcons",
-      "url": "https://www.espn.com/video/clip/_/id/50390519/jude-bellingham-visits-atlanta-falcons-training-session",
-      "estratto": "Jude Bellingham visita l'allenamento degli Atlanta Falcons",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-05T18:01:50+00:00",
-      "squadra": "Atlanta"
-    },
-    {
       "id": "61cf404787",
       "titolo": "L'agonia della compagna del tragico calciatore, rimasta sola mentre lui moriva in ospedale: come i familiari non riuscivano a contattare la fidanzata di Jesus de Miguel – dopo che il padre è scoppiato in lacrime in un bar vedendo il tremendo scontro in TV",
       "url": "https://www.dailymail.com/sport/football/article-16265023/Agony-tragic-footballers-girlfriend-stuck-died-hospital-family-not-reach-Jesus-Miguels-partner-father-burst-tears-bar-watching-horror-collision-TV.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -718,52 +671,28 @@
       "pubblicato": "2026-11-05T09:14:08+00:00"
     },
     {
-      "id": "5bf7e95169",
-      "titolo": "Walter Novellino: \"Roma squadra vera. Napoli, le polemiche non mi piacciono. Il nuovo Perugia...\"",
-      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/walter-novellino-roma-squadra-vera-napoli-polemiche-piacciono-perugia-2291904",
-      "estratto": "\"La Roma fino alla fine darà fastidio all'Inter e alla Lazio, ne sono sicuro.",
-      "fonte": "TMW",
+      "id": "ebd7bfafe0",
+      "titolo": "Fienga “professore” a Harvard: dalla Roma all’Al Nassr di Ronaldo, il racconto della sua esperienza",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/11/07-152440070/fienga_professore_a_harvard_dalla_roma_allal_nassr_di_ronaldo_il_racconto_della_sua_esperienza/",
+      "estratto": "A Boston, l'attuale advisor PIF sport, ex CEO del club giallorosso e di quello saudita, si è soffermato su diversi argomenti",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -10,
-      "pubblicato": "2026-11-07T23:18:24+00:00",
+      "pubblicato": "2026-11-07T14:11:14+00:00",
       "squadra": "AS Roma"
     },
     {
-      "id": "dd5fe6d1d3",
-      "titolo": "Cagliari, Grandu dopo il debutto: \"Ognuno mi ha fatto sentire la propria vicinanza\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/cagliari-grandu-debutto-ognuno-sentire-propria-vicinanza-2291791",
-      "estratto": "Il terzino del Cagliari Nicola Grandu ha parlato ai microfoni di DAZN, dopo il match contro il Frosinone vinto per 1-0 e valido per l’11^ giornata di Serie A.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -40,
-      "pubblicato": "2026-11-07T22:59:02+00:00",
-      "squadra": "Cagliari"
-    },
-    {
-      "id": "adaa033d61",
-      "titolo": "Cheddira risponde a Siatounis, l'Avellino strappa il pari a Benevento. Mantova fermato dal Verona",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/11/07-152449848/cheddira_risponde_a_siatounis_l_avellino_strappa_il_pari_a_benevento_mantova_fermato_dal_verona/",
-      "estratto": "Un punto a testa per Floro Flores e Nesta, così come in altre tre partite della giornata. Vincono Cesena e Juve Stabia",
+      "id": "cc222f48e3",
+      "titolo": "\"Giorgio figlio del Grande Torino: lo scudetto è anche suo\": Ferrini per sempre",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/08-152451271/giorgio_figlio_del_grande_torino_lo_scudetto_anche_suo_ferrini_per_sempre/",
+      "estratto": "Il racconto di Motto, 96 anni, primo capitano dopo Superga: lo scoprì a Trieste, convinse il papà a lasciarlo partire a 15 anni, gli fece da fratello maggiore",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -40,
-      "pubblicato": "2026-11-07T20:33:00+00:00",
-      "squadra": "Avellino"
-    },
-    {
-      "id": "2931e80483",
-      "titolo": "Abate e Simeone in coro: \"Ecco cosa deve migliorare il Toro. Rabbia per non aver vinto con il Lecce\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/07-152449943/abate_e_simeone_in_coro_ecco_cosa_deve_migliorare_il_toro_rabbia_per_non_aver_vinto_con_il_lecce/",
-      "estratto": "Il tecnico granata e il Cholito commentano il pari interno contro i salentini di Di Francesco: le reazioni del postpartita",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -40,
-      "pubblicato": "2026-11-07T19:04:10+00:00",
-      "squadra": "Lecce"
+      "pubblicato": "2026-11-08T05:15:00+00:00",
+      "squadra": "Torino"
     },
     {
       "id": "86cc2c9ef0",
@@ -778,6 +707,18 @@
       "squadra": "Bayern"
     },
     {
+      "id": "01c7f2182c",
+      "titolo": "L'Avellino riacciuffa il Benevento nel derby al Vigorito, la Juve Stabia e il Cesena piegano l'Arezzo e il Catanzaro",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/11/07-152441192/la_juve_stabia_piega_l_arezzo_il_cesena_di_misura_sul_catanzaro_nel_sabato_di_serie_b/",
+      "estratto": "In archivio le gare del sabato valide per l'undicesima giornata di Serie B: doppio 2-2 in Padova-Empoli e Pisa-Südtirol, pari a reti inviolate tra Mantova e Verona",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -50,
+      "pubblicato": "2026-11-07T16:03:28+00:00",
+      "squadra": "Avellino"
+    },
+    {
       "id": "d8190ff0df",
       "titolo": "Un in cresciuto Newcastle frena la caduta con l'1-1 a Fulham, ma una difesa da comica e la scarsa vena realizzativa lasceranno a Matthias Jaissle il rimpianto per un'occasione sprecata, scrive CRAIG HOPE",
       "url": "https://www.dailymail.com/sport/football/article-16268035/Sloppy-defending-wasteful-finishing-leaves-Newcastle-rueing-missed-opportunity-Fulham-HOPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -790,16 +731,16 @@
       "squadra": "Newcastle"
     },
     {
-      "id": "bc8b4808c1",
-      "titolo": "Torino e Lecce muovono la classifica dopo una serie di sconfitte. Ma ridono solo i salentini",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/torino-lecce-muovono-classifica-serie-sconfitte-ridono-salentini-2291742",
-      "estratto": "Il pari fra Torino e Lecce fa più felici i salentini che si mostrano squadra da trasferta: 1-1 all'Olimpico-Grande Torino con la squadra di Eusebio Di Francesco che ottiene il 7° punto fuori casa su 10 totali.",
-      "fonte": "TMW",
-      "serie": "Serie A",
+      "id": "723fee7846",
+      "titolo": "Mourinho merita 'elogi' per il suo inizio come allenatore del Real Madrid?",
+      "url": "https://www.espn.com/video/clip/_/id/50413417/does-mourinho-deserve-praise-start-real-madrid-manager",
+      "estratto": "Does Mourinho deserve 'praise' for his start as Real Madrid manager?",
+      "fonte": "ESPN",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-11-07T23:45:14+00:00",
-      "squadra": "Torino"
+      "pubblicato": "2026-11-07T23:11:58+00:00",
+      "squadra": "Real Madrid"
     },
     {
       "id": "1e0547178b",
@@ -812,18 +753,6 @@
       "punteggio": -80,
       "pubblicato": "2026-11-07T23:06:21+00:00",
       "squadra": "Man City"
-    },
-    {
-      "id": "2c0f310629",
-      "titolo": "Güler ispira l'ottava vittoria consecutiva del Real Madrid per agganciare il Barcellona",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401882808",
-      "estratto": "Arda Güler ha segnato il suo terzo gol in cinque partite trascinando il Real Madrid all'ottava vittoria consecutiva e portandolo a pari punti con il Barcellona grazie a un 3-0 sul campo del Valencia.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -80,
-      "pubblicato": "2026-11-07T22:36:05+00:00",
-      "squadra": "Real Madrid"
     },
     {
       "id": "4d72302752",
@@ -886,6 +815,18 @@
       "squadra": "Sassuolo"
     },
     {
+      "id": "385d928d7d",
+      "titolo": "Bocchetti riparte dalla Turchia: l’ex Verona e Monza è il nuovo allenatore del Karagumruk",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/11/07-152435165/bocchetti_riparte_dalla_turchia_lex_verona_e_monza_il_nuovo_allenatore_del_karagumruk/",
+      "estratto": "Il tecnico italiano inizia una nuova avventura, ripartendo dalla Serie B turca, nel club guidato in passato anche da Pirlo",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-11-07T11:28:13+00:00",
+      "squadra": "Verona"
+    },
+    {
       "id": "70c5d2b45b",
       "titolo": "Osimhen operato al ginocchio: ecco il comunicato del Galatasaray",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/11/07-152435066/osimhen_operato_al_ginocchio_ecco_il_comunicato_del_galatasaray/",
@@ -934,51 +875,63 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "a8328aff1c",
-      "titolo": "Napoli, De Laurentiis svela il motivo della conferenza di Allegri annullata: \"L'ho bloccata io perché...\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/11/07-152439401/napoli_de_laurentiis_svela_il_motivo_della_conferenza_di_allegri_annullata_l_ho_bloccata_io_perch_/",
-      "estratto": "Giornalisti in sala stampa ma l'allenatore azzurro non parla: cosa è successo, interviene anche il presidente",
-      "fonte": "Tuttosport",
+      "id": "8e8ceac070",
+      "titolo": "Bonolis sull'Inter: \"Perderemo l'altro derby e vinceremo lo Scudetto. Ma serve un centrale\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bonolis-inter-perderemo-derby-vinceremo-scudetto-serve-centrale-2291914",
+      "estratto": "Paolo Bonolis, noto tifoso interista, ha parlato ai microfoni di Sky Sport della corsa scudetto in Serie A, del lavoro di Cristian Chivu e del mercato a poche ore dall'incrocio con il Como di Cesc Fabregas.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-11-07T18:53:00+00:00",
-      "squadra": "Napoli"
-    },
-    {
-      "id": "4bc6d2d7f6",
-      "titolo": "Fabregas: \"Inter la più forte in Italia. Chissà se faremo una sorpresa, magari con una partita perfetta\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/07-152439208/fabregas_inter_la_pi_forte_in_italia_quando_loro_alzano_il_livello_e_l_asticella_sono_troppo_forti/",
-      "estratto": "\"Tre volte siamo andati vicini a batterli\", le parole dell'allenatore del Como alla vigilia della partita contro la squadra di Chivu",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-11-07T14:54:43+00:00",
+      "pubblicato": "2026-11-08T06:25:52+00:00",
       "squadra": "Inter Milan"
     },
     {
-      "id": "7d44afbfe9",
-      "titolo": "Dragusin ricorda la Juve: \"Arrivato a 16 anni, orgoglioso del mio percorso. Ora sono felice qui\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/11/07-152437372/dragusin_ricorda_la_juve_arrivato_a_16_anni_orgoglioso_del_mio_percorso_ora_sono_felice_qui/",
-      "estratto": "Il difensore della Fiorentina è uno dei grandi ex della partita contro i bianconeri: \"Sappiamo quanto significhi per i tifosi\"",
+      "id": "855b8f4566",
+      "titolo": "La battuta di Gasperini che fa ridere tutti: \"Napoli-Lazio e Inter-Como? Siamo tutti sul trespolo come i gufi...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/07-152457430/la_battuta_di_gasperini_che_fa_ridere_tutti_napoli-lazio_e_inter-como_siamo_tutti_sul_trespolo_come_i_gufi_/",
+      "estratto": "Il tecnico soddisfatto dopo il 3-0 al Sassuolo ride e scherza. Ma si toglie anche un sassolino dalle scarpe: \"Rimonta del Manchester partita da un rigore assurdo\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -130,
+      "pubblicato": "2026-11-07T22:08:47+00:00",
+      "squadra": "Napoli"
+    },
+    {
+      "id": "32797aa781",
+      "titolo": "“Juve forte nonostante i ko. Fagioli spero faccia gol, Joao Mario l’esempio che…”: Vanoli di spinta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/11/07-152435542/juve_forte_nonostante_i_ko_fagioli_spero_faccia_gol_joao_mario_lesempio_che_vanoli_di_spinta/",
+      "estratto": "\"Vincere è la medicina più bella, non ci poniamo limiti\", le parole dell'allenatore della Fiorentina alla vigilia della sfida contro i bianconeri",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-11-07T12:57:56+00:00",
+      "pubblicato": "2026-11-07T12:28:41+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "46f635ed9e",
-      "titolo": "L’abbraccio dei tifosi della Lazio a Termini: in 3mila per Gattuso",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/07-152443997/labbraccio_dei_tifosi_della_lazio_a_termini_in_3mila_per_gattuso/",
-      "estratto": "Grande entusiasmo alla stazione ferroviaria di Roma prima della partenza per Napoli: cori, bandiere e applausi",
-      "fonte": "Corriere dello Sport",
+      "id": "a68eab57b6",
+      "titolo": "Dalla 10 con l'Italia alle ultime deludenti prove: Fiorentina, qual è il vero Fagioli?",
+      "url": "https://www.tuttomercatoweb.com/serie-a/10-italia-ultime-deludenti-prove-fiorentina-qual-vero-fagioli-2291727",
+      "estratto": "Certe immagini raccontano più di tante parole.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-11-07T16:09:00+00:00",
+      "pubblicato": "2026-11-08T05:38:02+00:00",
+      "squadra": "Fiorentina"
+    },
+    {
+      "id": "d1f1e8c519",
+      "titolo": "Lazio, test da grande: a Napoli per certificare tre mesi da favola",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-test-grande-napoli-certificare-favola-2291908",
+      "estratto": "Se non basta un quarto di campionato per dare già delle risposte, la sfida di oggi a Napoli può mettere il timbro su tre mesi straordinari della Lazio di Gennaro Gattuso.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-11-08T05:30:43+00:00",
       "squadra": "Lazio"
     },
     {
@@ -1030,51 +983,39 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "ebd7bfafe0",
-      "titolo": "Fienga “professore” a Harvard: dalla Roma all’Al Nassr di Ronaldo, il racconto della sua esperienza",
-      "url": "https://www.corrieredellosport.it/news/calcio/2026/11/07-152440070/fienga_professore_a_harvard_dalla_roma_allal_nassr_di_ronaldo_il_racconto_della_sua_esperienza/",
-      "estratto": "A Boston, l'attuale advisor PIF sport, ex CEO del club giallorosso e di quello saudita, si è soffermato su diversi argomenti",
+      "id": "823c61700a",
+      "titolo": "Cunha provoca Balerdi sui social: \"Crack\". E i tifosi della Roma impazziscono",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/06-152416022/cunha_provoca_balerdi_sui_social_crack_e_i_tifosi_della_roma_impazziscono/",
+      "estratto": "Il commento dell'attaccante del Manchester United fa impazzire i sostenitori giallorossi su Instagram",
       "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
+      "serie": "Champions",
       "citazione": true,
       "punteggio": -210,
-      "pubblicato": "2026-11-07T14:11:14+00:00",
+      "pubblicato": "2026-11-06T11:13:59+00:00",
       "squadra": "AS Roma"
     },
     {
-      "id": "01c7f2182c",
-      "titolo": "L'Avellino riacciuffa il Benevento nel derby al Vigorito, la Juve Stabia e il Cesena piegano l'Arezzo e il Catanzaro",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/11/07-152441192/la_juve_stabia_piega_l_arezzo_il_cesena_di_misura_sul_catanzaro_nel_sabato_di_serie_b/",
-      "estratto": "In archivio le gare del sabato valide per l'undicesima giornata di Serie B: doppio 2-2 in Padova-Empoli e Pisa-Südtirol, pari a reti inviolate tra Mantova e Verona",
+      "id": "0acdb92586",
+      "titolo": "Torino-Lecce 1-1, N'Dri risponde a Simeone: i granata si fermano sul palo, Falcone salva i salentini",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/torino/2026/11/07-152444098/torino-lecce_1-1_n_dri_risponde_a_simeone_i_granata_si_fermano_sul_palo_falcone_salva_i_salentini/",
+      "estratto": "Pareggio all'Olimpico Grande Torino nell'undicesima giornata di Serie A. Gara iniziata con 16 minuti di ritardo per un problema alle linee del campo",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -250,
-      "pubblicato": "2026-11-07T16:03:28+00:00",
-      "squadra": "Avellino"
+      "citazione": true,
+      "punteggio": -240,
+      "pubblicato": "2026-11-07T16:18:37+00:00",
+      "squadra": "Torino"
     },
     {
-      "id": "2036ed192a",
-      "titolo": "Cagliari fa festa dopo quattro sconfitte. Il Frosinone frena e Alvini recrimina",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cagliari-festa-sconfitte-frosinone-frena-alvini-recrimina-2291748",
-      "estratto": "Successo importantissimo per il Cagliari di Fabio Pisacane contro il Frosinone di Massimiliano Alvini.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -280,
-      "pubblicato": "2026-11-07T23:41:38+00:00",
-      "squadra": "Cagliari"
-    },
-    {
-      "id": "de6c6897fb",
-      "titolo": "Il Real Madrid mette la quinta e riacciuffa il Barcellona",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/11/07-152458604/il_real_madrid_mette_la_quinta_e_riacciuffa_il_barcellona/",
-      "estratto": "Quinta vittoria consecutiva, in Liga, per i blancos, che calano il tris a Valencia, grazie alle reti di Valverde, Guler e Mbappé e raggiungono in vetta i blaugrana, attesi domani sera dal big match con l’Atletico",
-      "fonte": "Corriere dello Sport",
+      "id": "2c0f310629",
+      "titolo": "Güler ispira l'ottava vittoria consecutiva del Real Madrid per agganciare il Barcellona",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401882808",
+      "estratto": "Arda Güler ha segnato il suo terzo gol in cinque partite trascinando il Real Madrid all'ottava vittoria consecutiva e portandolo a pari punti con il Barcellona grazie a un 3-0 sul campo del Valencia.",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -280,
-      "pubblicato": "2026-11-07T22:21:18+00:00",
+      "pubblicato": "2026-11-07T22:36:05+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -1150,40 +1091,52 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "6d9e7c8c00",
-      "titolo": "De Laurentiis chiarisce: \"Non esiste nessun caso in casa Napoli, ecco perché ho bloccato la conferenza\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/07-152448441/de_laurentiis_chiarisce_non_esiste_nessun_caso_in_casa_napoli_ecco_perch_ho_bloccato_la_conferenza/",
-      "estratto": "Il presidente degli azzurri: \"Era inutile parlare prima della gara di campionato\"",
-      "fonte": "Corriere dello Sport",
+      "id": "e6cc87a75b",
+      "titolo": "Gasperini dribbla Inter-Como: \"Via per un premio ma sarò comunque informatissimo\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/gasperini-dribbla-inter-como-via-premio-informatissimo-2291913",
+      "estratto": "Gian Piero Gasperini \"dribbla\" Inter-Como.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-11-07T18:37:13+00:00",
+      "pubblicato": "2026-11-08T06:20:00+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "a8328aff1c",
+      "titolo": "Napoli, De Laurentiis svela il motivo della conferenza di Allegri annullata: \"L'ho bloccata io perché...\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/11/07-152439401/napoli_de_laurentiis_svela_il_motivo_della_conferenza_di_allegri_annullata_l_ho_bloccata_io_perch_/",
+      "estratto": "Giornalisti in sala stampa ma l'allenatore azzurro non parla: cosa è successo, interviene anche il presidente",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -330,
+      "pubblicato": "2026-11-07T18:53:00+00:00",
       "squadra": "Napoli"
     },
     {
-      "id": "32797aa781",
-      "titolo": "“Juve forte nonostante i ko. Fagioli spero faccia gol, Joao Mario l’esempio che…”: Vanoli di spinta",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/11/07-152435542/juve_forte_nonostante_i_ko_fagioli_spero_faccia_gol_joao_mario_lesempio_che_vanoli_di_spinta/",
-      "estratto": "\"Vincere è la medicina più bella, non ci poniamo limiti\", le parole dell'allenatore della Fiorentina alla vigilia della sfida contro i bianconeri",
+      "id": "b56efd9763",
+      "titolo": "“Piazza pulita alla prima difficoltà”, Cannavaro e i problemi Juve. “Noi tutti capitani”",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152434015/piazza_pulita_alla_prima_difficolt_cannavaro_e_i_problemi_juve_noi_tutti_capitani/",
+      "estratto": "L'ex difensore bianconero e attuale ct dell'Uzbekistan tocca diversi temi: il calcio italiano, i giovani e il momento della Vecchia Signora",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-11-07T12:28:41+00:00",
+      "pubblicato": "2026-11-07T10:59:11+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "641b70d795",
-      "titolo": "Nico Paz-Inter, tutta la verità: le cene con Zanetti, lo scontro con Fabregas e il blitz a Madrid",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/07-152431623/nico_paz-inter_tutta_la_verit_le_cene_con_zanetti_lo_scontro_con_fabregas_e_il_blitz_a_madrid/",
-      "estratto": "I nerazzurri ci hanno provato più volte, ma Como e Real hanno chiuso ogni spiraglio. Il retroscena dell'affare sfumato e la scelta del talento argentino",
-      "fonte": "Tuttosport",
+      "id": "46f635ed9e",
+      "titolo": "L’abbraccio dei tifosi della Lazio a Termini: in 3mila per Gattuso",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/07-152443997/labbraccio_dei_tifosi_della_lazio_a_termini_in_3mila_per_gattuso/",
+      "estratto": "Grande entusiasmo alla stazione ferroviaria di Roma prima della partenza per Napoli: cori, bandiere e applausi",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-11-07T08:38:00+00:00",
-      "squadra": "Inter Milan"
+      "pubblicato": "2026-11-07T16:09:00+00:00",
+      "squadra": "Lazio"
     },
     {
       "id": "ad6833358e",
@@ -1196,6 +1149,18 @@
       "punteggio": -370,
       "pubblicato": "2026-11-06T00:04:48+00:00",
       "squadra": "Milan"
+    },
+    {
+      "id": "97e0fc1fd5",
+      "titolo": "Investimenti ma anche programmazione, per un Como sempre più azzurro. Il pensiero di Gianluca Di Marzio",
+      "url": "https://www.tuttomercatoweb.com/podcast-tmw/como-azzurro-papaccioli-cassano-segreti-guarda-2291288",
+      "estratto": "\"Stamattina pensavo al Como, a come questo successo sotto tutti punti di vista sia figlio assolutamente di grandi investimenti, perché non si può negare come la proprietà sia una delle proprietà più forti, non solo l'Italia, ma sia figlio di una prog",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -400,
+      "pubblicato": "2026-11-08T06:33:00+00:00",
+      "squadra": "Como"
     },
     {
       "id": "f2c0fec396",
@@ -1222,28 +1187,28 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "9499b3f8bf",
-      "titolo": "Il Como è un’orchestra sinfonica",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/05-152383530/il_como_unorchestra_sinfonica/",
-      "estratto": "Leggi il commento allo straordinario successo degli uomini di Fabregas in Champions League",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
+      "id": "5820c11c09",
+      "titolo": "Roma, i convocati per il Sassuolo: nuovo infortunio per un titolare ma c'è un recupero",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/11/07-152438645/roma_i_convocati_per_il_sassuolo_nuovo_infortunio_per_un_titolare_ma_c_un_recupero/",
+      "estratto": "Buone e cattive notizie per Gian Piero Gasperini in vista della sfida contro i neroverdi",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
       "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-11-05T07:03:12+00:00",
-      "squadra": "Como"
+      "punteggio": -430,
+      "pubblicato": "2026-11-07T13:28:12+00:00",
+      "squadra": "AS Roma"
     },
     {
-      "id": "823c61700a",
-      "titolo": "Cunha provoca Balerdi sui social: \"Crack\". E i tifosi della Roma impazziscono",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/06-152416022/cunha_provoca_balerdi_sui_social_crack_e_i_tifosi_della_roma_impazziscono/",
-      "estratto": "Il commento dell'attaccante del Manchester United fa impazzire i sostenitori giallorossi su Instagram",
+      "id": "de6c6897fb",
+      "titolo": "Il Real Madrid mette la quinta e riacciuffa il Barcellona",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/11/07-152458604/il_real_madrid_mette_la_quinta_e_riacciuffa_il_barcellona/",
+      "estratto": "Quinta vittoria consecutiva, in Liga, per i blancos, che calano il tris a Valencia, grazie alle reti di Valverde, Guler e Mbappé e raggiungono in vetta i blaugrana, attesi domani sera dal big match con l’Atletico",
       "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "citazione": true,
-      "punteggio": -410,
-      "pubblicato": "2026-11-06T11:13:59+00:00",
-      "squadra": "AS Roma"
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -480,
+      "pubblicato": "2026-11-07T22:21:18+00:00",
+      "squadra": "Real Madrid"
     },
     {
       "id": "50f1ccacca",
@@ -1294,30 +1259,6 @@
       "squadra": "Leeds"
     },
     {
-      "id": "93575f7a2e",
-      "titolo": "Il Cagliari torna a vincere con un gol pazzesco di Adopo: Frosinone ko",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/07-152441191/il_cagliari_torna_a_vincere_con_un_gol_pazzesco_di_adopo_frosinone_ko/",
-      "estratto": "I rossoblù di Pisacane interrompono la serie di quattro sconfitte consecutive. Ai ciociari non basta l’assedio nella ripresa: Caprile para tutto e ferma la corsa di Alvini",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -480,
-      "pubblicato": "2026-11-07T15:57:17+00:00",
-      "squadra": "Cagliari"
-    },
-    {
-      "id": "f118661c75",
-      "titolo": "Aveva il mondo ai suoi piedi quando ha firmato per il Real Madrid a 13 anni, mescolandosi con Zidane e Ronaldo. Ora Jack Harper gioca in Serie D, ma non rinuncia al suo sogno scozzese",
-      "url": "https://www.dailymail.com/sport/football/article-16272161/He-world-feet-signed-Real-Madrid-13-mixing-Zidane-Ronaldo-Jack-Harper-plays-Italys-Serie-D-hes-not-giving-Scotland-dream.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Comunque la si chiami, la costante migrazione di giocatori scozzesi verso la Serie A è stata al centro dell'attenzione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -480,
-      "pubblicato": "2026-11-06T22:10:18+00:00",
-      "squadra": "Real Madrid"
-    },
-    {
       "id": "677516ffff",
       "titolo": "La stella del Newcastle Amar Dedic scatena l'intervento di sei volanti della polizia dopo essere stato avvistato con ARCO E FRECCE in un'area panoramica del Northumberland prima del sequestro dell'arma",
       "url": "https://www.dailymail.com/sport/football/article-16269339/Newcastle-star-Amar-Dedic-sparks-six-car-police-swoop-spotted-BOW-ARROWS-Northumberland-beauty-spot-weapon-seized.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1330,16 +1271,28 @@
       "squadra": "Newcastle"
     },
     {
-      "id": "b56efd9763",
-      "titolo": "“Piazza pulita alla prima difficoltà”, Cannavaro e i problemi Juve. “Noi tutti capitani”",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152434015/piazza_pulita_alla_prima_difficolt_cannavaro_e_i_problemi_juve_noi_tutti_capitani/",
-      "estratto": "L'ex difensore bianconero e attuale ct dell'Uzbekistan tocca diversi temi: il calcio italiano, i giovani e il momento della Vecchia Signora",
-      "fonte": "Tuttosport",
+      "id": "9b93f2d667",
+      "titolo": "Il doppio ex Tardelli: \"Inter, prendi troppi gol. Como, se vinci a San Siro sei da scudetto\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/tardelli-inter-prendi-troppi-gol-como-via-hartono-dramma-2291911",
+      "estratto": "Intervistato dall'edizione odierna della Gazzetta dello Sport, Marco Tardelli ha commentato il match di oggi alle 18 fra Inter e Como: \"Gli ottimi risutati sono arri­vati e con­ti­nuano ad arri­vare per­ché c’è una società forte die­tro e un pro­prie",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -530,
-      "pubblicato": "2026-11-07T10:59:11+00:00",
-      "squadra": "Juventus"
+      "pubblicato": "2026-11-08T06:10:00+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "6d9e7c8c00",
+      "titolo": "De Laurentiis chiarisce: \"Non esiste nessun caso in casa Napoli, ecco perché ho bloccato la conferenza\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/07-152448441/de_laurentiis_chiarisce_non_esiste_nessun_caso_in_casa_napoli_ecco_perch_ho_bloccato_la_conferenza/",
+      "estratto": "Il presidente degli azzurri: \"Era inutile parlare prima della gara di campionato\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -530,
+      "pubblicato": "2026-11-07T18:37:13+00:00",
+      "squadra": "Napoli"
     },
     {
       "id": "9a6ccb4f09",
@@ -1354,28 +1307,16 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "e407a98625",
-      "titolo": "Napoli, caos prima della Lazio: annullata la conferenza di Allegri. E ADL rompe il silenzio",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/napoli-caos-lazio-annullata-conferenza-allegri-adl-rompe-silenzio-2291902",
-      "estratto": "Un'altra giornata movimentata in casa Napoli, alla vigilia di una sfida contro la Lazio che assume un peso enorme dopo le sconfitte contro Juventus e Porto.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-11-07T23:38:27+00:00",
-      "squadra": "Napoli"
-    },
-    {
-      "id": "c59fc3d9fd",
-      "titolo": "Calhanoglu, il rinnovo Inter non è così scontato: la Juve osserva, ma ora spunta anche il Como!",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/07-152431528/calhanoglu_il_rinnovo_inter_non_cos_scontato_la_juve_osserva_ma_ora_spunta_anche_il_como_/",
-      "estratto": "Il turco vuole restare, ma su ingaggio e durata del contratto c'è distanza: la prossima avversaria nerazzurra pensa al colpo a sorpresa",
+      "id": "485348cfb7",
+      "titolo": "Maledizione Juve, un altro infortunato di lusso: anche Del Piero finisce ko",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152444847/maledizione_juve_un_altro_infortunato_di_lusso_anche_del_piero_finisce_ko/",
+      "estratto": "La leggenda bianconera lascia il campo zoppicando e torna a Torino in stampelle: la serata tra star contro il team di Ronaldinho termina con un grande imprevisto",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -570,
-      "pubblicato": "2026-11-07T08:30:00+00:00",
-      "squadra": "Inter Milan"
+      "pubblicato": "2026-11-07T16:52:05+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "dec6f6cedb",
@@ -1414,15 +1355,27 @@
       "squadra": "Barcelona"
     },
     {
-      "id": "5820c11c09",
-      "titolo": "Roma, i convocati per il Sassuolo: nuovo infortunio per un titolare ma c'è un recupero",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/11/07-152438645/roma_i_convocati_per_il_sassuolo_nuovo_infortunio_per_un_titolare_ma_c_un_recupero/",
-      "estratto": "Buone e cattive notizie per Gian Piero Gasperini in vista della sfida contro i neroverdi",
-      "fonte": "Tuttosport",
+      "id": "9499b3f8bf",
+      "titolo": "Il Como è un’orchestra sinfonica",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/05-152383530/il_como_unorchestra_sinfonica/",
+      "estratto": "Leggi il commento allo straordinario successo degli uomini di Fabregas in Champions League",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -600,
+      "pubblicato": "2026-11-05T07:03:12+00:00",
+      "squadra": "Como"
+    },
+    {
+      "id": "4a4464bc9e",
+      "titolo": "De Laurentiis deve piazzare due colpi a gennaio. Fabregas è il nuovo Guardiola. Spalletti e il fantasma di Conte. La maturità della Roma",
+      "url": "https://www.tuttomercatoweb.com/editoriale/de-laurentiis-piazzare-colpi-gennaio-fabregas-guardiola-spalletti-fantasma-conte-2291767",
+      "estratto": "La squadra è contro Allegri? Lo capiremo meglio all'ora di pranzo seguendo la sfida del Maradona.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -630,
-      "pubblicato": "2026-11-07T13:28:12+00:00",
+      "punteggio": -650,
+      "pubblicato": "2026-11-08T05:50:01+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1450,6 +1403,18 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "f118661c75",
+      "titolo": "Aveva il mondo ai suoi piedi quando ha firmato per il Real Madrid a 13 anni, mescolandosi con Zidane e Ronaldo. Ora Jack Harper gioca in Serie D, ma non rinuncia al suo sogno scozzese",
+      "url": "https://www.dailymail.com/sport/football/article-16272161/He-world-feet-signed-Real-Madrid-13-mixing-Zidane-Ronaldo-Jack-Harper-plays-Italys-Serie-D-hes-not-giving-Scotland-dream.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Comunque la si chiami, la costante migrazione di giocatori scozzesi verso la Serie A è stata al centro dell'attenzione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -680,
+      "pubblicato": "2026-11-06T22:10:18+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
       "id": "7507a23e46",
       "titolo": "Vincent Kompany: il tecnico del Bayern Monaco vicino al 'recupero completo' dopo il malore",
       "url": "https://www.espn.com/soccer/story/_/id/50398505/vincent-kompany-bayern-munich-collapse-recovery-return",
@@ -1460,6 +1425,18 @@
       "punteggio": -680,
       "pubblicato": "2026-11-06T18:10:36+00:00",
       "squadra": "Bayern"
+    },
+    {
+      "id": "ffe4b7dad1",
+      "titolo": "Gasperini: \"Inter-Como? Sul trespolo. Soulé straordinario\". Aquilani traballa: \"Sono in discussione\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/11/07-152457933/gasperini_inter-como_sul_trespolo_soul_straordinario_aquilani_traballa_sono_in_discussione/",
+      "estratto": "Il tecnico giallorosso parla dopo il tris dell'Olimpico contro il Sassuolo: ecco le reazione del postpartita",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -730,
+      "pubblicato": "2026-11-07T21:41:42+00:00",
+      "squadra": "Inter Milan"
     },
     {
       "id": "2de2916370",
@@ -1474,15 +1451,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "485348cfb7",
-      "titolo": "Maledizione Juve, un altro infortunato di lusso: anche Del Piero finisce ko",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152444847/maledizione_juve_un_altro_infortunato_di_lusso_anche_del_piero_finisce_ko/",
-      "estratto": "La leggenda bianconera lascia il campo zoppicando e torna a Torino in stampelle: la serata tra star contro il team di Ronaldinho termina con un grande imprevisto",
+      "id": "0ae19033bd",
+      "titolo": "Palma convocato da Mancini con l'Italia: il cambio di nazionalità e la serata horror contro la Juve",
+      "url": "https://www.tuttosport.com/news/calcio/italia/2026/11/07-152442421/palma_convocato_da_mancini_con_l_italia_il_cambio_di_nazionalit_e_la_serata_horror_contro_la_juve/",
+      "estratto": "Cambiano i convocati del ct azzurro in vista delle sfide contro Belgio e Francia: la lista aggiornata",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -770,
-      "pubblicato": "2026-11-07T16:52:05+00:00",
+      "pubblicato": "2026-11-07T15:54:44+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1522,15 +1499,15 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "4a4464bc9e",
-      "titolo": "De Laurentiis deve piazzare due colpi a gennaio. Fabregas è il nuovo Guardiola. Spalletti e il fantasma di Conte. La maturità della Roma",
-      "url": "https://www.tuttomercatoweb.com/editoriale/de-laurentiis-piazzare-colpi-gennaio-fabregas-guardiola-spalletti-fantasma-conte-2291767",
-      "estratto": "La squadra è contro Allegri? Lo capiremo meglio all'ora di pranzo seguendo la sfida del Maradona.",
-      "fonte": "TMW",
+      "id": "ca9384e368",
+      "titolo": "La Roma vola: superata l'Inter, -1 dalla Lazio. Il Sassuolo ne prende tre e precipita",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/11/07-152452856/la_roma_vola_superata_l_inter_-1_dalla_lazio_il_sassuolo_ne_prende_tre_e_precipita/",
+      "estratto": "La squadra di Gasperini scavalca i nerazzurri al secondo posto. Quinto ko di fila per i neroverdi, che sprofondano in zona retrocessione",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -850,
-      "pubblicato": "2026-11-07T23:00:01+00:00",
+      "pubblicato": "2026-11-07T21:39:54+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1570,15 +1547,27 @@
       "squadra": "Bayern"
     },
     {
-      "id": "0ae19033bd",
-      "titolo": "Palma convocato da Mancini con l'Italia: il cambio di nazionalità e la serata horror contro la Juve",
-      "url": "https://www.tuttosport.com/news/calcio/italia/2026/11/07-152442421/palma_convocato_da_mancini_con_l_italia_il_cambio_di_nazionalit_e_la_serata_horror_contro_la_juve/",
-      "estratto": "Cambiano i convocati del ct azzurro in vista delle sfide contro Belgio e Francia: la lista aggiornata",
+      "id": "4bc6d2d7f6",
+      "titolo": "Fabregas: \"Inter la più forte in Italia. Chissà se faremo una sorpresa, magari con una partita perfetta\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/07-152439208/fabregas_inter_la_pi_forte_in_italia_quando_loro_alzano_il_livello_e_l_asticella_sono_troppo_forti/",
+      "estratto": "\"Tre volte siamo andati vicini a batterli\", le parole dell'allenatore del Como alla vigilia della partita contro la squadra di Chivu",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -930,
+      "pubblicato": "2026-11-07T14:54:43+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "f6cd223426",
+      "titolo": "Juve, la Primavera batte l'Empoli: gol clamoroso annullato ai bianconeri, Padoin furioso ed espulso",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152433093/juve_la_primavera_batte_l_empoli_gol_clamoroso_annullato_ai_bianconeri_padoin_furioso_ed_espulso/",
+      "estratto": "Ceppi e Repciuc firmano il successo, ingenuo Okolo che si fa espellere nel finale e lascia i suoi in dieci",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -970,
-      "pubblicato": "2026-11-07T15:54:44+00:00",
+      "pubblicato": "2026-11-07T13:57:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1606,15 +1595,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "ca9384e368",
-      "titolo": "La Roma vola: superata l'Inter, -1 dalla Lazio. Il Sassuolo ne prende tre e precipita",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/11/07-152452856/la_roma_vola_superata_l_inter_-1_dalla_lazio_il_sassuolo_ne_prende_tre_e_precipita/",
-      "estratto": "La squadra di Gasperini scavalca i nerazzurri al secondo posto. Quinto ko di fila per i neroverdi, che sprofondano in zona retrocessione",
-      "fonte": "Tuttosport",
+      "id": "a0a2f3b196",
+      "titolo": "La Roma liquida 3-0 il Sassuolo dell'ex Aquilani: Gasperini a meno uno dalla Lazio",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/07-152444380/roma-sassuolo_diretta_serie_a_segui_la_sfida_tra_gasperini_e_aquilani_il_risultato_live/",
+      "estratto": "Dopo la rimonta subita a Old Trafford, i giallorossi tornano all'Olimpico per la gara di campionato. E vincono senza soffrire con i gol di Hermoso e Rodrigo Mora. In mezzo l'autorete di l'autogol di l'autogol di Walukiewicz",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1050,
-      "pubblicato": "2026-11-07T21:39:54+00:00",
+      "pubblicato": "2026-11-07T18:00:09+00:00",
       "squadra": "AS Roma"
     },
     {
@@ -1654,15 +1643,27 @@
       "squadra": "Bayern"
     },
     {
-      "id": "f6cd223426",
-      "titolo": "Juve, la Primavera batte l'Empoli: gol clamoroso annullato ai bianconeri, Padoin furioso ed espulso",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152433093/juve_la_primavera_batte_l_empoli_gol_clamoroso_annullato_ai_bianconeri_padoin_furioso_ed_espulso/",
-      "estratto": "Ceppi e Repciuc firmano il successo, ingenuo Okolo che si fa espellere nel finale e lascia i suoi in dieci",
+      "id": "86c87767ee",
+      "titolo": "L'Inter è davvero così superiore al Como? Il confronto delle rose, in tutti i reparti",
+      "url": "https://www.tuttomercatoweb.com/serie-a/como-davvero-inferiore-inter-rosa-confronto-reparto-reparto-2291556",
+      "estratto": "Il piatto forte dell'11^ giornata di Serie A arriva domenica alle 18, con la sfida di altissima classifica tra Inter e Como.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1170,
+      "pubblicato": "2026-11-08T06:40:00+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "f828e25564",
+      "titolo": "Cambiaso infortunato, nuovo ko Juve: l'esterno assente nel match con la Fiorentina, le condizioni",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152435060/cambiaso_infortunato_nuovo_ko_juve_l_esterno_assente_nel_match_con_la_fiorentina_le_condizioni/",
+      "estratto": "Spalletti dovrà fare a meno di lui per la trasferta di Firenze: i motivi della sua assenza e le condizioni di McKennie, Celik e Conceicao. Le ultime dopo l'allenamento",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1170,
-      "pubblicato": "2026-11-07T13:57:00+00:00",
+      "pubblicato": "2026-11-07T11:28:18+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1688,18 +1689,6 @@
       "punteggio": -1200,
       "pubblicato": "2026-11-07T11:09:41+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "a0a2f3b196",
-      "titolo": "La Roma liquida 3-0 il Sassuolo dell'ex Aquilani: Gasperini a meno uno dalla Lazio",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/07-152444380/roma-sassuolo_diretta_serie_a_segui_la_sfida_tra_gasperini_e_aquilani_il_risultato_live/",
-      "estratto": "Dopo la rimonta subita a Old Trafford, i giallorossi tornano all'Olimpico per la gara di campionato. E vincono senza soffrire con i gol di Hermoso e Rodrigo Mora. In mezzo l'autorete di l'autogol di l'autogol di Walukiewicz",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1250,
-      "pubblicato": "2026-11-07T18:00:09+00:00",
-      "squadra": "AS Roma"
     },
     {
       "id": "d34a9795a0",
@@ -1738,28 +1727,16 @@
       "squadra": "Bayern"
     },
     {
-      "id": "f828e25564",
-      "titolo": "Cambiaso infortunato, nuovo ko Juve: l'esterno assente nel match con la Fiorentina, le condizioni",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152435060/cambiaso_infortunato_nuovo_ko_juve_l_esterno_assente_nel_match_con_la_fiorentina_le_condizioni/",
-      "estratto": "Spalletti dovrà fare a meno di lui per la trasferta di Firenze: i motivi della sua assenza e le condizioni di McKennie, Celik e Conceicao. Le ultime dopo l'allenamento",
-      "fonte": "Tuttosport",
+      "id": "155347d047",
+      "titolo": "Inter, a te il Como. E intanto l'infermeria nerazzurra inizia a svuotarsi",
+      "url": "https://www.tuttomercatoweb.com/serie-a/inter-como-chivu-ritrova-stones-jones-restano-nodi-sciogliere-2291696",
+      "estratto": "C'è un silenzio particolare che accompagna le ore prima di una partita importante.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1370,
-      "pubblicato": "2026-11-07T11:28:18+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "e5c4e53e0b",
-      "titolo": "Napoli, un incubo senza fine",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/05-152383522/napoli_un_incubo_senza_fine/",
-      "estratto": "Leggi il commento al momento degli azzurri, dopo il pesante ko in Champions League con il Porto",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1370,
-      "pubblicato": "2026-11-05T06:39:32+00:00",
-      "squadra": "Napoli"
+      "pubblicato": "2026-11-08T06:00:00+00:00",
+      "squadra": "Inter Milan"
     },
     {
       "id": "f634cd8746",
@@ -1798,16 +1775,16 @@
       "squadra": "Man City"
     },
     {
-      "id": "37e73b29f8",
-      "titolo": "Da Batistuta a Mastantuono, la Juve nel mirino: il segreto della villa e un sogno tutto argentino",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/11/07-152431522/da_batistuta_a_mastantuono_la_juve_nel_mirino_il_segreto_della_villa_e_un_sogno_tutto_argentino/",
-      "estratto": "Il talento viola abita nella storica residenza di Batigol e sogna il primo gol al Franchi proprio contro i bianconeri. E Pellegrino sa già come si fa",
+      "id": "641b70d795",
+      "titolo": "Nico Paz-Inter, tutta la verità: le cene con Zanetti, lo scontro con Fabregas e il blitz a Madrid",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/07-152431623/nico_paz-inter_tutta_la_verit_le_cene_con_zanetti_lo_scontro_con_fabregas_e_il_blitz_a_madrid/",
+      "estratto": "I nerazzurri ci hanno provato più volte, ma Como e Real hanno chiuso ogni spiraglio. Il retroscena dell'affare sfumato e la scelta del talento argentino",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -1570,
-      "pubblicato": "2026-11-07T08:17:02+00:00",
-      "squadra": "Juventus"
+      "pubblicato": "2026-11-07T08:38:00+00:00",
+      "squadra": "Inter Milan"
     },
     {
       "id": "a78d8327a8",
@@ -1832,6 +1809,18 @@
       "punteggio": -1680,
       "pubblicato": "2026-11-05T15:55:45+00:00",
       "squadra": "Arsenal"
+    },
+    {
+      "id": "c59fc3d9fd",
+      "titolo": "Calhanoglu, il rinnovo Inter non è così scontato: la Juve osserva, ma ora spunta anche il Como!",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/07-152431528/calhanoglu_il_rinnovo_inter_non_cos_scontato_la_juve_osserva_ma_ora_spunta_anche_il_como_/",
+      "estratto": "Il turco vuole restare, ma su ingaggio e durata del contratto c'è distanza: la prossima avversaria nerazzurra pensa al colpo a sorpresa",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1770,
+      "pubblicato": "2026-11-07T08:30:00+00:00",
+      "squadra": "Inter Milan"
     },
     {
       "id": "70b33f8304",
