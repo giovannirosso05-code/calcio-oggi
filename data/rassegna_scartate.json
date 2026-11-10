@@ -1,7 +1,124 @@
 {
-  "aggiornato": "2026-11-10T18:08:19.605520+00:00",
-  "totale": 46,
+  "aggiornato": "2026-11-10T23:20:36.178133+00:00",
+  "totale": 54,
   "articoli": [
+    {
+      "id": "273dbef0f6",
+      "titolo": "Ho lavorato per 20 anni per cercare di giocare un Mondiale... Non avrei mai permesso a un intervento al cuore di intralciare il mio sogno, dice McTominay",
+      "url": "https://www.dailymail.com/sport/football/article-16282275/Ive-worked-20-years-try-play-World-Cup-never-going-let-heart-procedure-way-dream-says-McTominay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Mentre giaceva su un letto d'ospedale a Boston, Scott McTominay avrebbe facilmente potuto avere la sensazione che il suo sogno gli stesse venendo strappato via.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T22:37:15+00:00"
+    },
+    {
+      "id": "ed0e6250a6",
+      "titolo": "Pocognoli convinto che Gannon-Doak sia pronto per il salto di qualità dopo le sue impressionanti prestazioni con il Bournemouth",
+      "url": "https://www.dailymail.com/sport/football/article-16282319/Pocognoli-convinced-Gannon-Doak-ready-step-impressive-form-Bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il c.t. della Scozia Sebastien Pocognoli è fiducioso che Ben Gannon-Doak sia pronto a raggiungere nuovi traguardi con la nazionale dopo un buon momento di forma a livello di club.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T22:35:33+00:00"
+    },
+    {
+      "id": "d610ec5090",
+      "titolo": "La polizia 'sta spulciando i conti bancari di venditori loschi di Fire Stick per contattare gli spettatori illegali' di partite di Premier League e film",
+      "url": "https://www.dailymail.com/sport/football/article-16281473/Police-trawling-Dodgy-Fire-Stick-sellers-bank-accounts-contact-illegal-viewers-Premier-League-football-films.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ma Rav Wilding, un ex detective recentemente apparso nella trasmissione Morning Live della BBC, ha lanciato un nuovo avvertimento alle persone che le utilizzano.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T22:32:00+00:00"
+    },
+    {
+      "id": "cd805f3ddb",
+      "titolo": "MrBeast, incontra Haaland: la stella del Manchester City mette alla prova lo YouTuber con un percorso a ostacoli calcistico",
+      "url": "https://www.espn.com/soccer/story/_/id/50445699/mrbeast-meet-erling-haaland-manchester-city-star-puts-youtuber-soccer-gauntlet",
+      "estratto": "La stella del Manchester City Erling Haaland ha collaborato con il popolare YouTuber \"MrBeast\" in una serie di diverse sfide calcistiche.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T21:49:29+00:00"
+    },
+    {
+      "id": "3bf0becb8a",
+      "titolo": "Coppa del Re: Alaves e Valencia sul velluto. Avanti anche il Leganes, ko il Logroñes",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/11/10-152516453/coppa_del_re_alaves_e_valencia_sul_velluto_avanti_anche_il_leganes_ko_il_logroes/",
+      "estratto": "Disputate sei gare del primo turno: successi per 6-1 (con doppietta di Mariano) e 6-0 (con doppietta di Aimar Blázquez) per le sole due squadre di Liga in campo oggi",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T21:48:41+00:00"
+    },
+    {
+      "id": "89b45942b0",
+      "titolo": "Sarina Wiegman riceve il titolo onorario di dama dal Principe William al Castello di Windsor - dopo aver guidato le Lionesses a due titoli europei consecutivi",
+      "url": "https://www.dailymail.com/sport/football/article-16282353/Sarina-Wiegman-honorary-damehood-Prince-William.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Wiegman è olandese, quindi non può ricevere il titolo effettivo di dama. Ha ottenuto il titolo onorario poiché i Paesi Bassi non hanno un monarca britannico come capo di Stato.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T19:32:53+00:00"
+    },
+    {
+      "id": "6a64678393",
+      "titolo": "Da bambino in lacrime a promessa del Pallone d'Oro: come l'impavido Rio Ngumoha si è fatto le ossa, passando dall'addio al Chelsea per il Liverpool a soli 15 anni e dall'essere protetto da 'crimini e cose simili' nell'East London",
+      "url": "https://www.dailymail.com/sport/football/article-16281739/rio-ngumoha-chelsea-liverpool-england.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Rio Ngumoha è tornato a giocare con i ragazzi più grandi, solo che questa volta non ci sono lacrime. È difficile credere che l'esterno del Liverpool e dell'Inghilterra possa mai sentirsi intimidito su un campo da calcio.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T19:00:46+00:00"
+    },
+    {
+      "id": "d8213a24e3",
+      "titolo": "Jude Bellingham dice di 'voler essere un gentleman' ma ammette di non sentirsi 'maturo' perché 'non so cucinare, non so guidare e dipendo dalla mia famiglia' in un nuovo e affascinante servizio fotografico",
+      "url": "https://www.dailymail.com/sport/football/article-16281645/jude-bellingham-gentleman-family-interview.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La stella del Real Madrid e dell'Inghilterra Jude Bellingham ha ammesso di non sentirsi 'maturo', nonostante sia stato definito tale fin da giovanissimo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T18:36:46+00:00"
+    },
+    {
+      "id": "0ccd0a7f81",
+      "titolo": "Il tecnico degli Hearts Vrancken sta scherzando col fuoco scagliandosi contro i suoi stessi giocatori",
+      "url": "https://www.dailymail.com/sport/football/article-16282051/Hearts-Vrancken-playing-fire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Non per la prima volta in questa stagione sotto la guida di Wouter Vrancken, gli Hearts hanno subito una totale e completa implosione venendo travolti 5-2 in casa dal Falkirk lo scorso fine settimana.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T17:26:45+00:00"
+    },
+    {
+      "id": "2925c1f502",
+      "titolo": "Il volto nuovo poco noto convocato dall'Inghilterra: sapresti dire chi è la stella chiamata a sostituire Ezri Konsa?",
+      "url": "https://www.dailymail.com/sport/football/article-16280909/england-james-hill-call-up.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Thomas Tuchel ha effettuato la sua prima convocazione in nazionale inglese per sostituire Ezri Konsa, ma ai tifosi occasionali si potrebbe perdonare di non riconoscere l'ultimo arrivato nei Tre Leoni.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T17:26:04+00:00"
+    },
+    {
+      "id": "3d6086df99",
+      "titolo": "Perché Messi non farà 'alla Wrexham' come proprietario del Cornellà",
+      "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat",
+      "estratto": "L'UE Cornellà ha guadagnato fama globale quando Lionel Messi l'ha acquistata all'inizio di quest'anno. Perché la Pulce ha comprato un club semiprofessionistico nella quinta divisione spagnola?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T16:57:44+00:00"
+    },
+    {
+      "id": "9c7eca3da9",
+      "titolo": "Cosa comporta l'addio di Tom Brady per il Birmingham City: perché la leggenda della NFL ha lasciato St Andrew's, svelato il futuro ruolo del 'body coach' Alex Guerrero e l'impatto sugli ambiziosi piani da 2 miliardi di sterline di Knighthead per la promozione in Premier League e il nuovo stadio",
+      "url": "https://www.dailymail.com/sport/football/article-16280813/tom-brady-birmingham-city-exit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Birmingham ha annunciato lunedì che il legame triennale della leggenda della NFL con i Blues volgerà al termine. Qui Daily Mail Sport analizza i motivi del suo addio e cosa riserva il futuro...",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T16:15:34+00:00"
+    },
+    {
+      "id": "9410157eec",
+      "titolo": "Xavi Simons svela il peso emotivo dell'infortunio al crociato con il Tottenham mentre il rientro si avvicina",
+      "url": "https://www.espn.com/soccer/story/_/id/50442502/xavi-simons-tottenham-injury-recovery",
+      "estratto": "L'attaccante infortunato del Tottenham Xavi Simons ha parlato dell'angoscia provata nel veder lottare la squadra per non retrocedere la scorsa stagione, ma sta lavorando \"senza sosta\" per tornare a disposizione della squadra di Roberto De Zerbi.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T15:45:05+00:00"
+    },
     {
       "id": "e6e52fd6d9",
       "titolo": "Pensare meno, correre di più: l'ascesa della marcatura a uomo in Premier League",
@@ -10,6 +127,15 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-10T13:39:26+00:00"
+    },
+    {
+      "id": "b935a63dfb",
+      "titolo": "L'HMRC insegue l'eredità del defunto ex c.t. dell'Inghilterra Sven-Goran Eriksson per 3,5 MILIONI di sterline di tasse non pagate - perché era 'troppo occupato con le sue donne per risparmiare'",
+      "url": "https://www.dailymail.com/sport/football/article-16280399/HMRC-chase-estate-late-ex-England-manager-Sven-Goran-Eriksson-3-5MILLION-unpaid-tax-busy-ladies-save.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'asse ereditario di Sven-Goran Eriksson è braccato dall'agenzia delle entrate britannica (HMRC) per un debito fiscale non saldato di 3,5 milioni di sterline.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T11:25:24+00:00"
     },
     {
       "id": "69e8fd979c",
@@ -210,15 +336,6 @@
       "pubblicato": "2026-11-08T23:07:31+00:00"
     },
     {
-      "id": "a32ed9c4a6",
-      "titolo": "Nicol: il Chelsea è un disastro in difesa sotto la gestione di Alonso",
-      "url": "https://www.espn.com/video/clip/_/id/50426167/chelsea-shambles-defensively-alonso",
-      "estratto": "Nicol: il Chelsea è un disastro in difesa sotto la gestione di Alonso",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T23:00:51+00:00"
-    },
-    {
       "id": "96248e1f3e",
       "titolo": "Il tecnico dell'Aberdeen Stephen Robinson è spacciato... un uomo perseguitato i cui giocatori hanno smesso di lottare",
       "url": "https://www.dailymail.com/sport/football/article-16276459/Aberdeen-boss-Stephen-Robinson-doomed-haunted-man-players-given-ghost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -370,51 +487,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-07T23:59:46+00:00"
-    },
-    {
-      "id": "589748b807",
-      "titolo": "ST MIRREN 0 RANGERS 2: Si torna a sudare per gli uomini di McInnes che mostrano grinta per piegare i Buddies",
-      "url": "https://www.dailymail.com/sport/football/article-16274981/ST-MIRREN-0-RANGERS-2-grind-McInnes-men-grit-Buddies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "A un certo punto, c'è da aspettarsi che i Rangers trovino la loro quadratura sotto la guida di Derek McInnes.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T22:51:43+00:00"
-    },
-    {
-      "id": "f7c9fa100f",
-      "titolo": "I telecronisti non hanno la minima idea di cosa stia succedendo: una fitta nebbia rovina la sfida di FA Cup per i telespettatori, e i tifosi usano le torce dei telefoni per vedere l'azione!",
-      "url": "https://www.dailymail.com/sport/football/article-16274723/FA-Cup-fog-mist-TNT-Sports.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "'FA Cup allo stato puro', è stato il verdetto dei telespettatori che guardavano (o cercavano di guardare) la sfida tra Notts County e Altrincham mentre una fitta nebbia oscurava l'azione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T21:27:47+00:00"
-    },
-    {
-      "id": "80541f1a09",
-      "titolo": "\"Questo club non è abituato a perdere\" - il portiere Johnstone si racconta sulle difficoltà del Celtic",
-      "url": "https://www.dailymail.com/sport/football/article-16274005/This-clubs-not-used-losing-keeper-Johnstone-opens-Celtic-struggles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Sam Johnstone ha avvertito che la drammatica vittoria di giovedì contro il Beşiktaş deve essere considerata solo il primo passo sulla via della guarigione per il Celtic.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T18:48:43+00:00"
-    },
-    {
-      "id": "c390020d8a",
-      "titolo": "Osmand dimostra di non essere una Honda Civic... ed ora è pronto a ingranare la marcia per il Celtic",
-      "url": "https://www.dailymail.com/sport/football/article-16274007/Osmand-Celtic-Rodgers-Duran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Quando Brendan Rodgers tornerà a Glasgow per una sessione di domande e risposte il prossimo giugno, sembrerebbe una perdita di tempo essere interrogato sui motivi esatti dietro le sue scelte di formazione della scorsa stagione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T18:48:27+00:00"
-    },
-    {
-      "id": "b4893ce1fd",
-      "titolo": "Il nuovo tecnico del Bromley Karl Robinson tesse le lodi del \"megastella\" Jermain Defoe: la leggenda della Premier League in trattative per un ritorno in panchina dopo l'addio al Woking",
-      "url": "https://www.dailymail.com/sport/football/article-16271587/New-Bromley-boss-Karl-Robinson-heaps-praise-megastar-Jermain-Defoe-Premier-League-legend-talks-dugout-return-walking-Woking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Daily Mail Sport ha rivelato martedì che Defoe è in trattativa per entrare nello staff tecnico di Robinson al Bromley, squadra in difficoltà della League One, dopo l'esonero di Andy Woodman il mese scorso.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T18:33:46+00:00"
     }
   ]
 }
