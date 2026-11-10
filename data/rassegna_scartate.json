@@ -1,15 +1,87 @@
 {
-  "aggiornato": "2026-11-09T19:51:22.771764+00:00",
-  "totale": 51,
+  "aggiornato": "2026-11-10T02:34:52.428051+00:00",
+  "totale": 52,
   "articoli": [
     {
-      "id": "b2905244ec",
-      "titolo": "Primo regalo per Papa Leone XIV in Argentina: riceve una maglia dell'Estudiantes",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/regalo-papa-leone-xiv-argentina-riceve-maglia-estudiantes-2292503",
-      "estratto": "Un regalo speciale per Papa Leone XIV durante la sua visita in Argentina.",
+      "id": "c896939c36",
+      "titolo": "'Mi sento tradito, ingannato, scioccato. È stata una stupidaggine da parte loro': ANDY WOODMAN rivive il momento in cui è stato 'brutalmente' esonerato dal Bromley e racconta come il suo migliore amico Sir Gareth Southgate lo abbia aiutato a superarlo",
+      "url": "https://www.dailymail.com/sport/football/article-16277685/andy-woodman-bromley-southgate-sacking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "INTERVISTA ESCLUSIVA: Ogni allenatore esonerato ha la sua storia triste o si sente trattato ingiustamente, ma pochi licenziamenti sono apparsi folli quanto la recente decisione del Bromley di separarsi da Andy Woodman.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T02:00:49+00:00"
+    },
+    {
+      "id": "69e8fd979c",
+      "titolo": "Il Crystal Palace esonererà Pierre Sage OGGI dopo una disastrosa serie di 16 partite - ecco come il suo regno è crollato tra sessioni tardive e intense, cene al centro di allenamento e un vice allenatore impopolare",
+      "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I giocatori e i dirigenti del Crystal Palace sono frustrati dai metodi di allenamento di Pierre Sage, e il quarantasettenne verrà esonerato oggi dopo aver vinto solo due delle sue prime dieci partite di Premier League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-10T00:16:08+00:00"
+    },
+    {
+      "id": "8585baacf0",
+      "titolo": "Araujo sfida l'Argentina: \"Perso il miglior giocatore del mondo, proveremo ad approfittarne\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/araujo-sfida-argentina-perso-miglior-giocatore-mondo-proveremo-approfittarne-2292563",
+      "estratto": "L’assenza di Lionel Messi sarà uno dei temi principali dell’amichevole tra Argentina e Uruguay.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-11-09T19:42:18+00:00"
+      "pubblicato": "2026-11-09T23:25:25+00:00"
+    },
+    {
+      "id": "f299e60fec",
+      "titolo": "'Non ho mai raccontato tutta la storia': i tifosi dell'Inghilterra non mi fischierebbero se conoscessero la verità, dice Ben White... che difende l'addio ai Mondiali e il rifiuto delle convocazioni",
+      "url": "https://www.dailymail.com/sport/football/article-16278741/England-fans-boo-Ben-White.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "CRAIG HOPE: Il difensore ha lasciato il ritiro in Qatar dopo la fase a gironi adducendo 'motivi personali', sebbene in seguito sia stato riferito di un litigio con il vice di Gareth Southgate, Steve Holland.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-09T23:20:55+00:00"
+    },
+    {
+      "id": "56871f92bb",
+      "titolo": "Viaggio verso Wembley: l'Halifax punta a conquistare nuovi tifosi e a scalare la montagna per raggiungere la Football League, mentre la sua avventura in FA Cup si interrompe contro il Cheltenham",
+      "url": "https://www.dailymail.com/sport/football/article-16268451/Journey-Wembley-Halifax-set-sights-winning-fans-climbing-mountain-Football-League-FA-Cup-adventure-ended-route-one-Cheltenham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il suocero del tecnico dell'FC Halifax John McGrath è il celebre alpinista britannico Alan Hinkes OBE, e il mister sa di avere anche lui una cima da scalare.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-09T23:05:33+00:00"
+    },
+    {
+      "id": "9beca809cd",
+      "titolo": "Stephen Robinson è solo l'ultimo allenatore dell'Aberdeen a fallire miseramente... è ora di analizzare il club e la sua struttura",
+      "url": "https://www.dailymail.com/sport/football/article-16279113/Stephen-Robinson-just-latest-Aberdeen-manager-crash-burn-time-look-club-structure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nel giro di due giorni la scorsa settimana, i tifosi dell'Aberdeen sono stati trascinati in un viaggio nei ricordi per poi uscirne malconci e feriti.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-09T22:30:53+00:00"
+    },
+    {
+      "id": "c35b027be8",
+      "titolo": "Il tecnico del Falkirk John McGlynn merita il grande salto, dice Craig Levein, mentre l'Aberdeen esonera Stephen Robinson",
+      "url": "https://www.dailymail.com/sport/football/article-16279173/Falkirk-boss-John-McGlynn-deserves-big-says-Craig-Levein-Aberdeen-sack-Stephen-Robinson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Craig Levein ritiene che John McGlynn abbia 'tutte le carte in regola' per allenare un club più grande del Falkirk, mentre l'Aberdeen avvia la ricerca del successore di Stephen Robinson.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-09T22:30:46+00:00"
+    },
+    {
+      "id": "e12de4870b",
+      "titolo": "Tom Brady LASCIA il Birmingham City a soli tre anni dall'investimento nel club, con i Blues in vetta alla Championship",
+      "url": "https://www.dailymail.com/sport/football/article-16279525/Tom-Brady-QUITS-Birmingham-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Tom Brady ha clamorosamente lasciato il Birmingham City a soli tre anni dal suo ingresso nel club di Championship.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-09T22:03:45+00:00"
+    },
+    {
+      "id": "052165c057",
+      "titolo": "Il West Ham cancella Russell Brand dalla sua storia dopo anni di trattamenti VIP e baci ai manager nelle interviste post-partita - mentre viene condannato a 10 anni e sei mesi di reclusione per stupro e aggressione sessuale",
+      "url": "https://www.dailymail.com/sport/football/article-16277691/west-ham-wipe-russell-brand-history.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il West Ham ha rimosso i riferimenti a Russell Brand dal proprio sito web a seguito della condanna dell'attore e comico caduto in disgrazia per lo stupro di una donna e l'aggressione sessuale ad altre tre.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-09T21:30:29+00:00"
     },
     {
       "id": "7e3f578e27",
@@ -18,7 +90,16 @@
       "estratto": "Liam Scales sostiene di non avere timori riguardo all'inversione di tendenza della sfortuna di Kasper Hogh, dopo che la serie senza gol del danese con il Celtic si è allungata a 16 partite.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-09T19:16:53+00:00"
+      "pubblicato": "2026-11-09T19:54:47+00:00"
+    },
+    {
+      "id": "dd878f5d68",
+      "titolo": "Raul riparte dalla Serie B spagnola: ufficiale l'ingaggio con il Real Oviedo",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/11/09-152498584/raul_riparte_dalla_serie_b_spagnola_ufficiale_l_ingaggio_con_il_real_oviedo/",
+      "estratto": "L'icona dei blancos torna ad allenare dopo aver vissuto sei stagioni alla guida del Real Madrid Castilla",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-09T19:41:51+00:00"
     },
     {
       "id": "61eed03f97",
@@ -39,15 +120,6 @@
       "pubblicato": "2026-11-09T18:15:09+00:00"
     },
     {
-      "id": "052165c057",
-      "titolo": "Il West Ham cancella Russell Brand dalla sua storia dopo anni di trattamenti VIP e baci ai manager nelle interviste post-partita - mentre viene condannato a 10 anni e sei mesi di reclusione per stupro e aggressione sessuale",
-      "url": "https://www.dailymail.com/sport/football/article-16277691/west-ham-wipe-russell-brand-history.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il West Ham ha rimosso i riferimenti a Russell Brand dal proprio sito web a seguito della condanna dell'attore e comico caduto in disgrazia per lo stupro di una donna e l'aggressione sessuale ad altre tre.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T17:38:45+00:00"
-    },
-    {
       "id": "5f32d21bd3",
       "titolo": "'La Coppa del Mondo non è mai veramente finita': le scommesse negli Stati Uniti registrano una crescita delle giocate su MLS e calcio europeo",
       "url": "https://www.espn.com/espn/betting/story/_/id/50411508/united-states-soccer-betting-2026-world-cup-premier-mls",
@@ -55,15 +127,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-09T17:31:38+00:00"
-    },
-    {
-      "id": "69e8fd979c",
-      "titolo": "Il Crystal Palace esonererà Pierre Sage OGGI dopo una disastrosa serie di 16 partite - ecco come il suo regno è crollato tra sessioni tardive e intense, cene al centro di allenamento e un vice allenatore impopolare",
-      "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I giocatori e i dirigenti del Crystal Palace sono frustrati dai metodi di allenamento di Pierre Sage, e il quarantasettenne verrà esonerato oggi dopo aver vinto solo due delle sue prime dieci partite di Premier League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T17:16:50+00:00"
     },
     {
       "id": "382bcb8e42",
@@ -145,15 +208,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-09T08:27:59+00:00"
-    },
-    {
-      "id": "56871f92bb",
-      "titolo": "Viaggio verso Wembley: l'Halifax punta a conquistare nuovi tifosi e a scalare la montagna per raggiungere la Football League, mentre la sua avventura in FA Cup si interrompe contro il Cheltenham",
-      "url": "https://www.dailymail.com/sport/football/article-16268451/Journey-Wembley-Halifax-set-sights-winning-fans-climbing-mountain-Football-League-FA-Cup-adventure-ended-route-one-Cheltenham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il suocero del tecnico dell'FC Halifax John McGrath è il celebre alpinista britannico Alan Hinkes OBE, e il mister sa di avere anche lui una cima da scalare.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T02:00:46+00:00"
     },
     {
       "id": "b734057567",
@@ -253,15 +307,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-08T19:02:32+00:00"
-    },
-    {
-      "id": "fc5394ba4e",
-      "titolo": "Pierre Sage sulla pressione al Crystal Palace: La situazione non è passata \"dal sogno all'incubo\"",
-      "url": "https://www.espn.com/soccer/story/_/id/50422252/pierre-sage-crystal-palace-liverpool-nightmare",
-      "estratto": "Il tecnico del Crystal Palace Pierre Sage ha insistito sul fatto che la situazione non sia passata \"dal sogno all'incubo\" nonostante la quarta sconfitta consecutiva in Premier League.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T18:18:35+00:00"
     },
     {
       "id": "dd70c674a0",
@@ -424,42 +469,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-07T09:37:09+00:00"
-    },
-    {
-      "id": "a64e7c9234",
-      "titolo": "Gio Reyna segna e lascia il campo per un probabile infortunio in vista del ritiro della nazionale statunitense",
-      "url": "https://www.espn.com/soccer/story/_/id/50403196/gio-reyna-usa-strasbourg-injury-goal-concacaf-nations-league",
-      "estratto": "La partecipazione di Gio Reyna con gli Stati Uniti nei quarti di finale della Concacaf Nations League potrebbe essere a rischio dopo che il giocatore è uscito per un probabile infortunio nella sconfitta dello Strasburgo.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T01:06:27+00:00"
-    },
-    {
-      "id": "e9d081d718",
-      "titolo": "Lowe: l'Atlético deve essere propositivo per mettere in difficoltà il Barcelona",
-      "url": "https://www.espn.com/video/clip/_/id/50402297/atletico-proactive-trouble-barcelona",
-      "estratto": "Lowe: l'Atlético deve essere propositivo per mettere in difficoltà il Barcelona",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T00:13:15+00:00"
-    },
-    {
-      "id": "0820e7b1c8",
-      "titolo": "Martin O'Neill sereno sul digiuno di gol di Kasper Hogh: il tecnico del Celtic elogia la prestazione del danese contro il Besiktas",
-      "url": "https://www.dailymail.com/sport/football/article-16272851/Martin-ONeill-relaxed-Kasper-Hogh-scoring-drought-Celtic-boss-hails-Danes-display-against-Besiktas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Martin O'Neill ribadisce fermamente di non essere eccessivamente preoccupato per il digiuno di gol di Kasper Hogh, nonostante il danese non trovi la rete da 15 partite.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-06T22:30:46+00:00"
-    },
-    {
-      "id": "7499df1310",
-      "titolo": "Il bomber dei Rangers Ryan Naderi sta trovando il ritmo nel momento ideale... e potrebbe rivelarsi la chiave per la caccia ai trofei a Ibrox",
-      "url": "https://www.dailymail.com/sport/football/article-16272725/rangers-ryan-naderi-premiership-derek-mcinnes-ibrox.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "A febbraio, la scelta di Danny Rohl di dire ai tifosi dei Rangers che il nuovo acquisto Ryan Naderi gli ricordava un certo Thomas Muller era stata accolta da una derisione generale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-06T21:27:23+00:00"
     }
   ]
 }
