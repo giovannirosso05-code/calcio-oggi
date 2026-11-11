@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-11-10T23:20:36.178133+00:00",
-  "totale": 54,
+  "aggiornato": "2026-11-11T02:56:35.677353+00:00",
+  "totale": 52,
   "articoli": [
+    {
+      "id": "89b45942b0",
+      "titolo": "Sarina Wiegman riceve il titolo onorario di dama dal Principe William al Castello di Windsor - dopo aver guidato le Lionesses a due titoli europei consecutivi",
+      "url": "https://www.dailymail.com/sport/football/article-16282353/Sarina-Wiegman-honorary-damehood-Prince-William.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Wiegman è olandese, quindi non può ricevere il titolo effettivo di dama. Ha ottenuto il titolo onorario poiché i Paesi Bassi non hanno un monarca britannico come capo di Stato.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T00:04:09+00:00"
+    },
     {
       "id": "273dbef0f6",
       "titolo": "Ho lavorato per 20 anni per cercare di giocare un Mondiale... Non avrei mai permesso a un intervento al cuore di intralciare il mio sogno, dice McTominay",
@@ -46,15 +55,6 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "pubblicato": "2026-11-10T21:48:41+00:00"
-    },
-    {
-      "id": "89b45942b0",
-      "titolo": "Sarina Wiegman riceve il titolo onorario di dama dal Principe William al Castello di Windsor - dopo aver guidato le Lionesses a due titoli europei consecutivi",
-      "url": "https://www.dailymail.com/sport/football/article-16282353/Sarina-Wiegman-honorary-damehood-Prince-William.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Wiegman è olandese, quindi non può ricevere il titolo effettivo di dama. Ha ottenuto il titolo onorario poiché i Paesi Bassi non hanno un monarca britannico come capo di Stato.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T19:32:53+00:00"
     },
     {
       "id": "6a64678393",
@@ -469,24 +469,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-08T08:12:37+00:00"
-    },
-    {
-      "id": "2b72f2e6fb",
-      "titolo": "Calciatore dilettante sviene durante il riscaldamento e viene trasportato d'urgenza in ospedale mentre la partita viene sospesa",
-      "url": "https://www.dailymail.com/sport/football/article-16274291/Non-league-footballer-collapses-warm-rushed-hospital-match-abandoned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La partita del Truro City contro il Folkestone Invicta è stata sospesa a causa di un'emergenza medica dopo che un calciatore è svenuto durante il riscaldamento.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T00:08:53+00:00"
-    },
-    {
-      "id": "f51075e160",
-      "titolo": "Il tecnico dei Rangers Derek McInnes loda l'attaccante in grande spolvero Ryan Naderi",
-      "url": "https://www.dailymail.com/sport/football/article-16275001/Rangers-boss-Derek-McInnes-piles-praise-form-striker-Ryan-Naderi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'allenatore dei Rangers Derek McInnes ha coperto di elogi Ryan Naderi dopo che il ceco ha aggiunto un altro gol al suo bottino nella vittoria per 2-0 contro il St Mirren.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-07T23:59:46+00:00"
     }
   ]
 }
