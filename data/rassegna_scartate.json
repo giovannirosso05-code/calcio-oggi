@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-11-11T02:56:35.677353+00:00",
-  "totale": 52,
+  "aggiornato": "2026-11-11T10:21:43.492237+00:00",
+  "totale": 49,
   "articoli": [
+    {
+      "id": "604bdb3c9f",
+      "titolo": "Zero presenze in Premier, due in Europa: Di Gregorio-Bournemouth, l'amore non è sbocciato",
+      "url": "https://www.tuttomercatoweb.com/serie-a/zero-presenze-premier-europa-gregorio-bournemouth-amore-sbocciato-2292710",
+      "estratto": "Michele Di Gregorio ha vissuto una prima parte di stagione da semplice comparsa al Bournemouth.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T10:08:00+00:00"
+    },
+    {
+      "id": "d610ec5090",
+      "titolo": "La polizia 'sta spulciando i conti bancari di venditori loschi di Fire Stick per contattare gli spettatori illegali' di partite di Premier League e film",
+      "url": "https://www.dailymail.com/sport/football/article-16281473/Police-trawling-Dodgy-Fire-Stick-sellers-bank-accounts-contact-illegal-viewers-Premier-League-football-films.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ma Rav Wilding, un ex detective recentemente apparso nella trasmissione Morning Live della BBC, ha lanciato un nuovo avvertimento alle persone che le utilizzano.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T08:40:49+00:00"
+    },
     {
       "id": "89b45942b0",
       "titolo": "Sarina Wiegman riceve il titolo onorario di dama dal Principe William al Castello di Windsor - dopo aver guidato le Lionesses a due titoli europei consecutivi",
@@ -30,15 +48,6 @@
       "pubblicato": "2026-11-10T22:35:33+00:00"
     },
     {
-      "id": "d610ec5090",
-      "titolo": "La polizia 'sta spulciando i conti bancari di venditori loschi di Fire Stick per contattare gli spettatori illegali' di partite di Premier League e film",
-      "url": "https://www.dailymail.com/sport/football/article-16281473/Police-trawling-Dodgy-Fire-Stick-sellers-bank-accounts-contact-illegal-viewers-Premier-League-football-films.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ma Rav Wilding, un ex detective recentemente apparso nella trasmissione Morning Live della BBC, ha lanciato un nuovo avvertimento alle persone che le utilizzano.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T22:32:00+00:00"
-    },
-    {
       "id": "cd805f3ddb",
       "titolo": "MrBeast, incontra Haaland: la stella del Manchester City mette alla prova lo YouTuber con un percorso a ostacoli calcistico",
       "url": "https://www.espn.com/soccer/story/_/id/50445699/mrbeast-meet-erling-haaland-manchester-city-star-puts-youtuber-soccer-gauntlet",
@@ -64,15 +73,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-10T19:00:46+00:00"
-    },
-    {
-      "id": "d8213a24e3",
-      "titolo": "Jude Bellingham dice di 'voler essere un gentleman' ma ammette di non sentirsi 'maturo' perché 'non so cucinare, non so guidare e dipendo dalla mia famiglia' in un nuovo e affascinante servizio fotografico",
-      "url": "https://www.dailymail.com/sport/football/article-16281645/jude-bellingham-gentleman-family-interview.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La stella del Real Madrid e dell'Inghilterra Jude Bellingham ha ammesso di non sentirsi 'maturo', nonostante sia stato definito tale fin da giovanissimo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T18:36:46+00:00"
     },
     {
       "id": "0ccd0a7f81",
@@ -442,33 +442,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-08T15:15:31+00:00"
-    },
-    {
-      "id": "698fddf000",
-      "titolo": "La neomamma ed ex stella delle Lionesses Mary Earps chiama il suo maschietto Xander dopo aver annunciato la nascita segreta del figlio della sua compagna in un tenero video su Instagram",
-      "url": "https://www.dailymail.com/sport/football/article-16275819/mary-earps-baby-xander-announcement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Mary Earps ha chiamato suo figlio Xander dopo essere diventata madre per la prima volta, avendo rivelato questa settimana che la sua compagna ha dato alla luce un maschietto.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T10:11:49+00:00"
-    },
-    {
-      "id": "6ce6d59221",
-      "titolo": "Il fratello criminale di una stella della Premier League sventa il tentativo del Ministero dell'Interno di espellerlo in Africa - mentre è in attesa di giudizio per rapimento, sequestro di persona, rapina aggravata e furto con scasso",
-      "url": "https://www.dailymail.com/sport/football/article-16272041/Premier-League-career-criminal-brother-Home-Office-deportation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il membro della gang e aspirante rapper, ormai ventenne, è stato bersaglio di un tentativo concertato duramente per quattro anni da parte del governo per rispedirlo nel paese d'origine della sua famiglia nell'Africa occidentale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T09:38:16+00:00"
-    },
-    {
-      "id": "58f22cb18d",
-      "titolo": "Il Tenerife, club devastato dalla tragica scomparsa del calciatore Jesus de Miguel, promette di sostenere finanziariamente la figlia di un anno fino alla maggiore età - mentre la raccolta fondi supera le 125.000 sterline",
-      "url": "https://www.dailymail.com/sport/football/article-16274739/jesus-miguel-tenerife-support-daughter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "De Miguel, 30 anni, ha perso la vita a seguito di un terribile scontro con il portiere dell'FC Andorra Jesus Owonu nelle fasi finali di una partita di seconda divisione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T08:12:37+00:00"
     }
   ]
 }
