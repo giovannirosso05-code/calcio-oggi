@@ -1,15 +1,69 @@
 {
-  "aggiornato": "2026-11-11T10:21:43.492237+00:00",
-  "totale": 49,
+  "aggiornato": "2026-11-11T17:59:37.180228+00:00",
+  "totale": 45,
   "articoli": [
     {
-      "id": "604bdb3c9f",
-      "titolo": "Zero presenze in Premier, due in Europa: Di Gregorio-Bournemouth, l'amore non è sbocciato",
-      "url": "https://www.tuttomercatoweb.com/serie-a/zero-presenze-premier-europa-gregorio-bournemouth-amore-sbocciato-2292710",
-      "estratto": "Michele Di Gregorio ha vissuto una prima parte di stagione da semplice comparsa al Bournemouth.",
+      "id": "d03b6aab28",
+      "titolo": "Gli occhi di Vincenzo Italiano sulla Serie A: il Besiktas a gennaio vuole Solet e Okoye",
+      "url": "https://www.tuttomercatoweb.com/serie-a/occhi-vincenzo-italiano-serie-a-besiktas-gennaio-vuole-solet-okoye-2293049",
+      "estratto": "Vincenzo Italiano e il suo Besiktas guardano alla Serie A e, in particolare, alla rosa dell’Udinese per rinforzare la propria squadra in vista della sessione invernale di calciomercato.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-11-11T10:08:00+00:00"
+      "pubblicato": "2026-11-11T17:45:09+00:00"
+    },
+    {
+      "id": "03a1251e76",
+      "titolo": "Il Watford non ha intenzione di cambiare allenatore: fiducia nel lavoro di Dionisi",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/watford-intenzione-cambiare-allenatore-fiducia-lavoro-dionisi-2293074",
+      "estratto": "Nonostante il ventesimo posto in Championship, la seconda divisione inglese, con già otto sconfitte in 15 partite di campionato e zero vittorie esterne il Watford non sembra intenzionato a sostituire Alessio Dionisi sfruttando la pausa per le naziona",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T17:42:29+00:00"
+    },
+    {
+      "id": "eda5531b43",
+      "titolo": "Aston Villa, blindato il terzino Maatsen. Ma non svela la durata dell'accordo",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/aston-villa-blindato-terzino-maatsen-svela-durata-accordo-2293062",
+      "estratto": "L'Aston Villa ha trovato l'accordo con l'esterno mancino Ian Maatsen, arrivato dal Chelsea nel 2024 e autore finora di 100 presenze (con tre gol e quattro assist) con la maglia del club inglese.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T17:12:09+00:00"
+    },
+    {
+      "id": "445c57d331",
+      "titolo": "Okoye e Belen ancora al centro del gossip. E Corona li insegue senza casco per Milano",
+      "url": "https://www.tuttomercatoweb.com/serie-a/okoye-belen-centro-gossip-corona-insegue-casco-milano-2293053",
+      "estratto": "Il flirt che coinvolge Maduka Okoye, portiere dell'Udinese, e Belen Rodriguez continua ad alimentare il gossip.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T16:53:21+00:00"
+    },
+    {
+      "id": "6147986e71",
+      "titolo": "Hooligan scatenati in Australia: immagini choc mostrano orde di tifosi che distruggono auto e danneggiano proprietà",
+      "url": "https://www.dailymail.com/sport/football/article-16277059/Soccer-hooligans-descend-Australia-Wild-footage-shows-horde-fans-smashing-cars-damaging-property.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I tifosi del Perth Glory chiedono daspo dopo che alcuni filmati hanno mostrato giovani intendi a danneggiare violentemente un'auto e ad affrontare i sostenitori avversari vicino all'HBF Park.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T12:38:06+00:00"
+    },
+    {
+      "id": "69e8fd979c",
+      "titolo": "Il Crystal Palace esonererà Pierre Sage OGGI dopo una disastrosa serie di 16 partite - ecco come il suo regno è crollato tra sessioni tardive e intense, cene al centro di allenamento e un vice allenatore impopolare",
+      "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I giocatori e i dirigenti del Crystal Palace sono frustrati dai metodi di allenamento di Pierre Sage, e il quarantasettenne verrà esonerato oggi dopo aver vinto solo due delle sue prime dieci partite di Premier League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T10:58:11+00:00"
+    },
+    {
+      "id": "c896939c36",
+      "titolo": "'Mi sento tradito, ingannato, scioccato. È stata una stupidaggine da parte loro': ANDY WOODMAN rivive il momento in cui è stato 'brutalmente' esonerato dal Bromley e racconta come il suo migliore amico Sir Gareth Southgate lo abbia aiutato a superarlo",
+      "url": "https://www.dailymail.com/sport/football/article-16277685/andy-woodman-bromley-southgate-sacking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "INTERVISTA ESCLUSIVA: Ogni allenatore esonerato ha la sua storia triste o si sente trattato ingiustamente, ma pochi licenziamenti sono apparsi folli quanto la recente decisione del Bromley di separarsi da Andy Woodman.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T10:29:47+00:00"
     },
     {
       "id": "d610ec5090",
@@ -48,15 +102,6 @@
       "pubblicato": "2026-11-10T22:35:33+00:00"
     },
     {
-      "id": "cd805f3ddb",
-      "titolo": "MrBeast, incontra Haaland: la stella del Manchester City mette alla prova lo YouTuber con un percorso a ostacoli calcistico",
-      "url": "https://www.espn.com/soccer/story/_/id/50445699/mrbeast-meet-erling-haaland-manchester-city-star-puts-youtuber-soccer-gauntlet",
-      "estratto": "La stella del Manchester City Erling Haaland ha collaborato con il popolare YouTuber \"MrBeast\" in una serie di diverse sfide calcistiche.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T21:49:29+00:00"
-    },
-    {
       "id": "3bf0becb8a",
       "titolo": "Coppa del Re: Alaves e Valencia sul velluto. Avanti anche il Leganes, ko il Logroñes",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/11/10-152516453/coppa_del_re_alaves_e_valencia_sul_velluto_avanti_anche_il_leganes_ko_il_logroes/",
@@ -64,15 +109,6 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "pubblicato": "2026-11-10T21:48:41+00:00"
-    },
-    {
-      "id": "6a64678393",
-      "titolo": "Da bambino in lacrime a promessa del Pallone d'Oro: come l'impavido Rio Ngumoha si è fatto le ossa, passando dall'addio al Chelsea per il Liverpool a soli 15 anni e dall'essere protetto da 'crimini e cose simili' nell'East London",
-      "url": "https://www.dailymail.com/sport/football/article-16281739/rio-ngumoha-chelsea-liverpool-england.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Rio Ngumoha è tornato a giocare con i ragazzi più grandi, solo che questa volta non ci sono lacrime. È difficile credere che l'esterno del Liverpool e dell'Inghilterra possa mai sentirsi intimidito su un campo da calcio.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T19:00:46+00:00"
     },
     {
       "id": "0ccd0a7f81",
@@ -138,15 +174,6 @@
       "pubblicato": "2026-11-10T11:25:24+00:00"
     },
     {
-      "id": "69e8fd979c",
-      "titolo": "Il Crystal Palace esonererà Pierre Sage OGGI dopo una disastrosa serie di 16 partite - ecco come il suo regno è crollato tra sessioni tardive e intense, cene al centro di allenamento e un vice allenatore impopolare",
-      "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I giocatori e i dirigenti del Crystal Palace sono frustrati dai metodi di allenamento di Pierre Sage, e il quarantasettenne verrà esonerato oggi dopo aver vinto solo due delle sue prime dieci partite di Premier League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T10:10:40+00:00"
-    },
-    {
       "id": "3b62bdea00",
       "titolo": "I fenomeni del gol Lassine Sinayoko e Yassir Zabiri sono davvero forti come sembrano?",
       "url": "https://www.espn.com/espn/story/_/id/50440279/lassine-sinayoko-yassir-zabiri-good-seem",
@@ -156,15 +183,6 @@
       "pubblicato": "2026-11-10T07:38:57+00:00"
     },
     {
-      "id": "89192afaf6",
-      "titolo": "Tony Popovic liquida le voci che lo accostano alla panchina del Crystal Palace",
-      "url": "https://www.espn.com/soccer/story/_/id/50430228/tony-popovic-waves-links-crystal-palace-gig",
-      "estratto": "Il commissario tecnico dell'Australia Tony Popovic ha liquidato come \"speculazioni\" le voci che lo accostano alla panchina del Crystal Palace e, pur non offrendo garanzie sulla sua permanenza oltre la scadenza del contratto, ha confermato che sono st",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T04:46:47+00:00"
-    },
-    {
       "id": "e12de4870b",
       "titolo": "Tom Brady LASCIA il Birmingham City a soli tre anni dall'investimento nel club, con i Blues in vetta alla Championship",
       "url": "https://www.dailymail.com/sport/football/article-16279525/Tom-Brady-QUITS-Birmingham-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -172,15 +190,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-10T02:57:05+00:00"
-    },
-    {
-      "id": "c896939c36",
-      "titolo": "'Mi sento tradito, ingannato, scioccato. È stata una stupidaggine da parte loro': ANDY WOODMAN rivive il momento in cui è stato 'brutalmente' esonerato dal Bromley e racconta come il suo migliore amico Sir Gareth Southgate lo abbia aiutato a superarlo",
-      "url": "https://www.dailymail.com/sport/football/article-16277685/andy-woodman-bromley-southgate-sacking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "INTERVISTA ESCLUSIVA: Ogni allenatore esonerato ha la sua storia triste o si sente trattato ingiustamente, ma pochi licenziamenti sono apparsi folli quanto la recente decisione del Bromley di separarsi da Andy Woodman.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T02:00:49+00:00"
     },
     {
       "id": "f299e60fec",
@@ -318,15 +327,6 @@
       "pubblicato": "2026-11-09T09:12:31+00:00"
     },
     {
-      "id": "6147986e71",
-      "titolo": "Hooligan scatenati in Australia: immagini choc mostrano orde di tifosi che distruggono auto e danneggiano proprietà",
-      "url": "https://www.dailymail.com/sport/football/article-16277059/Soccer-hooligans-descend-Australia-Wild-footage-shows-horde-fans-smashing-cars-damaging-property.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I tifosi del Perth Glory chiedono daspo dopo che alcuni filmati hanno mostrato giovani intendi a danneggiare violentemente un'auto e ad affrontare i sostenitori avversari vicino all'HBF Park.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T08:27:59+00:00"
-    },
-    {
       "id": "b734057567",
       "titolo": "Crystal Palace pronto a ESONERARE Pierre Sage: Thomas Frank in pole per sostituire in difficoltà il tecnico francese con il club ultimo in Premier League",
       "url": "https://www.dailymail.com/sport/football/article-16276657/Crystal-Palace-set-SACK-Pierre-Sage-Thomas-Frank-leads-race-replace-struggling-French-boss-club-bottom-Premier-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -406,42 +406,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-08T19:02:32+00:00"
-    },
-    {
-      "id": "dd70c674a0",
-      "titolo": "Il Bournemouth di Marco Rose non dovrebbe avere la rosa per vincere così tante partite in patria e all'estero, ma a Ipswich ha dimostrato di saper soffrire, scrive JAMES SHARPE",
-      "url": "https://www.dailymail.com/sport/football/article-16268057/Marco-Roses-Bournemouth-not-depth-win-games-domestically-abroad-Ipswich-showed-hard-way-writes-JAMES-SHARPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JAMES SHARPE A PORTMAN ROAD. Conciliare gli impegni di campionato con le avventure europee non dovrebbe essere così semplice per squadre come il Bournemouth.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T17:48:30+00:00"
-    },
-    {
-      "id": "b7f89ce7be",
-      "titolo": "Verso l'infinito e oltre! Un'altra prodezza di Diego Gómez porta il Brighton al SECONDO posto e alimenta i sogni... mentre l'attaccante del Brentford Igor Thiago si fa espellere ingenuamente",
-      "url": "https://www.dailymail.com/sport/football/article-16268041/To-infinity-stunning-Diego-Gomez-strike-Brighton-SECOND-daring-dream-Brentfords-Igor-Thiago-goaded-red-card.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "MATT BARLOW ALL'AMEX STADIUM: Il cammino del Brighton continua a gonfie vele. Un'altra vittoria che li proietta al secondo posto, dietro solo all'Arsenal.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T17:40:15+00:00"
-    },
-    {
-      "id": "a1a2cd0ca0",
-      "titolo": "All'interno della folle sala trofei della leggenda del Chelsea Branislav Ivanovic: foto incorniciate dei suoi 42 gol, un anello di Didier Drogba... e un campo da calcio a LED",
-      "url": "https://www.dailymail.com/sport/football/article-16262771/Inside-insane-trophy-room-Chelsea-legend-Branislav-Ivanovic-Framed-pictures-42-goals-ring-Didier-Drogba-LED-football-pitch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La straordinaria sala trofei privata dell'ex difensore del Chelsea Branislav Ivanovic è diventata virale dopo che un tifoso ha pubblicato online il tour del museo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T17:08:41+00:00"
-    },
-    {
-      "id": "c104ce1b72",
-      "titolo": "La leggenda della Premier League David Silva, 40 anni, fa un ritorno clamoroso al calcio con una prestazione da migliore in campo - a tre anni e mezzo dal ritiro",
-      "url": "https://www.dailymail.com/sport/football/article-16275987/Premier-League-legend-David-Silva-40-makes-emphatic-return-football-man-match-performance-three-half-years-retiring.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "David Silva ha lasciato il segno nella sua prima partita dopo l'addio al ritiro, segnando all'esordio e offrendo una prova da man of the match con la squadra di Hong Kong dello Sha Tin, sabato.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-08T15:15:31+00:00"
     }
   ]
 }
