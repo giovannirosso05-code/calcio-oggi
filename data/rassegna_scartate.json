@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-11-12T00:31:19.627548+00:00",
-  "totale": 41,
+  "aggiornato": "2026-11-12T07:37:47.374531+00:00",
+  "totale": 40,
   "articoli": [
+    {
+      "id": "ac522b913d",
+      "titolo": "Roma, De Roon ha già convinto tutti: per Gasp è indispensabile, il rinnovo è vicino",
+      "url": "https://www.tuttomercatoweb.com/serie-a/roma-de-roon-convinto-tutti-gasp-indispensabile-rinnovo-2293181",
+      "estratto": "Marten de Roon si è preso la Roma dentro e fuori dal campo.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-12T07:26:14+00:00"
+    },
+    {
+      "id": "d18c329653",
+      "titolo": "Il fedelissimo di Gasperini dà garanzie: sul tavolo della Roma il rinnovo di De Roon",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/12-152532696/il_fedelissimo_di_gasperini_d_garanzie_sul_tavolo_della_roma_il_rinnovo_di_de_roon/",
+      "estratto": "Dopo Hermoso, il club giallorosso punta a confermare il centrocampista voluto dal tecnico",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-12T07:04:59+00:00"
+    },
     {
       "id": "17465f66c2",
       "titolo": "Gli Stati Uniti si ritirano dal Mondiale Under 17 a pochi giorni dall'inizio... tra la guerra in Medio Oriente e il 'rischio di conflitto armato'",
@@ -12,24 +30,6 @@
       "pubblicato": "2026-11-11T23:48:49+00:00"
     },
     {
-      "id": "5b9646bd13",
-      "titolo": "Cruzeiro, può esordire Vitor Hugo: zero presenze, ma già 100 milioni di clausola",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/cruzeiro-esordire-vitor-hugo-zero-presenze-100-clausola-2293167",
-      "estratto": "Il Cruzeiro in vista della sfida di campionato contro il Palmeiras, in programma nella notte fra mercoledì 18 e giovedì 19 novembre, potrebbe lasciare in prima squadra, probabilmente anche da titolare, il giovane difensore centrale Vitor Hugo, detto ",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-11T23:27:14+00:00"
-    },
-    {
-      "id": "e894259d04",
-      "titolo": "Betis, Riquelme finisce nel mirino di due inglesi. Il club chiede almeno 20 milioni",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/betis-riquelme-finisce-mirino-inglesi-club-chiede-almeno-20-2293163",
-      "estratto": "A gennaio potrebbe andare in scena una sfida tutta inglese per l’esterno offensivo Rodrigo Riquelme del Real Betis di Siviglia.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-11T23:11:44+00:00"
-    },
-    {
       "id": "f75dd960bf",
       "titolo": "'Voleva sempre giocare per la Scozia'. Alex McLeish ricorda il momento in cui la nazionale ha trovato il suo nuovo talismano in Scott McTominay",
       "url": "https://www.dailymail.com/sport/football/article-16285111/He-wanted-play-Scotland-Alex-McLeish-recalls-moment-national-team-new-talisman-Scott-McTominay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -37,15 +37,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-11T23:02:10+00:00"
-    },
-    {
-      "id": "e614defe1e",
-      "titolo": "Muharemovic brilla con il Leeds: il club pronto a rinnovare per allontanare il mercato",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/muharemovic-brilla-leeds-club-pronto-rinnovare-allontanare-mercato-2293170",
-      "estratto": "Il Leeds è pronto a blindare uno dei giocatori più importanti della sua rosa e allontanare così le sirene di mercato che si fanno sempre più forti nei suoi confronti.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-11T22:56:59+00:00"
     },
     {
       "id": "63d083cdd0",
@@ -127,6 +118,15 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-11T10:58:11+00:00"
+    },
+    {
+      "id": "525f95efaf",
+      "titolo": "Dal sogno scudetto con la Roma, ai tatuaggi e il rapporto con Mou e Gasp. Pisilli si racconta: \"Il paragone con Totti e De Rossi? Sono mostri sacri\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/11-152518582/gli_esami_all_universit_zero_tatuaggi_e_il_rapporto_con_i_social_pisilli_si_racconta_non_paragonatemi_a_totti_e_de_rossi/",
+      "estratto": "Il centrocampista: \"Dovrei studiare di più all'università, ma penso che, alla fine, se vuoi, trovi il tempo. Ci alleniamo la mattina...\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-11T09:01:35+00:00"
     },
     {
       "id": "d610ec5090",
@@ -307,15 +307,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-09T17:31:38+00:00"
-    },
-    {
-      "id": "382bcb8e42",
-      "titolo": "Il discusso capo della FIFA Gianni Infantino 'ha usato un consigliere di Trump per ottenere il permesso di soggiorno per la sua colf nicaraguense clandestina'",
-      "url": "https://www.dailymail.com/sport/football/article-16262175/gianni-infantino-trump-adviser-housekeeper-miami.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il presidente della FIFA Gianni Infantino avrebbe fatto pressioni sui consiglieri dell'amministrazione Trump per accelerare il rilascio del permesso di lavoro per la sua domestica clandestina nicaraguense dopo che questa aveva perso lo status legale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T17:08:13+00:00"
     },
     {
       "id": "23c099c04f",
