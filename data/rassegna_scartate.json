@@ -1,15 +1,33 @@
 {
-  "aggiornato": "2026-11-12T07:37:47.374531+00:00",
-  "totale": 40,
+  "aggiornato": "2026-11-12T16:17:36.808871+00:00",
+  "totale": 34,
   "articoli": [
     {
-      "id": "ac522b913d",
-      "titolo": "Roma, De Roon ha già convinto tutti: per Gasp è indispensabile, il rinnovo è vicino",
-      "url": "https://www.tuttomercatoweb.com/serie-a/roma-de-roon-convinto-tutti-gasp-indispensabile-rinnovo-2293181",
-      "estratto": "Marten de Roon si è preso la Roma dentro e fuori dal campo.",
+      "id": "30cd2a8e21",
+      "titolo": "Viaggio dentro al nuovo stadio del Venezia: immagini, tempi e numeri del Bosco dello Sport",
+      "url": "https://www.tuttomercatoweb.com/serie-a/viaggio-stadio-venezia-immagini-tempi-numeri-bosco-sport-2293317",
+      "estratto": "Il nuovo stadio del Venezia sta prendendo forma nel Comune di Tessera, a breve distanza dall'aeroporto di Venezia Marco Polo, in un progetto che si sviluppa su un’area di 116 ettari, con un investimento complessivo di oltre 300 milioni di euro.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-11-12T07:26:14+00:00"
+      "pubblicato": "2026-11-12T15:48:00+00:00"
+    },
+    {
+      "id": "69e8fd979c",
+      "titolo": "Il Crystal Palace esonererà Pierre Sage OGGI dopo una disastrosa serie di 16 partite - ecco come il suo regno è crollato tra sessioni tardive e intense, cene al centro di allenamento e un vice allenatore impopolare",
+      "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I giocatori e i dirigenti del Crystal Palace sono frustrati dai metodi di allenamento di Pierre Sage, e il quarantasettenne verrà esonerato oggi dopo aver vinto solo due delle sue prime dieci partite di Premier League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-12T12:52:44+00:00"
+    },
+    {
+      "id": "a38995b4f5",
+      "titolo": "La Uefa punisce la Roma e i tifosi dopo i disordini di Manchester: cosa cambia per la vendita dei biglietti europei",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/12-152537891/la_uefa_punisce_la_roma_e_i_tifosi_dopo_i_disordini_di_manchester_cosa_cambia_per_la_vendita_dei_biglietti_europei/",
+      "estratto": "Doppia sanzione per i giallorossi: 20mila euro di multa e riduzione del 50% dei biglietti per una trasferta entro due anni",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-12T10:55:56+00:00"
     },
     {
       "id": "d18c329653",
@@ -111,24 +129,6 @@
       "pubblicato": "2026-11-11T11:01:39+00:00"
     },
     {
-      "id": "69e8fd979c",
-      "titolo": "Il Crystal Palace esonererà Pierre Sage OGGI dopo una disastrosa serie di 16 partite - ecco come il suo regno è crollato tra sessioni tardive e intense, cene al centro di allenamento e un vice allenatore impopolare",
-      "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I giocatori e i dirigenti del Crystal Palace sono frustrati dai metodi di allenamento di Pierre Sage, e il quarantasettenne verrà esonerato oggi dopo aver vinto solo due delle sue prime dieci partite di Premier League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-11T10:58:11+00:00"
-    },
-    {
-      "id": "525f95efaf",
-      "titolo": "Dal sogno scudetto con la Roma, ai tatuaggi e il rapporto con Mou e Gasp. Pisilli si racconta: \"Il paragone con Totti e De Rossi? Sono mostri sacri\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/11-152518582/gli_esami_all_universit_zero_tatuaggi_e_il_rapporto_con_i_social_pisilli_si_racconta_non_paragonatemi_a_totti_e_de_rossi/",
-      "estratto": "Il centrocampista: \"Dovrei studiare di più all'università, ma penso che, alla fine, se vuoi, trovi il tempo. Ci alleniamo la mattina...\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-11T09:01:35+00:00"
-    },
-    {
       "id": "d610ec5090",
       "titolo": "La polizia 'sta spulciando i conti bancari di venditori loschi di Fire Stick per contattare gli spettatori illegali' di partite di Premier League e film",
       "url": "https://www.dailymail.com/sport/football/article-16281473/Police-trawling-Dodgy-Fire-Stick-sellers-bank-accounts-contact-illegal-viewers-Premier-League-football-films.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -199,15 +199,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-10T15:45:05+00:00"
-    },
-    {
-      "id": "e6e52fd6d9",
-      "titolo": "Pensare meno, correre di più: l'ascesa della marcatura a uomo in Premier League",
-      "url": "https://www.espn.com/soccer/story/_/id/50437689/think-less-run-more-rise-man-marking-premier-league",
-      "estratto": "I club di Premier League corrono più veloci, pressano con maggiore intensità e danno più valore che mai all'atletismo. Cosa succede quando tutti giocano in questo modo?",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T13:39:26+00:00"
     },
     {
       "id": "b935a63dfb",
@@ -305,7 +296,7 @@
       "url": "https://www.espn.com/espn/betting/story/_/id/50411508/united-states-soccer-betting-2026-world-cup-premier-mls",
       "estratto": "Prima della Coppa del Mondo, in molti si chiedevano se gli americani sarebbero rimasti appassionati anche dopo. I dati sulle scommesse dicono di sì, lo sono rimasti.",
       "fonte": "ESPN",
-      "serie": "Estero",
+      "serie": "Champions",
       "pubblicato": "2026-11-09T17:31:38+00:00"
     },
     {
@@ -316,51 +307,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-09T17:07:54+00:00"
-    },
-    {
-      "id": "5f299a2051",
-      "titolo": "Declan Rice rivela di aver fatto un passo indietro dai social media perché possono 'rovinarti l'intera giornata' dopo i pessimi attacchi contro di lui e la sua fidanzata - mentre posa per un nuovo servizio fotografico",
-      "url": "https://www.dailymail.com/sport/football/article-16277805/Declan-Rice-reveals-hes-stepped-social-media-ruin-day-sick-trolling-girlfriend-poses-new-photoshoot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Declan Rice si è aperto riguardo alla riduzione del suo utilizzo dei social media, citando il costo psicologico che possono comportare.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T13:45:31+00:00"
-    },
-    {
-      "id": "7fb9e75e5a",
-      "titolo": "Il Forest Green si scusa per non aver commemorato il Remembrance Day in occasione della partita casalinga a causa di un \"errore\"",
-      "url": "https://www.dailymail.com/sport/football/article-16276065/Forest-Green-apologise-failing-commemorate-Remembrance-Day-home-match-mistake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Forest Green Rovers si è scusato per non aver commemorato il Remembrance Day in una partita in casa, definendo l'accaduto \"errore umano\" e uno \"sbaglio\" da parte del club.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T12:03:27+00:00"
-    },
-    {
-      "id": "c88e380024",
-      "titolo": "C'è chi lo definisce 'Tuchel 2.0' e la sua ultima lista di convocati dà proprio questa impressione. Ecco perché l'Inghilterra crede che l'assalto agli Europei sia alla portata, scrive IAN LADYMAN",
-      "url": "https://www.dailymail.com/sport/football/article-16272621/Some-calling-Tuchel-2-0-latest-squad-does-feel-like-Heres-England-think-tilt-European-Championship-reach-writes-IAN-LADYMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Una delle metafore preferite di Thomas Tuchel riguardo alla crescita della sua Inghilterra è quella di un treno che lascia la stazione con a bordo solo i pochi prescelti. Con il passare del tempo, i corpi rimasti sui binari aumentano costantemente.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T10:45:20+00:00"
-    },
-    {
-      "id": "21f922c8fb",
-      "titolo": "Vergognosi fischi dei tifosi del Celtic durante il minuto di silenzio per la Remembrance Sunday: l'arbitro interrompe il tributo dopo soli 13 SECONDI",
-      "url": "https://www.dailymail.com/sport/football/article-16277509/Celtic-fans-boo-minutes-silence-Remembrance-Sunday-referee-ends-tribute-just-13-SECONDS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Celtic è stato costretto a ridimensionare i piani per commemorare il Remembrance Day dopo che una parte dei suoi sostenitori ha fischiato durante il minuto di silenzio previsto per la Remembrance Sunday.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T09:51:48+00:00"
-    },
-    {
-      "id": "6c868bbf0a",
-      "titolo": "La gioia per un bambino dopo il dramma dell'aborto spontaneo per Rodrigo Muniz: la stella della Premier League rivela che la moglie è di nuovo incinta dopo l'agonia extracampo della scorsa stagione in un'intervista emozionante",
-      "url": "https://www.dailymail.com/sport/football/article-16275899/rodrigo-muniz-fulham-wife-pregnant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'attaccante centrale, parlando con i media del club dopo la partita di Craven Cottage, ha parlato apertamente delle difficoltà affrontate con la moglie Jady - che adesso aspettano un altro bambino.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-09T09:12:31+00:00"
     }
   ]
 }
