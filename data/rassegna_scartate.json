@@ -1,15 +1,114 @@
 {
-  "aggiornato": "2026-11-13T18:04:55.181260+00:00",
+  "aggiornato": "2026-11-13T23:32:36.090036+00:00",
   "totale": 44,
   "articoli": [
     {
-      "id": "0c59763e46",
-      "titolo": "Davide Frattesi rimpianto Inter? Il commento degli opinionisti",
-      "url": "https://www.tuttomercatoweb.com/serie-a/davide-frattesi-rimpianto-inter-commento-opinionisti-2293663",
-      "estratto": "Davide Frattesi conferma il suo stato di grazia anche in Nazionale.",
+      "id": "906f7ad6ec",
+      "titolo": "Grealish chiede scusa ai tifosi dell'Everton: \"Non vedo l'ora di tornare ad aiutarvi\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/grealish-chiede-scusa-tifosi-everton-non-vedo-tornare-aiutarvi-2293789",
+      "estratto": "Jack Grealish è tornato a parlare dopo le ultime settimane difficili vissute all'Everton.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-11-13T18:01:00+00:00"
+      "pubblicato": "2026-11-13T23:26:31+00:00"
+    },
+    {
+      "id": "cfa755281c",
+      "titolo": "Moreno: Pochettino aveva 'un piede fuori dalla porta' prima della Coppa del Mondo",
+      "url": "https://www.espn.com/video/clip/_/id/50475260/pochettino-had-one-foot-door-world-cup",
+      "estratto": "Moreno: Pochettino aveva 'un piede fuori dalla porta' prima della Coppa del Mondo",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T23:10:39+00:00"
+    },
+    {
+      "id": "97e84842ec",
+      "titolo": "Argentina, Walter Samuel lascia lo staff di Scaloni: inizierà la carriera da primo allenatore",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/argentina-walter-samuel-lascia-staff-scaloni-iniziera-carriera-allenatore-2293791",
+      "estratto": "Si chiude un capitolo importante nella storia recente della nazionale argentina.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T22:56:41+00:00"
+    },
+    {
+      "id": "cf1a143f34",
+      "titolo": "La grande serata di Andy sarebbe dovuta essere molto più semplice, ma questo non conterà quando rifletterà sulla storia scritta ad Hampden",
+      "url": "https://www.dailymail.com/sport/football/article-16291515/Andys-big-night-straightforward-wont-matter-reflects-history-Hampden.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Se le prime 101 presenze di Andy Robertson con la Scozia gli hanno insegnato qualcosa, è che non siamo mai stati una nazione capace di semplificarsi la vita. È nel nostro DNA.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T22:24:44+00:00"
+    },
+    {
+      "id": "51133e1885",
+      "titolo": "Il portiere coinvolto nello scontro fatale con il calciatore spagnolo Jesus de Miguel riceve una squalifica di 12 PARTITE - e potrebbe non tornare mai più a giocare a calcio",
+      "url": "https://www.dailymail.com/sport/football/article-16291441/jesus-miguel-death-goalkeeper.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il portiere coinvolto nell'incidente costato la vita al calciatore spagnolo Jesus de Miguel è stato punito con una squalifica di 12 giornate - ma potrebbe non tornare più in campo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T22:18:38+00:00"
+    },
+    {
+      "id": "850830cb83",
+      "titolo": "Dentro il Boreham Wood, l'unica squadra imbattuta nei primi sette livelli del calcio inglese: il tecnico LUKE GARRARD spiega come la delusione nei playoff e un proprietario \"geniale\" stiano alimentando la corsa alla promozione della sua squadra spavalda",
+      "url": "https://www.dailymail.com/sport/football/article-16280691/Boreham-Wood-Luke-Garrard-national-league-promotion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Tra i 252 club dei primi sette livelli del calcio inglese, l'ultimo a essere imbattuto si trova a Meadow Park, a pochi metri dagli studios dove furono girate le avventure di Indiana Jones.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T22:17:23+00:00"
+    },
+    {
+      "id": "4a70037951",
+      "titolo": "SCOZIA 2 MACEDACIA DEL NORD 1: John McGinn fa una doppietta ed evita una brutta figura alla traballante Scozia di Pocognoli nella grande serata del capitano Robertson",
+      "url": "https://www.dailymail.com/sport/football/article-16291417/SCOTLAND-NORTH-MACEDONIA-John-McGinn-double-Pocognolis-shaky-Scots-skipper-andy-Robertson-hampden.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nella notte in cui la nazione si è voltata indietro a celebrare il passato, il presente e il futuro della Scozia sono apparsi decisamente incerti.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T22:11:58+00:00"
+    },
+    {
+      "id": "f6267c8815",
+      "titolo": "Il nuovo piano d'attacco dell'Inghilterra: Thomas Tuchel ha cambiato stile dai Mondiali, ma la laboriosa vittoria sulla Croazia ha mostrato problemi di crescita - la Spagna la metterà a dura prova, scrive JACK GAUGHAN",
+      "url": "https://www.dailymail.com/sport/football/article-16289515/England-Croatia-Nations-League-Tuchel-tactics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JACK GAUGHAN: Il mese scorso Harry Kane e Thomas hanno avuto conversazioni franche sulle conseguenze dei Mondiali. L'allenatore rispetta e apprezza l'opinione del suo capitano su queste cose.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T21:17:06+00:00"
+    },
+    {
+      "id": "b209034ccc",
+      "titolo": "L'Egitto esonera il proprio commissario tecnico per 'impatto negativo sull'immagine della squadra' dopo essere svenuto mentre scoppiava una rissa tra le sue DUE mogli a suon di pugni e strattoni di capelli in un bar",
+      "url": "https://www.dailymail.com/sport/football/article-16290573/Egypt-sack-manager-negative-image-fainted-fight-TWO-wives-punches-hair-pulling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "El-Gharbawy e Mustafa sono state riprese in un video mentre discutevano con Hassan in mezzo per cercare di placare la tensione, ma le due sono arrivate alle mani, volando pugni e tirando i capelli mentre le urla riempivano l'aria.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T18:48:43+00:00"
+    },
+    {
+      "id": "76f006fd0c",
+      "titolo": "Un dirigente Juve celebrato da Forbes, la lista parla chiaro: ecco di chi si tratta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152569091/un_dirigente_juve_celebrato_da_forbes_la_lista_parla_chiaro_ecco_di_chi_si_tratta/",
+      "estratto": "La Vecchia Signora vince anche fuori dal terreno di gioco: \"Sanno tasformare le idee in risultati, rafforzano il valore del brand\"",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T18:11:39+00:00"
+    },
+    {
+      "id": "67d6c1398f",
+      "titolo": "L'ex stella dell'Inghilterra Dele Alli vicina a una maxi entrata da 8,3 milioni di sterline dopo la vendita della sua azienda di diritti d'immagine",
+      "url": "https://www.dailymail.com/sport/football/article-16290001/Former-England-star-Dele-Alli-line-huge-8-3m-payday-selling-image-rights-company.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'ex stella del Tottenham Dele Alli si avvia verso una maxi entrata di 7,6 milioni di sterline mentre pianifica di chiudere la sua società di diritti d'immagine, la Dele Alli Promotions.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T18:07:58+00:00"
+    },
+    {
+      "id": "f221f6e14a",
+      "titolo": "Boston è stata una bella storia d'amore estiva, ma fermiamoci qui. Parlare di riportare lì la Tartan Army ogni due anni è semplicemente imbarazzante",
+      "url": "https://www.dailymail.com/sport/football/article-16290701/Boston-Scotland-Tartan-Army-reunion-cringeworthy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Boston è stata la più bella delle brevi storie d'amore estive. Un momento indimenticabile nel tempo. Ma lasciamo le cose come stanno, no?",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T18:03:29+00:00"
     },
     {
       "id": "164a199888",
@@ -21,15 +120,6 @@
       "pubblicato": "2026-11-13T17:46:54+00:00"
     },
     {
-      "id": "b30695c6a5",
-      "titolo": "Bellich: \"Ho voluto restare alla Juve Stabia. Società? Con Guerri tutto sistemato\"",
-      "url": "https://www.tuttomercatoweb.com/serie-b/bellich-ho-voluto-restare-juve-stabia-societa-guerri-sistemato-2293706",
-      "estratto": "Intervenuto ai microfoni di Radio Sportiva il difensore della Juve Stabia Marco Bellich ha parlato anche dei problemi societari vissuti a cavallo delle due stagioni spiegando però che ora tutto è passato: “I primi problemi sono emersi in primavera, a",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T17:34:03+00:00"
-    },
-    {
       "id": "1e8c1511d0",
       "titolo": "Ex rivali dell'Old Firm rivelano come i club camminassero sul filo del rasoio tra rivalità e rispetto... e si fermassero persino a prendere un tè di consolazione nei momenti difficili!",
       "url": "https://www.dailymail.com/sport/football/article-16290231/Former-Old-Firm-rivals-reveal-clubs-walked-fine-line-rivalry-respect-stopped-tea-sympathy-times-trouble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -37,15 +127,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-13T17:29:43+00:00"
-    },
-    {
-      "id": "0b230a4411",
-      "titolo": "Lens, per la panchina spunta Walid Regragui: l’ex CT del Marocco alternativa a Sage",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/lens-panchina-spunta-walid-regragui-l-ex-ct-marocco-alternativa-sage-2293695",
-      "estratto": "Il Lens si muove per trovare il successore di Yannick Cahuzac, esonerato dopo appena nove partite alla guida della squadra.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T17:26:05+00:00"
     },
     {
       "id": "21b01fc1dd",
@@ -57,15 +138,6 @@
       "pubblicato": "2026-11-13T17:06:46+00:00"
     },
     {
-      "id": "f221f6e14a",
-      "titolo": "Boston è stata una bella storia d'amore estiva, ma fermiamoci qui. Parlare di riportare lì la Tartan Army ogni due anni è semplicemente imbarazzante",
-      "url": "https://www.dailymail.com/sport/football/article-16290701/Boston-Scotland-Tartan-Army-reunion-cringeworthy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Boston è stata la più bella delle brevi storie d'amore estive. Un momento indimenticabile nel tempo. Ma lasciamo le cose come stanno, no?",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T16:36:47+00:00"
-    },
-    {
       "id": "56edd642b1",
       "titolo": "I 10 migliori: Classifica dei migliori calciatori del mondo... di nuovo!",
       "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
@@ -75,15 +147,6 @@
       "pubblicato": "2026-11-13T16:22:58+00:00"
     },
     {
-      "id": "67d6c1398f",
-      "titolo": "L'ex stella dell'Inghilterra Dele Alli vicina a una maxi entrata da 8,3 milioni di sterline dopo la vendita della sua azienda di diritti d'immagine",
-      "url": "https://www.dailymail.com/sport/football/article-16290001/Former-England-star-Dele-Alli-line-huge-8-3m-payday-selling-image-rights-company.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'ex stella del Tottenham Dele Alli si avvia verso una maxi entrata di 7,6 milioni di sterline mentre pianifica di chiudere la sua società di diritti d'immagine, la Dele Alli Promotions.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T15:30:04+00:00"
-    },
-    {
       "id": "9dec9a70f7",
       "titolo": "Buone notizie per la Roma: Gasperini ritrova Dybala, Svilar e Mancini",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/13-152563860/buone_notizie_per_la_roma_gasperini_ritrova_dybala_svilar_e_mancini/",
@@ -91,15 +154,6 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "pubblicato": "2026-11-13T13:41:53+00:00"
-    },
-    {
-      "id": "f6267c8815",
-      "titolo": "Il nuovo piano d'attacco dell'Inghilterra: Thomas Tuchel ha cambiato stile dai Mondiali, ma la laboriosa vittoria sulla Croazia ha mostrato problemi di crescita - la Spagna la metterà a dura prova, scrive JACK GAUGHAN",
-      "url": "https://www.dailymail.com/sport/football/article-16289515/England-Croatia-Nations-League-Tuchel-tactics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN: Il mese scorso Harry Kane e Thomas hanno avuto conversazioni franche sulle conseguenze dei Mondiali. L'allenatore rispetta e apprezza l'opinione del suo capitano su queste cose.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T12:01:47+00:00"
     },
     {
       "id": "1dff9c6241",
@@ -174,33 +228,6 @@
       "pubblicato": "2026-11-13T07:54:38+00:00"
     },
     {
-      "id": "dd1b9a024a",
-      "titolo": "La Champions è in bilico, la Juve blocca i rinnovi e prende tempo. L’eccezione è Kalulu",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/13-152558654/la_champions_in_bilico_la_juve_blocca_i_rinnovi_e_prende_tempo_leccezione_kalulu/",
-      "estratto": "Linea attendista della società fino a marzo, ma il francese vede l’adeguamento del contratto: i dettagli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T07:20:24+00:00"
-    },
-    {
-      "id": "78c251d509",
-      "titolo": "Il mercato della Roma e l’intreccio con Nyon: la strategia dei Friedkin sul fair play Uefa paga",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/13-152556112/il_mercato_della_roma_e_lintreccio_con_nyon_la_strategia_dei_friedkin_sul_fair_play_uefa_paga/",
-      "estratto": "La società deve restare sostenibile anche se il periodo di osservazione è concluso. I costi tagliati avranno un peso",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T07:12:13+00:00"
-    },
-    {
-      "id": "79ca90fc8f",
-      "titolo": "La Roma lavora su Koné: tre infortuni in un anno, come Gasperini lo sta trasformando",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/13-152556111/la_roma_lavora_su_kon_tre_infortuni_in_un_anno_come_gasperini_lo_sta_trasformando/",
-      "estratto": "Il francese sta svolgendo a Trigoria un programma personalizzato tra parte atletica e tattica. Il tecnico lo vuole più offensivo e più leader",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T07:03:42+00:00"
-    },
-    {
       "id": "1aa9899891",
       "titolo": "Varela, il calciomercato Juve si infiamma: duello col Napoli di Manna. E l'agente è lo stesso di...",
       "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/13-152553407/varela_il_calciomercato_juve_si_infiamma_duello_col_napoli_di_manna_e_l_agente_lo_stesso_di_/",
@@ -208,15 +235,6 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "pubblicato": "2026-11-13T06:59:00+00:00"
-    },
-    {
-      "id": "850830cb83",
-      "titolo": "Dentro il Boreham Wood, l'unica squadra imbattuta nei primi sette livelli del calcio inglese: il tecnico LUKE GARRARD spiega come la delusione nei playoff e un proprietario \"geniale\" stiano alimentando la corsa alla promozione della sua squadra spavalda",
-      "url": "https://www.dailymail.com/sport/football/article-16280691/Boreham-Wood-Luke-Garrard-national-league-promotion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Tra i 252 club dei primi sette livelli del calcio inglese, l'ultimo a essere imbattuto si trova a Meadow Park, a pochi metri dagli studios dove furono girate le avventure di Indiana Jones.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T02:00:53+00:00"
     },
     {
       "id": "a9c4853e9f",
@@ -379,24 +397,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-11T00:04:09+00:00"
-    },
-    {
-      "id": "273dbef0f6",
-      "titolo": "Ho lavorato per 20 anni per cercare di giocare un Mondiale... Non avrei mai permesso a un intervento al cuore di intralciare il mio sogno, dice McTominay",
-      "url": "https://www.dailymail.com/sport/football/article-16282275/Ive-worked-20-years-try-play-World-Cup-never-going-let-heart-procedure-way-dream-says-McTominay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Mentre giaceva su un letto d'ospedale a Boston, Scott McTominay avrebbe facilmente potuto avere la sensazione che il suo sogno gli stesse venendo strappato via.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T22:37:15+00:00"
-    },
-    {
-      "id": "ed0e6250a6",
-      "titolo": "Pocognoli convinto che Gannon-Doak sia pronto per il salto di qualità dopo le sue impressionanti prestazioni con il Bournemouth",
-      "url": "https://www.dailymail.com/sport/football/article-16282319/Pocognoli-convinced-Gannon-Doak-ready-step-impressive-form-Bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il c.t. della Scozia Sebastien Pocognoli è fiducioso che Ben Gannon-Doak sia pronto a raggiungere nuovi traguardi con la nazionale dopo un buon momento di forma a livello di club.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T22:35:33+00:00"
     }
   ]
 }
