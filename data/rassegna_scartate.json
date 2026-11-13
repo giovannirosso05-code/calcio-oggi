@@ -1,7 +1,106 @@
 {
-  "aggiornato": "2026-11-13T02:47:39.263538+00:00",
-  "totale": 30,
+  "aggiornato": "2026-11-13T10:33:38.598154+00:00",
+  "totale": 39,
   "articoli": [
+    {
+      "id": "24f02d40ea",
+      "titolo": "La straordinaria conferenza stampa di 68 minuti di Pat Cummins ha mirato con lucidità e durezza all'integrità di Usman Khawaja: l'Australia vive una guerra civile senza una chiara risoluzione, scrive LAWRENCE BOOTH",
+      "url": "https://www.dailymail.com/sport/football/article-16289531/Pat-Cummins-remarkable-68-minute-press-conference-took-clear-eyed-devastating-aim-Usman-Khawajas-integrity-Australia-civil-war-no-obvious-resolution-writes-LAWRENCE-BOOTH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "LAWRENCE BOOTH A PERTH: Secondo i vertici, tra chi era a conoscenza del piano non c'erano i giocatori, non è successo nulla di irregolare a Port Elizabeth e non c'è stata alcuna riunione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T10:21:30+00:00"
+    },
+    {
+      "id": "dd32721b36",
+      "titolo": "La breve era di Pierre Sage al Crystal Palace non ha mai avuto alcuna possibilità di riuscire",
+      "url": "https://www.espn.com/soccer/story/_/id/50436075/pierre-sage-crystal-palace-premier-league-sacking",
+      "estratto": "Pierre Sage ha perso il lavoro dopo appena cinque mesi al Crystal Palace. Cosa è andato storto per il tecnico francese e il club di Premier League ha ostacolato ogni possibilità di successo?",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T09:47:31+00:00"
+    },
+    {
+      "id": "1b718157eb",
+      "titolo": "Il grande acquisto che l'Inter non ha ancora visto: Stones torna, Chivu aspetta la svolta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/13-152560504/il_grande_acquisto_che_l_inter_non_ha_ancora_visto_stones_torna_chivu_aspetta_la_svolta/",
+      "estratto": "Solo una gara da titolare e 144 minuti in campo. Intanto, in attesa di Lautaro e Thuram, è tornato in gruppo Luis Henrique",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T09:24:56+00:00"
+    },
+    {
+      "id": "c056e7de5a",
+      "titolo": "Juve, il lato oscuro di bomber Bremer: quanto pesano i gol fatti e quelli fatti prendere",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152560182/juve_il_lato_oscuro_di_bomber_bremer_quanto_pesano_i_gol_fatti_e_quelli_fatti_prendere/",
+      "estratto": "Il brasiliano spicca in Europa per reti segnate, ma le sue amnesie difensive costano care ai bianconeri",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T08:55:51+00:00"
+    },
+    {
+      "id": "dfdea8988d",
+      "titolo": "Il padre di Alexis Mac Allister: ancora nessun colloquio per il rinnovo del contratto con il Liverpool",
+      "url": "https://www.espn.com/soccer/story/_/id/50460760/alexis-mac-allister-liverpool-contract-renewal-talks",
+      "estratto": "Il padre di Alexis Mac Allister ha dichiarato che non ci sono stati contatti tra suo figlio e il Liverpool, ma ha anche lasciato intendere che potrebbe esserci una svolta prima della fine dell'anno.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T08:12:00+00:00"
+    },
+    {
+      "id": "f108781ec0",
+      "titolo": "“Tocca una palla e fa gol, è l’ideale per la Juve! Chi può essere il nuovo Yildiz”",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152559525/tocca_una_palla_e_fa_gol_lideale_per_la_juve_chi_pu_essere_il_nuovo_yildiz/",
+      "estratto": "L’ex Giaccherini sui movimenti di mercato della squadra bianconera: “Senza Locatelli non basta Douglas. Conceicao mi piace tanto, però a fine anno porta poche reti e assist”",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T07:59:53+00:00"
+    },
+    {
+      "id": "eecaec1d1c",
+      "titolo": "La metamorfosi di Kolo Muani: Spalletti studia Marcus Thuram e ribalta le gerarchie Juve",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152559240/la_metamorfosi_di_kolo_muani_spalletti_studia_marcus_thuram_e_ribalta_le_gerarchie_juve/",
+      "estratto": "Il francese nelle ultime prove si è mosso come il bomber dell’Inter ed è tornato subito pericoloso",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T07:54:38+00:00"
+    },
+    {
+      "id": "dd1b9a024a",
+      "titolo": "La Champions è in bilico, la Juve blocca i rinnovi e prende tempo. L’eccezione è Kalulu",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/13-152558654/la_champions_in_bilico_la_juve_blocca_i_rinnovi_e_prende_tempo_leccezione_kalulu/",
+      "estratto": "Linea attendista della società fino a marzo, ma il francese vede l’adeguamento del contratto: i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T07:20:24+00:00"
+    },
+    {
+      "id": "78c251d509",
+      "titolo": "Il mercato della Roma e l’intreccio con Nyon: la strategia dei Friedkin sul fair play Uefa paga",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/13-152556112/il_mercato_della_roma_e_lintreccio_con_nyon_la_strategia_dei_friedkin_sul_fair_play_uefa_paga/",
+      "estratto": "La società deve restare sostenibile anche se il periodo di osservazione è concluso. I costi tagliati avranno un peso",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T07:12:13+00:00"
+    },
+    {
+      "id": "79ca90fc8f",
+      "titolo": "La Roma lavora su Koné: tre infortuni in un anno, come Gasperini lo sta trasformando",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/13-152556111/la_roma_lavora_su_kon_tre_infortuni_in_un_anno_come_gasperini_lo_sta_trasformando/",
+      "estratto": "Il francese sta svolgendo a Trigoria un programma personalizzato tra parte atletica e tattica. Il tecnico lo vuole più offensivo e più leader",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T07:03:42+00:00"
+    },
+    {
+      "id": "1aa9899891",
+      "titolo": "Varela, il calciomercato Juve si infiamma: duello col Napoli di Manna. E l'agente è lo stesso di...",
+      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/13-152553407/varela_il_calciomercato_juve_si_infiamma_duello_col_napoli_di_manna_e_l_agente_lo_stesso_di_/",
+      "estratto": "Il portoghese scatena l'asta, ma per l'estate. I nomi di gennaio e il desiderio di Carnevali",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-13T06:59:00+00:00"
+    },
     {
       "id": "850830cb83",
       "titolo": "Dentro il Boreham Wood, l'unica squadra imbattuta nei primi sette livelli del calcio inglese: il tecnico LUKE GARRARD spiega come la delusione nei playoff e un proprietario \"geniale\" stiano alimentando la corsa alla promozione della sua squadra spavalda",
@@ -21,15 +120,6 @@
       "pubblicato": "2026-11-13T00:00:29+00:00"
     },
     {
-      "id": "16e0b3d31a",
-      "titolo": "La serata di Nations League: Spagna e Inghilterra alla Final 8, Montenegro promosso",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serata-nations-league-spagna-inghilterra-final-8-montenegro-promosso-2293498",
-      "estratto": "La quinta giornata della fase a gironi di Nations League regala risultati importanti e i primi verdetti definitivi.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-12T23:56:10+00:00"
-    },
-    {
       "id": "1e31cdec83",
       "titolo": "Quando ho superato Jim Leighton, è allora che ho iniziato a stuzzicare Kenny sul battere il suo record di presenze... ANDY ROBERTSON sull'aggancio a Dalglish",
       "url": "https://www.dailymail.com/sport/football/article-16288337/When-overtook-Jim-Leighton-started-wind-Kenny-beating-cap-tally-ANDY-ROBERTSON-going-level-Dalglish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -37,15 +127,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-12T23:04:04+00:00"
-    },
-    {
-      "id": "20ed4b89f1",
-      "titolo": "13 novembre 2017, l'Italia è fuori dal Mondiale di Russia 2018. Non sarà l'ultimo",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/13-novembre-2017-italia-mondiale-russia-2018-2292943",
-      "estratto": "Il 13 novembre del 2017, a San Siro, l'Italia affronta la Svezia per il ritorno dei playoff delle qualificazioni Mondiali di Russia 2018.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-12T23:00:12+00:00"
     },
     {
       "id": "6cfc94820d",
@@ -66,6 +147,15 @@
       "pubblicato": "2026-11-12T22:13:33+00:00"
     },
     {
+      "id": "f5943b1975",
+      "titolo": "\"Lo convinci, è devastante e ti fa fare il salto di qualità\": Ravanelli, il nome per l'attacco Juve",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/12-152546967/lo_convinci_devastante_e_ti_fa_fare_il_salto_di_qualit_ravanelli_il_nome_per_l_attacco_juve/",
+      "estratto": "Su Tuttosport Youtube Penna Bianca scatenato: \"Parlavo con Vierchowod sui gol presi a Firenze: vi spiego cosa succede. Kolo esempio per tutti\"",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-12T19:28:32+00:00"
+    },
+    {
       "id": "84a8fed668",
       "titolo": "La EFL chiede ai club di fermare il \"trash-talking\" mirato sui social media tra i timori per danni reputazionali sulla scia della vicenda dello \"Spygate\"",
       "url": "https://www.dailymail.com/sport/football/article-16287159/EFL-asks-clubs-stop-targeted-banter-social-media-amid-fears-reputational-damage-wake-Spygate-fallout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -84,13 +174,22 @@
       "pubblicato": "2026-11-12T12:52:44+00:00"
     },
     {
-      "id": "a38995b4f5",
-      "titolo": "La Uefa punisce la Roma e i tifosi dopo i disordini di Manchester: cosa cambia per la vendita dei biglietti europei",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/12-152537891/la_uefa_punisce_la_roma_e_i_tifosi_dopo_i_disordini_di_manchester_cosa_cambia_per_la_vendita_dei_biglietti_europei/",
-      "estratto": "Doppia sanzione per i giallorossi: 20mila euro di multa e riduzione del 50% dei biglietti per una trasferta entro due anni",
-      "fonte": "Corriere dello Sport",
+      "id": "355ab07484",
+      "titolo": "Ekhator, sponsor Baldini: “È un attaccante fortissimo e la Juve se ne accorgerà”",
+      "url": "https://www.tuttosport.com/news/calcio/italia/under-21/2026/11/12-152541032/ekhator_sponsor_baldini_un_attaccante_fortissimo_e_la_juve_se_ne_accorger/",
+      "estratto": "Il ct dell'Under 21 si prepara al test contro la Francia e si coccola il talento bianconero: ecco cosa ha detto",
+      "fonte": "Tuttosport",
       "serie": "Estero",
-      "pubblicato": "2026-11-12T10:55:56+00:00"
+      "pubblicato": "2026-11-12T12:32:44+00:00"
+    },
+    {
+      "id": "9d121a3fb7",
+      "titolo": "\"Juve, ma quale fallimento! Mi fa male...\": Henry tra retroscena e lode, \"Non avevo la sua capacità\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/12-152539618/juve_ma_quale_fallimento_mi_fa_male_henry_tra_retroscena_e_lode_non_avevo_la_sua_capacit/",
+      "estratto": "Il francese, intervistato in un podcast, ha ripercorso diverse tappe della sua carriera tra cui il periodo in bianconero: \"Cosa volevi che facessi?\"",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-12T12:21:00+00:00"
     },
     {
       "id": "2e2fff997a",
@@ -253,24 +352,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-10T11:25:24+00:00"
-    },
-    {
-      "id": "3b62bdea00",
-      "titolo": "I fenomeni del gol Lassine Sinayoko e Yassir Zabiri sono davvero forti come sembrano?",
-      "url": "https://www.espn.com/espn/story/_/id/50440279/lassine-sinayoko-yassir-zabiri-good-seem",
-      "estratto": "Il maliano Lassine Sinayoko guida la Ligue 1 con nove gol in 10 presenze, mentre il marocchino Yassir Zabiri ne ha totalizzati nove in 12 apparizioni in Liga, dietro solo a Raphinha, Kylian Mbappe e Lamine Yamal.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T07:38:57+00:00"
-    },
-    {
-      "id": "e12de4870b",
-      "titolo": "Tom Brady LASCIA il Birmingham City a soli tre anni dall'investimento nel club, con i Blues in vetta alla Championship",
-      "url": "https://www.dailymail.com/sport/football/article-16279525/Tom-Brady-QUITS-Birmingham-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Tom Brady ha clamorosamente lasciato il Birmingham City a soli tre anni dal suo ingresso nel club di Championship.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-10T02:57:05+00:00"
     }
   ]
 }
