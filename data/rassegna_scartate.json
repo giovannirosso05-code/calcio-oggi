@@ -1,7 +1,43 @@
 {
-  "aggiornato": "2026-11-14T03:34:41.963645+00:00",
-  "totale": 44,
+  "aggiornato": "2026-11-14T10:58:35.903083+00:00",
+  "totale": 46,
   "articoli": [
+    {
+      "id": "068c4b5c12",
+      "titolo": "Juventus, Conceicao allontana le voci di mercato. E Spalletti lo riabbraccia in campo",
+      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-conceicao-allontana-voci-mercato-spalletti-riabbraccia-campo-2293857",
+      "estratto": "In casa Juventus Francisco Conceicao è prossimo al rientro in campo dopo aver saltato quattro partite ufficiali a causa di un infortunio alla spalla sinistra rimediato nel mese di ottobre, durante la sfida di campionato giocata contro la Lazio.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T10:56:00+00:00"
+    },
+    {
+      "id": "c14534d99d",
+      "titolo": "Inter, Luis Henrique può partire a gennaio: la cessione vale 20-25 milioni",
+      "url": "https://www.tuttomercatoweb.com/serie-a/inter-luis-henrique-partire-gennaio-cessione-20-25-2293854",
+      "estratto": "Luis Henrique è tornato ad allenarsi in gruppo e sarà a disposizione di Cristian Chivu per la trasferta contro l'Atalanta.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T10:53:01+00:00"
+    },
+    {
+      "id": "35caa2949f",
+      "titolo": "Zhegrova, eterna attesa Juve: perché i suoi lampi di talento non convincono Spalletti. E a gennaio...",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/14-152579789/zhegrova_eterna_attesa_juve_perch_i_suoi_lampi_di_talento_non_convincono_spalletti_e_a_gennaio_/",
+      "estratto": "Le partite con il suo Kosovo possono permettergli di tenere il ritmo partita, ma in bianconero continua a non decollare: la situazione",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T10:36:21+00:00"
+    },
+    {
+      "id": "93f0f3a937",
+      "titolo": "Inter, il futuro di Calhanoglu in bilico: tre big e l'Arabia Saudita osservano",
+      "url": "https://www.tuttomercatoweb.com/serie-a/inter-rinnovo-calhanoglu-bilico-juve-osserva-prepara-possibile-colpo-zero-2293847",
+      "estratto": "Il futuro di Hakan Calhanoglu resta tutto da definire.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T10:25:01+00:00"
+    },
     {
       "id": "a1d28fc690",
       "titolo": "Dentro la rivoluzione cristiana del calcio: le stelle della Premier League che affermano che Dio le ha salvate dai momenti più bui, impedendo loro di tuffarsi per guadagnare rigori, e il motivo per cui alcuni affrontano ancora derisioni e insulti per la loro fede",
@@ -9,7 +45,70 @@
       "estratto": "Per mesi, Daily Mail Sport ha parlato con giocatori cristiani, cappellani e accademici. Abbiamo scoperto che alcuni calciatori vengono ancora presi in giro negli spogliatoi per le loro convinzioni.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-14T01:04:36+00:00"
+      "pubblicato": "2026-11-14T10:14:42+00:00"
+    },
+    {
+      "id": "80ddee1d4b",
+      "titolo": "Gioisce Sarr col Senegal, per Celik tempi durissimi: ora tocca a McKennie e Alajbegovic",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/14-152580261/gioisce_sarr_col_senegal_per_celik_tempi_durissimi_ora_tocca_a_mckennie_e_alajbegovic/",
+      "estratto": "Due spezzoni per il centrocampista e per il terzino con la Turchia: fisicamente stanno bene",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T10:03:29+00:00"
+    },
+    {
+      "id": "84ff23552b",
+      "titolo": "Bellinazzo: \"Juve, rosso importante ma a gennaio spenderà. Fiorentina non sostenibile\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bellinazzo-juve-rosso-preoccupante-gennaio-interverra-fiorentina-sostenibile-2293775",
+      "estratto": "I conti del calcio sotto la lente d’ingrandimento.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T10:00:01+00:00"
+    },
+    {
+      "id": "be1c78c83a",
+      "titolo": "Svelata la squadra della stagione della Premier League finora: presenti Erling Haaland, TRE giocatori del Chelsea e una sorpresa dal Sunderland",
+      "url": "https://www.dailymail.com/sport/football/article-16277835/Named-Premier-League-team-season-far-Brightons-star-man-THREE-Chelsea-players-surprise-addition-Sunderland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La temuta sosta per le nazionali è tornata, fortunatamente questa volta solo per due settimane, ma ciononostante le prossime due settimane saranno difficili da affrontare per i tifosi della Premier League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T09:56:28+00:00"
+    },
+    {
+      "id": "60bddc6d3f",
+      "titolo": "L'ex arbitro Chiesa su Fiorentina-Juve: \"Non è che Bremer temesse il fallo su De Gea?\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/arbitro-chiesa-fiorentina-juve-non-bremer-temesse-fallo-de-gea-2293842",
+      "estratto": "L'ex arbitro Massimo Chiesa nel corso dell'intervista rilasciata a TuttoMercatoWeb.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T09:50:00+00:00"
+    },
+    {
+      "id": "a44c6f8b72",
+      "titolo": "Calciomercato Juve, i possibili colpi a zero: chi scalda gennaio e i pupilli di Spalletti",
+      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/14-152577086/calciomercato_juve_i_possibili_colpi_a_zero_chi_scalda_gennaio_e_i_pupilli_di_spalletti/",
+      "estratto": "I bianconeri pronti a fiondarsi su diversi profili, a partire dalla priorità sulla fascia sinistra fino al tema attaccante: tutti i nomi sul piatto",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T08:06:00+00:00"
+    },
+    {
+      "id": "5ff2842866",
+      "titolo": "La Juve prende troppi gol: come Spalletti sta lavorando durante la sosta",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/14-152579228/la_juve_prende_troppi_gol_come_spalletti_sta_lavorando_durante_la_sosta/",
+      "estratto": "Un tempo era un marchio di fabbrica bianconero, mentre ora sono già 12,in appena 11 gare, le reti subite. Il punto di ripartenza sarà come sempre Bremer",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T07:26:34+00:00"
+    },
+    {
+      "id": "9d9a7188b5",
+      "titolo": "Juve, a gennaio mercato pesante: si valuta Sorloth e non solo. Tutte le richieste di Spalletti",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/juventus/2026/11/14-152579132/juve_a_gennaio_mercato_pesante_si_valuta_sorloth_e_non_solo_tutte_le_richieste_di_spalletti/",
+      "estratto": "Carnevali è chiamato a risolvere i problemi attaccante e centrocampista. Il tecnico chiede una squadra pronta",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T07:16:44+00:00"
     },
     {
       "id": "a6140faa2e",
@@ -28,15 +127,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-13T23:58:35+00:00"
-    },
-    {
-      "id": "906f7ad6ec",
-      "titolo": "Grealish chiede scusa ai tifosi dell'Everton: \"Non vedo l'ora di tornare ad aiutarvi\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/grealish-chiede-scusa-tifosi-everton-non-vedo-tornare-aiutarvi-2293789",
-      "estratto": "Jack Grealish è tornato a parlare dopo le ultime settimane difficili vissute all'Everton.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T23:26:31+00:00"
     },
     {
       "id": "cf1a143f34",
@@ -156,24 +246,6 @@
       "pubblicato": "2026-11-13T16:22:58+00:00"
     },
     {
-      "id": "9dec9a70f7",
-      "titolo": "Buone notizie per la Roma: Gasperini ritrova Dybala, Svilar e Mancini",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/13-152563860/buone_notizie_per_la_roma_gasperini_ritrova_dybala_svilar_e_mancini/",
-      "estratto": "Tutti e tre sono tornati a lavorare in parte con i compagni. Differenziato per Gollini, martedì pomeriggio la ripresa",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T13:41:53+00:00"
-    },
-    {
-      "id": "1dff9c6241",
-      "titolo": "Lautaro, messaggio all'Inter: \"Sto recuperando, spero di tornare presto\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/13-152562674/lautaro_messaggio_all_inter_sto_recuperando_spero_di_tornare_presto/",
-      "estratto": "Il capitano nerazzurro era presente a San Siro per assistere la sfida tra Italia e Francia: ecco cosa ha detto",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T11:41:53+00:00"
-    },
-    {
       "id": "24f02d40ea",
       "titolo": "La straordinaria conferenza stampa di 68 minuti di Pat Cummins ha mirato con lucidità e durezza all'integrità di Usman Khawaja: l'Australia vive una guerra civile senza una chiara risoluzione, scrive LAWRENCE BOOTH",
       "url": "https://www.dailymail.com/sport/football/article-16289531/Pat-Cummins-remarkable-68-minute-press-conference-took-clear-eyed-devastating-aim-Usman-Khawajas-integrity-Australia-civil-war-no-obvious-resolution-writes-LAWRENCE-BOOTH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -192,24 +264,6 @@
       "pubblicato": "2026-11-13T09:47:31+00:00"
     },
     {
-      "id": "1b718157eb",
-      "titolo": "Il grande acquisto che l'Inter non ha ancora visto: Stones torna, Chivu aspetta la svolta",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/13-152560504/il_grande_acquisto_che_l_inter_non_ha_ancora_visto_stones_torna_chivu_aspetta_la_svolta/",
-      "estratto": "Solo una gara da titolare e 144 minuti in campo. Intanto, in attesa di Lautaro e Thuram, è tornato in gruppo Luis Henrique",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T09:24:56+00:00"
-    },
-    {
-      "id": "c056e7de5a",
-      "titolo": "Juve, il lato oscuro di bomber Bremer: quanto pesano i gol fatti e quelli fatti prendere",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152560182/juve_il_lato_oscuro_di_bomber_bremer_quanto_pesano_i_gol_fatti_e_quelli_fatti_prendere/",
-      "estratto": "Il brasiliano spicca in Europa per reti segnate, ma le sue amnesie difensive costano care ai bianconeri",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T08:55:51+00:00"
-    },
-    {
       "id": "dfdea8988d",
       "titolo": "Il padre di Alexis Mac Allister: ancora nessun colloquio per il rinnovo del contratto con il Liverpool",
       "url": "https://www.espn.com/soccer/story/_/id/50460760/alexis-mac-allister-liverpool-contract-renewal-talks",
@@ -217,33 +271,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-13T08:12:00+00:00"
-    },
-    {
-      "id": "f108781ec0",
-      "titolo": "“Tocca una palla e fa gol, è l’ideale per la Juve! Chi può essere il nuovo Yildiz”",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152559525/tocca_una_palla_e_fa_gol_lideale_per_la_juve_chi_pu_essere_il_nuovo_yildiz/",
-      "estratto": "L’ex Giaccherini sui movimenti di mercato della squadra bianconera: “Senza Locatelli non basta Douglas. Conceicao mi piace tanto, però a fine anno porta poche reti e assist”",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T07:59:53+00:00"
-    },
-    {
-      "id": "eecaec1d1c",
-      "titolo": "La metamorfosi di Kolo Muani: Spalletti studia Marcus Thuram e ribalta le gerarchie Juve",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152559240/la_metamorfosi_di_kolo_muani_spalletti_studia_marcus_thuram_e_ribalta_le_gerarchie_juve/",
-      "estratto": "Il francese nelle ultime prove si è mosso come il bomber dell’Inter ed è tornato subito pericoloso",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T07:54:38+00:00"
-    },
-    {
-      "id": "1aa9899891",
-      "titolo": "Varela, il calciomercato Juve si infiamma: duello col Napoli di Manna. E l'agente è lo stesso di...",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/13-152553407/varela_il_calciomercato_juve_si_infiamma_duello_col_napoli_di_manna_e_l_agente_lo_stesso_di_/",
-      "estratto": "Il portoghese scatena l'asta, ma per l'estate. I nomi di gennaio e il desiderio di Carnevali",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T06:59:00+00:00"
     },
     {
       "id": "a9c4853e9f",
@@ -388,15 +415,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-11T12:38:06+00:00"
-    },
-    {
-      "id": "d610ec5090",
-      "titolo": "La polizia 'sta spulciando i conti bancari di venditori loschi di Fire Stick per contattare gli spettatori illegali' di partite di Premier League e film",
-      "url": "https://www.dailymail.com/sport/football/article-16281473/Police-trawling-Dodgy-Fire-Stick-sellers-bank-accounts-contact-illegal-viewers-Premier-League-football-films.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Ma Rav Wilding, un ex detective recentemente apparso nella trasmissione Morning Live della BBC, ha lanciato un nuovo avvertimento alle persone che le utilizzano.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-11T08:40:49+00:00"
     }
   ]
 }
