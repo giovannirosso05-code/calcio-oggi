@@ -1,18 +1,7 @@
 {
-  "aggiornato": "2026-11-13T23:32:36.149515+00:00",
-  "totale": 126,
+  "aggiornato": "2026-11-14T03:34:42.025901+00:00",
+  "totale": 131,
   "articoli": [
-    {
-      "id": "b4fc8b6844",
-      "titolo": "La storia del Pochettino allenatore: il modello Bielsa, la finale di Champions e qualche fallimento inatteso",
-      "url": "https://www.tuttomercatoweb.com/serie-a/modello-bielsa-finale-champions-fallimento-storia-pochettino-allenatore-2293615",
-      "estratto": "Mauricio Pochettino è il nuovo allenatore del Manchester United.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 320,
-      "pubblicato": "2026-11-13T22:45:00+00:00"
-    },
     {
       "id": "8bc5ad0896",
       "titolo": "La stella dell'Arsenal Max Dowman batte il record di Jude Bellingham, ma un nome meno noto dovrebbe attirare l'attenzione di Thomas Tuchel in vista di Euro 2028: LE COSE IMPARATE dalla sconfitta dell'Inghilterra Under 21 contro il Portogallo",
@@ -22,7 +11,7 @@
       "serie": "Estero",
       "citazione": false,
       "punteggio": 120,
-      "pubblicato": "2026-11-13T23:01:33+00:00",
+      "pubblicato": "2026-11-13T23:41:40+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -36,6 +25,17 @@
       "punteggio": 120,
       "pubblicato": "2026-11-12T11:50:26+00:00",
       "squadra": "Barcelona"
+    },
+    {
+      "id": "f90f09e986",
+      "titolo": "Igli Tare rompe il silenzio e racconta le sue verità: dall'addio al Milan al colpo Goretzka",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/tare-rompe-silenzio-racconta-verita-addio-milan-colpi-pronti-2026-27-2293790",
+      "estratto": "Igli Tare rompe il silenzio.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-11-13T23:48:57+00:00"
     },
     {
       "id": "c5cecc1fd1",
@@ -127,6 +127,28 @@
       "pubblicato": "2026-11-13T23:00:25+00:00"
     },
     {
+      "id": "384792b2dc",
+      "titolo": "Pochettino torna in Premier League: lacrime per l'addio agli USA ma \"offerta irrinunciabile\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/pochettino-torna-premier-league-lacrime-addio-usa-offerta-irrinunciabile-2293806",
+      "estratto": "Mauricio Pochettino è ufficialmente il nuovo allenatore del Manchester United.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-13T23:45:15+00:00"
+    },
+    {
+      "id": "e18a1b8f23",
+      "titolo": "Ronaldinho sbarca in Italia, lo attende il Ravenna. \"Voglio scrivere una pagina di storia\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/ronaldinho-sbarca-italia-attende-ravenna-voglio-scrivere-pagina-storia-2293783",
+      "estratto": "Ronaldinho è tornato in Italia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-13T23:34:00+00:00"
+    },
+    {
       "id": "b9ea249906",
       "titolo": "Anche Vampeta seguirà Ronaldinho al Ravenna: \"Fenomeno, fuoriclasse, straordinario\"",
       "url": "https://www.tuttomercatoweb.com/serie-a/vampeta-seguira-ronaldinho-ravenna-fenomeno-fuoriclasse-straordinario-2293797",
@@ -147,28 +169,6 @@
       "citazione": true,
       "punteggio": 40,
       "pubblicato": "2026-11-13T23:10:36+00:00"
-    },
-    {
-      "id": "8369c47547",
-      "titolo": "Palermo, Peda: “Concentrati su noi stessi. Non pensiamo agli altri”",
-      "url": "https://www.tuttomercatoweb.com/serie-b/palermo-peda-concentrati-stessi-pensiamo-altri-2293344",
-      "estratto": "Patryk Peda si è ripreso il Palermo nel momento giusto.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-13T22:59:00+00:00"
-    },
-    {
-      "id": "5e252b13d0",
-      "titolo": "Nations League, Scozia sempre più \"italiana\": assist per Adams. Malen 3 volte decisivo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/nations-league-scozia-italiana-assist-adams-malen-3-decisivo-2293805",
-      "estratto": "Tanti giocatori della Serie A impegnati nelle sfide di Nations League disputate in serata.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-13T22:57:14+00:00"
     },
     {
       "id": "484102ef0a",
@@ -451,6 +451,72 @@
       "squadra": "Aston Villa"
     },
     {
+      "id": "5fb457942e",
+      "titolo": "Le partite di oggi: il programma di sabato 14 novembre",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-sabato-14-novembre-2293716",
+      "estratto": "Sabato di appuntamenti internazionali, ma anche di calcio italiano.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-14T03:30:57+00:00"
+    },
+    {
+      "id": "f48a75296b",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 13 novembre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-13-novembre-2293803",
+      "estratto": "ROMA, TUTTI I NOMI NELLA LISTA DEGLI ESTERNI.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-14T00:00:23+00:00"
+    },
+    {
+      "id": "08502a8b1c",
+      "titolo": "Nations League, Olanda da record: 7-0 alla Grecia. Reijnders show, Svizzera promossa",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/nations-league-olanda-record-7-0-grecia-reijnders-show-svizzera-promossa-2293807",
+      "estratto": "Serata ricca di gol e verdetti in Nations League.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-13T23:56:12+00:00"
+    },
+    {
+      "id": "43f39acdf2",
+      "titolo": "Italia, Frattesi ko: lascia il ritiro e salta il Belgio. Intanto l'U21 dà un'altra lezione alla Francia",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/italia-frattesi-ko-lascia-ritiro-salta-belgio-u21-da-altra-lezione-francia-2293788",
+      "estratto": "Brutte notizie per Roberto Mancini all'indomani del successo dell'Italia contro la Francia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-13T23:52:10+00:00"
+    },
+    {
+      "id": "488eacdfcc",
+      "titolo": "Galliani rinuncia al ricorso, su Malagò decide il segretario generale: FIGC, parte la corsa",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/galliani-rinuncia-ricorso-malago-decide-segretario-generale-figc-corsa-2293765",
+      "estratto": "Si chiude senza una decisione sulla sospensiva il primo confronto giudiziario tra Adriano Galliani e Giovanni Malagò in vista delle elezioni per la presidenza della FIGC, fissate al 14 dicembre.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-13T23:42:01+00:00"
+    },
+    {
+      "id": "84f678a933",
+      "titolo": "Lo Spezia passa a Mike Repole: l’imprenditore Usa rileva la maggioranza, serve l’ok FIGC",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/spezia-passa-mike-repole-l-imprenditore-usa-rileva-maggioranza-serve-l-ok-figc-2293785",
+      "estratto": "Lo Spezia cambia proprietà: Mike Repole ha firmato un accordo per acquisire la quota di maggioranza del club, diventandone il nuovo proprietario di controllo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-13T23:38:00+00:00"
+    },
+    {
       "id": "a3335b7f75",
       "titolo": "Corea del Sud, ancora tensioni nello spogliatoio: Son e altri quattro big negano l’addio",
       "url": "https://www.tuttomercatoweb.com/calcio-estero/corea-sud-tensioni-spogliatoio-son-big-negano-l-addio-2293748",
@@ -460,40 +526,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-11-13T23:12:04+00:00"
-    },
-    {
-      "id": "fba71ffc7c",
-      "titolo": "La prima senza Messi. Le formazioni di Argentina-Uruguay: Nico Paz fa le prove da erede",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/messi-formazione-argentina-uruguay-nico-paz-prove-erede-2293799",
-      "estratto": "La Nazionale argentina inaugura una nuova era.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-13T22:47:16+00:00",
-      "squadra": "Argentina"
-    },
-    {
-      "id": "b70c9bec5c",
-      "titolo": "Reijnders nella storia dell'Olanda: 3 gol in 45', l'ultimo a riuscirci fu un certo van Basten",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/reijnders-storia-olanda-3-gol-45-riuscirci-van-basten-2293798",
-      "estratto": "Serata da ricordare per Tijjani Reijnders.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-13T22:44:01+00:00"
-    },
-    {
-      "id": "f0fa8d7091",
-      "titolo": "Francia, arrivano anche buone notizie per Zidane: Mbappé torna ad allenarsi in gruppo",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/francia-arrivano-buone-notizie-zidane-mbappe-torna-allenarsi-2293776",
-      "estratto": "Arrivano segnali incoraggianti per la Francia in vista della sfida di domenica contro la Turchia in Nations League.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-13T22:42:37+00:00"
     },
     {
       "id": "134e99a670",
@@ -985,6 +1017,30 @@
       "squadra": "Man Utd"
     },
     {
+      "id": "9ba288dbf5",
+      "titolo": "Riath Al-Samarrai: Mi risulta che il controllo sul calciomercato sia stato decisivo per l'approdo di Mauricio Pochettino al Manchester United. Sembra che finalmente abbiano un allenatore abbastanza fermo da chiedere conto a Sir Jim Ratcliffe e Jason Wilcox",
+      "url": "https://www.dailymail.com/sport/football/article-16290879/mauricio-pochettino-manchester-united-transfers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Lo United aveva bisogno di un profilo forte per sostituire Carrick e ne ha trovato uno. La preferenza di Wilcox era Eddie Howe, tutt'altro che remissivo, ma non è Pochettino. E Pochettino certamente non è Carrick.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1200,
+      "pubblicato": "2026-11-14T02:00:53+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "04c4698989",
+      "titolo": "I quattro problemi che Mauricio Pochettino deve risolvere al Manchester United: dai big che causano malumori nello spogliatoio a una questione che ha afflitto in precedenza Ruben Amorim e Michael Carrick, ecco le priorità sulla sua scrivania all'Old Trafford",
+      "url": "https://www.dailymail.com/sport/football/article-16289923/The-four-problems-Mauricio-Pochettino-needs-fix-Man-United-big-names-causing-unrest-dressing-room-issue-plagued-Ruben-Amorim-Michael-Carrick-items-Old-Trafford-tray.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Con lo United impantanato nella zona retrocessione della Premier League e al 17esimo posto nella classifica di Champions League, Daily Mail Sport analizza le questioni più urgenti sul tavolo di Pochettino.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1400,
+      "pubblicato": "2026-11-14T02:00:49+00:00",
+      "squadra": "Man Utd"
+    },
+    {
       "id": "0fc2e3ff87",
       "titolo": "Onuoha: Il contratto biennale del Man United per Pochettino ha senso",
       "url": "https://www.espn.com/video/clip/_/id/50475329/man-united-two-year-deal-pochettino-makes-sense",
@@ -992,8 +1048,8 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1200,
-      "pubblicato": "2026-11-13T23:29:18+00:00",
+      "punteggio": -1600,
+      "pubblicato": "2026-11-13T23:58:31+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1004,7 +1060,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1400,
+      "punteggio": -1800,
       "pubblicato": "2026-11-13T23:26:46+00:00",
       "squadra": "Man Utd"
     },
@@ -1016,7 +1072,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1600,
+      "punteggio": -2000,
       "pubblicato": "2026-11-13T22:05:00+00:00",
       "squadra": "Man Utd"
     },
@@ -1028,7 +1084,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1800,
+      "punteggio": -2200,
       "pubblicato": "2026-11-13T20:49:49+00:00",
       "squadra": "Man Utd"
     },
@@ -1040,7 +1096,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2000,
+      "punteggio": -2400,
       "pubblicato": "2026-11-13T20:47:28+00:00",
       "squadra": "Man Utd"
     },
@@ -1052,7 +1108,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2200,
+      "punteggio": -2600,
       "pubblicato": "2026-11-13T20:20:12+00:00",
       "squadra": "Man Utd"
     },
@@ -1064,7 +1120,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2400,
+      "punteggio": -2800,
       "pubblicato": "2026-11-13T19:42:00+00:00",
       "squadra": "Man Utd"
     },
@@ -1076,7 +1132,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2600,
+      "punteggio": -3000,
       "pubblicato": "2026-11-13T17:16:59+00:00",
       "squadra": "Man Utd"
     },
@@ -1088,7 +1144,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2800,
+      "punteggio": -3200,
       "pubblicato": "2026-11-13T15:46:02+00:00",
       "squadra": "Man Utd"
     },
@@ -1100,7 +1156,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3000,
+      "punteggio": -3400,
       "pubblicato": "2026-11-13T14:43:16+00:00",
       "squadra": "Man Utd"
     },
@@ -1112,7 +1168,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3200,
+      "punteggio": -3600,
       "pubblicato": "2026-11-13T14:20:41+00:00",
       "squadra": "Man Utd"
     },
@@ -1124,7 +1180,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3400,
+      "punteggio": -3800,
       "pubblicato": "2026-11-13T12:51:18+00:00",
       "squadra": "Man Utd"
     },
@@ -1136,7 +1192,7 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3600,
+      "punteggio": -4000,
       "pubblicato": "2026-11-13T12:19:29+00:00",
       "squadra": "Man Utd"
     },
@@ -1148,7 +1204,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3800,
+      "punteggio": -4200,
       "pubblicato": "2026-11-13T12:15:15+00:00",
       "squadra": "Man Utd"
     },
@@ -1160,7 +1216,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4000,
+      "punteggio": -4400,
       "pubblicato": "2026-11-13T12:15:08+00:00",
       "squadra": "Man Utd"
     },
@@ -1172,7 +1228,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4200,
+      "punteggio": -4600,
       "pubblicato": "2026-11-13T12:03:42+00:00",
       "squadra": "Man Utd"
     },
@@ -1184,7 +1240,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4400,
+      "punteggio": -4800,
       "pubblicato": "2026-11-12T23:28:32+00:00",
       "squadra": "Man Utd"
     },
@@ -1196,7 +1252,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4600,
+      "punteggio": -5000,
       "pubblicato": "2026-11-12T22:39:12+00:00",
       "squadra": "Man Utd"
     },
@@ -1208,7 +1264,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4800,
+      "punteggio": -5200,
       "pubblicato": "2026-11-12T20:14:01+00:00",
       "squadra": "Man Utd"
     },
@@ -1220,7 +1276,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -5000,
+      "punteggio": -5400,
       "pubblicato": "2026-11-12T17:19:28+00:00",
       "squadra": "Man Utd"
     },
@@ -1232,7 +1288,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5200,
+      "punteggio": -5600,
       "pubblicato": "2026-11-12T17:15:01+00:00",
       "squadra": "Man Utd"
     },
@@ -1244,7 +1300,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5400,
+      "punteggio": -5800,
       "pubblicato": "2026-11-12T17:01:39+00:00",
       "squadra": "Man Utd"
     },
@@ -1256,7 +1312,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5600,
+      "punteggio": -6000,
       "pubblicato": "2026-11-12T15:22:19+00:00",
       "squadra": "Man Utd"
     },
@@ -1268,7 +1324,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5800,
+      "punteggio": -6200,
       "pubblicato": "2026-11-12T13:26:59+00:00",
       "squadra": "Man Utd"
     },
@@ -1280,7 +1336,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6000,
+      "punteggio": -6400,
       "pubblicato": "2026-11-12T12:40:19+00:00",
       "squadra": "Man Utd"
     },
@@ -1292,7 +1348,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6200,
+      "punteggio": -6600,
       "pubblicato": "2026-11-12T12:34:25+00:00",
       "squadra": "Man Utd"
     },
@@ -1304,7 +1360,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -6400,
+      "punteggio": -6800,
       "pubblicato": "2026-11-12T12:22:14+00:00",
       "squadra": "Man Utd"
     },
@@ -1316,7 +1372,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6600,
+      "punteggio": -7000,
       "pubblicato": "2026-11-12T11:48:03+00:00",
       "squadra": "Man Utd"
     },
@@ -1328,7 +1384,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6800,
+      "punteggio": -7200,
       "pubblicato": "2026-11-12T11:44:20+00:00",
       "squadra": "Man Utd"
     },
@@ -1340,7 +1396,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -7000,
+      "punteggio": -7400,
       "pubblicato": "2026-11-12T11:32:19+00:00",
       "squadra": "Man Utd"
     },
@@ -1352,7 +1408,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7200,
+      "punteggio": -7600,
       "pubblicato": "2026-11-12T10:45:36+00:00",
       "squadra": "Man Utd"
     },
@@ -1364,7 +1420,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7400,
+      "punteggio": -7800,
       "pubblicato": "2026-11-11T21:59:35+00:00",
       "squadra": "Man Utd"
     },
@@ -1376,7 +1432,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7600,
+      "punteggio": -8000,
       "pubblicato": "2026-11-11T18:20:38+00:00",
       "squadra": "Man Utd"
     },
@@ -1388,7 +1444,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7800,
+      "punteggio": -8200,
       "pubblicato": "2026-11-11T17:00:46+00:00",
       "squadra": "Man Utd"
     },
@@ -1400,7 +1456,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8000,
+      "punteggio": -8400,
       "pubblicato": "2026-11-11T16:18:05+00:00",
       "squadra": "Man Utd"
     },
@@ -1412,7 +1468,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8200,
+      "punteggio": -8600,
       "pubblicato": "2026-11-11T09:36:48+00:00",
       "squadra": "Man Utd"
     },
@@ -1424,7 +1480,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8400,
+      "punteggio": -8800,
       "pubblicato": "2026-11-11T08:42:51+00:00",
       "squadra": "Man Utd"
     },
@@ -1436,7 +1492,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8600,
+      "punteggio": -9000,
       "pubblicato": "2026-11-11T08:39:56+00:00",
       "squadra": "Man Utd"
     },
@@ -1448,7 +1504,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -8800,
+      "punteggio": -9200,
       "pubblicato": "2026-11-11T08:39:30+00:00",
       "squadra": "Man Utd"
     }
