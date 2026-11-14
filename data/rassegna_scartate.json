@@ -1,24 +1,87 @@
 {
-  "aggiornato": "2026-11-14T10:58:35.903083+00:00",
-  "totale": 46,
+  "aggiornato": "2026-11-14T16:53:25.061588+00:00",
+  "totale": 47,
   "articoli": [
     {
-      "id": "068c4b5c12",
-      "titolo": "Juventus, Conceicao allontana le voci di mercato. E Spalletti lo riabbraccia in campo",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-conceicao-allontana-voci-mercato-spalletti-riabbraccia-campo-2293857",
-      "estratto": "In casa Juventus Francisco Conceicao è prossimo al rientro in campo dopo aver saltato quattro partite ufficiali a causa di un infortunio alla spalla sinistra rimediato nel mese di ottobre, durante la sfida di campionato giocata contro la Lazio.",
+      "id": "b5762b6088",
+      "titolo": "L’evoluzione da De Zerbi, i numeri da urlo, Hurzeler: il Brighton è la vera rivale dell’Arsenal?",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/l-evoluzione-de-zerbi-numeri-urlo-hurzeler-brighton-vera-rivale-dell-arsenal-2293712",
+      "estratto": "Quella che arriva dal sud dell’Inghilterra non è più una semplice favola di provincia né tantomeno una fabbrica di plusvalenze: il Brighton di Fabian Hürzeler è ormai una realtà d'élite, al punto da candidarsi come una delle principali antagoniste de",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-11-14T10:56:00+00:00"
+      "pubblicato": "2026-11-14T16:45:19+00:00"
     },
     {
-      "id": "c14534d99d",
-      "titolo": "Inter, Luis Henrique può partire a gennaio: la cessione vale 20-25 milioni",
-      "url": "https://www.tuttomercatoweb.com/serie-a/inter-luis-henrique-partire-gennaio-cessione-20-25-2293854",
-      "estratto": "Luis Henrique è tornato ad allenarsi in gruppo e sarà a disposizione di Cristian Chivu per la trasferta contro l'Atalanta.",
+      "id": "84ff23552b",
+      "titolo": "Bellinazzo: \"Juve, rosso importante ma a gennaio spenderà. Fiorentina non sostenibile\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bellinazzo-juve-rosso-preoccupante-gennaio-interverra-fiorentina-sostenibile-2293775",
+      "estratto": "I conti del calcio sotto la lente d’ingrandimento.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-11-14T10:53:01+00:00"
+      "pubblicato": "2026-11-14T16:38:01+00:00"
+    },
+    {
+      "id": "390e74f23f",
+      "titolo": "La squadra di Sonia Bompastor mostra i denti: il Chelsea affonda le campionesse in carica e si riprende il primo posto nella lotta per il titolo della WSL: Chelsea 1-0 Man City",
+      "url": "https://www.dailymail.com/sport/football/article-16290255/wsl-sonia-bompastor-chelsea-man-city-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Chelsea ha ottenuto una vittoria meritata per 1-0 contro il Manchester City a Stamford Bridge, superando le rivali e riconquistando la vetta della classifica della WSL.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T16:17:50+00:00"
+    },
+    {
+      "id": "914a5df6c4",
+      "titolo": "Nations League, pareggio a reti inviolate tra Kosovo e Israele: 90' per Vojvoda e Zhegrova",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/nations-league-pareggio-reti-inviolate-kosovo-israele-90-vojvoda-zhegrova-2293950",
+      "estratto": "Termina a reti inviolate la sfida tra Kosovo e Israele, valida per la quinta giornata della Lega B di Nations League (Gruppo 3).",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T16:12:25+00:00"
+    },
+    {
+      "id": "712f9d09c5",
+      "titolo": "Zhegrova non punge, il Kosovo pareggia contro Israele: cosa cambia in Nations League",
+      "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/11/14-152589510/zhegrova_non_punge_il_kosovo_pareggia_contro_israele_cosa_cambia_in_nations_league/",
+      "estratto": "Gli uomini di Foda raccolgono un altro punto dopo l'1-1 interno con l'Austria",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T15:55:01+00:00"
+    },
+    {
+      "id": "eaaaacb069",
+      "titolo": "L'ex attaccante dei Rangers Peter van Vossen su QUELL'errore nell'Old Firm di 30 anni fa... 'Non stavo prestando attenzione e la palla mi ha colpito lo stinco, ma do ancora la colpa a Jorg Albertz!'",
+      "url": "https://www.dailymail.com/sport/football/article-16291245/Former-Rangers-striker-Peter-van-Vossen-Old-Firm-miss-30-years-ago-today-wasnt-paying-attention-ball-hit-shin-blame-Jorg-Albertz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "In una carriera durata quasi 20 anni, Peter van Vossen ha vinto la Champions League, ha raggiunto i quarti di finale dei Mondiali e ha conquistato titoli nazionali sia nei Paesi Bassi che in Scozia.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T14:44:55+00:00"
+    },
+    {
+      "id": "3d0685e718",
+      "titolo": "Italia, poker all'Armenia: Salvai gol e infortunio, Ghiotto capitano. Prossima sfida alla Francia",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/14-152586979/italia_poker_all_armenia_salvai_gol_e_infortunio_ghiotto_capitano_prossima_sfida_alla_francia/",
+      "estratto": "L'Under 17 allenata da Pasqual travolge i padroni di casa e si prende la vetta del girone in attesa dell'ultima gara",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T14:27:57+00:00"
+    },
+    {
+      "id": "7f7a55ba99",
+      "titolo": "Il Gaucho a Ravenna e lo show ha inizio: Ronaldinho domani giocherà nel derby con il Forlì",
+      "url": "https://www.tuttosport.com/news/calcio/lega-pro-serie-d/ravenna/2026/11/14-152585394/il_gaucho_a_ravenna_e_lo_show_ha_inizio_ronaldinho_domani_giocher_nel_derby_con_il_forl/",
+      "estratto": "Insegue il 300° gol. L’ultima apparizione in Italia fu un Milan-Roma con Allegri disputato il 16 dicembre 2010",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T12:30:00+00:00"
+    },
+    {
+      "id": "9e412094e0",
+      "titolo": "Sosna, chi è il gioiellino che la Juve vuole blindare: pronto al salto di categoria",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/14-152579885/sosna_chi_il_gioiellino_che_la_juve_vuole_blindare_pronto_al_salto_di_categoria/",
+      "estratto": "Padoin è soddisfatto dell’avvio dell’esterno ceco, classe 2007, e Brambilla lo tiene d'occhio per la Next Gen: la società intanto pensa di prolungargli il contratto",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-14T11:19:05+00:00"
     },
     {
       "id": "35caa2949f",
@@ -28,15 +91,6 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "pubblicato": "2026-11-14T10:36:21+00:00"
-    },
-    {
-      "id": "93f0f3a937",
-      "titolo": "Inter, il futuro di Calhanoglu in bilico: tre big e l'Arabia Saudita osservano",
-      "url": "https://www.tuttomercatoweb.com/serie-a/inter-rinnovo-calhanoglu-bilico-juve-osserva-prepara-possibile-colpo-zero-2293847",
-      "estratto": "Il futuro di Hakan Calhanoglu resta tutto da definire.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-14T10:25:01+00:00"
     },
     {
       "id": "a1d28fc690",
@@ -57,15 +111,6 @@
       "pubblicato": "2026-11-14T10:03:29+00:00"
     },
     {
-      "id": "84ff23552b",
-      "titolo": "Bellinazzo: \"Juve, rosso importante ma a gennaio spenderà. Fiorentina non sostenibile\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/bellinazzo-juve-rosso-preoccupante-gennaio-interverra-fiorentina-sostenibile-2293775",
-      "estratto": "I conti del calcio sotto la lente d’ingrandimento.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-14T10:00:01+00:00"
-    },
-    {
       "id": "be1c78c83a",
       "titolo": "Svelata la squadra della stagione della Premier League finora: presenti Erling Haaland, TRE giocatori del Chelsea e una sorpresa dal Sunderland",
       "url": "https://www.dailymail.com/sport/football/article-16277835/Named-Premier-League-team-season-far-Brightons-star-man-THREE-Chelsea-players-surprise-addition-Sunderland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -73,15 +118,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-14T09:56:28+00:00"
-    },
-    {
-      "id": "60bddc6d3f",
-      "titolo": "L'ex arbitro Chiesa su Fiorentina-Juve: \"Non è che Bremer temesse il fallo su De Gea?\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/arbitro-chiesa-fiorentina-juve-non-bremer-temesse-fallo-de-gea-2293842",
-      "estratto": "L'ex arbitro Massimo Chiesa nel corso dell'intervista rilasciata a TuttoMercatoWeb.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-14T09:50:00+00:00"
     },
     {
       "id": "a44c6f8b72",
@@ -183,15 +219,6 @@
       "pubblicato": "2026-11-13T18:48:43+00:00"
     },
     {
-      "id": "76f006fd0c",
-      "titolo": "Un dirigente Juve celebrato da Forbes, la lista parla chiaro: ecco di chi si tratta",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152569091/un_dirigente_juve_celebrato_da_forbes_la_lista_parla_chiaro_ecco_di_chi_si_tratta/",
-      "estratto": "La Vecchia Signora vince anche fuori dal terreno di gioco: \"Sanno tasformare le idee in risultati, rafforzano il valore del brand\"",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T18:11:39+00:00"
-    },
-    {
       "id": "67d6c1398f",
       "titolo": "L'ex stella dell'Inghilterra Dele Alli vicina a una maxi entrata da 8,3 milioni di sterline dopo la vendita della sua azienda di diritti d'immagine",
       "url": "https://www.dailymail.com/sport/football/article-16290001/Former-England-star-Dele-Alli-line-huge-8-3m-payday-selling-image-rights-company.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -226,15 +253,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-13T17:29:43+00:00"
-    },
-    {
-      "id": "21b01fc1dd",
-      "titolo": "\"Parlai con la Juve\", il retroscena del talento Italia: motore alla Pogba e una clausola monstre",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/13-152567191/parlai_con_la_juve_il_retroscena_del_talento_italia_motore_alla_pogba_e_una_clausola_monstre/",
-      "estratto": "Dalla Serie C alla Champions League: ora lo vogliono tutti, Vecchia Signora compresa, ma sarebbe potuto diventare un giocatore bianconero già diversi anni fa",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T17:06:46+00:00"
     },
     {
       "id": "56edd642b1",
@@ -406,15 +424,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-11T18:45:54+00:00"
-    },
-    {
-      "id": "6147986e71",
-      "titolo": "Hooligan scatenati in Australia: immagini choc mostrano orde di tifosi che distruggono auto e danneggiano proprietà",
-      "url": "https://www.dailymail.com/sport/football/article-16277059/Soccer-hooligans-descend-Australia-Wild-footage-shows-horde-fans-smashing-cars-damaging-property.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I tifosi del Perth Glory chiedono daspo dopo che alcuni filmati hanno mostrato giovani intendi a danneggiare violentemente un'auto e ad affrontare i sostenitori avversari vicino all'HBF Park.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-11T12:38:06+00:00"
     }
   ]
 }
