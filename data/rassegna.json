@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-14T21:07:47.255817+00:00",
-  "totale": 113,
+  "aggiornato": "2026-11-15T01:03:48.891525+00:00",
+  "totale": 112,
   "articoli": [
     {
       "id": "e67f348c3b",
@@ -13,6 +13,18 @@
       "punteggio": 160,
       "pubblicato": "2026-11-14T11:28:50+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "f92b9274a4",
+      "titolo": "Tris Norvegia al Galles: Nusa apre le danze, Haaland chiude. Ungheria ok con la Georgia",
+      "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/11/14-152593242/tris_norvegia_al_galles_nusa_apre_le_danze_haaland_chiude_ungheria_ok_con_la_georgia/",
+      "estratto": "Gli uomini di Solbakken tornano a vincere, 3-1 ad Oslo. Rossi passa a Tbilisi e sogna la salita in Lega A",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-14T18:55:07+00:00",
+      "squadra": "Georgia"
     },
     {
       "id": "efad4b2aff",
@@ -51,84 +63,50 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "8653e298f5",
-      "titolo": "Pierre Sage esonerato con il Crystal Palace ultimo in Premier League",
-      "url": "https://www.espn.com/soccer/story/_/id/50211714/pierre-sage-sacked-crystal-palace-manager",
-      "estratto": "Pierre Sage è stato sollevato dall'incarico di allenatore del Crystal Palace dopo un inizio di stagione deludente.",
+      "id": "3e0f74f8fa",
+      "titolo": "Voci di mercato, news: il Liverpool punta a un colpo per Diouf del Brentford",
+      "url": "https://www.espn.com/soccer/story/_/id/50459800/transfer-rumors-news-gossip-arsenal-chelsea-liverpool-scott",
+      "estratto": "El Hadji Malick Diouf del Brentford potrebbe essere il nuovo acquisto ad Anfield? Transfer Talk vi offre le ultime notizie.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": 120,
-      "pubblicato": "2026-11-12T17:24:36+00:00",
-      "squadra": "C Palace"
+      "pubblicato": "2026-11-12T21:11:39+00:00",
+      "squadra": "Liverpool "
     },
     {
-      "id": "c79e8d5990",
-      "titolo": "Pep Guardiola 'indicato come obiettivo principale per sostituire Mauricio Pochettino come Ct degli Stati Uniti', mentre l'ex tecnico degli Spurs si avvicina alla panchina del Manchester United",
-      "url": "https://www.dailymail.com/sport/football/article-16285381/Pep-Guardiola-United-States-target-replace-Mauricio-Pochettino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Pochettino è attualmente con i giocatori della nazionale statunitense in vista delle sfide contro Haiti nella CONCACAF Nations League in questa quindicina, ma dovrebbe unirsi allo United dopo quelle partite.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 120,
-      "pubblicato": "2026-11-11T22:13:44+00:00",
-      "squadra": "Spurs"
-    },
-    {
-      "id": "3ad56a94d5",
-      "titolo": "Romario attacca Ancelotti: \"Non sei all'altezza della Seleção\". E chiede l'esonero del ct",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/romario-attacca-ancelotti-non-altezza-selecao-chiede-esonero-ct-2294012",
-      "estratto": "Non si placano le polemiche intorno a Carlo Ancelotti dopo la sconfitta del Brasile per 3-2 contro il Giappone.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 90,
-      "pubblicato": "2026-11-14T20:27:34+00:00"
-    },
-    {
-      "id": "43ef131f81",
-      "titolo": "Lazio Women, Grassadonia: \"Subito un gol assurdo. Avanti, gli alibi sono per i perdenti\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-femminile/lazio-women-grassadonia-subito-gol-assurdo-avanti-alibi-perdenti-2294019",
-      "estratto": "Gianluca Grassadonia, tecnico della Lazio Women, ha parlato così ai microfoni di Tuttomercatoweb.",
+      "id": "83aca9408b",
+      "titolo": "Cardinale si tiene il Milan e infiamma il mercato: \"Non lo venderò mai. Top player? In futuro\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cardinale-tiene-milan-infiamma-mercato-non-vendero-mai-top-player-futuro-2294043",
+      "estratto": "È il solito show quello che ha messo in atto Gerry Cardinale.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-11-14T21:04:08+00:00",
-      "squadra": "Lazio"
+      "pubblicato": "2026-11-14T23:41:36+00:00"
     },
     {
-      "id": "387b8aa06c",
-      "titolo": "Sui social: \"Fontanella-Khan fa anche il terzino?\". Il DG del Milan risponde con ironia",
-      "url": "https://www.tuttomercatoweb.com/serie-a/social-fontanella-khan-terzino-dg-milan-risponde-ironia-2294016",
-      "estratto": "Il Milan sta vivendo una nuova fase dirigenziale, con tanti manager internazionali e dal profilo giovane.",
+      "id": "5d2baa3d2e",
+      "titolo": "Salvatore Aronica: \"Italia, con Mancini vai lontano. Napoli, infortuni e niente investimenti\"",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/salvatore-aronica-italia-mancini-lontano-napoli-infortuni-investimenti-2294064",
+      "estratto": "\"Questa Italia mi piace, il nuovo progetto giovane che valorizza ragazzi meno famosi sta pagando.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-11-14T20:52:28+00:00"
+      "pubblicato": "2026-11-14T23:30:04+00:00",
+      "squadra": "Napoli"
     },
     {
-      "id": "ee9354e076",
-      "titolo": "Fiorentina Femminile, Severini: \"Molto orgogliose di questa vittoria, obiettivo terzo posto\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-femminile/fiorentina-femminile-severini-molto-orgogliose-vittoria-obiettivo-posto-2294005",
-      "estratto": "Emma Severini, centrocampista della Fiorentina Femminile, è stata grande protagonista del match vinto oggi dalle ragazze viola per 2-1 contro la Lazio siglando la rete del vantaggio gigliato.",
+      "id": "0830b6c6c0",
+      "titolo": "Milan, Gabbia: \"Cisse non cambi la sua fame. Gonçalo Ramos? È tra i più forti in circolazione\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/milan-gabbia-cisse-cambi-fame-goncalo-ramos-forti-circolazione-2294054",
+      "estratto": "Matteo Gabbia è stato protagonista dell'evento di Fondazione Milan di ieri pomeriggio nella scuola secondaria \"Arturo Toscanini\".",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-11-14T20:04:55+00:00"
-    },
-    {
-      "id": "cd451d2801",
-      "titolo": "Bazzani: \"Cisse ricorda Robinho. Al Milan servirebbero un attaccante e un difensore\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/bazzani-cisse-ricorda-robinho-milan-servirebbero-attaccante-difensore-2293982",
-      "estratto": "L’ex attaccante Fabio Bazzani è stato interrogato su argomenti che riguardano gli attaccanti del Milan, ma non solo nel corso di un’intervista da lui rilasciata al portale specializzato MilanNews.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-14T19:56:46+00:00"
+      "pubblicato": "2026-11-14T22:39:54+00:00"
     },
     {
       "id": "cc50ec36cd",
@@ -143,26 +121,116 @@
       "squadra": "Juventus"
     },
     {
-      "id": "84ace28656",
-      "titolo": "Harry Kane è infastidito dai suoi compagni di nazionale 'al 50 e 50' che danno forfait agli impegni con l'Inghilterra, rivela Thomas Tuchel",
-      "url": "https://www.dailymail.com/sport/football/article-16285269/Harry-Kane-annoyed-England.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "CRAIG HOPE: Diversi raduni del commissario tecnico sono stati segnati da forfait, tra cui la scusa della 'gestione dei carichi' di Cole Palmer a settembre.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
+      "id": "ad3c95eb24",
+      "titolo": "Gattuso chiama ancora i tifosi della Lazio: \"Sogno lo stadio pieno, la speranza è l'ultima a morire\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/14-152587722/gattuso_chiama_ancora_i_tifosi_della_lazio_sogno_lo_stadio_pieno_la_speranza_l_ultima_a_morire/",
+      "estratto": "\"Io non riesco a recitare, sapevo che ci avrei messo poco ad affezionarmi alle persone che sono qui\": le sue parole",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-11-11T21:29:14+00:00"
+      "pubblicato": "2026-11-14T14:14:03+00:00",
+      "squadra": "Lazio"
     },
     {
-      "id": "f4ffd8a0c3",
-      "titolo": "Italia, Scalvini: \"Sicuramente non staremo a pensare che abbiamo due risultati su tre\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/italia-scalvini-sicuramente-pensare-risultati-tre-2294009",
-      "estratto": "Giorgio Scalvini, difensore dell'Italia, ha parlato ai microfoni di SportMediaset alla vigilia del match contro il Belgio: \"È una partita importante per la qualificazione, abbiamo cercato di prepararci al meglio e recuperare le energie.",
+      "id": "74b172d627",
+      "titolo": "In Belgio sperano nei calcoli azzurri, Mancini ribatte: \"Non gestiremo il vantaggio\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/belgio-sperano-calcoli-azzurri-mancini-non-gestiremo-vantaggio-rischio-2294060",
+      "estratto": "Ancora qualche ora e sapremo il risultato finale in questo girone di Nations League per l’Italia.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-11-14T20:45:55+00:00"
+      "pubblicato": "2026-11-14T23:53:00+00:00"
+    },
+    {
+      "id": "9c77cbaaa5",
+      "titolo": "Italia, Scalvini: \"È sempre bello giocare con Bastoni. Speriamo di far bene anche domani\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/italia-scalvini-e-bello-giocare-bastoni-speriamo-far-domani-2294024",
+      "estratto": "Giorgio Scalvini, difensore dell'Atalanta e dell'Italia, sarà tra i protagonisti che domani affronteranno il Belgio.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-14T23:25:39+00:00"
+    },
+    {
+      "id": "ab8b99f9b1",
+      "titolo": "Tensione Zidane-Mbappé? Il ct chiarisce: \"Tutte sciocchezze, sarà con noi domani\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/tensione-zidane-mbappe-ct-chiarisce-tutte-sciocchezze-domani-2294059",
+      "estratto": "Clima teso in casa Francia.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-14T23:20:10+00:00"
+    },
+    {
+      "id": "8a90623416",
+      "titolo": "Gila: \"L'ego e il perfezionismo ci spingono a emergere. Il calcio ci allontana da noi stessi\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/gila-l-ego-perfezionismo-spingono-emergere-calcio-allontana-stessi-2294036",
+      "estratto": "Nel corso di The Chamber, la serie di interviste che il Milan ha dedicato alla salute mentale, Mario Gila ha parlato di come ha superato un momento difficile: \"L'ho fatto cambiando prospettiva.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-14T23:15:39+00:00"
+    },
+    {
+      "id": "1053249b6c",
+      "titolo": "Douvikas: \"Il sostegno avuto al Como non l'ho mai trovato in nessuna società\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/douvikas-il-sostegno-como-societa-2294057",
+      "estratto": "Nell'intervista rilasciata ai canali del Como, l'attaccante greco Anastasios Douvikas ha anche ricordato le sensazioni nel momento del suo arrivo in biancoblu: “Ricordo che ero molto felice di venire qui, perché è un club con molta ambizione e un gra",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-14T23:10:11+00:00",
+      "squadra": "Como"
+    },
+    {
+      "id": "87855ffbd1",
+      "titolo": "Italia, Mancini: \"C'è bisogno ancora di un po' di tempo per essere competitivi al massimo\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/italia-mancini-c-bisogno-competitivi-massimo-2294021",
+      "estratto": "Roberto Mancini, ct dell'Italia, è intervenuto ai microfoni di Vivo Azzurro TV alla vigilia della sfida contro il Belgio: \"Domani vorrei vedere la partita contro la Francia a San Siro, quella in Turchia, quella di Parigi… Un po' di tutto questo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-14T23:05:03+00:00"
+    },
+    {
+      "id": "9ef9cd86a9",
+      "titolo": "Minotti: \"La Danimarca ha voluto fortemente la vittoria, Portogallo distratto stasera\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/minotti-la-danimarca-voluto-fortemente-vittoria-portogallo-distratto-stasera-2294046",
+      "estratto": "Vittoria clamorosa della Danimarca, per 1-4 in trasferta contro il Portogallo.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-14T22:55:57+00:00"
+    },
+    {
+      "id": "8694a62640",
+      "titolo": "Portogallo, Bruno Fernandes: \"Prendere 4 gol non va bene, ma non è tutto da buttare\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/portogallo-bruno-fernandes-prendere-4-gol-bene-buttare-2294055",
+      "estratto": "Bruno Fernandes, centrocampista del Portogallo, ha parlato ai microfoni di Sky dopo il ko per 1-4 in Nations League contro la Danimarca.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-14T22:50:44+00:00"
+    },
+    {
+      "id": "7c000a716e",
+      "titolo": "Zidane infastidito dai gossip sul suo rapporto con Mbappé: \"Non posso impedire che circolino certe voci...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/uefa-nations-league/2026/11/14-152599311/zidane_infastidito_dai_gossip_sul_suo_rapporto_con_mbapp_non_posso_impedire_che_circolino_certe_voci_/",
+      "estratto": "L'allenatore della Francia alla vigilia del match contro la Turchia risponde alle domande sulle presunte frizioni con l'attaccante del Real Madrid",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-14T21:56:19+00:00"
     },
     {
       "id": "feae5cb3fa",
@@ -175,28 +243,6 @@
       "punteggio": 40,
       "pubblicato": "2026-11-14T20:40:48+00:00",
       "squadra": "Arsenal"
-    },
-    {
-      "id": "15083cec45",
-      "titolo": "Mancini: \"L'Italia in Belgio deve giocare per vincere. Voglio una squadra molto offensiva\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/mancini-l-italia-belgio-giocare-vincere-voglio-squadra-offensiva-2294008",
-      "estratto": "Roberto Mancini, ct dell'Italia, nel corso della sua intervista a SportMediaset alla vigilia della partita contro il Belgio ha parlato così dei Diavoli Rossi: \"Anche Van Bommel ha iniziato dalla Nations League, pure loro sono migliorati.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-14T20:22:54+00:00"
-    },
-    {
-      "id": "f25a22acd1",
-      "titolo": "Come Nicola ha cambiato il Venezia, l'agente di Dagasso: \"Nell'approccio alle partite\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/nicola-cambiato-venezia-agente-dagasso-cambiato-approccio-2293994",
-      "estratto": "Nella giornata di oggi su TMW avete potuto leggere tra le altre cose anche l'intervista a Carlo Di Renzo, agente tra gli altri del centrocampista Matteo Dagasso, attualmente impegnato con l'Italia Under 21, il cui cartellino è di proprietà del Venezi",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-14T20:08:37+00:00"
     },
     {
       "id": "d5095bf401",
@@ -265,41 +311,6 @@
       "pubblicato": "2026-11-13T20:09:22+00:00"
     },
     {
-      "id": "c56b8d4e27",
-      "titolo": "Liverpool Confidential: Perché Will Wright è la stella rivelazione dell'Academy dei Reds - LEWIS STEELE rivela i piani del club per l'autore di una tripletta alto 1,91 m, la sua ascesa dall'Euxton Villa ad Anfield e il motivo per cui gli allenatori credono che sia il prossimo grande talento di Andoni Iraola",
-      "url": "https://www.dailymail.com/sport/football/article-16284175/Liverpool-Wright-academy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Negli ultimi due viaggi all'estero di Will Wright, è stato necessario imbarcare del bagaglio extra per il volo di ritorno. Due trasferte di UEFA Youth League, due triplette e altrettanti palloni della partita in omaggio.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-11T21:17:00+00:00",
-      "squadra": "Liverpool "
-    },
-    {
-      "id": "cdf7ee6a52",
-      "titolo": "In estate era un giocatore di Serie C, per gennaio ci pensa il Napoli: chi è Sow",
-      "url": "https://www.tuttomercatoweb.com/serie-a/estate-giocatore-serie-c-gennaio-pensa-napoli-sow-2293621",
-      "estratto": "Alla fine della stagione scorsa, Asane Sow era ancora un giocatore della Pro Vercelli - dopo aver tentato di prendersi la Primavera del Torino per un prestito di un anno, senza riuscirci - e forse neanche lui si sarebbe immaginato che la traiettoria ",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-11-14T20:37:05+00:00",
-      "squadra": "Napoli"
-    },
-    {
-      "id": "d9e4f99140",
-      "titolo": "Yormark entra nel mondo Milan: può essere decisivo per portare Endrick in Italia",
-      "url": "https://www.tuttomercatoweb.com/serie-a/yormark-entra-milan-decisivo-portare-endrick-italia-2294001",
-      "estratto": "Endrick resta un obiettivo del Milan.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-11-14T20:30:00+00:00"
-    },
-    {
       "id": "ce7fdf0f6a",
       "titolo": "Milan, palla a Krosche: dirigerà il prossimo mercato. Stiller nuovo Modric? Profilo ideale per Amorim",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/14-152579982/milan_palla_a_krosche_diriger_il_prossimo_mercato_stiller_nuovo_modric_profilo_ideale_per_amorim/",
@@ -334,17 +345,6 @@
       "squadra": "Roma"
     },
     {
-      "id": "e39d83318e",
-      "titolo": "INTERVISTA A HARRY KANE: Il capitano dell'Inghilterra si racconta tra il 'lusso' di avere un ego, il segreto dietro la gloria del Pallone d'oro, i momenti 'difficili' con la sua nazionale e il motivo per cui non ha ancora finito",
-      "url": "https://www.dailymail.com/sport/football/article-16285055/Harry-Kane-ego-England-humble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "CRAIG HOPE: Kane ha un ego, solo che si misura in gol e autocrescita, non in vanità e autoindulgenza. Ha i record perché vuole i record.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-11-11T21:11:17+00:00"
-    },
-    {
       "id": "099530e3ae",
       "titolo": "I grandi piani di Unai Emery per l'Aston Villa dopo aver concordato il nuovo contratto: perché crede di poter vincere la Champions League, il modello Pep Guardiola e il cambio d'idea sulla cessione dei big",
       "url": "https://www.dailymail.com/sport/football/article-16285037/Unai-Emery-Aston-Villa-new-contract-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -357,83 +357,81 @@
       "squadra": "Aston Villa"
     },
     {
-      "id": "17a083d0ce",
-      "titolo": "Il sosia di Ronaldinho inganna Ravenna. Parlano Mancini e Scalvini: le top news delle 22",
-      "url": "https://www.tuttomercatoweb.com/serie-a/sosia-ronaldinho-inganna-ravenna-parlano-mancini-scalvini-top-news-22-2294029",
-      "estratto": "Matteo Dagasso si prende la scena in Francia: il centrocampista del Venezia è partito titolare nel 2-1 con cui l’Italia Under 21 ha battuto ieri a Laval i pari età transalpini e ha servito l’assist per il vantaggio di Francesco Camarda, dopo lo stop ",
+      "id": "24190415dc",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 14 novembre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-14-novembre-2294028",
+      "estratto": "JUVENTUS, SPUNTA VARELA PER L'ATTACCO.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-14T21:00:23+00:00"
+      "pubblicato": "2026-11-15T00:00:40+00:00"
     },
     {
-      "id": "94290c13a0",
-      "titolo": "Haaland è una macchina: 66 gol in 60 partite con la Norvegia. I suoi numeri fuori dal mondo",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/haaland-macchina-66-gol-60-partite-norvegia-numeri-2294015",
-      "estratto": "Erling Haaland non si ferma più.",
+      "id": "a0f34ba344",
+      "titolo": "Palestra, Doumbia, Vergara e Dimarco in attacco: l'Italia di Mancini che sfiderà il Belgio",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/palestra-doumbia-vergara-dimarco-attacco-italia-mancini-sfidera-belgio-2294040",
+      "estratto": "Roberto Mancini non si è sbilanciato alla vigilia di Belgio-Italia sulla formazione, ma è ovvio che almeno due cambi rispetto agli undici che hanno iniziato il match contro la Francia dovranno essere fatti, visto che Frattesi e Cambiaghi hanno lascia",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-14T20:56:59+00:00"
+      "pubblicato": "2026-11-14T23:56:38+00:00"
     },
     {
-      "id": "5ef9064f78",
-      "titolo": "Benevento, sabato di lavoro per Floro Flores e i suoi: il report dell'allenamento di oggi",
-      "url": "https://www.tuttomercatoweb.com/serie-b/benevento-sabato-lavoro-floro-flores-suoi-report-allenamento-2293996",
-      "estratto": "Il Benevento prosegue la preparazione della prima partita post pausa per le Nazionali, in programma sabato 21 novembre a Genova contro la Sampdoria.",
+      "id": "9dc8ce00d8",
+      "titolo": "La Danimarca rende il post Ronaldo un incubo, due promozioni: i risultati di Nations League",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/danimarca-rende-post-ronaldo-incubo-promozioni-risultati-nations-league-2294058",
+      "estratto": "Domenica di intense emozioni per quanto riguarda la Nations League, con anche risultati a sorpresa e qualche verdetto.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-14T20:49:36+00:00",
-      "squadra": "Benevento"
+      "pubblicato": "2026-11-14T23:49:37+00:00"
     },
     {
-      "id": "7cdc3528eb",
-      "titolo": "Belgio-Italia, omaggio della Nazionale alle vittime dell'Heysel",
-      "url": "https://www.tuttomercatoweb.com/altre-notizie/belgio-italia-omaggio-nazionale-vittime-heysel-2294022",
-      "estratto": "(ANSA) - ROMA, 14 NOV - Alla vigilia del match di Nations League con il Belgio, in programma allo stadio Re Baldovino di Bruxelles, una delegazione della Figc guidata dal commissario straordinario Giovanni Malagò ha voluto rendere omaggio alle vittim",
+      "id": "fcef8c9bcd",
+      "titolo": "Malagò contro Galliani per la presidenza FIGC, ora è ufficiale: candidature ammesse",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/malago-galliani-presidenza-figc-ufficiale-candidature-ammesse-2294062",
+      "estratto": "La guerra per la poltrona più importante del calcio italiano è ufficialmente cominciata da qualche ora, da quando la FIGC ha ufficializzato l’ammissione delle candidature di Giovanni Malagò e Adriano Galliani.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-14T20:33:05+00:00"
+      "pubblicato": "2026-11-14T23:37:07+00:00"
     },
     {
-      "id": "d0a414fa97",
-      "titolo": "Portogallo, tutti con la 7 di Cristiano Ronaldo: l'omaggio dei compagni prima della Danimarca",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/portogallo-7-cristiano-ronaldo-omaggio-compagni-danimarca-2294014",
-      "estratto": "Un'immagine destinata a entrare nella storia del calcio portoghese.",
+      "id": "36f0316c28",
+      "titolo": "Ronaldinho, la rifinitura e il video virale: Ravenna-Forlì sbarca a Times Square",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/ronaldinho-rifinitura-video-virale-ravenna-forli-sbarca-times-square-2293957",
+      "estratto": "A undici anni dall’ultima partita ufficiale, Ronaldinho è pronto a tornare in campo.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-14T20:12:02+00:00"
+      "pubblicato": "2026-11-14T23:34:00+00:00"
+    },
+    {
+      "id": "bfd70967e4",
+      "titolo": "Alajbegovic, l'assist non basta: Bosnia ko. Tonfo Portogallo alla prima post Ronaldo",
+      "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/11/14-152594975/alajbegovic_l_assist_non_basta_bosnia_ko_tonfo_portogallo_alla_prima_post_ronaldo/",
+      "estratto": "Il gioiello Juve ispisa, ma vince la Svezia. Nella notte dell'omaggio a CR7 brilla la Danimarca, poker e doppietta di Hojlund",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-14T21:47:51+00:00"
     },
     {
       "id": "bfc3a610ba",
-      "titolo": "La Norvegia torna a vincere in Nations League: gol e assist per Haaland",
+      "titolo": "Hojlund rovina la festa del Portogallo nella prima del 'dopo Cristiano'",
       "url": "https://www.corrieredellosport.it/news/calcio/uefa-nations-league/2026/11/14-152590279/la_norvegia_torna_a_vincere_in_nations_league_gol_e_assist_per_haaland/",
-      "estratto": "Gli scadinavi superano il Galles e si rilanciano in classifica. Vola l'Ungheria di Marco Rossi, che passa in Georgia",
+      "estratto": "Colpaccio della Danimarca, che passa a Braga con la doppietta dell'attaccante del Napoli, nel giorno del saluto a Ronaldo. Haaland trascina la Norvegia",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-11-14T19:03:10+00:00"
-    },
-    {
-      "id": "f92b9274a4",
-      "titolo": "Tris Norvegia al Galles: Nusa apre le danze, Haaland chiude. Ungheria ok con la Georgia",
-      "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/11/14-152593242/tris_norvegia_al_galles_nusa_apre_le_danze_haaland_chiude_ungheria_ok_con_la_georgia/",
-      "estratto": "Gli uomini di Solbakken tornano a vincere, 3-1 ad Oslo. Rossi passa a Tbilisi e sogna la salita in Lega A",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-14T18:55:07+00:00",
-      "squadra": "Georgia"
     },
     {
       "id": "ff26cf731f",
@@ -456,18 +454,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-11-14T16:58:45+00:00"
-    },
-    {
-      "id": "5b3f7d77ae",
-      "titolo": "Voci e notizie di mercato: Nico Paz del Como sarà il primo acquisto estivo del Manchester United per Pochettino?",
-      "url": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
-      "estratto": "Il Manchester United sta monitorando la stella del Como Nico Paz in vista di un trasferimento la prossima estate. Transfer Talk riporta gli ultimi aggiornamenti.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-14T15:42:44+00:00",
-      "squadra": "Como"
     },
     {
       "id": "7358747255",
@@ -716,15 +702,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "ad3c95eb24",
-      "titolo": "Gattuso chiama ancora i tifosi della Lazio: \"Sogno lo stadio pieno, la speranza è l'ultima a morire\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/14-152587722/gattuso_chiama_ancora_i_tifosi_della_lazio_sogno_lo_stadio_pieno_la_speranza_l_ultima_a_morire/",
-      "estratto": "\"Io non riesco a recitare, sapevo che ci avrei messo poco ad affezionarmi alle persone che sono qui\": le sue parole",
-      "fonte": "Corriere dello Sport",
+      "id": "86a6860c70",
+      "titolo": "\"Una Lazio così può imitare il mio Verona\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/lazio/2026/11/14-152585210/una_lazio_cos_pu_imitare_il_mio_verona/",
+      "estratto": "Galderisi esalta Gattuso: \"Neppure noi eravamo partiti per vincere lo scudetto, poi però cresce l’autostima e svolti\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-11-14T14:14:03+00:00",
+      "pubblicato": "2026-11-14T12:00:00+00:00",
       "squadra": "Lazio"
     },
     {
@@ -752,28 +738,28 @@
       "squadra": "Juventus"
     },
     {
-      "id": "1f58636fac",
-      "titolo": "Perché il posto di Bukayo Saka in nazionale è improvvisamente a rischio: le tante partite giocate rendono la stella dell'Arsenal un caso clinico, mentre il suo rivale Morgan Rogers è in grande spolvero: CRAIG HOPE",
-      "url": "https://www.dailymail.com/sport/football/article-16290387/Why-Bukayo-Sakas-England-spot-suddenly-threat-Morgan-Rogers-hits-gear-CRAIG-HOPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "CRAIG HOPE: Cinque stagioni fa, Bukayo Saka ha collezionato 3.000 minuti in Premier League con l'Arsenal. Morgan Rogers ne ha totalizzati appena 217 con il Bournemouth, all'epoca in Championship.",
-      "fonte": "Daily Mail",
+      "id": "fb7a593990",
+      "titolo": "\"Estremamente fortunato\", Declan Rice lascia intendere che firmerà presto un nuovo contratto con l'Arsenal",
+      "url": "https://www.espn.com/soccer/story/_/id/50483117/declan-rice-arsenal-new-contract-england",
+      "estratto": "Declan Rice ha fatto capire che è probabile firmi un nuovo contratto con l'Arsenal per prolungare la sua permanenza nel club oltre il 2028.",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "citazione": false,
+      "citazione": true,
       "punteggio": -200,
-      "pubblicato": "2026-11-14T14:21:42+00:00",
+      "pubblicato": "2026-11-14T21:55:14+00:00",
       "squadra": "Arsenal"
     },
     {
-      "id": "3e0f74f8fa",
-      "titolo": "Voci di mercato, news: il Liverpool punta a un colpo per Diouf del Brentford",
-      "url": "https://www.espn.com/soccer/story/_/id/50459800/transfer-rumors-news-gossip-arsenal-chelsea-liverpool-scott",
-      "estratto": "El Hadji Malick Diouf del Brentford potrebbe essere il nuovo acquisto ad Anfield? Transfer Talk vi offre le ultime notizie.",
+      "id": "5b3f7d77ae",
+      "titolo": "Voci e notizie di mercato: Nico Paz del Como sarà il primo acquisto estivo del Manchester United per Pochettino?",
+      "url": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
+      "estratto": "Il Manchester United sta monitorando la stella del Como Nico Paz in vista di un trasferimento la prossima estate. Transfer Talk riporta gli ultimi aggiornamenti.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -200,
-      "pubblicato": "2026-11-12T21:11:39+00:00",
-      "squadra": "Liverpool "
+      "pubblicato": "2026-11-14T15:42:44+00:00",
+      "squadra": "Como"
     },
     {
       "id": "3589a9c658",
@@ -788,15 +774,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "86a6860c70",
-      "titolo": "\"Una Lazio così può imitare il mio Verona\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/lazio/2026/11/14-152585210/una_lazio_cos_pu_imitare_il_mio_verona/",
-      "estratto": "Galderisi esalta Gattuso: \"Neppure noi eravamo partiti per vincere lo scudetto, poi però cresce l’autostima e svolti\"",
-      "fonte": "Tuttosport",
+      "id": "849e05eba6",
+      "titolo": "Boniek: \"Guardiola ha ammazzato il calcio. Mi piace come gioca la Lazio\". Guarda l'intervista esclusiva su YouTube",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/11/14-152581882/boniek_guardiola_ha_ammazzato_il_calcio_mi_piace_come_gioca_la_lazio_guarda_l_intervista_esclusiva_su_youtube/",
+      "estratto": "L'intervista esclusiva del direttore Ivan Zazzaroni all'ex calciatore, allenatore e dirigente sportivo: guardala integralmente sul canale ufficiale del Corriere dello Sport su Youtube",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-11-14T12:00:00+00:00",
+      "pubblicato": "2026-11-14T09:28:57+00:00",
       "squadra": "Lazio"
     },
     {
@@ -812,15 +798,15 @@
       "squadra": "Napoli"
     },
     {
-      "id": "8bc5ad0896",
-      "titolo": "La stella dell'Arsenal Max Dowman batte il record di Jude Bellingham, ma un nome meno noto dovrebbe attirare l'attenzione di Thomas Tuchel in vista di Euro 2028: LE COSE IMPARATE dalla sconfitta dell'Inghilterra Under 21 contro il Portogallo",
-      "url": "https://www.dailymail.com/sport/football/article-16290173/Arsenal-Max-Dowman-Jude-Bellingham-record-Thomas-Tuchel-Euro-2028-England-U21s-defeat-Portugal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "NATHAN SALT AD ASHTON GATE: Max Dowman ha battuto il record di Jude Bellingham diventando il più giovane giocatore a scendere in campo con l'Under-21 dell'Inghilterra.",
+      "id": "1f58636fac",
+      "titolo": "Perché il posto di Bukayo Saka in nazionale è improvvisamente a rischio: le tante partite giocate rendono la stella dell'Arsenal un caso clinico, mentre il suo rivale Morgan Rogers è in grande spolvero: CRAIG HOPE",
+      "url": "https://www.dailymail.com/sport/football/article-16290387/Why-Bukayo-Sakas-England-spot-suddenly-threat-Morgan-Rogers-hits-gear-CRAIG-HOPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "CRAIG HOPE: Cinque stagioni fa, Bukayo Saka ha collezionato 3.000 minuti in Premier League con l'Arsenal. Morgan Rogers ne ha totalizzati appena 217 con il Bournemouth, all'epoca in Championship.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-11-13T23:41:40+00:00",
+      "pubblicato": "2026-11-14T14:21:42+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -836,15 +822,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "849e05eba6",
-      "titolo": "Boniek: \"Guardiola ha ammazzato il calcio. Mi piace come gioca la Lazio\". Guarda l'intervista esclusiva su YouTube",
-      "url": "https://www.corrieredellosport.it/news/calcio/2026/11/14-152581882/boniek_guardiola_ha_ammazzato_il_calcio_mi_piace_come_gioca_la_lazio_guarda_l_intervista_esclusiva_su_youtube/",
-      "estratto": "L'intervista esclusiva del direttore Ivan Zazzaroni all'ex calciatore, allenatore e dirigente sportivo: guardala integralmente sul canale ufficiale del Corriere dello Sport su Youtube",
-      "fonte": "Corriere dello Sport",
+      "id": "012a89e228",
+      "titolo": "Icardi, Man, i piani della Lazio e le rotture di scatole a Frattesi: Gattuso fa il punto a 360°",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/icardi-man-piani-lazio-rotture-scatole-frattesi-gattuso-punto-360-2294027",
+      "estratto": "La Lazio supera 3-0 il Mgarr United nell'amichevole disputata a Formello e mister Gennaro Gattuso traccia un bilancio positivo del lavoro settimanale dei suoi: \"Abbiamo fatto due giorni ad alta intensità, oggi siamo soddisfatti\".",
+      "fonte": "TMW",
       "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -530,
-      "pubblicato": "2026-11-14T09:28:57+00:00",
+      "citazione": false,
+      "punteggio": -570,
+      "pubblicato": "2026-11-14T23:45:52+00:00",
       "squadra": "Lazio"
     },
     {
@@ -858,6 +844,18 @@
       "punteggio": -570,
       "pubblicato": "2026-11-13T22:58:21+00:00",
       "squadra": "Napoli"
+    },
+    {
+      "id": "8bc5ad0896",
+      "titolo": "La stella dell'Arsenal Max Dowman batte il record di Jude Bellingham, ma un nome meno noto dovrebbe attirare l'attenzione di Thomas Tuchel in vista di Euro 2028: LE COSE IMPARATE dalla sconfitta dell'Inghilterra Under 21 contro il Portogallo",
+      "url": "https://www.dailymail.com/sport/football/article-16290173/Arsenal-Max-Dowman-Jude-Bellingham-record-Thomas-Tuchel-Euro-2028-England-U21s-defeat-Portugal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "NATHAN SALT AD ASHTON GATE: Max Dowman ha battuto il record di Jude Bellingham diventando il più giovane giocatore a scendere in campo con l'Under-21 dell'Inghilterra.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -600,
+      "pubblicato": "2026-11-13T23:41:40+00:00",
+      "squadra": "Arsenal"
     },
     {
       "id": "67af50bf9a",
@@ -884,15 +882,15 @@
       "squadra": "Lazio"
     },
     {
-      "id": "f28032f5b1",
-      "titolo": "Mauricio Pochettino lascia un'eredità irrilevante nella nazionale degli Stati Uniti... dove le ambizioni non si sono mai tradotte in risultati mentre l'argentino in lacrime fugge al Manchester United",
-      "url": "https://www.dailymail.com/sport/football/article-16291521/mauricio-pochettino-usmnt-manchester-united.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il piano di Mauricio Pochettino per creare un \"impatto duraturo\" nel calcio statunitense è sopravvissuto solo quattro mesi, mentre se ne va per guadagnare uno stipendio più alto guidando uno dei marchi calcistici più grandi del mondo al Manchester Un",
+      "id": "45588eb9b0",
+      "titolo": "Spazio ai giovani, Bruno Fernandes al top e carisma in panchina: cosa imparano i tifosi del Manchester United mentre il futuro tecnico Mauricio Pochettino guida gli Stati Uniti a un 6-0",
+      "url": "https://www.dailymail.com/sport/football/article-16290257/Pochettino-USA-game-things-learnemauricio-pochettino-man-united-usa-things-learned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Mauricio Pochettino si è goduto una penultima partita trionfale alla guida degli Stati Uniti, travolgendo Haiti per 6-0.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -880,
-      "pubblicato": "2026-11-14T18:42:12+00:00",
+      "pubblicato": "2026-11-15T00:39:28+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -908,15 +906,15 @@
       "squadra": "Lazio"
     },
     {
-      "id": "dc71e64149",
-      "titolo": "AUDIT DELLA ROSA del Manchester United di Mauricio Pochettino: via OTTO stelle, un nuovo ruolo per l'attaccante che 'gli è sempre piaciuto' e chi potrebbe essere il suo nuovo Dele Alli... ora date il VOSTRO giudizio giocatore per giocatore",
-      "url": "https://www.dailymail.com/sport/football/article-16287141/mauricio-pochettino-man-united-squad-audit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Daily Mail Sport passa in rassegna i 36 giocatori che Pochettino erederà quando varcherà la soglia di Carrington la prossima settimana...",
-      "fonte": "Daily Mail",
+      "id": "638a5dbde4",
+      "titolo": "Olley: al Manchester United sono mancati cultura, unione e voglia",
+      "url": "https://www.espn.com/video/clip/_/id/50483716/manchester-united-lacked-culture-togetherness-desire",
+      "estratto": "Olley: al Manchester United sono mancati cultura, unione e voglia",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1080,
-      "pubblicato": "2026-11-14T16:11:34+00:00",
+      "pubblicato": "2026-11-14T22:14:35+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -932,6 +930,30 @@
       "squadra": "Lazio"
     },
     {
+      "id": "f28032f5b1",
+      "titolo": "Mauricio Pochettino lascia un'eredità irrilevante nella nazionale degli Stati Uniti... dove le ambizioni non si sono mai tradotte in risultati mentre l'argentino in lacrime fugge al Manchester United",
+      "url": "https://www.dailymail.com/sport/football/article-16291521/mauricio-pochettino-usmnt-manchester-united.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il piano di Mauricio Pochettino per creare un \"impatto duraturo\" nel calcio statunitense è sopravvissuto solo quattro mesi, mentre se ne va per guadagnare uno stipendio più alto guidando uno dei marchi calcistici più grandi del mondo al Manchester Un",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1280,
+      "pubblicato": "2026-11-14T18:42:12+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "dc71e64149",
+      "titolo": "AUDIT DELLA ROSA del Manchester United di Mauricio Pochettino: via OTTO stelle, un nuovo ruolo per l'attaccante che 'gli è sempre piaciuto' e chi potrebbe essere il suo nuovo Dele Alli... ora date il VOSTRO giudizio giocatore per giocatore",
+      "url": "https://www.dailymail.com/sport/football/article-16287141/mauricio-pochettino-man-united-squad-audit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Daily Mail Sport passa in rassegna i 36 giocatori che Pochettino erederà quando varcherà la soglia di Carrington la prossima settimana...",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1480,
+      "pubblicato": "2026-11-14T16:11:34+00:00",
+      "squadra": "Man Utd"
+    },
+    {
       "id": "04c4698989",
       "titolo": "I quattro problemi che Mauricio Pochettino deve risolvere al Manchester United: dai big che causano malumori nello spogliatoio a una questione che ha afflitto in precedenza Ruben Amorim e Michael Carrick, ecco le priorità sulla sua scrivania all'Old Trafford",
       "url": "https://www.dailymail.com/sport/football/article-16289923/The-four-problems-Mauricio-Pochettino-needs-fix-Man-United-big-names-causing-unrest-dressing-room-issue-plagued-Ruben-Amorim-Michael-Carrick-items-Old-Trafford-tray.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -939,7 +961,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1280,
+      "punteggio": -1680,
       "pubblicato": "2026-11-14T15:51:26+00:00",
       "squadra": "Man Utd"
     },
@@ -951,7 +973,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1480,
+      "punteggio": -1880,
       "pubblicato": "2026-11-14T14:10:23+00:00",
       "squadra": "Man Utd"
     },
@@ -963,7 +985,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1680,
+      "punteggio": -2080,
       "pubblicato": "2026-11-14T13:21:49+00:00",
       "squadra": "Man Utd"
     },
@@ -975,7 +997,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1880,
+      "punteggio": -2280,
       "pubblicato": "2026-11-14T08:34:30+00:00",
       "squadra": "Man Utd"
     },
@@ -987,7 +1009,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2080,
+      "punteggio": -2480,
       "pubblicato": "2026-11-14T07:55:59+00:00",
       "squadra": "Man Utd"
     },
@@ -999,7 +1021,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2280,
+      "punteggio": -2680,
       "pubblicato": "2026-11-13T23:58:31+00:00",
       "squadra": "Man Utd"
     },
@@ -1011,7 +1033,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2480,
+      "punteggio": -2880,
       "pubblicato": "2026-11-13T22:05:00+00:00",
       "squadra": "Man Utd"
     },
@@ -1023,7 +1045,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2680,
+      "punteggio": -3080,
       "pubblicato": "2026-11-13T20:49:49+00:00",
       "squadra": "Man Utd"
     },
@@ -1035,7 +1057,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2880,
+      "punteggio": -3280,
       "pubblicato": "2026-11-13T20:47:28+00:00",
       "squadra": "Man Utd"
     },
@@ -1047,7 +1069,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3080,
+      "punteggio": -3480,
       "pubblicato": "2026-11-13T20:20:12+00:00",
       "squadra": "Man Utd"
     },
@@ -1059,7 +1081,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3280,
+      "punteggio": -3680,
       "pubblicato": "2026-11-13T19:42:00+00:00",
       "squadra": "Man Utd"
     },
@@ -1071,7 +1093,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3480,
+      "punteggio": -3880,
       "pubblicato": "2026-11-13T17:16:59+00:00",
       "squadra": "Man Utd"
     },
@@ -1083,7 +1105,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3680,
+      "punteggio": -4080,
       "pubblicato": "2026-11-13T15:46:02+00:00",
       "squadra": "Man Utd"
     },
@@ -1095,7 +1117,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3880,
+      "punteggio": -4280,
       "pubblicato": "2026-11-13T14:43:16+00:00",
       "squadra": "Man Utd"
     },
@@ -1107,7 +1129,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4080,
+      "punteggio": -4480,
       "pubblicato": "2026-11-13T12:51:18+00:00",
       "squadra": "Man Utd"
     },
@@ -1119,7 +1141,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4280,
+      "punteggio": -4680,
       "pubblicato": "2026-11-13T12:15:15+00:00",
       "squadra": "Man Utd"
     },
@@ -1131,7 +1153,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4480,
+      "punteggio": -4880,
       "pubblicato": "2026-11-13T12:03:42+00:00",
       "squadra": "Man Utd"
     },
@@ -1143,7 +1165,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4680,
+      "punteggio": -5080,
       "pubblicato": "2026-11-12T23:28:32+00:00",
       "squadra": "Man Utd"
     },
@@ -1155,7 +1177,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4880,
+      "punteggio": -5280,
       "pubblicato": "2026-11-12T22:39:12+00:00",
       "squadra": "Man Utd"
     },
@@ -1167,7 +1189,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5080,
+      "punteggio": -5480,
       "pubblicato": "2026-11-12T20:14:01+00:00",
       "squadra": "Man Utd"
     },
@@ -1179,7 +1201,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -5280,
+      "punteggio": -5680,
       "pubblicato": "2026-11-12T17:19:28+00:00",
       "squadra": "Man Utd"
     },
@@ -1191,7 +1213,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5480,
+      "punteggio": -5880,
       "pubblicato": "2026-11-12T17:15:01+00:00",
       "squadra": "Man Utd"
     },
@@ -1203,7 +1225,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5680,
+      "punteggio": -6080,
       "pubblicato": "2026-11-12T17:01:39+00:00",
       "squadra": "Man Utd"
     },
@@ -1215,7 +1237,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5880,
+      "punteggio": -6280,
       "pubblicato": "2026-11-12T15:22:19+00:00",
       "squadra": "Man Utd"
     },
@@ -1227,20 +1249,8 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6080,
+      "punteggio": -6480,
       "pubblicato": "2026-11-12T13:26:59+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "c385180a59",
-      "titolo": "Il gruppo di tifosi del Manchester United dà la colpa ai proprietari, non a Michael Carrick, per i problemi",
-      "url": "https://www.espn.com/soccer/story/_/id/50461082/man-united-jim-ratcliffe-ineos-michael-carrick",
-      "estratto": "I proprietari del Manchester United, piuttosto che Michael Carrick, sono da biasimare per i continui problemi del club, ha dichiarato un gruppo di tifosi.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -6280,
-      "pubblicato": "2026-11-12T12:40:19+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1251,7 +1261,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6480,
+      "punteggio": -6680,
       "pubblicato": "2026-11-12T12:34:25+00:00",
       "squadra": "Man Utd"
     },
@@ -1263,7 +1273,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -6680,
+      "punteggio": -6880,
       "pubblicato": "2026-11-12T12:22:14+00:00",
       "squadra": "Man Utd"
     },
@@ -1275,7 +1285,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -6880,
+      "punteggio": -7080,
       "pubblicato": "2026-11-12T11:48:03+00:00",
       "squadra": "Man Utd"
     },
@@ -1287,32 +1297,8 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -7080,
-      "pubblicato": "2026-11-12T11:44:20+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "777a82741e",
-      "titolo": "Gary Neville attacca duramente la gestione \"priva di classe\" dell'esonero di Michael Carrick da parte del Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50460693/man-united-michael-carrick-sacked-gary-neville",
-      "estratto": "Gary Neville ha bollato il Manchester United come \"privo di classe\" per le azioni compiute nei giorni precedenti l'esonero di Michael Carrick.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
       "punteggio": -7280,
-      "pubblicato": "2026-11-12T11:32:19+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "b2c699bc0a",
-      "titolo": "Calciomercato, indiscrezioni e notizie: il Manchester United inserisce il difensore del Brentford Nathan Collins nella lista dei desideri",
-      "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
-      "estratto": "Il difensore centrale del Brentford Nathan Collins è stato inserito dal Manchester United nella lista dei possibili rinforzi per il reparto arretrato. Le ultime novità da Transfer Talk.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -7480,
-      "pubblicato": "2026-11-11T21:59:35+00:00",
+      "pubblicato": "2026-11-12T11:44:20+00:00",
       "squadra": "Man Utd"
     }
   ]
