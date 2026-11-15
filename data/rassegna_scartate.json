@@ -1,15 +1,69 @@
 {
-  "aggiornato": "2026-11-15T15:21:28.110885+00:00",
-  "totale": 38,
+  "aggiornato": "2026-11-15T20:30:24.880670+00:00",
+  "totale": 41,
   "articoli": [
     {
-      "id": "f4f17e1baa",
-      "titolo": "Jarrad Branthwaite escluso dalla nazionale inglese per la sfida decisiva di Nations League contro la Spagna: James Hill e Dan Burn superano il difensore nelle gerarchie di Thomas Tuchel",
-      "url": "https://www.dailymail.com/sport/football/article-16294353/Jarrad-Branthwaite-England-squad-Nations-League-decider-Spain-James-Hill-Dan-Burn-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'esclusione del difensore centrale dell'Everton significa che due rivali non presenti nella rosa originaria ma aggiunti la scorsa settimana, Dan Burn e James Hill, sono ora apparentemente davanti a lui nelle gerarchie.",
+      "id": "503b5b7804",
+      "titolo": "Percorso quasi perfetto e promozione in Nations League: così Maran si è preso l'Albania",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/percorso-perfetto-promozione-nations-league-maran-preso-albania-2294236",
+      "estratto": "Con il successo ottenuto oggi per 0-2 in trasferta sul campo della Bielorussia, l'Albania ha certificato la sua promozione nella Lega B di Nations League.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T20:19:01+00:00"
+    },
+    {
+      "id": "48acbfa332",
+      "titolo": "Un portiere segna uno degli autogol più assurdi di SEMPRE durante una sfida playoff in Argentina",
+      "url": "https://www.dailymail.com/sport/football/article-16294693/Goalkeeper-scores-bizarre-goal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Comunicaciones affrontava l'Arsenal de Sarandí nel fine settimana sul punteggio di 0-0, e il portiere aveva fatto presa sul pallone in uscita su un cross con l'intenzione di rimettere subito in gioco la squadra.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-15T15:07:06+00:00"
+      "pubblicato": "2026-11-15T19:54:57+00:00"
+    },
+    {
+      "id": "ffde29f0d4",
+      "titolo": "Super Mario! I Dons affidano la ricostruzione al tecnico svizzero Frick",
+      "url": "https://www.dailymail.com/sport/football/article-16294699/Super-Mario-Dons-hand-rebuild-job-Swiss-success-story-Frick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'Aberdeen ha ingaggiato l'ex nazionale del Liechtenstein Mario Frick come nuovo allenatore, come confermato dal club di Premiership.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T19:45:56+00:00"
+    },
+    {
+      "id": "b524caaf3c",
+      "titolo": "Il leggendario telecronista CLIVE TYLDESLEY racconta come l'addio a ITV lo abbia reso ancora più amato, il boom degli streamer di YouTube, il guadagno nato nel lockdown e il motivo per cui rifiuta di essere l'ennesima voce urlante del calcio",
+      "url": "https://www.dailymail.com/sport/article-16290827/Legendary-commentator-CLIVE-TYLDESLEY-ITV-exit-hearts-grow-fonder-rise-YouTube-streamers-lockdown-money-spinner-refuses-loud-voice-game.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I suoi occhi sono perfettamente efficienti con gli occhiali, la sua mente è abbastanza agile da seguire il ritmo dell'azione e la sua voce, rassicurantemente familiare, è forte e autorevole con una leggera tendenza all'autoironia.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T19:00:03+00:00"
+    },
+    {
+      "id": "c754a9df58",
+      "titolo": "Krstovic trascina il Montenegro, ma Adzic va ko. Hysaj-gol, la Finlandia ne fa 7: Pohjanpalo show",
+      "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/11/15-152618462/krstovic_trascina_il_montenegro_ma_adzic_va_ko_hysaj-gol_la_finlandia_ne_fa_7_pohjanpalo_show/",
+      "estratto": "Doppietta dell'atalantino nel 4-1 a Cipro, l'Albania si impone 2-0 in Bielorussia. Gli scandinavi travolgono San Marino, 0-0 tra Lettonia e Armenia",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T18:57:12+00:00"
+    },
+    {
+      "id": "a2f8c8a612",
+      "titolo": "Il commissario tecnico della Scozia Sebastien Pocognoli ha bisogno di una vittoria di prestigio per cambiare la narrazione attorno alla sua squadra rinnovata",
+      "url": "https://www.dailymail.com/sport/football/article-16294523/Scotland-boss-Sebastien-Pocognoli-needs-statement-win-change-narrative-new-look-side.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Sebbene la gestione di Sebastien Pocognoli non sia ancora decollata, non è il primo CT della Scozia a scoprire che la battaglia per conquistare tifosi e critica può essere lunga e laboriosa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T18:37:25+00:00"
+    },
+    {
+      "id": "390e74f23f",
+      "titolo": "La squadra di Sonia Bompastor mostra i denti: il Chelsea affonda le campionesse in carica e si riprende il primo posto nella lotta per il titolo della WSL: Chelsea 1-0 Man City",
+      "url": "https://www.dailymail.com/sport/football/article-16290255/wsl-sonia-bompastor-chelsea-man-city-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Chelsea ha ottenuto una vittoria meritata per 1-0 contro il Manchester City a Stamford Bridge, superando le rivali e riconquistando la vetta della classifica della WSL.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T16:33:01+00:00"
     },
     {
       "id": "d1f9086a62",
@@ -18,7 +72,16 @@
       "estratto": "La profondità della caduta di questi club renderebbe comprensibile se i biglietti per una partita tra i due recassero un avvertimento sulle curve quando si lascia New Douglas Park.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-15T13:50:00+00:00"
+      "pubblicato": "2026-11-15T15:25:48+00:00"
+    },
+    {
+      "id": "f4f17e1baa",
+      "titolo": "Jarrad Branthwaite escluso dalla nazionale inglese per la sfida decisiva di Nations League contro la Spagna: James Hill e Dan Burn superano il difensore nelle gerarchie di Thomas Tuchel",
+      "url": "https://www.dailymail.com/sport/football/article-16294353/Jarrad-Branthwaite-England-squad-Nations-League-decider-Spain-James-Hill-Dan-Burn-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'esclusione del difensore centrale dell'Everton significa che due rivali non presenti nella rosa originaria ma aggiunti la scorsa settimana, Dan Burn e James Hill, sono ora apparentemente davanti a lui nelle gerarchie.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T15:07:06+00:00"
     },
     {
       "id": "2b937e9544",
@@ -120,15 +183,6 @@
       "pubblicato": "2026-11-14T21:42:00+00:00"
     },
     {
-      "id": "390e74f23f",
-      "titolo": "La squadra di Sonia Bompastor mostra i denti: il Chelsea affonda le campionesse in carica e si riprende il primo posto nella lotta per il titolo della WSL: Chelsea 1-0 Man City",
-      "url": "https://www.dailymail.com/sport/football/article-16290255/wsl-sonia-bompastor-chelsea-man-city-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Chelsea ha ottenuto una vittoria meritata per 1-0 contro il Manchester City a Stamford Bridge, superando le rivali e riconquistando la vetta della classifica della WSL.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-14T18:50:10+00:00"
-    },
-    {
       "id": "6a563112c7",
       "titolo": "Tanta velocità e potenziale, non abbastanza impatto positivo... la Scozia non deve forse ridefinire ora il ruolo di Ben Gannon-Doak?",
       "url": "https://www.dailymail.com/sport/football/article-16292463/So-pace-potential-not-positive-impact-surely-Scotland-redefine-role-Ben-Gannon-Doak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -138,15 +192,6 @@
       "pubblicato": "2026-11-14T18:14:14+00:00"
     },
     {
-      "id": "712f9d09c5",
-      "titolo": "Zhegrova non punge, il Kosovo pareggia contro Israele: cosa cambia in Nations League",
-      "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/11/14-152589510/zhegrova_non_punge_il_kosovo_pareggia_contro_israele_cosa_cambia_in_nations_league/",
-      "estratto": "Gli uomini di Foda raccolgono un altro punto dopo l'1-1 interno con l'Austria",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-14T15:55:01+00:00"
-    },
-    {
       "id": "eaaaacb069",
       "titolo": "L'ex attaccante dei Rangers Peter van Vossen su QUELL'errore nell'Old Firm di 30 anni fa... 'Non stavo prestando attenzione e la palla mi ha colpito lo stinco, ma do ancora la colpa a Jorg Albertz!'",
       "url": "https://www.dailymail.com/sport/football/article-16291245/Former-Rangers-striker-Peter-van-Vossen-Old-Firm-miss-30-years-ago-today-wasnt-paying-attention-ball-hit-shin-blame-Jorg-Albertz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -154,15 +199,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-14T14:44:55+00:00"
-    },
-    {
-      "id": "3d0685e718",
-      "titolo": "Italia, poker all'Armenia: Salvai gol e infortunio, Ghiotto capitano. Prossima sfida alla Francia",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/14-152586979/italia_poker_all_armenia_salvai_gol_e_infortunio_ghiotto_capitano_prossima_sfida_alla_francia/",
-      "estratto": "L'Under 17 allenata da Pasqual travolge i padroni di casa e si prende la vetta del girone in attesa dell'ultima gara",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-14T14:27:57+00:00"
     },
     {
       "id": "a1d28fc690",
@@ -334,15 +370,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-12T22:13:33+00:00"
-    },
-    {
-      "id": "84a8fed668",
-      "titolo": "La EFL chiede ai club di fermare il \"trash-talking\" mirato sui social media tra i timori per danni reputazionali sulla scia della vicenda dello \"Spygate\"",
-      "url": "https://www.dailymail.com/sport/football/article-16287159/EFL-asks-clubs-stop-targeted-banter-social-media-amid-fears-reputational-damage-wake-Spygate-fallout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La lettera ha espresso preoccupazione per una \"crescente tendenza di post che utilizzano dispute, questioni disciplinari, presunti illeciti o club rivali come materiale per 'sfottò' pubblici\".",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-12T16:40:49+00:00"
     }
   ]
 }
