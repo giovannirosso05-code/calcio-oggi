@@ -1,15 +1,87 @@
 {
-  "aggiornato": "2026-11-15T20:30:24.880670+00:00",
-  "totale": 41,
+  "aggiornato": "2026-11-16T00:18:13.235097+00:00",
+  "totale": 43,
   "articoli": [
     {
-      "id": "503b5b7804",
-      "titolo": "Percorso quasi perfetto e promozione in Nations League: così Maran si è preso l'Albania",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/percorso-perfetto-promozione-nations-league-maran-preso-albania-2294236",
-      "estratto": "Con il successo ottenuto oggi per 0-2 in trasferta sul campo della Bielorussia, l'Albania ha certificato la sua promozione nella Lega B di Nations League.",
+      "id": "ccff01c148",
+      "titolo": "Belgio ai quarti, Albania e Montenegro salgono in Lega B: i risultati di Nations League",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/belgio-quarti-albania-montenegro-salgono-lega-b-risultati-nations-league-2294299",
+      "estratto": "Nella domenica di Nations League, emozioni a non finire e qualche colpo di scena nei gironi coinvolti.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-11-15T20:19:01+00:00"
+      "pubblicato": "2026-11-15T23:56:57+00:00"
+    },
+    {
+      "id": "e2c9d15719",
+      "titolo": "Spagna \"sopraffatta\" da un'Inghilterra \"eccezionale\": sappiamo anche perdere",
+      "url": "https://www.espn.com/soccer/story/_/id/50495394/spain-overwhelmed-england-43-game-streak-ends",
+      "estratto": "Il commissario tecnico Luis de la Fuente ha dichiarato che la Spagna è stata \"sopraffatta\" nelle prime fasi della sconfitta per 3-2 di domenica in UEFA Nations League contro l'Inghilterra, ma ha sostenuto che la sua squadra tornerà più forte dopo ave",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-15T23:51:49+00:00"
+    },
+    {
+      "id": "0fa8ba8bc3",
+      "titolo": "Andy Burnham invita alla cautela riguardo ai possibili passi per abolire il \"blackout\" delle 15:00 in Premier League",
+      "url": "https://www.espn.com/soccer/story/_/id/50495398/andy-burnham-urges-caution-potential-moves-scrap-premier-league-3pm-blackout",
+      "estratto": "Il Primo Ministro Andy Burnham afferma che \"inviterebbe alla cautela\" riguardo all'abolizione del blackout del sabato alle 15:00.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T23:51:15+00:00"
+    },
+    {
+      "id": "40d2bf7ce8",
+      "titolo": "L'Inghilterra offre uno spettacolo grandioso: i Tre Leoni strappano l'imbencibilità ai campioni del mondo della Spagna e danno a Thomas Tuchel la prova che il suo lavoro di tecnico STA funzionando, scrive Oliver Holt",
+      "url": "https://www.dailymail.com/sport/football/article-16290271/England-deliver-spectacular-Three-Lions-men-strip-world-champions-Spain-invincibility-Thomas-Tuchel-proof-coaching-working-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "SPAGNA-INGHILTERRA 2-3 - OLIVER HOLT A MADRID: Thomas Tuchel aveva detto di volere delle prove. Aveva bisogno di credere che il suo lavoro da allenatore stesse funzionando.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T23:18:29+00:00"
+    },
+    {
+      "id": "19e10b8281",
+      "titolo": "La \"miglior notte\" di Thomas Tuchel come commissario tecnico dell'Inghilterra: il ct dei Tre Leoni esalta i suoi eroi dopo la vittoria sulla Spagna, ma attacca la decisione su Elliot Anderson presa da un arbitro che in passato aveva definito \"da uno su dieci\"",
+      "url": "https://www.dailymail.com/sport/football/article-16295093/Thomas-Tuchels-best-night-England-manager-Three-Lions-boss-hails-heroes-Spain-victory-hits-Elliot-Anderson-decision-referee-previously-labelled-one-10.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "OLIVER HOLT A MADRID: L'Inghilterra ha espresso il miglior calcio dei due anni di regno di Tuchel come c.t., ponendo fine alla striscia record mondiale della Spagna di 43 partite senza sconfitte.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T23:11:31+00:00"
+    },
+    {
+      "id": "f4f17e1baa",
+      "titolo": "Jarrad Branthwaite escluso dalla nazionale inglese per la sfida decisiva di Nations League contro la Spagna: James Hill e Dan Burn superano il difensore nelle gerarchie di Thomas Tuchel",
+      "url": "https://www.dailymail.com/sport/football/article-16294353/Jarrad-Branthwaite-England-squad-Nations-League-decider-Spain-James-Hill-Dan-Burn-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'esclusione del difensore centrale dell'Everton significa che due rivali non presenti nella rosa originaria ma aggiunti la scorsa settimana, Dan Burn e James Hill, sono ora apparentemente davanti a lui nelle gerarchie.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T23:02:57+00:00"
+    },
+    {
+      "id": "d0bf9a65a0",
+      "titolo": "Il c.t. della Scozia Sebastien Pocognoli ammette che la sua rinnovata squadra deve ottenere risultati prima possibile",
+      "url": "https://www.dailymail.com/sport/football/article-16294859/Scotland-boss-Sebastien-Pocognoli-admits-newlook-team-need-deliver-sooner-later.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Sebastien Pocognoli ha ammesso di non avere 18 mesi di tempo per dimostrare che la Scozia è sulla strada giusta sotto la sua guida.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T22:30:50+00:00"
+    },
+    {
+      "id": "f4e509514a",
+      "titolo": "L'attaccante Che Adams dice che il c.t. della Scozia Sebastien Pocognoli cura molto i piccoli dettagli... \"adora le sue videochiamate FaceTime\"",
+      "url": "https://www.dailymail.com/sport/football/article-16294543/Striker-Che-Adams-says-Scotland-boss-Sebastien-Pocognoli-big-small-details-loves-FaceTime-calls.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Indipendentemente da come la storia giudicherà il suo periodo alla guida della Scozia, nessuno potrà mai accusare Sebastien Pocognoli di aver tralasciato alcun dettaglio.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T22:30:46+00:00"
+    },
+    {
+      "id": "b82ca1d5f8",
+      "titolo": "Ronaldinho torna in campo a 46 anni: la leggenda del Brasile gioca l'intero primo tempo per una squadra di Serie C italiana e lascia intendere che potrebbe rigiocare nonostante le critiche di \"operazione di marketing\"",
+      "url": "https://www.dailymail.com/sport/football/article-16294611/Ronaldinho-return-Brazil-legend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dopo aver goduto della pensione per 11 anni, ha scioccato il calcio mondiale accettando un sorprendente trasferimento al Ravenna, club di Serie C, dove avrebbe assunto anche un ruolo di marketing.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-15T20:52:31+00:00"
     },
     {
       "id": "48acbfa332",
@@ -39,15 +111,6 @@
       "pubblicato": "2026-11-15T19:00:03+00:00"
     },
     {
-      "id": "c754a9df58",
-      "titolo": "Krstovic trascina il Montenegro, ma Adzic va ko. Hysaj-gol, la Finlandia ne fa 7: Pohjanpalo show",
-      "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/11/15-152618462/krstovic_trascina_il_montenegro_ma_adzic_va_ko_hysaj-gol_la_finlandia_ne_fa_7_pohjanpalo_show/",
-      "estratto": "Doppietta dell'atalantino nel 4-1 a Cipro, l'Albania si impone 2-0 in Bielorussia. Gli scandinavi travolgono San Marino, 0-0 tra Lettonia e Armenia",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-15T18:57:12+00:00"
-    },
-    {
       "id": "a2f8c8a612",
       "titolo": "Il commissario tecnico della Scozia Sebastien Pocognoli ha bisogno di una vittoria di prestigio per cambiare la narrazione attorno alla sua squadra rinnovata",
       "url": "https://www.dailymail.com/sport/football/article-16294523/Scotland-boss-Sebastien-Pocognoli-needs-statement-win-change-narrative-new-look-side.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -73,15 +136,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-15T15:25:48+00:00"
-    },
-    {
-      "id": "f4f17e1baa",
-      "titolo": "Jarrad Branthwaite escluso dalla nazionale inglese per la sfida decisiva di Nations League contro la Spagna: James Hill e Dan Burn superano il difensore nelle gerarchie di Thomas Tuchel",
-      "url": "https://www.dailymail.com/sport/football/article-16294353/Jarrad-Branthwaite-England-squad-Nations-League-decider-Spain-James-Hill-Dan-Burn-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'esclusione del difensore centrale dell'Everton significa che due rivali non presenti nella rosa originaria ma aggiunti la scorsa settimana, Dan Burn e James Hill, sono ora apparentemente davanti a lui nelle gerarchie.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-15T15:07:06+00:00"
     },
     {
       "id": "2b937e9544",
@@ -334,42 +388,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-13T10:21:30+00:00"
-    },
-    {
-      "id": "a9c4853e9f",
-      "titolo": "Jack Grealish fa pubbliche scuse dopo il ritorno in campo con l'Everton in un'amichevole",
-      "url": "https://www.espn.com/soccer/story/_/id/50465734/jack-grealish-public-apology-everton-comeback",
-      "estratto": "Jack Grealish ha rivolto pubbliche scuse ai tifosi dell'Everton dopo essere tornato in campo in una partita a porte chiuse contro il Derby.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T00:00:29+00:00"
-    },
-    {
-      "id": "1e31cdec83",
-      "titolo": "Quando ho superato Jim Leighton, è allora che ho iniziato a stuzzicare Kenny sul battere il suo record di presenze... ANDY ROBERTSON sull'aggancio a Dalglish",
-      "url": "https://www.dailymail.com/sport/football/article-16288337/When-overtook-Jim-Leighton-started-wind-Kenny-beating-cap-tally-ANDY-ROBERTSON-going-level-Dalglish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "È una storia che esalta le virtù della lealtà e della leadership nel senso più autentico del termine.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-12T23:04:04+00:00"
-    },
-    {
-      "id": "6cfc94820d",
-      "titolo": "Archie Gray e Hayden Hackney nel radar della Scozia, mentre Sebastien Pocognoli cerca di strappare i talenti all'Inghilterra",
-      "url": "https://www.dailymail.com/sport/football/article-16288289/Archie-Gray-Hayden-Hackney-Scotlands-radar-Sebastien-Pocognoli-looks-tempt-stars-away-England.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Sebastien Pocognoli ha rivelato che la Scozia sta intensificando gli sforzi per convincere i giocatori eleggibili per l'Inghilterra a indossare la maglia dei Dark Blue.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-12T22:53:28+00:00"
-    },
-    {
-      "id": "c126430e47",
-      "titolo": "Jack Grealish SI SCUSA dopo essere stato escluso per aver saltato l'allenamento senza permesso mentre la stella dell'Everton continua la via del recupero in una partita a porte chiuse",
-      "url": "https://www.dailymail.com/sport/football/article-16288641/Jacks-Grealish-Everton-return.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Jack Grealish ha collezionato la sua prima presenza con l'Everton da quando è stato sospeso per aver saltato l'allenamento, aiutando una squadra mista a battere il Derby 4-1 in un'amichevole a porte chiuse allo stadio Hill Dickinson.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-12T22:13:33+00:00"
     }
   ]
 }
