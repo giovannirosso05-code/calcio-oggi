@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-11-16T07:02:17.112499+00:00",
-  "totale": 42,
+  "aggiornato": "2026-11-16T17:00:31.881870+00:00",
+  "totale": 40,
   "articoli": [
+    {
+      "id": "2b937e9544",
+      "titolo": "Ashley Cole che spara per errore a uno studente, Marcus Bent a torso nudo che minaccia la polizia con una mannaia e un ex stella del Barcellona che spara in un ospedale! La fascinazione dei calciatori per le armi dopo la vicenda di Amar Dedic e del suo arco",
+      "url": "https://www.dailymail.com/sport/football/article-16271235/Footballers-fascination-weapons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'episodio di Amar Dedic con arco e frecce non è certo la prima volta che un calciatore si trova nei guai per il possesso, il porto o l'uso di un'arma.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T10:44:42+00:00"
+    },
+    {
+      "id": "40d2bf7ce8",
+      "titolo": "L'Inghilterra offre uno spettacolo grandioso: i Tre Leoni strappano l'imbencibilità ai campioni del mondo della Spagna e danno a Thomas Tuchel la prova che il suo lavoro di tecnico STA funzionando, scrive Oliver Holt",
+      "url": "https://www.dailymail.com/sport/football/article-16290271/England-deliver-spectacular-Three-Lions-men-strip-world-champions-Spain-invincibility-Thomas-Tuchel-proof-coaching-working-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "SPAGNA-INGHILTERRA 2-3 - OLIVER HOLT A MADRID: Thomas Tuchel aveva detto di volere delle prove. Aveva bisogno di credere che il suo lavoro da allenatore stesse funzionando.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T09:59:44+00:00"
+    },
     {
       "id": "19e10b8281",
       "titolo": "La \"miglior notte\" di Thomas Tuchel come commissario tecnico dell'Inghilterra: il ct dei Tre Leoni esalta i suoi eroi dopo la vittoria sulla Spagna, ma attacca la decisione su Elliot Anderson presa da un arbitro che in passato aveva definito \"da uno su dieci\"",
@@ -28,15 +46,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-15T23:51:15+00:00"
-    },
-    {
-      "id": "40d2bf7ce8",
-      "titolo": "L'Inghilterra offre uno spettacolo grandioso: i Tre Leoni strappano l'imbencibilità ai campioni del mondo della Spagna e danno a Thomas Tuchel la prova che il suo lavoro di tecnico STA funzionando, scrive Oliver Holt",
-      "url": "https://www.dailymail.com/sport/football/article-16290271/England-deliver-spectacular-Three-Lions-men-strip-world-champions-Spain-invincibility-Thomas-Tuchel-proof-coaching-working-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "SPAGNA-INGHILTERRA 2-3 - OLIVER HOLT A MADRID: Thomas Tuchel aveva detto di volere delle prove. Aveva bisogno di credere che il suo lavoro da allenatore stesse funzionando.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-15T23:18:29+00:00"
     },
     {
       "id": "f4f17e1baa",
@@ -127,15 +136,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-15T15:25:48+00:00"
-    },
-    {
-      "id": "2b937e9544",
-      "titolo": "Ashley Cole che spara per errore a uno studente, Marcus Bent a torso nudo che minaccia la polizia con una mannaia e un ex stella del Barcellona che spara in un ospedale! La fascinazione dei calciatori per le armi dopo la vicenda di Amar Dedic e del suo arco",
-      "url": "https://www.dailymail.com/sport/football/article-16271235/Footballers-fascination-weapons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'episodio di Amar Dedic con arco e frecce non è certo la prima volta che un calciatore si trova nei guai per il possesso, il porto o l'uso di un'arma.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-15T12:37:36+00:00"
     },
     {
       "id": "5ca61a81da",
@@ -361,24 +361,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-13T17:29:43+00:00"
-    },
-    {
-      "id": "56edd642b1",
-      "titolo": "I 10 migliori: Classifica dei migliori calciatori del mondo... di nuovo!",
-      "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
-      "estratto": "Chi è il miglior calciatore del mondo alla sosta per le nazionali di novembre? Ecco le ultime classifiche di ESPN.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T16:22:58+00:00"
-    },
-    {
-      "id": "24f02d40ea",
-      "titolo": "La straordinaria conferenza stampa di 68 minuti di Pat Cummins ha mirato con lucidità e durezza all'integrità di Usman Khawaja: l'Australia vive una guerra civile senza una chiara risoluzione, scrive LAWRENCE BOOTH",
-      "url": "https://www.dailymail.com/sport/football/article-16289531/Pat-Cummins-remarkable-68-minute-press-conference-took-clear-eyed-devastating-aim-Usman-Khawajas-integrity-Australia-civil-war-no-obvious-resolution-writes-LAWRENCE-BOOTH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "LAWRENCE BOOTH A PERTH: Secondo i vertici, tra chi era a conoscenza del piano non c'erano i giocatori, non è successo nulla di irregolare a Port Elizabeth e non c'è stata alcuna riunione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T10:21:30+00:00"
     }
   ]
 }
