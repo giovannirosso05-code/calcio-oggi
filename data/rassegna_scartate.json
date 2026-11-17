@@ -1,7 +1,61 @@
 {
-  "aggiornato": "2026-11-16T17:00:31.881870+00:00",
-  "totale": 40,
+  "aggiornato": "2026-11-17T00:46:27.491777+00:00",
+  "totale": 34,
   "articoli": [
+    {
+      "id": "501c3922ed",
+      "titolo": "Spingi al Max! Dowman, 16 anni, diventa il più giovane marcatore di sempre dell'Inghilterra U21: il gioiellino dell'Arsenal firma il gol vittoria all'89' contro la Francia",
+      "url": "https://www.dailymail.com/sport/football/article-16298047/Max-Dowman-England-goalscorer-Arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il teenager dell'Arsenal ha già infranto una serie infinita di record con il club e ora si sta ripetendo anche a livello internazionale, battendo un primato stabilito dalla stella della nazionale maggiore Jude Bellingham.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T23:37:18+00:00"
+    },
+    {
+      "id": "25096871f6",
+      "titolo": "L'eroe dei Mondiali del 1966 Sir Geoff Hurst sostiene la raccolta fondi del Mail per l'assistenza alla demenza dopo che sei compagni dell'Inghilterra sono stati colpiti dalla malattia",
+      "url": "https://www.dailymail.com/news/article-16296879/1966-World-Cup-hero-Sir-Geoff-Hurst-backs-Mails-dementia-carers-appeal-six-England-team-mates-developed-disease.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Sir Geoff, che ha visto sei suoi compagni di squadra dell'Inghilterra soffrire di demenza prima di spegnersi, è oggi l'unico superstite della formazione di Sir Alf Ramsey che trionfò nel 1966.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T22:59:38+00:00"
+    },
+    {
+      "id": "977c722915",
+      "titolo": "Il capitano della Scozia Andy Robertson avverte: il tempo sta per scadere per gli uomini di Pocognoli dopo la disastrosa prestazione a San Gallo",
+      "url": "https://www.dailymail.com/sport/football/article-16297967/Scotland-skipper-Andy-Robertson-insists-time-running-Pocognolis-men-horror-St-Gallen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Andy Robertson ha ammesso che la Scozia non ha tempo per rimettere le cose a posto sotto la guida di Sébastien Pocognoli, dopo la pesante lezione subita dalla Svizzera nella notte della sua presenza record numero 103 con la fascia di capitano.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T22:41:17+00:00"
+    },
+    {
+      "id": "d7fb7470b7",
+      "titolo": "Max Dowman, 16 anni, diventa il più giovane marcatore della storia dell'Inghilterra U21 con il gol decisivo contro la Francia",
+      "url": "https://www.espn.com/soccer/story/_/id/50504941/max-dowman-england-21",
+      "estratto": "Il gioiello dell'Arsenal Max Dowman è diventato il più giovane marcatore di sempre dell'Inghilterra Under 21 firmando nel finale il gol del definitivo 3-2 sulla Francia ad Ashton Gate.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T22:18:26+00:00"
+    },
+    {
+      "id": "eba61300b4",
+      "titolo": "Thomas Tuchel abbraccia finalmente i tradizionali valori inglesi: la chiarezza ha aiutato l'Inghilterra a capire chi è, e ora può battere i migliori, scrive CRAIG HOPE",
+      "url": "https://www.dailymail.com/sport/football/article-16297839/Thomas-Tuchel-traditional-English-values.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "CRAIG HOPE: A Thomas Tuchel è sempre piaciuto ciò che vede dai suoi calciatori dell'Inghilterra sui campi d'allenamento. Meno, a volte, dentro lo stadio: e ora ha deciso di correre ai ripari.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T21:57:09+00:00"
+    },
+    {
+      "id": "edc1ebc795",
+      "titolo": "Il Montenegro batte Cipro e Vucinic impazzisce: prende il megafono e corre verso i tifosi",
+      "url": "https://www.corrieredellosport.it/news/calcio/uefa-nations-league/2026/11/16-152638330/il_montenegro_batte_cipro_e_vucinic_impazzisce_prende_il_megafono_e_corre_verso_i_tifosi/",
+      "estratto": "Vittoria contro Cipro per la nazionale montenegrina, trascinata anche dall'atalantino Krstovic: dopo il fischio finale, scatenato l'ex attaccante di Juve e Roma",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T17:26:12+00:00"
+    },
     {
       "id": "2b937e9544",
       "titolo": "Ashley Cole che spara per errore a uno studente, Marcus Bent a torso nudo che minaccia la polizia con una mannaia e un ex stella del Barcellona che spara in un ospedale! La fascinazione dei calciatori per le armi dopo la vicenda di Amar Dedic e del suo arco",
@@ -253,114 +307,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-14T10:14:42+00:00"
-    },
-    {
-      "id": "be1c78c83a",
-      "titolo": "Svelata la squadra della stagione della Premier League finora: presenti Erling Haaland, TRE giocatori del Chelsea e una sorpresa dal Sunderland",
-      "url": "https://www.dailymail.com/sport/football/article-16277835/Named-Premier-League-team-season-far-Brightons-star-man-THREE-Chelsea-players-surprise-addition-Sunderland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La temuta sosta per le nazionali è tornata, fortunatamente questa volta solo per due settimane, ma ciononostante le prossime due settimane saranno difficili da affrontare per i tifosi della Premier League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-14T09:56:28+00:00"
-    },
-    {
-      "id": "a6140faa2e",
-      "titolo": "C'è molto da lavorare ma Pocognoli crede fermamente che la Scozia sia sulla strada giusta sotto la sua guida",
-      "url": "https://www.dailymail.com/sport/football/article-16291671/Lots-work-Pocognoli-firmly-believes-Scotland-right-track-stewardship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il c.t. della Scozia Sebastien Pocognoli ha ammesso che la sua squadra è stata tutt'altro che perfetta nella vittoria di Nations League contro la Macedonia del Nord",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-14T00:02:39+00:00"
-    },
-    {
-      "id": "cfa755281c",
-      "titolo": "Moreno: Pochettino aveva 'un piede fuori dalla porta' prima della Coppa del Mondo",
-      "url": "https://www.espn.com/video/clip/_/id/50475260/pochettino-had-one-foot-door-world-cup",
-      "estratto": "Moreno: Pochettino aveva 'un piede fuori dalla porta' prima della Coppa del Mondo",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T23:58:35+00:00"
-    },
-    {
-      "id": "cf1a143f34",
-      "titolo": "La grande serata di Andy sarebbe dovuta essere molto più semplice, ma questo non conterà quando rifletterà sulla storia scritta ad Hampden",
-      "url": "https://www.dailymail.com/sport/football/article-16291515/Andys-big-night-straightforward-wont-matter-reflects-history-Hampden.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Se le prime 101 presenze di Andy Robertson con la Scozia gli hanno insegnato qualcosa, è che non siamo mai stati una nazione capace di semplificarsi la vita. È nel nostro DNA.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T22:24:44+00:00"
-    },
-    {
-      "id": "850830cb83",
-      "titolo": "Dentro il Boreham Wood, l'unica squadra imbattuta nei primi sette livelli del calcio inglese: il tecnico LUKE GARRARD spiega come la delusione nei playoff e un proprietario \"geniale\" stiano alimentando la corsa alla promozione della sua squadra spavalda",
-      "url": "https://www.dailymail.com/sport/football/article-16280691/Boreham-Wood-Luke-Garrard-national-league-promotion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Tra i 252 club dei primi sette livelli del calcio inglese, l'ultimo a essere imbattuto si trova a Meadow Park, a pochi metri dagli studios dove furono girate le avventure di Indiana Jones.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T22:17:23+00:00"
-    },
-    {
-      "id": "4a70037951",
-      "titolo": "SCOZIA 2 MACEDACIA DEL NORD 1: John McGinn fa una doppietta ed evita una brutta figura alla traballante Scozia di Pocognoli nella grande serata del capitano Robertson",
-      "url": "https://www.dailymail.com/sport/football/article-16291417/SCOTLAND-NORTH-MACEDONIA-John-McGinn-double-Pocognolis-shaky-Scots-skipper-andy-Robertson-hampden.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Nella notte in cui la nazione si è voltata indietro a celebrare il passato, il presente e il futuro della Scozia sono apparsi decisamente incerti.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T22:11:58+00:00"
-    },
-    {
-      "id": "f6267c8815",
-      "titolo": "Il nuovo piano d'attacco dell'Inghilterra: Thomas Tuchel ha cambiato stile dai Mondiali, ma la laboriosa vittoria sulla Croazia ha mostrato problemi di crescita - la Spagna la metterà a dura prova, scrive JACK GAUGHAN",
-      "url": "https://www.dailymail.com/sport/football/article-16289515/England-Croatia-Nations-League-Tuchel-tactics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JACK GAUGHAN: Il mese scorso Harry Kane e Thomas hanno avuto conversazioni franche sulle conseguenze dei Mondiali. L'allenatore rispetta e apprezza l'opinione del suo capitano su queste cose.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T21:17:06+00:00"
-    },
-    {
-      "id": "b209034ccc",
-      "titolo": "L'Egitto esonera il proprio commissario tecnico per 'impatto negativo sull'immagine della squadra' dopo essere svenuto mentre scoppiava una rissa tra le sue DUE mogli a suon di pugni e strattoni di capelli in un bar",
-      "url": "https://www.dailymail.com/sport/football/article-16290573/Egypt-sack-manager-negative-image-fainted-fight-TWO-wives-punches-hair-pulling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "El-Gharbawy e Mustafa sono state riprese in un video mentre discutevano con Hassan in mezzo per cercare di placare la tensione, ma le due sono arrivate alle mani, volando pugni e tirando i capelli mentre le urla riempivano l'aria.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T18:48:43+00:00"
-    },
-    {
-      "id": "67d6c1398f",
-      "titolo": "L'ex stella dell'Inghilterra Dele Alli vicina a una maxi entrata da 8,3 milioni di sterline dopo la vendita della sua azienda di diritti d'immagine",
-      "url": "https://www.dailymail.com/sport/football/article-16290001/Former-England-star-Dele-Alli-line-huge-8-3m-payday-selling-image-rights-company.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'ex stella del Tottenham Dele Alli si avvia verso una maxi entrata di 7,6 milioni di sterline mentre pianifica di chiudere la sua società di diritti d'immagine, la Dele Alli Promotions.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T18:07:58+00:00"
-    },
-    {
-      "id": "f221f6e14a",
-      "titolo": "Boston è stata una bella storia d'amore estiva, ma fermiamoci qui. Parlare di riportare lì la Tartan Army ogni due anni è semplicemente imbarazzante",
-      "url": "https://www.dailymail.com/sport/football/article-16290701/Boston-Scotland-Tartan-Army-reunion-cringeworthy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Boston è stata la più bella delle brevi storie d'amore estive. Un momento indimenticabile nel tempo. Ma lasciamo le cose come stanno, no?",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T18:03:29+00:00"
-    },
-    {
-      "id": "164a199888",
-      "titolo": "Se gli arbitri spagnoli possono parlare, possono farlo anche i nostri... tocca a te, Willie",
-      "url": "https://www.dailymail.com/sport/football/article-16290913/Referees-Willie-Collum-Spain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dall'inizio del mese in Spagna gli arbitri hanno iniziato a rendersi disponibili per interviste dopo le partite per spiegare le decisioni e migliorare la trasparenza.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T17:46:54+00:00"
-    },
-    {
-      "id": "1e8c1511d0",
-      "titolo": "Ex rivali dell'Old Firm rivelano come i club camminassero sul filo del rasoio tra rivalità e rispetto... e si fermassero persino a prendere un tè di consolazione nei momenti difficili!",
-      "url": "https://www.dailymail.com/sport/football/article-16290231/Former-Old-Firm-rivals-reveal-clubs-walked-fine-line-rivalry-respect-stopped-tea-sympathy-times-trouble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Hanno raggiunto un'età in cui un tempo sarebbero stati classificati come infermi. Eppure nell'autunno del 2026 scorrazzano per Toryglen con un vigore quasi adolescenziale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-13T17:29:43+00:00"
     }
   ]
 }
