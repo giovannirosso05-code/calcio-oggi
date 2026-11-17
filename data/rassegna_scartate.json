@@ -1,16 +1,7 @@
 {
-  "aggiornato": "2026-11-17T00:46:27.491777+00:00",
-  "totale": 34,
+  "aggiornato": "2026-11-17T08:32:46.398095+00:00",
+  "totale": 37,
   "articoli": [
-    {
-      "id": "501c3922ed",
-      "titolo": "Spingi al Max! Dowman, 16 anni, diventa il più giovane marcatore di sempre dell'Inghilterra U21: il gioiellino dell'Arsenal firma il gol vittoria all'89' contro la Francia",
-      "url": "https://www.dailymail.com/sport/football/article-16298047/Max-Dowman-England-goalscorer-Arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il teenager dell'Arsenal ha già infranto una serie infinita di record con il club e ora si sta ripetendo anche a livello internazionale, battendo un primato stabilito dalla stella della nazionale maggiore Jude Bellingham.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-16T23:37:18+00:00"
-    },
     {
       "id": "25096871f6",
       "titolo": "L'eroe dei Mondiali del 1966 Sir Geoff Hurst sostiene la raccolta fondi del Mail per l'assistenza alla demenza dopo che sei compagni dell'Inghilterra sono stati colpiti dalla malattia",
@@ -48,6 +39,15 @@
       "pubblicato": "2026-11-16T21:57:09+00:00"
     },
     {
+      "id": "aafde98ea5",
+      "titolo": "Pochettino rivela: alcuni membri del suo staff sono già volati a Manchester",
+      "url": "https://www.espn.com/video/clip/_/id/50503056/pochettino-reveals-some-coaching-staff-already-flown-manchester",
+      "estratto": "Pochettino rivela che alcuni membri del suo staff sono già volati a Manchester",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T18:19:31+00:00"
+    },
+    {
       "id": "edc1ebc795",
       "titolo": "Il Montenegro batte Cipro e Vucinic impazzisce: prende il megafono e corre verso i tifosi",
       "url": "https://www.corrieredellosport.it/news/calcio/uefa-nations-league/2026/11/16-152638330/il_montenegro_batte_cipro_e_vucinic_impazzisce_prende_il_megafono_e_corre_verso_i_tifosi/",
@@ -55,6 +55,33 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "pubblicato": "2026-11-16T17:26:12+00:00"
+    },
+    {
+      "id": "b0e59427b6",
+      "titolo": "Il Crystal Palace nomina Thomas Frank nuovo allenatore",
+      "url": "https://www.espn.com/soccer/story/_/id/50462553/thomas-frank-appointed-new-crystal-palace-manager",
+      "estratto": "Il Crystal Palace ha nominato Thomas Frank come nuovo manager dopo l'esonero di Pierre Sage.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-16T17:09:23+00:00"
+    },
+    {
+      "id": "eee26b371c",
+      "titolo": "Nike sostituisce Adidas come fornitore dei palloni UEFA: nuovo look per la Champions League",
+      "url": "https://www.espn.com/soccer/story/_/id/50500348/nike-adidas-uefa-ball-champions-league",
+      "estratto": "Il pallone della Champions League avrà un nuovo look nella prossima stagione, dopo che Nike ha sostituito Adidas come fornitore ufficiale della UEFA.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-16T14:27:01+00:00"
+    },
+    {
+      "id": "db9e820b1c",
+      "titolo": "Nike subentra ad Adidas: l'iconico pallone a stelle della UEFA Champions League è al capolinea?",
+      "url": "https://www.espn.com/soccer/story/_/id/49730333/uefa-champions-league-adidas-nike-ball",
+      "estratto": "Nike sostituirà Adidas come fornitore dei palloni da gara della UEFA Champions League a partire dalla prossima stagione. Il celebre design del \"pallone a stelle\" andrà presto in pensione?",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-16T12:56:02+00:00"
     },
     {
       "id": "2b937e9544",
