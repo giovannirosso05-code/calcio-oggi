@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-11-18T07:57:19.959886+00:00",
+  "aggiornato": "2026-11-18T17:02:12.227587+00:00",
   "totale": 32,
   "articoli": [
+    {
+      "id": "56f528d834",
+      "titolo": "Agnelli, nuovo investimento nello sport con Chiellini: 20 milioni sul piatto, di cosa si tratta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152667324/agnelli_nuovo_investimento_nello_sport_con_chiellini_20_milioni_sul_piatto_di_cosa_si_tratta/",
+      "estratto": "L'ex presidente bianconero e il dirigente della Vecchia Signora hanno guidato un importante finanziamento. Tra gli investitori tante stelle dello sport",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-18T11:02:57+00:00"
+    },
+    {
+      "id": "f652f44301",
+      "titolo": "Cabal e Lucumi nel muro Colombia, Nico Paz e Mastantuono show: le amichevoli sudamericane",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152665608/cabal_e_lucumi_nel_muro_colombia_nico_paz_e_mastantuono_show_le_amichevoli_sudamericane/",
+      "estratto": "I due difensori della Juve in campo con i Cafeteros, il gioiello del Como fa brillare la propria stella dopo l'addio di Messi",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-18T09:38:06+00:00"
+    },
+    {
+      "id": "db9e820b1c",
+      "titolo": "Nike subentra ad Adidas: l'iconico pallone a stelle della UEFA Champions League è al capolinea?",
+      "url": "https://www.espn.com/soccer/story/_/id/49730333/uefa-champions-league-adidas-nike-ball",
+      "estratto": "Nike sostituirà Adidas come fornitore dei palloni da gara della UEFA Champions League a partire dalla prossima stagione. Il celebre design del \"pallone a stelle\" andrà presto in pensione?",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-18T09:04:01+00:00"
+    },
     {
       "id": "8bd0a17f5c",
       "titolo": "\"Ci sentivamo come contadini medievali contro un re\": i retroscena della battaglia per liberare il Blackpool dagli Oyston, tra mandarini nascosti negli slip e una GTI arancione brillante, e perché le accuse di \"insider trading\" indicano che il club non è ancora fuori pericolo",
@@ -147,15 +174,6 @@
       "pubblicato": "2026-11-16T14:27:01+00:00"
     },
     {
-      "id": "db9e820b1c",
-      "titolo": "Nike subentra ad Adidas: l'iconico pallone a stelle della UEFA Champions League è al capolinea?",
-      "url": "https://www.espn.com/soccer/story/_/id/49730333/uefa-champions-league-adidas-nike-ball",
-      "estratto": "Nike sostituirà Adidas come fornitore dei palloni da gara della UEFA Champions League a partire dalla prossima stagione. Il celebre design del \"pallone a stelle\" andrà presto in pensione?",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-11-16T12:56:02+00:00"
-    },
-    {
       "id": "2b937e9544",
       "titolo": "Ashley Cole che spara per errore a uno studente, Marcus Bent a torso nudo che minaccia la polizia con una mannaia e un ex stella del Barcellona che spara in un ospedale! La fascinazione dei calciatori per le armi dopo la vicenda di Amar Dedic e del suo arco",
       "url": "https://www.dailymail.com/sport/football/article-16271235/Footballers-fascination-weapons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -271,24 +289,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-15T18:37:25+00:00"
-    },
-    {
-      "id": "390e74f23f",
-      "titolo": "La squadra di Sonia Bompastor mostra i denti: il Chelsea affonda le campionesse in carica e si riprende il primo posto nella lotta per il titolo della WSL: Chelsea 1-0 Man City",
-      "url": "https://www.dailymail.com/sport/football/article-16290255/wsl-sonia-bompastor-chelsea-man-city-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Chelsea ha ottenuto una vittoria meritata per 1-0 contro il Manchester City a Stamford Bridge, superando le rivali e riconquistando la vetta della classifica della WSL.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-15T16:33:01+00:00"
-    },
-    {
-      "id": "d1f9086a62",
-      "titolo": "In viaggio: sovrastati dal County, ma gli Accies compiono piccoli passi nel lungo cammino di ritorno dall'abisso",
-      "url": "https://www.dailymail.com/sport/football/article-16294227/Accies-Ross-County-Road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La profondità della caduta di questi club renderebbe comprensibile se i biglietti per una partita tra i due recassero un avvertimento sulle curve quando si lascia New Douglas Park.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-15T15:25:48+00:00"
     }
   ]
 }
