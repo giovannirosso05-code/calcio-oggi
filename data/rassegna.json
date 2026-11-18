@@ -1,18 +1,7 @@
 {
-  "aggiornato": "2026-11-18T00:34:52.393111+00:00",
-  "totale": 117,
+  "aggiornato": "2026-11-18T07:57:20.019988+00:00",
+  "totale": 118,
   "articoli": [
-    {
-      "id": "ac01c2b0d2",
-      "titolo": "Nations League, tutti i verdetti: le otto qualificate ai quarti, promozioni, retrocessioni e playoff",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/nations-league-verdetti-qualificate-quarti-promozioni-retrocessioni-playoff-2294889",
-      "estratto": "Un un ultimo, incredibile colpo di scena si è chiusa la fase a gironi della Nations League 2026/27.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 300,
-      "pubblicato": "2026-11-17T23:38:46+00:00"
-    },
     {
       "id": "e130834bf7",
       "titolo": "Non resterai diciannovesimo per sempre! L'esonerato manager del Man United Michael Carrick appare sollevato all'idea di essere fuori dalla lotta salvezza mentre si gode il concerto dei Courteeners a Londra",
@@ -36,6 +25,18 @@
       "punteggio": 300,
       "pubblicato": "2026-11-15T14:46:50+00:00",
       "squadra": "Man City"
+    },
+    {
+      "id": "4b73ff2db3",
+      "titolo": "Mastantuono show con l'Argentina, gode anche la Fiorentina: \"Miglioro ogni giorno\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/11/18-152663260/mastantuono_show_con_l_argentina_gode_anche_la_fiorentina_miglioro_ogni_giorno/",
+      "estratto": "Il talento della Fiorentina segna una doppietta con la nazionale: \"Sto bene e credo di poter fare ancora meglio\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-11-18T07:38:00+00:00",
+      "squadra": "Argentina"
     },
     {
       "id": "8830589965",
@@ -62,27 +63,28 @@
       "squadra": "Juventus"
     },
     {
-      "id": "452dd5a181",
-      "titolo": "Gasperini ritrova due infortunati su cinque. Calafiori: \"Tornare a Roma farebbe piacere\"",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/gasperini-ritrova-infortunati-quattro-calafiori-tornare-roma-piacere-2294814",
-      "estratto": "La Roma si prepara a tornare con la mente ai propri impegni di questa stagione che sta facendo elevare le aspettative dell'ambiente attorno a Gian Piero Gasperini e ai suoi ragazzi, che stanno anche riassaporando il gusto di giocare in Champions Leag",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-17T23:42:08+00:00",
-      "squadra": "Roma"
-    },
-    {
-      "id": "2b0fc1b600",
-      "titolo": "Sala: \"Chi sostiene i due stadi fa del male ai milanesi. La Russa racconta una grande balla\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/sala-chi-sostiene-stadi-milanesi-russa-racconta-balla-2294881",
-      "estratto": "Giuseppe Sala, sindaco di Milano, è uscito nuovamente allo scoperto e ha attaccato il presidente del Senato, Ignazio La Russa.",
+      "id": "77a1c23944",
+      "titolo": "Pedro Goncalves: \"Avevo altre opportunità, ma non ho avuto mezzo dubbio sulla Fiorentina\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/pedro-goncalves-avevo-opportunita-dubbio-fiorentina-2294928",
+      "estratto": "Un talento che può far svoltare la Fiorentina.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-11-17T23:15:45+00:00"
+      "pubblicato": "2026-11-18T07:49:38+00:00",
+      "squadra": "Fiorentina"
+    },
+    {
+      "id": "a3285f53f8",
+      "titolo": "Calafiori, rimpianto Roma: \"Vorrei tornare, ci siamo lasciati male. Italia? Ripartiamo dal percorso\"",
+      "url": "https://www.tuttosport.com/news/calcio/italia/2026/11/17-152653536/calafiori_rimpianto_roma_vorrei_tornare_ci_siamo_lasciati_male_italia_ripartiamo_dal_percorso/",
+      "estratto": "Il difensore dell'Arsenal e della Nazionale premiato in Campidoglio: \"Mi sento un leader ma non sono uno che parla troppo\"",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 70,
+      "pubblicato": "2026-11-17T13:41:00+00:00",
+      "squadra": "Roma"
     },
     {
       "id": "50d8078215",
@@ -132,70 +134,70 @@
       "squadra": "Inter Milan"
     },
     {
-      "id": "44d810bf58",
-      "titolo": "Marotta: \"12 proprietà straniere in Serie A. Dove sarebbe finito il calcio italiano senza di loro?\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/marotta-12-proprieta-straniere-serie-a-finito-calcio-italiano-loro-2294875",
-      "estratto": "Nella sua intervista alla tv de Il Sole 24 Ore, il presidente dell'Inter, Giuseppe Marotta, ha parlato anche delle tante proprietà straniere in Serie A: \"Il calcio è un fenomeno di forte aggregazione: dopo la religione, credo ci sia solo lo sport che",
+      "id": "1596ba6ca7",
+      "titolo": "Pio Esposito incanta, il racconto dello scout: \"A 7 anni non poteva partecipare ai tornei FIGC\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/pio-esposito-incanta-racconto-scout-a-7-poteva-partecipare-tornei-figc-2294919",
+      "estratto": "E' certamente uno degli uomini copertina della nostra Nazionale.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-11-17T23:30:00+00:00"
+      "pubblicato": "2026-11-18T07:53:00+00:00"
     },
     {
-      "id": "52fa61baec",
-      "titolo": "Griezmann sull'addio di Ronaldo al Portogallo: “Una leggenda, sarà difficile sostituirlo”",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/griezmann-addio-ronaldo-portogallo-una-leggenda-difficile-sostituirlo-2294883",
-      "estratto": "Anni di sfide, trofei contesi e una rivalità vissuta tanto in Spagna quanto con le rispettive nazionali.",
+      "id": "8d54034ad1",
+      "titolo": "Troppi infortuni, il prof. Mariani: \"Non è molto considerato l'aspetto del recupero mentale\"",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/troppi-infortuni-prof-mariani-non-considerato-aspetto-recupero-mentale-2294918",
+      "estratto": "In Serie A sono quasi cento i giocatori infortunati e per affrontare l'argomento con un esperto, l'edizione di oggi de Il Messaggero ha intervistato il professor Pier Paolo Mariani, responsabile dell'equipe di ortopedia del ginocchio alla clinica rom",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-11-17T23:26:40+00:00"
+      "pubblicato": "2026-11-18T07:42:38+00:00"
     },
     {
-      "id": "faf2ad6d36",
-      "titolo": "Cassano su Ronaldinho: \"Il ritorno in campo una pagliacciata. Dove vai in quelle condizioni\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/cassano-ronaldinho-il-ritorno-campo-pagliacciata-condizioni-2294886",
-      "estratto": "La partita tra Ravenna e Forlì di domenica scorsa è passata alla storia per il ritorno in campo di Ronaldinho, a 46 anni.",
+      "id": "952d0de97c",
+      "titolo": "Raimondo sogna in grande: \"Sono nel posto giusto. La Nazionale? Devo crescere ancora\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/raimondo-sogna-grande-prima-salvezza-penseremo-resto-2294916",
+      "estratto": "Otto gol in campionato e il secondo posto nella classifica marcatori, condiviso con Malen, certificano la crescita di Antonio Raimondo.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-11-17T23:23:00+00:00"
+      "pubblicato": "2026-11-18T07:23:52+00:00"
     },
     {
-      "id": "b3e4426cbc",
-      "titolo": "Messico, Lira racconta il duello con Bellingham: \"Ero pronto anche a sputargli addosso\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/messico-lira-racconta-duello-bellingham-ero-pronto-sputargli-addosso-2294869",
-      "estratto": "Un duello in campo e uno scambio di maglie accompagnato da parole di grande stima al termine della partita.",
+      "id": "d8d79e62cb",
+      "titolo": "Parola di mister, Semplici: \"Ho vissuto due vite. Mi manca l'adrenalina della domenica\"",
+      "url": "https://www.tuttomercatoweb.com/parola-di-mister/spasso-mister-semplici-ho-vissuto-vite-manca-adrenalina-domenica-2292712",
+      "estratto": "Leonardo Semplici è uno di quegli allenatori che è arrivato in cima partendo dalla gavetta, quella vera.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-11-17T23:11:13+00:00"
+      "pubblicato": "2026-11-18T07:00:00+00:00"
     },
     {
-      "id": "7d21b4c257",
-      "titolo": "Il fidanzato di Wanda Nara litiga con Icardi: \"Non sono Maxi Lopez, io ti spacco la bocca\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/fidanzato-wanda-nara-litiga-icardi-non-maxi-lopez-spacco-bocca-2294861",
-      "estratto": "Recentemente è andato virale lo scontro tra Mauro Icardi e Wanda Nara.",
+      "id": "e26bab3b5d",
+      "titolo": "Binaghi punge il calcio: \"Servono riforme, ma finché si sentirà speciale non cambierà mai\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/binaghi-punge-calcio-servono-riforme-vere-finche-sentira-speciale-cambiera-mai-2294908",
+      "estratto": "Il presidente della Federazione Italiana Tennis e Padel, Angelo Binaghi, ha tracciato un parallelo tra la crescita del tennis italiano e le difficoltà del calcio, spiegando quali siano, a suo avviso, le differenze che hanno portato i due movimenti a ",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-11-17T22:59:12+00:00"
+      "pubblicato": "2026-11-18T06:53:10+00:00"
     },
     {
-      "id": "04705deb4f",
-      "titolo": "Lucas Vazquez stregato da Yamal: “Mai visto un talento del genere, sarà a lungo una star”",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/lucas-vazquez-stregato-yamal-mai-talento-genere-star-2294848",
-      "estratto": "La rivalità tra Real Madrid e Barcellona passa in secondo piano di fronte al talento di Lamine Yamal.",
-      "fonte": "TMW",
+      "id": "42c1efff47",
+      "titolo": "Lo Russo: \"Per lo stadio del Toro vogliamo fare in fretta\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/18-152659694/lo_russo_per_lo_stadio_del_toro_vogliamo_fare_in_fretta/",
+      "estratto": "Iniziato l’iter da cui dipenderà il futuro del Grande Torino: l’augurio del sindaco è che la vicenda possa arrivare al più presto alla conclusione",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-11-17T22:56:40+00:00"
+      "pubblicato": "2026-11-18T05:30:00+00:00"
     },
     {
       "id": "3ad19cc204",
@@ -254,18 +256,6 @@
       "pubblicato": "2026-11-17T14:32:27+00:00"
     },
     {
-      "id": "099043fca2",
-      "titolo": "Messi nello staff dell'Argentina, l'apertura di Scaloni: \"Ora che Samuel va via...\"",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/11/17-152652547/messi_nello_staff_dell_argentina_l_apertura_di_scaloni_ora_che_samuel_va_via_/",
-      "estratto": "Il ct dell'Albiceleste ha aperto al ritorno della Pulce, ma precisa: \"Giocherà ben oltre il 2030\"",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-17T13:03:37+00:00",
-      "squadra": "Argentina"
-    },
-    {
       "id": "582d54d33e",
       "titolo": "Scaloni apre le porte dello staff a Messi: \"Se vuole venire qui, non c’è nessun problema\"",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/sudamerica/argentina/2026/11/17-152650736/scaloni_apre_le_porte_dello_staff_a_messi_se_vuole_venire_qui_non_c_nessun_problema/",
@@ -300,15 +290,27 @@
       "pubblicato": "2026-11-16T19:24:55+00:00"
     },
     {
-      "id": "2566aa185c",
-      "titolo": "Due recuperi per Amorim e un nuovo obiettivo di mercato per il Milan: Enzo Perez nel mirino",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/recuperi-amorim-obiettivo-mercato-milan-enzo-perez-mirino-2294894",
-      "estratto": "Due buone notizie in vista della ripresa del campionato e un nome nuovo da inserire nella lista dei desideri per il mercato di gennaio.",
+      "id": "db8ebdeca9",
+      "titolo": "Isaksen e Taylor i gioielli della Lazio: a gennaio non si toccano",
+      "url": "https://www.tuttomercatoweb.com/serie-a/isaksen-taylor-gioielli-lazio-gennaio-toccano-2294860",
+      "estratto": "Ci sono giocatori che diventano importanti e altri che diventano indispensabili.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-11-17T23:45:00+00:00",
+      "pubblicato": "2026-11-18T07:45:00+00:00",
+      "squadra": "Lazio"
+    },
+    {
+      "id": "36ec020b14",
+      "titolo": "Sollievo Milan: nessuna lesione per Maignan dopo lo stop con la Francia",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/17-152654228/sollievo_milan_nessuna_lesione_per_maignan_dopo_lo_stop_con_la_francia/",
+      "estratto": "Non è grave il problema accusato dal portiere nel match di Nations League vinto dai 'Bleus' contro la Turchia: il bollettino medico del club rossonero",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-11-17T14:58:43+00:00",
       "squadra": "Milan"
     },
     {
@@ -347,29 +349,6 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "25748d2c62",
-      "titolo": "Sirene inglesi per Isaksen ma la Lazio non ci sente: si accelera sul rinnovo",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/lazio/2026/11/17-152648279/sirene_inglesi_per_isaksen_ma_la_lazio_non_ci_sente_si_accelera_sul_rinnovo/",
-      "estratto": "Il danese piace in Premier ma ha assicurato di puntare alla Champions con i biancocelesti: ci prova il Brentford, chiusura da Formello",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-11-17T07:43:39+00:00",
-      "squadra": "Lazio"
-    },
-    {
-      "id": "5652d9a1ae",
-      "titolo": "Kean non trova pace: altro infortunio e nuovi accertamenti. Il rientro è un rebus",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/kean-trova-pace-infortunio-accertamenti-rientro-rebus-2294896",
-      "estratto": "Nuova tegola per Moise Kean.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 20,
-      "pubblicato": "2026-11-17T23:53:00+00:00"
-    },
-    {
       "id": "415de35c2a",
       "titolo": "Kean ancora alle prese con l'infortunio alla tibia: il Como conferma nuovi esami medici",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/11/17-152656816/kean_ancora_alle_prese_con_l_infortunio_alla_tibia_il_como_conferma_nuovi_esami_medici/",
@@ -404,48 +383,71 @@
       "pubblicato": "2026-11-16T09:20:46+00:00"
     },
     {
-      "id": "2a8f3abcb5",
-      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 17 novembre",
-      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-17-novembre-2294888",
-      "estratto": "INTER, OCCHI SU MOSQUERA E PROVSTGAARD.",
-      "fonte": "TMW",
+      "id": "39d435d60a",
+      "titolo": "Ekhator, 18 milioni di pressione e la rinascita: Spalletti prepara il debutto da titolare",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152662945/ekhator_18_milioni_di_pressione_e_la_rinascita_spalletti_prepara_il_debutto_da_titolare/",
+      "estratto": "Con gli azzurrini due spezzoni che rafforzano l’autostima del ragazzo. La Juve curiosa di vederlo all’opera: a gennaio la decisione sul futuro",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-18T00:00:51+00:00"
+      "pubblicato": "2026-11-18T07:34:34+00:00"
     },
     {
-      "id": "3520e8f669",
-      "titolo": "No di ADL (e Manna) alla prima offerta PSV per De Bruyne, Allegri gli dà due giorni liberi",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/de-laurentiis-rifiuta-offerta-psv-de-bruyne-allegri-da-liberi-2294819",
-      "estratto": "L'ambiente del Napoli è in ebollizione e non soltanto per i risultati difficili della squadra azzurra nella prima parte di stagione.",
-      "fonte": "TMW",
+      "id": "bcebc83831",
+      "titolo": "Gasperini recupera quattro titolari per Parma: da Dybala a Koné, tutto sulle loro condizioni",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/18-152662225/gasperini_recupera_quattro_titolari_per_parma_da_dybala_a_kon_tutto_sulle_loro_condizioni/",
+      "estratto": "In infermeria resta solo Pellegrini: così il tecnico fa il pieno di leader",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-17T23:49:05+00:00"
+      "pubblicato": "2026-11-18T07:31:13+00:00",
+      "squadra": "Parma"
     },
     {
-      "id": "77b248a85b",
-      "titolo": "Operazione di marketing o no. Il ritorno di Ronaldinho in campo continua a dividere",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/operazione-marketing-no-ritorno-ronaldinho-campo-continua-dividere-2294891",
-      "estratto": "Il ritorno in campo di Ronaldinho con la maglia del Ravenna, 45’ minuti nel derby contro il Forlì domenica scorsa, continua a dividere il mondo del calcio fra chi lo considera solo un’operazione di marketing (ben riuscita visti i risultati di visibil",
+      "id": "0f60202e0e",
+      "titolo": "Paz, Mastantuono, Perrone e Troilo protagonisti nel nuovo corso. Le parole di Scaloni",
+      "url": "https://www.tuttomercatoweb.com/serie-a/tanti-giovani-italiani-protagonisti-corso-argentina-parole-scaloni-2294922",
+      "estratto": "L'Argentina rialza subito la testa dopo la sconfitta contro l'Uruguay e lo fa con una prestazione travolgente.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-17T23:34:42+00:00"
+      "pubblicato": "2026-11-18T07:27:47+00:00"
     },
     {
-      "id": "8762407674",
-      "titolo": "Il Cosenza Calcio 1914 potrebbe ripartire da Padovano come ds. La conferma di Citrigno",
-      "url": "https://www.tuttomercatoweb.com/altre-notizie/cosenza-calcio-1914-ripartire-padovano-ds-conferma-citrigno-2294884",
-      "estratto": "Comincia a prendere forma il progetto Cosenza Calcio 1914 che punta a dare alla città calabrese una nuova realtà calcistica da contrapporre a quella di proprietà di Eugenio Guarascio, sempre più in rotta con tutto l’ambiente cittadino, che nascerà af",
+      "id": "6ba51bb427",
+      "titolo": "Calcio obbligatorio a scuola e non solo. Chi pensa che Marotta voglia guidare la Figc forse sbaglia",
+      "url": "https://www.tuttomercatoweb.com/serie-a/calcio-obbligatorio-scuola-solo-pensa-marotta-voglia-guidare-figc-sbaglia-2294722",
+      "estratto": "“In passato a calcio si giocava negli oratori o per strada, ora non più.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-17T23:19:34+00:00"
+      "pubblicato": "2026-11-18T07:12:08+00:00"
+    },
+    {
+      "id": "dadf6b70a3",
+      "titolo": "Il futuro di Yildiz diventa un enigma: è tornato sul campo ma il completo recupero potrebbe slittare",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/18-152662223/il_futuro_di_yildiz_diventa_un_enigma_tornato_sul_campo_ma_il_completo_recupero_potrebbe_slittare/",
+      "estratto": "Tanti dubbi alla Continassa: adesso il rientro potrebbe arrivare nel 2027. Valutazioni continue in attesa di certezze",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-18T06:59:31+00:00"
+    },
+    {
+      "id": "aa75a1b6b0",
+      "titolo": "Il dramma nascosto di Wayne Rooney e il messaggio per le persone in difficoltà",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/dramma-nascosto-wayne-rooney-messaggio-difficolta-2294913",
+      "estratto": "Che l'ex attaccante del Manchester United e dell'Inghilterra avesse avuto problemi con l'alcol e la depressione era noto da tempo, ma ora è lui stesso a raccontare senza filtri di aver «contemplato il suicidio» proprio durante i suoi anni migliori al",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-18T06:56:30+00:00"
     },
     {
       "id": "2bfbe034b1",
@@ -604,39 +606,6 @@
       "pubblicato": "2026-11-17T07:53:09+00:00"
     },
     {
-      "id": "8a48243df8",
-      "titolo": "Euro28, il cammino dell’Italia si decide il 6 dicembre: e c’è lo spauracchio Svizzera",
-      "url": "https://www.corrieredellosport.it/news/calcio/italia/2026/11/17-152648400/euro28_il_cammino_dellitalia_si_decide_il_6_dicembre_e_c_lo_spauracchio_svizzera/",
-      "estratto": "Da teste di serie eviteremo le big, ma c'è l’incognita del calendario e le amichevoli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-17T07:49:24+00:00"
-    },
-    {
-      "id": "8c15f7bb7a",
-      "titolo": "Gattuso con il rebus Frattesi: non c’è lesione ma l’affaticamento va gestito",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/17-152648286/gattuso_con_il_rebus_frattesi_non_c_lesione_ma_laffaticamento_va_gestito/",
-      "estratto": "Per l’azzurro niente lesione, ma c’è un affaticamento. Gattuso potrebbe farlo riposare: Zaccagni a Torino",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-17T07:44:36+00:00"
-    },
-    {
-      "id": "00965705a9",
-      "titolo": "Travolti dal Belgio ma ci sono dei segnali positivi: cosa serve all’Italia di Mancini",
-      "url": "https://www.corrieredellosport.it/news/calcio/italia/2026/11/17-152648087/travolti_dal_belgio_ma_ci_sono_dei_segnali_positivi_cosa_serve_allitalia_di_mancini/",
-      "estratto": "Il ct cerca difensori centrali dietro Scalvini e Bastoni e un’ala destra titolare: Gigio,Tonali, Pio la spina dorsale. Cambiaghi e Kayode sono già certezze",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-17T07:43:52+00:00"
-    },
-    {
       "id": "f600d8f4d0",
       "titolo": "Florian Wirtz segna una doppietta (con una perla) nel 5-0 della Germania all'Olanda in UEFA Nations League... mentre l'oggetto misterioso del Liverpool riceve l'abbraccio di Jurgen Klopp dopo una prova convincente",
       "url": "https://www.dailymail.com/sport/football/article-16297911/Florian-Wirtz-scores-twice-Germany-Netherlands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -706,28 +675,52 @@
       "squadra": "Tenerife"
     },
     {
-      "id": "a3285f53f8",
-      "titolo": "Calafiori, rimpianto Roma: \"Vorrei tornare, ci siamo lasciati male. Italia? Ripartiamo dal percorso\"",
-      "url": "https://www.tuttosport.com/news/calcio/italia/2026/11/17-152653536/calafiori_rimpianto_roma_vorrei_tornare_ci_siamo_lasciati_male_italia_ripartiamo_dal_percorso/",
-      "estratto": "Il difensore dell'Arsenal e della Nazionale premiato in Campidoglio: \"Mi sento un leader ma non sono uno che parla troppo\"",
+      "id": "099043fca2",
+      "titolo": "Messi nello staff dell'Argentina, l'apertura di Scaloni: \"Ora che Samuel va via...\"",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/11/17-152652547/messi_nello_staff_dell_argentina_l_apertura_di_scaloni_ora_che_samuel_va_via_/",
+      "estratto": "Il ct dell'Albiceleste ha aperto al ritorno della Pulce, ma precisa: \"Giocherà ben oltre il 2030\"",
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-11-17T13:41:00+00:00",
-      "squadra": "Roma"
+      "punteggio": -40,
+      "pubblicato": "2026-11-17T13:03:37+00:00",
+      "squadra": "Argentina"
     },
     {
-      "id": "312298198a",
-      "titolo": "La Juve mostra i progressi di Yildiz con il pallone: \"Un passo alla volta, Kenan\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/17-152652248/la_juve_mostra_i_progressi_di_yildiz_con_il_pallone_un_passo_alla_volta_kenan/",
-      "estratto": "Cresce l'attesa per il ritorno in campo del turco. Il club bianconero ha pubblicato un video su social: i dettagli",
+      "id": "7b4d0cc2ca",
+      "titolo": "Juve, Ekhator è pronto. Il tecnico che lo lanciò nell'U18 del Genoa: \"Ha qualcosa di Osimhen\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/juve-ekhator-pronto-tecnico-lancio-u18-genoa-ha-osimhen-2294912",
+      "estratto": "Jeff Ekhator è tornato e vuole prendersi la Juventus.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -130,
+      "pubblicato": "2026-11-18T07:08:55+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "fb1f91af72",
+      "titolo": "Calafiori premiato da Gualtieri: \"Tornare alla Roma? Mi farebbe piacere\". Su Gasperini...",
+      "url": "https://www.corrieredellosport.it/news/calcio/italia/2026/11/17-152652905/calafiori_premiato_da_gualtieri_tornare_alla_roma_mi_farebbe_piacere_su_gasperini_/",
+      "estratto": "Il difensore dell'Arsenal e della Nazionale è stato omaggiato in Campidoglio per la funzione di ambasciatore della città nel Regno Unito",
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-11-17T12:44:47+00:00",
-      "squadra": "Juventus"
+      "pubblicato": "2026-11-17T13:19:16+00:00",
+      "squadra": "Roma"
+    },
+    {
+      "id": "6d62fdc1e7",
+      "titolo": "Genoa, Traoré elogia Wiafe: \"Ha voglia di lavorare e migliorare. Potrà fare grandi cose\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/genoa-traore-elogia-wiafe-ha-voglia-migliorare-do-consigli-potra-grandi-cose-2294914",
+      "estratto": "Hamed Traoré elogia Samuel Wiafe.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -160,
+      "pubblicato": "2026-11-18T07:30:00+00:00",
+      "squadra": "Genoa"
     },
     {
       "id": "33be78c6ae",
@@ -766,18 +759,6 @@
       "squadra": "Man City"
     },
     {
-      "id": "4e7ed7e2ea",
-      "titolo": "L'Inter ripensa a Mosquera e ritrova la ThuLa. Chivu avrà i suoi bomber contro l'Atalanta",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/inter-ripensa-mosquera-ritrova-thula-chivu-bomber-atalanta-2294892",
-      "estratto": "L'Inter a poco più di un mese dall'inizio del mercato di gennaio torna a pensare all'acquisto di un difensore.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-11-17T23:56:36+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
       "id": "c7630cfb59",
       "titolo": "Napoli, De Bryune torna ad allenarsi da domani: sarà a disposizione di Allegri",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/17-152656194/napoli_de_bryune_torna_ad_allenarsi_da_domani_sar_a_disposizione_di_allegri/",
@@ -790,15 +771,27 @@
       "squadra": "Napoli"
     },
     {
-      "id": "36ec020b14",
-      "titolo": "Sollievo Milan: nessuna lesione per Maignan dopo lo stop con la Francia",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/17-152654228/sollievo_milan_nessuna_lesione_per_maignan_dopo_lo_stop_con_la_francia/",
-      "estratto": "Non è grave il problema accusato dal portiere nel match di Nations League vinto dai 'Bleus' contro la Turchia: il bollettino medico del club rossonero",
-      "fonte": "Corriere dello Sport",
+      "id": "e8d53e84b3",
+      "titolo": "Lautaro Martinez in gruppo, buone notizie per Chivu e per l'Inter: primo allenamento per l'argentino",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/17-152654689/lautaro_martinez_in_gruppo_buone_notizie_per_chivu_e_per_l_inter_primo_allenamento_per_l_argentino/",
+      "estratto": "Il capitano nerazzurro si allena ad Appiano Gentile con il resto della squadra ed è recuperato per l'Atalanta",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-11-17T15:33:38+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "96165c0503",
+      "titolo": "Milan, sospiro di sollievo per Maignan: l'esito degli esami in vista del Frosinone",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/17-152653941/milan_sospiro_di_sollievo_per_maignan_l_esito_degli_esami_in_vista_del_frosinone/",
+      "estratto": "Il portiere rossonero si è sottoposto a controlli medici dopo l'infortunio rimediato in Nations League durante Francia-Turchia",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-11-17T14:58:43+00:00",
+      "pubblicato": "2026-11-17T14:18:37+00:00",
       "squadra": "Milan"
     },
     {
@@ -826,16 +819,16 @@
       "squadra": "Como"
     },
     {
-      "id": "b824e2b64d",
-      "titolo": "Robinho Jr, esordio da sogno col Brasile: doppietta con l'U20, il Genoa osserva",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/genoa/2026/11/17-152654318/robinho_jr_esordio_da_sogno_col_brasile_doppietta_con_l_u20_il_genoa_osserva/",
-      "estratto": "Il figlio d'arte segna alla prima apparazione con la selezione giovanile verdeoro nella vittoria contro il Perù",
-      "fonte": "Tuttosport",
+      "id": "3eb869b690",
+      "titolo": "Strefezza pronto a mettere le ali al Palermo, ma due mesi dopo le gerarchie non sono le stesse",
+      "url": "https://www.tuttomercatoweb.com/serie-b/strefezza-pronto-mettere-ali-palermo-gerarchie-2294895",
+      "estratto": "Il suo avvio di stagione fu sfolgorante, come del resto ci si attendeva, con due reti in cinque presenze fra Serie B e Coppa Italia (una rete ogni 90') che già facevano sognare il pubblico di Palermo che dopo l'amaro epilogo della scorsa stagione, co",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -200,
-      "pubblicato": "2026-11-17T15:10:03+00:00",
-      "squadra": "Genoa"
+      "pubblicato": "2026-11-18T07:19:08+00:00",
+      "squadra": "Palermo"
     },
     {
       "id": "501c3922ed",
@@ -850,18 +843,6 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "6635df597b",
-      "titolo": "Pressing asfissiante, inserimenti senza palla alle spalle di Kane e mentalità da 'squadra di Premier League': così la nuova Inghilterra di Thomas Tuchel ha smontato la Spagna, facendo tesoro della vigliacca ritirata contro l'Argentina",
-      "url": "https://www.dailymail.com/sport/football/article-16296139/tuchel-england-dismantle-spain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JAMES SHARPE: L'Inghilterra ha centrato una vittoria memorabile in Spagna — la migliore della gestione di Thomas Tuchel — e così facendo ha mostrato l'esatta identità di gioco che il tecnico sta imprimendo alla squadra.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-11-16T17:59:54+00:00",
-      "squadra": "Argentina"
-    },
-    {
       "id": "2c0568a9d8",
       "titolo": "Klopp rompe le righe e attacca duramente Infantino: la leggenda del Liverpool è il primo tecnico a schierarsi contro il presidente della FIFA, ritenuto PEGGIORE di Sepp Blatter, mentre sale la pressione dopo la farsa Mondiale",
       "url": "https://www.dailymail.com/sport/football/article-16296221/jurgen-klopp-gianni-infantino-fifa-germany.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -874,40 +855,40 @@
       "squadra": "Liverpool "
     },
     {
-      "id": "fb1f91af72",
-      "titolo": "Calafiori premiato da Gualtieri: \"Tornare alla Roma? Mi farebbe piacere\". Su Gasperini...",
-      "url": "https://www.corrieredellosport.it/news/calcio/italia/2026/11/17-152652905/calafiori_premiato_da_gualtieri_tornare_alla_roma_mi_farebbe_piacere_su_gasperini_/",
-      "estratto": "Il difensore dell'Arsenal e della Nazionale è stato omaggiato in Campidoglio per la funzione di ambasciatore della città nel Regno Unito",
-      "fonte": "Corriere dello Sport",
+      "id": "6635df597b",
+      "titolo": "Pressing asfissiante, inserimenti senza palla alle spalle di Kane e mentalità da 'squadra di Premier League': così la nuova Inghilterra di Thomas Tuchel ha smontato la Spagna, facendo tesoro della vigliacca ritirata contro l'Argentina",
+      "url": "https://www.dailymail.com/sport/football/article-16296139/tuchel-england-dismantle-spain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JAMES SHARPE: L'Inghilterra ha centrato una vittoria memorabile in Spagna — la migliore della gestione di Thomas Tuchel — e così facendo ha mostrato l'esatta identità di gioco che il tecnico sta imprimendo alla squadra.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-11-16T17:59:54+00:00",
+      "squadra": "Argentina"
+    },
+    {
+      "id": "2fd084204c",
+      "titolo": "\"Juve, insisti su Ekhator: velocità, profondità e farà felice Spalletti. Ecco a chi assomiglia\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152660366/juve_insisti_su_ekhator_velocit_profondit_e_far_felice_spalletti_ecco_a_chi_assomiglia/",
+      "estratto": "L'intervista ad Alessandro Agostini che lo lanciò al Genoa: dal racconto dei primi passi al consiglio per l'allenatore bianconero",
+      "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-11-17T13:19:16+00:00",
-      "squadra": "Roma"
-    },
-    {
-      "id": "a39eb64617",
-      "titolo": "Cruciatus, la maledizione Juve colpisce ancora: altro infortunio e altro crociato!",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/17-152656431/cruciatus_la_maledizione_juve_colpisce_ancora_altro_infortunio_e_altro_crociato_/",
-      "estratto": "Ennesimo brutto stop per un giocatore bianconero: i dettagli",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -350,
-      "pubblicato": "2026-11-17T17:58:26+00:00",
+      "pubblicato": "2026-11-18T06:34:52+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "c25ce3f01c",
-      "titolo": "Inter, il gioco delle coppie non torna più: Luis Henrique è di troppo e a gennaio partirà",
-      "url": "https://www.tuttomercatoweb.com/serie-a/inter-gioco-coppie-torna-piu-luis-henrique-gennaio-partira-2294879",
-      "estratto": "L'Inter pensa ai possibili rinforzi che potrebbero arrivare dal mercato di gennaio ma anche sul fronte cessioni iniziano a intensificarsi le voci su alcuni nomi di alcuni giocatori che potrebbero lasciare il club nerazzurro nel prossimo inverno.",
+      "id": "4b96a5ec83",
+      "titolo": "In Premier e Bundesliga vogliono Malen, la Roma tratta il rinnovo. Con aumento d'ingaggio",
+      "url": "https://www.tuttomercatoweb.com/serie-a/big-premier-bundesliga-vogliono-malen-roma-tratta-rinnovo-aumento-ingaggio-2294924",
+      "estratto": "I numeri di Donyell Malen con la maglia della Roma sono da impatto devastante.",
       "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-11-17T23:08:00+00:00",
-      "squadra": "Inter Milan"
+      "pubblicato": "2026-11-18T07:56:00+00:00",
+      "squadra": "Roma"
     },
     {
       "id": "a970e73a0b",
@@ -922,40 +903,52 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "96165c0503",
-      "titolo": "Milan, sospiro di sollievo per Maignan: l'esito degli esami in vista del Frosinone",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/17-152653941/milan_sospiro_di_sollievo_per_maignan_l_esito_degli_esami_in_vista_del_frosinone/",
-      "estratto": "Il portiere rossonero si è sottoposto a controlli medici dopo l'infortunio rimediato in Nations League durante Francia-Turchia",
+      "id": "0ed3fc9676",
+      "titolo": "Maignan, ansia Milan: Frosinone a rischio. Pronto l'esordio di Torriani in Serie A",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/17-152648677/maignan_ansia_milan_frosinone_a_rischio_pronto_l_esordio_di_torriani_in_serie_a/",
+      "estratto": "Il portiere è rientrato dalla nazionale dopo il problema all'anca: in giornata gli esami decisivi. Terracciano ancora fermo, Amorim aspetta",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-11-17T14:18:37+00:00",
+      "pubblicato": "2026-11-17T08:19:13+00:00",
       "squadra": "Milan"
     },
     {
-      "id": "c8e642711b",
-      "titolo": "Napoli, esterni in uscita: ci sono due nomi per sostituire Lang e Neres",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/napoli/2026/11/17-152648155/napoli_esterni_in_uscita_ci_sono_due_nomi_per_sostituire_lang_e_neres/",
-      "estratto": "Il ds azzurro Manna è in attesa che, soprattutto in Premier League, vengano scoperte le carte: i dettagli",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-11-17T07:45:00+00:00",
-      "squadra": "Napoli"
+      "id": "1742f1acfd",
+      "titolo": "Mauricio Pochettino sale su un jet privato per Manchester con la promessa che il dominio del Man City nella rivalità cittadina «sta per cambiare»... e una bizzarra dichiarazione d'amore per Country Roads!",
+      "url": "https://www.dailymail.com/sport/football/article-16301915/Mauricio-Pochettino-private-jet-Manchester-promise-Man-City-dominance-city-rivalry-bizarre-declaration-Country-Roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martedì sera, nella sua ultima intervista da commissario tecnico della nazionale degli Stati Uniti, Mauricio Pochettino ha promesso di porre fine al dominio del Man City una volta alla guida del Man United.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -400,
+      "pubblicato": "2026-11-18T07:49:40+00:00",
+      "squadra": "Man City"
     },
     {
-      "id": "cc4ed898ff",
-      "titolo": "Il Manchester City deve assolutamente invertire la rotta, i vecchi rivali Chelsea e Leeds pronti al big match di Stamford Bridge e il battesimo del fuoco di Mauricio Pochettino: SETTE motivi per cui siamo impazienti per il ritorno della Premier League",
-      "url": "https://www.dailymail.com/sport/football/article-16299831/man-city-chelsea-leeds-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dopo una sosta per le nazionali entusiasmante che ha visto l'Inghilterra conquistare una storica vittoria per 3-2 sulla Spagna, la nostra attenzione torna sulla Premier League.",
-      "fonte": "Daily Mail",
+      "id": "969da8f312",
+      "titolo": "Endrick vuole trascorrere la vita al Real Madrid. Ma anche giocare di più, le italiane sono pronte",
+      "url": "https://www.tuttomercatoweb.com/serie-a/endrick-vuole-trascorrere-real-madrid-giocare-piu-italiane-pronte-2294813",
+      "estratto": "\"Se gioco poco credo che sia una decisione di Mourinho, no? Certo, sono sempre pronto ad aiutare il Real Madrid, che è il club più grande del mondo.",
+      "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-11-17T22:05:11+00:00",
-      "squadra": "Man City"
+      "pubblicato": "2026-11-18T07:38:38+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "d93c63c3ba",
+      "titolo": "L'emergenza sul mercato che non ti aspetti: il Como per gennaio pensa a un 9",
+      "url": "https://www.tuttomercatoweb.com/podcast-tmw/emergenza-mercato-aspetti-como-gennaio-pensa-9-2294728",
+      "estratto": "Il Como ha investito circa 40 milioni di euro per acquistare Moise Kean in estate e ha recentemente rinnovato il contratto di Tasos Douvikas fino al 2031.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -400,
+      "pubblicato": "2026-11-18T06:55:59+00:00",
+      "squadra": "Como"
     },
     {
       "id": "f9c0a37732",
@@ -970,27 +963,15 @@
       "squadra": "Chelsea "
     },
     {
-      "id": "489cd5b062",
-      "titolo": "Il tormentone estivo di mercato è finalmente alle spalle per Vinícius Júnior del Real Madrid?",
-      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
-      "estratto": "Dopo un'estate di incertezze sul mercato e un avvio di stagione in sordina, Vinícius Junior è sulla via del recupero con il Real Madrid e con il Brasile.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-11-17T15:05:58+00:00",
-      "squadra": "Real Madrid"
-    },
-    {
-      "id": "a032f86a40",
-      "titolo": "È Frendrup l’unica ansia del Genoa",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/genoa/2026/11/17-152649802/frendrup_lunica_ansia_del_genoa/",
-      "estratto": "A parte il danese, tutti disponibili. E Mitaj e Osmajic in forma Nations",
+      "id": "b824e2b64d",
+      "titolo": "Robinho Jr, esordio da sogno col Brasile: doppietta con l'U20, il Genoa osserva",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/genoa/2026/11/17-152654318/robinho_jr_esordio_da_sogno_col_brasile_doppietta_con_l_u20_il_genoa_osserva/",
+      "estratto": "Il figlio d'arte segna alla prima apparazione con la selezione giovanile verdeoro nella vittoria contro il Perù",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-11-17T12:30:00+00:00",
+      "pubblicato": "2026-11-17T15:10:03+00:00",
       "squadra": "Genoa"
     },
     {
@@ -1013,44 +994,44 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -400,
+      "punteggio": -480,
       "pubblicato": "2026-11-16T14:25:24+00:00",
       "squadra": "Argentina"
     },
     {
-      "id": "9de9acb6d6",
-      "titolo": "Juve Stabia, arrivano altre conferme su Rizzetta: contatto costanti con Morrone",
-      "url": "https://www.tuttomercatoweb.com/serie-b/juve-stabia-arrivano-conferme-rizzetta-contatto-costanti-morrone-2294890",
-      "estratto": "Arrivano nuove conferme sull’interesse di Matt Rizzetta, attuale patron del Campobasso in Serie C, nei confronti della Juve Stabia.",
-      "fonte": "TMW",
+      "id": "312298198a",
+      "titolo": "La Juve mostra i progressi di Yildiz con il pallone: \"Un passo alla volta, Kenan\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/17-152652248/la_juve_mostra_i_progressi_di_yildiz_con_il_pallone_un_passo_alla_volta_kenan/",
+      "estratto": "Cresce l'attesa per il ritorno in campo del turco. Il club bianconero ha pubblicato un video su social: i dettagli",
+      "fonte": "Corriere dello Sport",
       "serie": "Estero",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-11-17T23:04:24+00:00",
+      "citazione": true,
+      "punteggio": -530,
+      "pubblicato": "2026-11-17T12:44:47+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "e8d53e84b3",
-      "titolo": "Lautaro Martinez in gruppo, buone notizie per Chivu e per l'Inter: primo allenamento per l'argentino",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/17-152654689/lautaro_martinez_in_gruppo_buone_notizie_per_chivu_e_per_l_inter_primo_allenamento_per_l_argentino/",
-      "estratto": "Il capitano nerazzurro si allena ad Appiano Gentile con il resto della squadra ed è recuperato per l'Atalanta",
-      "fonte": "Tuttosport",
+      "id": "227ae76867",
+      "titolo": "Malen nel mirino delle big, ma la Roma già studia il rinnovo: ecco l'offerta con ingaggio più alto",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/roma/2026/11/18-152662212/malen_nel_mirino_delle_big_ma_la_roma_gi_studia_il_rinnovo_ecco_l_offerta_con_ingaggio_pi_alto/",
+      "estratto": "È l’attaccante che nell’anno solare ha segnato di più nei top 5 tornei europei. Le inglesi lo seguono per l’estate",
+      "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -570,
-      "pubblicato": "2026-11-17T15:33:38+00:00",
-      "squadra": "Inter Milan"
+      "pubblicato": "2026-11-18T06:37:41+00:00",
+      "squadra": "Roma"
     },
     {
-      "id": "0ed3fc9676",
-      "titolo": "Maignan, ansia Milan: Frosinone a rischio. Pronto l'esordio di Torriani in Serie A",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/17-152648677/maignan_ansia_milan_frosinone_a_rischio_pronto_l_esordio_di_torriani_in_serie_a/",
-      "estratto": "Il portiere è rientrato dalla nazionale dopo il problema all'anca: in giornata gli esami decisivi. Terracciano ancora fermo, Amorim aspetta",
-      "fonte": "Tuttosport",
+      "id": "6ab040471e",
+      "titolo": "Il Milan piange Sani, eroe di Wembley",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/17-152648966/il_milan_piange_sani_eroe_di_wembley/",
+      "estratto": "Aveva 94 anni, campione del mondo con il brasile nel 1958: vinse la prima Coppa dei Campioni rossonera",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -570,
-      "pubblicato": "2026-11-17T08:19:13+00:00",
+      "pubblicato": "2026-11-17T08:14:19+00:00",
       "squadra": "Milan"
     },
     {
@@ -1066,28 +1047,40 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "e8fcfa95f6",
-      "titolo": "Vlasic rischia il Napoli: oggi gli esami, il Toro incrocia le dita",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/17-152648269/vlasic_rischia_il_napoli_oggi_gli_esami_il_toro_incrocia_le_dita/",
-      "estratto": "Il fantasista è tornato ieri a Torino ed è stato subito visitato dallo staff medico granata: filtra un cauto ottimismo riguardo alle sue condizioni. Il trequartista si era fermato nell’allenamento di sabato della Croazia per un fastidio alla coscia d",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-11-17T07:41:33+00:00",
-      "squadra": "Napoli"
-    },
-    {
-      "id": "0f72faa13c",
-      "titolo": "L'aria da ragazzino, la passione per i Lego e le origini contadine prima dell'addio al Man City per diventare il numero 1 dell'Inghilterra: la maturazione di James Trafford, costato 95 milioni di sterline, stella di Leeds e Three Lions",
-      "url": "https://www.dailymail.com/sport/football/article-16296111/james-trafford-england-goalkeeper-manchester-city.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "'È stato come incontrare un ragazzino a un open day sull'orientamento scolastico'. Questo il verdetto, poco lusinghiero ma comunque affettuoso, di un dirigente di Premier League dopo aver incontrato James Trafford.",
+      "id": "cc4ed898ff",
+      "titolo": "Il Manchester City deve assolutamente invertire la rotta, i vecchi rivali Chelsea e Leeds pronti al big match di Stamford Bridge e il battesimo del fuoco di Mauricio Pochettino: SETTE motivi per cui siamo impazienti per il ritorno della Premier League",
+      "url": "https://www.dailymail.com/sport/football/article-16299831/man-city-chelsea-leeds-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dopo una sosta per le nazionali entusiasmante che ha visto l'Inghilterra conquistare una storica vittoria per 3-2 sulla Spagna, la nostra attenzione torna sulla Premier League.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-11-16T21:35:25+00:00",
+      "pubblicato": "2026-11-17T22:05:11+00:00",
       "squadra": "Man City"
+    },
+    {
+      "id": "489cd5b062",
+      "titolo": "Il tormentone estivo di mercato è finalmente alle spalle per Vinícius Júnior del Real Madrid?",
+      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+      "estratto": "Dopo un'estate di incertezze sul mercato e un avvio di stagione in sordina, Vinícius Junior è sulla via del recupero con il Real Madrid e con il Brasile.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -600,
+      "pubblicato": "2026-11-17T15:05:58+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "a032f86a40",
+      "titolo": "È Frendrup l’unica ansia del Genoa",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/genoa/2026/11/17-152649802/frendrup_lunica_ansia_del_genoa/",
+      "estratto": "A parte il danese, tutti disponibili. E Mitaj e Osmajic in forma Nations",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -600,
+      "pubblicato": "2026-11-17T12:30:00+00:00",
+      "squadra": "Genoa"
     },
     {
       "id": "c0544f37ba",
@@ -1102,40 +1095,52 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "ab5fab0e5f",
-      "titolo": "Juventus e Milan alla prova della schizofrenia da mercato. In Federcalcio è tutti contro tutti, ma alla fine Abete ha comunque vinto: sarà lui a decidere",
-      "url": "https://www.tuttomercatoweb.com/editoriale/juventus-milan-prova-schizofrenia-mercato-federcalcio-tutti-abete-vinto-decidere-2294746",
-      "estratto": "Si compra! Fuori dalla Continassa e da via Aldo Rossi, c’è un cartello affisso in grande.",
-      "fonte": "TMW",
+      "id": "a39eb64617",
+      "titolo": "Cruciatus, la maledizione Juve colpisce ancora: altro infortunio e altro crociato!",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/17-152656431/cruciatus_la_maledizione_juve_colpisce_ancora_altro_infortunio_e_altro_crociato_/",
+      "estratto": "Ennesimo brutto stop per un giocatore bianconero: i dettagli",
+      "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -770,
-      "pubblicato": "2026-11-17T23:00:13+00:00",
+      "punteggio": -750,
+      "pubblicato": "2026-11-17T17:58:26+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "6ab040471e",
-      "titolo": "Il Milan piange Sani, eroe di Wembley",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/17-152648966/il_milan_piange_sani_eroe_di_wembley/",
-      "estratto": "Aveva 94 anni, campione del mondo con il brasile nel 1958: vinse la prima Coppa dei Campioni rossonera",
+      "id": "08ba1c248d",
+      "titolo": "Calafiori può davvero tornare alla Roma? Come stanno le cose, il rinnovo con l'Arsenal e tutti i retroscena",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/11/18-152662232/calafiori_pu_davvero_tornare_alla_roma_come_stanno_le_cose_il_rinnovo_con_l_arsenal_e_tutti_i_retroscena/",
+      "estratto": "Riccardo, secondo la BBC, sarebbe in trattative per il prolungamento del contratto: ecco la verità. E quel sogno, mai nascosto, che lo riporta a Trigoria",
       "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
+      "serie": "Estero",
       "citazione": false,
       "punteggio": -770,
-      "pubblicato": "2026-11-17T08:14:19+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-11-18T06:35:19+00:00",
+      "squadra": "Roma"
     },
     {
-      "id": "e774edc45a",
-      "titolo": "JJ Gabriel conferma l'addio al Manchester United mentre si avvicina il trasferimento al Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
-      "estratto": "JJ Gabriel ha confermato la sua partenza dal Manchester United con un post su Instagram e ha ringraziato il club per il ruolo avuto nella sua carriera.",
-      "fonte": "ESPN",
+      "id": "69af471ca8",
+      "titolo": "Un commosso Mauricio Pochettino riceve il perfetto tributo d'addio negli Stati Uniti... prima di imbarcarsi sul jet verso la sua nuova vita da manager del Manchester United",
+      "url": "https://www.dailymail.com/sport/football/article-16301089/Mauricio-Pochettino-US-farewell-Manchester-United-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Mauricio Pochettino ha ricevuto un perfetto congedo da commissario tecnico della nazionale maschile degli Stati Uniti a Cincinnati, dove il prossimo manager del Manchester United ha salutato il suo paese adottivo.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -800,
-      "pubblicato": "2026-11-17T21:06:50+00:00",
+      "pubblicato": "2026-11-18T05:56:33+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "0f72faa13c",
+      "titolo": "L'aria da ragazzino, la passione per i Lego e le origini contadine prima dell'addio al Man City per diventare il numero 1 dell'Inghilterra: la maturazione di James Trafford, costato 95 milioni di sterline, stella di Leeds e Three Lions",
+      "url": "https://www.dailymail.com/sport/football/article-16296111/james-trafford-england-goalkeeper-manchester-city.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "'È stato come incontrare un ragazzino a un open day sull'orientamento scolastico'. Questo il verdetto, poco lusinghiero ma comunque affettuoso, di un dirigente di Premier League dopo aver incontrato James Trafford.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -800,
+      "pubblicato": "2026-11-16T21:35:25+00:00",
+      "squadra": "Man City"
     },
     {
       "id": "10d3b4a4d9",
@@ -1150,27 +1155,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "bcdf0a01ca",
-      "titolo": "Yildiz torna in campo! Finalmente alla Continassa col pallone: il rientro Juve si avvicina",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/17-152652145/yildiz_torna_in_campo_finalmente_alla_continassa_col_pallone_il_rientro_juve_si_avvicina/",
-      "estratto": "Il 10 bianconeri lavora per recuperare dall'infortunio: una buona notizia dall'infermeria dopo lo stop di Zhegrova e gli altri dubbi di Spalletti per Venezia",
-      "fonte": "Tuttosport",
+      "id": "ab5fab0e5f",
+      "titolo": "Juventus e Milan alla prova della schizofrenia da mercato. In Federcalcio è tutti contro tutti, ma alla fine Abete ha comunque vinto: sarà lui a decidere",
+      "url": "https://www.tuttomercatoweb.com/editoriale/juventus-milan-prova-schizofrenia-mercato-federcalcio-tutti-abete-vinto-decidere-2294746",
+      "estratto": "Si compra! Fuori dalla Continassa e da via Aldo Rossi, c’è un cartello affisso in grande.",
+      "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -970,
-      "pubblicato": "2026-11-17T12:30:49+00:00",
+      "pubblicato": "2026-11-18T07:00:00+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "1be226aab0",
-      "titolo": "JJ Gabriel spiazza il Manchester United dopo aver confermato l'addio: il sedicenne pubblica un video d'addio mentre finalizza il passaggio al Real Madrid dopo aver gelato i dirigenti dell'Old Trafford con la sua decisione",
-      "url": "https://www.dailymail.com/sport/football/article-16300607/JJ-Gabriel-Man-United-exit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Si è allenato a Madrid nei giorni scorsi in vista del trasferimento al Real Madrid, e ha scelto i social media per salutare i Red Devils dopo sei anni nel club.",
+      "id": "0e3df93555",
+      "titolo": "Così le tattiche dello shock culturale di Mauricio Pochettino faranno rinascere il Man United: dagli allenamenti 'Murderball' che fanno vomitare i giocatori al consiglio a Harry Kane di dimagrire, fino al perché persino il profumo delle maglie deve essere perfetto",
+      "url": "https://www.dailymail.com/sport/football/article-16300311/mauricio-pochettino-manchester-united-culture-murderball.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "IAN LADYMAN: La battaglia di Pochettino — almeno per questa stagione — riguarderà i cuori e le menti tanto quanto qualsiasi novità rivoluzionaria che potrà introdurre sul campo d'allenamento.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1000,
-      "pubblicato": "2026-11-17T20:07:00+00:00",
+      "pubblicato": "2026-11-18T02:00:46+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1186,6 +1191,54 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "da76ab5bd2",
+      "titolo": "Alajbegovic felice e al centro del progetto: è sempre più convinto di aver scelto la Juve",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/18-152662221/alajbegovic_felice_e_al_centro_del_progetto_sempre_pi_convinto_di_aver_scelto_la_juve/",
+      "estratto": "Spalletti ci punta dopo averne accompagnato l’iniziale inserimento: il bosniaco pronto a decollare",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1170,
+      "pubblicato": "2026-11-18T06:48:16+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "e774edc45a",
+      "titolo": "JJ Gabriel conferma l'addio al Manchester United mentre si avvicina il trasferimento al Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
+      "estratto": "JJ Gabriel ha confermato la sua partenza dal Manchester United con un post su Instagram e ha ringraziato il club per il ruolo avuto nella sua carriera.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1200,
+      "pubblicato": "2026-11-17T21:06:50+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "bcdf0a01ca",
+      "titolo": "Yildiz torna in campo! Finalmente alla Continassa col pallone: il rientro Juve si avvicina",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/17-152652145/yildiz_torna_in_campo_finalmente_alla_continassa_col_pallone_il_rientro_juve_si_avvicina/",
+      "estratto": "Il 10 bianconeri lavora per recuperare dall'infortunio: una buona notizia dall'infermeria dopo lo stop di Zhegrova e gli altri dubbi di Spalletti per Venezia",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1370,
+      "pubblicato": "2026-11-17T12:30:49+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "1be226aab0",
+      "titolo": "JJ Gabriel spiazza il Manchester United dopo aver confermato l'addio: il sedicenne pubblica un video d'addio mentre finalizza il passaggio al Real Madrid dopo aver gelato i dirigenti dell'Old Trafford con la sua decisione",
+      "url": "https://www.dailymail.com/sport/football/article-16300607/JJ-Gabriel-Man-United-exit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Si è allenato a Madrid nei giorni scorsi in vista del trasferimento al Real Madrid, e ha scelto i social media per salutare i Red Devils dopo sei anni nel club.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1400,
+      "pubblicato": "2026-11-17T20:07:00+00:00",
+      "squadra": "Man Utd"
+    },
+    {
       "id": "4a6f746c86",
       "titolo": "Juve, effetto Nicola a Venezia: la svolta verso la salvezza e oltre 100 milioni dalla proprietà",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/venezia/2026/11/17-152648275/juve_effetto_nicola_a_venezia_la_svolta_verso_la_salvezza_e_oltre_100_milioni_dalla_propriet/",
@@ -1193,7 +1246,7 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1170,
+      "punteggio": -1570,
       "pubblicato": "2026-11-17T08:13:00+00:00",
       "squadra": "Juventus"
     },
@@ -1205,21 +1258,9 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1200,
+      "punteggio": -1600,
       "pubblicato": "2026-11-17T20:04:11+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "c66b412fdb",
-      "titolo": "Mistero Juve, ci sono 72 milioni di dubbi: tanti i riscatti in bilico. E Spalletti trema",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/juventus/2026/11/17-152647290/mistero_juve_ci_sono_72_milioni_di_dubbi_tanti_i_riscatti_in_bilico_e_spalletti_trema/",
-      "estratto": "I riscatti che a inizio stagione sembravano più certi ora lo sono meno: David (25), Adzic (12), Miretti e Di Gregorio (13 a testa) sono tutti in calo. Più sicuri i 9 di Joao Mario",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1370,
-      "pubblicato": "2026-11-17T07:45:14+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "1588a25762",
@@ -1229,21 +1270,9 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1400,
+      "punteggio": -1800,
       "pubblicato": "2026-11-17T17:38:50+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "602cb08ab8",
-      "titolo": "Infortuni Juve, punto e a capo: le scelte obbligate di Spalletti contro il Venezia",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/17-152647918/infortuni_juve_punto_e_a_capo_le_scelte_obbligate_di_spalletti_contro_il_venezia/",
-      "estratto": "Da Kalulu a Zhegrova passando per Celik: le condizioni dei bianconeri in vista del ritorno allo Stadium",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1570,
-      "pubblicato": "2026-11-17T07:15:00+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "841157b72e",
@@ -1253,21 +1282,9 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1600,
+      "punteggio": -2000,
       "pubblicato": "2026-11-17T12:43:26+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "9b1ffa8f9e",
-      "titolo": "Varela e la Juve, chiave… Next Gen! Il possibile sacrificio per anticipare le big d'Europa",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/17-152647816/varela_e_la_juve_chiave_next_gen_il_possibile_sacrificio_per_anticipare_le_big_d_europa/",
-      "estratto": "Sulla punta il Napoli si è già portato molto avanti: valutazione da 35 milioni, con lo spauracchio dei possibili inserimenti di Tottenham e Brighton",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1770,
-      "pubblicato": "2026-11-17T07:01:00+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "d56b4882c4",
@@ -1277,7 +1294,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1800,
+      "punteggio": -2200,
       "pubblicato": "2026-11-17T08:58:55+00:00",
       "squadra": "Man Utd"
     },
@@ -1289,7 +1306,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2000,
+      "punteggio": -2400,
       "pubblicato": "2026-11-17T07:07:18+00:00",
       "squadra": "Man Utd"
     },
@@ -1301,7 +1318,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2200,
+      "punteggio": -2600,
       "pubblicato": "2026-11-16T21:08:48+00:00",
       "squadra": "Man Utd"
     },
@@ -1313,7 +1330,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2400,
+      "punteggio": -2800,
       "pubblicato": "2026-11-16T18:55:00+00:00",
       "squadra": "Man Utd"
     },
@@ -1325,7 +1342,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2600,
+      "punteggio": -3000,
       "pubblicato": "2026-11-16T10:54:18+00:00",
       "squadra": "Man Utd"
     },
@@ -1337,7 +1354,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2800,
+      "punteggio": -3200,
       "pubblicato": "2026-11-16T03:55:23+00:00",
       "squadra": "Man Utd"
     },
@@ -1349,7 +1366,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -3000,
+      "punteggio": -3400,
       "pubblicato": "2026-11-15T16:52:52+00:00",
       "squadra": "Man Utd"
     },
@@ -1361,7 +1378,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3200,
+      "punteggio": -3600,
       "pubblicato": "2026-11-15T08:47:18+00:00",
       "squadra": "Man Utd"
     }

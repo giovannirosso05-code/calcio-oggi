@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-18T00:34:52.333705+00:00",
-  "totale": 35,
+  "aggiornato": "2026-11-18T07:57:19.959886+00:00",
+  "totale": 32,
   "articoli": [
     {
       "id": "8bd0a17f5c",
@@ -10,15 +10,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-17T23:12:32+00:00"
-    },
-    {
-      "id": "c7a1e929a2",
-      "titolo": "18 novembre 2001, il primo derby della città di Verona. Lo vince l'Hellas per tre a due",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/18-novembre-2001-derby-verona-vince-hellas-2294699",
-      "estratto": "Il 18 novembre del 2001, allo stadio Bentegodi, Verona entra in una nuova dimensione.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-17T23:00:13+00:00"
     },
     {
       "id": "b6d3f1e9d0",
@@ -298,24 +289,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-15T15:25:48+00:00"
-    },
-    {
-      "id": "5ca61a81da",
-      "titolo": "Rabbia della famiglia per i fratelli gemelli atleti \"elite\" arrestati dall'ICE mentre si recavano al college in Alabama",
-      "url": "https://www.dailymail.com/sport/football/article-16293167/athlete-twin-brothers-arrested-ice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I gemelli venezuelani stavano tornando dalla visita ai genitori in Georgia quando sono stati arrestati da un agente del dipartimento di polizia di Lincoln durante un controllo stradale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-15T02:42:14+00:00"
-    },
-    {
-      "id": "de67d2813d",
-      "titolo": "Cartellino rosso per i vertici del calcio dopo l'annuncio della morte di un ex arbitro della Premier League a 78 anni - quando è ancora vivo e vegeto",
-      "url": "https://www.dailymail.com/sport/football/article-16292787/football-chiefs-Premier-League-referee-dead-alive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Martedì, la Federcalcio del Galles (FAW) ha annunciato che Keith Cooper (nella foto) era morto all'età di 78 anni. Ma lui era vivo e vegeto.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-15T01:45:00+00:00"
     }
   ]
 }
