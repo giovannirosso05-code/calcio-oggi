@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-11-19T04:22:46.865181+00:00",
-  "totale": 33,
+  "aggiornato": "2026-11-19T13:43:00.871030+00:00",
+  "totale": 31,
   "articoli": [
+    {
+      "id": "2bec1c51ea",
+      "titolo": "Valentín Barco sulla sua esperienza al Chelsea finora: 'Penso di poter dare molto di più'",
+      "url": "https://www.espn.com/soccer/story/_/id/50530645/valentin-barco-chelsea-argentina-xabi-alonso",
+      "estratto": "Valentín Barco del Chelsea ha dichiarato di essere fiducioso di essere ancora molto lontano dal raggiungere il suo pieno potenziale.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-19T13:19:26+00:00"
+    },
+    {
+      "id": "0c042133f2",
+      "titolo": "Previsione su come tutte le 20 squadre di Premier League termineranno la stagione",
+      "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
+      "estratto": "Dopo 10 partite, abbiamo abbastanza dati per prevedere la posizione finale in classifica di ogni squadra di Premier League per la stagione 2026-27.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-19T11:53:07+00:00"
+    },
+    {
+      "id": "8dc306bb05",
+      "titolo": "Il dilemma dei portieri per Xabi Alonso: perché il tecnico dei Blues potrebbe andare contro il parere dei tifosi e scegliere il volatile Emiliano Martinez al posto del ventunenne prodigio Mike Penders",
+      "url": "https://www.dailymail.com/sport/football/article-16302941/xabi-alonso-goalkeeping-dilemma-emiliano-martinez-mike-penders.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "KIERAN GILL: Un sondaggio condotto da Daily Mail Sport ha raccolto quasi 2.000 voti da parte dei tifosi del Chelsea, e il 57,9% era favorevole a far mantenere il posto a Mike Penders anziché a Emiliano Martinez.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-19T10:52:52+00:00"
+    },
     {
       "id": "9216976f53",
       "titolo": "Mykhailo Mudryk rivela di aver speso \"MILIONI\" in spese legali per combattere l'accusa di doping e incolpa la sua esperienza con l'Ucraina per la squalifica di due anni in un'intervista a cuore aperto",
@@ -9,7 +36,7 @@
       "estratto": "L'esterno d'attacco del Chelsea, ora in prestito al Tottenham Hotspur, si è confidato per la prima volta da quando è tornato al calcio giocato in estate, dopo che la sua squalifica è stata improvvisamente revocata.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-19T00:04:25+00:00"
+      "pubblicato": "2026-11-19T07:46:16+00:00"
     },
     {
       "id": "42143b128b",
@@ -57,15 +84,6 @@
       "pubblicato": "2026-11-18T17:15:41+00:00"
     },
     {
-      "id": "ae7c785c5c",
-      "titolo": "Liverpool Confidential: le ultime sui rinnovi di Virgil van Dijk e Alisson mentre i giganti europei si muovono, come i Reds cercano di potenziare il recruiting dell'academy e il ritorno di Joshua Abe",
-      "url": "https://www.dailymail.com/sport/football/article-16302293/Liverpool-Confidential-Van-Dijk-Alisson-Iraola.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I club europei sono in massima allerta per il futuro delle stelle del Liverpool Virgil van Dijk e Alisson, nonostante entrambi i giocatori siano desiderosi di prolungare i loro contratti ad Anfield.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T17:03:52+00:00"
-    },
-    {
       "id": "b2f872bddf",
       "titolo": "Newcastle Confidential: importante aggiornamento sul nuovo super stadio da 1,3 miliardi di sterline rivelato l'incontro segreto con i finanzieri di Wall Street, il caso di Amar Dedic risolto e buone notizie per l'infortunio di Joelinton",
       "url": "https://www.dailymail.com/sport/football/article-16299137/Newcastle-Confidential-stadium-Amar-Dedic-Joelinton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -109,24 +127,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-18T12:02:03+00:00"
-    },
-    {
-      "id": "56f528d834",
-      "titolo": "Agnelli, nuovo investimento nello sport con Chiellini: 20 milioni sul piatto, di cosa si tratta",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152667324/agnelli_nuovo_investimento_nello_sport_con_chiellini_20_milioni_sul_piatto_di_cosa_si_tratta/",
-      "estratto": "L'ex presidente bianconero e il dirigente della Vecchia Signora hanno guidato un importante finanziamento. Tra gli investitori tante stelle dello sport",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T11:02:57+00:00"
-    },
-    {
-      "id": "f652f44301",
-      "titolo": "Cabal e Lucumi nel muro Colombia, Nico Paz e Mastantuono show: le amichevoli sudamericane",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152665608/cabal_e_lucumi_nel_muro_colombia_nico_paz_e_mastantuono_show_le_amichevoli_sudamericane/",
-      "estratto": "I due difensori della Juve in campo con i Cafeteros, il gioiello del Como fa brillare la propria stella dopo l'addio di Messi",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T09:38:06+00:00"
     },
     {
       "id": "db9e820b1c",
@@ -280,24 +280,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-11-16T14:27:01+00:00"
-    },
-    {
-      "id": "2b937e9544",
-      "titolo": "Ashley Cole che spara per errore a uno studente, Marcus Bent a torso nudo che minaccia la polizia con una mannaia e un ex stella del Barcellona che spara in un ospedale! La fascinazione dei calciatori per le armi dopo la vicenda di Amar Dedic e del suo arco",
-      "url": "https://www.dailymail.com/sport/football/article-16271235/Footballers-fascination-weapons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'episodio di Amar Dedic con arco e frecce non è certo la prima volta che un calciatore si trova nei guai per il possesso, il porto o l'uso di un'arma.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-16T10:44:42+00:00"
-    },
-    {
-      "id": "40d2bf7ce8",
-      "titolo": "L'Inghilterra offre uno spettacolo grandioso: i Tre Leoni strappano l'imbencibilità ai campioni del mondo della Spagna e danno a Thomas Tuchel la prova che il suo lavoro di tecnico STA funzionando, scrive Oliver Holt",
-      "url": "https://www.dailymail.com/sport/football/article-16290271/England-deliver-spectacular-Three-Lions-men-strip-world-champions-Spain-invincibility-Thomas-Tuchel-proof-coaching-working-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "SPAGNA-INGHILTERRA 2-3 - OLIVER HOLT A MADRID: Thomas Tuchel aveva detto di volere delle prove. Aveva bisogno di credere che il suo lavoro da allenatore stesse funzionando.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-16T09:59:44+00:00"
     }
   ]
 }
