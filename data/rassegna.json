@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-18T23:23:42.026573+00:00",
+  "aggiornato": "2026-11-19T04:22:46.930002+00:00",
   "totale": 126,
   "articoli": [
     {
@@ -15,6 +15,66 @@
       "squadra": "Man Utd"
     },
     {
+      "id": "82e9e41a10",
+      "titolo": "Antonio Conte esce allo scoperto: \"Tornare alla Juventus? Prima o poi il cerchio si chiuderà\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/antonio-conte-esce-scoperto-tornare-juventus-cerchio-chiudera-2295186",
+      "estratto": "Antonio Conte esce allo scoperto e parla apertamente di un suo ritorno alla Juventus.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-11-18T23:56:00+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "87b39a735b",
+      "titolo": "Marotta, l’affondo Inter: “Non si vinceva nulla, c’era un vuoto. Calcio gratis per tutti”",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/18-152662955/marotta_laffondo_inter_non_si_vinceva_nulla_cera_un_vuoto_calcio_gratis_per_tutti/",
+      "estratto": "Il bilancio del presidente: “Mancava la cultura del lavoro. San Siro? Rispetto e nostalgia, ma si guarda avanti”",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-11-18T08:23:00+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "8c79c6bb09",
+      "titolo": "Come le lussuose vacanze estive costringono Vinicius Jr a inseguire: la stella del Real Madrid ammette di essersi 'allenato meno' durante il viaggio sullo yacht di lusso e incolpa l'uscita anticipata del Brasile dai Mondiali — oltre alle 'assillanti' voci sull'Arsenal — per il lento avvio di stagione",
+      "url": "https://www.dailymail.com/sport/football/article-16296407/vinicius-jr-real-madrid-arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Vinícius Júnior ha ammesso che la sfarzosa vacanza estiva successiva all'eliminazione del Brasile agli ottavi dei Mondiali è la causa del suo avvio a rilento con il Real Madrid in questa stagione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-11-16T14:48:19+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "8590d86886",
+      "titolo": "\"Dovrei rispondere a questo?\": Erling Haaland rompe il silenzio e prende le distanze dal verdetto sulle presunte irregolarità del Manchester City, ribadendo di \"non saperne molto\" ma di essere \"incredibilmente felice\"",
+      "url": "https://www.dailymail.com/sport/football/article-16294157/Erling-Haaland-Man-City-cheating-verdict-star-striker-insists-dont-really-know-incredibly-happy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La risposta iniziale della stella del Manchester City è durata due minuti e 14 secondi, mentre elencava le squadre in cui ha militato tra il 2009 e il 2018, gli anni coperti dalle accuse.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-11-16T11:26:25+00:00",
+      "squadra": "Man City"
+    },
+    {
+      "id": "0ff4d9366d",
+      "titolo": "Romelu Lukaku annuncia il clamoroso addio alla nazionale: l'ex stella del Chelsea, 33 anni, fa marcia indietro sul suo futuro con il Belgio e lascia la stampa belga a bocca aperta",
+      "url": "https://www.dailymail.com/sport/football/article-16296345/Romelu-Lukaku-announces-bombshell-international-retirement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Romelu Lukaku ha annunciato il suo ritiro dal calcio internazionale con una decisione bomba che ha lasciato la stampa belga completamente attonita.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 150,
+      "pubblicato": "2026-11-16T14:49:16+00:00",
+      "squadra": "Chelsea "
+    },
+    {
       "id": "6635df597b",
       "titolo": "Pressing asfissiante, inserimenti senza palla alle spalle di Kane e mentalità da 'squadra di Premier League': così la nuova Inghilterra di Thomas Tuchel ha smontato la Spagna, facendo tesoro della vigliacca ritirata contro l'Argentina",
       "url": "https://www.dailymail.com/sport/football/article-16296139/tuchel-england-dismantle-spain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -27,16 +87,16 @@
       "squadra": "Argentina"
     },
     {
-      "id": "ddc9428106",
-      "titolo": "Prima vittoria europea casalinga per la Juve. Guerrero: \"Puntiamo alla fase successiva di Champions\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-femminile/vittoria-europea-casalinga-juve-guerrero-puntiamo-fase-successiva-champions-2295196",
-      "estratto": "Una serata emozionante quella vissuta dalla Juventus Women, che ha trovato la prima vittoria casalinga in Champions: vittima della compagine bianconera, la squadra belga del OH Leuven.",
+      "id": "624ac27736",
+      "titolo": "Il Milan è tornato a vincere grazie a Ibra? L'ex Andrea Conti: \"Con lui la svolta\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/milan-tornato-vincere-ibra-andrea-conti-con-svolta-2295090",
+      "estratto": "L'esperienza al Milan di Andrea Conti, acquistato nell'estate della gestione Fassone, è stata condizionata da numerosi infortuni che lo hanno portato al ritiro dal calcio giocato a 31 anni.",
       "fonte": "TMW",
-      "serie": "Estero",
+      "serie": "Serie A",
       "citazione": true,
-      "punteggio": 90,
-      "pubblicato": "2026-11-18T22:59:00+00:00",
-      "squadra": "Juventus"
+      "punteggio": 70,
+      "pubblicato": "2026-11-18T23:30:00+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "e68102cf34",
@@ -49,18 +109,6 @@
       "punteggio": 70,
       "pubblicato": "2026-11-18T23:15:00+00:00",
       "squadra": "Napoli"
-    },
-    {
-      "id": "29d7725914",
-      "titolo": "Inter, il gol di Cambiaghi non basta. Ma la giocatrice è fiduciosa: \"Possiamo giocarcela con le big\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-femminile/inter-gol-cambiaghi-basta-giocatrice-fiduciosa-possiamo-giocarcela-big-2295172",
-      "estratto": "Un gol, che valeva il momentaneo pareggio, che ha illuso l'Inter Women, prima che il Real Madrid facesse suo il confronto della 5ª giornata di Women's Champions League: Michela Cambiaghi aveva lasciate aperte le speranze delle nerazzurre, ma non c'è ",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-18T22:34:01+00:00",
-      "squadra": "Inter Milan"
     },
     {
       "id": "7c44f3e479",
@@ -98,16 +146,15 @@
       "pubblicato": "2026-11-18T08:39:49+00:00"
     },
     {
-      "id": "eac5c6b74f",
-      "titolo": "\"Milan, prendi Endrick e svolti\". Eranio, l'Invincibile di Capello sprona Cardinale",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/18-152663163/milan_prendi_endrick_e_svolti_eranio_l_invincibile_di_capello_sprona_cardinale/",
-      "estratto": "L'ex rossonero: \"Spero che Amorim avrà tempo e spazio necessario per portare un’idea nuova di calcio\"",
-      "fonte": "Tuttosport",
+      "id": "4f07fa7c3c",
+      "titolo": "\"Accetto la decisione, ma non la condivido\". Cosmi risponde ai 3 mesi di squalifica con una lettera aperta",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cosmi-2295180",
+      "estratto": "Era il 4 ottobre, e Serse Cosmi allenava allora la Salernitana, che era impegnata nel match casalingo contro il Bari: vittoria granata, 2-1 il finale, ma lo stesso confronto è costato caro al tecnico.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-18T08:25:00+00:00",
-      "squadra": "Milan"
+      "punteggio": 40,
+      "pubblicato": "2026-11-18T23:34:17+00:00"
     },
     {
       "id": "5cd0371cca",
@@ -155,41 +202,6 @@
       "punteggio": 40,
       "pubblicato": "2026-11-18T23:04:46+00:00",
       "squadra": "Modena"
-    },
-    {
-      "id": "43ed7b57bd",
-      "titolo": "Udinese, Inler: \"Con Runjaic rapporto molto professionale. Zanetti? L'impatto è stato buono\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/udinese-inler-con-runjaic-rapporto-professionale-zanetti-impatto-buono-2295194",
-      "estratto": "\"Con mister Runjaic abbiamo iniziato insieme e abbiamo fatto insieme due anni e mezzo, con i loro alti e i loro bassi.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-18T22:53:28+00:00",
-      "squadra": "Udinese"
-    },
-    {
-      "id": "182d4065a7",
-      "titolo": "Chiellini: \"Italia? Percorso non semplice, ma la luce si vede\". E parla delle elezioni FIGC",
-      "url": "https://www.tuttomercatoweb.com/serie-a/chiellini-italia-percorso-semplice-luce-vede-parla-elezioni-figc-2295155",
-      "estratto": "\"Ho visto ovviamente le ultime partite e penso che sia partito un processo che è andato anche più velocemente del previsto, perché dopo la prima sconfitta a Roma si è vista una crescita importante\".",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-18T22:45:28+00:00"
-    },
-    {
-      "id": "1b2a2f7557",
-      "titolo": "Real Madrid, Rüdiger: \"Abbiamo bisogno del miglior Vinicius, Mbappé non deve fare il mio lavoro\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/real-madrid-rudiger-abbiamo-bisogno-miglior-vinicius-mbappe-lavoro-2295173",
-      "estratto": "Il difensore del Real Madrid Antonio Rüdiger ha rilasciato un'intervista esclusiva a The Athletic, nella quale ha parlato di Vinicius Junior, Kylian Mbappé, Xabi Alonso e molti altri argomenti.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-18T22:41:07+00:00",
-      "squadra": "Real Madrid"
     },
     {
       "id": "b23761b24a",
@@ -292,18 +304,6 @@
       "pubblicato": "2026-11-16T19:24:55+00:00"
     },
     {
-      "id": "8590d86886",
-      "titolo": "\"Dovrei rispondere a questo?\": Erling Haaland rompe il silenzio e prende le distanze dal verdetto sulle presunte irregolarità del Manchester City, ribadendo di \"non saperne molto\" ma di essere \"incredibilmente felice\"",
-      "url": "https://www.dailymail.com/sport/football/article-16294157/Erling-Haaland-Man-City-cheating-verdict-star-striker-insists-dont-really-know-incredibly-happy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La risposta iniziale della stella del Manchester City è durata due minuti e 14 secondi, mentre elencava le squadre in cui ha militato tra il 2009 e il 2018, gli anni coperti dalle accuse.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-16T11:26:25+00:00",
-      "squadra": "Man City"
-    },
-    {
       "id": "0c67edd6f6",
       "titolo": "Non solo Lautaro, Chivu recupera quasi tutti i big: chi torna a disposizione per Atalanta-Inter",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/18-152670357/non_solo_lautaro_chivu_recupera_quasi_tutti_i_big_chi_torna_a_disposizione_per_atalanta-inter/",
@@ -328,18 +328,6 @@
       "squadra": "Parma"
     },
     {
-      "id": "0ff4d9366d",
-      "titolo": "Romelu Lukaku annuncia il clamoroso addio alla nazionale: l'ex stella del Chelsea, 33 anni, fa marcia indietro sul suo futuro con il Belgio e lascia la stampa belga a bocca aperta",
-      "url": "https://www.dailymail.com/sport/football/article-16296345/Romelu-Lukaku-announces-bombshell-international-retirement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Romelu Lukaku ha annunciato il suo ritiro dal calcio internazionale con una decisione bomba che ha lasciato la stampa belga completamente attonita.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-11-16T14:49:16+00:00",
-      "squadra": "Chelsea "
-    },
-    {
       "id": "bac40a79f2",
       "titolo": "Hey, Jude! Il trascinatore dell'Inghilterra Bellingham festeggia con un bacio della fidanzata Ashlyn Castro in una rara apparizione pubblica insieme, dopo aver guidato i Three Lions al successo sui campioni del mondo della Spagna",
       "url": "https://www.dailymail.com/sport/football/article-16295741/Hey-Jude-Englands-star-man-Bellingham-gets-celebratory-kiss-girlfriend-Ashlyn-Castro-rare-public-appearance-led-Three-Lions-beating-world-champions-Spain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -351,15 +339,71 @@
       "pubblicato": "2026-11-16T09:20:46+00:00"
     },
     {
-      "id": "50d10f1980",
-      "titolo": "Arsenal, Zubimendi può partire: Arteta apre alla cessione per 70 milioni",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/arsenal-zubimendi-partire-arteta-apre-cessione-70-2295182",
-      "estratto": "Martin Zubimendi potrebbe lasciare l'Arsenal già nella finestra di mercato di gennaio.",
+      "id": "d4f3e58d23",
+      "titolo": "Kostantinos Karetsas, 100 milioni per il giovane talento del Borussia Dortmund. Come Bellingham",
+      "url": "https://www.tuttomercatoweb.com/nato-oggi/kostantinos-karetsas-100-giovane-talento-borussia-dortmund-bellingham-2294744",
+      "estratto": "Kostantinos Karetsas vale almeno 100 milioni.",
       "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-18T23:11:49+00:00",
+      "pubblicato": "2026-11-19T04:00:36+00:00",
+      "squadra": "Dortmund"
+    },
+    {
+      "id": "85a8112ea5",
+      "titolo": "Le partite di oggi: il programma di giovedì 19 novembre",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-giovedi-19-novembre-2295023",
+      "estratto": "Tornano anche oggi, giovedì 19 novembre 2026, gli appuntamenti con il calcio giocato.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-19T03:30:03+00:00"
+    },
+    {
+      "id": "05a326c3cb",
+      "titolo": "Dietro le quinte del \"scomodo\" mondo dei documentari sul calcio: La scioccante \"mancanza di rispetto\" mostrata verso gli allenatori, come Pep Guardiola ha imparato ad amare le telecamere - e perché la nomina di Mauricio Pochettino è una brutta notizia per la troupe di Amazon a Carrington",
+      "url": "https://www.dailymail.com/sport/football/article-16290183/football-documentaries-guardiola-pochettino-united-amazon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'ex allenatore del Salford Anthony Johnson lo ricorda bene. 'Ho aperto la porta dello spogliatoio e - boom - c'erano queste telecamere, queste luci... Nessuno ci aveva detto niente del documentario.'",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 0,
+      "pubblicato": "2026-11-19T02:00:46+00:00"
+    },
+    {
+      "id": "245c487706",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 18 novembre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-18-novembre-2295191",
+      "estratto": "CARDINALE NON TEME RICHIESTE DA 60 MILIONI DI EURO: IL MILAN FA SUL SERIO PER TRESOLDI.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "533ecca5c6",
+      "titolo": "Un viaggio nel mondo del calciomercato e di una rivoluzione guidata dall'Intelligenza Artificiale",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/viaggio-calciomercato-rivoluzione-guidata-intelligenza-artificiale-2295110",
+      "estratto": "Un viaggio all'interno del calciomercato e dei modi per portarlo avanti, quello che vi abbiamo proposto oggi su TMW.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-18T23:53:00+00:00"
+    },
+    {
+      "id": "50f163b337",
+      "titolo": "Arsenal e Bayern Monaco sulle tracce di Eduardo Pape: il gioiello brasiliano costa 30 milioni",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/arsenal-bayern-monaco-tracce-eduardo-pape-gioiello-brasiliano-costa-30-2295187",
+      "estratto": "L'Arsenal ha messo gli occhi su Eduardo Pape, centrocampista diciassettenne del Cruzeiro considerato uno dei giovani talenti più interessanti del calcio brasiliano.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-18T23:27:33+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -372,40 +416,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-11-18T23:01:46+00:00"
-    },
-    {
-      "id": "0b56d5b177",
-      "titolo": "19 novembre 2005, la gara perfetta di Ronaldinho. Che esce dal Bernabeu fra gli applausi",
-      "url": "https://www.tuttomercatoweb.com/accadde-oggi/19-novembre-2005-gara-perfetta-ronaldinho-esce-bernabeu-applausi-2294727",
-      "estratto": "Il 19 novembre del 2005, Ronaldinho è senza pietà, ma con una bellezza estrema.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-18T23:00:46+00:00"
-    },
-    {
-      "id": "415a822b00",
-      "titolo": "Ronaldinho, la nostalgia vigliacca e il richiamo irresistibile del pallone",
-      "url": "https://www.tuttomercatoweb.com/l-angolo-di-sportissimo/sportissimo-ronaldinho-nostalgia-vigliacca-2294669",
-      "estratto": "Ho seguito tutta la vicenda.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-18T23:00:35+00:00"
-    },
-    {
-      "id": "887da6b1ec",
-      "titolo": "Liverpool, avviati i colloqui per il rinnovo di Mac Allister: Real Madrid alla finestra",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/liverpool-avviati-colloqui-rinnovo-mac-allister-real-madrid-finestra-2295168",
-      "estratto": "Il Liverpool si muove per blindare Alexis Mac Allister.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-18T22:27:53+00:00",
-      "squadra": "Liverpool "
     },
     {
       "id": "54935bb977",
@@ -574,6 +584,18 @@
       "pubblicato": "2026-11-17T17:04:45+00:00"
     },
     {
+      "id": "f600d8f4d0",
+      "titolo": "Florian Wirtz segna una doppietta (con una perla) nel 5-0 della Germania all'Olanda in UEFA Nations League... mentre l'oggetto misterioso del Liverpool riceve l'abbraccio di Jurgen Klopp dopo una prova convincente",
+      "url": "https://www.dailymail.com/sport/football/article-16297911/Florian-Wirtz-scores-twice-Germany-Netherlands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il 23enne ha vissuto momenti difficili ad Anfield dopo il trasferimento da 116 milioni di sterline della scorsa estate, ma non ha mai faticato con la maglia della nazionale, confermando il trend anche stavolta.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-17T00:19:27+00:00",
+      "squadra": "Liverpool "
+    },
+    {
       "id": "eaf6519127",
       "titolo": "Svizzera-Scozia 4-0: la passeggiata elvetica apre pesanti interrogativi su Sébastien Pocognoli, mentre gli scozzesi chiudono un ciclo disastroso con un ko nella serata del record del capitano Andrew Robertson",
       "url": "https://www.dailymail.com/sport/football/article-16297811/SWITZERLAND-4-SCOTLAND-0-Swiss-stroll-leaves-question-marks-Sebastien-Pocognoli-Scotland-round-miserable-campaign-defeat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -619,16 +641,52 @@
       "pubblicato": "2026-11-16T13:25:52+00:00"
     },
     {
-      "id": "bcec85fbb0",
-      "titolo": "Tenerife in campo per la prima volta dopo la morte del trentenne Jesus de Miguel, tragico scontro in campo con il portiere: omaggi e partita interrotta al 9' in una giornata di grande commozione",
-      "url": "https://www.dailymail.com/sport/football/article-16294619/Tenerife-stars-return-death-Jesus-Miguel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il portiere Jesus Owono era uscito coraggiosamente dai pali travolgendo De Miguel con un intervento alto, che aveva costretto l'attaccante al ricovero in terapia intensiva, dove è deceduto in seguito.",
+      "id": "e4caee9ead",
+      "titolo": "Juventus, McKennie fa chiarezza sul Manchester United. E Chiellini: \"Yildiz sta tornando\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juventus-mckennie-chiarezza-manchester-united-chiellini-yildiz-tornando-2295190",
+      "estratto": "In casa Juventus ci sono da registrare le parole di Weston McKennie, che è tornato a parlare delle voci di mercato sul Manchester United, facendo chiarezza su quanto circolato negli scorsi giorni.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -10,
+      "pubblicato": "2026-11-18T23:45:00+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "1742f1acfd",
+      "titolo": "Mauricio Pochettino sale su un jet privato per Manchester con la promessa che il dominio del Man City nella rivalità cittadina «sta per cambiare»... e una bizzarra dichiarazione d'amore per Country Roads!",
+      "url": "https://www.dailymail.com/sport/football/article-16301915/Mauricio-Pochettino-private-jet-Manchester-promise-Man-City-dominance-city-rivalry-bizarre-declaration-Country-Roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martedì sera, nella sua ultima intervista da commissario tecnico della nazionale degli Stati Uniti, Mauricio Pochettino ha promesso di porre fine al dominio del Man City una volta alla guida del Man United.",
       "fonte": "Daily Mail",
       "serie": "Estero",
+      "citazione": true,
+      "punteggio": -80,
+      "pubblicato": "2026-11-18T21:51:35+00:00",
+      "squadra": "Man City"
+    },
+    {
+      "id": "79f6431217",
+      "titolo": "Real Madrid, ufficiale il rinnovo di Arda Güler: i dettagli",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/11/18-152673994/real_madrid_ufficiale_il_rinnovo_di_arda_gler_i_dettagli/",
+      "estratto": "L'annuncio del club di Florentino Perez e l'emozionante post pubblicato sui social dal fantasista turco a margine della firma sul nuovo contratto",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
       "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-16T02:21:17+00:00",
-      "squadra": "Tenerife"
+      "punteggio": -80,
+      "pubblicato": "2026-11-18T16:33:22+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "f9c0a37732",
+      "titolo": "Malo Gusto del Chelsea definito \"la più grande delusione dell'era Zidane\"... e Bradley Barcola, costato 123 milioni di sterline al Liverpool, \"è andato privo di precisione e freddezza\" nel severo giudizio sulle stelle della Premier League in Francia",
+      "url": "https://www.dailymail.com/sport/football/article-16298837/Chelseas-Malo-Gusto-named-biggest-disappointment-Zidane-era-Liverpools-123m-man-Bradley-Barcola-lacked-accuracy-composure-damning-verdict-Frances-Premier-League-stars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I media francesi si sono scagliati duramente contro diversi giocatori della Premier League presenti in nazionale dopo una sosta per le nazionali poco brillante sotto la guida del nuovo CT Zinedine Zidane.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -80,
+      "pubblicato": "2026-11-17T16:31:21+00:00",
+      "squadra": "Chelsea "
     },
     {
       "id": "8fe6cfb718",
@@ -643,64 +701,28 @@
       "squadra": "Argentina"
     },
     {
-      "id": "0f4ae32c4d",
-      "titolo": "Juve Women, la gioia di Schatzer: \"La vittoria europea in casa ci mancava, bello averla centrata\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-femminile/juve-women-gioia-schatzer-la-vittoria-europea-casa-mancava-bello-averla-centrata-2295193",
-      "estratto": "\"Sono molto felice per questa vittoria in casa, la aspettavamo perché non eravamo ancora riuscite a vincere in casa in questa stagione europea\": così, ai canali ufficiali del club, la centrocampista della Juventus Women Eva Schatzer, che - dopo esser",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-11-18T22:49:32+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "50ee82206c",
-      "titolo": "Leandro Rinaudo: \"Napoli, ti manca Conte. Frosinone pazzesco. Palermo, vai in A\"",
-      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/leandro-rinaudo-napoli-manca-conte-frosinone-pazzesco-palermo-a-2295164",
-      "estratto": "Voglia di tornare dopo l’impresa con il Mantova dello scorso anno, una rivoluzione che ha portato la squadra a conquistare una salvezza che sembrava utopia.",
-      "fonte": "TMW",
+      "id": "b7662d8407",
+      "titolo": "Casadei non teme il Napoli: \"Andiamo là per vincere, conosciamo le nostre qualità\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/18-152674774/casadei_non_teme_il_napoli_andiamo_l_per_vincere_conosciamo_le_nostre_qualit/",
+      "estratto": "Il centrocampista del Torino poco utilizzato fin qui a causa di un infortunio: \"Non ho giocato tanto ma sono sempre disponibile\"",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-11-18T22:30:36+00:00",
+      "pubblicato": "2026-11-18T17:25:58+00:00",
       "squadra": "Napoli"
     },
     {
-      "id": "87b39a735b",
-      "titolo": "Marotta, l’affondo Inter: “Non si vinceva nulla, c’era un vuoto. Calcio gratis per tutti”",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/18-152662955/marotta_laffondo_inter_non_si_vinceva_nulla_cera_un_vuoto_calcio_gratis_per_tutti/",
-      "estratto": "Il bilancio del presidente: “Mancava la cultura del lavoro. San Siro? Rispetto e nostalgia, ma si guarda avanti”",
+      "id": "eac5c6b74f",
+      "titolo": "\"Milan, prendi Endrick e svolti\". Eranio, l'Invincibile di Capello sprona Cardinale",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/18-152663163/milan_prendi_endrick_e_svolti_eranio_l_invincibile_di_capello_sprona_cardinale/",
+      "estratto": "L'ex rossonero: \"Spero che Amorim avrà tempo e spazio necessario per portare un’idea nuova di calcio\"",
       "fonte": "Tuttosport",
-      "serie": "Estero",
+      "serie": "Serie A",
       "citazione": true,
       "punteggio": -130,
-      "pubblicato": "2026-11-18T08:23:00+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
-      "id": "57526ef588",
-      "titolo": "Genoa, Colombo elogia De Rossi: \"Ha una capacità che ho visto con pochi altri allenatori\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/genoa-colombo-elogia-de-rossi-ha-capacita-pochi-allenatori-2295185",
-      "estratto": "\"La scelta di confermare De Rossi al Genoa è stata una scelta coraggiosa che si è rivelata giusta\".",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -160,
-      "pubblicato": "2026-11-18T22:37:56+00:00",
-      "squadra": "Genoa"
-    },
-    {
-      "id": "dce133e9f5",
-      "titolo": "Udinese, Inler: \"Non è facile essere ultimi. Ma sappiamo che dobbiamo e possiamo uscirne\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/udinese-inler-non-facile-ultimi-sappiamo-dobbiamo-possiamo-uscirne-2295189",
-      "estratto": "\"Non è facile essere ultimi.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -160,
-      "pubblicato": "2026-11-18T22:23:50+00:00",
-      "squadra": "Udinese"
+      "pubblicato": "2026-11-18T08:25:00+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "dca9dd5a09",
@@ -715,18 +737,6 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "8c79c6bb09",
-      "titolo": "Come le lussuose vacanze estive costringono Vinicius Jr a inseguire: la stella del Real Madrid ammette di essersi 'allenato meno' durante il viaggio sullo yacht di lusso e incolpa l'uscita anticipata del Brasile dai Mondiali — oltre alle 'assillanti' voci sull'Arsenal — per il lento avvio di stagione",
-      "url": "https://www.dailymail.com/sport/football/article-16296407/vinicius-jr-real-madrid-arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Vinícius Júnior ha ammesso che la sfarzosa vacanza estiva successiva all'eliminazione del Brasile agli ottavi dei Mondiali è la causa del suo avvio a rilento con il Real Madrid in questa stagione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -160,
-      "pubblicato": "2026-11-16T14:48:19+00:00",
-      "squadra": "Real Madrid"
-    },
-    {
       "id": "b20d2c3923",
       "titolo": "Aperta la trasferta di Parma per i tifosi della Roma: la decisione, la modalità di vendita dei biglietti e tutti i dettagli",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/18-152667070/aperta_la_trasferta_di_parma_per_i_tifosi_della_roma_la_decisione_la_modalit_di_vendita_dei_biglietti_e_tutti_i_dettagli/",
@@ -739,51 +749,27 @@
       "squadra": "Parma"
     },
     {
-      "id": "7ed492001a",
-      "titolo": "Moreira con il diavolo in corpo: decisivo sia con il Milan che col Belgio",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/18-152665612/moreira_con_il_diavolo_in_corpo_decisivo_sia_con_il_milan_che_col_belgio/",
-      "estratto": "Il patron Cardinale lo ha acquistato per 51 milioni di euro per alzare il livello e la competitività della squadra: il colpo è riuscito",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-11-18T09:30:13+00:00",
-      "squadra": "Milan"
-    },
-    {
-      "id": "517823c479",
-      "titolo": "Maledizione Kean, nuovo infortunio: il comunicato del Como e i tempi di recupero",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/17-152652247/maledizione_kean_nuovo_infortunio_il_comunicato_del_como_e_i_tempi_di_recupero/",
-      "estratto": "Pessime notizie per l'ex attaccante della Juve: le sue condizioni e cosa filtra sul rientro",
-      "fonte": "Tuttosport",
+      "id": "16eba51c1a",
+      "titolo": "Kean è un caso per il Como, che non vuole l'operazione. La scelta per la lista Champions",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/kean-como-vuole-operazione-scelta-lista-champions-2295181",
+      "estratto": "Il Como attende novità sulle condizioni di Moise Kean, che è diventato un vero e proprio caso.",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -180,
-      "pubblicato": "2026-11-17T18:30:00+00:00",
+      "pubblicato": "2026-11-18T23:49:00+00:00",
       "squadra": "Como"
     },
     {
-      "id": "1742f1acfd",
-      "titolo": "Mauricio Pochettino sale su un jet privato per Manchester con la promessa che il dominio del Man City nella rivalità cittadina «sta per cambiare»... e una bizzarra dichiarazione d'amore per Country Roads!",
-      "url": "https://www.dailymail.com/sport/football/article-16301915/Mauricio-Pochettino-private-jet-Manchester-promise-Man-City-dominance-city-rivalry-bizarre-declaration-Country-Roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Martedì sera, nella sua ultima intervista da commissario tecnico della nazionale degli Stati Uniti, Mauricio Pochettino ha promesso di porre fine al dominio del Man City una volta alla guida del Man United.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -200,
-      "pubblicato": "2026-11-18T21:51:35+00:00",
-      "squadra": "Man City"
-    },
-    {
-      "id": "7ae18f2a2d",
-      "titolo": "La Premier League individua SEI gravi errori arbitrali in un solo fine settimana mentre il designatore Howard Webb si prepara a incontrare i club dopo il pasticcio sull'Arsenal",
-      "url": "https://www.dailymail.com/sport/football/article-16302267/Premier-League-identify-FIVE-key-refereeing-errors-one-weekend-boss-Howard-Webb-prepares-appear-clubs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "BOBBY MANZI: È stato stabilito all'unanimità che a Kai Havertz sarebbe dovuto essere assegnato un calcio di rigore dopo essere stato trattenuto in area durante la vittoria dell'Arsenal contro l'Hull City, nonostante si trovasse in posizione di fuorig",
-      "fonte": "Daily Mail",
+      "id": "50d10f1980",
+      "titolo": "Arsenal, Zubimendi può partire: Arteta apre alla cessione per 70 milioni",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/arsenal-zubimendi-partire-arteta-apre-cessione-70-2295182",
+      "estratto": "Martin Zubimendi potrebbe lasciare l'Arsenal già nella finestra di mercato di gennaio.",
+      "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -200,
-      "pubblicato": "2026-11-18T19:15:20+00:00",
+      "pubblicato": "2026-11-18T23:11:49+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -799,27 +785,15 @@
       "squadra": "Bayern"
     },
     {
-      "id": "f9c0a37732",
-      "titolo": "Malo Gusto del Chelsea definito \"la più grande delusione dell'era Zidane\"... e Bradley Barcola, costato 123 milioni di sterline al Liverpool, \"è andato privo di precisione e freddezza\" nel severo giudizio sulle stelle della Premier League in Francia",
-      "url": "https://www.dailymail.com/sport/football/article-16298837/Chelseas-Malo-Gusto-named-biggest-disappointment-Zidane-era-Liverpools-123m-man-Bradley-Barcola-lacked-accuracy-composure-damning-verdict-Frances-Premier-League-stars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I media francesi si sono scagliati duramente contro diversi giocatori della Premier League presenti in nazionale dopo una sosta per le nazionali poco brillante sotto la guida del nuovo CT Zinedine Zidane.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -200,
-      "pubblicato": "2026-11-17T16:31:21+00:00",
-      "squadra": "Chelsea "
-    },
-    {
-      "id": "f600d8f4d0",
-      "titolo": "Florian Wirtz segna una doppietta (con una perla) nel 5-0 della Germania all'Olanda in UEFA Nations League... mentre l'oggetto misterioso del Liverpool riceve l'abbraccio di Jurgen Klopp dopo una prova convincente",
-      "url": "https://www.dailymail.com/sport/football/article-16297911/Florian-Wirtz-scores-twice-Germany-Netherlands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il 23enne ha vissuto momenti difficili ad Anfield dopo il trasferimento da 116 milioni di sterline della scorsa estate, ma non ha mai faticato con la maglia della nazionale, confermando il trend anche stavolta.",
+      "id": "2c0568a9d8",
+      "titolo": "Klopp rompe le righe e attacca duramente Infantino: la leggenda del Liverpool è il primo tecnico a schierarsi contro il presidente della FIFA, ritenuto PEGGIORE di Sepp Blatter, mentre sale la pressione dopo la farsa Mondiale",
+      "url": "https://www.dailymail.com/sport/football/article-16296221/jurgen-klopp-gianni-infantino-fifa-germany.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La reputazione di Infantino è crollata vertiginosamente dopo l'atteggiamento servile mostrato nei confronti di Donald Trump prima e durante i Mondiali, culminato nell'assegnazione di un grottesco 'Premio FIFA per la Pace'.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -200,
-      "pubblicato": "2026-11-17T00:19:27+00:00",
+      "pubblicato": "2026-11-16T15:36:59+00:00",
       "squadra": "Liverpool "
     },
     {
@@ -830,20 +804,44 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -330,
+      "punteggio": -210,
       "pubblicato": "2026-11-18T21:08:50+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "b7662d8407",
-      "titolo": "Casadei non teme il Napoli: \"Andiamo là per vincere, conosciamo le nostre qualità\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/18-152674774/casadei_non_teme_il_napoli_andiamo_l_per_vincere_conosciamo_le_nostre_qualit/",
-      "estratto": "Il centrocampista del Torino poco utilizzato fin qui a causa di un infortunio: \"Non ho giocato tanto ma sono sempre disponibile\"",
+      "id": "c5cda7d926",
+      "titolo": "Il Real Madrid blinda Arda Guler: rinnovo ufficiale, comunicato e dettagli",
+      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/18-152667725/il_real_madrid_blinda_arda_guler_rinnovo_ufficiale_comunicato_e_dettagli/",
+      "estratto": "Il giovane talento turco prolunga il contratto con i blancos. Sempre più al centro del progetto di Mourinho",
       "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-11-18T11:41:35+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "cc4ed898ff",
+      "titolo": "Il Manchester City deve assolutamente invertire la rotta, i vecchi rivali Chelsea e Leeds pronti al big match di Stamford Bridge e il battesimo del fuoco di Mauricio Pochettino: SETTE motivi per cui siamo impazienti per il ritorno della Premier League",
+      "url": "https://www.dailymail.com/sport/football/article-16299831/man-city-chelsea-leeds-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dopo una sosta per le nazionali entusiasmante che ha visto l'Inghilterra conquistare una storica vittoria per 3-2 sulla Spagna, la nostra attenzione torna sulla Premier League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-11-17T22:05:11+00:00",
+      "squadra": "Man City"
+    },
+    {
+      "id": "b35b2786eb",
+      "titolo": "De Laurentiis ha firmato l'acquisto dei terreni per il nuovo centro sportivo del Napoli: \"Oggi è un nuovo inizio\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/18-152668270/de_laurentiis_ha_firmato_l_acquisto_del_nuovo_centro_sportivo_del_napoli_oggi_un_nuovo_inizio/",
+      "estratto": "Il presidente azzurro questa mattina si è recato insieme al sindaco di Qualiano nel centro notarile in via dei Mille, nel quartiere Chiaia, per sottoscrivere il preliminare: quando inizieranno i lavori",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": -330,
-      "pubblicato": "2026-11-18T17:25:58+00:00",
+      "pubblicato": "2026-11-18T12:08:03+00:00",
       "squadra": "Napoli"
     },
     {
@@ -859,76 +857,40 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "6469a58110",
-      "titolo": "Bruno Fernandes segna in Galles. E piace al Milan...",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/18-152663159/bruno_fernandes_segna_in_galles_e_piace_al_milan_/",
-      "estratto": "Il Portogallo primo nel gruppo 4. Il calciatore dello United nel mirino dei rossoneri",
-      "fonte": "Tuttosport",
+      "id": "7ed492001a",
+      "titolo": "Moreira con il diavolo in corpo: decisivo sia con il Milan che col Belgio",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/11/18-152665612/moreira_con_il_diavolo_in_corpo_decisivo_sia_con_il_milan_che_col_belgio/",
+      "estratto": "Il patron Cardinale lo ha acquistato per 51 milioni di euro per alzare il livello e la competitività della squadra: il colpo è riuscito",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -370,
-      "pubblicato": "2026-11-18T08:35:00+00:00",
+      "pubblicato": "2026-11-18T09:30:13+00:00",
       "squadra": "Milan"
     },
     {
-      "id": "6985c56b2d",
-      "titolo": "La folle vita di Peter Storey morto a 81 anni: la leggenda dell'Arsenal vincitrice del double condannata a tre anni di carcere per il suo ruolo in un'organizzazione criminale di contraffazione, che ha anche gestito un bordello ed è stata scoperta a tentare di introdurre illegalmente film per adulti nel Regno Unito",
-      "url": "https://www.dailymail.com/sport/football/article-16300461/Peter-Storey-died-aged-81-Arsenal-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Coloro che sono legati all'Arsenal e all'Inghilterra in particolare, così come al Fulham, sono in lutto martedì in seguito alla notizia della morte di Peter Storey, all'età di 81 anni.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-11-18T16:55:47+00:00",
-      "squadra": "Arsenal"
-    },
-    {
-      "id": "79f6431217",
-      "titolo": "Real Madrid, ufficiale il rinnovo di Arda Güler: i dettagli",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/11/18-152673994/real_madrid_ufficiale_il_rinnovo_di_arda_gler_i_dettagli/",
-      "estratto": "L'annuncio del club di Florentino Perez e l'emozionante post pubblicato sui social dal fantasista turco a margine della firma sul nuovo contratto",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-11-18T16:33:22+00:00",
-      "squadra": "Real Madrid"
-    },
-    {
-      "id": "9b7b66d1ac",
-      "titolo": "L’Italia in transizione si aggrappa al miracolo Como e alla sua eredità storica ai Globe Soccer Awards 2026",
-      "url": "https://www.corrieredellosport.it/news/calcio/2026/11/18-152665466/litalia_in_transizione_si_aggrappa_al_miracolo_como_e_alla_sua_eredit_storica_ai_globe_soccer_awards_2026/",
-      "estratto": "Il calcio italiano cerca il rilancio all'evento di Dubai: la squadra di Fabregas guida la riscossa",
-      "fonte": "Corriere dello Sport",
+      "id": "517823c479",
+      "titolo": "Maledizione Kean, nuovo infortunio: il comunicato del Como e i tempi di recupero",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/17-152652247/maledizione_kean_nuovo_infortunio_il_comunicato_del_como_e_i_tempi_di_recupero/",
+      "estratto": "Pessime notizie per l'ex attaccante della Juve: le sue condizioni e cosa filtra sul rientro",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-11-18T08:55:06+00:00",
+      "punteggio": -380,
+      "pubblicato": "2026-11-17T18:30:00+00:00",
       "squadra": "Como"
     },
     {
-      "id": "cc4ed898ff",
-      "titolo": "Il Manchester City deve assolutamente invertire la rotta, i vecchi rivali Chelsea e Leeds pronti al big match di Stamford Bridge e il battesimo del fuoco di Mauricio Pochettino: SETTE motivi per cui siamo impazienti per il ritorno della Premier League",
-      "url": "https://www.dailymail.com/sport/football/article-16299831/man-city-chelsea-leeds-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dopo una sosta per le nazionali entusiasmante che ha visto l'Inghilterra conquistare una storica vittoria per 3-2 sulla Spagna, la nostra attenzione torna sulla Premier League.",
+      "id": "7ae18f2a2d",
+      "titolo": "La Premier League individua SEI gravi errori arbitrali in un solo fine settimana mentre il designatore Howard Webb si prepara a incontrare i club dopo il pasticcio sull'Arsenal",
+      "url": "https://www.dailymail.com/sport/football/article-16302267/Premier-League-identify-FIVE-key-refereeing-errors-one-weekend-boss-Howard-Webb-prepares-appear-clubs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "BOBBY MANZI: È stato stabilito all'unanimità che a Kai Havertz sarebbe dovuto essere assegnato un calcio di rigore dopo essere stato trattenuto in area durante la vittoria dell'Arsenal contro l'Hull City, nonostante si trovasse in posizione di fuorig",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-11-17T22:05:11+00:00",
-      "squadra": "Man City"
-    },
-    {
-      "id": "2c0568a9d8",
-      "titolo": "Klopp rompe le righe e attacca duramente Infantino: la leggenda del Liverpool è il primo tecnico a schierarsi contro il presidente della FIFA, ritenuto PEGGIORE di Sepp Blatter, mentre sale la pressione dopo la farsa Mondiale",
-      "url": "https://www.dailymail.com/sport/football/article-16296221/jurgen-klopp-gianni-infantino-fifa-germany.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La reputazione di Infantino è crollata vertiginosamente dopo l'atteggiamento servile mostrato nei confronti di Donald Trump prima e durante i Mondiali, culminato nell'assegnazione di un grottesco 'Premio FIFA per la Pace'.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -400,
-      "pubblicato": "2026-11-16T15:36:59+00:00",
-      "squadra": "Liverpool "
+      "pubblicato": "2026-11-18T19:15:20+00:00",
+      "squadra": "Arsenal"
     },
     {
       "id": "cb67d7e371",
@@ -938,21 +900,33 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -530,
+      "punteggio": -410,
       "pubblicato": "2026-11-18T19:20:32+00:00",
       "squadra": "Juventus"
     },
     {
-      "id": "b35b2786eb",
-      "titolo": "De Laurentiis ha firmato l'acquisto dei terreni per il nuovo centro sportivo del Napoli: \"Oggi è un nuovo inizio\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/18-152668270/de_laurentiis_ha_firmato_l_acquisto_del_nuovo_centro_sportivo_del_napoli_oggi_un_nuovo_inizio/",
-      "estratto": "Il presidente azzurro questa mattina si è recato insieme al sindaco di Qualiano nel centro notarile in via dei Mille, nel quartiere Chiaia, per sottoscrivere il preliminare: quando inizieranno i lavori",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -530,
-      "pubblicato": "2026-11-18T12:08:03+00:00",
-      "squadra": "Napoli"
+      "id": "6f635bd905",
+      "titolo": "Arda Güler firma un nuovo contratto di sei anni con il Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
+      "estratto": "Arda Güler ha firmato un nuovo contratto a lungo termine con il Real Madrid fino al 2032, ha annunciato il club mercoledì.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -480,
+      "pubblicato": "2026-11-18T11:23:01+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "0f72faa13c",
+      "titolo": "L'aria da ragazzino, la passione per i Lego e le origini contadine prima dell'addio al Man City per diventare il numero 1 dell'Inghilterra: la maturazione di James Trafford, costato 95 milioni di sterline, stella di Leeds e Three Lions",
+      "url": "https://www.dailymail.com/sport/football/article-16296111/james-trafford-england-goalkeeper-manchester-city.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "'È stato come incontrare un ragazzino a un open day sull'orientamento scolastico'. Questo il verdetto, poco lusinghiero ma comunque affettuoso, di un dirigente di Premier League dopo aver incontrato James Trafford.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -480,
+      "pubblicato": "2026-11-16T21:35:25+00:00",
+      "squadra": "Man City"
     },
     {
       "id": "33be78c6ae",
@@ -967,52 +941,52 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "c5cda7d926",
-      "titolo": "Il Real Madrid blinda Arda Guler: rinnovo ufficiale, comunicato e dettagli",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/18-152667725/il_real_madrid_blinda_arda_guler_rinnovo_ufficiale_comunicato_e_dettagli/",
-      "estratto": "Il giovane talento turco prolunga il contratto con i blancos. Sempre più al centro del progetto di Mourinho",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
+      "id": "d64a24f97b",
+      "titolo": "Napoli, nuovo centro sportivo: acquistati i terreni a Qualiano. Le parole di De Laurentiis",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/napoli-centro-sportivo-acquistati-terreni-qualiano-parole-de-laurentiis-2295178",
+      "estratto": "Il Napoli avrà un nuovo quartier generale.",
+      "fonte": "TMW",
+      "serie": "Serie A",
       "citazione": false,
-      "punteggio": -600,
-      "pubblicato": "2026-11-18T11:41:35+00:00",
-      "squadra": "Real Madrid"
+      "punteggio": -570,
+      "pubblicato": "2026-11-18T23:41:00+00:00",
+      "squadra": "Napoli"
     },
     {
-      "id": "029d84dd52",
-      "titolo": "Kean, arrivederci al 2027. Il Como pesca il sostituto in Liga: chi può arrivare a gennaio",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/18-152663347/kean_arrivederci_al_2027_il_como_pesca_il_sostituto_in_liga_chi_pu_arrivare_a_gennaio/",
-      "estratto": "Nuovi guai per l'ex Juve. Stop in allenamento: atteso ora l'esito dei nuovi esami",
+      "id": "6469a58110",
+      "titolo": "Bruno Fernandes segna in Galles. E piace al Milan...",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/18-152663159/bruno_fernandes_segna_in_galles_e_piace_al_milan_/",
+      "estratto": "Il Portogallo primo nel gruppo 4. Il calciatore dello United nel mirino dei rossoneri",
       "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -600,
-      "pubblicato": "2026-11-18T08:26:00+00:00",
-      "squadra": "Como"
+      "punteggio": -570,
+      "pubblicato": "2026-11-18T08:35:00+00:00",
+      "squadra": "Milan"
     },
     {
-      "id": "8144c16ad0",
-      "titolo": "Declan Rice trova l'accordo per un nuovo quinquennale con l'Arsenal: la stella affiancherà Bukayo Saka come giocatore più pagato dei Gunners a oltre 350.000 sterline a settimana, a pochi giorni dall'essersi definito 'estremamente fortunato' a giocare per il club",
-      "url": "https://www.dailymail.com/sport/football/article-16297859/Declan-Rice-agrees-new-five-year-Arsenal-contract-Star-join-Bukayo-Saka-Gunners-highest-paid-player-350-000-week-days-midfielder-declared-extremely-lucky-play-Gunners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il centrocampista dell'Inghilterra dovrebbe firmare a breve il nuovo contratto, che lo porterà al fianco di Bukayo Saka sul gradino più alto del monte ingaggi dell'Arsenal. Saka percepisce oltre 350.000 sterline a settimana.",
+      "id": "6985c56b2d",
+      "titolo": "La folle vita di Peter Storey morto a 81 anni: la leggenda dell'Arsenal vincitrice del double condannata a tre anni di carcere per il suo ruolo in un'organizzazione criminale di contraffazione, che ha anche gestito un bordello ed è stata scoperta a tentare di introdurre illegalmente film per adulti nel Regno Unito",
+      "url": "https://www.dailymail.com/sport/football/article-16300461/Peter-Storey-died-aged-81-Arsenal-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Coloro che sono legati all'Arsenal e all'Inghilterra in particolare, così come al Fulham, sono in lutto martedì in seguito alla notizia della morte di Peter Storey, all'età di 81 anni.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-11-17T16:58:37+00:00",
+      "pubblicato": "2026-11-18T16:55:47+00:00",
       "squadra": "Arsenal"
     },
     {
-      "id": "0f72faa13c",
-      "titolo": "L'aria da ragazzino, la passione per i Lego e le origini contadine prima dell'addio al Man City per diventare il numero 1 dell'Inghilterra: la maturazione di James Trafford, costato 95 milioni di sterline, stella di Leeds e Three Lions",
-      "url": "https://www.dailymail.com/sport/football/article-16296111/james-trafford-england-goalkeeper-manchester-city.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "'È stato come incontrare un ragazzino a un open day sull'orientamento scolastico'. Questo il verdetto, poco lusinghiero ma comunque affettuoso, di un dirigente di Premier League dopo aver incontrato James Trafford.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
+      "id": "9b7b66d1ac",
+      "titolo": "L’Italia in transizione si aggrappa al miracolo Como e alla sua eredità storica ai Globe Soccer Awards 2026",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/11/18-152665466/litalia_in_transizione_si_aggrappa_al_miracolo_como_e_alla_sua_eredit_storica_ai_globe_soccer_awards_2026/",
+      "estratto": "Il calcio italiano cerca il rilancio all'evento di Dubai: la squadra di Fabregas guida la riscossa",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-11-16T21:35:25+00:00",
-      "squadra": "Man City"
+      "pubblicato": "2026-11-18T08:55:06+00:00",
+      "squadra": "Como"
     },
     {
       "id": "4aa2e589a4",
@@ -1022,9 +996,21 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -730,
+      "punteggio": -610,
       "pubblicato": "2026-11-18T19:07:24+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "489cd5b062",
+      "titolo": "Il tormentone estivo di mercato è finalmente alle spalle per Vinícius Júnior del Real Madrid?",
+      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+      "estratto": "Dopo un'estate di incertezze sul mercato e un avvio di stagione in sordina, Vinícius Junior è sulla via del recupero con il Real Madrid e con il Brasile.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -680,
+      "pubblicato": "2026-11-17T15:05:58+00:00",
+      "squadra": "Real Madrid"
     },
     {
       "id": "01bb7728ec",
@@ -1051,27 +1037,27 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "6f635bd905",
-      "titolo": "Arda Güler firma un nuovo contratto di sei anni con il Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
-      "estratto": "Arda Güler ha firmato un nuovo contratto a lungo termine con il Real Madrid fino al 2032, ha annunciato il club mercoledì.",
-      "fonte": "ESPN",
-      "serie": "Estero",
+      "id": "029d84dd52",
+      "titolo": "Kean, arrivederci al 2027. Il Como pesca il sostituto in Liga: chi può arrivare a gennaio",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/11/18-152663347/kean_arrivederci_al_2027_il_como_pesca_il_sostituto_in_liga_chi_pu_arrivare_a_gennaio/",
+      "estratto": "Nuovi guai per l'ex Juve. Stop in allenamento: atteso ora l'esito dei nuovi esami",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": -800,
-      "pubblicato": "2026-11-18T11:23:01+00:00",
-      "squadra": "Real Madrid"
+      "pubblicato": "2026-11-18T08:26:00+00:00",
+      "squadra": "Como"
     },
     {
-      "id": "501c3922ed",
-      "titolo": "Spingi al Max! Dowman, 16 anni, diventa il più giovane marcatore di sempre dell'Inghilterra U21: il gioiellino dell'Arsenal firma il gol vittoria all'89' contro la Francia",
-      "url": "https://www.dailymail.com/sport/football/article-16298047/Max-Dowman-England-goalscorer-Arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il teenager dell'Arsenal ha già infranto una serie infinita di record con il club e ora si sta ripetendo anche a livello internazionale, battendo un primato stabilito dalla stella della nazionale maggiore Jude Bellingham.",
+      "id": "8144c16ad0",
+      "titolo": "Declan Rice trova l'accordo per un nuovo quinquennale con l'Arsenal: la stella affiancherà Bukayo Saka come giocatore più pagato dei Gunners a oltre 350.000 sterline a settimana, a pochi giorni dall'essersi definito 'estremamente fortunato' a giocare per il club",
+      "url": "https://www.dailymail.com/sport/football/article-16297859/Declan-Rice-agrees-new-five-year-Arsenal-contract-Star-join-Bukayo-Saka-Gunners-highest-paid-player-350-000-week-days-midfielder-declared-extremely-lucky-play-Gunners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il centrocampista dell'Inghilterra dovrebbe firmare a breve il nuovo contratto, che lo porterà al fianco di Bukayo Saka sul gradino più alto del monte ingaggi dell'Arsenal. Saka percepisce oltre 350.000 sterline a settimana.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -800,
-      "pubblicato": "2026-11-16T23:37:18+00:00",
+      "pubblicato": "2026-11-17T16:58:37+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1082,7 +1068,7 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -930,
+      "punteggio": -810,
       "pubblicato": "2026-11-18T13:14:11+00:00",
       "squadra": "Juventus"
     },
@@ -1099,27 +1085,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "489cd5b062",
-      "titolo": "Il tormentone estivo di mercato è finalmente alle spalle per Vinícius Júnior del Real Madrid?",
-      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
-      "estratto": "Dopo un'estate di incertezze sul mercato e un avvio di stagione in sordina, Vinícius Junior è sulla via del recupero con il Real Madrid e con il Brasile.",
-      "fonte": "ESPN",
+      "id": "501c3922ed",
+      "titolo": "Spingi al Max! Dowman, 16 anni, diventa il più giovane marcatore di sempre dell'Inghilterra U21: il gioiellino dell'Arsenal firma il gol vittoria all'89' contro la Francia",
+      "url": "https://www.dailymail.com/sport/football/article-16298047/Max-Dowman-England-goalscorer-Arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il teenager dell'Arsenal ha già infranto una serie infinita di record con il club e ora si sta ripetendo anche a livello internazionale, battendo un primato stabilito dalla stella della nazionale maggiore Jude Bellingham.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1000,
-      "pubblicato": "2026-11-17T15:05:58+00:00",
-      "squadra": "Real Madrid"
-    },
-    {
-      "id": "996c3bfc20",
-      "titolo": "Declan Rice, intesa di massima per un nuovo accordo quinquennale con l'Arsenal - fonti",
-      "url": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal",
-      "estratto": "Il centrocampista dell'Arsenal Declan Rice ha raggiunto un'intesa di massima per un nuovo contratto quinquennale che prolungherà la sua permanenza nel club fino al 2031, riferiscono fonti a ESPN.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1000,
-      "pubblicato": "2026-11-16T23:06:30+00:00",
+      "pubblicato": "2026-11-16T23:37:18+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1130,7 +1104,7 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -1130,
+      "punteggio": -1010,
       "pubblicato": "2026-11-18T08:50:35+00:00",
       "squadra": "Juventus"
     },
@@ -1147,15 +1121,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "c0544f37ba",
-      "titolo": "I retroscena sulla nuova vita del 'tormentato' Arsène Wenger dopo aver rinunciato allo scontro con Gianni Infantino: il 'divorzio' dall'Arsenal e il motivo per cui potrebbe ancora abbandonare la mangiatoia della FIFA",
-      "url": "https://www.dailymail.com/sport/football/article-16296131/Arsene-Wenger-FIFA-Gianni-Infantino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Lo scorso mese — mentre divampavano le polemiche per il piano sventato del presidente della FIFA Gianni Infantino di cedere quote dei Mondiali maschili per nazionali maggiori — Wenger si trovava nella sua oasi felice.",
-      "fonte": "Daily Mail",
+      "id": "996c3bfc20",
+      "titolo": "Declan Rice, intesa di massima per un nuovo accordo quinquennale con l'Arsenal - fonti",
+      "url": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal",
+      "estratto": "Il centrocampista dell'Arsenal Declan Rice ha raggiunto un'intesa di massima per un nuovo contratto quinquennale che prolungherà la sua permanenza nel club fino al 2031, riferiscono fonti a ESPN.",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1200,
-      "pubblicato": "2026-11-16T17:00:50+00:00",
+      "pubblicato": "2026-11-16T23:06:30+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1166,7 +1140,7 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -1330,
+      "punteggio": -1210,
       "pubblicato": "2026-11-18T06:34:52+00:00",
       "squadra": "Juventus"
     },
@@ -1183,15 +1157,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "10d3b4a4d9",
-      "titolo": "Voci di mercato, ultime notizie: l'Arsenal punta l'ex attaccante del Tottenham Will Lankshear",
-      "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
-      "estratto": "L'Arsenal è l'ultima squadra a unirsi a una lunga lista di ammiratori dell'attaccante del Middlesbrough Will Lankshear. Transfer Talk riporta le ultime notizie.",
-      "fonte": "ESPN",
+      "id": "c0544f37ba",
+      "titolo": "I retroscena sulla nuova vita del 'tormentato' Arsène Wenger dopo aver rinunciato allo scontro con Gianni Infantino: il 'divorzio' dall'Arsenal e il motivo per cui potrebbe ancora abbandonare la mangiatoia della FIFA",
+      "url": "https://www.dailymail.com/sport/football/article-16296131/Arsene-Wenger-FIFA-Gianni-Infantino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Lo scorso mese — mentre divampavano le polemiche per il piano sventato del presidente della FIFA Gianni Infantino di cedere quote dei Mondiali maschili per nazionali maggiori — Wenger si trovava nella sua oasi felice.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -1400,
-      "pubblicato": "2026-11-16T04:52:47+00:00",
+      "pubblicato": "2026-11-16T17:00:50+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1202,7 +1176,7 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1550,
+      "punteggio": -1430,
       "pubblicato": "2026-11-18T22:15:34+00:00",
       "squadra": "Juventus"
     },
@@ -1219,6 +1193,18 @@
       "squadra": "Man Utd"
     },
     {
+      "id": "10d3b4a4d9",
+      "titolo": "Voci di mercato, ultime notizie: l'Arsenal punta l'ex attaccante del Tottenham Will Lankshear",
+      "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
+      "estratto": "L'Arsenal è l'ultima squadra a unirsi a una lunga lista di ammiratori dell'attaccante del Middlesbrough Will Lankshear. Transfer Talk riporta le ultime notizie.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1600,
+      "pubblicato": "2026-11-16T04:52:47+00:00",
+      "squadra": "Arsenal"
+    },
+    {
       "id": "9c59db3389",
       "titolo": "Arbitro Juve-Venezia, esordio assoluto! Sala Var: con lui è quasi sempre un incubo…",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152667834/arbitro_juve-venezia_esordio_assoluto_sala_var_con_lui_quasi_sempre_un_incubo/",
@@ -1226,7 +1212,7 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1750,
+      "punteggio": -1630,
       "pubblicato": "2026-11-18T12:15:56+00:00",
       "squadra": "Juventus"
     },
@@ -1243,15 +1229,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "279d4f380e",
-      "titolo": "La Juve piega il Leuven e vola alla fase a eliminazione diretta, l’Inter crolla nel finale contro il Real Madrid",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-femminile/2026/11/18-152677777/la_juve_piega_il_leuven_e_vola_alla_fase_a_eliminazione_diretta_linter_crolla_nel_finale_contro_il_real_madrid/",
-      "estratto": "L'ex Roma Serturini decisiva a Biella, bianconere sicure di un posto tra le prime dodici. Le nerazzurre, in dieci per oltre un’ora, cedono 3-1 al Di Stéfano per la doppietta di Bruun negli ultimi minuti",
-      "fonte": "Corriere dello Sport",
+      "id": "04e11c35ea",
+      "titolo": "Conte vuole la Juve ed è uscito allo scoperto. Spalletti è avvisato: non potrà più sbagliare. Le prossime otto partite decideranno chi sarà l'allenatore bianconero da gennaio in poi",
+      "url": "https://www.tuttomercatoweb.com/editoriale/conte-vuole-juve-uscito-scoperto-spalletti-avvisato-potra-sbagliare-prossime-partite-decideranno-all-2295117",
+      "estratto": "Quello di alcune settimane fa poteva sembrare un messaggio indirizzato a vari club, a quelli che avevano \"perso di vista la loro storia\", ma le parole delle ultime ore hanno sgombrato il campo da ogni dubbio: Antonio Conte vuole tornare alla Juventus",
+      "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1970,
-      "pubblicato": "2026-11-18T21:53:27+00:00",
+      "punteggio": -1850,
+      "pubblicato": "2026-11-19T02:08:00+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1267,15 +1253,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "78a293fe82",
-      "titolo": "Zhegrova fa sorridere Spalletti, in quattro a parte: cosa filtra per Juve-Venezia",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152669099/zhegrova_fa_sorridere_spalletti_in_quattro_a_parte_cosa_filtra_per_juve-venezia/",
-      "estratto": "I bianconeri si allenano alla Continassa per preparare la prossima sfida di campionato: la situazione dopo la seduta mattutina",
-      "fonte": "Tuttosport",
+      "id": "1830f69fe9",
+      "titolo": "Le elezioni federali, il mercato della Juve, il modello Inter: tutte le dichiarazioni dal RCS Sport Industry Talk",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/elezioni-federali-mercato-juve-modello-inter-dichiarazioni-rcs-sport-industry-talk-2295154",
+      "estratto": "Le elezioni Figc del 14 dicembre, il futuro degli stadi italiani e le prospettive economiche dei club.",
+      "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2170,
-      "pubblicato": "2026-11-18T12:52:04+00:00",
+      "punteggio": -2050,
+      "pubblicato": "2026-11-18T23:38:37+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1291,15 +1277,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "88ec39a7ef",
-      "titolo": "La Juve e la forza di trattenere Alajbegovic: il rilancio non può passare da Woltemade o Kolo Muani...",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/18-152663906/la_juve_e_la_forza_di_trattenere_alajbegovic_il_rilancio_non_pu_passare_da_woltemade_o_kolo_muani_/",
-      "estratto": "Il commento sul mercato dei bianconeri tra presente e futuro",
+      "id": "279d4f380e",
+      "titolo": "La Juve piega il Leuven e vola alla fase a eliminazione diretta, l’Inter crolla nel finale contro il Real Madrid",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-femminile/2026/11/18-152677777/la_juve_piega_il_leuven_e_vola_alla_fase_a_eliminazione_diretta_linter_crolla_nel_finale_contro_il_real_madrid/",
+      "estratto": "L'ex Roma Serturini decisiva a Biella, bianconere sicure di un posto tra le prime dodici. Le nerazzurre, in dieci per oltre un’ora, cedono 3-1 al Di Stéfano per la doppietta di Bruun negli ultimi minuti",
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2370,
-      "pubblicato": "2026-11-18T08:21:01+00:00",
+      "punteggio": -2250,
+      "pubblicato": "2026-11-18T21:53:27+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1315,15 +1301,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "3707956ed2",
-      "titolo": "Owusu e Pagnucco, la Serie A bussa alla Juve per i gioielli Next Gen: ecco chi",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152662973/owusu_e_pagnucco_la_serie_a_bussa_alla_juve_per_i_gioielli_next_gen_ecco_chi/",
-      "estratto": "Il mediano azzurro è l’unico giocatore di Brambilla ad aver esordito in Prima",
+      "id": "78a293fe82",
+      "titolo": "Zhegrova fa sorridere Spalletti, in quattro a parte: cosa filtra per Juve-Venezia",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152669099/zhegrova_fa_sorridere_spalletti_in_quattro_a_parte_cosa_filtra_per_juve-venezia/",
+      "estratto": "I bianconeri si allenano alla Continassa per preparare la prossima sfida di campionato: la situazione dopo la seduta mattutina",
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2570,
-      "pubblicato": "2026-11-18T08:09:00+00:00",
+      "punteggio": -2450,
+      "pubblicato": "2026-11-18T12:52:04+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1339,15 +1325,15 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "0835287482",
-      "titolo": "Zhegrova e Celik, sollievo Juve: come cambia la formazione per il Venezia",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152662952/zhegrova_e_celik_sollievo_juve_come_cambia_la_formazione_per_il_venezia/",
-      "estratto": "Erano tornati acciaccati dagli impegni con le nazionali, ma gli esami hanno escluso lesioni",
-      "fonte": "Tuttosport",
+      "id": "88ec39a7ef",
+      "titolo": "La Juve e la forza di trattenere Alajbegovic: il rilancio non può passare da Woltemade o Kolo Muani...",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/18-152663906/la_juve_e_la_forza_di_trattenere_alajbegovic_il_rilancio_non_pu_passare_da_woltemade_o_kolo_muani_/",
+      "estratto": "Il commento sul mercato dei bianconeri tra presente e futuro",
+      "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2770,
-      "pubblicato": "2026-11-18T08:05:53+00:00",
+      "punteggio": -2650,
+      "pubblicato": "2026-11-18T08:21:01+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1363,6 +1349,18 @@
       "squadra": "Man Utd"
     },
     {
+      "id": "3707956ed2",
+      "titolo": "Owusu e Pagnucco, la Serie A bussa alla Juve per i gioielli Next Gen: ecco chi",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152662973/owusu_e_pagnucco_la_serie_a_bussa_alla_juve_per_i_gioielli_next_gen_ecco_chi/",
+      "estratto": "Il mediano azzurro è l’unico giocatore di Brambilla ad aver esordito in Prima",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2850,
+      "pubblicato": "2026-11-18T08:09:00+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "1be226aab0",
       "titolo": "JJ Gabriel spiazza il Manchester United dopo aver confermato l'addio: il sedicenne pubblica un video d'addio mentre finalizza il passaggio al Real Madrid dopo aver gelato i dirigenti dell'Old Trafford con la sua decisione",
       "url": "https://www.dailymail.com/sport/football/article-16300607/JJ-Gabriel-Man-United-exit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1373,6 +1371,18 @@
       "punteggio": -3000,
       "pubblicato": "2026-11-17T20:07:00+00:00",
       "squadra": "Man Utd"
+    },
+    {
+      "id": "0835287482",
+      "titolo": "Zhegrova e Celik, sollievo Juve: come cambia la formazione per il Venezia",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/18-152662952/zhegrova_e_celik_sollievo_juve_come_cambia_la_formazione_per_il_venezia/",
+      "estratto": "Erano tornati acciaccati dagli impegni con le nazionali, ma gli esami hanno escluso lesioni",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -3050,
+      "pubblicato": "2026-11-18T08:05:53+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "58c0dd9db1",
@@ -1468,18 +1478,6 @@
       "citazione": false,
       "punteggio": -4600,
       "pubblicato": "2026-11-16T10:54:18+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "8e7344eefb",
-      "titolo": "Mauricio Pochettino cambia tipo di football: il nuovo manager del Man United prosegue il tour d'addio negli USA assistendo a un match di NFL prima della sua ultima panchina",
-      "url": "https://www.dailymail.com/sport/football/article-16295441/mauricio-pochettino-manchester-united-farewell-nfl-bengals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico ha ancora una partita alla guida degli Stati Uniti prima di separarsi dalla nazionale per approdare al Manchester United, dopo aver trovato l'accordo con il club di Premier League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -4800,
-      "pubblicato": "2026-11-16T03:55:23+00:00",
       "squadra": "Man Utd"
     }
   ]

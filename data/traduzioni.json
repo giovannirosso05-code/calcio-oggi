@@ -19,10 +19,6 @@
   "titolo": "Voci di mercato, ultime notizie: l'Arsenal punta l'ex attaccante del Tottenham Will Lankshear",
   "estratto": "L'Arsenal è l'ultima squadra a unirsi a una lunga lista di ammiratori dell'attaccante del Middlesbrough Will Lankshear. Transfer Talk riporta le ultime notizie."
  },
- "bcec85fbb0": {
-  "titolo": "Tenerife in campo per la prima volta dopo la morte del trentenne Jesus de Miguel, tragico scontro in campo con il portiere: omaggi e partita interrotta al 9' in una giornata di grande commozione",
-  "estratto": "Il portiere Jesus Owono era uscito coraggiosamente dai pali travolgendo De Miguel con un intervento alto, che aveva costretto l'attaccante al ricovero in terapia intensiva, dove è deceduto in seguito."
- },
  "05783779c4": {
   "titolo": "\"Gli allenatori oggi sono dannatamente noiosi!\" Neil Warnock sulla mancanza di personalità nel calcio, la sua amicizia con Pep Guardiola, sul perché è aperto a tornare in panchina dopo Natale e su come per poco non è diventato un podologo!",
   "estratto": "LEWIS STEELE: Parliamo di una vita nel calcio iniziata sei decenni fa e che ha visto 10 club da giocatore, 17 da allenatore e più di 2.000 partite in panchina."
@@ -30,18 +26,6 @@
  "40d2bf7ce8": {
   "titolo": "L'Inghilterra offre uno spettacolo grandioso: i Tre Leoni strappano l'imbencibilità ai campioni del mondo della Spagna e danno a Thomas Tuchel la prova che il suo lavoro di tecnico STA funzionando, scrive Oliver Holt",
   "estratto": "SPAGNA-INGHILTERRA 2-3 - OLIVER HOLT A MADRID: Thomas Tuchel aveva detto di volere delle prove. Aveva bisogno di credere che il suo lavoro da allenatore stesse funzionando."
- },
- "19e10b8281": {
-  "titolo": "La \"miglior notte\" di Thomas Tuchel come commissario tecnico dell'Inghilterra: il ct dei Tre Leoni esalta i suoi eroi dopo la vittoria sulla Spagna, ma attacca la decisione su Elliot Anderson presa da un arbitro che in passato aveva definito \"da uno su dieci\"",
-  "estratto": "OLIVER HOLT A MADRID: L'Inghilterra ha espresso il miglior calcio dei due anni di regno di Tuchel come c.t., ponendo fine alla striscia record mondiale della Spagna di 43 partite senza sconfitte."
- },
- "0fa8ba8bc3": {
-  "titolo": "Andy Burnham invita alla cautela riguardo ai possibili passi per abolire il \"blackout\" delle 15:00 in Premier League",
-  "estratto": "Il Primo Ministro Andy Burnham afferma che \"inviterebbe alla cautela\" riguardo all'abolizione del blackout del sabato alle 15:00."
- },
- "e2c9d15719": {
-  "titolo": "Spagna \"sopraffatta\" da un'Inghilterra \"eccezionale\": sappiamo anche perdere",
-  "estratto": "Il commissario tecnico Luis de la Fuente ha dichiarato che la Spagna è stata \"sopraffatta\" nelle prime fasi della sconfitta per 3-2 di domenica in UEFA Nations League contro l'Inghilterra, ma ha sostenuto che la sua squadra tornerà più forte dopo ave"
  },
  "f600d8f4d0": {
   "titolo": "Florian Wirtz segna una doppietta (con una perla) nel 5-0 della Germania all'Olanda in UEFA Nations League... mentre l'oggetto misterioso del Liverpool riceve l'abbraccio di Jurgen Klopp dopo una prova convincente",
@@ -110,10 +94,6 @@
  "bac40a79f2": {
   "titolo": "Hey, Jude! Il trascinatore dell'Inghilterra Bellingham festeggia con un bacio della fidanzata Ashlyn Castro in una rara apparizione pubblica insieme, dopo aver guidato i Three Lions al successo sui campioni del mondo della Spagna",
   "estratto": "Jude Bellingham ha suggellato la splendida vittoria dell'Inghilterra per 3-2 sui campioni del mondo della Spagna con un bacio della fidanzata Ashlyn Castro, con la coppia protagonista di una rara apparizione pubblica insieme domenica."
- },
- "8e7344eefb": {
-  "titolo": "Mauricio Pochettino cambia tipo di football: il nuovo manager del Man United prosegue il tour d'addio negli USA assistendo a un match di NFL prima della sua ultima panchina",
-  "estratto": "Il tecnico ha ancora una partita alla guida degli Stati Uniti prima di separarsi dalla nazionale per approdare al Manchester United, dopo aver trovato l'accordo con il club di Premier League."
  },
  "996c3bfc20": {
   "titolo": "Declan Rice, intesa di massima per un nuovo accordo quinquennale con l'Arsenal - fonti",
@@ -338,5 +318,13 @@
  "106b37ec18": {
   "titolo": "Riclassifica degli MVP per ciascuno dei principali club della Premier League",
   "estratto": "Sulla base di una semplice combinazione di abilità e importanza tattica, abbiamo stilato una nuova classifica dei migliori giocatori dei principali club della Premier League."
+ },
+ "05a326c3cb": {
+  "titolo": "Dietro le quinte del \"scomodo\" mondo dei documentari sul calcio: La scioccante \"mancanza di rispetto\" mostrata verso gli allenatori, come Pep Guardiola ha imparato ad amare le telecamere - e perché la nomina di Mauricio Pochettino è una brutta notizia per la troupe di Amazon a Carrington",
+  "estratto": "L'ex allenatore del Salford Anthony Johnson lo ricorda bene. 'Ho aperto la porta dello spogliatoio e - boom - c'erano queste telecamere, queste luci... Nessuno ci aveva detto niente del documentario.'"
+ },
+ "9216976f53": {
+  "titolo": "Mykhailo Mudryk rivela di aver speso \"MILIONI\" in spese legali per combattere l'accusa di doping e incolpa la sua esperienza con l'Ucraina per la squalifica di due anni in un'intervista a cuore aperto",
+  "estratto": "L'esterno d'attacco del Chelsea, ora in prestito al Tottenham Hotspur, si è confidato per la prima volta da quando è tornato al calcio giocato in estate, dopo che la sua squalifica è stata improvvisamente revocata."
  }
 }
