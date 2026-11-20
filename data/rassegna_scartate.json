@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-11-20T10:56:35.134620+00:00",
-  "totale": 29,
+  "aggiornato": "2026-11-20T18:59:45.761027+00:00",
+  "totale": 24,
   "articoli": [
+    {
+      "id": "977689abc9",
+      "titolo": "Maxi multa da 150mila sterline al Chelsea dopo i cori dei tifosi 'fanculo il Papa e l'IRA' nella sfida di FA Cup della scorsa stagione in casa del Charlton",
+      "url": "https://www.dailymail.com/sport/football/article-16309385/Chelsea-huge-150-000-fine-f-Pope-IRA-chants-FA-Cup-tie-Charlton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "KIERAN GILL: Il Chelsea ha provato a presentare ricorso contro la multa di 150.000 sterline per i cori settari. Voleva che venisse completamente cancellata o almeno ridotta in modo sostanziale.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-20T17:41:24+00:00"
+    },
+    {
+      "id": "bdf2f9808c",
+      "titolo": "Svelato: la campagna di tesseramento giovanile aggressiva del Tottenham per accaparrarsi i migliori talenti adolescenti britannici sbaragliando la concorrenza - con l'aiuto di scuole private costose e contratti da professionista lucrosi",
+      "url": "https://www.dailymail.com/sport/football/article-16308491/Tottenham-youth-recruitment-academy-schools-contracts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ISAAN KHAN: Gli Spurs puntano sui quindicenni più talentuosi della Gran Bretagna con un pacchetto su misura, guidato da ingaggi pesanti a 17 anni e istruzione gratuita in una delle scuole private più prestigiose del paese.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-20T12:00:53+00:00"
+    },
     {
       "id": "357e45bbf9",
       "titolo": "All'interno delle gang che incutono terrore alle stelle della Premier League: giocatori terrorizzati che pagano il «pizzo» e comprano cani da guardia da 20.000 sterline, WAGs prese di mira in violenti carjacking e la caduta della famiglia criminale che ha preso di mira Alexander Isak",
@@ -75,15 +93,6 @@
       "pubblicato": "2026-11-19T20:20:46+00:00"
     },
     {
-      "id": "0c042133f2",
-      "titolo": "Previsione su come tutte le 20 squadre di Premier League termineranno la stagione",
-      "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
-      "estratto": "Dopo 10 partite, abbiamo abbastanza dati per prevedere la posizione finale in classifica di ogni squadra di Premier League per la stagione 2026-27.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-19T13:50:09+00:00"
-    },
-    {
       "id": "2bec1c51ea",
       "titolo": "Valentín Barco sulla sua esperienza al Chelsea finora: 'Penso di poter dare molto di più'",
       "url": "https://www.espn.com/soccer/story/_/id/50530645/valentin-barco-chelsea-argentina-xabi-alonso",
@@ -138,15 +147,6 @@
       "pubblicato": "2026-11-18T17:03:29+00:00"
     },
     {
-      "id": "9245e6a466",
-      "titolo": "Come i giganti caduti e i loro tifosi si riprendono da scandali e retrocessioni",
-      "url": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
-      "estratto": "Alcune delle squadre più grandi d'Europa hanno subito la retrocessione come punizione. Cosa potrebbe quindi riservare il futuro per il Manchester City?",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T17:00:50+00:00"
-    },
-    {
       "id": "1c63348dba",
       "titolo": "«Sta creando una cultura che non ho mai visto prima»: la stella dell'Aston Villa AMADOU ONANA svela come Unai Emery ha influenzato il suo nuovo contratto, la sua strada «solitaria e oscura» per il recupero dall'infortunio e perché sta imparando una sesta lingua",
       "url": "https://www.dailymail.com/sport/football/article-16287139/amadou-onana-unai-emery-aston-villa-contract.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -163,15 +163,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-18T15:07:45+00:00"
-    },
-    {
-      "id": "106b37ec18",
-      "titolo": "Riclassifica degli MVP per ciascuno dei principali club della Premier League",
-      "url": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
-      "estratto": "Sulla base di una semplice combinazione di abilità e importanza tattica, abbiamo stilato una nuova classifica dei migliori giocatori dei principali club della Premier League.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T12:02:03+00:00"
     },
     {
       "id": "db9e820b1c",
@@ -226,42 +217,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-17T19:26:21+00:00"
-    },
-    {
-      "id": "b8e3e1f345",
-      "titolo": "Matheus Nunes in trattativa per prolungare il contratto con il Manchester City - le fonti",
-      "url": "https://www.espn.com/soccer/story/_/id/50511813/matheus-nunes-man-city-deal",
-      "estratto": "Il Manchester City è in trattativa con Matheus Nunes per il prolungamento del suo contratto all'Etihad Stadium, secondo quanto riferito da alcune fonti a ESPN.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-17T17:06:27+00:00"
-    },
-    {
-      "id": "811a9e31a3",
-      "titolo": "Presentatrice TV della Premier League denuncia alla polizia un \"imitatore\" su WhatsApp dopo che ha contattato vari fuoriclasse dello sport fingendosi lei",
-      "url": "https://www.dailymail.com/sport/football/article-16298787/premier-league-tv-presenter-whatsapp-impersonator-police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La presentatrice della Premier League Ellie Collins ha lanciato un avvertimento ai suoi follower dopo aver scoperto di essere stata clonata sui social network.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-17T14:33:49+00:00"
-    },
-    {
-      "id": "4706934f70",
-      "titolo": "Thomas Frank: La panchina del Crystal Palace \"troppo allettante\" per rifiutare",
-      "url": "https://www.espn.com/soccer/story/_/id/50510313/thomas-frank-crystal-palace-tottenham-premier-league",
-      "estratto": "Thomas Frank ha deciso che la panchina del Crystal Palace era \"troppo allettante per rifiutare\" dopo i colloqui con il presidente Steve Parish.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-17T13:28:25+00:00"
-    },
-    {
-      "id": "de8188c314",
-      "titolo": "Tony Mowbray lascia la carica di allenatore del Blackburn Rovers con effetto immediato per motivi di salute, a due anni dalla battaglia contro il cancro all'intestino che lo costrinse a lasciare il Birmingham City",
-      "url": "https://www.dailymail.com/sport/football/article-16299041/Tony-Mowbray-steps-Blackburn-Rovers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Tony Mowbray ha lasciato il suo incarico di tecnico del Blackburn Rovers a causa di problemi di salute. Il sessantenne in passato aveva dovuto rinunciare alla panchina del Birmingham City dopo aver lottato contro il cancro.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-17T13:02:17+00:00"
     }
   ]
 }
