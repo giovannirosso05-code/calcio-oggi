@@ -1,15 +1,123 @@
 {
-  "aggiornato": "2026-11-21T15:39:43.725522+00:00",
-  "totale": 28,
+  "aggiornato": "2026-11-21T21:14:24.041783+00:00",
+  "totale": 34,
   "articoli": [
     {
-      "id": "9a51b573e4",
-      "titolo": "LaLiga, 3 punti importanti per l'Alaves: Deportivo battuto 3-1, segna anche Boye",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/laliga-3-punti-importanti-alaves-deportivo-battuto-3-1-segna-boye-2295966",
-      "estratto": "Tre punti importantissimi per l'Alaves, che batte 3-1 il Deportivo La Coruna nella sfida della tredicesima giornata de LaLiga e si porta all'ottavo posto in classifica.",
+      "id": "f90c1af66a",
+      "titolo": "KILMARNOCK 2 ABERDEEN 4: I brillanti Dons trovano la scossa con Frick, ma è un'altra giornata da incubo per gli uomini di McCann",
+      "url": "https://www.dailymail.com/sport/football/article-16311763/KILMARNOCK-2-ABERDEEN-4-Dazzling-Dons-Frick-pick-misery-McCanns-men.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Dopo essersi annoiati a morte per il calcio espresso sotto la gestione di Stephen Robinson, i tifosi dell'Aberdeen invocavano a gran voce un nuovo allenatore che portasse un po' di spettacolo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T20:36:48+00:00"
+    },
+    {
+      "id": "a15ede71ee",
+      "titolo": "O'Neill esalta la coppia di centrocampo rientrante formata da Oxlade-Chamberlain e McCowan dopo i gol che affondano il St Mirren",
+      "url": "https://www.dailymail.com/sport/football/article-16311929/ONeill-hails-recalled-midfield-duo-Oxlade-Chamberlain-McCowan-net-help-sink-St-Mirren.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico del Celtic Martin O'Neill ha elogiato i centrocampisti Alex Oxlade-Chamberlain e Luke McCowan dopo che i due giocatori, tornati tra i titolari, hanno entrambi segnato nella vittoria casalinga per 4-1 contro il St Mirren.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T20:31:01+00:00"
+    },
+    {
+      "id": "049344c8a7",
+      "titolo": "Serie B, Pittarello decide il derby: il Pisa si impone 1-0 ed è quarto. Empoli battuto e ultimo",
+      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-2296128",
+      "estratto": "Al Pisa basta un gol in apertura di Pittarello per battere l'Empoli.",
       "fonte": "TMW",
       "serie": "Estero",
-      "pubblicato": "2026-11-21T14:56:09+00:00"
+      "pubblicato": "2026-11-21T20:26:00+00:00"
+    },
+    {
+      "id": "999145b444",
+      "titolo": "Antony illude il Betis, Salas ringrazia Valles e salva il Siviglia: finisce 1-1 il derby andaluso",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/11/21-152730225/antony_illude_il_betis_salas_ringrazia_valles_e_salva_il_siviglia_finisce_1-1_il_derby_andaluso/",
+      "estratto": "Al 'Ramón Sánchez-Pizjuán' passano gli ospiti a inizio ripresa, ma al 91' un errore del portiere porta al pari dei padroni di casa. Successi per Alaves e Valencia",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T20:13:04+00:00"
+    },
+    {
+      "id": "d7008b304e",
+      "titolo": "La forma sbalorditiva del Bournemouth, formidabile e inarrestabile, non è solo un momento di grazia, scrive JAMES SHARPE, mentre le Cherries dominano e battono il Forest per cogliere la NONA vittoria consecutiva",
+      "url": "https://www.dailymail.com/sport/football/article-16308765/Bournemouth-form-Evanilson-Nottingham-Forest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "JAMES SHARPE: Nove vittorie consecutive per la prima volta nella loro storia, con il successo odierno contro il Nottingham Forest che fa registrare la sesta affermazione di fila in casa con un punteggio complessivo di 15 a zero.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T19:28:17+00:00"
+    },
+    {
+      "id": "c1947a95a0",
+      "titolo": "L'esordio di Thomas Frank sulla panchina del Crystal Palace si chiude con una sconfitta nel finale contro il Coventry, mentre aumenta il rischio retrocessione",
+      "url": "https://www.dailymail.com/sport/football/article-16308769/Crystal-Palace-Thomas-Frank-Coventry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Crystal Palace avrà anche cambiato modulo e allenatore, ma resta senza vittorie da due mesi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T19:26:01+00:00"
+    },
+    {
+      "id": "befad3a9f3",
+      "titolo": "Dare a Youri Tielemans una clausola rescissoria da 35 milioni di sterline sembra un errore... Il pareggio stentato dell'Aston Villa contro il Sunderland è stata un'ulteriore prova che Unai Emery avrebbe bisogno di un metronomo a centrocampo a gennaio, scrive TOM COLLOMOSSE",
+      "url": "https://www.dailymail.com/sport/football/article-16308759/Giving-Youri-Tielemans-35m-release-clause-looks-like-error-Aston-Villa-toiling-draw-Sunderland-proof-Unai-Emery-midfield-controller-January-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il centrocampista belga ha lasciato l'Aston Villa per unirsi al Manchester United la scorsa estate e, sebbene sia ancora presto nella sua avventura a Old Trafford, il trasferimento non sembra funzionare per nessuna delle parti.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T19:14:56+00:00"
+    },
+    {
+      "id": "2c0f2e6bd4",
+      "titolo": "Il predestinato Williams-Barnett ispira il Tottenham in una vittoria agevole contro l'Ipswich",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878754",
+      "estratto": "Luca Williams-Barnett ha risposto alle grandi aspettative con una prestazione scintillante nel suo esordio da titolare con il Tottenham, trascinando la squadra a un successo per 2-0 contro l'Ipswich.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T17:49:09+00:00"
+    },
+    {
+      "id": "a1cb95a05e",
+      "titolo": "Celtic 4 St Mirren 1: Oxlade-Chamberlain torna a splendere mentre i campioni fanno a pezzi i Buddies",
+      "url": "https://www.dailymail.com/sport/football/article-16311651/Celtic-St-Mirren-Oxlade-Chamberlain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Cosa non darebbe Martin O'Neill per vedere di più di questo fino all'arrivo dei rinforzi sul mercato di gennaio.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T17:48:20+00:00"
+    },
+    {
+      "id": "6caf8dd63a",
+      "titolo": "Il Coventry batte il Crystal Palace 3-2 mentre Thomas Frank perde la sua prima partita alla guida delle Eagles",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879235",
+      "estratto": "Thomas Frank ha subito una sconfitta nella sua prima partita da allenatore del Crystal Palace, condannato da un autogol nel finale di Dwight McNeil che è valso il 3-2 per il Coventry.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T17:48:02+00:00"
+    },
+    {
+      "id": "3ec2bf585f",
+      "titolo": "Il Bournemouth vince ancora, batte il Nottingham Forest 2-0 e sale al quarto posto in Premier League",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879238",
+      "estratto": "Il Bournemouth ha allungato la sua striscia vincente a nove partite in tutte le competizioni, con Evanilson a segno per la sesta partita consecutiva di Premier League nel successo per 2-0 contro il Nottingham Forest.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T17:47:25+00:00"
+    },
+    {
+      "id": "976314b070",
+      "titolo": "Il Sunderland resta negli ultimi tre posti dopo il pareggio a reti inviolate con l'Aston Villa",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878756",
+      "estratto": "Aston Villa e Sunderland non sono andati oltre lo 0-0 nella loro sfida di Premier League a Villa Park.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T17:06:13+00:00"
+    },
+    {
+      "id": "56ceb3bce3",
+      "titolo": "Il portiere coinvolto nello scontro fatale con la stella spagnola Jesús de Miguel, 30 anni, si fa vivo per la prima volta dopo il tragico incidente per rendere omaggio al giocatore del Tenerife",
+      "url": "https://www.dailymail.com/sport/football/article-16311007/Goalkeeper-involved-fatal-collision-Spanish-star-Jesus-Miguel-30-breaks-cover-time-tragic-accident-pay-tribute-Tenerife-player.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La scomparsa di De Miguel ha scioccato il mondo del calcio e Owono è stato successivamente squalificato per 12 giornate dalle autorità.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T11:30:00+00:00"
     },
     {
       "id": "92b557c528",
@@ -66,15 +174,6 @@
       "pubblicato": "2026-11-20T22:48:00+00:00"
     },
     {
-      "id": "3a03159090",
-      "titolo": "Mille trascina il Troyes: 3-1 al Le Havre sempre più in caduta libera",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/ligue-1/2026/11/20-152705630/mille_trascina_il_troyes_3-1_al_le_havre_sempre_pi_in_caduta_libera/",
-      "estratto": "L'11ª giornata della Ligue 1 si apre con il match tra le ultime in classifica, ribaltato dopo il gol ospite di Maja",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-20T22:07:28+00:00"
-    },
-    {
       "id": "7d481ee41c",
       "titolo": "La preview: per il boss degli Hibs Reedijk è arrivato il momento di riportare il sole a Leith",
       "url": "https://www.dailymail.com/sport/football/article-16310027/hibernian-marink-reedijk-easter-road-premiership-dundee-united.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -118,24 +217,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-20T16:25:33+00:00"
-    },
-    {
-      "id": "d95ea27653",
-      "titolo": "Johan Manzambi dell'Aston Villa a disposizione per la sfida contro il Sunderland",
-      "url": "https://www.espn.com/soccer/story/_/id/50541443/aston-villa-johan-manzambi-sunderland",
-      "estratto": "L'Aston Villa avrà a disposizione Johan Manzambi per la visita interna del Sunderland.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-20T15:45:14+00:00"
-    },
-    {
-      "id": "01f3a1078b",
-      "titolo": "Pochettino ammette: mi è mancata la gestione di un club durante il periodo con l'USMNT",
-      "url": "https://www.espn.com/video/clip/_/id/50541358/pochettino-admits-missed-club-management-usmnt-tenure",
-      "estratto": "Mauricio Pochettino afferma che l'esperienza alla guida della nazionale USA lo ha reso un allenatore migliore, mentre si appresta ad assumere l'incarico al Manchester United.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-20T15:30:22+00:00"
     },
     {
       "id": "54d1972ae3",
@@ -226,33 +307,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-18T21:48:36+00:00"
-    },
-    {
-      "id": "e3042eb19b",
-      "titolo": "Il leggendario telecronista MARTIN TYLER sul suo salto in Premier League nel 1992, la furia di Arsène Wenger, il suo amore per Woking e QUELLO storico gol di Sergio Agüero",
-      "url": "https://www.dailymail.com/sport/football/article-16302363/Legendary-commentator-MARTIN-TYLER-taking-Premier-League-plunge-1992-Arsene-Wengers-fury-love-Woking-Sergio-Aguero-moment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "INTERVISTA ESCLUSIVA DI MATT BARLOW: Due immagini calcistiche adornano le pareti della nuova casa di Martin Tyler, o almeno lo faranno quando tutto sarà in ordine.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T20:04:52+00:00"
-    },
-    {
-      "id": "ca922a7073",
-      "titolo": "Il Leicester City TAGLIA il controverso accordo con una società di scommesse senza licenza dopo che lo sponsor ha scatenato la furia dei tifosi nominando una «estrema pornostar» come ambasciatrice",
-      "url": "https://www.dailymail.com/sport/football/article-16303783/Leicester-axe-controversial-sponsorship-deal-gambling-company-international-porn-star-connection.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "TOM COLLOMOSSE: All'inizio del mese i tifosi avevano espresso rabbia e smarrimento dopo che lo sponsor di maglia, un'azienda di scommesse senza licenza, aveva nominato una «pornostar internazionale» come sua nuova ambasciatrice.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T19:19:27+00:00"
-    },
-    {
-      "id": "1c63348dba",
-      "titolo": "«Sta creando una cultura che non ho mai visto prima»: la stella dell'Aston Villa AMADOU ONANA svela come Unai Emery ha influenzato il suo nuovo contratto, la sua strada «solitaria e oscura» per il recupero dall'infortunio e perché sta imparando una sesta lingua",
-      "url": "https://www.dailymail.com/sport/football/article-16287139/amadou-onana-unai-emery-aston-villa-contract.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "INTERVISTA ESCLUSIVA DI TOM COLLOMOSSE: Quando la maggior parte dei calciatori sta recuperando da un infortunio grave, lo stadio è l'ultimo posto in cui desidera trovarsi. Ma Amadou Onana è diverso.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T16:56:51+00:00"
     }
   ]
 }
