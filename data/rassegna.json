@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-20T18:59:45.833851+00:00",
-  "totale": 128,
+  "aggiornato": "2026-11-21T00:42:31.663322+00:00",
+  "totale": 133,
   "articoli": [
     {
       "id": "68918cc86c",
@@ -87,16 +87,16 @@
       "squadra": "Juventus"
     },
     {
-      "id": "2d4fcef6af",
-      "titolo": "Conte: \"All'Inter potevamo spendere. Zhang voleva interrompere l'egemonia della Juve\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/conte-all-inter-potevamo-spendere-zhang-voleva-interrompere-egemonia-juve-2295683",
-      "estratto": "Nella sua intervista rilasciata a Cronache di Spogliatoio, l'ex tecnico dell'Inter, Antonio Conte, ha parlato anche della sua esperienza sulla panchina nerazzurra: “All'Inter avevamo maggiori possibilità di spesa, anche perché Zhang voleva interrompe",
+      "id": "8e845ae586",
+      "titolo": "Giocondo Martorelli: \"Sosta utile per gli infortunati. Fiorentina, è il momento della svolta. Samp, il mercato aiuterà\"",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/giocondo-martorelli-sosta-utile-infortunati-fiorentina-svolta-samp-mercato-aiutera-2295830",
+      "estratto": "\"Questa sosta ha giovato per tutti i calciatori infortunati che erano nelle varie squadre.",
       "fonte": "TMW",
-      "serie": "Estero",
+      "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-11-20T18:38:00+00:00",
-      "squadra": "Inter Milan"
+      "pubblicato": "2026-11-20T23:33:25+00:00",
+      "squadra": "Fiorentina"
     },
     {
       "id": "7bc2caab61",
@@ -171,16 +171,28 @@
       "squadra": "Cagliari"
     },
     {
-      "id": "db8ebffe40",
-      "titolo": "Mourinho parla del futuro di Endrick e avvisa il Milan: \"Il Real Madrid ha bisogno di lui\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/11/20-152697521/mourinho_parla_del_futuro_di_endrick_e_avvisa_il_milan_il_real_madrid_ha_bisogno_di_lui/",
-      "estratto": "Il tecnico portoghese, alla vigilia della sfida contro il Celta Vigo, chiarisce il futuro dell'attaccante brasiliano che piace anche alla Roma e conferma di non volerlo cedere",
+      "id": "9b93c499bd",
+      "titolo": "Como-Cagliari e una vigilia amara per Fabregas: \"Kean out ancora per alcuni mesi\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/como-cagliari-vigilia-amara-fabregas-kean-out-mesi-2295762",
+      "estratto": "Dopo due settimane riparte il campionato.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-20T23:42:19+00:00",
+      "squadra": "Como"
+    },
+    {
+      "id": "264bd2904a",
+      "titolo": "Palladino punisce Heggem, non sarà convocato contro l'Udinese: \"Ha esagerato\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/11/20-152706308/palladino_punisce_heggem_non_sar_convocato_contro_l_udinese_ha_esagerato/",
+      "estratto": "L'allenatore non fa sconti e lascia a casa il norvegese per la sfida contro i bianconeri: tutti i dettagli",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-20T09:34:37+00:00",
-      "squadra": "Milan"
+      "punteggio": 40,
+      "pubblicato": "2026-11-20T19:03:31+00:00",
+      "squadra": "Udinese"
     },
     {
       "id": "36853be016",
@@ -194,51 +206,6 @@
       "pubblicato": "2026-11-20T18:47:31+00:00"
     },
     {
-      "id": "858613cf72",
-      "titolo": "Mario Santana: \"Soulè è un gran bel calciatore. Con Gasp progredirà ancora\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/mario-santana-soule-gran-calciatore-gasp-progredira-ancora-2295755",
-      "estratto": "L'Argentina e gli argentini sono sempre sulla bocca di tutti.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-20T18:45:19+00:00"
-    },
-    {
-      "id": "5c3683932e",
-      "titolo": "La filosofia di Luis Enrique per il PSG: \"Cerco chi gioca come fosse l'ultima partita\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/filosofia-luis-enrique-psg-cerco-gioca-ultima-partita-2295712",
-      "estratto": "Il Paris Saint-Germain si appresta a tornare in campo domani, sabato 21 novembre, contro il Nizza, nella sfida valida per l'11^ giornata della Ligue 1 francese.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-20T18:41:00+00:00"
-    },
-    {
-      "id": "e5796d89b0",
-      "titolo": "Fabregas: \"La 10 di Messi a Nico Paz? Va ritirata, lasciatelo tranquillo\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/fabregas-la-10-messi-nico-paz-ritirata-lasciatelo-tranquillo-2295694",
-      "estratto": "\"Lasciatelo tranquillo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-20T18:30:01+00:00"
-    },
-    {
-      "id": "5b2b2d10c5",
-      "titolo": "Liverpool, Iraola punta lo United di Pochettino: \"Van Dijk, Gravenberch e Frimpong recuperati\"",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/liverpool-iraola-punta-united-pochettino-van-dijk-gravenberch-frimpong-recuperati-2295721",
-      "estratto": "L'allenatore del Liverpool Andoni Iraola ha comunicato che Ryan Gravenberch, Jeremie Frimpong e il capitano Virgil van Dijk hanno recuperato la forma fisica necessaria per scendere in campo domenica contro il Manchester United.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-20T18:27:00+00:00",
-      "squadra": "Liverpool"
-    },
-    {
       "id": "97d946df37",
       "titolo": "Nico Paz si esalta con l'Argentina, ma Fabregas frena sulla numero 10: \"La maglie di Messi...\"",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/11/20-152704518/nico_paz_si_esalta_con_l_argentina_ma_fabregas_frena_sulla_numero_10_la_maglie_di_messi_/",
@@ -249,18 +216,6 @@
       "punteggio": 40,
       "pubblicato": "2026-11-20T16:18:34+00:00",
       "squadra": "Argentina"
-    },
-    {
-      "id": "a45acf3a8f",
-      "titolo": "Zanetti: \"Non solo Davis out. Le condizioni di Zaniolo e Alaba e che ruolo avranno nella mia Udinese\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/udinese/2026/11/20-152704519/zanetti_non_solo_davis_out_le_condizioni_di_zaniolo_e_alaba_e_che_ruolo_avranno_nella_mia_udinese/",
-      "estratto": "Il tecnico dei friulani è intervenuto in conferenza stampa alla vigilia del match con il Bologna: le dichiarazioni",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-20T15:56:28+00:00",
-      "squadra": "Udinese"
     },
     {
       "id": "e8a7d27b03",
@@ -388,15 +343,28 @@
       "squadra": "Coritiba"
     },
     {
-      "id": "672a7c4270",
-      "titolo": "Perde il parrucchino in campo e diventa virale: \"Stiamo rompendo un tabù\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/sudamerica/brasile/2026/11/20-152697424/perde_il_parrucchino_in_campo_e_diventa_virale_stiamo_rompendo_un_tab/",
-      "estratto": "\"Dudu\" Rosa, attaccante brasiliano del Divinéia, ha raccontato l’incredibile scena che ha fatto il giro del web: ecco cosa ha detto",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 40,
-      "pubblicato": "2026-11-20T09:20:57+00:00"
+      "id": "47edd58349",
+      "titolo": "Roberto De Zerbi difende Mykhailo Mudryk dopo che la stella in prestito ha fatto infuriare i tifosi degli Spurs con alcune gaffe in un'intervista - tra cui l'ammissione di aver voluto l'Arsenal",
+      "url": "https://www.dailymail.com/sport/football/article-16309687/Roberto-Zerbi-Mykhailo-Mudryk-interview-Tottenham-James-Maddison-fitness-target.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Mudryk ha rischiato di attirarsi l'ira dei tifosi degli Spurs ammettendo di essersi trasferito dall'altra parte di Londra solo per ritrovare la forma prima di tornare a Stamford Bridge, dove il tecnico dei Blues Xabi Alonso 'contava su di lui'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-11-20T22:35:31+00:00",
+      "squadra": "Spurs"
+    },
+    {
+      "id": "5ee8c8ad9f",
+      "titolo": "Inter, l'ombra di Alisson su Josep Martinez. Ma se Donnarumma finisse sul mercato...",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/20-152696244/inter_l_ombra_di_alisson_su_josep_martinez_ma_se_donnarumma_finisse_sul_mercato_/",
+      "estratto": "Riflessioni in corso in casa nerazzurra: il brasiliano è in scadenza con i Reds e il futuro dell'italiano dipende dal City",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-11-20T11:38:16+00:00",
+      "squadra": "Inter Milan"
     },
     {
       "id": "183345128c",
@@ -410,28 +378,84 @@
       "pubblicato": "2026-11-20T10:40:26+00:00"
     },
     {
-      "id": "f3e04302cd",
-      "titolo": "Fiorentina, Vanoli studia il ritorno di Arthur e del 4-3-2-1",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/11/20-152697123/fiorentina_vanoli_studia_il_ritorno_di_arthur_e_del_4-3-2-1/",
-      "estratto": "Dopo due mesi di stop, Atta sarà a disposizione per la trasferta di Monza: difficile vederlo dall’inizio prima della sfida contro il Cagliari del 7 al Franchi",
-      "fonte": "Corriere dello Sport",
+      "id": "8c980b439e",
+      "titolo": "Milan, non solo Endrick e Tresoldi. Il pallino di Krösche che aveva stregato la Juve di Giuntoli",
+      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/20-152696141/milan_non_solo_endrick_e_tresoldi_il_pallino_di_krsche_che_aveva_stregato_la_juve_di_giuntoli/",
+      "estratto": "Per l'attacco spunta un nuovo profilo meno costoso e che il dt “in pectore” dei rossoneri conosce molto bene...",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 30,
-      "pubblicato": "2026-11-20T09:00:44+00:00",
-      "squadra": "Fiorentina"
+      "pubblicato": "2026-11-20T07:45:30+00:00",
+      "squadra": "Milan"
     },
     {
-      "id": "22134ad592",
-      "titolo": "Il Como, rivelazione della Champions League, subisce la tegola dell'infortunio di Moise Kean",
-      "url": "https://www.espn.com/soccer/story/_/id/50542117/como-moise-kean-injury-champions-league-italy-serie-a",
-      "estratto": "L'attaccante del Como Moise Kean dovrà restare fermo per infortunio per almeno due mesi e rischia di saltare le partite di Champions League contro Paris Saint-Germain e Barcellona.",
+      "id": "b4e19b6438",
+      "titolo": "Harry Kane mette nel mirino la Champions League e un trofeo con l'Inghilterra dopo la vittoria del Pallone d'Oro",
+      "url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+      "estratto": "Il Pallone d'Oro Harry Kane è in missione per conquistare i trofei che gli sono finora sfuggiti in carriera, vale a dire la Champions League e un titolo con l'Inghilterra.",
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": 20,
-      "pubblicato": "2026-11-20T18:03:34+00:00",
-      "squadra": "Como"
+      "pubblicato": "2026-11-20T12:35:56+00:00"
+    },
+    {
+      "id": "f5e96f61cf",
+      "titolo": "Il Galatasaray costretto a urgenti lavori al campo per renderlo praticabile in vista della sfida di Champions League con l'Aston Villa dopo essere stato costretto a TRASFERIRSI, emergono immagini preoccupanti",
+      "url": "https://www.dailymail.com/sport/football/article-16302997/Galatasaray-emergency-pitch-repairs-Champions-League-clash-Aston-Villa-worrying-images-emerge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "TOM COLLOMOSSE: Il Galatasaray ha spostato la sua partita casalinga contro il Samsunspor di questo fine settimana nello stadio dell'İstanbul Başakşehir per preservare il terreno di gioco da ulteriori danni.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 20,
+      "pubblicato": "2026-11-18T15:07:45+00:00",
+      "squadra": "Galatasaray"
+    },
+    {
+      "id": "3684b6a9a2",
+      "titolo": "Il Pallone d'Oro Harry Kane fuori 'alcuni mesi' per un infortunio alla caviglia",
+      "url": "https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich",
+      "estratto": "Il Pallone d'Oro Harry Kane dovrà restare lontano dai campi per diversi mesi dopo aver riportato una lesione ai legamenti della caviglia sinistra durante il pareggio del Bayern Monaco con il Colonia.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-21T00:18:19+00:00"
+    },
+    {
+      "id": "0040c72900",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 20 novembre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-stop-i-indiscrezioni-trattative-retroscena-20-novembre-2295696",
+      "estratto": "JUVE E NAPOLI SU SEBA ESPOSITO MA IL SASSUOLO FA MURO.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-21T00:00:23+00:00"
+    },
+    {
+      "id": "dfcca72341",
+      "titolo": "Courtois compra la Reggiana? Nel frattempo rinnova con il Real Madrid",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/courtois-compra-reggiana-rinnova-real-madrid-2295715",
+      "estratto": "Da una parte il futuro societario della Reggiana, dall'altra quello professionale al Real Madrid.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-20T23:45:00+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "020d217add",
+      "titolo": "Nations League, sorteggiati quarti di finale e playoff: c'è Francia-Spagna. Il tabellone",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/nations-league-sorteggiati-quarti-finale-playoff-francia-spagna-tabellone-2295727",
+      "estratto": "Nella giornata di oggi la UEFA ha effettuato il sorteggio per i quarti di finale della Nations League 2026/2027, che non vedrà protagonista l'Italia di Mancini, eliminata ai gironi dopo l'ultimo ko con il Belgio.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-20T23:38:00+00:00"
     },
     {
       "id": "2d9e04f002",
@@ -442,31 +466,66 @@
       "serie": "Estero",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-20T18:42:32+00:00",
+      "pubblicato": "2026-11-20T22:24:28+00:00",
       "squadra": "Chelsea "
     },
     {
-      "id": "1a0fd96cf3",
-      "titolo": "Da Hellas-Cesena ad Arezzo-Padova, i convocati per la 12ª giornata di Serie B",
-      "url": "https://www.tuttomercatoweb.com/serie-b/hellas-cesena-arezzo-padova-convocati-12a-giornata-serie-b-2295302",
-      "estratto": "Per l'12ª giornata del campionato di Serie B la redazione di TuttoMercatoWeb.",
-      "fonte": "TMW",
+      "id": "3b2b37947d",
+      "titolo": "Colpo grosso dell'Espanyol: Roberto Fernandez piega l'Athletic Club nell'anticipo della Liga",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/11/20-152708267/colpo_grosso_dell_espanyol_roberto_fernandez_piega_l_athletic_club_nell_anticipo_della_liga/",
+      "estratto": "Finisce 1-0 la sfida nel massimo campionato spagnolo: settimo centro stagionale per l'attaccante",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-20T22:02:53+00:00",
+      "squadra": "Espanyol"
+    },
+    {
+      "id": "5a3a756e36",
+      "titolo": "Xabi Alonso: João Pedro ancora non disponibile, l'intera squadra deve fare di più",
+      "url": "https://www.espn.com/soccer/story/_/id/50541499/joao-pedro-unavailable-chelsea-injuries-team-news",
+      "estratto": "Xabi Alonso ha dichiarato che la sua squadra del Chelsea deve imparare a fare i conti con l'assenza di João Pedro, mentre i Blues faticano a segnare gol a causa dell'infortunio del loro attaccante.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-20T21:41:22+00:00"
+    },
+    {
+      "id": "efc0b512af",
+      "titolo": "Colpo Cesena al Bentegodi, Verona di Baroni ko: decisivi Francesconi e Shpendi",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/11/20-152707613/colpo_cesena_al_bentegodi_verona_di_baroni_ko_decisivi_francesconi_e_shpendi/",
+      "estratto": "Brutta sconfitta casalinga per l'Hellas nell'anticipo del dodicesimo turno di Serie B",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-20T18:35:00+00:00",
+      "pubblicato": "2026-11-20T21:29:44+00:00",
       "squadra": "Cesena"
     },
     {
-      "id": "0306396c6d",
-      "titolo": "Lega B, Consiglio Direttivo: cristallizzato documento strategico verso elezioni FIGC",
-      "url": "https://www.tuttomercatoweb.com/serie-b/lega-b-direttivo-cristallizzato-documento-strategico-elezioni-figc-2295754",
-      "estratto": "Si è riunito il Consiglio Direttivo della Lega Serie B per affrontare i punti all’ordine del giorno, con particolare attenzione al percorso verso le elezioni federali e alla strategia commerciale per la valorizzazione del diritti audiovisivi post 202",
-      "fonte": "TMW",
+      "id": "de0a73a14d",
+      "titolo": "McTominay presto sarà papà: l'annuncio social con dedica piena d'amore",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/20-152707135/mctominay_presto_sar_pap_l_annuncio_social_con_dedica_piena_d_amore/",
+      "estratto": "Lo scozzese del Napoli e la compagna Cameron svelano la gravidanza pubblicando l'ecografia su Instagram: tutti i dettagli",
+      "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-20T18:34:00+00:00"
+      "pubblicato": "2026-11-20T20:14:19+00:00"
+    },
+    {
+      "id": "5c99b27ab0",
+      "titolo": "L'ANALISI: I veri motivi per cui il Manchester City di Enzo Maresca non riesce a smettere di perdere - dall'anonimo Enzo Fernandez che abbandona Elliot Anderson, fino ai difetti fatali nell'impostazione del tecnico italiano che vengono brutalmente smascherati",
+      "url": "https://www.dailymail.com/sport/football/article-16300279/enzo-maresca-manchester-city-losses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il City di Pep Guardiola era incentrato sul controllo. Mantenere il pallone, dominare il campo, giocare la partita ai propri ritmi, alle proprie condizioni. Il City di Maresca è stato tutto tranne questo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-20T19:40:03+00:00",
+      "squadra": "Man City"
     },
     {
       "id": "1f30134e13",
@@ -491,17 +550,6 @@
       "pubblicato": "2026-11-20T17:03:22+00:00"
     },
     {
-      "id": "5a3a756e36",
-      "titolo": "Xabi Alonso: João Pedro ancora non disponibile, l'intera squadra deve fare di più",
-      "url": "https://www.espn.com/soccer/story/_/id/50541499/joao-pedro-unavailable-chelsea-injuries-team-news",
-      "estratto": "Xabi Alonso ha dichiarato che la sua squadra del Chelsea deve imparare a fare i conti con l'assenza di João Pedro, mentre i Blues faticano a segnare gol a causa dell'infortunio del loro attaccante.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-20T16:14:24+00:00"
-    },
-    {
       "id": "6fedefe131",
       "titolo": "Voci di mercato e notizie: i club di Premier League mettono gli occhi su Forbs, erede di Cristiano Ronaldo",
       "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
@@ -513,16 +561,16 @@
       "pubblicato": "2026-11-20T15:54:13+00:00"
     },
     {
-      "id": "3f44ff0bcf",
-      "titolo": "Rumors di mercato e news: Il Real Madrid sulle tracce della stella del Bayern Monaco Michael Olise",
-      "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
-      "estratto": "Il Real Madrid continua a seguire con forte interesse la stella del Bayern Monaco Michael Olise. Gli ultimi aggiornamenti di Transfer Talk.",
+      "id": "4f8c560f55",
+      "titolo": "Rumors di mercato e news: Rio Ngumoha del Liverpool resta un obiettivo del Bayern Monaco",
+      "url": "https://www.espn.com/soccer/story/_/id/50406508/transfer-rumors-news-liverpool-rio-ngumoha-bayern-munich",
+      "estratto": "Il Bayern Monaco continua ad avere nel mirino l'esterno del Liverpool e della nazionale inglese Rio Ngumoha. Gli ultimi aggiornamenti di Transfer Talk.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-20T15:52:40+00:00",
-      "squadra": "Real Madrid"
+      "pubblicato": "2026-11-20T15:50:35+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "a8c3253374",
@@ -568,18 +616,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-11-20T12:40:44+00:00"
-    },
-    {
-      "id": "5c99b27ab0",
-      "titolo": "L'ANALISI: I veri motivi per cui il Manchester City di Enzo Maresca non riesce a smettere di perdere - dall'anonimo Enzo Fernandez che abbandona Elliot Anderson, fino ai difetti fatali nell'impostazione del tecnico italiano che vengono brutalmente smascherati",
-      "url": "https://www.dailymail.com/sport/football/article-16300279/enzo-maresca-manchester-city-losses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il City di Pep Guardiola era incentrato sul controllo. Mantenere il pallone, dominare il campo, giocare la partita ai propri ritmi, alle proprie condizioni. Il City di Maresca è stato tutto tranne questo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-20T12:00:50+00:00",
-      "squadra": "Man City"
     },
     {
       "id": "4228e488fd",
@@ -684,6 +720,18 @@
       "squadra": "Roma"
     },
     {
+      "id": "166d8b35a1",
+      "titolo": "Tegola Bayern per Harry Kane: il capitano dell'Inghilterra rischia MESI di stop dopo la lesione ai legamenti della caviglia - e potrebbe operarsi",
+      "url": "https://www.dailymail.com/sport/football/article-16310357/Harry-Kane-Bayern-blow-England-captain-ruled-MONTHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Un comunicato ufficiale del Bayern ha confermato la brutta notizia, recitando: 'Harry Kane ha riportato la rottura del legamento della sindesmosi della caviglia sinistra nella gara casalinga di Bundesliga del Bayern Monaco contro l'1. FC Köln'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -80,
+      "pubblicato": "2026-11-20T23:44:54+00:00",
+      "squadra": "Bayern"
+    },
+    {
       "id": "ba0a0c0a6c",
       "titolo": "Calciomercato, indiscrezioni e notizie: l'Arsenal punta il campione del mondo dell'Athletic Nico Williams",
       "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
@@ -692,20 +740,8 @@
       "serie": "Estero",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-11-20T15:57:55+00:00",
+      "pubblicato": "2026-11-20T22:22:39+00:00",
       "squadra": "Arsenal"
-    },
-    {
-      "id": "b2c699bc0a",
-      "titolo": "Rumors di mercato e news: Il Bayern acquisterà il giovane del Liverpool Ngumoha?",
-      "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
-      "estratto": "Il Bayern Monaco è alla ricerca di rinforzi per il proprio reparto offensivo ingaggiando l'esterno del Liverpool Rio Ngumoha. Gli ultimi aggiornamenti di Transfer Talk.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -80,
-      "pubblicato": "2026-11-20T15:52:04+00:00",
-      "squadra": "Bayern"
     },
     {
       "id": "9d3fa3c965",
@@ -744,76 +780,112 @@
       "squadra": "Parma"
     },
     {
-      "id": "5ee8c8ad9f",
-      "titolo": "Inter, l'ombra di Alisson su Josep Martinez. Ma se Donnarumma finisse sul mercato...",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/20-152696244/inter_l_ombra_di_alisson_su_josep_martinez_ma_se_donnarumma_finisse_sul_mercato_/",
-      "estratto": "Riflessioni in corso in casa nerazzurra: il brasiliano è in scadenza con i Reds e il futuro dell'italiano dipende dal City",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-11-20T11:38:16+00:00",
-      "squadra": "Inter Milan"
+      "id": "c95b4e35d6",
+      "titolo": "Cagliari, Kofler: \"Prima di accettare il trasferimento avevo qualche dubbio. Mi sbagliavo\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/cagliari-kofler-prima-accettare-trasferimento-dubbio-sbagliavo-2295823",
+      "estratto": "Il difensore altoatesino Raphael Kofler, alla sua prima stagione in rossoblù, è stato ospite di “Il Cagliari in Diretta”, su Radiolina e Videolina: \"In famiglia l’argomento calcio è molto sentito.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -160,
+      "pubblicato": "2026-11-21T00:11:01+00:00",
+      "squadra": "Cagliari"
     },
     {
-      "id": "8c980b439e",
-      "titolo": "Milan, non solo Endrick e Tresoldi. Il pallino di Krösche che aveva stregato la Juve di Giuntoli",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/20-152696141/milan_non_solo_endrick_e_tresoldi_il_pallino_di_krsche_che_aveva_stregato_la_juve_di_giuntoli/",
-      "estratto": "Per l'attacco spunta un nuovo profilo meno costoso e che il dt “in pectore” dei rossoneri conosce molto bene...",
+      "id": "a45acf3a8f",
+      "titolo": "Zanetti: \"Non solo Davis out. Le condizioni di Zaniolo e Alaba e che ruolo avranno nella mia Udinese\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/udinese/2026/11/20-152704519/zanetti_non_solo_davis_out_le_condizioni_di_zaniolo_e_alaba_e_che_ruolo_avranno_nella_mia_udinese/",
+      "estratto": "Il tecnico dei friulani è intervenuto in conferenza stampa alla vigilia del match con il Bologna: le dichiarazioni",
       "fonte": "Tuttosport",
       "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-11-20T07:45:30+00:00",
-      "squadra": "Milan"
+      "citazione": true,
+      "punteggio": -160,
+      "pubblicato": "2026-11-20T15:56:28+00:00",
+      "squadra": "Udinese"
     },
     {
-      "id": "859da4790e",
-      "titolo": "Como-Cagliari, i convocati di Fabregas: riecco Chalobah, confermate quattro assenze",
-      "url": "https://www.tuttomercatoweb.com/serie-a/como-cagliari-convocati-fabregas-chalobah-confermate-assenze-2295756",
-      "estratto": "Dopo la sosta per le Nazionali, domani riparte la Serie A con la dodicesima giornata.",
+      "id": "6f92623a0a",
+      "titolo": "Palmisani e Morisco nel mirino: il Napoli è pronto a investire su un nuovo portiere",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/palmisani-morisco-mirino-napoli-pronto-investire-portiere-2295793",
+      "estratto": "E' finito il 2026 di Alex Meret.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-11-20T18:53:31+00:00",
+      "punteggio": -170,
+      "pubblicato": "2026-11-20T23:49:01+00:00",
+      "squadra": "Napoli"
+    },
+    {
+      "id": "422fde8577",
+      "titolo": "Lazio, comunicato ufficiale dei tifosi sulla scelta per la Supercoppa contro l'Inter",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/20-152707600/lazio_comunicato_ufficiale_dei_tifosi_sulla_scelta_per_la_supercoppa_contro_l_inter/",
+      "estratto": "Il supporters organizzati biancocelesti si mobilitano in vista del primo trofeo che si assegnerà a San Siro il 22 dicembre",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-11-20T21:26:50+00:00",
+      "squadra": "Lazio"
+    },
+    {
+      "id": "22134ad592",
+      "titolo": "Il Como, rivelazione della Champions League, subisce la tegola dell'infortunio di Moise Kean",
+      "url": "https://www.espn.com/soccer/story/_/id/50542117/como-moise-kean-injury-champions-league-italy-serie-a",
+      "estratto": "L'attaccante del Como Moise Kean dovrà restare fermo per infortunio per almeno due mesi e rischia di saltare le partite di Champions League contro Paris Saint-Germain e Barcellona.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -180,
+      "pubblicato": "2026-11-20T18:03:34+00:00",
       "squadra": "Como"
     },
     {
-      "id": "4f8c560f55",
-      "titolo": "Rumors di mercato e news: Rio Ngumoha del Liverpool resta un obiettivo del Bayern Monaco",
-      "url": "https://www.espn.com/soccer/story/_/id/50406508/transfer-rumors-news-liverpool-rio-ngumoha-bayern-munich",
-      "estratto": "Il Bayern Monaco continua ad avere nel mirino l'esterno del Liverpool e della nazionale inglese Rio Ngumoha. Gli ultimi aggiornamenti di Transfer Talk.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-11-20T15:50:35+00:00",
-      "squadra": "Liverpool"
-    },
-    {
-      "id": "489cd5b062",
-      "titolo": "Il tormentone estivo di mercato è finalmente alle spalle per Vinícius Júnior del Real Madrid?",
-      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
-      "estratto": "Dopo un'estate di incertezze sul mercato e un avvio di stagione in sordina, Vinícius Junior è sulla via del recupero con il Real Madrid e con il Brasile.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-11-20T09:35:18+00:00",
-      "squadra": "Real Madrid"
-    },
-    {
-      "id": "7e773f4f9f",
-      "titolo": "Bologna, Heggem rimandato a gennaio",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/bologna/2026/11/20-152697398/bologna_heggem_rimandato_a_gennaio/",
-      "estratto": "Le frasi dal ritiro della Norvegia non sono passate inosservate. Il club per ora non ha intenzione di cederlo, ma non vuole avere giocatori scontenti",
+      "id": "ea750de3f8",
+      "titolo": "Dominio Cesena. Diamanti vola con Francesconi e Shpendi: il Verona sbanda al Bentegodi",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/11/20-152707611/dominio_cesena_diamanti_vola_con_francesconi_e_shpendi_il_verona_sbanda_al_bentegodi/",
+      "estratto": "I bianconeri scavalcano i veneti in classifica e piombano in piena zona playoff",
       "fonte": "Corriere dello Sport",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -200,
-      "pubblicato": "2026-11-20T09:07:33+00:00",
-      "squadra": "Bologna"
+      "pubblicato": "2026-11-20T21:25:54+00:00",
+      "squadra": "Cesena"
+    },
+    {
+      "id": "e73a84b573",
+      "titolo": "Tom Brady 'acquista quote del Chelsea, colosso di Premier League'... pochi giorni dopo il clamoroso addio al Birmingham City",
+      "url": "https://www.dailymail.com/sport/football/article-16309805/tom-brady-buys-chelsea-stake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il sette volte campione del Super Bowl farebbe così un rapido ritorno negli investimenti del calcio inglese, dopo essersi fatto da parte dal Birmingham City, capolista di Championship, all'inizio del mese.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -200,
+      "pubblicato": "2026-11-20T21:24:20+00:00",
+      "squadra": "Chelsea "
+    },
+    {
+      "id": "3f44ff0bcf",
+      "titolo": "Rumors di mercato e news: Il Real Madrid sulle tracce della stella del Bayern Monaco Michael Olise",
+      "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
+      "estratto": "Il Real Madrid continua a seguire con forte interesse la stella del Bayern Monaco Michael Olise. Gli ultimi aggiornamenti di Transfer Talk.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -200,
+      "pubblicato": "2026-11-20T15:52:40+00:00",
+      "squadra": "Real Madrid"
+    },
+    {
+      "id": "c143731c8a",
+      "titolo": "Il Liverpool affronta il Manchester United tra le difficoltà a Anfield, ma farà la differenza?",
+      "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+      "estratto": "Anfield ha la capacità di spingere il Liverpool verso grandissimi traguondi, ma in questa stagione la squadra sta faticando in casa e il prossimo avversario saranno i rivali del Manchester United.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -200,
+      "pubblicato": "2026-11-20T13:39:28+00:00",
+      "squadra": "Liverpool"
     },
     {
       "id": "aae60934fa",
@@ -828,16 +900,28 @@
       "squadra": "Man City"
     },
     {
-      "id": "b16bda7a07",
-      "titolo": "Britschgi: \"Roma, vogliamo vincere. Ma solo Messi è perfetto\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/parma/2026/11/20-152696736/britschgi_roma_vogliamo_vincere_ma_solo_messi_perfetto/",
-      "estratto": "Il difensore svizzero da Lucerna alla A: \"Qui sono felice. Malen è fortissimo, mi piacerebbe la sua maglia\"",
+      "id": "d21f4611a2",
+      "titolo": "La Roma è atterrata a Bologna invece che a Parma: cosa è successo al volo dei giallorossi",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/20-152706396/la_roma_atterrata_a_bologna_invece_che_a_parma_cosa_successo_al_volo_dei_giallorossi/",
+      "estratto": "Imprevisto per Dybala e compagni alla vigilia della gara valida per la dodicesima giornata di Serie A, al Tardini, contro gli uomini di Gilardino",
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
-      "citazione": true,
-      "punteggio": -210,
-      "pubblicato": "2026-11-20T08:21:16+00:00",
+      "citazione": false,
+      "punteggio": -250,
+      "pubblicato": "2026-11-20T19:07:11+00:00",
       "squadra": "Roma"
+    },
+    {
+      "id": "e74347c4c9",
+      "titolo": "Il Bayern pareggia e perde Kane e Olise: per il Pallone d'Oro un lunghissimo stop",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/2026/11/20-152705535/il_bayern_ritrova_kompany_ma_perde_kane_e_olise_infortunati_pari_con_il_colonia/",
+      "estratto": "La 10ª giornata della Bundesliga si apre con il mezzo passo falso dei primi in classifica, fermati sull'1-1 in casa e alle prese con assenze pesanti",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -280,
+      "pubblicato": "2026-11-20T21:38:47+00:00",
+      "squadra": "Bayern"
     },
     {
       "id": "1140e80609",
@@ -864,6 +948,18 @@
       "squadra": "Barcelona"
     },
     {
+      "id": "0550a37493",
+      "titolo": "Antonio Conte replica dopo aver mancato la panchina del Man United: l'ex tecnico del Chelsea avverte i club dicendo che 'hanno paura di vincere' se non lo ingaggiano, in una criptica intervista dopo l'approdo a Old Trafford di Mauricio Pochettino",
+      "url": "https://www.dailymail.com/sport/football/article-16309997/Antonio-Conte-Man-United-clubs-frightened-winning-cryptic-interview-Mauricio-Pochettino-landed-Old-Trafford-gig.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Conte, tuttora disoccupato dopo aver lasciato il Napoli in estate, ha risposto per le rime alle voci secondo cui il Man United sarebbe stato frenato dalla sua intensità e dalle sue pretese.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -330,
+      "pubblicato": "2026-11-20T20:50:20+00:00",
+      "squadra": "Man Utd"
+    },
+    {
       "id": "6685010a9d",
       "titolo": "Conte: “Juve, i tifosi devono sapere. Entrai da allenatore, poi la follia. All’Inter un disastro…”",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/20-152702823/conte_juve_i_tifosi_devono_sapere_entrai_da_allenatore_poi_la_follia_allinter_un_disastro/",
@@ -874,18 +970,6 @@
       "punteggio": -330,
       "pubblicato": "2026-11-20T17:38:21+00:00",
       "squadra": "Juventus"
-    },
-    {
-      "id": "8ce9aeca86",
-      "titolo": "Il CEO del Manchester United Omar Berrada insiste sul fatto che la squadra sia MIGLIORATA dopo la sessione di calciomercato nella sua prima intervista in cinque mesi - ma ammette che le critiche alla dirigenza sono state giuste",
-      "url": "https://www.dailymail.com/sport/football/article-16309273/Man-United-CEO-Omar-Berrada-insists-team-IMPROVED-transfer-window-interview-five-months-does-accept-criticism-leadership-fair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il dirigente dello United è stato al centro di proteste furibonde e cori contro la proprietà durante le partite in questa stagione, insieme al Direttore Sportivo Jason Wilcox.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -330,
-      "pubblicato": "2026-11-20T16:32:56+00:00",
-      "squadra": "Man Utd"
     },
     {
       "id": "55aed9b11b",
@@ -900,18 +984,6 @@
       "squadra": "Parma"
     },
     {
-      "id": "2fc4fb7415",
-      "titolo": "Sucic vola con la Croazia, mentre all'Inter ancora non brilla: deve rilanciarsi",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/11/20-152697017/sucic_vola_con_la_croazia_mentre_all_inter_ancora_non_brilla_deve_rilanciarsi/",
-      "estratto": "Il centrocampista vuole seguire le orme nerazzurre dei connazionali: fino a Natale le occasioni non mancheranno",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-11-20T08:40:22+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
       "id": "5b3f7d77ae",
       "titolo": "Rumors di mercato e news: Il Como con Nico Paz farà il primo colpo estivo per il Manchester United?",
       "url": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
@@ -924,27 +996,27 @@
       "squadra": "Como"
     },
     {
-      "id": "c143731c8a",
-      "titolo": "Il Liverpool affronta il Manchester United tra le difficoltà a Anfield, ma farà la differenza?",
-      "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
-      "estratto": "Anfield ha la capacità di spingere il Liverpool verso grandissimi traguondi, ma in questa stagione la squadra sta faticando in casa e il prossimo avversario saranno i rivali del Manchester United.",
-      "fonte": "ESPN",
+      "id": "287298af69",
+      "titolo": "Tifoso del Liverpool assolto dall'accusa di insulti razziali ad Antoine Semenyo, la stella del Manchester City ritira il sostegno all'accusa",
+      "url": "https://www.dailymail.com/sport/football/article-16308635/Liverpool-fan-not-guilty-racially-abusing-Antoine-Semenyo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Un tifoso del Liverpool accusato di aver rivolto insulti razziali al calciatore Antoine Semenyo è stato assolto dopo che il giocatore ha ritirato il proprio sostegno all'azione penale.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-11-20T13:39:28+00:00",
+      "pubblicato": "2026-11-20T13:12:03+00:00",
       "squadra": "Liverpool"
     },
     {
-      "id": "d65cdbacf8",
-      "titolo": "Vinícius Júnior o Diomandé titolari nel Real Madrid contro il Celta Vigo?",
-      "url": "https://www.espn.com/video/clip/_/id/50534988/will-vinicius-junior-diomande-start-real-madrid-vs-celta-vigo",
-      "estratto": "Vinícius Júnior o Diomandé titolari nel Real Madrid contro il Celta Vigo?",
+      "id": "489cd5b062",
+      "titolo": "Il tormentone estivo di mercato è finalmente alle spalle per Vinícius Júnior del Real Madrid?",
+      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+      "estratto": "Dopo un'estate di incertezze sul mercato e un avvio di stagione in sordina, Vinícius Junior è sulla via del recupero con il Real Madrid e con il Brasile.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -400,
-      "pubblicato": "2026-11-19T23:07:22+00:00",
+      "pubblicato": "2026-11-20T09:35:18+00:00",
       "squadra": "Real Madrid"
     },
     {
@@ -960,16 +1032,16 @@
       "squadra": "Man City"
     },
     {
-      "id": "7b1d6f0af9",
-      "titolo": "Retroscena Roma: quando a Parma Gasperini furioso fece volare sedie e persino un tavolo",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/20-152694949/retroscena_roma_quando_a_parma_gasperini_fuorioso_fece_volare_sedie_e_persino_un_tavolo/",
-      "estratto": "Era la “banda del 6° posto”. Dopo quel 2-3 il gruppo ha iniziato a parlare di scudetto. Miglior attacco, sei clean sheet e un piano per volare a marzo",
-      "fonte": "Corriere dello Sport",
+      "id": "194f34a823",
+      "titolo": "Kane ko, Bayern fermato in casa dal Colonia: il Dortmund può andare in testa alla classifica",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/bundesliga/2026/11/20-152708076/kane_ko_bayern_fermato_in_casa_dal_colonia_il_dortmund_pu_andare_in_testa_alla_classifica/",
+      "estratto": "I bavaresi non vanno oltre l'1-1 all'Allianz Arena e rischiano il sorpasso del Borussia. Infortunio per il Pallone d'Oro, si rivede Musiala",
+      "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -450,
-      "pubblicato": "2026-11-20T08:54:39+00:00",
-      "squadra": "Roma"
+      "punteggio": -480,
+      "pubblicato": "2026-11-20T21:38:00+00:00",
+      "squadra": "Bayern"
     },
     {
       "id": "ec0b8310d1",
@@ -984,6 +1056,18 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "8ce9aeca86",
+      "titolo": "Il CEO del Manchester United Omar Berrada insiste sul fatto che la squadra sia MIGLIORATA dopo la sessione di calciomercato nella sua prima intervista in cinque mesi - ma ammette che le critiche alla dirigenza sono state giuste",
+      "url": "https://www.dailymail.com/sport/football/article-16309273/Man-United-CEO-Omar-Berrada-insists-team-IMPROVED-transfer-window-interview-five-months-does-accept-criticism-leadership-fair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il dirigente dello United è stato al centro di proteste furibonde e cori contro la proprietà durante le partite in questa stagione, insieme al Direttore Sportivo Jason Wilcox.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -530,
+      "pubblicato": "2026-11-20T16:32:56+00:00",
+      "squadra": "Man Utd"
+    },
+    {
       "id": "506b77d3b5",
       "titolo": "“Dopo Agnelli la Juve ha sempre fallito. Chiellini? Non capisco. Chi è la punta che serve”",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/20-152695937/dopo_agnelli_la_juve_ha_sempre_fallito_chiellini_non_capisco_chi_la_punta_che_serve/",
@@ -996,40 +1080,16 @@
       "squadra": "Juventus"
     },
     {
-      "id": "8f9fe24373",
-      "titolo": "Mauricio Pochettino avverte che il Manchester United non può rimanere ancorato al passato delineando la sua visione per il club - e conferma che Bruno Fernandes RESTA capitano nonostante la situazione contrattuale in sospeso",
-      "url": "https://www.dailymail.com/sport/football/article-16308325/Mauricio-Pochettino-Man-United-press-conference-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "CHRIS WHEELER: Pochettino affronta una prima partita d'esordio pesantissima contro il Liverpool ad Anfield ed è determinato a inaugurare un nuovo corso allo United libero dal peso della storia del club.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -560,
-      "pubblicato": "2026-11-20T18:06:14+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "5c88038c74",
-      "titolo": "Inter, ritorna il turn over: Thuram-Esposito con l'Atalanta, ma Lautaro è pronto",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/11/20-152697005/inter_ritorna_il_turn_over_thuram-esposito_con_l_atalanta_ma_lautaro_pronto/",
-      "estratto": "Con i soli Bonny e Stankovic ai box, l’infermeria si svuota in tempo per il tour de force. Carlos Augusto e Zielinski sono tornati ieri alla Pinetina",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-11-20T08:33:38+00:00",
-      "squadra": "Inter Milan"
-    },
-    {
-      "id": "287298af69",
-      "titolo": "Tifoso del Liverpool assolto dall'accusa di insulti razziali ad Antoine Semenyo, la stella del Manchester City ritira il sostegno all'accusa",
-      "url": "https://www.dailymail.com/sport/football/article-16308635/Liverpool-fan-not-guilty-racially-abusing-Antoine-Semenyo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Un tifoso del Liverpool accusato di aver rivolto insulti razziali al calciatore Antoine Semenyo è stato assolto dopo che il giocatore ha ritirato il proprio sostegno all'azione penale.",
-      "fonte": "Daily Mail",
+      "id": "d65cdbacf8",
+      "titolo": "Vinícius Júnior o Diomandé titolari nel Real Madrid contro il Celta Vigo?",
+      "url": "https://www.espn.com/video/clip/_/id/50534988/will-vinicius-junior-diomande-start-real-madrid-vs-celta-vigo",
+      "estratto": "Vinícius Júnior o Diomandé titolari nel Real Madrid contro il Celta Vigo?",
+      "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-11-20T13:12:03+00:00",
-      "squadra": "Liverpool"
+      "pubblicato": "2026-11-19T23:07:22+00:00",
+      "squadra": "Real Madrid"
     },
     {
       "id": "2bdd4aee07",
@@ -1044,16 +1104,28 @@
       "squadra": "Man City"
     },
     {
-      "id": "6f635bd905",
-      "titolo": "Arda Güler firma un nuovo contratto di sei anni con il Real Madrid",
-      "url": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
-      "estratto": "Arda Güler ha firmato un nuovo contratto a lungo termine con il Real Madrid fino al 2032, ha annunciato il club mercoledì.",
-      "fonte": "ESPN",
+      "id": "ae7c785c5c",
+      "titolo": "Liverpool Confidential: le ultime sui rinnovi di Virgil van Dijk e Alisson mentre i giganti europei si muovono, come i Reds cercano di potenziare il recruiting dell'academy e il ritorno di Joshua Abe",
+      "url": "https://www.dailymail.com/sport/football/article-16302293/Liverpool-Confidential-Van-Dijk-Alisson-Iraola.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I club europei sono in massima allerta per il futuro delle stelle del Liverpool Virgil van Dijk e Alisson, nonostante entrambi i giocatori siano desiderosi di prolungare i loro contratti ad Anfield.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -600,
-      "pubblicato": "2026-11-19T17:27:01+00:00",
-      "squadra": "Real Madrid"
+      "pubblicato": "2026-11-18T17:03:52+00:00",
+      "squadra": "Liverpool"
+    },
+    {
+      "id": "b2c699bc0a",
+      "titolo": "Rumors di mercato e news: Il Bayern acquisterà il giovane del Liverpool Ngumoha?",
+      "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
+      "estratto": "Il Bayern Monaco è alla ricerca di rinforzi per il proprio reparto offensivo ingaggiando l'esterno del Liverpool Rio Ngumoha. Gli ultimi aggiornamenti di Transfer Talk.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -680,
+      "pubblicato": "2026-11-20T15:52:04+00:00",
+      "squadra": "Bayern"
     },
     {
       "id": "3c81aa5cc1",
@@ -1068,28 +1140,40 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "5ae4cfcd62",
-      "titolo": "Il dirigente del Manchester United Omar Berrada prende le distanze dalle accuse della Premier League contro il Manchester City - mentre Enzo Maresca insiste sul fatto che i suoi giocatori non siano influenzati dal verdetto di colpevolezza",
-      "url": "https://www.dailymail.com/sport/football/article-16309383/Man-United-CEO-Omar-Berrada-says-not-involved-wrongdoing-former-club-Man-City-Enzo-Maresca-insists-stars-unaffected-guilty-verdicts-despite-three-straight-Premier-League-defeats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'amministratore delegato del Manchester United Omar Berrada ha insistito di non essere stato coinvolto in alcun illecito nel suo ex club Manchester City, ma si è rifiutato di escludere azioni legali nel caso in cui il loro appello fallisca.",
+      "id": "8f9fe24373",
+      "titolo": "Mauricio Pochettino avverte che il Manchester United non può rimanere ancorato al passato delineando la sua visione per il club - e conferma che Bruno Fernandes RESTA capitano nonostante la situazione contrattuale in sospeso",
+      "url": "https://www.dailymail.com/sport/football/article-16308325/Mauricio-Pochettino-Man-United-press-conference-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "CHRIS WHEELER: Pochettino affronta una prima partita d'esordio pesantissima contro il Liverpool ad Anfield ed è determinato a inaugurare un nuovo corso allo United libero dal peso della storia del club.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -760,
-      "pubblicato": "2026-11-20T17:46:52+00:00",
+      "pubblicato": "2026-11-20T18:06:14+00:00",
       "squadra": "Man Utd"
     },
     {
-      "id": "72c264241c",
-      "titolo": "Allenamento Juve, Spalletti sorride a metà: come stanno Celik, Cambiaso, Nico Gonzalez e Kalulu",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/20-152700055/allenamento_juve_spalletti_sorride_a_met_come_stanno_celik_cambiaso_nico_gonzalez_e_kalulu/",
-      "estratto": "I bianconeri proseguono la preparazione alla sfida contro il Venezia: le ultime dalla Continassa",
-      "fonte": "Tuttosport",
+      "id": "ae7f27becb",
+      "titolo": "Il ritorno alla Juve, l'addio all'Inter, gli obiettivi e non solo: tutte le rivelazioni di Antonio Conte",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/ritorno-juve-addio-inter-obiettivi-solo-rivelazioni-antonio-conte-2295772",
+      "estratto": "Sta facendo tanto parlare di sé, e non poteva essere altrimenti, la recente intervista fatta da Cronache di Spogliatoio all'ex tecnico del Napoli Antonio Conte.",
+      "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -770,
-      "pubblicato": "2026-11-20T12:50:48+00:00",
+      "pubblicato": "2026-11-20T23:53:02+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "6f635bd905",
+      "titolo": "Arda Güler firma un nuovo contratto di sei anni con il Real Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
+      "estratto": "Arda Güler ha firmato un nuovo contratto a lungo termine con il Real Madrid fino al 2032, ha annunciato il club mercoledì.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -800,
+      "pubblicato": "2026-11-19T17:27:01+00:00",
+      "squadra": "Real Madrid"
     },
     {
       "id": "7809fdd7db",
@@ -1104,18 +1188,6 @@
       "squadra": "Man City"
     },
     {
-      "id": "ae7c785c5c",
-      "titolo": "Liverpool Confidential: le ultime sui rinnovi di Virgil van Dijk e Alisson mentre i giganti europei si muovono, come i Reds cercano di potenziare il recruiting dell'academy e il ritorno di Joshua Abe",
-      "url": "https://www.dailymail.com/sport/football/article-16302293/Liverpool-Confidential-Van-Dijk-Alisson-Iraola.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I club europei sono in massima allerta per il futuro delle stelle del Liverpool Virgil van Dijk e Alisson, nonostante entrambi i giocatori siano desiderosi di prolungare i loro contratti ad Anfield.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -800,
-      "pubblicato": "2026-11-18T17:03:52+00:00",
-      "squadra": "Liverpool"
-    },
-    {
       "id": "7ae18f2a2d",
       "titolo": "La Premier League individua SEI gravi errori arbitrali in un solo fine settimana mentre il designatore Howard Webb si prepara a incontrare i club dopo il pasticcio sull'Arsenal",
       "url": "https://www.dailymail.com/sport/football/article-16302267/Premier-League-identify-FIVE-key-refereeing-errors-one-weekend-boss-Howard-Webb-prepares-appear-clubs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1128,27 +1200,27 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "9e625b0ddc",
-      "titolo": "Mikel Arteta avverte sui rischi legati ai droni dopo l'incidente all'allenamento del Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50539774/arsenal-mikel-arteta-man-united-drone-pochettino",
-      "estratto": "Mikel Arteta ha definito la violazione della sicurezza con un drone al centro d'allenamento del Manchester United una \"questione seria\" e ha messo in guardia sui rischi di problemi futuri in tutta la Premier League.",
-      "fonte": "ESPN",
+      "id": "5ae4cfcd62",
+      "titolo": "Il dirigente del Manchester United Omar Berrada prende le distanze dalle accuse della Premier League contro il Manchester City - mentre Enzo Maresca insiste sul fatto che i suoi giocatori non siano influenzati dal verdetto di colpevolezza",
+      "url": "https://www.dailymail.com/sport/football/article-16309383/Man-United-CEO-Omar-Berrada-says-not-involved-wrongdoing-former-club-Man-City-Enzo-Maresca-insists-stars-unaffected-guilty-verdicts-despite-three-straight-Premier-League-defeats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'amministratore delegato del Manchester United Omar Berrada ha insistito di non essere stato coinvolto in alcun illecito nel suo ex club Manchester City, ma si è rifiutato di escludere azioni legali nel caso in cui il loro appello fallisca.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
       "punteggio": -960,
-      "pubblicato": "2026-11-20T17:26:46+00:00",
+      "pubblicato": "2026-11-20T17:46:52+00:00",
       "squadra": "Man Utd"
     },
     {
-      "id": "49768be409",
-      "titolo": "I tre talenti Juve pronti a brillare con l'Italia al Mondiale Under 17: chi sono Corigliano, Del Fabro e Rigo",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/20-152696131/i_tre_talenti_juve_pronti_a_brillare_con_l_italia_al_mondiale_under_17_chi_sono_corigliano_del_fabro_e_rigo/",
-      "estratto": "Contro la Giamaica inizia la sfida degli Azzurri a Doha: si va a caccia del bis dopo l’Europeo",
+      "id": "72c264241c",
+      "titolo": "Allenamento Juve, Spalletti sorride a metà: come stanno Celik, Cambiaso, Nico Gonzalez e Kalulu",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/20-152700055/allenamento_juve_spalletti_sorride_a_met_come_stanno_celik_cambiaso_nico_gonzalez_e_kalulu/",
+      "estratto": "I bianconeri proseguono la preparazione alla sfida contro il Venezia: le ultime dalla Continassa",
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -970,
-      "pubblicato": "2026-11-20T12:21:36+00:00",
+      "pubblicato": "2026-11-20T12:50:48+00:00",
       "squadra": "Juventus"
     },
     {
@@ -1176,6 +1248,30 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "9e625b0ddc",
+      "titolo": "Mikel Arteta avverte sui rischi legati ai droni dopo l'incidente all'allenamento del Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50539774/arsenal-mikel-arteta-man-united-drone-pochettino",
+      "estratto": "Mikel Arteta ha definito la violazione della sicurezza con un drone al centro d'allenamento del Manchester United una \"questione seria\" e ha messo in guardia sui rischi di problemi futuri in tutta la Premier League.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -1160,
+      "pubblicato": "2026-11-20T17:26:46+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "49768be409",
+      "titolo": "I tre talenti Juve pronti a brillare con l'Italia al Mondiale Under 17: chi sono Corigliano, Del Fabro e Rigo",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/20-152696131/i_tre_talenti_juve_pronti_a_brillare_con_l_italia_al_mondiale_under_17_chi_sono_corigliano_del_fabro_e_rigo/",
+      "estratto": "Contro la Giamaica inizia la sfida degli Azzurri a Doha: si va a caccia del bis dopo l’Europeo",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1170,
+      "pubblicato": "2026-11-20T12:21:36+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "d206b5f3e2",
       "titolo": "'Se non gli dai quello che vuole, ti brucia la casa': Dentro il 'culto' di Sir Jim Ratcliffe, mentre fonti del suo impero sportivo in frantumi rivelano la distruttiva arroganza del co-proprietario del Manchester United e dei suoi scagnozzi",
       "url": "https://www.dailymail.com/sport/football/article-16305653/jim-ratcliffe-manchester-united-ineos-cult.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1183,7 +1279,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -1160,
+      "punteggio": -1360,
       "pubblicato": "2026-11-19T17:11:08+00:00",
       "squadra": "Man Utd"
     },
@@ -1195,21 +1291,9 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1170,
+      "punteggio": -1370,
       "pubblicato": "2026-11-20T11:10:40+00:00",
       "squadra": "Juventus"
-    },
-    {
-      "id": "cc4ed898ff",
-      "titolo": "Il Manchester City deve assolutamente invertire la rotta, i vecchi rivali Chelsea e Leeds pronti al big match di Stamford Bridge e il battesimo del fuoco di Mauricio Pochettino: SETTE motivi per cui siamo impazienti per il ritorno della Premier League",
-      "url": "https://www.dailymail.com/sport/football/article-16299831/man-city-chelsea-leeds-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dopo una sosta per le nazionali entusiasmante che ha visto l'Inghilterra conquistare una storica vittoria per 3-2 sulla Spagna, la nostra attenzione torna sulla Premier League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1200,
-      "pubblicato": "2026-11-17T22:05:11+00:00",
-      "squadra": "Man City"
     },
     {
       "id": "c2c0a86b05",
@@ -1219,56 +1303,8 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -1360,
+      "punteggio": -1560,
       "pubblicato": "2026-11-19T12:04:29+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "06036a8c6e",
-      "titolo": "Juve, che occasione per il cambio di marcia",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/11/20-152697023/juve_che_occasione_per_il_cambio_di_marcia/",
-      "estratto": "Questo finale d’anno, eccetto Como e Roma, strizza l’occhio alla Juve: Lucio si gioca tutto",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1370,
-      "pubblicato": "2026-11-20T08:52:26+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "a970e73a0b",
-      "titolo": "Calciomercato, indiscrezioni e notizie: il Manchester United mette gli occhi sul difensore del Newcastle Malick Thiaw",
-      "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
-      "estratto": "Il Manchester United è tra i club interessati al difensore centrale del Newcastle United Malick Thiaw. Tutti gli ultimi aggiornamenti di Transfer Talk.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1570,
-      "pubblicato": "2026-11-20T15:53:45+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "3a52611d3f",
-      "titolo": "Juve, rebus punta: Sorloth si complica. Varela sì, ma c’è fila",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/juventus/2026/11/20-152697020/juve_rebus_punta_sorloth_si_complica_varela_s_ma_c_fila/",
-      "estratto": "Servono i gol: il club bianconero sonda e segue le oscillazioni. A sinistra Balde in pole, Hojbjerg a metà campo solo a saldo",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1570,
-      "pubblicato": "2026-11-20T08:46:47+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "89299ae3dd",
-      "titolo": "Il Manchester United intraprenderà azioni legali se le intrusioni dei droni dovessero ripetersi - fonti",
-      "url": "https://www.espn.com/soccer/story/_/id/50540789/manchester-united-drone-mauricio-pochettino",
-      "estratto": "Il Manchester United è pronto ad avviare azioni legali in caso di ulteriori voli non autorizzati di droni sopra il proprio centro di allenamento, secondo quanto riferito da fonti a ESPN.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1770,
-      "pubblicato": "2026-11-20T14:34:58+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1279,9 +1315,33 @@
       "fonte": "Tuttosport",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1770,
+      "punteggio": -1570,
       "pubblicato": "2026-11-20T07:51:36+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "a970e73a0b",
+      "titolo": "Calciomercato, indiscrezioni e notizie: il Manchester United mette gli occhi sul difensore del Newcastle Malick Thiaw",
+      "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+      "estratto": "Il Manchester United è tra i club interessati al difensore centrale del Newcastle United Malick Thiaw. Tutti gli ultimi aggiornamenti di Transfer Talk.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1770,
+      "pubblicato": "2026-11-20T15:53:45+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "89299ae3dd",
+      "titolo": "Il Manchester United intraprenderà azioni legali se le intrusioni dei droni dovessero ripetersi - fonti",
+      "url": "https://www.espn.com/soccer/story/_/id/50540789/manchester-united-drone-mauricio-pochettino",
+      "estratto": "Il Manchester United è pronto ad avviare azioni legali in caso di ulteriori voli non autorizzati di droni sopra il proprio centro di allenamento, secondo quanto riferito da fonti a ESPN.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1970,
+      "pubblicato": "2026-11-20T14:34:58+00:00",
+      "squadra": "Man Utd"
     },
     {
       "id": "1d271c830c",
@@ -1291,21 +1351,9 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -1970,
+      "punteggio": -2170,
       "pubblicato": "2026-11-20T09:07:59+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "bbad7b1317",
-      "titolo": "Taylor-Juve si può solo senza follie: ecco gli altri due nomi sulla lista di Carnevali",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/20-152694000/taylor-juve_si_pu_solo_senza_follie_ecco_gli_altri_due_nomi_sulla_lista_di_carnevali/",
-      "estratto": "Ai bianconeri piace anche l’olandese della Lazio. C’è pure la Premier, ma Lotito e Fabiani hanno promesso al tecnico che non venderanno i top",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1970,
-      "pubblicato": "2026-11-20T06:33:52+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "62460c8dbb",
@@ -1315,8 +1363,68 @@
       "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -2170,
+      "punteggio": -2370,
       "pubblicato": "2026-11-19T21:57:43+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "86a2331c3a",
+      "titolo": "Burley definisce Pochettino il manager più importante per il Man United dai tempi di Mourinho",
+      "url": "https://www.espn.com/video/clip/_/id/50544050/burley-labels-pochettino-biggest-manager-mourinho-man-united",
+      "estratto": "Nedum Onuoha, Craig Burley e Frank Leboeuf di ESPN commentano insieme a Kay Murray la prima conferenza stampa di Mauricio Pochettino da allenatore del Manchester United.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2600,
+      "pubblicato": "2026-11-20T22:49:50+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "929b698fc1",
+      "titolo": "Mauricio Pochettino deve sistemare un club bloccato in un ciclo continuo di fallimenti. Il nuovo tecnico del Man United ha la personalità giusta, ma la rosa è un mosaico sconnesso e la sua caratura da allenatore resta una grande incognita, scrive IAN LADYMAN",
+      "url": "https://www.dailymail.com/sport/football/article-16309693/Mauricio-Pochettino-fix-club-stuck-constant-cycle-failure-new-Man-United-boss-personality-squad-mish-mash-sits-coach-great-unknown-writes-IAN-LADYMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ancora una volta il club calcistico più importante d'Inghilterra si affida a un'iniezione di personalità per rimettersi in piedi. È ciò che accade quando si sbaglia per così tanto tempo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -2800,
+      "pubblicato": "2026-11-20T22:07:06+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "d509731741",
+      "titolo": "Fuga di notizie per il primo allenamento del Manchester United di Mauricio Pochettino prima della sfida con il Liverpool: un drone sopra Carrington riprende 12 minuti di filmati in una grave violazione della sicurezza",
+      "url": "https://www.dailymail.com/sport/football/article-16306899/Mauricio-Pochettino-Man-United-training-session-LEAKED-blow-ahead-Liverpool-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il video di 12 minuti girato giovedì da un drone in volo sopra il centro di allenamento di Carrington del club mostra chiaramente Pochettino e il suo staff tecnico all'opera con i giocatori.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -3000,
+      "pubblicato": "2026-11-20T19:15:22+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "875b156891",
+      "titolo": "Pochettino: 'L'enorme pressione con l'USMNT mi rende un allenatore migliore per il Man United'",
+      "url": "https://www.espn.com/soccer/story/_/id/50542344/mauricio-pochettino-usa-man-united-coach",
+      "estratto": "Mauricio Pochettino ha dichiarato che l'esperienza alla guida degli Stati Uniti al Mondiale gli tornerà molto utile nell'assumere il comando del Manchester United.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -3200,
+      "pubblicato": "2026-11-20T19:02:39+00:00",
+      "squadra": "Man Utd"
+    },
+    {
+      "id": "a6c3cf7b8a",
+      "titolo": "Il pilota di droni si scusa per aver filmato il primo allenamento di Mauricio Pochettino al Manchester United e chiarisce che il Liverpool non c'entra con la clamorosa violazione della sicurezza",
+      "url": "https://www.dailymail.com/sport/football/article-16308507/Drone-apologises-Mauricio-Pochettinos-Man-United-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il pilota di droni che ha ripreso la prima sessione di allenamento di Mauricio Pochettino al Manchester United ha rimosso il video dal proprio account YouTube e si è scusato con il club.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -3400,
+      "pubblicato": "2026-11-20T18:58:50+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1327,7 +1435,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2400,
+      "punteggio": -3600,
       "pubblicato": "2026-11-20T17:06:46+00:00",
       "squadra": "Man Utd"
     },
@@ -1339,7 +1447,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2600,
+      "punteggio": -3800,
       "pubblicato": "2026-11-20T15:50:58+00:00",
       "squadra": "Man Utd"
     },
@@ -1351,32 +1459,8 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -2800,
+      "punteggio": -4000,
       "pubblicato": "2026-11-20T14:19:59+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "a6c3cf7b8a",
-      "titolo": "Il pilota di droni si scusa per aver filmato il primo allenamento di Mauricio Pochettino al Manchester United e chiarisce che il Liverpool non c'entra con la clamorosa violazione della sicurezza",
-      "url": "https://www.dailymail.com/sport/football/article-16308507/Drone-apologises-Mauricio-Pochettinos-Man-United-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il pilota di droni che ha ripreso la prima sessione di allenamento di Mauricio Pochettino al Manchester United ha rimosso il video dal proprio account YouTube e si è scusato con il club.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -3000,
-      "pubblicato": "2026-11-20T13:58:47+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "d509731741",
-      "titolo": "Fuga di notizie per il primo allenamento del Manchester United di Mauricio Pochettino prima della sfida con il Liverpool: un drone sopra Carrington riprende 12 minuti di filmati in una grave violazione della sicurezza",
-      "url": "https://www.dailymail.com/sport/football/article-16306899/Mauricio-Pochettino-Man-United-training-session-LEAKED-blow-ahead-Liverpool-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il video di 12 minuti girato giovedì da un drone in volo sopra il centro di allenamento di Carrington del club mostra chiaramente Pochettino e il suo staff tecnico all'opera con i giocatori.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -3200,
-      "pubblicato": "2026-11-20T13:43:32+00:00",
       "squadra": "Man Utd"
     },
     {
@@ -1387,7 +1471,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3400,
+      "punteggio": -4200,
       "pubblicato": "2026-11-20T13:39:15+00:00",
       "squadra": "Man Utd"
     },
@@ -1399,7 +1483,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3600,
+      "punteggio": -4400,
       "pubblicato": "2026-11-20T12:10:49+00:00",
       "squadra": "Man Utd"
     },
@@ -1411,7 +1495,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -3800,
+      "punteggio": -4600,
       "pubblicato": "2026-11-20T09:55:12+00:00",
       "squadra": "Man Utd"
     },
@@ -1423,7 +1507,7 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4000,
+      "punteggio": -4800,
       "pubblicato": "2026-11-20T09:55:09+00:00",
       "squadra": "Man Utd"
     },
@@ -1435,7 +1519,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4200,
+      "punteggio": -5000,
       "pubblicato": "2026-11-19T15:33:36+00:00",
       "squadra": "Man Utd"
     },
@@ -1447,7 +1531,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": true,
-      "punteggio": -4400,
+      "punteggio": -5200,
       "pubblicato": "2026-11-18T11:43:54+00:00",
       "squadra": "Man Utd"
     },
@@ -1459,7 +1543,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4600,
+      "punteggio": -5400,
       "pubblicato": "2026-11-18T10:53:41+00:00",
       "squadra": "Man Utd"
     },
@@ -1471,7 +1555,7 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -4800,
+      "punteggio": -5600,
       "pubblicato": "2026-11-18T05:56:33+00:00",
       "squadra": "Man Utd"
     },
@@ -1483,32 +1567,8 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
-      "punteggio": -5000,
+      "punteggio": -5800,
       "pubblicato": "2026-11-18T02:00:46+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "1be226aab0",
-      "titolo": "JJ Gabriel spiazza il Manchester United dopo aver confermato l'addio: il sedicenne pubblica un video d'addio mentre finalizza il passaggio al Real Madrid dopo aver gelato i dirigenti dell'Old Trafford con la sua decisione",
-      "url": "https://www.dailymail.com/sport/football/article-16300607/JJ-Gabriel-Man-United-exit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Si è allenato a Madrid nei giorni scorsi in vista del trasferimento al Real Madrid, e ha scelto i social media per salutare i Red Devils dopo sei anni nel club.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -5200,
-      "pubblicato": "2026-11-17T20:07:00+00:00",
-      "squadra": "Man Utd"
-    },
-    {
-      "id": "58c0dd9db1",
-      "titolo": "Man United Confidential: a Mauricio Pochettino fondi da spendere a gennaio con il club a caccia di rinforzi in TRE ruoli, stupore per l'esonero del popolare tecnico e ultime sul passaggio di JJ Gabriel al Real Madrid",
-      "url": "https://www.dailymail.com/sport/football/article-16299135/manchester-united-mauricio-pochettino-january-transfers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Sebbene Pochettino avrà a disposizione un budget per i nuovi giocatori, lo United dovrà muoversi con intelligenza sul mercato e spendere con cautela, scrivono Chris Wheeler e Nathan Salt.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -5400,
-      "pubblicato": "2026-11-17T20:04:11+00:00",
       "squadra": "Man Utd"
     }
   ]
