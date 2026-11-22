@@ -1,7 +1,43 @@
 {
-  "aggiornato": "2026-11-22T01:22:00.820515+00:00",
-  "totale": 33,
+  "aggiornato": "2026-11-22T08:30:21.419654+00:00",
+  "totale": 36,
   "articoli": [
+    {
+      "id": "aa9af791a8",
+      "titolo": "Realismo o strategia? Allegri cauto sul City: \"Dobbiamo sistemare il campionato\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/realismo-strategia-allegri-cauto-city-dobbiamo-sistemare-campionato-2296214",
+      "estratto": "Se si tratta di realismo o di semplice strategia, lo si vedrà.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-22T08:20:00+00:00"
+    },
+    {
+      "id": "2dde750f60",
+      "titolo": "Bundesliga, il Werder Brema con l'Amburgo per restare in zona Europa, apre Augsburg-Mainz",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/bundesliga-werder-brema-amburgo-restare-zona-europa-apre-augsburg-mainz-2296052",
+      "estratto": "Si conclude oggi, domenica 22 novembre, la 10ª giornata di Bundesliga con le ultime due partite in programma.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-22T07:45:30+00:00"
+    },
+    {
+      "id": "c15d424441",
+      "titolo": "Paura per Paredes, sviene in diretta durante l'intervista: cosa è successo dopo il trionfo del Boca Juniors",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/11/22-152748104/paura_per_paredes_sviene_in_diretta_durante_l_intervista_cosa_successo_dopo_il_trionfo_del_boca_juniors/",
+      "estratto": "Dopo la festa degli Xeneizes per la vittoria della Copa Sudamericana, l'ex Roma e Juve preoccupa i tifosi cadendo a terra in diretta tv: tutti i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-22T04:58:40+00:00"
+    },
+    {
+      "id": "b7f2a57851",
+      "titolo": "DiBernardo si unisce a Rapinoe e Pulisic nel pantheon dei grandi gol olimpici",
+      "url": "https://www.espn.com/soccer/story/_/id/46407078/celebrating-olimpico-one-soccers-most-audacious-goals",
+      "estratto": "Sabato Vanessa DiBernardo è entrata in una lista d'élite segnando per il Kansas City direttamente da un calcio d'angolo. Conosciuti nel mondo del calcio come gol olimpici, ecco alcuni dei migliori di sempre.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-22T03:53:18+00:00"
+    },
     {
       "id": "a67dabf589",
       "titolo": "MOTHERWELL 1 RANGERS 2: Naderi salva i Gunners di Ibrox, imprecisi e graziati da un gol nel finale",
@@ -289,15 +325,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-19T20:20:46+00:00"
-    },
-    {
-      "id": "9216976f53",
-      "titolo": "Mykhailo Mudryk rivela di aver speso \"MILIONI\" in spese legali per combattere l'accusa di doping e incolpa la sua esperienza con l'Ucraina per la squalifica di due anni in un'intervista a cuore aperto",
-      "url": "https://www.dailymail.com/sport/football/article-16303995/Mykhailo-Mudryk-reveals-blames-Ukraine-national-team-doping-ban-hell-Xabi-Alonso-told-threats-gangsters-led-Chelsea-move.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "L'esterno d'attacco del Chelsea, ora in prestito al Tottenham Hotspur, si è confidato per la prima volta da quando è tornato al calcio giocato in estate, dopo che la sua squalifica è stata improvvisamente revocata.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-19T07:46:16+00:00"
     }
   ]
 }
