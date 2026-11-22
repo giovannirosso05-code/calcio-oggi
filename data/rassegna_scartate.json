@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-11-21T21:14:24.041783+00:00",
-  "totale": 34,
+  "aggiornato": "2026-11-22T01:22:00.820515+00:00",
+  "totale": 33,
   "articoli": [
+    {
+      "id": "a67dabf589",
+      "titolo": "MOTHERWELL 1 RANGERS 2: Naderi salva i Gunners di Ibrox, imprecisi e graziati da un gol nel finale",
+      "url": "https://www.dailymail.com/sport/football/article-16312249/MOTHERWELL-1-RANGERS-2-Naderi-rides-rescue-wasteful-Ibrox-men-jail-late-winner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Per una squadra che proprio non riusciva a trovare la via della rete, servivano inevitabilmente un paio di deviazioni fortunate o qualcosa di straordinario per tirarsi fuori dai guai.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T23:10:16+00:00"
+    },
+    {
+      "id": "2d54f54eae",
+      "titolo": "La goleada al Dundee è la miglior prestazione della mia gestione agli Hearts finora, esulta Vrancken",
+      "url": "https://www.dailymail.com/sport/football/article-16312197/Dundee-rout-best-display-Hearts-reign-far-beams-Vrancken.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Wouter Vrancken ha dichiarato che il netto 8-0 rifilato dagli Hearts a un Dundee ridotto in dieci uomini è stata la migliore prestazione della sua squadra da quando è arrivato sulla panchina del Tynecastle.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T22:35:28+00:00"
+    },
+    {
+      "id": "c1947a95a0",
+      "titolo": "L'esordio di Thomas Frank sulla panchina del Crystal Palace si chiude con una sconfitta nel finale contro il Coventry, mentre aumenta il rischio retrocessione",
+      "url": "https://www.dailymail.com/sport/football/article-16308769/Crystal-Palace-Thomas-Frank-Coventry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Crystal Palace avrà anche cambiato modulo e allenatore, ma resta senza vittorie da due mesi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-21T21:52:09+00:00"
+    },
     {
       "id": "f90c1af66a",
       "titolo": "KILMARNOCK 2 ABERDEEN 4: I brillanti Dons trovano la scossa con Frick, ma è un'altra giornata da incubo per gli uomini di McCann",
@@ -9,7 +36,7 @@
       "estratto": "Dopo essersi annoiati a morte per il calcio espresso sotto la gestione di Stephen Robinson, i tifosi dell'Aberdeen invocavano a gran voce un nuovo allenatore che portasse un po' di spettacolo.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-21T20:36:48+00:00"
+      "pubblicato": "2026-11-21T21:15:57+00:00"
     },
     {
       "id": "a15ede71ee",
@@ -19,15 +46,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-21T20:31:01+00:00"
-    },
-    {
-      "id": "049344c8a7",
-      "titolo": "Serie B, Pittarello decide il derby: il Pisa si impone 1-0 ed è quarto. Empoli battuto e ultimo",
-      "url": "https://www.tuttomercatoweb.com/serie-b/serie-b-2296128",
-      "estratto": "Al Pisa basta un gol in apertura di Pittarello per battere l'Empoli.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T20:26:00+00:00"
     },
     {
       "id": "999145b444",
@@ -46,15 +64,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-21T19:28:17+00:00"
-    },
-    {
-      "id": "c1947a95a0",
-      "titolo": "L'esordio di Thomas Frank sulla panchina del Crystal Palace si chiude con una sconfitta nel finale contro il Coventry, mentre aumenta il rischio retrocessione",
-      "url": "https://www.dailymail.com/sport/football/article-16308769/Crystal-Palace-Thomas-Frank-Coventry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Crystal Palace avrà anche cambiato modulo e allenatore, ma resta senza vittorie da due mesi.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T19:26:01+00:00"
     },
     {
       "id": "befad3a9f3",
@@ -201,15 +210,6 @@
       "pubblicato": "2026-11-20T16:44:39+00:00"
     },
     {
-      "id": "0f3136f892",
-      "titolo": "Jack Grealish a disposizione dell'Everton per la gara contro il Brentford",
-      "url": "https://www.espn.com/soccer/story/_/id/50541708/jack-grealish-everton-brentford",
-      "estratto": "Jack Grealish torna tra i convocabili dell'Everton e potrebbe rientrare nella sfida di lunedì contro il Brentford. Jack Grealish torna tra i convocabili dell'Everton e potrebbe rientrare nella sfida di lunedì contro il Brentford.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-20T16:33:23+00:00"
-    },
-    {
       "id": "35cc3e54f3",
       "titolo": "I problemi di Pocognoli sono solo la punta dell'iceberg rispetto a chi comanda nella SFA",
       "url": "https://www.dailymail.com/sport/football/article-16309391/Pocognoli-SFA-problems-iceberg.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -298,15 +298,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-19T07:46:16+00:00"
-    },
-    {
-      "id": "d60bb1fcce",
-      "titolo": "La stella delle Lionesses Chloe Kelly sfoggia un look glamour con un abito trasparente alla serata dei premi GQ, poche ore dopo essere stata esclusa ancora una volta dalla nazionale inglese",
-      "url": "https://www.dailymail.com/sport/football/article-16303291/chloe-kelly-gq-awards-england-squad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La stella delle Lionesses e dell'Arsenal Chloe Kelly ha rubato la scena martedì sera ai GQ Men of the Year Awards, presentandosi senza reggiseno con un abito trasparente poche ore dopo essere stata esclusa dalle ultime convocazioni di Sarina Wiegman",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-18T21:48:36+00:00"
     }
   ]
 }
