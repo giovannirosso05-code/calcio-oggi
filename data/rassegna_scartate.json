@@ -1,7 +1,25 @@
 {
-  "aggiornato": "2026-11-23T02:47:26.757435+00:00",
-  "totale": 41,
+  "aggiornato": "2026-11-23T11:20:40.632173+00:00",
+  "totale": 39,
   "articoli": [
+    {
+      "id": "a988e051ec",
+      "titolo": "Futuro lontano dal Qatar per Julen Lopetegui: Federazione a lavoro per anticipare l'addio",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/qatar-julen-lopetegui-federazione-lavoro-anticipare-addio-2296626",
+      "estratto": "L'avventura di Julen Lopetegui alla guida della nazionale del Qatar potrebbe concludersi prima del previsto.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T11:11:02+00:00"
+    },
+    {
+      "id": "92d02c1241",
+      "titolo": "L'Hull riaccende le speranze salvezza con una doppietta nel finale di Oli McBurnie per stendere il Brighton, mentre le voci su una favola in stile Leicester City dei Seagulls perdono di credibilità",
+      "url": "https://www.dailymail.com/sport/football/article-16308777/Hull-Brighton-Premier-League-report.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Quando la scorsa settimana al proprietario del Brighton, Tony Bloom, sono state chieste le prospettive di titolo del suo club, ha suggerito che avrebbero potuto emulare la favola del Leicester City della stagione 2015-16 e vincere la Premier League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T09:08:29+00:00"
+    },
     {
       "id": "76e37897ba",
       "titolo": "È la fine? Per McCann la situazione è critica dopo che i vivaci Dons hanno travolto il Rugby Park",
@@ -64,15 +82,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-22T18:26:01+00:00"
-    },
-    {
-      "id": "92d02c1241",
-      "titolo": "L'Hull riaccende le speranze salvezza con una doppietta nel finale di Oli McBurnie per stendere il Brighton, mentre le voci su una favola in stile Leicester City dei Seagulls perdono di credibilità",
-      "url": "https://www.dailymail.com/sport/football/article-16308777/Hull-Brighton-Premier-League-report.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Quando la scorsa settimana al proprietario del Brighton, Tony Bloom, sono state chieste le prospettive di titolo del suo club, ha suggerito che avrebbero potuto emulare la favola del Leicester City della stagione 2015-16 e vincere la Premier League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T18:24:38+00:00"
     },
     {
       "id": "d460407067",
@@ -343,33 +352,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-20T12:00:53+00:00"
-    },
-    {
-      "id": "357e45bbf9",
-      "titolo": "All'interno delle gang che incutono terrore alle stelle della Premier League: giocatori terrorizzati che pagano il «pizzo» e comprano cani da guardia da 20.000 sterline, WAGs prese di mira in violenti carjacking e la caduta della famiglia criminale che ha preso di mira Alexander Isak",
-      "url": "https://www.dailymail.com/sport/football/article-16302113/football-gangs-crime-premier-league-security-isak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Liverpool, Everton e Manchester United sono tra i club che hanno ingaggiato i propri team di sicurezza per garantire una presenza 24 ore su 24 nelle abitazioni dei giocatori.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-20T09:24:58+00:00"
-    },
-    {
-      "id": "5b03586519",
-      "titolo": "Il coro 'Fanculo il Papa e l'IRA' mette l'Inghilterra nei guai mentre ai tifosi viene inflitta una squalifica dello stadio con la condizionale e la FA viene multata",
-      "url": "https://www.dailymail.com/sport/football/article-16306933/England-UEFA-Fine-Racism-Spain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "BOBBY MANZI: Alcuni dei 3.000 tifosi inglesi recatisi a Madrid sono stati uditi intonare 'f**k the Pope and the IRA' all'interno dello stadio Metropolitano di Madrid domenica.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-20T08:21:28+00:00"
-    },
-    {
-      "id": "4191b7bf6e",
-      "titolo": "Cosa si prova davvero a uccidere un collega atleta e il terribile dolore che \"ti porti dentro per il resto della vita\": il gruppo maledetto degli sportivi tormentati svela gli incubi che non li abbandonano mai",
-      "url": "https://www.dailymail.com/sport/football/article-16305539/Athletes-kill-sportsmen-cursed-owono.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "A volte, la tragedia nello sport non è solo quella del giocatore che muore; è anche il dramma dell'avversario che è costretto a rivivere continuamente nella sua mente l'incubo di ciò che ha fatto.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-20T03:15:55+00:00"
     }
   ]
 }
