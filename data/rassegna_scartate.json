@@ -1,7 +1,16 @@
 {
-  "aggiornato": "2026-11-22T22:05:34.900942+00:00",
+  "aggiornato": "2026-11-23T02:47:26.757435+00:00",
   "totale": 41,
   "articoli": [
+    {
+      "id": "76e37897ba",
+      "titolo": "È la fine? Per McCann la situazione è critica dopo che i vivaci Dons hanno travolto il Rugby Park",
+      "url": "https://www.dailymail.com/sport/football/article-16313811/McCann-Kilmarnock-Aberdeen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Neil McCann non è mai stato una scelta gradita ai tifosi del Kilmarnock, ma nemmeno i suoi critici più severi possono negare che abbia fatto un ottimo lavoro mantenendo il club nella massima serie scozzese la scorsa stagione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-22T23:11:21+00:00"
+    },
     {
       "id": "fc3e0a4031",
       "titolo": "Il Villarreal smentisce che l'intervento agli occhi di Nicolas Pépé sia dovuto all'osservazione dell'eclissi solare",
@@ -361,15 +370,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-20T03:15:55+00:00"
-    },
-    {
-      "id": "e607b13d02",
-      "titolo": "Andriy Shevchenko risponde alle pesanti accuse di Mykhailo Mudryk sullo scaricabarilate del test antidoping fallito: il capo del calcio ucraino accusa la stella da 89 milioni di sterline di 'diffamazione' e chiede le scuse",
-      "url": "https://www.dailymail.com/sport/football/article-16307087/Andriy-Shevchenko-hits-explosive-Mykhailo-Mudryk-claims-blame-game-failed-drugs-test-Ukraine-chief-accuses-89m-star-slander-demands-apology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Mykhailo Mudryk è stato accusato di 'diffamazione infondata' dal presidente della Federcalcio ucraina (UAF) Andriy Shevchenko dopo che il giocatore aveva attribuito il suo test antidoping fallito all'organizzazione della nazionale.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-19T23:30:13+00:00"
     }
   ]
 }
