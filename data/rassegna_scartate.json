@@ -1,33 +1,33 @@
 {
-  "aggiornato": "2026-11-24T06:45:18.790664+00:00",
-  "totale": 24,
+  "aggiornato": "2026-11-24T18:23:44.686115+00:00",
+  "totale": 22,
   "articoli": [
     {
-      "id": "e66864f8e5",
-      "titolo": "Levante-Elche, botta e risposta per un pari che non serve",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/2026/11/23-152787383/levante-elche_botta_e_risposta_per_un_pari_che_non_serve/",
-      "estratto": "Nel posticipo della 13ª giornata di Liga finisce 1-1 lo scontro diretto tra le due pericolanti, che restano nei bassifondi della classifica",
-      "fonte": "Corriere dello Sport",
+      "id": "ba06f2f46e",
+      "titolo": "SULLA STRADA: Il Clyde accoglie i suoi nuovi e rumorosi sponsor per del CALCIO HEAVY METAL",
+      "url": "https://www.dailymail.com/sport/football/article-16313551/ON-ROAD-Clyde-welcome-noisy-new-sponsors-HEAVY-METAL-FOOTBALL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "FINO in Giappone. È un termine che i moderni complessi musicali usano per il successo all'estero.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-23T22:09:04+00:00"
+      "pubblicato": "2026-11-24T16:19:20+00:00"
     },
     {
-      "id": "5acc0410af",
-      "titolo": "Il Brantford travolge l'Everton: Lewis-Potter, Janet e Carvalho firmano il 4-0",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/2026/11/23-152787576/iil_brantford_travolge_l_everton_lewis-potter_janet_e_carvalho_firmano_il_4-0/",
-      "estratto": "Nel monday night dell'undicesima giornata di Premier League i padroni di casa dominano la scena",
-      "fonte": "Corriere dello Sport",
+      "id": "a5f30de4a9",
+      "titolo": "Il Senegal torna campione d'Africa: il Tas accoglie il ricorso, Marocco sconfitto sul campo",
+      "url": "https://www.tuttosport.com/news/calcio/coppa-africa/2026/11/24-152805920/il_senegal_torna_campione_d_africa_il_tas_accoglie_il_ricorso_marocco_sconfitto_sul_campo/",
+      "estratto": "Il titolo era stato attribuito a tavolino alla nazionale nordaficana dopo il caos a fine match",
+      "fonte": "Tuttosport",
       "serie": "Estero",
-      "pubblicato": "2026-11-23T22:08:18+00:00"
+      "pubblicato": "2026-11-24T15:52:04+00:00"
     },
     {
-      "id": "0f574fb6b3",
-      "titolo": "Marocco o Senegal? Il Tas sceglie a chi andrà l'ultima Coppa d'Africa",
-      "url": "https://www.corrieredellosport.it/news/calcio/coppa-africa/2026/11/23-152787765/marocco_o_senegal_il_tas_sceglie_a_chi_andr_l_ultima_coppa_d_africa/",
-      "estratto": "Dopo l'assegnazione d'ufficio e il ricorso della federazione senegalese, il Tribunale arbitrale sportivo chiuderà le polemiche",
+      "id": "96e1c7e233",
+      "titolo": "Coppa d'Africa, il Tas ha deciso: il Senegal è il campione 2026",
+      "url": "https://www.corrieredellosport.it/news/calcio/coppa-africa/2026/11/24-152805101/coppa_d_africa_il_tas_ha_deciso_il_senegal_il_campione_2026/",
+      "estratto": "Il Tribunale arbitrale sportivo di Losanna ha accolto il ricorso: ribaltata la vittoria a tavolino del Marocco",
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
-      "pubblicato": "2026-11-23T18:26:24+00:00"
+      "pubblicato": "2026-11-24T15:01:04+00:00"
     },
     {
       "id": "1301c6f5dc",
@@ -37,6 +37,15 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-23T15:11:02+00:00"
+    },
+    {
+      "id": "5beb32d6f2",
+      "titolo": "Maresca punge Allegri: \"Partita proibitiva? In Italia siamo bravi a piangere\". Poi la frase in campano",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/23-152783685/maresca_punge_allegri_partita_proibitiva_in_italia_siamo_bravi_a_piangere_poi_la_frase_in_campano/",
+      "estratto": "Il tecnico del City alla vigilia della sfida col Napoli rivela: \"In primavera contatti con un club di Serie A, ma mai sentito De Laurentiis\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-23T13:27:38+00:00"
     },
     {
       "id": "92d02c1241",
@@ -82,15 +91,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-22T20:23:47+00:00"
-    },
-    {
-      "id": "ba06f2f46e",
-      "titolo": "SULLA STRADA: Il Clyde accoglie i suoi nuovi e rumorosi sponsor per del CALCIO HEAVY METAL",
-      "url": "https://www.dailymail.com/sport/football/article-16313551/ON-ROAD-Clyde-welcome-noisy-new-sponsors-HEAVY-METAL-FOOTBALL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "FINO in Giappone. È un termine che i moderni complessi musicali usano per il successo all'estero.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T19:20:34+00:00"
     },
     {
       "id": "db3e8583af",
@@ -199,24 +199,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-21T19:14:56+00:00"
-    },
-    {
-      "id": "a1cb95a05e",
-      "titolo": "Celtic 4 St Mirren 1: Oxlade-Chamberlain torna a splendere mentre i campioni fanno a pezzi i Buddies",
-      "url": "https://www.dailymail.com/sport/football/article-16311651/Celtic-St-Mirren-Oxlade-Chamberlain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Cosa non darebbe Martin O'Neill per vedere di più di questo fino all'arrivo dei rinforzi sul mercato di gennaio.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T17:48:20+00:00"
-    },
-    {
-      "id": "56ceb3bce3",
-      "titolo": "Il portiere coinvolto nello scontro fatale con la stella spagnola Jesús de Miguel, 30 anni, si fa vivo per la prima volta dopo il tragico incidente per rendere omaggio al giocatore del Tenerife",
-      "url": "https://www.dailymail.com/sport/football/article-16311007/Goalkeeper-involved-fatal-collision-Spanish-star-Jesus-Miguel-30-breaks-cover-time-tragic-accident-pay-tribute-Tenerife-player.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La scomparsa di De Miguel ha scioccato il mondo del calcio e Owono è stato successivamente squalificato per 12 giornate dalle autorità.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T11:30:00+00:00"
     }
   ]
 }
