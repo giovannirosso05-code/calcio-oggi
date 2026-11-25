@@ -1,7 +1,43 @@
 {
-  "aggiornato": "2026-11-24T18:23:44.686115+00:00",
-  "totale": 22,
+  "aggiornato": "2026-11-25T02:48:21.297574+00:00",
+  "totale": 34,
   "articoli": [
+    {
+      "id": "9c2d346848",
+      "titolo": "Il TAS ribalta tutto: la Coppa d'Africa torna al Senegal, ma il Marocco annuncia battaglia",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/tas-ribalta-tutto-coppa-africa-torna-senegal-marocco-annuncia-battaglia-2297123",
+      "estratto": "La Coppa d'Africa 2025 si è conclusa con una vicenda destinata a lasciare il segno nella storia del calcio africano.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T23:38:36+00:00"
+    },
+    {
+      "id": "440674fda5",
+      "titolo": "Rumor e notizie di calciomercato: Arsenal e Newcastle mettono nel mirino Pio Esposito dell'Inter",
+      "url": "https://www.espn.com/soccer/story/_/id/50580721/transfer-rumors-news-psg-estevao-luis-diaz-chelsea-bayern",
+      "estratto": "Sia l'Arsenal che il Newcastle United stanno cercando di migliorare il proprio reparto offensivo ingaggiando Pio Esposito dell'Inter. Gli ultimi aggiornamenti di Transfer Talk.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T22:38:39+00:00"
+    },
+    {
+      "id": "e6ba37da33",
+      "titolo": "Hojlund segna ed esulta come se fosse un derby: le parole ai tifosi del City dopo il gol sono uno sfottò",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152815773/hojlund_segna_ed_esulta_come_se_fosse_un_derby_le_parole_ai_tifosi_del_city_dopo_il_gol_sono_uno_sfott/",
+      "estratto": "L'attaccante danese ha portato in vantaggio il Napoli all'Etihad Stadium, in Champions League: social scatenati per la sua dedica",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T21:40:30+00:00"
+    },
+    {
+      "id": "f20add1775",
+      "titolo": "Senegal campione d'Africa, atto di giustizia e dura sconfitta degli amici di Infantino",
+      "url": "https://www.tuttosport.com/news/calcio/coppa-africa/2026/11/24-152808696/senegal_campione_d_africa_atto_di_giustizia_e_dura_sconfitta_degli_amici_di_infantino/",
+      "estratto": "La sentenza del Tas (con l'italiano Fumagalli) ha confermato il verdetto del campo, ribaltando il trofeo assegnato a tavolino dalla confederazione africana al Marocco, Paese che ospiterà il Mondiale 2030 con Spagna e Portogallo, sostenitore del presi",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T18:31:24+00:00"
+    },
     {
       "id": "ba06f2f46e",
       "titolo": "SULLA STRADA: Il Clyde accoglie i suoi nuovi e rumorosi sponsor per del CALCIO HEAVY METAL",
@@ -21,13 +57,139 @@
       "pubblicato": "2026-11-24T15:52:04+00:00"
     },
     {
-      "id": "96e1c7e233",
-      "titolo": "Coppa d'Africa, il Tas ha deciso: il Senegal è il campione 2026",
-      "url": "https://www.corrieredellosport.it/news/calcio/coppa-africa/2026/11/24-152805101/coppa_d_africa_il_tas_ha_deciso_il_senegal_il_campione_2026/",
-      "estratto": "Il Tribunale arbitrale sportivo di Losanna ha accolto il ricorso: ribaltata la vittoria a tavolino del Marocco",
+      "id": "985ce63d74",
+      "titolo": "Hakimi in conferenza: \"Il processo per stupro? Penso al calcio, che è il mio lavoro\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152802905/hakimi_in_conferenza_il_processo_per_stupro_penso_al_calcio_che_il_mio_lavoro/",
+      "estratto": "Il difensore marocchino risponde così a una domanda sul processo in cui è coinvolto. Poi svela di aver mandato un messaggio alla dirigenza del Psg per restare",
       "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-24T13:44:48+00:00"
+    },
+    {
+      "id": "7105216179",
+      "titolo": "L'impennata di gol da palla inattiva in Premier League è finita, ma l'Arsenal è comunque primo",
+      "url": "https://www.espn.com/soccer/story/_/id/50576776/premier-league-set-piece-goal-arsenal-standings-table",
+      "estratto": "L'Arsenal ha vinto la Premier League in modo controverso la scorsa stagione, ma i gol su palla inattiva su cui faceva affidamento sono svaniti. Perché?",
+      "fonte": "ESPN",
       "serie": "Estero",
-      "pubblicato": "2026-11-24T15:01:04+00:00"
+      "pubblicato": "2026-11-24T08:37:39+00:00"
+    },
+    {
+      "id": "c52a809d6a",
+      "titolo": "Niko Kovac loda la crescita di Jobe Bellingham dopo la convocazione con l'Inghilterra",
+      "url": "https://www.espn.com/soccer/story/_/id/50580591/jobe-bellingham-niko-kovac-dortmund",
+      "estratto": "Niko Kovac ha tessuto le lodi della crescita del centrocampista del Borussia Dortmund e dell'Inghilterra Jobe Bellingham.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T07:41:50+00:00"
+    },
+    {
+      "id": "b5257afc68",
+      "titolo": "David Moyes accetta il cartellino rosso a James Tarkowski nella sconfitta dell'Everton contro il Brentford",
+      "url": "https://www.espn.com/soccer/story/_/id/50577324/david-moyes-james-tarkowski-everton-brentford",
+      "estratto": "Il tecnico dell'Everton David Moyes ha dichiarato di comprendere il motivo per cui a James Tarkowski sia stato mostrato un cartellino rosso diretto nella sconfitta per 4-0 contro il Brentford.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T23:23:34+00:00"
+    },
+    {
+      "id": "50daa72ec6",
+      "titolo": "Vitaly Janelt realizza un eurogol e il Brentford passeggia contro l'Everton in 10 uomini",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879237",
+      "estratto": "Vitaly Janelt ha segnato un tiro straordinario da 27 metri, trascinando il Brentford a una vittoria per 4-0 contro un Everton ridotto in 10 uomini al Gtech Community Stadium.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T22:20:58+00:00"
+    },
+    {
+      "id": "d28c721f86",
+      "titolo": "I Mondiali femminili stanno tornando a casa... ma il 2035 non può essere considerato una soluzione per i problemi del movimento, scrive TARA ANSON-WALSH",
+      "url": "https://www.dailymail.com/sport/football/article-16316219/women-world-cup-2035-united-kingdom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Regno Unito ospiterà la Coppa del Mondo femminile del 2035, la prima fase finale di un Mondiale di calcio in patria dal 1966, come annunciato lunedì tra grandi proclami.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T22:04:21+00:00"
+    },
+    {
+      "id": "59bd091cef",
+      "titolo": "Il calcio 'heavy metal' del tecnico dell'Aberdeen Mario Frick è musica per le orecchie dei tifosi di lunga data",
+      "url": "https://www.dailymail.com/sport/football/article-16315893/Aberdeen-boss-Mario-Fricks-heavy-metal-football-music-ears-long-suffering-supporters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Mentre intraprendevano il lungo viaggio di ritorno da Kilmarnock sabato sera, i tifosi dell'Aberdeen avranno sicuramente sentito un pizzico di entusiasmo in più.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T21:57:01+00:00"
+    },
+    {
+      "id": "8ed8e08c77",
+      "titolo": "Il tecnico del Dundee Steven Pressley voleva 'nascondersi sotto una pietra' dopo l'umiliazione subita dall'Hearts",
+      "url": "https://www.dailymail.com/sport/football/article-16316423/Dundee-manager-Steven-Pressley-wanted-crawl-rock-hide-humiliation-Hearts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico del Dundee Steven Pressley è tutto tranne che disonesto. Essendosi assunto la piena responsabilità della sconfitta per 8-0 contro l'Hearts, ora ammette che ciò lo ha fatto desiderare di 'nascondersi sotto una pietra'.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T21:50:24+00:00"
+    },
+    {
+      "id": "709a46da0f",
+      "titolo": "Il premio Mondiale della Scozia non deve trasformarsi in un'occasione persa",
+      "url": "https://www.dailymail.com/sport/football/article-16316375/Scotland-women-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La conferma che la Scozia co-ospiterà la Coppa del Mondo femminile FIFA 2035 rappresenta un indubbio impulso per il movimento calcistico nel Paese.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T20:36:19+00:00"
+    },
+    {
+      "id": "39f7c00422",
+      "titolo": "McInnes crede che lo stimolo della finale di coppa spingerà i Rangers in una serie di partite cruciali",
+      "url": "https://www.dailymail.com/sport/football/article-16315671/McInnes-Rangers-cup-final.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico dei Rangers Derek McInnes insiste sul fatto che l'incentivo della finale di Premier Sports Cup del mese prossimo possa caricare i suoi giocatori mentre si preparano ad affrontare una serie cruciale di partite.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T20:13:23+00:00"
+    },
+    {
+      "id": "96b5ed7777",
+      "titolo": "Power Rankings di Champions League prima della 5ª giornata: chi è al 1° posto?",
+      "url": "https://www.espn.com/soccer/story/_/id/50563236/uefa-champions-league-power-rankings-matchday-five",
+      "estratto": "La UEFA Champions League procede a pieno ritmo e abbiamo superato il giro di boa della fase campionato. Gli infortuni cominciano ad accumularsi. A che punto si trova il vostro club?",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-23T20:00:56+00:00"
+    },
+    {
+      "id": "38d29e4133",
+      "titolo": "Il Celtic accetta la riduzione dei biglietti per Tynecastle nonostante la furia dei tifosi",
+      "url": "https://www.dailymail.com/sport/football/article-16316099/Celtic-Tynecastle-tickets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Celtic ha accettato una dotazione ridotta di biglietti per la prossima visita a Tynecastle nonostante gli appelli dei tifosi a rifiutare l'offerta.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T19:28:31+00:00"
+    },
+    {
+      "id": "0b557489a1",
+      "titolo": "Frick promette che i suoi Dons manterranno un approccio positivo e attaccheranno nella sfida di Ibrox",
+      "url": "https://www.dailymail.com/sport/football/article-16316069/Frick-promises-Dons-maintain-positive-approach-attack-Ibrox-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tecnico dell'Aberdeen Mario Frick ha promesso di giocare all'attacco quando la sua squadra dal volto nuovo affronterà i Rangers a Ibrox domani sera.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T18:41:47+00:00"
+    },
+    {
+      "id": "260e113ac5",
+      "titolo": "Oli McBurnie è il 'Braveheart' dell'Hull, dice Sergej Jakirovic dopo la vittoria contro il Brighton",
+      "url": "https://www.espn.com/soccer/story/_/id/50575018/oli-mcburnie-hull-sergej-jakirovic",
+      "estratto": "Il tecnico dell'Hull Sergej Jakirovic ha paragonato l'attaccante Oli McBurnie al guerriero scozzese William Wallace, interpretato da Mel Gibson nel film Braveheart del 1995.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T18:28:26+00:00"
+    },
+    {
+      "id": "d2edae07d1",
+      "titolo": "Guimarães: i tifosi del Newcastle che mi hanno fischiato «non possono cancellare la mia storia con il club»",
+      "url": "https://www.espn.com/soccer/story/_/id/50573004/bruno-guimaraes-arsenal-newcastle-fans-booing",
+      "estratto": "Bruno Guimarães ha dichiarato ai tifosi del Newcastle che hanno fischiato il suo ritorno a St James Park che «non possono cancellare la storia che ho con il club».",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T15:57:13+00:00"
     },
     {
       "id": "1301c6f5dc",
@@ -37,6 +199,15 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-23T15:11:02+00:00"
+    },
+    {
+      "id": "810049115e",
+      "titolo": "Il presidente della CAF Patrice Motsepe spera di mantenere la Coppa d'Africa a metà anno anche dopo il 2027",
+      "url": "https://www.espn.com/espn/story/_/id/50572545/caf-motsepe-afcon-mid-year-2027",
+      "estratto": "Il presidente della CAF Patrice Motsepe ha dichiarato di voler mantenere la Coppa d'Africa (AFCON) nel mezzo dell'anno anche dopo il 2027, se possibile, aprendo la strada ai giocatori dei principali campionati europei per partecipare senza sovrapposi",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T13:40:52+00:00"
     },
     {
       "id": "5beb32d6f2",
@@ -136,69 +307,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-11-22T03:53:18+00:00"
-    },
-    {
-      "id": "a67dabf589",
-      "titolo": "MOTHERWELL 1 RANGERS 2: Naderi salva i Gunners di Ibrox, imprecisi e graziati da un gol nel finale",
-      "url": "https://www.dailymail.com/sport/football/article-16312249/MOTHERWELL-1-RANGERS-2-Naderi-rides-rescue-wasteful-Ibrox-men-jail-late-winner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Per una squadra che proprio non riusciva a trovare la via della rete, servivano inevitabilmente un paio di deviazioni fortunate o qualcosa di straordinario per tirarsi fuori dai guai.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T23:10:16+00:00"
-    },
-    {
-      "id": "2d54f54eae",
-      "titolo": "La goleada al Dundee è la miglior prestazione della mia gestione agli Hearts finora, esulta Vrancken",
-      "url": "https://www.dailymail.com/sport/football/article-16312197/Dundee-rout-best-display-Hearts-reign-far-beams-Vrancken.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Wouter Vrancken ha dichiarato che il netto 8-0 rifilato dagli Hearts a un Dundee ridotto in dieci uomini è stata la migliore prestazione della sua squadra da quando è arrivato sulla panchina del Tynecastle.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T22:35:28+00:00"
-    },
-    {
-      "id": "c1947a95a0",
-      "titolo": "L'esordio di Thomas Frank sulla panchina del Crystal Palace si chiude con una sconfitta nel finale contro il Coventry, mentre aumenta il rischio retrocessione",
-      "url": "https://www.dailymail.com/sport/football/article-16308769/Crystal-Palace-Thomas-Frank-Coventry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Crystal Palace avrà anche cambiato modulo e allenatore, ma resta senza vittorie da due mesi.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T21:52:09+00:00"
-    },
-    {
-      "id": "f90c1af66a",
-      "titolo": "KILMARNOCK 2 ABERDEEN 4: I brillanti Dons trovano la scossa con Frick, ma è un'altra giornata da incubo per gli uomini di McCann",
-      "url": "https://www.dailymail.com/sport/football/article-16311763/KILMARNOCK-2-ABERDEEN-4-Dazzling-Dons-Frick-pick-misery-McCanns-men.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Dopo essersi annoiati a morte per il calcio espresso sotto la gestione di Stephen Robinson, i tifosi dell'Aberdeen invocavano a gran voce un nuovo allenatore che portasse un po' di spettacolo.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T21:15:57+00:00"
-    },
-    {
-      "id": "a15ede71ee",
-      "titolo": "O'Neill esalta la coppia di centrocampo rientrante formata da Oxlade-Chamberlain e McCowan dopo i gol che affondano il St Mirren",
-      "url": "https://www.dailymail.com/sport/football/article-16311929/ONeill-hails-recalled-midfield-duo-Oxlade-Chamberlain-McCowan-net-help-sink-St-Mirren.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico del Celtic Martin O'Neill ha elogiato i centrocampisti Alex Oxlade-Chamberlain e Luke McCowan dopo che i due giocatori, tornati tra i titolari, hanno entrambi segnato nella vittoria casalinga per 4-1 contro il St Mirren.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T20:31:01+00:00"
-    },
-    {
-      "id": "d7008b304e",
-      "titolo": "La forma sbalorditiva del Bournemouth, formidabile e inarrestabile, non è solo un momento di grazia, scrive JAMES SHARPE, mentre le Cherries dominano e battono il Forest per cogliere la NONA vittoria consecutiva",
-      "url": "https://www.dailymail.com/sport/football/article-16308765/Bournemouth-form-Evanilson-Nottingham-Forest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "JAMES SHARPE: Nove vittorie consecutive per la prima volta nella loro storia, con il successo odierno contro il Nottingham Forest che fa registrare la sesta affermazione di fila in casa con un punteggio complessivo di 15 a zero.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T19:28:17+00:00"
-    },
-    {
-      "id": "befad3a9f3",
-      "titolo": "Dare a Youri Tielemans una clausola rescissoria da 35 milioni di sterline sembra un errore... Il pareggio stentato dell'Aston Villa contro il Sunderland è stata un'ulteriore prova che Unai Emery avrebbe bisogno di un metronomo a centrocampo a gennaio, scrive TOM COLLOMOSSE",
-      "url": "https://www.dailymail.com/sport/football/article-16308759/Giving-Youri-Tielemans-35m-release-clause-looks-like-error-Aston-Villa-toiling-draw-Sunderland-proof-Unai-Emery-midfield-controller-January-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il centrocampista belga ha lasciato l'Aston Villa per unirsi al Manchester United la scorsa estate e, sebbene sia ancora presto nella sua avventura a Old Trafford, il trasferimento non sembra funzionare per nessuna delle parti.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-21T19:14:56+00:00"
     }
   ]
 }
