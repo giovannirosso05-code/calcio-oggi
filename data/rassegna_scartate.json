@@ -1,7 +1,79 @@
 {
-  "aggiornato": "2026-11-25T11:47:51.637040+00:00",
-  "totale": 28,
+  "aggiornato": "2026-11-25T21:07:18.425116+00:00",
+  "totale": 33,
   "articoli": [
+    {
+      "id": "9d2591bcdc",
+      "titolo": "Il tecnico del Nottingham Forest Glasner attacca i giocatori che non imparano l'inglese",
+      "url": "https://www.espn.com/soccer/story/_/id/50594591/hard-work-help-nottingham-forest-chelsea-glasner",
+      "estratto": "Il tecnico del Nottingham Forest Oliver Glasner ha dichiarato che gli standard del club non erano abbastanza buoni quando ha assunto l'incarico.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T20:53:52+00:00"
+    },
+    {
+      "id": "a49d8320ac",
+      "titolo": "Mezian Mesloub e quei 5 secondi per conquistare il Lens e la Champions",
+      "url": "https://www.corrieredellosport.it/news/calcio/talent-scout/2026/11/25-152836299/mezian_mesloub_e_quei_5_secondi_per_conquistare_il_lens_e_la_champions/",
+      "estratto": "Passaporto portoghese, origini algerine, classe 2009, ala o trequartista: in estate l’hanno cercato il Benfica e il Psv",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T19:53:51+00:00"
+    },
+    {
+      "id": "02910d6bae",
+      "titolo": "Gabriel Carvalho, che storia: Pato, il campo della “Família Portuga” e lo Shakhtar",
+      "url": "https://www.corrieredellosport.it/news/calcio/talent-scout/2026/11/25-152836103/gabriel_carvalho_che_storia_pato_il_campo_della_famlia_portuga_e_lo_shakhtar/",
+      "estratto": "Ala destra, 19 anni, brasiliano: decimo di quattordici figli, è stato lanciato dall’Internacional sfilando un record all’ex milanista",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T19:43:19+00:00"
+    },
+    {
+      "id": "d37fcb09c6",
+      "titolo": "Raheem Sterling evita il carcere per guida pericolosa",
+      "url": "https://www.espn.com/soccer/story/_/id/50591753/raheem-sterling-court-england-manchester-city-liverpool-chelsea",
+      "estratto": "L'ex calciatore della nazionale inglese Raheem Sterling ha evitato il carcere dopo aver ammesso di aver guidato pericolosamente la sua Lamborghini inalando da un palloncino su un'autostrada durante l'ora di punta prima di schiantarsi contro un cancel",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T11:53:55+00:00"
+    },
+    {
+      "id": "1f187dd019",
+      "titolo": "Ryan Giggs scivola nella classifica dei marcatori più anziani della Champions League",
+      "url": "https://www.espn.com/soccer/story/_/id/50591421/ivan-perisic-ryan-giggs-champions-league",
+      "estratto": "Ivan Perišić è diventato il quarto marcatore più anziano della Champions League trasformando un calcio di rigore nel primo tempo nella sconfitta per 5-1 del PSV Eindhoven contro il Real Madrid martedì.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-25T11:42:56+00:00"
+    },
+    {
+      "id": "65fb65fced",
+      "titolo": "Il tecnico dell'Aston Villa Unai Emery parla dell'esclusione di Alejandro Garnacho",
+      "url": "https://www.espn.com/soccer/story/_/id/50591453/alejandro-garnacho-aston-villa-unai-emery",
+      "estratto": "Unai Emery ha dichiarato che Alejandro Garnacho non era tra \"i migliori giocatori\" a far parte della rosa dell'Aston Villa sconfitta dal Galatasaray.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-25T10:20:53+00:00"
+    },
+    {
+      "id": "45c139f134",
+      "titolo": "La lezione di Allegri",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152823886/la_lezione_di_allegri/",
+      "estratto": "Leggi il commento sulla partita dell'Etihad Stadium e sulla strategia vincente adottata dal tecnico del Napoli, capace di sfiorare l'impresa in Champions League",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-25T08:15:59+00:00"
+    },
+    {
+      "id": "96b6cadfc3",
+      "titolo": "\"È come quel c... di Busquets!\" - L'ascesa improbabile di Jules Ahoka in Premier League",
+      "url": "https://www.espn.com/espn/story/_/id/50581648/jules-ahoka-sunderland-busquets-premier-league-dr-congo",
+      "estratto": "Alla sua prima da titolare in Premier League sabato, Jules Ahoka del Sunderland ha fatto sembrare una passeggiata giocare a Villa Park. Il centrocampista congolese di 20 anni è apparso a suo agio aiutando i Black Cats a conquistare un prezioso paregg",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T07:13:11+00:00"
+    },
     {
       "id": "440674fda5",
       "titolo": "Rumor e notizie di calciomercato: Arsenal e Newcastle mettono nel mirino Pio Esposito dell'Inter",
@@ -10,6 +82,15 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-24T22:38:39+00:00"
+    },
+    {
+      "id": "09425e5aae",
+      "titolo": "Fabregas vince in Champions e regala un siparietto in diretta con Capello: \"Preoccupato? Io non ho la tua esperienza...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152817799/fabregas_vince_in_champions_e_regala_un_siparietto_in_diretta_con_capello_preoccupato_io_non_ho_la_tua_esperienza_/",
+      "estratto": "Lo spagnolo è protagonista di un simpatico botta e risposta in tv dopo la vittoria del suo Como contro l'Aek Atene: \"Vivere notti così è bellissimo\"",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-24T22:34:22+00:00"
     },
     {
       "id": "e6ba37da33",
@@ -28,15 +109,6 @@
       "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "pubblicato": "2026-11-24T19:23:41+00:00"
-    },
-    {
-      "id": "f20add1775",
-      "titolo": "Senegal campione d'Africa, atto di giustizia e dura sconfitta degli amici di Infantino",
-      "url": "https://www.tuttosport.com/news/calcio/coppa-africa/2026/11/24-152808696/senegal_campione_d_africa_atto_di_giustizia_e_dura_sconfitta_degli_amici_di_infantino/",
-      "estratto": "La sentenza del Tas (con l'italiano Fumagalli) ha confermato il verdetto del campo, ribaltando il trofeo assegnato a tavolino dalla confederazione africana al Marocco, Paese che ospiterà il Mondiale 2030 con Spagna e Portogallo, sostenitore del presi",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T18:31:24+00:00"
     },
     {
       "id": "1f8cdb6a6e",
@@ -66,6 +138,15 @@
       "pubblicato": "2026-11-24T13:44:48+00:00"
     },
     {
+      "id": "c77c1e2a86",
+      "titolo": "L'incubo al Brentford di James Tarkowski: stella dell'Everton rimorchiata di un rosso contestato in una serata nera per David Moyes - mentre le Bees scatenate alimentano le speranze europee",
+      "url": "https://www.dailymail.com/sport/football/article-16308803/brentford-everton-david-moyes-james-tarkowski-red.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "BOBBY MANZI: La notte da record di David Moyes come allenatore dell'Everton non poteva essere più amara. Nella sua 593esima partita sulla panchina dei Toffees, Moyes ha battuto il record stabilito 75 anni prima da Harry Catterick.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T09:29:35+00:00"
+    },
+    {
       "id": "7105216179",
       "titolo": "L'impennata di gol da palla inattiva in Premier League è finita, ma l'Arsenal è comunque primo",
       "url": "https://www.espn.com/soccer/story/_/id/50576776/premier-league-set-piece-goal-arsenal-standings-table",
@@ -82,6 +163,24 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-23T23:23:34+00:00"
+    },
+    {
+      "id": "a566be5529",
+      "titolo": "UNA SVOLTA STORICA! La Scozia co-ospiterà i Mondiali femminili insieme a Inghilterra, Irlanda del Nord e Galles nel 2035",
+      "url": "https://www.dailymail.com/sport/football/article-16315925/Scotland-Women-Worldcup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Scozia, Inghilterra, Irlanda del Nord e Galles sono state confermate come paesi ospitanti congiunti dei Mondiali femminili del 2035.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T22:59:59+00:00"
+    },
+    {
+      "id": "c74f676e32",
+      "titolo": "Jack Grealish torna in campo con l'Everton per la prima volta dopo l'esclusione per aver saltato gli allenamenti senza permesso in \"violazione della disciplina del club\" - mentre l'esterno subentra dalla panchina nella sconfitta sul campo del Brentford",
+      "url": "https://www.dailymail.com/sport/football/article-16316189/Jack-Grealish-returns-Everton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il giocatore in prestito dal Manchester City è stato punito dal club per non essersi presentato alle sessioni di allenamento e ha saltato diverse partite. Non scendeva in campo da quattro gare in totale per vari motivi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-23T22:56:03+00:00"
     },
     {
       "id": "50daa72ec6",
@@ -199,60 +298,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-22T23:11:21+00:00"
-    },
-    {
-      "id": "fc3e0a4031",
-      "titolo": "Il Villarreal smentisce che l'intervento agli occhi di Nicolas Pépé sia dovuto all'osservazione dell'eclissi solare",
-      "url": "https://www.espn.com/soccer/story/_/id/50564664/nicolas-pepe-eclipse-villarreal",
-      "estratto": "Il Villarreal ha smentito che Nicolas Pépé sia stato sottoposto a un intervento chirurgico agli occhi a causa dell'osservazione dell'eclissi solare.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T20:54:51+00:00"
-    },
-    {
-      "id": "a6f83e708e",
-      "titolo": "Il punto: l'Hibs pensava di aver svoltato, ma si è ritrovato di nuovo in un vicolo cieco",
-      "url": "https://www.dailymail.com/sport/football/article-16313583/The-Review-Hibs-thought-turned-corner-theyve-gone-straight-cul-sac.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Proprio quando pensavano di iniziare a fare progressi, arriva un altro imbarazzante passo falso per l'Hibs.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T20:36:01+00:00"
-    },
-    {
-      "id": "db3e8583af",
-      "titolo": "I Rangers devono ritrovare la via del gol più in fretta per evitare di cacciarsi in guai evitabili",
-      "url": "https://www.dailymail.com/sport/football/article-16313503/Rangers-shooting-boots-quicker-prevent-need-dig-needless-holes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "DEREK McINNES ha scelto di edulcorare la scarsa percentuale di conversione delle palle gol da parte della sua squadra dei Rangers",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T18:26:01+00:00"
-    },
-    {
-      "id": "ae77be5ea7",
-      "titolo": "Tuur Rommens punta a una forte serie casalinga per i Rangers che possa gettare le basi per la corsa al titolo",
-      "url": "https://www.dailymail.com/sport/football/article-16313489/Tuur-Rommens-eyes-strong-home-run-Rangers-set-platform-title-tilt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Tuur Rommens ha esortato i suoi compagni di squadra dei Rangers a sfruttare una serie serrata di tre partite casalinghe in otto giorni per costruire una base",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T17:40:48+00:00"
-    },
-    {
-      "id": "9eb8573c9e",
-      "titolo": "Il tempestivo ritorno in forma di Luke McCowan zittisce i critici di Parkhead e amplia le opzioni a centrocampo",
-      "url": "https://www.dailymail.com/sport/football/article-16313459/Luke-McCowans-timely-return-form-silences-Parkhead-critics-boosts-midfield-options.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "QUASI tutti coloro che hanno giocato a calcio a livello professionistico hanno vissuto una giornata in cui semplicemente non gliene va bene una.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T17:18:45+00:00"
-    },
-    {
-      "id": "cb7ce00ba8",
-      "titolo": "La co-proprietaria Brittany Mahomes guida i festeggiamenti scatenati mentre il Kansas City Current vince il titolo NWSL",
-      "url": "https://www.dailymail.com/sport/football/article-16312839/brittany-mahomes-kansas-city-current-nwsl-title.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La co-proprietaria del Kansas City Current, Brittany Mahomes, ha guidato i festeggiamenti mentre la franchigia di calcio femminile ha vinto il suo primo campionato NWSL sabato.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T14:15:46+00:00"
     }
   ]
 }
