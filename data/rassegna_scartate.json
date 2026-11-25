@@ -1,16 +1,7 @@
 {
-  "aggiornato": "2026-11-25T02:48:21.297574+00:00",
-  "totale": 34,
+  "aggiornato": "2026-11-25T11:47:51.637040+00:00",
+  "totale": 28,
   "articoli": [
-    {
-      "id": "9c2d346848",
-      "titolo": "Il TAS ribalta tutto: la Coppa d'Africa torna al Senegal, ma il Marocco annuncia battaglia",
-      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/tas-ribalta-tutto-coppa-africa-torna-senegal-marocco-annuncia-battaglia-2297123",
-      "estratto": "La Coppa d'Africa 2025 si è conclusa con una vicenda destinata a lasciare il segno nella storia del calcio africano.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T23:38:36+00:00"
-    },
     {
       "id": "440674fda5",
       "titolo": "Rumor e notizie di calciomercato: Arsenal e Newcastle mettono nel mirino Pio Esposito dell'Inter",
@@ -26,8 +17,17 @@
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152815773/hojlund_segna_ed_esulta_come_se_fosse_un_derby_le_parole_ai_tifosi_del_city_dopo_il_gol_sono_uno_sfott/",
       "estratto": "L'attaccante danese ha portato in vantaggio il Napoli all'Etihad Stadium, in Champions League: social scatenati per la sua dedica",
       "fonte": "Corriere dello Sport",
-      "serie": "Estero",
+      "serie": "Champions",
       "pubblicato": "2026-11-24T21:40:30+00:00"
+    },
+    {
+      "id": "64a3331716",
+      "titolo": "Allegri sulla Champions: \"Solo uno stupido non avrebbe capito che ci saremmo giocati la qualificazione nelle ultime tre\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152809963/allegri_sulla_champions_solo_uno_stupido_non_avrebbe_capito_che_ci_saremmo_giocati_la_qualificazione_nelle_ultime_tre/",
+      "estratto": "Le parole dell'allenatore del Napoli prima della sfida all'Etihad contro il Manchester City: ecco cosa ha detto",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-24T19:23:41+00:00"
     },
     {
       "id": "f20add1775",
@@ -39,6 +39,15 @@
       "pubblicato": "2026-11-24T18:31:24+00:00"
     },
     {
+      "id": "1f8cdb6a6e",
+      "titolo": "Cosa pensano VERAMENTE i Glazer del Man United: IAN HERBERT rivela la spaccatura in famiglia sulla cessione del club, i rimpianti per l' 'errore' Sir Jim Ratcliffe e l'addio di Richard Arnold... e l'occasione persa per 'monetizzare'",
+      "url": "https://www.dailymail.com/sport/football/article-16317579/Glazers-Manchester-United-Jim-Ratcliffe-Arnold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Un documentario sui Tampa Bay Buccaneers dei Glazer dipinge il ritratto della famiglia e dello sport che amano. Sembra molto lontano dal Manchester United, il club che hanno portato nel baratro.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T17:03:36+00:00"
+    },
+    {
       "id": "ba06f2f46e",
       "titolo": "SULLA STRADA: Il Clyde accoglie i suoi nuovi e rumorosi sponsor per del CALCIO HEAVY METAL",
       "url": "https://www.dailymail.com/sport/football/article-16313551/ON-ROAD-Clyde-welcome-noisy-new-sponsors-HEAVY-METAL-FOOTBALL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -46,15 +55,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-24T16:19:20+00:00"
-    },
-    {
-      "id": "a5f30de4a9",
-      "titolo": "Il Senegal torna campione d'Africa: il Tas accoglie il ricorso, Marocco sconfitto sul campo",
-      "url": "https://www.tuttosport.com/news/calcio/coppa-africa/2026/11/24-152805920/il_senegal_torna_campione_d_africa_il_tas_accoglie_il_ricorso_marocco_sconfitto_sul_campo/",
-      "estratto": "Il titolo era stato attribuito a tavolino alla nazionale nordaficana dopo il caos a fine match",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T15:52:04+00:00"
     },
     {
       "id": "985ce63d74",
@@ -73,15 +73,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-24T08:37:39+00:00"
-    },
-    {
-      "id": "c52a809d6a",
-      "titolo": "Niko Kovac loda la crescita di Jobe Bellingham dopo la convocazione con l'Inghilterra",
-      "url": "https://www.espn.com/soccer/story/_/id/50580591/jobe-bellingham-niko-kovac-dortmund",
-      "estratto": "Niko Kovac ha tessuto le lodi della crescita del centrocampista del Borussia Dortmund e dell'Inghilterra Jobe Bellingham.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T07:41:50+00:00"
     },
     {
       "id": "b5257afc68",
@@ -147,15 +138,6 @@
       "pubblicato": "2026-11-23T20:13:23+00:00"
     },
     {
-      "id": "96b5ed7777",
-      "titolo": "Power Rankings di Champions League prima della 5ª giornata: chi è al 1° posto?",
-      "url": "https://www.espn.com/soccer/story/_/id/50563236/uefa-champions-league-power-rankings-matchday-five",
-      "estratto": "La UEFA Champions League procede a pieno ritmo e abbiamo superato il giro di boa della fase campionato. Gli infortuni cominciano ad accumularsi. A che punto si trova il vostro club?",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-11-23T20:00:56+00:00"
-    },
-    {
       "id": "38d29e4133",
       "titolo": "Il Celtic accetta la riduzione dei biglietti per Tynecastle nonostante la furia dei tifosi",
       "url": "https://www.dailymail.com/sport/football/article-16316099/Celtic-Tynecastle-tickets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -183,15 +165,6 @@
       "pubblicato": "2026-11-23T18:28:26+00:00"
     },
     {
-      "id": "d2edae07d1",
-      "titolo": "Guimarães: i tifosi del Newcastle che mi hanno fischiato «non possono cancellare la mia storia con il club»",
-      "url": "https://www.espn.com/soccer/story/_/id/50573004/bruno-guimaraes-arsenal-newcastle-fans-booing",
-      "estratto": "Bruno Guimarães ha dichiarato ai tifosi del Newcastle che hanno fischiato il suo ritorno a St James Park che «non possono cancellare la storia che ho con il club».",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T15:57:13+00:00"
-    },
-    {
       "id": "1301c6f5dc",
       "titolo": "La stella dell'Argentina Leandro Paredes crolla a terra durante un'intervista post-partita mentre un giornalista cerca di attutire la sua caduta dopo essersi 'sentito girare la testa' alla fine del primo tempo del trionfo in coppa del Boca Juniors",
       "url": "https://www.dailymail.com/sport/football/article-16312997/Argentina-star-Leandro-Paredes-collapses-post-match-interview-Boca-Juniors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -208,15 +181,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-23T13:40:52+00:00"
-    },
-    {
-      "id": "5beb32d6f2",
-      "titolo": "Maresca punge Allegri: \"Partita proibitiva? In Italia siamo bravi a piangere\". Poi la frase in campano",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/23-152783685/maresca_punge_allegri_partita_proibitiva_in_italia_siamo_bravi_a_piangere_poi_la_frase_in_campano/",
-      "estratto": "Il tecnico del City alla vigilia della sfida col Napoli rivela: \"In primavera contatti con un club di Serie A, ma mai sentito De Laurentiis\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-23T13:27:38+00:00"
     },
     {
       "id": "92d02c1241",
@@ -255,15 +219,6 @@
       "pubblicato": "2026-11-22T20:36:01+00:00"
     },
     {
-      "id": "e264396b2e",
-      "titolo": "Pochettino: Isak non era in controllo del pallone nell'azione del rosso a Yoro",
-      "url": "https://www.espn.com/video/clip/_/id/50564280/isak-control-ball-yoro-red-card",
-      "estratto": "Mauricio Pochettino commenta l'espulsione di Leny Yoro nella sconfitta per 4-0 del Manchester United contro il Liverpool.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T20:23:47+00:00"
-    },
-    {
       "id": "db3e8583af",
       "titolo": "I Rangers devono ritrovare la via del gol più in fretta per evitare di cacciarsi in guai evitabili",
       "url": "https://www.dailymail.com/sport/football/article-16313503/Rangers-shooting-boots-quicker-prevent-need-dig-needless-holes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -298,15 +253,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-22T14:15:46+00:00"
-    },
-    {
-      "id": "b7f2a57851",
-      "titolo": "DiBernardo si unisce a Rapinoe e Pulisic nel pantheon dei grandi gol olimpici",
-      "url": "https://www.espn.com/soccer/story/_/id/46407078/celebrating-olimpico-one-soccers-most-audacious-goals",
-      "estratto": "Sabato Vanessa DiBernardo è entrata in una lista d'élite segnando per il Kansas City direttamente da un calcio d'angolo. Conosciuti nel mondo del calcio come gol olimpici, ecco alcuni dei migliori di sempre.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "pubblicato": "2026-11-22T03:53:18+00:00"
     }
   ]
 }
