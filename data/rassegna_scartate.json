@@ -1,15 +1,231 @@
 {
-  "aggiornato": "2026-11-26T13:11:52.444894+00:00",
-  "totale": 52,
+  "aggiornato": "2026-11-26T22:23:27.942508+00:00",
+  "totale": 66,
   "articoli": [
     {
-      "id": "b89d2bd3d3",
-      "titolo": "Cesc Fàbregas sminuisce le voci sul Barcellona e giura fedeltà immediata al Como",
-      "url": "https://www.espn.com/soccer/story/_/id/50603870/cesc-fabregas-barcelona-como-hansi-flick",
-      "estratto": "Cesc Fàbregas ha giurato fedeltà immediata al Como a seguito delle speculazioni secondo cui un giorno potrebbe succedere a Hansi Flick sulla panchina del Barcellona.",
+      "id": "cc9b5a35ad",
+      "titolo": "Omonia Nicosia, a breve la conferenza stampa di Berg",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/omonia-nicosia-breve-conferenza-stampa-berg-2297925",
+      "estratto": "23:19 - Henning Berg, allenatore dell'Omonia Nicosia, ha parlato in conferenza stampa al termine della sfida contro la Juventus.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T22:19:31+00:00"
+    },
+    {
+      "id": "0e746b232a",
+      "titolo": "Thomas Frank ottiene la prima vittoria con il Crystal Palace, il Bournemouth vince la DECIMA partita consecutiva in rimonta e il Brighton travolge i modesti rumeni - ma il Sunderland viene fermato in casa",
+      "url": "https://www.dailymail.com/sport/football/article-16324333/bournemouth-brighton-crystal-palace-sunderland-europe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Qualcuno può fermare il Bournemouth? Per lunghi tratti è sembrato che la loro marcia inarrestabile sarebbe stata finalmente fermata, ma le Cherries, ridotte in 10 uomini, hanno trovato un'altra marcia per continuare la loro furia.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T22:14:27+00:00"
+    },
+    {
+      "id": "74c4aac23c",
+      "titolo": "Frank conquista la prima vittoria mentre il Palace rimonta e batte la Real Sociedad ridotta in 10 uomini",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915504",
+      "estratto": "Il Crystal Palace ha regalato a Thomas Frank la prima vittoria dal suo arrivo in panchina, rimontando e battendo 2-1 la Real Sociedad, rimasta in 10 uomini, in Europa League.",
       "fonte": "ESPN",
       "serie": "Champions",
-      "pubblicato": "2026-11-26T13:07:29+00:00"
+      "pubblicato": "2026-11-26T22:11:10+00:00"
+    },
+    {
+      "id": "661ccdb11b",
+      "titolo": "Cisse capocannoniere in Europa League. Il tandem juventino a una marcatura di distanza",
+      "url": "https://www.tuttomercatoweb.com/serie-a/cisse-capocannoniere-europa-league-tandem-juventino-marcatura-distanza-2297989",
+      "estratto": "Con la rete segnata all'Olympiacos, Alphadjo Cisse balza al comando della classifica marcatori di Europa League.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T22:07:36+00:00"
+    },
+    {
+      "id": "a947412d93",
+      "titolo": "Il Sunderland si lecca le ferite dopo il pareggio contro lo Jagiellonia Bialystok in Europa League",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915513",
+      "estratto": "Il Sunderland è rimasto nuovamente deluso nella sua campagna di Europa League dopo aver pareggiato 1-1 contro lo Jagiellonia Bialystok allo Stadium of Light.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-26T22:05:23+00:00"
+    },
+    {
+      "id": "f1edcb3bc6",
+      "titolo": "AZ super con Koopmeiners, Mateta ribalta la Real Sociedad: Europa League, i finali delle 21",
+      "url": "https://www.tuttomercatoweb.com/serie-a/az-super-koopmeiners-mateta-ribalta-real-sociedad-europa-league-finali-21-2297983",
+      "estratto": "Finiscono qui le partite delle ore 21 di Europa League, per il quinto turno di League Phase.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T21:57:54+00:00"
+    },
+    {
+      "id": "d60061af3d",
+      "titolo": "Succede di tutto nel finale a Banja Luka! Espulso anche Herrera, Borac in nove uomini",
+      "url": "https://www.tuttomercatoweb.com/serie-a/succede-finale-banja-luka-espulso-herrera-borac-uomini-2297978",
+      "estratto": "Sarà un finale incandescente a Banja Luka.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T21:46:00+00:00"
+    },
+    {
+      "id": "2f063f33cf",
+      "titolo": "Partita di Europa League interrotta a causa di scontri con la polizia per uno striscione pro-Palestina esposto dai tifosi",
+      "url": "https://www.espn.com/soccer/story/_/id/50605910/besiktas-hapoel-beer-sheva-europa-league-police-palestine",
+      "estratto": "La partita tra il Beşiktaş e la squadra israeliana dell'Hapoel Be'er Sheva è stata interrotta quando la polizia si è scontrata con i tifosi del club turco dopo che questi avevano esposto uno striscione a supporto dei palestinesi.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-26T21:17:17+00:00"
+    },
+    {
+      "id": "6a013e1e21",
+      "titolo": "Vlahovic frenato dal Var, ma il Besiktas vince: Miretti resta fuori. Ok il Bournemouth di Di Gregorio",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/11/26-152863096/vlahovic_frenato_dal_var_ma_il_besiktas_vince_miretti_resta_fuori_ok_il_bournemouth_di_di_gregorio/",
+      "estratto": "I turchi battono 2-1 l'Hapoel Beer Sheva, gli inglesi, col medesimo risultato, il Celta Vigo. Vincono Bayer e Marsiglia, il Plzen travolge il Benfica. Frena il Lione di Openda",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T20:23:27+00:00"
+    },
+    {
+      "id": "daa7839104",
+      "titolo": "Tomás Aranda, il gol dalla bandierina di Riquelme e la 10 del Boca Juniors",
+      "url": "https://www.corrieredellosport.it/news/calcio/talent-scout/2026/11/26-152862544/toms_aranda_il_gol_dalla_bandierina_di_riquelme_e_la_10_del_boca_juniors/",
+      "estratto": "Dal barrio di Villa Udaondo alla Bombonera: trequartista, classe 2007, ha appena vinto la Coppa Sudamericana con Paredes battendo in finale l’Atletico Mineiro (2-0)",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T20:13:42+00:00"
+    },
+    {
+      "id": "f9db0b859c",
+      "titolo": "Il caos del pallone da spiaggia di Darren Bent, la scaltra furbizia di Nani e la disastrosa svista di Peter Enckelman: i nostri esperti scelgono i gol più strani che abbiano mai visto dopo il 'tiro deviato da una zolla' di Bruno Fernandes a Lisbona",
+      "url": "https://www.dailymail.com/sport/football/article-16322875/Darren-Bent-Nani-Peter-Enckelman-experts-pick-strangest-goals-theyve-seen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Qui, i giornalisti di Daily Mail Sport ripensano ad alcuni dei gol più strani che riescano a ricordare, da clamorosi errori dei portieri a deviazioni bizzarre e momenti di sfortuna.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T20:03:44+00:00"
+    },
+    {
+      "id": "72af4a8541",
+      "titolo": "Il Bournemouth in 10 uomini batte il Celta Vigo e vola in vetta all'Europa League",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915519",
+      "estratto": "Il Bournemouth ha fatto un passo avanti verso la qualificazione diretta agli ottavi di finale di Europa League, rimontando da una situazione di svantaggio in inferiorità numerica per vincere 2-1 in casa del Celta Vigo.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-26T19:51:00+00:00"
+    },
+    {
+      "id": "3591afe222",
+      "titolo": "Tobías Andrada, il River Plate e la foto del papà al Monumental",
+      "url": "https://www.corrieredellosport.it/news/calcio/talent-scout/2026/11/26-152860778/tobas_andrada_il_river_plate_e_la_foto_del_pap_al_monumental/",
+      "estratto": "Jolly di centrocampo, mediano o mezzala, 19 anni: i tifosi dei Millonarios lo paragonano a Federico Valverde",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T19:50:07+00:00"
+    },
+    {
+      "id": "3f9ae085c7",
+      "titolo": "Ignacio Ovando, il difensore under 20 più corteggiato in Argentina",
+      "url": "https://www.corrieredellosport.it/news/calcio/talent-scout/2026/11/26-152860408/ignacio_ovando_il_difensore_under_20_pi_corteggiato_in_argentina/",
+      "estratto": "Velocità e anticipo, classe 2006, gioca nel Rosario Central con Di Maria: viene seguito anche dall’Inter e dal Napoli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T19:41:26+00:00"
+    },
+    {
+      "id": "624a07b5b3",
+      "titolo": "La SFA invitata a ripensarci dai club mentre gli ultimi piani per il settore giovanile vengono accantonati",
+      "url": "https://www.dailymail.com/sport/football/article-16325141/SFA-21s-clubs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La SFA è stata costretta a tornare al punto di partenza per la seconda volta nei suoi sforzi per introdurre nuove proposte sullo sviluppo del settore giovanile.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T19:19:18+00:00"
+    },
+    {
+      "id": "13fa51979b",
+      "titolo": "Caos in Besiktas-Hapoel, partita sospesa: scontri sugli spalti tra polizia e tifosi turchi, cosa è successo",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152855460/caos_in_besiktas-hapoel_partita_sospesa_scontri_sugli_spalti_tra_polizia_e_tifosi_turchi_cosa_successo/",
+      "estratto": "Incidenti durante il match della 5ª giornata di Europa League, che si gioca sul campo neutro di Batumi (in Georgia): tutti i dettagli",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T19:05:45+00:00"
+    },
+    {
+      "id": "8a61163c8b",
+      "titolo": "Lo Swansea apre un'indagine dopo la diffusione sui social di un'immagine di un giocatore senza veli alla vigilia della delicata sfida con i grandi rivali del Cardiff",
+      "url": "https://www.dailymail.com/sport/football/article-16324543/Swansea-investigate-naked-image-player-shared-social-media-Cardiff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "ESCLUSIVA DI NATHAN SALT: L'immagine, emersa su X, ex Twitter, mercoledì sera, sembrava mostrare un giocatore dello Swansea City a torso nudo in piedi accanto a un letto.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T19:05:43+00:00"
+    },
+    {
+      "id": "c238d1acf0",
+      "titolo": "Hislop: Le prossime partite un 'barometro' nella lotta salvezza del Manchester United",
+      "url": "https://www.espn.com/video/clip/_/id/50605063/next-games-barometer-man-united-relegation-battle",
+      "estratto": "Shaka Hislop e Steve Nicol si chiedono se il Manchester United rischino la retrocessione dalla Premier League.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T17:43:52+00:00"
+    },
+    {
+      "id": "eddceb5c61",
+      "titolo": "Audit della rosa di Liverpool Confidential: i NOVE fuoriclasse che potrebbero lasciare Anfield, le ultime sul futuro di Ognuno di loro e cosa dovrebbero fare i Reds",
+      "url": "https://www.dailymail.com/sport/football/article-16324235/Liverpool-Confidential-transfers-nine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Lo spogliatoio del Liverpool è sembrato una porta girevole di incertezza negli ultimi cinque anni, con dubbi costanti sul futuro dei giocatori.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T17:08:23+00:00"
+    },
+    {
+      "id": "0ec9037537",
+      "titolo": "Perché Oliver Glasner sta affrontando lo spogliatoio del Nottingham Forest: le frustrazioni dietro lo sfogo sugli 'anglofoni', i giocatori chiave in vendita a gennaio, la sua lista di obiettivi di mercato e il rebus Morgan Gibbs-White",
+      "url": "https://www.dailymail.com/sport/football/article-16324481/oliver-glasner-nottingham-forest-dressing-room.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I giocatori irrequieti del Nottingham Forest hanno già fatto fuori due allenatori negli ultimi 12 mesi, ma ora Oliver Glasner crede di poterli battere al loro stesso gioco.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T17:00:37+00:00"
+    },
+    {
+      "id": "1eb445426a",
+      "titolo": "L'Italia U17 vince ancora: 3-1 all'Uzbekistan con eurogol di Corigliano",
+      "url": "https://www.tuttosport.com/news/calcio/italia/2026/11/26-152852445/l_italia_u17_vince_ancora_3-1_all_uzbekistan_con_eurogol_di_corigliano/",
+      "estratto": "Gli Azzurrini vincono e convincono anche nell'ultima partita dei gironi dei Mondiali: ora testa ai sedicesimi",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T16:13:54+00:00"
+    },
+    {
+      "id": "5e53a64603",
+      "titolo": "Arbitro sostituito all'intervallo dopo che una squadra lo ha accusato di 'essere UBRIACO' a seguito di una bizzarra ammonizione inflitta al portiere",
+      "url": "https://www.dailymail.com/sport/football/article-16324103/Referee-hauled-half-time-team-accused-DRUNK-following-bizarre-yellow-card-handed-goalkeeper.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Un arbitro è stato sostituito all'intervallo di una partita di AFC Champions League Two dopo essere stato accusato di 'essere ubriaco' dall'allenatore di una delle due squadre, un'affermazione che il direttore di gara ha negato.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T15:35:46+00:00"
+    },
+    {
+      "id": "e4f2e2e38b",
+      "titolo": "Omar Marmoush definisce Luca Williams-Barnett 'incredibile' dopo il suo debutto da titolare con il Tottenham",
+      "url": "https://www.espn.com/soccer/story/_/id/50604314/omar-marmoush-luca-williams-barnett-tottenham",
+      "estratto": "Omar Marmoush ha definito Luca Williams-Barnett \"incredibile\" e ritiene che il giovane fenomeno abbia \"un futuro molto promettente davanti a sé.\"",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T15:05:02+00:00"
+    },
+    {
+      "id": "78350bd986",
+      "titolo": "Fulmine colpisce l'aereo del Besiktas di Italiano e Vlahovic: incubo ad alta quota, cosa è successo",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/11/26-152851254/fulmine_colpisce_l_aereo_del_besiktas_di_italiano_e_vlahovic_incubo_ad_alta_quota_cosa_successo/",
+      "estratto": "Paura sul volo che portava la società turca in Georgia per la gara di Europa League contro l'Hapoel Beer Sheva",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T13:28:26+00:00"
+    },
+    {
+      "id": "bedcf905f1",
+      "titolo": "La FIFA colpita da un attacco informatico con il furto di 'informazioni personali e aziendali', inclusi documenti di immigrazione e registri finanziari, dopo che gli hacker si sono 'spacciati per membri dello staff'",
+      "url": "https://www.dailymail.com/sport/football/article-16324099/FIFA-hackers-stolen-Handsome-boy-hacking-club.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Informazioni personali, documenti relativi all'immigrazione e registri finanziari sono stati sottratti alla FIFA nel corso di un attacco informatico. L'organo di governo del calcio ha confermato che un gruppo di hacker si è spacciato per membri dello",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T13:10:53+00:00"
     },
     {
       "id": "5ec123d74f",
@@ -30,15 +246,6 @@
       "pubblicato": "2026-11-26T12:31:52+00:00"
     },
     {
-      "id": "bedcf905f1",
-      "titolo": "La FIFA colpita da un attacco informatico con il furto di 'informazioni personali e aziendali', inclusi documenti di immigrazione e registri finanziari, dopo che gli hacker si sono 'spacciati per membri dello staff'",
-      "url": "https://www.dailymail.com/sport/football/article-16324099/FIFA-hackers-stolen-Handsome-boy-hacking-club.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Informazioni personali, documenti relativi all'immigrazione e registri finanziari sono stati sottratti alla FIFA nel corso di un attacco informatico. L'organo di governo del calcio ha confermato che un gruppo di hacker si è spacciato per membri dello",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-26T12:14:12+00:00"
-    },
-    {
       "id": "134be6d8fc",
       "titolo": "Terrore in volo per Italiano e Vlahovic: un fulmine colpisce l'aereo del Besiktas",
       "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152849719/terrore_in_volo_per_italiano_e_vlahovic_un_fulmine_colpisce_l_aereo_del_besiktas/",
@@ -55,6 +262,15 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-11-26T09:37:17+00:00"
+    },
+    {
+      "id": "fb945013ea",
+      "titolo": "Il fattore Lautaro Martinez",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/26-152846646/il_fattore_lautaro_martinez/",
+      "estratto": "Leggi il commento sul ritorno in campo del capitano dell'Inter, reduce da infortunio e protagonista in Champions League contro lo Stoccarda",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-26T08:51:37+00:00"
     },
     {
       "id": "cc907f868e",
@@ -100,6 +316,15 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-25T23:32:20+00:00"
+    },
+    {
+      "id": "5cfeb459f2",
+      "titolo": "Gasperini senza filtri lancia un messaggio a tutti: \"Per la Serie A ci siamo anche noi\". E su Malen...",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152841085/gasperini_senza_filtri_lancia_un_messaggio_a_tutti_per_la_serie_a_ci_siamo_anche_noi_e_su_malen_/",
+      "estratto": "Il tecnico felice dopo il pareggio del Parco dei Principi: tutte le sue parole",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "pubblicato": "2026-11-25T22:49:17+00:00"
     },
     {
       "id": "db61b3eb05",
@@ -282,15 +507,6 @@
       "pubblicato": "2026-11-24T19:47:57+00:00"
     },
     {
-      "id": "64a3331716",
-      "titolo": "Allegri sulla Champions: \"Solo uno stupido non avrebbe capito che ci saremmo giocati la qualificazione nelle ultime tre\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152809963/allegri_sulla_champions_solo_uno_stupido_non_avrebbe_capito_che_ci_saremmo_giocati_la_qualificazione_nelle_ultime_tre/",
-      "estratto": "Le parole dell'allenatore del Napoli prima della sfida all'Etihad contro il Manchester City: ecco cosa ha detto",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-24T19:23:41+00:00"
-    },
-    {
       "id": "f6d4e54ae2",
       "titolo": "Per favore, Oliver, ce ne dai ancora? Il tecnico del Celtic Martin O'Neill dice al centrocampista danese Sorensen che è ora di alzare il livello",
       "url": "https://www.dailymail.com/sport/football/article-16318687/Please-Oliver-Celtic-boss-Martin-ONeill-tells-Danish-midfielder-Sorensen-time-game.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -379,96 +595,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-23T22:56:03+00:00"
-    },
-    {
-      "id": "50daa72ec6",
-      "titolo": "Vitaly Janelt realizza un eurogol e il Brentford passeggia contro l'Everton in 10 uomini",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879237",
-      "estratto": "Vitaly Janelt ha segnato un tiro straordinario da 27 metri, trascinando il Brentford a una vittoria per 4-0 contro un Everton ridotto in 10 uomini al Gtech Community Stadium.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T22:20:58+00:00"
-    },
-    {
-      "id": "d28c721f86",
-      "titolo": "I Mondiali femminili stanno tornando a casa... ma il 2035 non può essere considerato una soluzione per i problemi del movimento, scrive TARA ANSON-WALSH",
-      "url": "https://www.dailymail.com/sport/football/article-16316219/women-world-cup-2035-united-kingdom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Regno Unito ospiterà la Coppa del Mondo femminile del 2035, la prima fase finale di un Mondiale di calcio in patria dal 1966, come annunciato lunedì tra grandi proclami.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T22:04:21+00:00"
-    },
-    {
-      "id": "59bd091cef",
-      "titolo": "Il calcio 'heavy metal' del tecnico dell'Aberdeen Mario Frick è musica per le orecchie dei tifosi di lunga data",
-      "url": "https://www.dailymail.com/sport/football/article-16315893/Aberdeen-boss-Mario-Fricks-heavy-metal-football-music-ears-long-suffering-supporters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Mentre intraprendevano il lungo viaggio di ritorno da Kilmarnock sabato sera, i tifosi dell'Aberdeen avranno sicuramente sentito un pizzico di entusiasmo in più.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T21:57:01+00:00"
-    },
-    {
-      "id": "8ed8e08c77",
-      "titolo": "Il tecnico del Dundee Steven Pressley voleva 'nascondersi sotto una pietra' dopo l'umiliazione subita dall'Hearts",
-      "url": "https://www.dailymail.com/sport/football/article-16316423/Dundee-manager-Steven-Pressley-wanted-crawl-rock-hide-humiliation-Hearts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico del Dundee Steven Pressley è tutto tranne che disonesto. Essendosi assunto la piena responsabilità della sconfitta per 8-0 contro l'Hearts, ora ammette che ciò lo ha fatto desiderare di 'nascondersi sotto una pietra'.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T21:50:24+00:00"
-    },
-    {
-      "id": "709a46da0f",
-      "titolo": "Il premio Mondiale della Scozia non deve trasformarsi in un'occasione persa",
-      "url": "https://www.dailymail.com/sport/football/article-16316375/Scotland-women-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La conferma che la Scozia co-ospiterà la Coppa del Mondo femminile FIFA 2035 rappresenta un indubbio impulso per il movimento calcistico nel Paese.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T20:36:19+00:00"
-    },
-    {
-      "id": "39f7c00422",
-      "titolo": "McInnes crede che lo stimolo della finale di coppa spingerà i Rangers in una serie di partite cruciali",
-      "url": "https://www.dailymail.com/sport/football/article-16315671/McInnes-Rangers-cup-final.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico dei Rangers Derek McInnes insiste sul fatto che l'incentivo della finale di Premier Sports Cup del mese prossimo possa caricare i suoi giocatori mentre si preparano ad affrontare una serie cruciale di partite.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T20:13:23+00:00"
-    },
-    {
-      "id": "38d29e4133",
-      "titolo": "Il Celtic accetta la riduzione dei biglietti per Tynecastle nonostante la furia dei tifosi",
-      "url": "https://www.dailymail.com/sport/football/article-16316099/Celtic-Tynecastle-tickets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il Celtic ha accettato una dotazione ridotta di biglietti per la prossima visita a Tynecastle nonostante gli appelli dei tifosi a rifiutare l'offerta.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T19:28:31+00:00"
-    },
-    {
-      "id": "0b557489a1",
-      "titolo": "Frick promette che i suoi Dons manterranno un approccio positivo e attaccheranno nella sfida di Ibrox",
-      "url": "https://www.dailymail.com/sport/football/article-16316069/Frick-promises-Dons-maintain-positive-approach-attack-Ibrox-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tecnico dell'Aberdeen Mario Frick ha promesso di giocare all'attacco quando la sua squadra dal volto nuovo affronterà i Rangers a Ibrox domani sera.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T18:41:47+00:00"
-    },
-    {
-      "id": "260e113ac5",
-      "titolo": "Oli McBurnie è il 'Braveheart' dell'Hull, dice Sergej Jakirovic dopo la vittoria contro il Brighton",
-      "url": "https://www.espn.com/soccer/story/_/id/50575018/oli-mcburnie-hull-sergej-jakirovic",
-      "estratto": "Il tecnico dell'Hull Sergej Jakirovic ha paragonato l'attaccante Oli McBurnie al guerriero scozzese William Wallace, interpretato da Mel Gibson nel film Braveheart del 1995.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T18:28:26+00:00"
-    },
-    {
-      "id": "1301c6f5dc",
-      "titolo": "La stella dell'Argentina Leandro Paredes crolla a terra durante un'intervista post-partita mentre un giornalista cerca di attutire la sua caduta dopo essersi 'sentito girare la testa' alla fine del primo tempo del trionfo in coppa del Boca Juniors",
-      "url": "https://www.dailymail.com/sport/football/article-16312997/Argentina-star-Leandro-Paredes-collapses-post-match-interview-Boca-Juniors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La stella dell'Argentina Leandro Paredes è crollata durante un'intervista in diretta subito dopo aver vinto un trofeo con il suo Boca Juniors.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T15:11:02+00:00"
     }
   ]
 }
