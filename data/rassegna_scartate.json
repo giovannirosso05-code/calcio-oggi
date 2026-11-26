@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-11-25T21:07:18.425116+00:00",
-  "totale": 33,
+  "aggiornato": "2026-11-26T03:34:53.900397+00:00",
+  "totale": 50,
   "articoli": [
+    {
+      "id": "1f7de15a4f",
+      "titolo": "Andoni Iraola: Alexander Isak in un \"gran momento\" dopo la doppietta contro il Club Brugge",
+      "url": "https://www.espn.com/soccer/story/_/id/50598768/andoni-iraola-alexander-isak-great-moment-liverpool",
+      "estratto": "Il tecnico del Liverpool Andoni Iraola ritiene che l'attaccante Alexander Isak sia in un \"gran momento\" dopo aver segnato due reti nella vittoria per 3-0 contro il Club Brugge.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T00:23:46+00:00"
+    },
+    {
+      "id": "4d304cee8c",
+      "titolo": "Klinsmann: La gestione del caso Musiala è sintomo della \"cultura tedesca\"",
+      "url": "https://www.espn.com/video/clip/_/id/50598684/handling-musiala-situation-symptom-german-culture",
+      "estratto": "Jürgen Klinsmann ritiene che i commenti dei piani alti del Bayern Munich riguardo a Jamal Musiala rappresentino il modo di comunicare tipicamente tedesco.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "pubblicato": "2026-11-25T23:32:57+00:00"
+    },
+    {
+      "id": "c5ffa23169",
+      "titolo": "FUORI DAL MONDO! Il Celtic si lega all'azienda di analisi dati Pluto per migliorare il proprio scouting",
+      "url": "https://www.dailymail.com/sport/football/article-16322409/Celtic-recruitment-Pluto.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Celtic ha annunciato una partnership a lungo termine con un'azienda che il club ritiene trasformerà la propria campagna di rafforzamento.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T23:32:20+00:00"
+    },
     {
       "id": "9d2591bcdc",
       "titolo": "Il tecnico del Nottingham Forest Glasner attacca i giocatori che non imparano l'inglese",
@@ -28,6 +55,87 @@
       "fonte": "Corriere dello Sport",
       "serie": "Estero",
       "pubblicato": "2026-11-25T19:43:19+00:00"
+    },
+    {
+      "id": "dc5dc01105",
+      "titolo": "Raheem Sterling evita il carcere per l'incidente da 270.000 sterline in Lamborghini: la stella dell'Inghilterra riceve una condanna detentiva sospesa dopo aver dichiarato in tribunale di aver affrontato un percorso di riabilitazione di 12 giorni per il 'problema' del gas esilarante",
+      "url": "https://www.dailymail.com/sport/football/article-16320565/Raheem-Sterling-arrives-court-drug-driving.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Raheem Sterling ha ottenuto una condanna con pena sospesa per guida pericolosa e possesso di ossido di azoto, evitando il carcere dopo che è emerso che ha trascorso 12 giorni in riabilitazione.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T19:13:29+00:00"
+    },
+    {
+      "id": "ba6c2877e4",
+      "titolo": "Perché il nuovo gioiello dell'Aberdeen Marshall continuerà a brillare se Frick insisterà con il rombo",
+      "url": "https://www.dailymail.com/sport/football/article-16322111/Aberdeen-Marshall-Frick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Nicky Devlin ha pronosticato che Findlay Marshall continuerà a brillare se verrà schierato al vertice del centrocampo a rombo dell'Aberdeen.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T18:13:48+00:00"
+    },
+    {
+      "id": "aad7a8ddae",
+      "titolo": "Dentro l'ascesa di Raheem Sterling, dalla tragedia infantile e la povertà alla superstar dell'Inghilterra all'apice della sua forma, ma un incidente in Lamborghini e la dipendenza dal gas esilarante lo lasciano sull'orlo del baratro",
+      "url": "https://www.dailymail.com/sport/football/article-16320563/raheem-sterling-rise-tragedy-poverty-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il 31enne ha evitato il carcere, ma è stato condannato a una pena sospesa di 12 mesi e a 100 ore di lavori socialmente utili dopo essere stato coinvolto in un pericoloso incidente a maggio.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T18:10:09+00:00"
+    },
+    {
+      "id": "4f21f37439",
+      "titolo": "Gli avversari europei del Celtic sono plancton nel grande oceano del calcio... ma il Torreense, squadra in difficoltà nella seconda serie portoghese, ha già fatto parlare di sé in Europa in questa stagione",
+      "url": "https://www.dailymail.com/sport/football/article-16321925/Celtic-Europa-league-plankton-Portuguese-second-tier-Torreense-Jota-lisbon-benfica-porto-leiria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Anche per gli appassionati di calcio continentale, il sorteggio di quest'anno per l'Europa League rischiava di provocare un certo grado di smarrimento.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T17:33:26+00:00"
+    },
+    {
+      "id": "ed07054fef",
+      "titolo": "La caotica discesa di Raheem Sterling è il prodotto di quel mondo dorato in cui i piccoli principi del calcio non sanno gestire il rifiuto, scrive IAN HERBERT - ora deve ascoltare chi gli sta intorno se vuole salvare la sua carriera",
+      "url": "https://www.dailymail.com/sport/football/article-16321337/raheem-sterling-dangerous-driving-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "IAN HERBERT: ciò che rende il crollo personale di Raheem Sterling così evitabile è che ha davvero avuto attorno a sé figure positive in sottofondo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T16:11:39+00:00"
+    },
+    {
+      "id": "1e21217c4c",
+      "titolo": "James Penrice avvisa i Rangers: devono migliorare se intendono raggiungere la vetta della Scottish Premiership",
+      "url": "https://www.dailymail.com/sport/football/article-16321733/James-Penrice-warns-Rangers-improve-intend-hit-Scottish-Premiership-summit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "James Penrice ha avvertito che i Rangers possono scordarsi di andare in testa alla classifica sabato se giocheranno come hanno fatto nei primi 45 minuti contro l'Aberdeen.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T15:37:54+00:00"
+    },
+    {
+      "id": "cb75a732a0",
+      "titolo": "I proprietari del Newcastle non valutano la cessione totale, solo quote di minoranza – indiscrezioni",
+      "url": "https://www.espn.com/soccer/story/_/id/50593252/newcastle-united-saudi-owners",
+      "estratto": "Secondo quanto appreso dalla Press Association, i proprietari sauditi del Newcastle non considerano l'eventuale vendita di una quota di minoranza del club come il primo passo verso una cessione definitiva.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T15:03:51+00:00"
+    },
+    {
+      "id": "891bae63ac",
+      "titolo": "Man City avvisato: il regolatore 'ha il coraggio' di sfidare la proprietà dopo le accuse",
+      "url": "https://www.espn.com/soccer/story/_/id/50592983/man-city-charges-independent-regulator",
+      "estratto": "Il presidente del Regolatore Indipendente del Calcio afferma che la sua organizzazione \"ha il coraggio\" di affrontare i proprietari del Manchester City, qualora dovesse rendersi necessario.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T14:41:01+00:00"
+    },
+    {
+      "id": "409054aebd",
+      "titolo": "L'ex difensore dell'Inghilterra Conor Coady emerge come candidato alla panchina del Blackpool, club di League One, ad appena due settimane dal ritiro",
+      "url": "https://www.dailymail.com/sport/football/article-16321461/Conor-Coady-blackpool-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Conor Coady è emerso tra i candidati per diventare il nuovo allenatore del Blackpool. Il club di League One, in difficoltà, è alla ricerca di un nuovo tecnico.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-25T14:12:05+00:00"
     },
     {
       "id": "d37fcb09c6",
@@ -75,6 +183,33 @@
       "pubblicato": "2026-11-25T07:13:11+00:00"
     },
     {
+      "id": "d0a207e036",
+      "titolo": "HIBERNIAN 2 DUNDEE 1: Gli Hibs ritrovano la vittoria casalinga che mancava da tempo, la squadra di Leith vince la sfida tra feriti",
+      "url": "https://www.dailymail.com/sport/football/article-16319927/HIBERNIAN-2-DUNDEE-1-Hibs-enjoy-long-lost-home-comfort-Leith-men-win-battle-wounded.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'Hibernian ha messo fine alla sua lunga astinenza da vittorie casalinghe in Premiership superando il Dundee in un incontro combattuto a Easter Road.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T23:51:22+00:00"
+    },
+    {
+      "id": "eebb396e22",
+      "titolo": "RANGERS 3 ABERDEEN 2: Tra mille emozioni e colpi di scena, la tripla mossa di McInnes accende la rimonta nel secondo tempo",
+      "url": "https://www.dailymail.com/sport/football/article-16319899/RANGERS-3-ABERDEEN-2-Amid-thrills-spills-McInnes-triple-switch-sparks-second-half-revival.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Quando queste squadre si sono affrontate l'ultima volta in campionato a fine agosto, i Rangers si trovavano in una situazione così buia da far dubitare che la loro stagione non fosse destinata a un altro episodio profondamente disgraziato.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T23:50:24+00:00"
+    },
+    {
+      "id": "491c3dbd86",
+      "titolo": "Derek McInnes esorta i suoi Rangers a smettere di staccare la spina dopo aver battuto a fatica l'Aberdeen in un match emozionante",
+      "url": "https://www.dailymail.com/sport/football/article-16319909/Derek-McInnes-urges-Rangers-stop-switching-edging-Aberdeen-thriller.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ieri sera Derek McInnes ha tuonato contro la sua distratta squadra dei Rangers per aver staccato la spina nelle fasi finali",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T23:42:38+00:00"
+    },
+    {
       "id": "440674fda5",
       "titolo": "Rumor e notizie di calciomercato: Arsenal e Newcastle mettono nel mirino Pio Esposito dell'Inter",
       "url": "https://www.espn.com/soccer/story/_/id/50580721/transfer-rumors-news-psg-estevao-luis-diaz-chelsea-bayern",
@@ -102,6 +237,15 @@
       "pubblicato": "2026-11-24T21:40:30+00:00"
     },
     {
+      "id": "baac27868d",
+      "titolo": "Il Senegal CONSERVA il titolo della Coppa d'Africa: i campioni riconquistano lo scettro grazie a un clamoroso verdetto del TAS nonostante l'abbandono del campo in una finale caotica contro il Marocco",
+      "url": "https://www.dailymail.com/sport/football/article-16317621/Senegal-WIN-Africa-Cup-Nations-appeal-Title-restored-huge-CAS-verdict-Morocco-stripped-crown-following-controversial-final-saw-team-walk-pitch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "La sentenza arriva dopo una finale controversa in cui il Senegal aveva inizialmente vinto 1-0 dopo i tempi supplementari, prima che il risultato venisse ribaltato in seguito a un ricorso della Federcalcio marocchina.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T19:47:57+00:00"
+    },
+    {
       "id": "64a3331716",
       "titolo": "Allegri sulla Champions: \"Solo uno stupido non avrebbe capito che ci saremmo giocati la qualificazione nelle ultime tre\"",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152809963/allegri_sulla_champions_solo_uno_stupido_non_avrebbe_capito_che_ci_saremmo_giocati_la_qualificazione_nelle_ultime_tre/",
@@ -109,6 +253,15 @@
       "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "pubblicato": "2026-11-24T19:23:41+00:00"
+    },
+    {
+      "id": "f6d4e54ae2",
+      "titolo": "Per favore, Oliver, ce ne dai ancora? Il tecnico del Celtic Martin O'Neill dice al centrocampista danese Sorensen che è ora di alzare il livello",
+      "url": "https://www.dailymail.com/sport/football/article-16318687/Please-Oliver-Celtic-boss-Martin-ONeill-tells-Danish-midfielder-Sorensen-time-game.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martin O'Neill ha detto a Oliver Sorensen che per lui è arrivato il momento di incidere con la maglia del Celtic.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T18:13:25+00:00"
     },
     {
       "id": "1f8cdb6a6e",
@@ -120,6 +273,15 @@
       "pubblicato": "2026-11-24T17:03:36+00:00"
     },
     {
+      "id": "e84f150cbf",
+      "titolo": "I club scozzesi, egoisti, avrebbero comunque fatto in modo che la rivoluzione del settore giovanile di Craig Mulholland fosse destinata al fallimento",
+      "url": "https://www.dailymail.com/sport/football/article-16318889/Self-serving-Scottish-clubs-going-ensure-Craig-Mulhollands-youth-football-revolution-doomed-failure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Visto quanto rapidamente le cose sono precipitate sotto la guida di Sebastien Pocognoli, ora vengono sollevati interrogativi seri su chi detiene il potere alla SFA.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T17:03:10+00:00"
+    },
+    {
       "id": "ba06f2f46e",
       "titolo": "SULLA STRADA: Il Clyde accoglie i suoi nuovi e rumorosi sponsor per del CALCIO HEAVY METAL",
       "url": "https://www.dailymail.com/sport/football/article-16313551/ON-ROAD-Clyde-welcome-noisy-new-sponsors-HEAVY-METAL-FOOTBALL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -129,13 +291,13 @@
       "pubblicato": "2026-11-24T16:19:20+00:00"
     },
     {
-      "id": "985ce63d74",
-      "titolo": "Hakimi in conferenza: \"Il processo per stupro? Penso al calcio, che è il mio lavoro\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152802905/hakimi_in_conferenza_il_processo_per_stupro_penso_al_calcio_che_il_mio_lavoro/",
-      "estratto": "Il difensore marocchino risponde così a una domanda sul processo in cui è coinvolto. Poi svela di aver mandato un messaggio alla dirigenza del Psg per restare",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-24T13:44:48+00:00"
+      "id": "e9d627c713",
+      "titolo": "Preparatevi a un altro assalto della Saudi Premier League: l'allentamento delle regole sui giocatori stranieri è pronto a scatenare una campagna acquisti milionaria, dopo la spesa di quasi un miliardo di dollari nel 2023",
+      "url": "https://www.dailymail.com/sport/football/article-16317587/Premier-League-transfers-Saudi-Arabia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I club di Premier League si stanno preparando a subire un saccheggio dei loro talenti da parte dell'Arabia Saudita, mentre la lega dai fondi illimitati valuta l'allentamento delle regole di spesa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-24T10:13:38+00:00"
     },
     {
       "id": "c77c1e2a86",
@@ -289,15 +451,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-23T09:08:29+00:00"
-    },
-    {
-      "id": "76e37897ba",
-      "titolo": "È la fine? Per McCann la situazione è critica dopo che i vivaci Dons hanno travolto il Rugby Park",
-      "url": "https://www.dailymail.com/sport/football/article-16313811/McCann-Kilmarnock-Aberdeen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Neil McCann non è mai stato una scelta gradita ai tifosi del Kilmarnock, ma nemmeno i suoi critici più severi possono negare che abbia fatto un ottimo lavoro mantenendo il club nella massima serie scozzese la scorsa stagione.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-22T23:11:21+00:00"
     }
   ]
 }
