@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-26T22:23:28.028081+00:00",
-  "totale": 181,
+  "aggiornato": "2026-11-27T04:27:21.037683+00:00",
+  "totale": 186,
   "articoli": [
     {
       "id": "0daa64ef4d",
@@ -39,6 +39,30 @@
       "squadra": "Man Utd"
     },
     {
+      "id": "f3207c4289",
+      "titolo": "La Juve batte l'Omonia e vola al secondo posto della classifica di Europa League. Spalletti: \"Gol bellissimi\"",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juve-batte-omonia-vola-classifica-europa-league-spalletti-spaziali-2297945",
+      "estratto": "La Juventus parte piano, 'si incasina', come ammesso dallo stesso Spalletti, ma poi ha ragione dell'Omonia in virtù di una reazione di pancia e di una superiorità tecniche che si concretizza in modo evidente nella ripresa.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-11-26T23:53:22+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "c73fda1de3",
+      "titolo": "Sarri sollevato dopo la rimonta dell'Atalanta in casa del Borac: \"Contento per i tifosi, ma abbiamo un problema...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/conference-league/2026/11/26-152865932/sarri_sollevato_dopo_la_rimonta_dell_atalanta_in_casa_del_borec_contento_per_i_tifosi_ma_abbiamo_un_problema_/",
+      "estratto": "Soddisfatto per la vittoria in Conference League, il tecnico non ha però nascosto le difficoltà della squadra e ha parlato anche del dualismo tra Scamacca e Krstovic",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 190,
+      "pubblicato": "2026-11-26T22:38:31+00:00",
+      "squadra": "Atalanta"
+    },
+    {
       "id": "e88b93a215",
       "titolo": "Carlos Augusto rinnova con l'Inter: \"Ripagherò la fiducia\", i dettagli dell'accordo",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/11/26-152856120/carlos_augusto_rinnova_con_l_inter_ripagher_la_fiducia_i_dettagli_dell_accordo/",
@@ -63,16 +87,28 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "8f8ad7efb1",
-      "titolo": "Caso Musiala, Kimmich attacca il club: \"Questo non è lo stile Bayern\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/bayern-monaco/2026/11/26-152847626/caso_musiala_kimmich_attacca_il_club_questo_non_lo_stile_bayern/",
-      "estratto": "Le dichiarazioni rilasciate dal centrocampista tedesco dopo il comunicato del club bavarese sull'incontro con l'entourage del classe 2003",
-      "fonte": "Corriere dello Sport",
+      "id": "afa58031ca",
+      "titolo": "L'esordio a 16 anni e la corte del Bayern, Vignato si racconta: \"Prima o poi tornerò in Europa\"",
+      "url": "https://www.tuttomercatoweb.com/serie-a/esordio-16-corte-bayern-vignato-racconta-prima-tornero-europa-2297747",
+      "estratto": "A soli 16 anni esordiva in Serie A, sul suo talento si era fatto avanti anche il Bayern Monaco, poi ha trovato la sua strada a Bologna e aspetta un giorno di tornare in Italia.",
+      "fonte": "TMW",
       "serie": "Estero",
       "citazione": true,
       "punteggio": 160,
-      "pubblicato": "2026-11-26T09:50:20+00:00",
+      "pubblicato": "2026-11-26T23:30:01+00:00",
       "squadra": "Bayern"
+    },
+    {
+      "id": "ef18918dd5",
+      "titolo": "La sconfitta contro il Monaco non compromette le nostre speranze di qualificazione in Europa, insiste l'irriducibile tecnico degli Hearts Wouter Vrancken",
+      "url": "https://www.dailymail.com/sport/football/article-16325391/Monaco-defeat-isnt-fatal-hopes-progressing-Europe-insists-defiant-Hearts-manager-Wouter-Vrancken.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Wouter Vrancken ha dichiarato che il gol vittoria del Monaco al 94' a Tynecastle non ha ridotto significativamente le possibilità degli Hearts di raggiungere la fase a eliminazione diretta della UEFA Conference League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": 160,
+      "pubblicato": "2026-11-26T21:38:59+00:00",
+      "squadra": "Monaco"
     },
     {
       "id": "525990c746",
@@ -87,6 +123,42 @@
       "squadra": "Sporting"
     },
     {
+      "id": "73ab5091ae",
+      "titolo": "Zitto zitto, Amorim sta cucinando un Milan da scudetto. Juve smarrita: è Milano-Roma sia in campo che nel Palazzo, tra i tormenti di Abete",
+      "url": "https://www.tuttomercatoweb.com/editoriale/zitto-zitto-amorim-cucinando-milan-scudetto-juve-smarrita-milano-roma-campo-palazzo-tormenti-abete-2297968",
+      "estratto": "Il titolo era questo già prima della gara con l’Olympiacos, e forse sarebbe rimasto lo stesso anche se il Milan al Pireo avesse perso.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 150,
+      "pubblicato": "2026-11-27T00:10:00+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "693a8b3a54",
+      "titolo": "Jashari all'esame Olympiacos-Milan per una notte alla Modric",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/26-152846317/jashari_all_esame_olympiacos-milan_per_una_notte_alla_modric/",
+      "estratto": "Lo svizzero, pagato oltre 35 milioni, resta ancora un oggetto misterioso: Amorim ad Atene lo schiererà al posto del croato infortunato",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 150,
+      "pubblicato": "2026-11-26T10:06:11+00:00",
+      "squadra": "Olympiacos"
+    },
+    {
+      "id": "3949363158",
+      "titolo": "Il nuovo Bellingham, le ironie sul Barça e una Champions che lo incorona: Mou è tornato Special One",
+      "url": "https://www.tuttomercatoweb.com/serie-a/mou-tornato-special-one-bellingham-ironie-tifosi-barca-champions-incorona-2297780",
+      "estratto": "Ci mancava lo Special One.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 140,
+      "pubblicato": "2026-11-26T23:15:01+00:00",
+      "squadra": "Barcelona"
+    },
+    {
       "id": "fc0f6dce5e",
       "titolo": "Iraola 'soddisfatto' per la porta inviolata oltre alla vittoria del Liverpool in Champions League",
       "url": "https://www.espn.com/video/clip/_/id/50599294/iraola-pleased-keep-clean-sheet-top-liverpool-champions-league-win",
@@ -99,16 +171,52 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "0b562ac4d5",
-      "titolo": "Rumor di mercato e notizie: il Barcellona è tra i club che mettono nel mirino Ayden Heaven del Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50602698/transfer-rumors-news-manchester-united-barcelona-heaven",
-      "estratto": "Il Barcellona è interessato a ingaggiare in prestito il difensore del Manchester United Ayden Heaven. Le ultime notizie dal calciomercato.",
-      "fonte": "ESPN",
+      "id": "b9f04456f8",
+      "titolo": "Serie B, doppio cambio in panchina: Bucchi esonerato dall'Arezzo, Tonelli nuovo tecnico dell'Empoli",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-b-cambio-panchina-bucchi-esonerato-arezzo-tonelli-tecnico-empoli-2297999",
+      "estratto": "Giornata di cambiamenti sulle panchine di Serie B.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-26T23:34:50+00:00",
+      "squadra": "Arezzo"
+    },
+    {
+      "id": "540886de74",
+      "titolo": "HEARTS 2 MONACO 3: Beffa finale per dei coraggiosi Hearts, con Balogun che colpisce allo scadere decidendo un epico scontro a Tynecastle ricco di emozioni",
+      "url": "https://www.dailymail.com/sport/football/article-16325327/HEARTS-2-MONACO-3-Late-agony-brave-Hearts-Balogun-strikes-late-settle-rollercoaster-Tynecastle-epic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il tentativo degli Hearts di raggiungere la fase a eliminazione diretta della UEFA Conference League ha subito un colpo agonizzante al 94', dopo aver lottato alla pari contro una squadra di classe del Monaco.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": 120,
-      "pubblicato": "2026-11-26T18:35:42+00:00",
-      "squadra": "Barcelona"
+      "pubblicato": "2026-11-26T22:41:33+00:00",
+      "squadra": "Hearts"
+    },
+    {
+      "id": "fa3ad3abc9",
+      "titolo": "Il Bournemouth stabilisce un nuovo record inglese nelle coppe europee con la quinta vittoria consecutiva",
+      "url": "https://www.espn.com/soccer/story/_/id/50606618/bournemouth-uefa-europa-league-record-english-europe",
+      "estratto": "Il sogno europeo del Bournemouth in Europa League è continuato giovedì, con il club della costa meridionale che ha stabilito un nuovo record per una squadra inglese esordiente in Europa.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-26T22:32:41+00:00",
+      "squadra": "Bournemouth"
+    },
+    {
+      "id": "b3e4469c76",
+      "titolo": "Conference League, ko a sorpresa del Getafe. Poker di Ajax e Brighton",
+      "url": "https://www.corrieredellosport.it/news/calcio/conference-league/2026/11/26-152855053/conference_league_la_vittoria_del_kairat_almaty_apre_la_quarta_giornata_primo_stop_per_il_mjllby/",
+      "estratto": "Terzo ko di fila per gli spagnoli, mentre continua a vincere il Monaco. Vincono il Braga e il Friburgo",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 120,
+      "pubblicato": "2026-11-26T17:36:29+00:00",
+      "squadra": "Getafe"
     },
     {
       "id": "fa49ebaa7d",
@@ -146,40 +254,16 @@
       "pubblicato": "2026-11-26T09:33:11+00:00"
     },
     {
-      "id": "4d6deeb230",
-      "titolo": "Juventus, Boga: \"Fare gol è sempre un piacere, devo segnare ancora di più\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-boga-2297995",
-      "estratto": "Jeremie Boga, attaccante della Juventus, ha parlato ai microfoni di Sky Sport al termine della sfida di Europa League vinta per 4-1 sull'Omonia Nicosia: \"Oggi abbiamo fatto molto bene, è stata dura nei primi minuti col loro pressing.",
+      "id": "22f1db814f",
+      "titolo": "Stefano Colantuono: “Lazio, bravo Gattuso. Roma, contro il PSG spot per il calcio. Fiorentina serve pazienza”",
+      "url": "https://www.tuttomercatoweb.com/a-tu-per-tu/stefano-colantuono-lazio-gattuso-roma-psg-spot-calcio-fiorentina-serve-pazienza-2298021",
+      "estratto": "“Bravi tutti: allenatore, direttore, presidente.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": true,
       "punteggio": 70,
-      "pubblicato": "2026-11-26T22:18:59+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "905720731a",
-      "titolo": "Atalanta, Zappacosta: \"Siamo forti, tutti dobbiamo assumerci le nostre responsabilità\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/atalanta-zappacosta-2297991",
-      "estratto": "Al termine della rocambolesca vittoria per 3-2 dell'Atalanta sul campo del Borac, gara valevole per la quarta giornata della fase a campionato di Conference League e decisa proprio da una sua rete al 93' dopo il doppio svantaggio iniziale e le espuls",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-26T22:05:05+00:00",
-      "squadra": "Atalanta"
-    },
-    {
-      "id": "1584bf2565",
-      "titolo": "Il Milan ribalta l'Olympiacos, il tecnico dei greci: \"Fino al 60' avevamo fatto un partitone\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/milan-ribalta-olympiacos-tecnico-greci-fino-60-partitone-2297980",
-      "estratto": "Imanol Alguacil, tecnico dell'Olympiacos, è intervenuto in conferenza stampa per commentare il ko contro il Milan dopo che la squadra stava conducendo 2-0: La squadra ha dimosrtato cosa poteva fare per 60 minuti.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": 70,
-      "pubblicato": "2026-11-26T21:56:56+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-11-26T23:44:50+00:00",
+      "squadra": "Lazio"
     },
     {
       "id": "09e1e66291",
@@ -264,16 +348,37 @@
       "squadra": "Como"
     },
     {
-      "id": "ef18918dd5",
-      "titolo": "La sconfitta contro il Monaco non compromette le nostre speranze di qualificazione in Europa, insiste l'irriducibile tecnico degli Hearts Wouter Vrancken",
-      "url": "https://www.dailymail.com/sport/football/article-16325391/Monaco-defeat-isnt-fatal-hopes-progressing-Europe-insists-defiant-Hearts-manager-Wouter-Vrancken.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Wouter Vrancken ha dichiarato che il gol vittoria del Monaco al 94' a Tynecastle non ha ridotto significativamente le possibilità degli Hearts di raggiungere la fase a eliminazione diretta della UEFA Conference League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
+      "id": "9bc3ee816d",
+      "titolo": "Sarri: \"Non abbiamo solidità difensiva ma grande carattere. Scamacca e Krstovic? Il dualismo non esiste\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/atalanta/2026/11/26-152866652/sarri_non_abbiamo_solidit_difensiva_ma_grande_carattere_scamacca_e_krstovic_il_dualismo_non_esiste/",
+      "estratto": "Il tecnico della Dea ha parlato al termine della grande rimonta contro il Borac, soffermandosi sulla prestazione della sua squadra",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
       "citazione": true,
       "punteggio": 40,
-      "pubblicato": "2026-11-26T21:38:59+00:00",
-      "squadra": "Monaco"
+      "pubblicato": "2026-11-26T22:51:41+00:00"
+    },
+    {
+      "id": "c036191ae5",
+      "titolo": "Il siparietto in diretta tra Del Piero e Spalletti: \"Sono felice, mi prendo questo merito...\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152870440/il_siparietto_in_diretta_tra_del_piero_e_spalletti_sono_felice_mi_prendo_questo_merito_/",
+      "estratto": "Le dichiarazioni dell'allenatore della Juve dopo la vittoria contro l'Omonia Nicosia. Poi la domanda in diretta con l'ex capitano bianconero",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-26T22:38:23+00:00"
+    },
+    {
+      "id": "f22867d8b9",
+      "titolo": "\"L'abbiamo allenato tutta la settimana\": gol Ekhator, il retroscena di Conceicao. E Boga: \"Anch'io!\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152869410/l_abbiamo_allenato_tutta_la_settimana_gol_ekhator_il_retroscena_di_conceicao_e_boga_anch_io_/",
+      "estratto": "Chico analizza la rete del compagno e aggiunge: \"Lavora sempre bene\". L'ivoriano sorride: \"Quando segni e vinci hai più fiducia\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": 40,
+      "pubblicato": "2026-11-26T22:30:38+00:00"
     },
     {
       "id": "3f3a8f49b6",
@@ -365,6 +470,18 @@
       "squadra": "Newcastle"
     },
     {
+      "id": "f34c13d3a1",
+      "titolo": "Eurospettacolo a Torino, la Juventus travolge l'Omonia e vola in classifica. Ekhator, prima gioia!",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152851463/juve-omonia_diretta_europa_league_formazioni_e_risultato_in_tempo_reale/",
+      "estratto": "I bianconeri calano il poker e continuano a macinare risultati nella fase a campionato della competizione: tutte le dichiarazioni dei protagonisti",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 30,
+      "pubblicato": "2026-11-26T17:01:02+00:00",
+      "squadra": "Torino"
+    },
+    {
       "id": "9d4d14b10b",
       "titolo": "Xabi Alonso: Caso chiuso sull'intervista di Wesley Fofana dopo le scuse",
       "url": "https://www.espn.com/soccer/story/_/id/50604615/xabi-alonso-wesley-fofana-chelsea",
@@ -374,30 +491,6 @@
       "citazione": false,
       "punteggio": 30,
       "pubblicato": "2026-11-26T15:59:44+00:00"
-    },
-    {
-      "id": "a2b48940d7",
-      "titolo": "Sport e diabete: il secondo incontro firmato Fondazione Lazio",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/26-152850842/sport_e_diabete_il_secondo_incontro_firmato_fondazione_lazio/",
-      "estratto": "Si terrà oggi alle 18 il secondo seminario del ciclo ‘Diabete in Libertà – Sport e Diabete’, fortemente voluto dalla Fondazione Lazio ETS",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-11-26T12:10:38+00:00",
-      "squadra": "Lazio"
-    },
-    {
-      "id": "693a8b3a54",
-      "titolo": "Jashari all'esame Olympiacos-Milan per una notte alla Modric",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/11/26-152846317/jashari_all_esame_olympiacos-milan_per_una_notte_alla_modric/",
-      "estratto": "Lo svizzero, pagato oltre 35 milioni, resta ancora un oggetto misterioso: Amorim ad Atene lo schiererà al posto del croato infortunato",
-      "fonte": "Tuttosport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 30,
-      "pubblicato": "2026-11-26T10:06:11+00:00",
-      "squadra": "Olympiacos"
     },
     {
       "id": "b8ce073d39",
@@ -412,6 +505,17 @@
       "squadra": "Leeds"
     },
     {
+      "id": "ce35d82956",
+      "titolo": "Ranking UEFA, corsa al 5° posto Champions: Italia in rimonta dopo la 3 giorni europea",
+      "url": "https://www.tuttomercatoweb.com/serie-a/ranking-uefa-corsa-5-champions-italia-rimonta-3-europea-2298000",
+      "estratto": "Una buona tre giorni di coppe permette all'Italia di essere in scia per conquistare un posto extra per la Champions League 2027/28.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 20,
+      "pubblicato": "2026-11-26T23:26:00+00:00"
+    },
+    {
       "id": "175c195a24",
       "titolo": "Jude Bellingham segna 'il gol più bello della mia vita' e con uno splendido tiro al volo da lontano aiuta il Real Madrid a rimontare e travolgere il PSV Eindhoven 5-1 in Champions League",
       "url": "https://www.dailymail.com/sport/football/article-16319773/Jude-Bellingham-scores-best-goal-life-stunning-long-range-volley-helps-Real-Madrid-come-thump-PSV-Eindhoven-5-1-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -424,51 +528,59 @@
       "squadra": "Real Madrid"
     },
     {
-      "id": "d4e5ccc22b",
-      "titolo": "La sfida di Champions League dell'Aston Villa contro il Galatasaray piomba nel caos: la polizia turca dà la caccia a un LEONE in fuga avvistato a 10 miglia dallo stadio",
-      "url": "https://www.dailymail.com/sport/football/article-16315947/Aston-Villa-Champions-League-Galatasaray-lion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "TOM COLLOMOSSE A ISTANBUL: In una bizzarra evoluzione dei fatti, le forze di sicurezza turche e il personale per la tutela della fauna selvatica hanno cercato lunedì l'animale, che si ritiene stia vagando in libertà.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 20,
-      "pubblicato": "2026-11-23T23:09:02+00:00",
-      "squadra": "Aston Villa"
-    },
-    {
-      "id": "2839ecdfda",
-      "titolo": "No Jeff, no party. Il primo sigillo in bianconero di Ekhator fa risuonare l'avvertimento di Baldini",
-      "url": "https://www.tuttomercatoweb.com/serie-a/jeff-party-sigillo-bianconero-ekhator-risuonare-avvertimento-baldini-2297994",
-      "estratto": "\"Ekhator è un giocatore fortissimo e credo che la Juventus se ne accorgerà, vuole crescere ed è più maturo degli anni che ha.",
+      "id": "478c57da2d",
+      "titolo": "Roberto Mancini, la voglia di vincere un Mondiale dopo l'Europeo. Anche se quella fuga...",
+      "url": "https://www.tuttomercatoweb.com/nato-oggi/roberto-mancini-voglia-vincere-mondiale-europeo-fuga-2297092",
+      "estratto": "Tanto tuonò che piovve.",
       "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-26T22:16:09+00:00"
+      "pubblicato": "2026-11-27T04:00:16+00:00"
     },
     {
-      "id": "b35260cfce",
-      "titolo": "Il Friburgo si salva al 93', Salah gol e Trabzonspor vince: Conference League, i finali delle 21",
-      "url": "https://www.tuttomercatoweb.com/serie-a/friburgo-salva-scadere-salah-gol-trabzonspor-vince-conference-league-finali-21-2297990",
-      "estratto": "Mentre l'Atalanta supera al pelo il Borac, nel quinto turno di Conference League (League Phase) il Trabzonspor di Mohamed Salah vince 2-1 fuori casa e nel segno dell'ex Liverpool al 69', vincendo con una rete all'ultimo respiro al 93' di Saviolo ai d",
+      "id": "8408174015",
+      "titolo": "Le partite di oggi: il programma di venerdì 27 novembre",
+      "url": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-venerdi-27-novembre-2297879",
+      "estratto": "Non mancano le partite da poter seguire quest'oggi, venerdì 27 novembre 2026.",
       "fonte": "TMW",
-      "serie": "Estero",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-26T22:06:00+00:00",
-      "squadra": "Trabzonspor"
+      "pubblicato": "2026-11-27T03:30:00+00:00"
     },
     {
-      "id": "540886de74",
-      "titolo": "HEARTS 2 MONACO 3: Beffa finale per dei coraggiosi Hearts, con Balogun che colpisce allo scadere decidendo un epico scontro a Tynecastle ricco di emozioni",
-      "url": "https://www.dailymail.com/sport/football/article-16325327/HEARTS-2-MONACO-3-Late-agony-brave-Hearts-Balogun-strikes-late-settle-rollercoaster-Tynecastle-epic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il tentativo degli Hearts di raggiungere la fase a eliminazione diretta della UEFA Conference League ha subito un colpo agonizzante al 94', dopo aver lottato alla pari contro una squadra di classe del Monaco.",
+      "id": "7fec3deda1",
+      "titolo": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 26 novembre",
+      "url": "https://www.tuttomercatoweb.com/serie-a/calciomercato-i-no-stop-i-indiscrezioni-trattative-retroscena-26-novembre-2297860",
+      "estratto": "INTER, C'È IL RINNOVO DI CARLOS AUGUSTO: IL BRASILIANO HA FIRMATO FINO AL 2031.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-27T00:00:00+00:00"
+    },
+    {
+      "id": "8ff9e8d72e",
+      "titolo": "Cinque vittorie e due pareggi che sanno di impresa: no, il calcio italiano non è da buttare",
+      "url": "https://www.tuttomercatoweb.com/serie-a/vittorie-pareggi-sanno-impresa-no-calcio-italiano-buttare-2298003",
+      "estratto": "Cinque vittorie e due pareggi, questi ultimi mica banali perché arrivati in casa di Manchester City e Paris Saint-Germain, due delle più serie candidate alla vittoria della Champions League.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-26T23:40:01+00:00"
+    },
+    {
+      "id": "9a974c1470",
+      "titolo": "La fragilità dei Blues di Xabi Alonso in questa stagione: Kieran Gill analizza tutti i venti gol subiti in Premier League mentre il nuovo allenatore affronta l'urgente necessità di registrare una difesa colabrodo",
+      "url": "https://www.dailymail.com/sport/football/article-16317465/Xabi-Alonso-brittle-Chelsea-KIERAN-GILL-TWENTY-Premier-League-goals-conceded.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il Chelsea ha subito 20 gol in Premier League in questa stagione. È lo stesso numero di reti segnate, quindi, per quanto si sia applaudito il loro attacco quest'anno, bisogna allo stesso modo analizzare la fase difensiva.",
       "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": 0,
-      "pubblicato": "2026-11-26T21:06:35+00:00",
-      "squadra": "Hearts"
+      "pubblicato": "2026-11-26T22:33:41+00:00"
     },
     {
       "id": "bd7b1a1c9d",
@@ -491,18 +603,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-11-26T18:45:30+00:00"
-    },
-    {
-      "id": "b3e4469c76",
-      "titolo": "Conference League, ko a sorpresa del Getafe. Poker di Ajax e Brighton",
-      "url": "https://www.corrieredellosport.it/news/calcio/conference-league/2026/11/26-152855053/conference_league_la_vittoria_del_kairat_almaty_apre_la_quarta_giornata_primo_stop_per_il_mjllby/",
-      "estratto": "Terzo ko di fila per gli spagnoli, mentre continua a vincere il Monaco. Vincono il Braga e il Friburgo",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-26T17:36:29+00:00",
-      "squadra": "Getafe"
     },
     {
       "id": "938dffa9a0",
@@ -548,18 +648,6 @@
       "citazione": false,
       "punteggio": 0,
       "pubblicato": "2026-11-26T13:34:11+00:00"
-    },
-    {
-      "id": "36a9098aff",
-      "titolo": "È corsa a prenotare Camarda, ma il Torino ha l’Abate giusto!",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/26-152846331/corsa_a_prenotare_camarda_ma_il_torino_ha_labate_giusto_/",
-      "estratto": "Ignazio lo lanciò in Primavera a 15 anni: \"Mi conquistò in una settimana\". Hanno un rapporto splendido: \"È predestinato, diventerà un campione\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": 0,
-      "pubblicato": "2026-11-26T10:21:08+00:00",
-      "squadra": "Torino"
     },
     {
       "id": "21a47933a1",
@@ -661,6 +749,18 @@
       "pubblicato": "2026-11-24T23:17:06+00:00"
     },
     {
+      "id": "5511297c6a",
+      "titolo": "Le fortune stagionali dell'Aston Villa potrebbero dipendere da quanto rapidamente Unai Emery deciderà la sua formazione ideale e la tattica, visto che la sostituzione di John McGinn si rivela un boomerang nella sconfitta contro il Galatasaray, scrive TOM COLLOMOSSE",
+      "url": "https://www.dailymail.com/sport/football/article-16317789/Aston-Villas-fortunes-season-depend-quickly-Unai-Emery-make-mind-best-XI-tactics-substituting-John-McGinn-against-Galatasaray-backfired-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "TOM COLLOMOSSE AL RAMS PARK: L'Aston Villa ha vissuto un ritorno infelice a Istanbul sprecando una splendida occasione per mettere un piede negli ottavi di finale di Champions League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": 0,
+      "pubblicato": "2026-11-24T21:26:46+00:00",
+      "squadra": "Aston Villa"
+    },
+    {
       "id": "401090d4df",
       "titolo": "'I momenti non bastano': Dentro le difficoltà di Ethan Nwaneri in prestito al Borussia Dortmund in vista del suo ritorno all'Emirates stasera - mentre l'Arsenal affronta il dilemma di un giovane di talento in piena crisi di fiducia",
       "url": "https://www.dailymail.com/sport/football/article-16315763/ethan-nwaneri-borussia-dortmund-arsenal-loan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -717,6 +817,18 @@
       "pubblicato": "2026-11-24T07:41:50+00:00"
     },
     {
+      "id": "048bb82388",
+      "titolo": "Del Piero senza filtri: \"Ecco cosa mi aspetto da Ekhator e dai suoi compagni alla Juve\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152860595/del_piero_senza_filtri_ecco_cosa_mi_aspetto_da_ekhator_e_dai_suoi_compagni_alla_juve/",
+      "estratto": "La leggenda bianconera spiega la scelta dell'attaccante con un parallelismo legato ai suoi tempi: \"Dipende da come ti trattano...\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -10,
+      "pubblicato": "2026-11-26T19:54:24+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "9c5cee4a5c",
       "titolo": "Chivu dopo Inter-Stoccarda: \"Oggi la mentalità c'è stata, non a caso abbiamo vinto\"",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152841948/chivu_dopo_inter-stoccarda_oggi_la_mentalit_c_stata_non_a_caso_abbiamo_vinto/",
@@ -741,6 +853,42 @@
       "squadra": "AS Roma"
     },
     {
+      "id": "bbcf6f579a",
+      "titolo": "Bayern, l'ex CEO Kahn: \"Musiala danneggiato. Forse si voleva fare pressione sugli agenti\"",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/bayern-ceo-kahn-musiala-danneggiato-voleva-pressione-agenti-2298011",
+      "estratto": "Il Bayern Monaco ha danneggiato Jamal Musiala con le sue dichiarazioni pubbliche? Oliver Kahn, ex CEO del club bavarese, si è espresso a chiare lettere e dettagliatamente sul caso del trequartista tedesco, elogiando il ruolo di Joshua Kimmich come ca",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -40,
+      "pubblicato": "2026-11-26T23:26:00+00:00",
+      "squadra": "Bayern"
+    },
+    {
+      "id": "ac1212a9e8",
+      "titolo": "Uragano Milan, in un quarto d'ora ribalta l'Olympiacos. E i playoff si avvicinano",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/uragano-milan-ribalta-olympiacos-playoff-avvicinano-2298013",
+      "estratto": "Il Milan torna in corsa per qualificarsi ai playoff di Europa League.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -50,
+      "pubblicato": "2026-11-26T23:49:45+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "4f5592a2b0",
+      "titolo": "Una pazza Atalanta rimonta a Banja Luka: da 0-2 a 3-2 in otto minuti, battuto il Borac",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/pazza-atalanta-rimonta-banja-luka-0-2-3-2-minuti-battuto-borac-2298018",
+      "estratto": "Succede veramente di tutto a Banja Luka.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -50,
+      "pubblicato": "2026-11-26T23:45:00+00:00",
+      "squadra": "Atalanta"
+    },
+    {
       "id": "e9e5b398f7",
       "titolo": "I tifosi del Liverpool tornano a divertirsi mentre si avvicina la qualificazione in Champions League dopo la vittoria sul Club Brugge... ora tocca ad Andoni Iraola rendere perfetta la settimana contro l'Everton, scrive LEWIS STEELE",
       "url": "https://www.dailymail.com/sport/football/article-16320957/Liverpool-fans-enjoying-watching-team-close-Champions-League-qualification-Club-Brugge-victory-time-Andoni-Iraola-make-perfect-week-Everton-writes-LEWIS-STEELE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -753,27 +901,15 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "174b8cca7f",
-      "titolo": "Joshua Kimmich demolisce il Bayern Monaco per la gestione di Jamal Musiala: 'Una cosa assolutamente inaccettabile'",
-      "url": "https://www.espn.com/soccer/story/_/id/50602935/bayern-munich-jamal-musiala-health-issues-kimmich",
-      "estratto": "Il centrocampista del Bayern Monaco Joshua Kimmich ha lanciato un attacco durissimo contro la gestione del club, definita \"poco in stile Bayern\", nei confronti del suo compagno di squadra Jamal Musiala, affetto da una patologia che provoca crisi epil",
+      "id": "0b562ac4d5",
+      "titolo": "Rumor di mercato e notizie: il Barcellona è tra i club che mettono nel mirino Ayden Heaven del Manchester United",
+      "url": "https://www.espn.com/soccer/story/_/id/50602698/transfer-rumors-news-manchester-united-barcelona-heaven",
+      "estratto": "Il Barcellona è interessato a ingaggiare in prestito il difensore del Manchester United Ayden Heaven. Le ultime notizie dal calciomercato.",
       "fonte": "ESPN",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -80,
-      "pubblicato": "2026-11-26T16:21:13+00:00",
-      "squadra": "Bayern"
-    },
-    {
-      "id": "b89d2bd3d3",
-      "titolo": "Cesc Fàbregas sminuisce le voci sul Barcellona e giura fedeltà immediata al Como",
-      "url": "https://www.espn.com/soccer/story/_/id/50603870/cesc-fabregas-barcelona-como-hansi-flick",
-      "estratto": "Cesc Fàbregas ha giurato fedeltà immediata al Como a seguito delle speculazioni secondo cui un giorno potrebbe succedere a Hansi Flick sulla panchina del Barcellona.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -80,
-      "pubblicato": "2026-11-26T13:07:29+00:00",
+      "pubblicato": "2026-11-26T18:35:42+00:00",
       "squadra": "Barcelona"
     },
     {
@@ -787,30 +923,6 @@
       "punteggio": -80,
       "pubblicato": "2026-11-25T23:01:35+00:00",
       "squadra": "Sporting"
-    },
-    {
-      "id": "03994f2af0",
-      "titolo": "Juventus, Conceicao: \"Avevo tanta voglia di tornare a giocare, stare fuori è dura\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-2297986",
-      "estratto": "Francisco Conceicao, attaccante della Juventus, è stato intervistato da Sky Sport al termine della sfida di Europa League vinta per 4-1 sull'Omonia Nicosia: \"Non ho potuto fare quello che amo da un mese, avevo tanta voglia di tornare e giocare.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-11-26T22:13:12+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "68ffe377f5",
-      "titolo": "Milan, Amorim: \"Ramos sostituito perché aveva dolore. L'esultanza di Moreira? Chiedo scusa\"",
-      "url": "https://www.tuttomercatoweb.com/serie-a/milan-amorim-ramos-sostituito-dolore-esultanza-moreira-chiedo-scusa-2297975",
-      "estratto": "Ruben Amorim, tecnico del Milan, è intervenuto in conferenza stampa per commentare il successo dei rossoneri sul campo dell'Olympiacos: La leggenda dice: nel calciomercato dello scorso agosto che sia stato Amorim a volere assolutamente Hutchinson....",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -130,
-      "pubblicato": "2026-11-26T21:48:55+00:00",
-      "squadra": "Milan"
     },
     {
       "id": "472984e06f",
@@ -849,40 +961,52 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "d341a9a7d7",
-      "titolo": "Atalanta, rimonta folle in sette minuti: Zappacosta stende il Borac al 93'",
-      "url": "https://www.corrieredellosport.it/news/calcio/conference-league/2026/11/26-152855658/atalanta_rimonta_folle_in_sette_minuti_zappacosta_stende_il_borac_al_93/",
-      "estratto": "La Dea va sotto di due gol in Bosnia, spreca tantissime occasioni ma ribalta tutto nel finale grazie a Krstovic, Kolasinac e l'esterno: Sarri si prende i tre punti",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -170,
-      "pubblicato": "2026-11-26T22:04:17+00:00",
-      "squadra": "Atalanta"
-    },
-    {
-      "id": "4d456ad548",
-      "titolo": "Europa League, la classifica dopo 5 giornate: Juve seconda e imbattuta, Milan in zona playoff",
-      "url": "https://www.tuttomercatoweb.com/serie-a/europa-league-classifica-5-giornate-juve-seconda-imbattuta-milan-zona-playoff-2297985",
-      "estratto": "Due vittorie per le italiane nella quinta giornata di Europa League.",
+      "id": "e9b3f3a5c1",
+      "titolo": "Europa e Conference League all'italiana: Juve seconda, Milan e Atalanta in zona playoff",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/europa-conference-league-italiana-juve-seconda-milan-atalanta-zona-playoff-2298017",
+      "estratto": "Tre vittorie, tutte in rimonta, per le italiane impegnate in Europa e Conference League.",
       "fonte": "TMW",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-11-26T22:00:29+00:00",
+      "pubblicato": "2026-11-26T23:56:01+00:00",
       "squadra": "Europa"
     },
     {
-      "id": "4b25ccc62e",
-      "titolo": "Un ottimo Napoli si fa rimontare due volte dal Manchester City: Hojlund e Lang regalano un pari d'oro ad Allegri",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152814784/un_ottimo_napoli_si_fa_rimontare_due_volte_dal_manchester_city_hojlund_e_lang_regalano_un_pari_d_oro_ad_allegri/",
-      "estratto": "Gli azzurri colpiscono in contropiede e sfiorano il colpaccio in casa degli inglesi, ripresi nel finale da una rete di Cherki",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
+      "id": "b67a6e560a",
+      "titolo": "Il Napoli cerca (anche) un portiere sul mercato: l'ultima idea è il brasiliano Morisco",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/napoli-cerca-anche-portiere-mercato-ultima-idea-brasiliano-morisco-2297894",
+      "estratto": "Il calciomercato di gennaio si avvicina e tra le squadre di Serie A che vengono pronosticate come più attive rispetto ad altre trova un posto anche il Napoli.",
+      "fonte": "TMW",
+      "serie": "Serie A",
       "citazione": false,
       "punteggio": -170,
-      "pubblicato": "2026-11-24T21:56:45+00:00",
+      "pubblicato": "2026-11-26T23:36:00+00:00",
       "squadra": "Napoli"
+    },
+    {
+      "id": "a2b48940d7",
+      "titolo": "Sport e diabete: il secondo incontro firmato Fondazione Lazio",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/26-152850842/sport_e_diabete_il_secondo_incontro_firmato_fondazione_lazio/",
+      "estratto": "Si terrà oggi alle 18 il secondo seminario del ciclo ‘Diabete in Libertà – Sport e Diabete’, fortemente voluto dalla Fondazione Lazio ETS",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -170,
+      "pubblicato": "2026-11-26T12:10:38+00:00",
+      "squadra": "Lazio"
+    },
+    {
+      "id": "36a9098aff",
+      "titolo": "È corsa a prenotare Camarda, ma il Torino ha l’Abate giusto!",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/26-152846331/corsa_a_prenotare_camarda_ma_il_torino_ha_labate_giusto_/",
+      "estratto": "Ignazio lo lanciò in Primavera a 15 anni: \"Mi conquistò in una settimana\". Hanno un rapporto splendido: \"È predestinato, diventerà un campione\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -200,
+      "pubblicato": "2026-11-26T10:21:08+00:00",
+      "squadra": "Torino"
     },
     {
       "id": "d5d06decbf",
@@ -909,28 +1033,16 @@
       "squadra": "Newcastle"
     },
     {
-      "id": "5511297c6a",
-      "titolo": "Le fortune stagionali dell'Aston Villa potrebbero dipendere da quanto rapidamente Unai Emery deciderà la sua formazione ideale e la tattica, visto che la sostituzione di John McGinn si rivela un boomerang nella sconfitta contro il Galatasaray, scrive TOM COLLOMOSSE",
-      "url": "https://www.dailymail.com/sport/football/article-16317789/Aston-Villas-fortunes-season-depend-quickly-Unai-Emery-make-mind-best-XI-tactics-substituting-John-McGinn-against-Galatasaray-backfired-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "TOM COLLOMOSSE AL RAMS PARK: L'Aston Villa ha vissuto un ritorno infelice a Istanbul sprecando una splendida occasione per mettere un piede negli ottavi di finale di Champions League.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-11-24T21:26:46+00:00",
-      "squadra": "Aston Villa"
-    },
-    {
-      "id": "9677b0788e",
-      "titolo": "Jude Bellingham e il Real Madrid in trattative avanzate per un nuovo quinquennale: la superstar inglese pronta a diventare uno dei calciatori PIÙ PAGATI d'Europa, al pari del compagno Vinicius Jr da 500.000 sterline a settimana",
-      "url": "https://www.dailymail.com/sport/football/article-16316407/Jude-Bellingham-Real-Madrid-advanced-talks-new-five-year-deal-England-superstar-set-one-Europes-HIGHEST-earners-par-500-000-week-team-mate-Vinicius-Junior.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "SIMON JONES: Jude Bellingham e il Real Madrid stanno portando avanti i colloqui per un nuovo contratto che lo renderà uno dei giocatori più pagati d'Europa.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -200,
-      "pubblicato": "2026-11-23T23:40:48+00:00",
-      "squadra": "Real Madrid"
+      "id": "367657c5ed",
+      "titolo": "\"Con la Juve grandi 50 minuti, ora giochiamoli tutti e 90\": Nicola carica il Venezia",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/11/26-152852326/con_la_juve_grandi_50_minuti_ora_giochiamoli_tutti_e_90_nicola_carica_il_venezia/",
+      "estratto": "Il tecnico dei lagunari ha presentato in conferenza stampa la sfida di campionato contro il Bologna",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -210,
+      "pubblicato": "2026-11-26T15:44:15+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "e537796a89",
@@ -957,6 +1069,42 @@
       "squadra": "Inter Milan"
     },
     {
+      "id": "8f8ad7efb1",
+      "titolo": "Caso Musiala, Kimmich attacca il club: \"Questo non è lo stile Bayern\"",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/bayern-monaco/2026/11/26-152847626/caso_musiala_kimmich_attacca_il_club_questo_non_lo_stile_bayern/",
+      "estratto": "Le dichiarazioni rilasciate dal centrocampista tedesco dopo il comunicato del club bavarese sull'incontro con l'entourage del classe 2003",
+      "fonte": "Corriere dello Sport",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -240,
+      "pubblicato": "2026-11-26T09:50:20+00:00",
+      "squadra": "Bayern"
+    },
+    {
+      "id": "2c7737a6ef",
+      "titolo": "Atalanta, clamorosa rimonta in Bosnia: sotto 2-0 all'85', poi Krstovic, Kolasinac e Zappacosta",
+      "url": "https://www.tuttosport.com/news/calcio/conference-league/2026/11/26-152869605/atalanta_clamorosa_rimonta_in_bosnia_sotto_2-0_all_85_poi_krstovic_kolasinac_e_zappacosta/",
+      "estratto": "La Dea di Maurizio Sarri si impone 3-2 contro il Borac Banja Luka in un finale al cardiopalmo, con i padroni di casa che chiudono in 9: tutti i risultati di Conference League",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -250,
+      "pubblicato": "2026-11-26T22:29:03+00:00",
+      "squadra": "Atalanta"
+    },
+    {
+      "id": "0fc02a5187",
+      "titolo": "Christian Pulisic entra dalla panchina e accende la vittoria del Milan contro l'Olympiacos",
+      "url": "https://www.espn.com/soccer/story/_/id/50605706/christian-pulisic-ac-milan-olympiacos-europa-league-goal",
+      "estratto": "Christian Pulisic ha vissuto un Thanksgiving da ricordare, con la stella degli Stati Uniti subentrata dalla panchina per contribuire a scatenare la rimonta vincente del Milan in casa dell'Olympiacos.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -250,
+      "pubblicato": "2026-11-26T21:31:17+00:00",
+      "squadra": "Milan"
+    },
+    {
       "id": "597fd10571",
       "titolo": "Il capitano del Liverpool Virgil Van Dijk elogia lo 'straordinario attaccante' Alexander Isak",
       "url": "https://www.espn.com/soccer/story/_/id/50605027/liverpool-virgil-van-dijk-alexander-isak",
@@ -969,40 +1117,16 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "26b5770f22",
-      "titolo": "Joshua Kimmich attacca il Bayern Monaco per il trattamento 'inaccettabile' di Jamal Musiala: il capitano sbotta contro i dirigenti dopo aver pubblicamente sminuito il giovane in seguito alla sua diagnosi medica",
-      "url": "https://www.dailymail.com/sport/football/article-16323555/Joshua-Kimmich-Jamal-Musiala-Bayern-Munich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Joshua Kimmich ha duramente criticato il suo stesso club, il Bayern Monaco, per aver sminuito in modo 'incomprensibile' e 'inaccettabile' la continua battaglia di Jamal Musiala contro la malattia.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -280,
-      "pubblicato": "2026-11-26T11:39:55+00:00",
-      "squadra": "Bayern"
-    },
-    {
-      "id": "8a06a3f043",
-      "titolo": "Goleada Barcellona, crollo Bayern. Vincono Liverpool e Atletico, Bruno Fernandes illude lo United",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/25-152836107/goleada_barcellona_crollo_bayern_vincono_liverpool_e_atletico_bruno_fernandes_illude_lo_united/",
-      "estratto": "Poker dei blaugrana sul campo del Sabah nel quinto turno della fase campionato. Successi per Reds e Colchoneros, 2-2 dei Red Devils in casa dello Sporting Lisbona",
-      "fonte": "Tuttosport",
+      "id": "b89d2bd3d3",
+      "titolo": "Cesc Fàbregas sminuisce le voci sul Barcellona e giura fedeltà immediata al Como",
+      "url": "https://www.espn.com/soccer/story/_/id/50603870/cesc-fabregas-barcelona-como-hansi-flick",
+      "estratto": "Cesc Fàbregas ha giurato fedeltà immediata al Como a seguito delle speculazioni secondo cui un giorno potrebbe succedere a Hansi Flick sulla panchina del Barcellona.",
+      "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -280,
-      "pubblicato": "2026-11-25T22:06:00+00:00",
+      "pubblicato": "2026-11-26T13:07:29+00:00",
       "squadra": "Barcelona"
-    },
-    {
-      "id": "048bb82388",
-      "titolo": "Del Piero senza filtri: \"Ecco cosa mi aspetto da Ekhator e dai suoi compagni alla Juve\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152860595/del_piero_senza_filtri_ecco_cosa_mi_aspetto_da_ekhator_e_dai_suoi_compagni_alla_juve/",
-      "estratto": "La leggenda bianconera spiega la scelta dell'attaccante con un parallelismo legato ai suoi tempi: \"Dipende da come ti trattano...\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -330,
-      "pubblicato": "2026-11-26T19:54:24+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "d91be7943b",
@@ -1029,42 +1153,6 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "439939f60d",
-      "titolo": "Conference League, la classifica aggiornata: Atalanta 14ª, a due punti dagli ottavi",
-      "url": "https://www.tuttomercatoweb.com/serie-a/conference-league-classifica-aggiornata-atalanta-14a-punti-ottavi-2297987",
-      "estratto": "La clamorosa rimonta sul campo del Borac Banja Luka permette all’Atalanta di rilanciarsi in Conference League.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-11-26T22:03:35+00:00",
-      "squadra": "Atalanta"
-    },
-    {
-      "id": "6edcacaf1d",
-      "titolo": "L'Europa League sorride all'Italia: 4-1 all'Omonia, alla Juve basta lo sforzo minimo per trionfare",
-      "url": "https://www.tuttomercatoweb.com/serie-a/europa-league-sorride-italia-4-1-omonia-juve-sforzo-minimo-trionfare-2297982",
-      "estratto": "La Juventus fa sua la sfida contro l'Omonia Nicosia, battuto 4-1 dopo un inizio molto difficoltoso e mezz'ora di preoccupante abulia.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-11-26T21:54:55+00:00",
-      "squadra": "Europa"
-    },
-    {
-      "id": "0fc02a5187",
-      "titolo": "Christian Pulisic entra dalla panchina e accende la vittoria del Milan contro l'Olympiacos",
-      "url": "https://www.espn.com/soccer/story/_/id/50605706/christian-pulisic-ac-milan-olympiacos-europa-league-goal",
-      "estratto": "Christian Pulisic ha vissuto un Thanksgiving da ricordare, con la stella degli Stati Uniti subentrata dalla panchina per contribuire a scatenare la rimonta vincente del Milan in casa dell'Olympiacos.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -370,
-      "pubblicato": "2026-11-26T21:31:17+00:00",
-      "squadra": "Milan"
-    },
-    {
       "id": "20df730b6c",
       "titolo": "Serie A, gli arbitri della 13a giornata: c'è Mariani per Como-Juve, Roma-Monza a Collu",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/11/26-152850034/serie_a_gli_arbitri_della_13a_giornata_c_mariani_per_como-juve_roma-monza_a_collu/",
@@ -1089,6 +1177,30 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "4b25ccc62e",
+      "titolo": "Un ottimo Napoli si fa rimontare due volte dal Manchester City: Hojlund e Lang regalano un pari d'oro ad Allegri",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152814784/un_ottimo_napoli_si_fa_rimontare_due_volte_dal_manchester_city_hojlund_e_lang_regalano_un_pari_d_oro_ad_allegri/",
+      "estratto": "Gli azzurri colpiscono in contropiede e sfiorano il colpaccio in casa degli inglesi, ripresi nel finale da una rete di Cherki",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -370,
+      "pubblicato": "2026-11-24T21:56:45+00:00",
+      "squadra": "Napoli"
+    },
+    {
+      "id": "5f885fe497",
+      "titolo": "Europa Fight League! Scontri tra gli hooligan del Marsiglia e del Levski Sofia dopo un 'saluto nazista', mentre la partita del Beşiktaş viene SOSPESA per propaganda pro-Palestina... e i tifosi ospiti si infiltrano a Sunderland",
+      "url": "https://www.dailymail.com/sport/football/article-16325217/marseille-levski-sofia-besiktas-sunderland-europe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "I tifosi del Marsiglia e del Levski Sofia si sono scontrati violentemente durante la loro partita di Europa League, con gli hooligan di casa che hanno fatto irruzione nel settore ospiti dopo essere stati provocati da un saluto nazista.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -400,
+      "pubblicato": "2026-11-27T00:16:50+00:00",
+      "squadra": "Europa"
+    },
+    {
       "id": "cb75a732a0",
       "titolo": "I proprietari del Newcastle non valutano la cessione totale, solo quote di minoranza – indiscrezioni",
       "url": "https://www.espn.com/soccer/story/_/id/50593252/newcastle-united-saudi-owners",
@@ -1099,6 +1211,18 @@
       "punteggio": -400,
       "pubblicato": "2026-11-25T15:03:51+00:00",
       "squadra": "Newcastle"
+    },
+    {
+      "id": "94cf86b16e",
+      "titolo": "\"Del Piero come Mick Jagger\": la super Juve di Tokyo 1996 raccontata da Montero, Torricelli, Di Livio, Ferrara e Porrini",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152845811/del_piero_come_mick_jagger_la_super_juve_di_tokyo_1996_raccontata_da_montero_torricelli_di_livio_ferrara_e_porrini/",
+      "estratto": "26 novembre 1996: aneddoti e retroscena tra il gol decisivo di Alex, la gioia di tutti i bianconeri per la vittoria contro il River e la conquista della Coppa Intercontinentale",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -410,
+      "pubblicato": "2026-11-26T11:40:00+00:00",
+      "squadra": "Juventus"
     },
     {
       "id": "edc27cad83",
@@ -1125,6 +1249,42 @@
       "squadra": "Inter Milan"
     },
     {
+      "id": "d341a9a7d7",
+      "titolo": "Atalanta, rimonta folle in sette minuti: Zappacosta stende il Borac al 93'",
+      "url": "https://www.corrieredellosport.it/news/calcio/conference-league/2026/11/26-152855658/atalanta_rimonta_folle_in_sette_minuti_zappacosta_stende_il_borac_al_93/",
+      "estratto": "La Dea va sotto di due gol in Bosnia, spreca tantissime occasioni ma ribalta tutto nel finale grazie a Krstovic, Kolasinac e l'esterno: Sarri si prende i tre punti",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -450,
+      "pubblicato": "2026-11-26T22:04:17+00:00",
+      "squadra": "Atalanta"
+    },
+    {
+      "id": "cb02a7368e",
+      "titolo": "Il Milan rimonta e vince in casa dell'Olympiacos per dare una svolta alla propria campagna di Europa League",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915521",
+      "estratto": "Il Milan ha realizzato una rimonta nel secondo tempo, recuperando da uno svantaggio di 2-0 e battendo l'Olympiacos 4-2 al Pireo, dando così una svolta alla propria campagna di Europa League.",
+      "fonte": "ESPN",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -450,
+      "pubblicato": "2026-11-26T20:13:36+00:00",
+      "squadra": "Milan"
+    },
+    {
+      "id": "174b8cca7f",
+      "titolo": "Joshua Kimmich demolisce il Bayern Monaco per la gestione di Jamal Musiala: 'Una cosa assolutamente inaccettabile'",
+      "url": "https://www.espn.com/soccer/story/_/id/50602935/bayern-munich-jamal-musiala-health-issues-kimmich",
+      "estratto": "Il centrocampista del Bayern Monaco Joshua Kimmich ha lanciato un attacco durissimo contro la gestione del club, definita \"poco in stile Bayern\", nei confronti del suo compagno di squadra Jamal Musiala, affetto da una patologia che provoca crisi epil",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -480,
+      "pubblicato": "2026-11-26T16:21:13+00:00",
+      "squadra": "Bayern"
+    },
+    {
       "id": "0266a0cd29",
       "titolo": "Una commissione della FA evidenzia un 'errore chiaro ed evidente' nel cartellino rosso a Leny Yoro contro il Liverpool",
       "url": "https://www.espn.com/soccer/story/_/id/50604016/leny-yoro-manchester-united-red-card",
@@ -1137,40 +1297,16 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "5e65743f2b",
-      "titolo": "Il Bayern decimato dagli infortuni sconfitto dal Lille subisce la 1ª sconfitta in UCL",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915377",
-      "estratto": "Le speranze del Bayern Monaco di assicurarsi un posto tra le prime otto in Champions League sono appese a un filo dopo aver sprecato un vantaggio iniziale perdendo 2-1 a Lille.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -480,
-      "pubblicato": "2026-11-25T22:27:29+00:00",
-      "squadra": "Bayern"
-    },
-    {
-      "id": "028565f636",
-      "titolo": "Anthony Gordon si gode di nuovo una Baku 'molto speciale' e guida la goleada del Barcellona",
-      "url": "https://www.espn.com/soccer/story/_/id/50597280/anthony-gordon-barcelona-baku-sabah-fk-champions-league",
-      "estratto": "Baku ha tirato fuori ancora una volta il meglio da Anthony Gordon, con l'attaccante inglese autore di una doppietta nella vittoria per 4-1 del Barcellona in Champions League contro il Sabah.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -480,
-      "pubblicato": "2026-11-25T21:38:56+00:00",
-      "squadra": "Barcelona"
-    },
-    {
-      "id": "367657c5ed",
-      "titolo": "\"Con la Juve grandi 50 minuti, ora giochiamoli tutti e 90\": Nicola carica il Venezia",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/11/26-152852326/con_la_juve_grandi_50_minuti_ora_giochiamoli_tutti_e_90_nicola_carica_il_venezia/",
-      "estratto": "Il tecnico dei lagunari ha presentato in conferenza stampa la sfida di campionato contro il Bologna",
+      "id": "8a06a3f043",
+      "titolo": "Goleada Barcellona, crollo Bayern. Vincono Liverpool e Atletico, Bruno Fernandes illude lo United",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/25-152836107/goleada_barcellona_crollo_bayern_vincono_liverpool_e_atletico_bruno_fernandes_illude_lo_united/",
+      "estratto": "Poker dei blaugrana sul campo del Sabah nel quinto turno della fase campionato. Successi per Reds e Colchoneros, 2-2 dei Red Devils in casa dello Sporting Lisbona",
       "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -530,
-      "pubblicato": "2026-11-26T15:44:15+00:00",
-      "squadra": "Juventus"
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -480,
+      "pubblicato": "2026-11-25T22:06:00+00:00",
+      "squadra": "Barcelona"
     },
     {
       "id": "b7f0533180",
@@ -1183,30 +1319,6 @@
       "punteggio": -540,
       "pubblicato": "2026-11-25T07:32:51+00:00",
       "squadra": "Man City"
-    },
-    {
-      "id": "479850c083",
-      "titolo": "Ancora una rimonta: l'Atalanta vince 3-2 a Banja Luka, ma quanti gol sbagliati dalla Dea",
-      "url": "https://www.tuttomercatoweb.com/serie-a/rimonta-atalanta-vince-3-2-banja-luka-gol-sbagliati-dea-2297984",
-      "estratto": "Dire che a Banja Luka sia successo di tutto è riduttivo.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-11-26T21:59:00+00:00",
-      "squadra": "Atalanta"
-    },
-    {
-      "id": "cb02a7368e",
-      "titolo": "Il Milan rimonta e vince in casa dell'Olympiacos per dare una svolta alla propria campagna di Europa League",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915521",
-      "estratto": "Il Milan ha realizzato una rimonta nel secondo tempo, recuperando da uno svantaggio di 2-0 e battendo l'Olympiacos 4-2 al Pireo, dando così una svolta alla propria campagna di Europa League.",
-      "fonte": "ESPN",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -570,
-      "pubblicato": "2026-11-26T20:13:36+00:00",
-      "squadra": "Milan"
     },
     {
       "id": "63fec1a5e8",
@@ -1245,28 +1357,40 @@
       "squadra": "Arsenal"
     },
     {
-      "id": "5f885fe497",
-      "titolo": "Europa Fight League! Scontri tra gli hooligan del Marsiglia e del Levski Sofia dopo un 'saluto nazista', mentre la partita del Beşiktaş viene SOSPESA per propaganda pro-Palestina... e i tifosi ospiti si infiltrano a Sunderland",
-      "url": "https://www.dailymail.com/sport/football/article-16325217/marseille-levski-sofia-besiktas-sunderland-europe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "I tifosi del Marsiglia e del Levski Sofia si sono scontrati violentemente durante la loro partita di Europa League, con gli hooligan di casa che hanno fatto irruzione nel settore ospiti dopo essere stati provocati da un saluto nazista.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -600,
-      "pubblicato": "2026-11-26T22:14:51+00:00",
-      "squadra": "Europa"
+      "id": "92c5e13741",
+      "titolo": "\"Juve, attenta a quei due: Ewandro e Andreou sono fortissimi e l'Omonia è la migliore di tutta Cipro\"",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152845604/juve_attenta_a_quei_due_ewandro_e_andreou_sono_fortissimi_e_l_omonia_la_migliore_di_tutta_cipro/",
+      "estratto": "Savva, ex Torino, ora gioca nell’Olympiakos e conosce bene l’altra squadra di Nicosia: \"Ha giocatori di qualità e molto veloci, penso che possa mettere in difficoltà i bianconeri\"",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": true,
+      "punteggio": -610,
+      "pubblicato": "2026-11-26T09:21:11+00:00",
+      "squadra": "Juventus"
     },
     {
-      "id": "c3b52e4928",
-      "titolo": "Inter, un anno di carcere per Martinez: patteggiamento e sospensione della pena",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/26-152853313/inter_un_anno_di_carcere_per_martinez_patteggiamento_e_sospensione_della_pena/",
-      "estratto": "Indagato per omicidio stradale, il portiere nerazzurro era stato protagonista di un incidente mortale vicino la Pinetina",
-      "fonte": "Tuttosport",
+      "id": "ddcc2be467",
+      "titolo": "Inter, Carlos Augusto avanti fino al 2031. Svolta giudiziaria per il caso Josep Martinez",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/inter-carlos-augusto-2031-svolta-giudiziaria-josep-martinez-2298014",
+      "estratto": "\"Lo aspettavo da tanto\".",
+      "fonte": "TMW",
       "serie": "Serie A",
       "citazione": false,
       "punteggio": -650,
-      "pubblicato": "2026-11-26T16:11:33+00:00",
+      "pubblicato": "2026-11-26T23:42:00+00:00",
       "squadra": "Inter Milan"
+    },
+    {
+      "id": "57419a7aea",
+      "titolo": "Hutchinson show e rimonta Milan: Amorim vince 4-2 sul campo dell'Olympiakos",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152855453/hutchinson_show_e_rimonta_milan_amorim_vince_4-2_sul_campo_dell_olympiakos/",
+      "estratto": "I rossoneri calano il poker ad Atene nella 5ª giornata dell'Europa League: un gol e due assist per l'inglese, a segno anche Cisse, Pulisic e Moreira",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -650,
+      "pubblicato": "2026-11-26T19:48:56+00:00",
+      "squadra": "Milan"
     },
     {
       "id": "a87dfda297",
@@ -1293,40 +1417,28 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "c1322f91e1",
-      "titolo": "Bayern Monaco, il caos intorno a Jamal Musiala mostra i campioni di Germania nella loro luce peggiore",
-      "url": "https://www.espn.com/soccer/story/_/id/50595091/bayern-munich-jamal-musiala-fainting-injuries",
-      "estratto": "Il polverone sollevato dall'atteggiamento insensibile del Bayern Monaco riguardo ai problemi di salute di Jamal Musiala ha mostrato un lato sgradevole del club nella gestione dei propri giocatori.",
-      "fonte": "ESPN",
+      "id": "26b5770f22",
+      "titolo": "Joshua Kimmich attacca il Bayern Monaco per il trattamento 'inaccettabile' di Jamal Musiala: il capitano sbotta contro i dirigenti dopo aver pubblicamente sminuito il giovane in seguito alla sua diagnosi medica",
+      "url": "https://www.dailymail.com/sport/football/article-16323555/Joshua-Kimmich-Jamal-Musiala-Bayern-Munich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Joshua Kimmich ha duramente criticato il suo stesso club, il Bayern Monaco, per aver sminuito in modo 'incomprensibile' e 'inaccettabile' la continua battaglia di Jamal Musiala contro la malattia.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
       "citazione": false,
       "punteggio": -680,
-      "pubblicato": "2026-11-25T22:15:22+00:00",
+      "pubblicato": "2026-11-26T11:39:55+00:00",
       "squadra": "Bayern"
     },
     {
-      "id": "0f53032e39",
-      "titolo": "Gordon segna due volte e il Barcellona passeggia in Azerbaigian",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915378",
-      "estratto": "Anthony Gordon ha colpito due volte mentre il Barcellona travolgeva la squadra azera del Sabah FK con un 4-1 a Baku mercoledì.",
+      "id": "028565f636",
+      "titolo": "Anthony Gordon si gode di nuovo una Baku 'molto speciale' e guida la goleada del Barcellona",
+      "url": "https://www.espn.com/soccer/story/_/id/50597280/anthony-gordon-barcelona-baku-sabah-fk-champions-league",
+      "estratto": "Baku ha tirato fuori ancora una volta il meglio da Anthony Gordon, con l'attaccante inglese autore di una doppietta nella vittoria per 4-1 del Barcellona in Champions League contro il Sabah.",
       "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -680,
-      "pubblicato": "2026-11-25T20:19:56+00:00",
+      "pubblicato": "2026-11-25T21:38:56+00:00",
       "squadra": "Barcelona"
-    },
-    {
-      "id": "94cf86b16e",
-      "titolo": "\"Del Piero come Mick Jagger\": la super Juve di Tokyo 1996 raccontata da Montero, Torricelli, Di Livio, Ferrara e Porrini",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152845811/del_piero_come_mick_jagger_la_super_juve_di_tokyo_1996_raccontata_da_montero_torricelli_di_livio_ferrara_e_porrini/",
-      "estratto": "26 novembre 1996: aneddoti e retroscena tra il gol decisivo di Alex, la gioia di tutti i bianconeri per la vittoria contro il River e la conquista della Coppa Intercontinentale",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -730,
-      "pubblicato": "2026-11-26T11:40:00+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "1d76c3b375",
@@ -1339,30 +1451,6 @@
       "punteggio": -760,
       "pubblicato": "2026-11-24T22:20:23+00:00",
       "squadra": "Man City"
-    },
-    {
-      "id": "21ad91c5c0",
-      "titolo": "Che partita a Banja Luka! L'Atalanta la ribalta con Zappacosta. Palla all'angolino e 2-3",
-      "url": "https://www.tuttomercatoweb.com/serie-a/partita-banja-luka-atalanta-ribalta-zappacosta-palla-angolino-2-3-2297981",
-      "estratto": "Missione compiuta per l'Atalanta.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -770,
-      "pubblicato": "2026-11-26T21:51:33+00:00",
-      "squadra": "Atalanta"
-    },
-    {
-      "id": "57419a7aea",
-      "titolo": "Hutchinson show e rimonta Milan: Amorim vince 4-2 sul campo dell'Olympiakos",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152855453/hutchinson_show_e_rimonta_milan_amorim_vince_4-2_sul_campo_dell_olympiakos/",
-      "estratto": "I rossoneri calano il poker ad Atene nella 5ª giornata dell'Europa League: un gol e due assist per l'inglese, a segno anche Cisse, Pulisic e Moreira",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -770,
-      "pubblicato": "2026-11-26T19:48:56+00:00",
-      "squadra": "Milan"
     },
     {
       "id": "ed728a2985",
@@ -1385,7 +1473,7 @@
       "serie": "Estero",
       "citazione": false,
       "punteggio": -800,
-      "pubblicato": "2026-11-26T21:30:46+00:00",
+      "pubblicato": "2026-11-27T00:48:48+00:00",
       "squadra": "Arsenal"
     },
     {
@@ -1401,6 +1489,42 @@
       "squadra": "Como"
     },
     {
+      "id": "ef0468d63e",
+      "titolo": "Carlos Augusto rinnova, e poi? Calha, Thuram e gli altri: Inter, il punto sui rinnovi",
+      "url": "https://www.tuttomercatoweb.com/serie-a/carlos-augusto-rinnova-poi-calha-thuram-altri-inter-punto-rinnovi-2297843",
+      "estratto": "Il primo rinnovo dell'Inter targata Dario Baccin e Simone Lo Schiavo è quello di Carlos Augusto.",
+      "fonte": "TMW",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -850,
+      "pubblicato": "2026-11-26T23:22:30+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
+      "id": "42774afd46",
+      "titolo": "Poker Juve all'Omonia: la prima di Ekhator, il ritorno di Conceicao e i capolavori di Cambiaso e Boga",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152862176/poker_juve_all_omonia_la_prima_di_ekhator_il_ritorno_di_conceicao_e_i_capolavori_di_cambiaso_e_boga/",
+      "estratto": "I ciprioti passano in vantaggio con Satka, poi i bianconeri dilagano. La squadra di Spalletti si conferma al secondo posto in Europa League",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -850,
+      "pubblicato": "2026-11-26T21:57:51+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "1ca9827f96",
+      "titolo": "Il Milan rimonta l'Olympiacos e cala il poker: Hutchinson-Cisse show, Amorim torna a vincere in Europa",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/11/26-152853718/olympiacos-milan_diretta_europa_league_le_scelte_di_amorim_per_fare_risultato_ad_atene/",
+      "estratto": "I rossoneri portano a casa tre punti fondamentali in rimonta contro i greci, infliggendo alla squadra di Alguacil la prima sconfitta europea",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -850,
+      "pubblicato": "2026-11-26T16:15:53+00:00",
+      "squadra": "Milan"
+    },
+    {
       "id": "0a42c4b69d",
       "titolo": "Luis Enrique elogia la Roma dopo che il pareggio ferma la striscia di vittorie del PSG",
       "url": "https://www.espn.com/soccer/story/_/id/50599458/luis-enrique-praises-roma-draw-halts-psg-winning-streak",
@@ -1413,16 +1537,16 @@
       "squadra": "AS Roma"
     },
     {
-      "id": "7af021fbfa",
-      "titolo": "Marotta tra rinnovi e calciomercato: le parole in diretta prima di Inter-Stoccarda svelano nuove strategie",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152838560/marotta_tra_rinnovi_e_calciomercato_le_parole_in_diretta_prima_di_inter-stoccarda_svelano_nuove_strategie/",
-      "estratto": "Il presidente del club nerazzurro a San Siro ha confermato alcuni rumors pochi minuti prima della partita di Champions League",
-      "fonte": "Corriere dello Sport",
+      "id": "5e65743f2b",
+      "titolo": "Il Bayern decimato dagli infortuni sconfitto dal Lille subisce la 1ª sconfitta in UCL",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915377",
+      "estratto": "Le speranze del Bayern Monaco di assicurarsi un posto tra le prime otto in Champions League sono appese a un filo dopo aver sprecato un vantaggio iniziale perdendo 2-1 a Lille.",
+      "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
-      "punteggio": -850,
-      "pubblicato": "2026-11-25T21:03:16+00:00",
-      "squadra": "Inter Milan"
+      "punteggio": -880,
+      "pubblicato": "2026-11-25T22:27:29+00:00",
+      "squadra": "Bayern"
     },
     {
       "id": "1818c9030c",
@@ -1437,64 +1561,16 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "edf6c4617e",
-      "titolo": "Il Barcellona cala il poker, vincono Liverpool e Atletico. Bayern ko con il Lilla di Davide Ancelotti",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152828798/il_barcellona_cala_il_poker_a_aggancia_il_como_villarreal_corsaro_a_praga/",
-      "estratto": "Il mercoledì della 5ª giornata di Champions League si apre con il netto successo dei catalani e si chiude con la sconfitta dei tedeschi",
-      "fonte": "Corriere dello Sport",
+      "id": "0f53032e39",
+      "titolo": "Gordon segna due volte e il Barcellona passeggia in Azerbaigian",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915378",
+      "estratto": "Anthony Gordon ha colpito due volte mentre il Barcellona travolgeva la squadra azera del Sabah FK con un 4-1 a Baku mercoledì.",
+      "fonte": "ESPN",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -880,
-      "pubblicato": "2026-11-25T19:41:03+00:00",
+      "pubblicato": "2026-11-25T20:19:56+00:00",
       "squadra": "Barcelona"
-    },
-    {
-      "id": "f5710d6779",
-      "titolo": "Bayern Monaco: la salute di Jamal Musiala è la 'priorità assoluta' tra i dubbi sul contratto",
-      "url": "https://www.espn.com/soccer/story/_/id/50592045/jamal-musiala-bayern-munich-health",
-      "estratto": "Il Bayern Monaco fa sapere di aver avuto un \"incontro costruttivo\" con l'entourage di Jamal Musiala e insiste sul fatto che la salute del centrocampista sia la \"priorità assoluta\".",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -880,
-      "pubblicato": "2026-11-25T12:37:22+00:00",
-      "squadra": "Bayern"
-    },
-    {
-      "id": "92c5e13741",
-      "titolo": "\"Juve, attenta a quei due: Ewandro e Andreou sono fortissimi e l'Omonia è la migliore di tutta Cipro\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152845604/juve_attenta_a_quei_due_ewandro_e_andreou_sono_fortissimi_e_l_omonia_la_migliore_di_tutta_cipro/",
-      "estratto": "Savva, ex Torino, ora gioca nell’Olympiakos e conosce bene l’altra squadra di Nicosia: \"Ha giocatori di qualità e molto veloci, penso che possa mettere in difficoltà i bianconeri\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -930,
-      "pubblicato": "2026-11-26T09:21:11+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "2756d1b8eb",
-      "titolo": "Incredibile a Banja Luka, l'Atalanta la riprende! Segna Kolasinac, è 2-2 contro il Borac",
-      "url": "https://www.tuttomercatoweb.com/serie-a/incredibile-banja-luka-atalanta-riprende-segna-kolasinac-2-2-borac-2297979",
-      "estratto": "Incredibile a Banja Luka! L'Atalanta la riprende nel finale con Sead Kolasinac.",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-11-26T21:50:00+00:00",
-      "squadra": "Atalanta"
-    },
-    {
-      "id": "1ca9827f96",
-      "titolo": "Il Milan rimonta l'Olympiacos e cala il poker: Hutchinson-Cisse show, Amorim torna a vincere in Europa",
-      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/11/26-152853718/olympiacos-milan_diretta_europa_league_le_scelte_di_amorim_per_fare_risultato_ad_atene/",
-      "estratto": "I rossoneri portano a casa tre punti fondamentali in rimonta contro i greci, infliggendo alla squadra di Alguacil la prima sconfitta europea",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -970,
-      "pubblicato": "2026-11-26T16:15:53+00:00",
-      "squadra": "Milan"
     },
     {
       "id": "fb99ce9d9c",
@@ -1533,6 +1609,30 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "1df76d6c63",
+      "titolo": "Massara e Giuntoli svelano il loro calciomercato in diretta: cosa vogliono Juve e Atalanta da Ekhator e Scamacca",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/2026/11/26-152861162/massara_e_giuntoli_svelano_il_loro_calciomercato_in_diretta_cosa_vogliono_juve_e_atalanta_da_ekhator_e_scamacca/",
+      "estratto": "Le dichiarazioni dei due dirigenti prima dei rispettivi impegni europei",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1050,
+      "pubblicato": "2026-11-26T19:55:37+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "c3b52e4928",
+      "titolo": "Inter, un anno di carcere per Martinez: patteggiamento e sospensione della pena",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/11/26-152853313/inter_un_anno_di_carcere_per_martinez_patteggiamento_e_sospensione_della_pena/",
+      "estratto": "Indagato per omicidio stradale, il portiere nerazzurro era stato protagonista di un incidente mortale vicino la Pinetina",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1050,
+      "pubblicato": "2026-11-26T16:11:33+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
       "id": "77e8c8f7ad",
       "titolo": "La Roma a testa altissima con i maestri del Psg: a Parigi finisce 2-2, decisivi Malen e Svilar",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152840614/la_roma_a_testa_altissima_con_i_maestri_del_psg_a_parigi_finisce_2-2_decisivi_malen_e_svilar/",
@@ -1543,6 +1643,18 @@
       "punteggio": -1050,
       "pubblicato": "2026-11-25T22:04:36+00:00",
       "squadra": "AS Roma"
+    },
+    {
+      "id": "c1322f91e1",
+      "titolo": "Bayern Monaco, il caos intorno a Jamal Musiala mostra i campioni di Germania nella loro luce peggiore",
+      "url": "https://www.espn.com/soccer/story/_/id/50595091/bayern-munich-jamal-musiala-fainting-injuries",
+      "estratto": "Il polverone sollevato dall'atteggiamento insensibile del Bayern Monaco riguardo ai problemi di salute di Jamal Musiala ha mostrato un lato sgradevole del club nella gestione dei propri giocatori.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1080,
+      "pubblicato": "2026-11-25T22:15:22+00:00",
+      "squadra": "Bayern"
     },
     {
       "id": "039a37e601",
@@ -1557,52 +1669,16 @@
       "squadra": "Liverpool"
     },
     {
-      "id": "2eb62eb40c",
-      "titolo": "Il Barcellona farà ricorso contro le due giornate di squalifica a Fermín López – fonti",
-      "url": "https://www.espn.com/soccer/story/_/id/50591588/fermin-lopez-barcelona-ban-appeal-sources",
-      "estratto": "Fermín López è stato sanzionato con due giornate di squalifica dopo essere stato espulso nella vittoria in rimonta del Barcellona contro il Villarreal dello scorso fine settimana.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": false,
-      "punteggio": -1080,
-      "pubblicato": "2026-11-25T15:32:36+00:00",
-      "squadra": "Barcelona"
-    },
-    {
-      "id": "315dcc811b",
-      "titolo": "Karl si prende il Bayern: senza Kane, con il Lille il peso dell’attacco è sul 18enne. Anche Olise ko",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/25-152824217/karl_si_prende_il_bayern_senza_kane_con_il_lille_il_peso_dellattacco_sul_18enne_anche_olise_ko/",
-      "estratto": "Kompany: \"Abbiamo perso 130 dei 180 gol della scorsa stagione\". Ancelotti jr fiuta il primo colpo",
-      "fonte": "Tuttosport",
+      "id": "edf6c4617e",
+      "titolo": "Il Barcellona cala il poker, vincono Liverpool e Atletico. Bayern ko con il Lilla di Davide Ancelotti",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152828798/il_barcellona_cala_il_poker_a_aggancia_il_como_villarreal_corsaro_a_praga/",
+      "estratto": "Il mercoledì della 5ª giornata di Champions League si apre con il netto successo dei catalani e si chiude con la sconfitta dei tedeschi",
+      "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "citazione": false,
       "punteggio": -1080,
-      "pubblicato": "2026-11-25T11:14:22+00:00",
-      "squadra": "Bayern"
-    },
-    {
-      "id": "edfa0e32eb",
-      "titolo": "Neto riporta il dna della sua Juve: \"Cicli diversi ma sappiamo cosa rappresentiamo e vi dico che...\"",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152845399/neto_riporta_il_dna_della_sua_juve_cicli_diversi_ma_sappiamo_cosa_rappresentiamo_e_vi_dico_che_/",
-      "estratto": "A dieci anni dall’addio, il brasiliano torna fra i titolari: \"Scendere di nuovo in campo con questa maglia è una soddisfazione immensa. Dobbiamo lottare per trovare equilibrio e consistenza\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": true,
-      "punteggio": -1130,
-      "pubblicato": "2026-11-26T08:06:46+00:00",
-      "squadra": "Juventus"
-    },
-    {
-      "id": "8500346db0",
-      "titolo": "Il Milan si prepara a spendere a gennaio: il cambio di strategia e i nuovi scenari di Cardinale",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/milan/2026/11/26-152846746/il_milan_si_prepara_a_spendere_a_gennaio_il_cambio_di_strategia_e_i_nuovi_scenari_di_cardinale/",
-      "estratto": "L'all-in del proprietario del club rossonero: si prepara a spendere 70 milioni a gennaio dopo i 160 già investiti in estate. Ma il rosso viaggia verso 140-150",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1170,
-      "pubblicato": "2026-11-26T09:31:14+00:00",
-      "squadra": "Milan"
+      "pubblicato": "2026-11-25T19:41:03+00:00",
+      "squadra": "Barcelona"
     },
     {
       "id": "a58cf0682f",
@@ -1641,6 +1717,30 @@
       "squadra": "Arsenal"
     },
     {
+      "id": "be1bc89b36",
+      "titolo": "Convocati Juve per l'Omonia: la scelta su Alajbegovic, tre giovani sorprese per Spalletti",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152851247/convocati_juve_per_l_omonia_la_scelta_su_alajbegovic_tre_giovani_sorprese_per_spalletti/",
+      "estratto": "Tra assenti, infortunati e cambi in lista UEFA: le ultime novità in vista dell'Europa league",
+      "fonte": "Tuttosport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1250,
+      "pubblicato": "2026-11-26T13:27:11+00:00",
+      "squadra": "Juventus"
+    },
+    {
+      "id": "7af021fbfa",
+      "titolo": "Marotta tra rinnovi e calciomercato: le parole in diretta prima di Inter-Stoccarda svelano nuove strategie",
+      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152838560/marotta_tra_rinnovi_e_calciomercato_le_parole_in_diretta_prima_di_inter-stoccarda_svelano_nuove_strategie/",
+      "estratto": "Il presidente del club nerazzurro a San Siro ha confermato alcuni rumors pochi minuti prima della partita di Champions League",
+      "fonte": "Corriere dello Sport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1250,
+      "pubblicato": "2026-11-25T21:03:16+00:00",
+      "squadra": "Inter Milan"
+    },
+    {
       "id": "64e9f91160",
       "titolo": "Paratici e la Roma ammutoliscono il Psg in Youth League: il racconto di un’impresa",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/youth-league/2026/11/25-152832762/paratici_e_la_roma_ammutoliscono_il_psg_in_youth_league_il_racconto_di_unimpresa/",
@@ -1653,6 +1753,30 @@
       "squadra": "AS Roma"
     },
     {
+      "id": "2eb62eb40c",
+      "titolo": "Il Barcellona farà ricorso contro le due giornate di squalifica a Fermín López – fonti",
+      "url": "https://www.espn.com/soccer/story/_/id/50591588/fermin-lopez-barcelona-ban-appeal-sources",
+      "estratto": "Fermín López è stato sanzionato con due giornate di squalifica dopo essere stato espulso nella vittoria in rimonta del Barcellona contro il Villarreal dello scorso fine settimana.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1280,
+      "pubblicato": "2026-11-25T15:32:36+00:00",
+      "squadra": "Barcelona"
+    },
+    {
+      "id": "f5710d6779",
+      "titolo": "Bayern Monaco: la salute di Jamal Musiala è la 'priorità assoluta' tra i dubbi sul contratto",
+      "url": "https://www.espn.com/soccer/story/_/id/50592045/jamal-musiala-bayern-munich-health",
+      "estratto": "Il Bayern Monaco fa sapere di aver avuto un \"incontro costruttivo\" con l'entourage di Jamal Musiala e insiste sul fatto che la salute del centrocampista sia la \"priorità assoluta\".",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": false,
+      "punteggio": -1280,
+      "pubblicato": "2026-11-25T12:37:22+00:00",
+      "squadra": "Bayern"
+    },
+    {
       "id": "c8461cab8b",
       "titolo": "L'ANALISI: Come Florian Wirtz è diventato improvvisamente la forza creativa più dominante della Premier League - dalle tattiche perfette di Andoni Iraola all'effetto Bradley Barcola al Liverpool",
       "url": "https://www.dailymail.com/sport/football/article-16317883/florian-wirtz-liverpool-form-iraola-barcola-isak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1663,42 +1787,6 @@
       "punteggio": -1280,
       "pubblicato": "2026-11-25T10:37:32+00:00",
       "squadra": "Liverpool"
-    },
-    {
-      "id": "399b030c46",
-      "titolo": "Yamal a casa, Flick non resta... azero: Barcellona col Sabah tra turnover e ambizioni",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/25-152824227/yamal_a_casa_flick_non_resta_azero_barcellona_col_sabah_tra_turnover_e_ambizioni/",
-      "estratto": "Noie alla caviglia: il tecnico tiene a riposo Lamine. De Jong: \"La nostra rosa è comunque piena di talento\"",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
-      "citazione": false,
-      "punteggio": -1280,
-      "pubblicato": "2026-11-25T09:36:00+00:00",
-      "squadra": "Barcelona"
-    },
-    {
-      "id": "c741393416",
-      "titolo": "Il Bayern ha colloqui «costruttivi» con gli agenti di Musiala sulla salute, non sui soldi",
-      "url": "https://www.espn.com/soccer/story/_/id/50583931/bayern-munich-jamal-musiala-health-contract",
-      "estratto": "La salute di Jamal Musiala, piuttosto che il suo stipendio, è stata al centro della discussione quando i dirigenti del Bayern Monaco hanno incontrato gli agenti del fuoriclasse martedì.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "citazione": true,
-      "punteggio": -1280,
-      "pubblicato": "2026-11-24T17:27:31+00:00",
-      "squadra": "Bayern"
-    },
-    {
-      "id": "4218e4af89",
-      "titolo": "Juventus, a breve la conferenza stampa di Spalletti",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juventus-breve-conferenza-stampa-spalletti-2297921",
-      "estratto": "23:17 - Luciano Spalletti, allenatore della Juventus, ha parlato in conferenza stampa al termine della sfida contro l'Omonia Nicosia .",
-      "fonte": "TMW",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1370,
-      "pubblicato": "2026-11-26T22:17:51+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "40e3c6663d",
@@ -1725,6 +1813,18 @@
       "squadra": "Man City"
     },
     {
+      "id": "554e10d077",
+      "titolo": "I convocati di Spalletti per Juve-Omonia: Alajbegovic c'è, una novità dalla Next Gen",
+      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152851149/i_convocati_di_spalletti_per_juve-omonia_alajbegovic_c_una_novit_dalla_next_gen/",
+      "estratto": "Sono ventitré i giocatori a disposizione dell'allentore dei bianconeri per la gara valida per la quinta giornata della Fase Campionato di Europa League",
+      "fonte": "Corriere dello Sport",
+      "serie": "Serie A",
+      "citazione": false,
+      "punteggio": -1450,
+      "pubblicato": "2026-11-26T12:46:16+00:00",
+      "squadra": "Juventus"
+    },
+    {
       "id": "c5b782acc8",
       "titolo": "Ti avvicini allo stadio di Parigi senza biglietto? Per i tifosi della Roma regole rigidissime, rischio carcere e multe fino a 30mila euro",
       "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152822912/ti_avvicini_allo_stadio_di_parigi_senza_biglietto_per_i_tifosi_della_roma_regole_rigidissime_rischio_carcere_e_multe_fino_/",
@@ -1737,6 +1837,30 @@
       "squadra": "AS Roma"
     },
     {
+      "id": "315dcc811b",
+      "titolo": "Karl si prende il Bayern: senza Kane, con il Lille il peso dell’attacco è sul 18enne. Anche Olise ko",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/25-152824217/karl_si_prende_il_bayern_senza_kane_con_il_lille_il_peso_dellattacco_sul_18enne_anche_olise_ko/",
+      "estratto": "Kompany: \"Abbiamo perso 130 dei 180 gol della scorsa stagione\". Ancelotti jr fiuta il primo colpo",
+      "fonte": "Tuttosport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1480,
+      "pubblicato": "2026-11-25T11:14:22+00:00",
+      "squadra": "Bayern"
+    },
+    {
+      "id": "399b030c46",
+      "titolo": "Yamal a casa, Flick non resta... azero: Barcellona col Sabah tra turnover e ambizioni",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/25-152824227/yamal_a_casa_flick_non_resta_azero_barcellona_col_sabah_tra_turnover_e_ambizioni/",
+      "estratto": "Noie alla caviglia: il tecnico tiene a riposo Lamine. De Jong: \"La nostra rosa è comunque piena di talento\"",
+      "fonte": "Tuttosport",
+      "serie": "Champions",
+      "citazione": false,
+      "punteggio": -1480,
+      "pubblicato": "2026-11-25T09:36:00+00:00",
+      "squadra": "Barcelona"
+    },
+    {
       "id": "5194c74c14",
       "titolo": "Florian Wirtz si racconta sulle chiacchierate con l'ex tecnico del Liverpool Jurgen Klopp e ringrazia Andoni Iraola dopo il ruolo da protagonista nella goleada al Man United",
       "url": "https://www.dailymail.com/sport/football/article-16318993/Florian-Wirtz-opens-chats-ex-Liverpool-boss-Jurgen-Klopp-thanks-Andoni-Iraola-starring-role-Man-United-thrashing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1747,18 +1871,6 @@
       "punteggio": -1480,
       "pubblicato": "2026-11-24T23:24:12+00:00",
       "squadra": "Liverpool"
-    },
-    {
-      "id": "42774afd46",
-      "titolo": "Poker Juve all'Omonia: la prima di Ekhator, il ritorno di Conceicao e i capolavori di Cambiaso e Boga",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152862176/poker_juve_all_omonia_la_prima_di_ekhator_il_ritorno_di_conceicao_e_i_capolavori_di_cambiaso_e_boga/",
-      "estratto": "I ciprioti passano in vantaggio con Satka, poi i bianconeri dilagano. La squadra di Spalletti si conferma al secondo posto in Europa League",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1570,
-      "pubblicato": "2026-11-26T21:57:51+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "50d3705471",
@@ -1785,16 +1897,28 @@
       "squadra": "Man City"
     },
     {
-      "id": "1df76d6c63",
-      "titolo": "Massara e Giuntoli svelano il loro calciomercato in diretta: cosa vogliono Juve e Atalanta da Ekhator e Scamacca",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/2026/11/26-152861162/massara_e_giuntoli_svelano_il_loro_calciomercato_in_diretta_cosa_vogliono_juve_e_atalanta_da_ekhator_e_scamacca/",
-      "estratto": "Le dichiarazioni dei due dirigenti prima dei rispettivi impegni europei",
-      "fonte": "Corriere dello Sport",
+      "id": "da0a40dbbd",
+      "titolo": "Creatura perfetta d’agonismo e carattere: la Juve di Tokyo 1996 era il sogno di ogni allenatore",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152845702/creatura_perfetta_dagonismo_e_carattere_la_juve_di_tokyo_1996_era_il_sogno_di_ogni_allenatore/",
+      "estratto": "La squadra che sconfisse un fortissimo River, vincendo la Coppa Intercontinentale il 26 novembre di trent'anni fa, mescolava con equilibrio artistico giocatori di qualità infinita ad agonisti tremendi ma soprattutto poteva contare su uomini veri",
+      "fonte": "Tuttosport",
       "serie": "Serie A",
       "citazione": false,
-      "punteggio": -1770,
-      "pubblicato": "2026-11-26T19:55:37+00:00",
+      "punteggio": -1650,
+      "pubblicato": "2026-11-26T10:36:37+00:00",
       "squadra": "Juventus"
+    },
+    {
+      "id": "c741393416",
+      "titolo": "Il Bayern ha colloqui «costruttivi» con gli agenti di Musiala sulla salute, non sui soldi",
+      "url": "https://www.espn.com/soccer/story/_/id/50583931/bayern-munich-jamal-musiala-health-contract",
+      "estratto": "La salute di Jamal Musiala, piuttosto che il suo stipendio, è stata al centro della discussione quando i dirigenti del Bayern Monaco hanno incontrato gli agenti del fuoriclasse martedì.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "citazione": true,
+      "punteggio": -1680,
+      "pubblicato": "2026-11-24T17:27:31+00:00",
+      "squadra": "Bayern"
     },
     {
       "id": "9ed2692324",
@@ -1809,18 +1933,6 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "f34c13d3a1",
-      "titolo": "Juve-Omonia, diretta Europa League: Eurospettacolo a Torino, Spalletti vola in classifica. Tutte le dichiarazioni",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152851463/juve-omonia_diretta_europa_league_formazioni_e_risultato_in_tempo_reale/",
-      "estratto": "I bianconeri calano il poker e continuano a macinare risultati nella fase a campionato della competizione: prima volta per Ekhator, gran gol di Cambiaso",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -1970,
-      "pubblicato": "2026-11-26T17:01:02+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "cb36a583d4",
       "titolo": "Benvenuto nel manicomio del Man United, Mauricio! I Red Devils escono dal caos contro lo Sporting Lisbona con un pareggio, mentre Senne Lammens si unisce alla banda degli autosabotatori in una partita in cui è successo di tutto, scrive CHRIS WHEELER",
       "url": "https://www.dailymail.com/sport/football/article-16320955/This-Man-United-team-capable-ridiculous-acts-self-sabotage-drive-head-coach-like-Mauricio-Pochettino-potty-Senne-Lammens-howlers-drop-two-points-Sporting-writes-CHRIS-WHEELER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1831,18 +1943,6 @@
       "punteggio": -2000,
       "pubblicato": "2026-11-26T10:01:27+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "be1bc89b36",
-      "titolo": "Convocati Juve per l'Omonia: la scelta su Alajbegovic, tre giovani sorprese per Spalletti",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152851247/convocati_juve_per_l_omonia_la_scelta_su_alajbegovic_tre_giovani_sorprese_per_spalletti/",
-      "estratto": "Tra assenti, infortunati e cambi in lista UEFA: le ultime novità in vista dell'Europa league",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -2170,
-      "pubblicato": "2026-11-26T13:27:11+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "ac2ac1c15b",
@@ -1857,18 +1957,6 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "554e10d077",
-      "titolo": "I convocati di Spalletti per Juve-Omonia: Alajbegovic c'è, una novità dalla Next Gen",
-      "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/26-152851149/i_convocati_di_spalletti_per_juve-omonia_alajbegovic_c_una_novit_dalla_next_gen/",
-      "estratto": "Sono ventitré i giocatori a disposizione dell'allentore dei bianconeri per la gara valida per la quinta giornata della Fase Campionato di Europa League",
-      "fonte": "Corriere dello Sport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -2370,
-      "pubblicato": "2026-11-26T12:46:16+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "501ad9cbfe",
       "titolo": "I costosi errori del Man United oscurano i primi passi avanti sotto la guida di Mauricio Pochettino",
       "url": "https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting",
@@ -1879,18 +1967,6 @@
       "punteggio": -2400,
       "pubblicato": "2026-11-26T01:32:43+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "da0a40dbbd",
-      "titolo": "Creatura perfetta d’agonismo e carattere: la Juve di Tokyo 1996 era il sogno di ogni allenatore",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152845702/creatura_perfetta_dagonismo_e_carattere_la_juve_di_tokyo_1996_era_il_sogno_di_ogni_allenatore/",
-      "estratto": "La squadra che sconfisse un fortissimo River, vincendo la Coppa Intercontinentale il 26 novembre di trent'anni fa, mescolava con equilibrio artistico giocatori di qualità infinita ad agonisti tremendi ma soprattutto poteva contare su uomini veri",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -2570,
-      "pubblicato": "2026-11-26T10:36:37+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "4d72302752",
@@ -1905,18 +1981,6 @@
       "squadra": "Man Utd"
     },
     {
-      "id": "2df2b65330",
-      "titolo": "Un vuoto chiamato Yildiz e una Juve da cambiare: dentro le parole di Spalletti tra Omonia e Como",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152844916/un_vuoto_chiamato_yildiz_e_una_juve_da_cambiare_dentro_le_parole_di_spalletti_tra_omonia_e_como/",
-      "estratto": "Spalletti è pronto a schierare otto giocatori diversi nella formazione titolare rispetto al match con il Venezia: \"Domenica sfida fondamentale per il nostro campionato\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -2770,
-      "pubblicato": "2026-11-26T07:43:25+00:00",
-      "squadra": "Juventus"
-    },
-    {
       "id": "6b5acdf5fe",
       "titolo": "Il gol 'strano' di Bruno Fernandes aiutato da una zolla confonde persino il fuoriclasse del Manchester United",
       "url": "https://www.espn.com/soccer/story/_/id/50598666/bruno-fernandes-goal-man-united-sporting-divot-champions-league",
@@ -1927,18 +1991,6 @@
       "punteggio": -2800,
       "pubblicato": "2026-11-26T00:43:28+00:00",
       "squadra": "Man Utd"
-    },
-    {
-      "id": "6a24b75c32",
-      "titolo": "Ekhator si prende l'attacco Juve ma il futuro è un rebus: cosa può succedere a gennaio",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152840743/ekhator_si_prende_l_attacco_juve_ma_il_futuro_un_rebus_cosa_pu_succedere_a_gennaio/",
-      "estratto": "Prima partita da titolare per l’ex punta del Genoa. Spalletti: “È una promessa, Baldini me ne parla benissimo\"",
-      "fonte": "Tuttosport",
-      "serie": "Serie A",
-      "citazione": false,
-      "punteggio": -2970,
-      "pubblicato": "2026-11-26T06:56:00+00:00",
-      "squadra": "Juventus"
     },
     {
       "id": "619d76a322",

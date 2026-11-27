@@ -1,15 +1,15 @@
 {
-  "aggiornato": "2026-11-26T22:23:27.942508+00:00",
-  "totale": 66,
+  "aggiornato": "2026-11-27T04:27:20.952577+00:00",
+  "totale": 64,
   "articoli": [
     {
-      "id": "cc9b5a35ad",
-      "titolo": "Omonia Nicosia, a breve la conferenza stampa di Berg",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/omonia-nicosia-breve-conferenza-stampa-berg-2297925",
-      "estratto": "23:19 - Henning Berg, allenatore dell'Omonia Nicosia, ha parlato in conferenza stampa al termine della sfida contro la Juventus.",
-      "fonte": "TMW",
+      "id": "e361510ccc",
+      "titolo": "Intervista a Pascal Gross: Il Brighton non è più un club di passaggio. Siamo una grande squadra e dobbiamo essere spietati, possiamo vincere ogni partita",
+      "url": "https://www.dailymail.com/sport/football/article-16321341/Pascal-Gross-interview-Brighton-Hurzeler.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "INTERVISTA ESCLUSIVA: Prima di fare ritorno al Brighton lo scorso gennaio, Pascal Gross ha avuto un colloquio franco con l'allenatore Fabian Hurzeler. Era il momento, ha detto, che il club compisse il salto di qualità.",
+      "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-26T22:19:31+00:00"
+      "pubblicato": "2026-11-27T02:00:49+00:00"
     },
     {
       "id": "0e746b232a",
@@ -18,7 +18,43 @@
       "estratto": "Qualcuno può fermare il Bournemouth? Per lunghi tratti è sembrato che la loro marcia inarrestabile sarebbe stata finalmente fermata, ma le Cherries, ridotte in 10 uomini, hanno trovato un'altra marcia per continuare la loro furia.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-26T22:14:27+00:00"
+      "pubblicato": "2026-11-27T00:33:04+00:00"
+    },
+    {
+      "id": "877ee39d65",
+      "titolo": "L'Italia che ci fa sognare fa tre su tre e vola ai sedicesimi al Mondiale U17: Uzbekistan battuto 3-1",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/italia-sognare-vola-sedicesimi-mondiale-u17-uzbekistan-battuto-3-1-2297942",
+      "estratto": "Grazie al 3-1 contro l’Uzbekistan, nella terza e ultima giornata del Gruppo E del Mondiale Under 17, in corso in Qatar fino al 13 dicembre, l'Italia va ai sedicesimi sicura di essere nelle prime otto prime, e dunque di sfidare una delle otto terze ch",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T23:38:19+00:00"
+    },
+    {
+      "id": "68943bbed9",
+      "titolo": "Torreense 1-2 Celtic: Camilo Duran si alza dalla panchina e salva di nuovo i Bhoys",
+      "url": "https://www.dailymail.com/sport/football/article-16325501/Celtic-Duran-Europe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "A circa 90 miglia a nord del teatro del momento più trionfale del club, il Celtic ha fatto in modo che la sua più recente trasferta in Portogallo non offuscasse l'eredità dei Lions di Lisbona.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T23:11:05+00:00"
+    },
+    {
+      "id": "b975966790",
+      "titolo": "Martin O'Neill loda la macchina da gol colombiana Camilo Duran mentre salva la situazione per il Celtic... ancora una volta",
+      "url": "https://www.dailymail.com/sport/football/article-16325549/Martin-ONeill-praises-Colombian-goal-machine-Camilo-Duran-saves-day-Celtic-again.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Martin O'Neill ha definito 'magnifico' Camilo Duran per aver aiutato il Celtic a vincere soffrendo contro il Torreense, mantenendo vivo il loro sogno in Europa League.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T23:04:57+00:00"
+    },
+    {
+      "id": "4385628565",
+      "titolo": "\"Alex, quale gol assomiglia al tuo di Tokyo?\": Spalletti e Del Piero, show in diretta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/26-152867706/alex_quale_gol_assomiglia_al_tuo_di_tokyo_spalletti_e_del_piero_show_in_diretta/",
+      "estratto": "Bellissimo il siparietto tra il tecnico e la leggenda Juve: clima sereno dopo la vittoria sull'Omonia in Europa League",
+      "fonte": "Tuttosport",
+      "serie": "Estero",
+      "pubblicato": "2026-11-26T23:03:10+00:00"
     },
     {
       "id": "74c4aac23c",
@@ -30,15 +66,6 @@
       "pubblicato": "2026-11-26T22:11:10+00:00"
     },
     {
-      "id": "661ccdb11b",
-      "titolo": "Cisse capocannoniere in Europa League. Il tandem juventino a una marcatura di distanza",
-      "url": "https://www.tuttomercatoweb.com/serie-a/cisse-capocannoniere-europa-league-tandem-juventino-marcatura-distanza-2297989",
-      "estratto": "Con la rete segnata all'Olympiacos, Alphadjo Cisse balza al comando della classifica marcatori di Europa League.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-26T22:07:36+00:00"
-    },
-    {
       "id": "a947412d93",
       "titolo": "Il Sunderland si lecca le ferite dopo il pareggio contro lo Jagiellonia Bialystok in Europa League",
       "url": "http://www.espn.com/soccer/report/_/gameId/401915513",
@@ -46,24 +73,6 @@
       "fonte": "ESPN",
       "serie": "Champions",
       "pubblicato": "2026-11-26T22:05:23+00:00"
-    },
-    {
-      "id": "f1edcb3bc6",
-      "titolo": "AZ super con Koopmeiners, Mateta ribalta la Real Sociedad: Europa League, i finali delle 21",
-      "url": "https://www.tuttomercatoweb.com/serie-a/az-super-koopmeiners-mateta-ribalta-real-sociedad-europa-league-finali-21-2297983",
-      "estratto": "Finiscono qui le partite delle ore 21 di Europa League, per il quinto turno di League Phase.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-26T21:57:54+00:00"
-    },
-    {
-      "id": "d60061af3d",
-      "titolo": "Succede di tutto nel finale a Banja Luka! Espulso anche Herrera, Borac in nove uomini",
-      "url": "https://www.tuttomercatoweb.com/serie-a/succede-finale-banja-luka-espulso-herrera-borac-uomini-2297978",
-      "estratto": "Sarà un finale incandescente a Banja Luka.",
-      "fonte": "TMW",
-      "serie": "Estero",
-      "pubblicato": "2026-11-26T21:46:00+00:00"
     },
     {
       "id": "2f063f33cf",
@@ -568,33 +577,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-24T08:37:39+00:00"
-    },
-    {
-      "id": "b5257afc68",
-      "titolo": "David Moyes accetta il cartellino rosso a James Tarkowski nella sconfitta dell'Everton contro il Brentford",
-      "url": "https://www.espn.com/soccer/story/_/id/50577324/david-moyes-james-tarkowski-everton-brentford",
-      "estratto": "Il tecnico dell'Everton David Moyes ha dichiarato di comprendere il motivo per cui a James Tarkowski sia stato mostrato un cartellino rosso diretto nella sconfitta per 4-0 contro il Brentford.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T23:23:34+00:00"
-    },
-    {
-      "id": "a566be5529",
-      "titolo": "UNA SVOLTA STORICA! La Scozia co-ospiterà i Mondiali femminili insieme a Inghilterra, Irlanda del Nord e Galles nel 2035",
-      "url": "https://www.dailymail.com/sport/football/article-16315925/Scotland-Women-Worldcup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Scozia, Inghilterra, Irlanda del Nord e Galles sono state confermate come paesi ospitanti congiunti dei Mondiali femminili del 2035.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T22:59:59+00:00"
-    },
-    {
-      "id": "c74f676e32",
-      "titolo": "Jack Grealish torna in campo con l'Everton per la prima volta dopo l'esclusione per aver saltato gli allenamenti senza permesso in \"violazione della disciplina del club\" - mentre l'esterno subentra dalla panchina nella sconfitta sul campo del Brentford",
-      "url": "https://www.dailymail.com/sport/football/article-16316189/Jack-Grealish-returns-Everton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Il giocatore in prestito dal Manchester City è stato punito dal club per non essersi presentato alle sessioni di allenamento e ha saltato diverse partite. Non scendeva in campo da quattro gare in totale per vari motivi.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-23T22:56:03+00:00"
     }
   ]
 }
