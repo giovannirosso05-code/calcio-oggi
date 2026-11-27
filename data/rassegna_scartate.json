@@ -1,7 +1,79 @@
 {
-  "aggiornato": "2026-11-27T14:09:47.286254+00:00",
-  "totale": 54,
+  "aggiornato": "2026-11-27T22:44:58.974992+00:00",
+  "totale": 50,
   "articoli": [
+    {
+      "id": "97a054fda4",
+      "titolo": "Ha assaporato i trofei, ha snobbato i 49ers e ha spinto Derek McInnes sulla strada del successo in panchina... ma tutto ciò che l'ex presidente del St Johnstone Geoff Brown voleva era rendere orgogliosa la gente di Perth",
+      "url": "https://www.dailymail.com/sport/football/article-16325157/Hes-savoured-silverware-snubbed-49ers-set-Derek-McInnes-path-managerial-success-former-St-Johnstone-chairman-Geoff-Brown-wanted-make-people-Perth-proud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Il fanciullo è padre dell'uomo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-27T22:32:27+00:00"
+    },
+    {
+      "id": "24bdbe473e",
+      "titolo": "LaLiga, rimonta del Racing Santander: 3-1 al Levante e sesto posto in classifica",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/laliga-rimonta-racing-santander-3-1-levante-sesto-classifica-2298306",
+      "estratto": "Un secondo tempo dal leoni premia il Racing Santander.",
+      "fonte": "TMW",
+      "serie": "Estero",
+      "pubblicato": "2026-11-27T22:12:00+00:00"
+    },
+    {
+      "id": "50a3be132a",
+      "titolo": "L'anteprima: la Scottish Cup è il banco di prova perfetto per il Clydebank e le altre, mentre un gruppo di club della Lowland League cerca di lasciare il segno",
+      "url": "https://www.dailymail.com/sport/football/article-16327535/scottish-cup-clydebank-livingston-raith-rovers-troon-ross-county-brora-rangers-morton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Se il Clydebank non sta attento, avere la meglio su squadre della SPFL diventerà presto un'aspettativa piuttosto che una speranza.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-27T21:44:57+00:00"
+    },
+    {
+      "id": "e886a21852",
+      "titolo": "Le scelte di formazione di Martin O'Neill in Europa League dicono tutto sulla palese mancanza di ambizione del Celtic",
+      "url": "https://www.dailymail.com/sport/football/article-16327299/Martin-ONeill-playing-reserve-teams-Europe-says-Celtics-glaring-lack-ambition.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Ross Desmond ha iniziato durante la tragicomica assemblea degli azionisti del Celtic della scorsa stagione, ammettendo più o meno che le finanze impongono di alzare bandiera bianca quando si cerca di competere in Europa.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-27T21:44:39+00:00"
+    },
+    {
+      "id": "6b400448f4",
+      "titolo": "Dai giovani al calcio femminile fino alla Nazionale, come si può pensare di affidarsi al duo della SFA Maxwell e Mulholland per fare progressi?",
+      "url": "https://www.dailymail.com/sport/football/article-16327233/From-youth-football-womens-game-national-team-SFA-duo-Maxwell-Mulholland-possibly-trusted-things-forward.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Con il tanto strombazzato piano della SFA per garantire più spazio in campo ai giovani ormai finito in un fosso lungo la M74, era difficile non abbozzare un sorriso amaro sentendo parlare di nuove proposte per il nuovo anno.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-27T20:30:46+00:00"
+    },
+    {
+      "id": "f1c4101bc2",
+      "titolo": "Kasper Hogh, l'enigma da 11 milioni di sterline: finché il Celtic non potrà limitare i danni con l'attaccante fuori sintonia, Martin O'Neill avrà un problema da risolvere",
+      "url": "https://www.dailymail.com/sport/football/article-16327281/kasper-hogh-celtic-martin-oneill-europa-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "Sul sito web di Pluto Data Analytics, ai potenziali clienti viene offerto un assaggio di ciò che possono aspettarsi se intraprendono una collaborazione con la società con sede a Londra.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-27T19:14:41+00:00"
+    },
+    {
+      "id": "a5371d4066",
+      "titolo": "Emery loda l'atteggiamento 'fantastico' di Garnacho nonostante l'esclusione dall'Aston Villa",
+      "url": "https://www.espn.com/soccer/story/_/id/50613029/unai-emery-alejandro-garnacho-aston-villa-respect",
+      "estratto": "Unai Emery ha elogiato l'atteggiamento dell'ormai ai margini Alejandro Garnacho e ha ribadito che non c'è alcun rancore tra i due.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-27T18:55:48+00:00"
+    },
+    {
+      "id": "5ef09e47ea",
+      "titolo": "Colin Farrell trattiene le lacrime dopo aver ricevuto in dono un \"cimelio di famiglia\" appartenuto al defunto padre e allo zio, entrambi stelle del calcio",
+      "url": "https://www.dailymail.com/sport/football/article-16326521/Colin-Farrell-fights-tears-receiving-family-heirloom-gift-late-football-star-father-uncle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'attore di Hollywood Colin Farrell si è commosso fino alle lacrime dopo aver ricevuto un dono straordinario in onore del padre calciatore e dello zio, entrambi scomparsi.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-27T16:12:53+00:00"
+    },
     {
       "id": "b6ac8a7960",
       "titolo": "La stella della Germania Manuel Neuer, 40 anni, travolto da accuse di tradimento: la moglie separata suggerisce che il portiere sia stato infedele mentre lei era incinta, mentre lui si avvicina a una fisioterapista di 23 anni",
@@ -28,15 +100,6 @@
       "fonte": "ESPN",
       "serie": "Estero",
       "pubblicato": "2026-11-27T10:07:07+00:00"
-    },
-    {
-      "id": "6efb4a1882",
-      "titolo": "Taylor si ferma per infortunio: la speranza è averlo per il derby. E Gattuso studia le nuove mosse",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/11/27-152871354/taylor_si_ferma_per_infortunio_la_speranza_averlo_per_il_derby_e_gattuso_studia_le_nuove_mosse/",
-      "estratto": "Il centrocampista ieri non si è allenato ma l’infortunio risale alla ripresa con il Lecce. Piccolo edema a una coscia: è out. Noslin da valutare",
-      "fonte": "Corriere dello Sport",
-      "serie": "Estero",
-      "pubblicato": "2026-11-27T07:43:39+00:00"
     },
     {
       "id": "e361510ccc",
@@ -282,15 +345,6 @@
       "pubblicato": "2026-11-25T20:55:46+00:00"
     },
     {
-      "id": "9d2591bcdc",
-      "titolo": "Il tecnico del Nottingham Forest Glasner attacca i giocatori che non imparano l'inglese",
-      "url": "https://www.espn.com/soccer/story/_/id/50594591/hard-work-help-nottingham-forest-chelsea-glasner",
-      "estratto": "Il tecnico del Nottingham Forest Oliver Glasner ha dichiarato che gli standard del club non erano abbastanza buoni quando ha assunto l'incarico.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-25T20:53:52+00:00"
-    },
-    {
       "id": "dc5dc01105",
       "titolo": "Raheem Sterling evita il carcere per l'incidente da 270.000 sterline in Lamborghini: la stella dell'Inghilterra riceve una condanna detentiva sospesa dopo aver dichiarato in tribunale di aver affrontato un percorso di riabilitazione di 12 giorni per il 'problema' del gas esilarante",
       "url": "https://www.dailymail.com/sport/football/article-16320565/Raheem-Sterling-arrives-court-drug-driving.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -345,15 +399,6 @@
       "pubblicato": "2026-11-25T15:37:54+00:00"
     },
     {
-      "id": "891bae63ac",
-      "titolo": "Man City avvisato: il regolatore 'ha il coraggio' di sfidare la proprietà dopo le accuse",
-      "url": "https://www.espn.com/soccer/story/_/id/50592983/man-city-charges-independent-regulator",
-      "estratto": "Il presidente del Regolatore Indipendente del Calcio afferma che la sua organizzazione \"ha il coraggio\" di affrontare i proprietari del Manchester City, qualora dovesse rendersi necessario.",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-25T14:41:01+00:00"
-    },
-    {
       "id": "409054aebd",
       "titolo": "L'ex difensore dell'Inghilterra Conor Coady emerge come candidato alla panchina del Blackpool, club di League One, ad appena due settimane dal ritiro",
       "url": "https://www.dailymail.com/sport/football/article-16321461/Conor-Coady-blackpool-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -361,15 +406,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-25T14:12:05+00:00"
-    },
-    {
-      "id": "d37fcb09c6",
-      "titolo": "Raheem Sterling evita il carcere per guida pericolosa",
-      "url": "https://www.espn.com/soccer/story/_/id/50591753/raheem-sterling-court-england-manchester-city-liverpool-chelsea",
-      "estratto": "L'ex calciatore della nazionale inglese Raheem Sterling ha evitato il carcere dopo aver ammesso di aver guidato pericolosamente la sua Lamborghini inalando da un palloncino su un'autostrada durante l'ora di punta prima di schiantarsi contro un cancel",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-25T11:53:55+00:00"
     },
     {
       "id": "6b2d4d2446",
@@ -388,15 +424,6 @@
       "fonte": "Corriere dello Sport",
       "serie": "Champions",
       "pubblicato": "2026-11-25T08:15:59+00:00"
-    },
-    {
-      "id": "96b6cadfc3",
-      "titolo": "\"È come quel c... di Busquets!\" - L'ascesa improbabile di Jules Ahoka in Premier League",
-      "url": "https://www.espn.com/espn/story/_/id/50581648/jules-ahoka-sunderland-busquets-premier-league-dr-congo",
-      "estratto": "Alla sua prima da titolare in Premier League sabato, Jules Ahoka del Sunderland ha fatto sembrare una passeggiata giocare a Villa Park. Il centrocampista congolese di 20 anni è apparso a suo agio aiutando i Black Cats a conquistare un prezioso paregg",
-      "fonte": "ESPN",
-      "serie": "Estero",
-      "pubblicato": "2026-11-25T07:13:11+00:00"
     },
     {
       "id": "d0a207e036",
@@ -424,69 +451,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-24T23:42:38+00:00"
-    },
-    {
-      "id": "09425e5aae",
-      "titolo": "Fabregas vince in Champions e regala un siparietto in diretta con Capello: \"Preoccupato? Io non ho la tua esperienza...\"",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152817799/fabregas_vince_in_champions_e_regala_un_siparietto_in_diretta_con_capello_preoccupato_io_non_ho_la_tua_esperienza_/",
-      "estratto": "Lo spagnolo è protagonista di un simpatico botta e risposta in tv dopo la vittoria del suo Como contro l'Aek Atene: \"Vivere notti così è bellissimo\"",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-24T22:34:22+00:00"
-    },
-    {
-      "id": "e6ba37da33",
-      "titolo": "Hojlund segna ed esulta come se fosse un derby: le parole ai tifosi del City dopo il gol sono uno sfottò",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/24-152815773/hojlund_segna_ed_esulta_come_se_fosse_un_derby_le_parole_ai_tifosi_del_city_dopo_il_gol_sono_uno_sfott/",
-      "estratto": "L'attaccante danese ha portato in vantaggio il Napoli all'Etihad Stadium, in Champions League: social scatenati per la sua dedica",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-24T21:40:30+00:00"
-    },
-    {
-      "id": "baac27868d",
-      "titolo": "Il Senegal CONSERVA il titolo della Coppa d'Africa: i campioni riconquistano lo scettro grazie a un clamoroso verdetto del TAS nonostante l'abbandono del campo in una finale caotica contro il Marocco",
-      "url": "https://www.dailymail.com/sport/football/article-16317621/Senegal-WIN-Africa-Cup-Nations-appeal-Title-restored-huge-CAS-verdict-Morocco-stripped-crown-following-controversial-final-saw-team-walk-pitch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "La sentenza arriva dopo una finale controversa in cui il Senegal aveva inizialmente vinto 1-0 dopo i tempi supplementari, prima che il risultato venisse ribaltato in seguito a un ricorso della Federcalcio marocchina.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T19:47:57+00:00"
-    },
-    {
-      "id": "f6d4e54ae2",
-      "titolo": "Per favore, Oliver, ce ne dai ancora? Il tecnico del Celtic Martin O'Neill dice al centrocampista danese Sorensen che è ora di alzare il livello",
-      "url": "https://www.dailymail.com/sport/football/article-16318687/Please-Oliver-Celtic-boss-Martin-ONeill-tells-Danish-midfielder-Sorensen-time-game.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Martin O'Neill ha detto a Oliver Sorensen che per lui è arrivato il momento di incidere con la maglia del Celtic.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T18:13:25+00:00"
-    },
-    {
-      "id": "1f8cdb6a6e",
-      "titolo": "Cosa pensano VERAMENTE i Glazer del Man United: IAN HERBERT rivela la spaccatura in famiglia sulla cessione del club, i rimpianti per l' 'errore' Sir Jim Ratcliffe e l'addio di Richard Arnold... e l'occasione persa per 'monetizzare'",
-      "url": "https://www.dailymail.com/sport/football/article-16317579/Glazers-Manchester-United-Jim-Ratcliffe-Arnold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Un documentario sui Tampa Bay Buccaneers dei Glazer dipinge il ritratto della famiglia e dello sport che amano. Sembra molto lontano dal Manchester United, il club che hanno portato nel baratro.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T17:03:36+00:00"
-    },
-    {
-      "id": "e84f150cbf",
-      "titolo": "I club scozzesi, egoisti, avrebbero comunque fatto in modo che la rivoluzione del settore giovanile di Craig Mulholland fosse destinata al fallimento",
-      "url": "https://www.dailymail.com/sport/football/article-16318889/Self-serving-Scottish-clubs-going-ensure-Craig-Mulhollands-youth-football-revolution-doomed-failure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "Visto quanto rapidamente le cose sono precipitate sotto la guida di Sebastien Pocognoli, ora vengono sollevati interrogativi seri su chi detiene il potere alla SFA.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T17:03:10+00:00"
-    },
-    {
-      "id": "ba06f2f46e",
-      "titolo": "SULLA STRADA: Il Clyde accoglie i suoi nuovi e rumorosi sponsor per del CALCIO HEAVY METAL",
-      "url": "https://www.dailymail.com/sport/football/article-16313551/ON-ROAD-Clyde-welcome-noisy-new-sponsors-HEAVY-METAL-FOOTBALL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "estratto": "FINO in Giappone. È un termine che i moderni complessi musicali usano per il successo all'estero.",
-      "fonte": "Daily Mail",
-      "serie": "Estero",
-      "pubblicato": "2026-11-24T16:19:20+00:00"
     }
   ]
 }
