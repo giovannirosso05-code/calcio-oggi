@@ -1,7 +1,34 @@
 {
-  "aggiornato": "2026-11-28T04:17:47.366650+00:00",
-  "totale": 48,
+  "aggiornato": "2026-11-28T13:27:50.724586+00:00",
+  "totale": 50,
   "articoli": [
+    {
+      "id": "d618dbbe7f",
+      "titolo": "L'eroe degli Hoops Duran vuole ripagare i tifosi «incredibili» del Celtic",
+      "url": "https://www.dailymail.com/sport/football/article-16328791/Celtic-Duran-Hearts-supporters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "L'attaccante del Celtic Camilo Duran è determinato a continuare a ripagare i sostenitori dopo aver già raggiunto lo status di idolo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-28T13:23:35+00:00"
+    },
+    {
+      "id": "815fdea98c",
+      "titolo": "Una stella del Southampton scatena una rissa dopo aver percorso tutto il campo per irridere i tifosi del Middlesbrough con l'esultanza del pianto, mentre gli uomini di Tonda Eckert battono i rivali storici nel primo incontro dalla scandalo dello Spygate",
+      "url": "https://www.dailymail.com/sport/football/article-16324521/southampton-middlesbrough-brawl-tonda-eckert-spygate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "BOBBY MANZI A ST MARY'S: Emulando Emmanuel Adebayor, l'ex attaccante del Boro Azaz ha trovato l'angolino basso prima di correre in modo sconsiderato verso il settore ospiti per provocarli.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-28T12:09:43+00:00"
+    },
+    {
+      "id": "e22902d4bc",
+      "titolo": "La piaga dei parastinchi ridotti in Premier League: come la diffusione di protezioni grandi come una «scheda SIM» fa arrabbiare i tifosi ed espone i giovani a gravi rischi di infortunio",
+      "url": "https://www.dailymail.com/sport/football/article-16315417/premier-league-shinpad-scourge-football-injury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "estratto": "«È una scheda SIM! È un assorbente! Prende 100.000 sterline a settimana, il club non dovrebbe pagarlo se si spacca una gamba a metà!»: questo era il tenore dei commenti sui parastinchi di Matias Fernandez-Pardo.",
+      "fonte": "Daily Mail",
+      "serie": "Estero",
+      "pubblicato": "2026-11-28T12:00:46+00:00"
+    },
     {
       "id": "b8f66bd5fb",
       "titolo": "Dietro le quinte della rinascita dello Stoke City con Mark Robins: come hanno ripulito uno spogliatoio \"tossico\", il guru medico che ha fermato l'emergenza infortuni, un esperto di mercato armato dei segreti del Brighton e perché non crolleranno come la scorsa stagione",
@@ -9,7 +36,16 @@
       "estratto": "Lo Stoke City ci è già passato. Sa cosa si prova a essere tra le squadre di testa, marciando verso il palcoscenico a cui un tempo appartenevano. Sanno anche quanto sia facile perdersi per strada.",
       "fonte": "Daily Mail",
       "serie": "Estero",
-      "pubblicato": "2026-11-28T02:00:56+00:00"
+      "pubblicato": "2026-11-28T11:33:52+00:00"
+    },
+    {
+      "id": "60f6b1c977",
+      "titolo": "Igor Jesus segna una meraviglia contro il Chelsea",
+      "url": "https://www.espn.com/video/clip/_/id/50619993/igor-jesus-nets-beauty-cheslea",
+      "estratto": "Igor Jesus realizza una rete da candidare a gol dell'anno per il Nottingham Forest nel successo per 3-2 contro il Chelsea.",
+      "fonte": "ESPN",
+      "serie": "Estero",
+      "pubblicato": "2026-11-28T09:41:32+00:00"
     },
     {
       "id": "50bbc687b2",
@@ -415,24 +451,6 @@
       "fonte": "Daily Mail",
       "serie": "Estero",
       "pubblicato": "2026-11-25T14:12:05+00:00"
-    },
-    {
-      "id": "6b2d4d2446",
-      "titolo": "Gasperini e Luis Enrique, da incompresi a vincenti: le contestazioni e i trofei",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/11/25-152824002/gasperini_e_luis_enrique_da_incompresi_a_vincenti_le_contestazioni_e_i_trofei/",
-      "estratto": "Oggi i tecnici di Roma e Psg sono maestri riconosciuti in tutta Europa. E tra i due c’è stima reciproca",
-      "fonte": "Tuttosport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-25T09:33:00+00:00"
-    },
-    {
-      "id": "45c139f134",
-      "titolo": "La lezione di Allegri",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/11/25-152823886/la_lezione_di_allegri/",
-      "estratto": "Leggi il commento sulla partita dell'Etihad Stadium e sulla strategia vincente adottata dal tecnico del Napoli, capace di sfiorare l'impresa in Champions League",
-      "fonte": "Corriere dello Sport",
-      "serie": "Champions",
-      "pubblicato": "2026-11-25T08:15:59+00:00"
     }
   ]
 }
